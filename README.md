@@ -65,7 +65,7 @@ Then add:
 
 
 ## Features
-- Digest only include topics with new articles
+- Digests only include topics with new articles
 - Fully HTML-formatted clickable email
 - Uses `User-Agent` headers for reliable RSS fetching
 - Lockfile prevents overlapping runs
