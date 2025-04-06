@@ -40,7 +40,7 @@ digest-bot/
    source ~/.bash_profile
    ```
 
-4. **Test the script.:**
+4. **Test the script:**
    ```bash
    python3 digest_bot.py
    ```
