@@ -128,7 +128,7 @@ try:
         msg["Subject"] = f"🗞️ News Digest – {datetime.now().strftime('%Y-%m-%d')}"
         msg["From"] = EMAIL_FROM
         msg["To"] = EMAIL_TO
-        msg.set_content("This is the plain-text version of your weekly digest.")
+        msg.set_content("This is the plain-text version of your news digest.")
         msg.add_alternative(html_body, subtype="html")
 
         try:
