@@ -45,7 +45,7 @@ digest-bot/
    python3 -W ignore digest_bot.py
    ```
 
-   You should receive your email digest within a few minutes.
+   You should receive your digest email within a few minutes.
 
 
 
