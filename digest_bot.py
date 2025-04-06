@@ -1,4 +1,5 @@
 # Author: Blake Rayvid <https://github.com/brayvid>
+
 #!/usr/bin/env python3
 import os
 import sys
@@ -13,6 +14,7 @@ from email.message import EmailMessage
 import xml.etree.ElementTree as ET
 import atexit
 
+# ─── Lockfile Setup ─────────────────────────────────────────────────────
 LOCKFILE = "/tmp/digest_bot.lock"
 
 if os.path.exists(LOCKFILE):
@@ -120,10 +122,10 @@ try:
 
     # ─── Send Email Digest ─────────────────────────────────────────────────
     if digest_entries:
-        html_body = "<h2>Your Daily Digest</h2>\n" + "\n".join(digest_entries)
+        html_body = "<h2>Your News Digest</h2>\n" + "\n".join(digest_entries)
 
         msg = EmailMessage()
-        msg["Subject"] = f"🗞️ Daily Digest – {datetime.now().strftime('%Y-%m-%d')}"
+        msg["Subject"] = f"🗞️ News Digest – {datetime.now().strftime('%Y-%m-%d')}"
         msg["From"] = EMAIL_FROM
         msg["To"] = EMAIL_TO
         msg.set_content("This is the plain-text version of your weekly digest.")

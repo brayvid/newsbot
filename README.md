@@ -42,7 +42,7 @@ digest-bot/
 
 4. **Test the script:**
    ```bash
-   python3 digest_bot.py
+   python3 -W ignore digest_bot.py
    ```
 
    You should receive your email digest within a few minutes.
