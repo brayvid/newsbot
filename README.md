@@ -45,7 +45,7 @@ digest-bot/
    python3 digest_bot.py
    ```
 
-   You should receive an email digest within a few minutes.
+   You should receive your email digest within a few minutes.
 
 
 
