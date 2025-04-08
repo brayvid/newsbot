@@ -20,9 +20,10 @@ from nltk.stem import PorterStemmer, WordNetLemmatizer
 import nltk
 nltk.download('wordnet')
 nltk.download('omw-1.4')
-
 stemmer = PorterStemmer()
 lemmatizer = WordNetLemmatizer()
+from dotenv import load_dotenv
+load_dotenv()
 
 # ─── Tiered Keyword Scoring ─────────────────────────────────────────────
 KEYWORD_WEIGHTS = {
@@ -121,11 +122,8 @@ try:
 
     EMAIL_FROM = os.getenv("GMAIL_USER", "").encode("ascii", "ignore").decode()
     EMAIL_TO = os.getenv("MAILTO", EMAIL_FROM).encode("ascii", "ignore").decode()
-
-    if not EMAIL_FROM or "@" not in EMAIL_FROM:
-        raise ValueError("Invalid or missing GMAIL_USER environment variable")
-
     SMTP_PASS = os.getenv("GMAIL_APP_PASSWORD", "")
+    
     SMTP_SERVER = "smtp.gmail.com"
     SMTP_PORT = 587
 
