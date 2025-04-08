@@ -10,7 +10,6 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 digest-bot/
 ├── digest_bot.py         # Main script
 ├── scored_topics.csv     # Topics and their criticality scores
-├── requirements.txt      # Script requirements
 ├── last_seen.json        # Tracks all previously sent articles (not committed)
 ├── .env                  # Email credentials (not committed)
 ├── logs/                 # Logs folder (not committed)
@@ -96,7 +95,3 @@ Then insert:
 - **HTML-formatted digest with clickable headlines**
 - **Lockfile** prevents overlapping runs
 - **`.env` + `dotenv` support** for safe credential storage
-
----
-
-Let me know if you'd like a new sample `.env`, `.gitignore`, or `requirements.txt` to go with this update!
