@@ -62,6 +62,17 @@ KEYWORD_WEIGHTS = {
     "smartphones": 1, "app development": 1, "wearable tech": 1, "IoT": 1, "cloud services": 1,
     "virtual assistants": 1, "privacy tech": 1, "sustainability": 1, "3D printing": 1
 }
+BASE_DIR = os.path.dirname(__file__)
+SCORED_TOPICS_CSV = os.path.join(BASE_DIR, "scored_topics.csv")
+
+# Load topic criticality
+topic_criticality = {}
+with open(SCORED_TOPICS_CSV, newline='', encoding='utf-8') as f:
+    reader = csv.reader(f)
+    next(reader)
+    for row in reader:
+        if len(row) >= 2:
+            topic_criticality[row[0].strip()] = int(row[1])
 
 def normalize(text):
     words = text.lower().split()
@@ -79,6 +90,9 @@ def score_text(text):
             score += weight
     score += len(norm_text.split()) // 20
     return score
+
+def combined_score(topic, article):
+    return score_text(article["title"]) * topic_criticality.get(topic, 1)
 
 def dedupe_articles(articles, threshold=0.75):
     unique = []
@@ -100,7 +114,6 @@ else:
         f.write("locked")
 
 try:
-    BASE_DIR = os.path.dirname(__file__)
     LOG_PATH = os.path.join(BASE_DIR, "logs/digest.log")
     os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)
     logging.basicConfig(filename=LOG_PATH, level=logging.INFO)
@@ -116,7 +129,8 @@ try:
     SMTP_SERVER = "smtp.gmail.com"
     SMTP_PORT = 587
 
-    TOPIC_CSV = os.path.join(BASE_DIR, "topics.csv")
+    TOPIC_CSV = SCORED_TOPICS_CSV  # Reuse the already-loaded path
+
     LAST_SEEN_FILE = os.path.join(BASE_DIR, "last_seen.json")
 
     if os.path.exists(LAST_SEEN_FILE):
@@ -125,9 +139,7 @@ try:
     else:
         last_seen = {}
 
-    with open(TOPIC_CSV, newline='', encoding='utf-8') as csvfile:
-        reader = csv.reader(csvfile)
-        topics = [row[0].strip() for row in reader if row]
+    topics = list(topic_criticality.keys())
 
     one_week_ago = datetime.utcnow() - timedelta(days=7)
     topic_articles = defaultdict(list)
@@ -150,14 +162,21 @@ try:
                     pubDate_dt = None
                 if not pubDate_dt or pubDate_dt <= one_week_ago.replace(tzinfo=ZoneInfo("UTC")):
                     continue
-                score = score_text(title)
-                if score > 0:
-                    topic_articles[topic].append({"score": score, "title": title, "link": link, "pubDate": pubDate})
+                score = combined_score(topic, {"title": title})
+                if score >= 20:
+                    topic_articles[topic].append({
+                        "score": score,
+                        "title": title,
+                        "link": link,
+                        "pubDate": pubDate
+                    })
         except Exception as e:
             logging.warning(f"Error fetching topic '{topic}': {e}")
             continue
-
-    topic_scores = [(topic, sum(article["score"] for article in articles)) for topic, articles in topic_articles.items()]
+    topic_scores = [
+       (topic, sum(article["score"] for article in articles) * topic_criticality.get(topic, 1))
+        for topic, articles in topic_articles.items()
+    ]
     top_topics = set(topic for topic, _ in sorted(topic_scores, key=lambda x: x[1], reverse=True)[:10])
     filtered_articles = {k: v for k, v in topic_articles.items() if k in top_topics}
 
