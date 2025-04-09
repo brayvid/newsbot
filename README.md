@@ -96,7 +96,7 @@ This will run daily at 8AM server time.
 
 ---
 
-## 🗞️ Sample Digest
+## 🗞️ Example Digest
 
 ### Inflation
 - **📰 [Trade War Boosts Inflation Expectations, Bank of Canada Says - Yahoo Finance](https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTdITF9QUW1LX2JJLXJVcjR0aGJKZjJVaWF6dndiMlpfcFdDYlNnWldmRTR5SDhlTnZFWHFmWmU2VFhJUUtmU19mOTR1dUVlZWhnT2RBYzVreHBiYnd2MDF4eU1BX2lmc1JNYm9vNl9kbGFNdzlUS3pIdWUwRjljWUs5Q0VDdXhvcS1qbGlR?oc=5)**  
