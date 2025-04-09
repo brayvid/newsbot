@@ -1,6 +1,6 @@
 # News Digest Bot
 
-This Python script fetches the latest Google News RSS headlines for a curated list of topics and sends a nicely formatted email digest via Gmail. It uses both a keyword scoring system and topic criticality from a CSV file, and intelligently boosts relevance using **trending topics** from a free news API. It ensures each email contains timely, non-repeating, high-priority articles. Designed to run daily using `cron` on any Unix-based system.
+This Python script fetches the latest Google News RSS headlines for a curated list of topics and sends a nicely formatted email digest via Gmail. It uses both a keyword scoring system and topic importance from a CSV file, and intelligently boosts relevance using trending topics from a free news API. It ensures each email contains timely, non-repeating, high-priority articles. Designed to run daily using `cron` on any Unix-based system.
 
 ---
 
@@ -9,7 +9,8 @@ This Python script fetches the latest Google News RSS headlines for a curated li
 ```plaintext
 digest-bot/
 ├── digest_bot.py         # Main script
-├── scored_topics.csv     # Topics and their criticality scores
+├── requirements.txt      # Requirements file
+├── scored_topics.csv     # Your topics and their importance scores
 ├── last_seen.json        # Tracks all previously sent articles (not committed)
 ├── .env                  # Email + API credentials (not committed)
 ├── logs/                 # Logs folder (not committed)
