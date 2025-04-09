@@ -2,10 +2,14 @@
 
 # ─── Configurable Parameters ─────────────────────────────────────────────
 
-TRENDING_WEIGHT = 5                 # how much to boost a topic if it's trending
-MIN_ARTICLE_SCORE = 20             # minimum combined score to include article
-MAX_TOP_TOPICS = 10                # max number of topics to include in each digest
-USE_TRENDING_TOPICS = True         # enable/disable boost from trending
+TRENDING_WEIGHT = 5         # 1–5: How much to boost a topic if it matches trending
+TOPIC_WEIGHT = 4            # 1–5: Importance of `scored_topics.csv` scores
+KEYWORD_WEIGHT = 2          # 1–5: Importance of keyword scores
+
+MIN_ARTICLE_SCORE = 20      # Minimum combined score to include article
+MAX_TOPICS = 10         # Number of topics to include in each digest
+USE_TRENDING_TOPICS = True  # Toggle trending boost
+
 
 #!/usr/bin/env python3
 import sys
@@ -131,7 +135,9 @@ def score_text(text):
     return score
 
 def combined_score(topic, article):
-    return score_text(article["title"]) * topic_criticality.get(topic, 1)
+    keyword_score = score_text(article["title"]) * KEYWORD_WEIGHT
+    topic_score = topic_criticality.get(topic, 1) * TOPIC_WEIGHT
+    return keyword_score + topic_score
 
 def dedupe_articles(articles, threshold=0.75):
     unique = []
@@ -213,7 +219,7 @@ try:
        (topic, sum(article["score"] for article in articles) * topic_criticality.get(topic, 1))
         for topic, articles in topic_articles.items()
     ]
-    top_topics = set(topic for topic, _ in sorted(topic_scores, key=lambda x: x[1], reverse=True)[:MAX_TOP_TOPICS])
+    top_topics = set(topic for topic, _ in sorted(topic_scores, key=lambda x: x[1], reverse=True)[:MAX_TOPICS])
     filtered_articles = {k: v for k, v in topic_articles.items() if k in top_topics}
 
     sent_articles = last_seen
@@ -253,7 +259,7 @@ try:
         for _, html_section in sorted(sections, key=lambda x: -x[0]):
             html_body += html_section   
         # Append config code        
-        config_code = f"(Trend boost: {TRENDING_WEIGHT}, Minimum score: {MIN_ARTICLE_SCORE}, Articles: {MAX_TOP_TOPICS})"
+        config_code = f"(Trend weight: {TRENDING_WEIGHT}, Topic weight: {TOPIC_WEIGHT}, Keyword weight: {KEYWORD_WEIGHT}, Min score: {MIN_ARTICLE_SCORE}, Max Topics: {MAX_TOPICS})"
         html_body += f"<hr><small>{config_code}</small>"    
         
         msg = EmailMessage()

@@ -13,7 +13,7 @@ digest-bot/
 ├── last_seen.json        # Tracks all previously sent articles (not committed)
 ├── .env                  # Email + API credentials (not committed)
 ├── logs/                 # Logs folder (not committed)
-│   └── digest_bot.log    # Cron + runtime logs (not committed)
+│   └── digest_bot.log    # Cron + runtime logs
 ```
 ---
 
@@ -23,9 +23,12 @@ The script uses several configurable parameters:
 
 | Parameter              | Description                                                                      |
 |------------------------|----------------------------------------------------------------------------------|
-| `TRENDING_WEIGHT`      | Amount to boost an article's score if it's found in trending topics (e.g. `1-5`) |
+| `TRENDING_WEIGHT`      | Boost added to a topic’s score if it’s found in trending news (eg. `1–5`)        |
+| `TOPIC_WEIGHT`         | Weight multiplier for topic scores from `scored_topics.csv` (eg. `1–5`)          |
+| `KEYWORD_WEIGHT`       | Weight multiplier for keyword scores (eg. `1–5`)                                 |
 | `MIN_ARTICLE_SCORE`    | Minimum combined score required to include a headline (default: `20`)            |
-| `MAX_TOP_TOPICS`       | Max number of top topics to include in the digest (default: `10`)                |
+| `MAX_TOPICS`           | Max number of top topics to include in the digest (default: `10`)                |
+| `USE_TRENDING_TOPICS`  | Enable/disable boosting topics that match trending headlines (`True` or `False`) |
 
 ---
 
@@ -98,7 +101,7 @@ This will run daily at 8AM server time.
 - **Trending awareness**: Relevance is boosted for topics matching today’s trending headlines (via `newsdata.io`).
 - **Topic importance scoring** from `scored_topics.csv`.
 - **Headline relevance scoring** using tiered keywords.
-- **Customizable scoring parameters**: Easily adjust `TRENDING_WEIGHT` ,`MIN_ARTICLE_SCORE` and `MAX_TOP_TOPICS` via constants.
+- **Customizable scoring parameters**: Easily adjust `TRENDING_WEIGHT`, `TOPIC_WEIGHT`, `KEYWORD_WEIGHT`, `MIN_ARTICLE_SCORE` and `MAX_TOP_TOPICS` via constants.
 - **Stemming + lemmatization** for smarter keyword matching.
 - **Only includes articles with high combined scores (≥ 20).**
 - **No repetition**: Remembers previously sent articles.
