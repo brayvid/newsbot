@@ -50,7 +50,7 @@ GMAIL_APP_PASSWORD=your_app_password
 MAILTO=recipient@example.com
 ```
 
-> ⚠️ You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account.
+⚠️ You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account.
 
 **Important:**  
 Add `.env` to your `.gitignore` file to prevent accidentally committing it.
@@ -63,25 +63,25 @@ Add `.env` to your `.gitignore` file to prevent accidentally committing it.
 python3 -W ignore digest_bot.py
 ```
 
-You should receive a formatted digest in your inbox.
+You should receive a formatted digest in your inbox shortly.
 
 ---
 
 ## ⏱️ Automate with Cron
 
-To send your digest every day at **8:00 AM**, add this to your crontab:
+To send your digest every day at **8:00 AM**, add an entry to your crontab:
 
 ```bash
 crontab -e
 ```
 
-Then insert:
+Then insert and save:
 
 ```bash
-0 8 * * * cd ~/digest-bot && /usr/bin/env python3 -W ignore digest_bot.py >> ~/digest-bot/logs/digest.log 2>&1
+0 8 * * * cd ~/digest-bot && /usr/bin/env python3 -W ignore digest_bot.py >> ~/digest-bot/logs/digest_bot.log 2>&1
 ```
 
-> 🕗 This runs daily at 8AM server time.
+This will run daily at 8AM server time.
 
 ---
 
