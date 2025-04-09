@@ -101,7 +101,7 @@ This will run daily at 8AM server time.
 - **Trending awareness**: Relevance is boosted for topics matching today’s trending headlines (via `newsdata.io`).
 - **Topic importance scoring** from `scored_topics.csv`.
 - **Headline relevance scoring** using tiered keywords.
-- **Customizable scoring parameters**: Easily adjust `TRENDING_WEIGHT`, `TOPIC_WEIGHT`, `KEYWORD_WEIGHT`, `MIN_ARTICLE_SCORE` and `MAX_TOP_TOPICS` via constants.
+- **Customizable scoring parameters**: Easily adjust `TRENDING_WEIGHT`, `TOPIC_WEIGHT`, `KEYWORD_WEIGHT`, `MIN_ARTICLE_SCORE` and `MAX_TOPICS` via constants.
 - **Stemming + lemmatization** for smarter keyword matching.
 - **Only includes articles with high combined scores (≥ 20).**
 - **No repetition**: Remembers previously sent articles.
