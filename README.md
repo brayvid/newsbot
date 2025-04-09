@@ -152,7 +152,8 @@ This will run daily at 8AM server time.
 
 ### Vladimir Putin
 **📰 [Russia says the future of nuclear arms control with US and others looks bleak for now - Reuters](https://www.reuters.com/world/kremlin-says-it-is-hard-imagine-talks-with-us-new-nuclear-arms-reduction-treaty-2025-04-08/)**
-  📅 *Tue, 08 Apr 2025 06:45 AM EDT* — **Score: 28**
+
+📅 *Tue, 08 Apr 2025 06:45 AM EDT* — **Score: 28**
 
 ### Public Health
 **📰 [Six people honored with 2025 GFPH Public Health Champion awards - Grand Forks Herald](https://www.grandforksherald.com/news/local/six-people-honored-with-2025-gfph-public-health-champion-awards)**
