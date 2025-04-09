@@ -1,5 +1,12 @@
 # Author: Blake Rayvid <https://github.com/brayvid>
 
+# ─── Configurable Parameters ─────────────────────────────────────────────
+
+TRENDING_WEIGHT = 5                 # how much to boost a topic if it's trending
+MIN_ARTICLE_SCORE = 20             # minimum combined score to include article
+MAX_TOP_TOPICS = 10                # max number of topics to include in each digest
+USE_TRENDING_TOPICS = True         # enable/disable boost from trending
+
 #!/usr/bin/env python3
 import sys
 import csv
@@ -104,12 +111,13 @@ if NEWS_API_KEY:
         logging.warning(f"Could not fetch trending topics: {e}")
 
 # Cross-reference trending topics (weight more heavily)
-for t in trending_topics:
-    norm_t = normalize(t)
-    for known_topic in topic_criticality:
-        norm_known = normalize(known_topic)
-        if norm_t in norm_known or norm_known in norm_t:
-            topic_criticality[known_topic] += 3  # more heavily boost trending match
+if USE_TRENDING_TOPICS:
+    for t in trending_topics:
+        norm_t = normalize(t)
+        for known_topic in topic_criticality:
+            norm_known = normalize(known_topic)
+            if norm_t in norm_known or norm_known in norm_t:
+                topic_criticality[known_topic] += TRENDING_WEIGHT
 
 NORMALIZED_KEYWORDS = { normalize(k): v for k, v in KEYWORD_WEIGHTS.items() }
 
@@ -191,7 +199,7 @@ try:
                 if not pubDate_dt or pubDate_dt <= one_week_ago.replace(tzinfo=ZoneInfo("UTC")):
                     continue
                 score = combined_score(topic, {"title": title})
-                if score >= 20:
+                if score >= MIN_ARTICLE_SCORE:
                     topic_articles[topic].append({
                         "score": score,
                         "title": title,
@@ -205,7 +213,7 @@ try:
        (topic, sum(article["score"] for article in articles) * topic_criticality.get(topic, 1))
         for topic, articles in topic_articles.items()
     ]
-    top_topics = set(topic for topic, _ in sorted(topic_scores, key=lambda x: x[1], reverse=True)[:10])
+    top_topics = set(topic for topic, _ in sorted(topic_scores, key=lambda x: x[1], reverse=True)[:MAX_TOP_TOPICS])
     filtered_articles = {k: v for k, v in topic_articles.items() if k in top_topics}
 
     sent_articles = last_seen
@@ -243,8 +251,11 @@ try:
             sections.append((top_article['score'], section_html))
 
         for _, html_section in sorted(sections, key=lambda x: -x[0]):
-            html_body += html_section
-
+            html_body += html_section   
+        # Append config code        
+        config_code = f"(Trend boost: {TRENDING_WEIGHT}, Minimum score: {MIN_ARTICLE_SCORE}, Articles: {MAX_TOP_TOPICS})"
+        html_body += f"<hr><small>{config_code}</small>"    
+        
         msg = EmailMessage()
         msg["Subject"] = f"🗞️ News Digest – {datetime.now().strftime('%Y-%m-%d') }"
         msg["From"] = EMAIL_FROM
@@ -269,4 +280,4 @@ try:
 finally:
     if os.path.exists(LOCKFILE):
         os.remove(LOCKFILE)
-    logging.info(f"Lockfile released at {datetime.now()}")
+    logging.info(f"Lockfile released at {datetime.now()}\n")

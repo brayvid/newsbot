@@ -2,7 +2,6 @@
 
 This Python script fetches the latest Google News RSS headlines for a curated list of topics and sends a nicely formatted email digest via Gmail. It uses both a keyword scoring system and topic importance from a CSV file, and intelligently boosts relevance using trending topics from a free news API. It ensures each email contains timely, non-repeating, high-priority articles. Designed to run daily using `cron` on any Unix-based system.
 
----
 
 ## 📁 Directory Structure
 
@@ -16,6 +15,17 @@ digest-bot/
 ├── logs/                 # Logs folder (not committed)
 │   └── digest_bot.log    # Cron + runtime logs (not committed)
 ```
+---
+
+## 🛠️ Configuration Parameters
+
+The script uses several configurable parameters:
+
+| Parameter              | Description                                                                      |
+|------------------------|----------------------------------------------------------------------------------|
+| `TRENDING_WEIGHT`      | Amount to boost an article's score if it's found in trending topics (e.g. `1-5`) |
+| `MIN_ARTICLE_SCORE`    | Minimum combined score required to include a headline (default: `20`)            |
+| `MAX_TOP_TOPICS`       | Max number of top topics to include in the digest (default: `10`)                |
 
 ---
 
@@ -85,58 +95,68 @@ This will run daily at 8AM server time.
 
 ## 💡 Features
 
-- **Trending awareness**: Relevance is boosted for topics matching today’s trending headlines (via `newsdata.io`)
-- **Topic importance scoring** from `scored_topics.csv`
-- **Headline relevance scoring** using tiered keywords
-- **Stemming + lemmatization** for smarter keyword matching
-- **Only includes articles with high combined scores (≥ 20)**
-- **No repetition**: Remembers previously sent articles
-- **Nicely formatted HTML email** with clickable links
-- **Lockfile** ensures no duplicate cron runs
-- **`.env` support** for Gmail and API credentials
+- **Trending awareness**: Relevance is boosted for topics matching today’s trending headlines (via `newsdata.io`).
+- **Topic importance scoring** from `scored_topics.csv`.
+- **Headline relevance scoring** using tiered keywords.
+- **Customizable scoring parameters**: Easily adjust `TRENDING_WEIGHT` ,`MIN_ARTICLE_SCORE` and `MAX_TOP_TOPICS` via constants.
+- **Stemming + lemmatization** for smarter keyword matching.
+- **Only includes articles with high combined scores (≥ 20).**
+- **No repetition**: Remembers previously sent articles.
+- **Nicely formatted HTML email** with clickable links.
+- **Lockfile** ensures no duplicate cron runs.
+- **`.env` support** for Gmail and API credentials.
 
 ---
 
 ## 🗞️ Example Digest
 
-### Inflation
-- **📰 [Trade War Boosts Inflation Expectations, Bank of Canada Says - Yahoo Finance](https://finance.yahoo.com/news/trade-war-boosts-inflation-expectations-150948435.html)**  
-  📅 *Mon, 07 Apr 2025 11:09 AM EDT* — **Score: 40**
-
-### Israel-Hamas War
-- **📰 [Hamas ready to free all hostages at once for end to war — Palestinian official - The Times of Israel](https://www.timesofisrael.com/hamas-ready-to-free-all-hostages-at-once-for-end-to-war-palestinian-official/)**  
-  📅 *Wed, 02 Apr 2025 07:20 PM EDT* — **Score: 30**
-
 ### Russian Invasion of Ukraine
-- **📰 ['Putin intends to do anything but end war': Zelenskyy claims Ukraine captured two Chinese nationals fight - Times of India](https://timesofindia.indiatimes.com/world/europe/putin-intends-to-do-anything-but-end-war-zelenskyy-claims-ukraine-captured-two-chinese-nationals-fighting-for-russia/articleshow/120097414.cms)**  
-  📅 *Tue, 08 Apr 2025 09:23 AM EDT* — **Score: 30**
+**📰 [Ukraine War, Day 1,140: 2 Chinese Soldiers Captured While Fighting For Russia’s Invasion - EA WorldView](https://eaworldview.com/2025/04/ukraine-war-2-chinese-soldiers-captured-while-fighting-for-russias-invasion/)**
 
-### War
-- **📰 ['Economic nuclear war': Some billionaires criticize Trump's tariffs - ABC News](https://abcnews.go.com/Business/economic-nuclear-war-billionaires-criticize-trumps-tariffs/story?id=120570107)**  
-  📅 *Mon, 07 Apr 2025 03:07 PM EDT* — **Score: 30**
+📅 *Wed, 09 Apr 2025 02:03 AM EDT* — **Score: 50**
 
-### Donald Trump
-- **📰 [Tracking Trump’s Tariffs and the Global Trade War - The New York Times](https://www.nytimes.com/article/trump-tariffs-canada-mexico-china.html)**  
-  📅 *Wed, 09 Apr 2025 12:41 AM EDT* — **Score: 28**
+### Inflation
+**📰 [Global Investment Banks Warn of US Recession Likelihood and Inflation Pressures - kaohoon international](https://www.kaohooninternational.com/economics/555839)**
+
+📅 *Tue, 08 Apr 2025 11:47 PM EDT* — **Score: 48**
 
 ### Cybersecurity
-- **📰 [OCC falls victim to major cybersecurity breach - American Banker](https://www.americanbanker.com/news/occ-was-hit-by-major-cybersecurity-breach)**  
-  📅 *Tue, 08 Apr 2025 03:07 PM EDT* — **Score: 25**
+**📰 [AI agents emerge as potential targets for cyberattackers - CIO Dive](https://www.ciodive.com/news/ai-agents-cybersecurity-risks/744803/)**
+
+📅 *Tue, 08 Apr 2025 04:49 PM EDT* — **Score: 45**
 
 ### Fusion Power
-- **📰 [Startup Says Its Nuclear Fusion Rocket Could Cut Time to Mars in Half - Futurism](https://futurism.com/nuclear-fusion-rocket-cut-time-mars-half)**  
-  📅 *Sun, 06 Apr 2025 11:15 AM EDT* — **Score: 25**
+**📰 [Germany is making the biggest “power play” in its energy history, investing $385 million in laser-driven inertial confinement nuclear fusion. - Farmingdale Observer](https://farmingdale-observer.com/2025/04/08/germany-is-making-the-biggest-power-play-in-its-energy-history-investing-385-million-in-laser-driven-inertial-confinement-nuclear-fusion/)**
 
-### Public Health
-- **📰 [April declared Parkinson’s Awareness Month by Laredo Public Health Department - KGNS](https://www.kgns.tv/2025/04/08/april-declared-parkinsons-awareness-month-by-laredo-public-health-department/)**  
-  📅 *Tue, 08 Apr 2025 04:27 PM EDT* — **Score: 25**
+📅 *Tue, 08 Apr 2025 09:26 PM EDT* — **Score: 40**
+
+### Israel-Hamas War
+**📰 [Israeli, Palestinian students protest Gaza war at Hebrew University of Jerusalem: ‘Stop the War’ - New York Post](https://nypost.com/2025/04/08/world-news/israeli-palestinian-students-protest-gaza-war-at-jerusalem-university/)**
+  
+📅 *Tue, 08 Apr 2025 04:05 PM EDT* — **Score: 40**
 
 ### North Korea
-- **📰 [(News Focus) 6 months into troop deployment to Russia, N. Korea rewarded with key military tech, economic aid - Yonhap News Agency](https://en.yna.co.kr/view/AEN20250409005500315)**  
-  📅 *Wed, 09 Apr 2025 12:33 AM EDT* — **Score: 24**
+**📰 [North Korean Leader's Sister Fires Nuclear Warning at Trump - Newsweek](https://www.newsweek.com/north-korea-kim-jong-un-sister-nuclear-weapons-warning-us-donald-trump-2057234)**
+
+📅 *Wed, 09 Apr 2025 02:53 AM EDT* — **Score: 40**
+
+### Donald Trump
+**📰 [Trump Tariffs Live Updates: 'Have abundant means to fight trade war,' says China as Trump tariffs come into effect - Times of India](https://timesofindia.indiatimes.com/world/us/donald-trump-tariffs-live-updates-reciprocal-tariffs-us-stock-market-china-canada-india-uk-united-states/liveblog/120104222.cms)**
+
+📅 *Wed, 09 Apr 2025 03:39 AM EDT* — **Score: 32**
+
+### Intelligence Agencies
+**📰 [Can you believe this? North Korean hackers pose as U.S developers in Fortune 500 firms, funnel millions to Kim Jong Un's nuclear weapons programs - MSN](https://www.msn.com/en-in/money/news/can-you-believe-this-north-korean-hackers-pose-as-u-s-developers-in-fortune-500-firms-funnel-millions-to-kim-jong-un-s-nuclear-weapons-programs/ar-AA1CxnG2?ocid=finance-verthp-feeds)**
+
+📅 *Tue, 08 Apr 2025 10:17 PM EDT* — **Score: 30**
 
 ### Vladimir Putin
-- **📰 [Citing war in Ukraine, dozens of groups call on NHL to reject hockey matchups with Russian league - NBC News](https://www.nbcnews.com/sports/nhl/citing-war-ukraine-dozens-groups-call-nhl-reject-hockey-matchups-russi-rcna200121)**  
-  📅 *Mon, 07 Apr 2025 06:21 PM EDT* — **Score: 24**
+**📰 [Russia says the future of nuclear arms control with US and others looks bleak for now - Reuters](https://www.reuters.com/world/kremlin-says-it-is-hard-imagine-talks-with-us-new-nuclear-arms-reduction-treaty-2025-04-08/)**
+  📅 *Tue, 08 Apr 2025 06:45 AM EDT* — **Score: 28**
+
+### Public Health
+**📰 [Six people honored with 2025 GFPH Public Health Champion awards - Grand Forks Herald](https://www.grandforksherald.com/news/local/six-people-honored-with-2025-gfph-public-health-champion-awards)**
+
+📅 *Tue, 08 Apr 2025 11:05 PM EDT* — **Score: 25**
 
 ---
