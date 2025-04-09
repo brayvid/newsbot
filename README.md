@@ -1,6 +1,6 @@
 # News Digest Bot
 
-This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest via Gmail. It prioritizes high-importance headlines using keyword and topic scoring, and ensures each email contains fresh, non-repeating articles. Designed to run daily using `cron` on any Unix-based system.
+This Python script fetches the latest Google News RSS headlines for a curated list of topics and sends a nicely formatted email digest via Gmail. It uses both a keyword scoring system and topic criticality from a CSV file, and intelligently boosts relevance using **trending topics** from a free news API. It ensures each email contains timely, non-repeating, high-priority articles. Designed to run daily using `cron` on any Unix-based system.
 
 ---
 
@@ -11,7 +11,7 @@ digest-bot/
 ├── digest_bot.py         # Main script
 ├── scored_topics.csv     # Topics and their criticality scores
 ├── last_seen.json        # Tracks all previously sent articles (not committed)
-├── .env                  # Email credentials (not committed)
+├── .env                  # Email + API credentials (not committed)
 ├── logs/                 # Logs folder (not committed)
 │   └── digest_bot.log    # Cron + runtime logs (not committed)
 ```
@@ -26,34 +26,32 @@ digest-bot/
 
 ### 2. Install dependencies
 
-Make sure you have the following installed:
-
 ```bash
 pip3 install -r requirements.txt
 ```
 
-**Or manually:**
+Or manually:
 
 ```bash
-pip3 install dotenv nltk requests
+pip3 install nltk requests python-dotenv
 ```
 
 ---
 
-### 3. Add your Gmail credentials to a `.env` file
-
-Create a file named `.env` in the project directory:
+### 3. Create a `.env` file with credentials
 
 ```env
 GMAIL_USER=your_email@gmail.com
 GMAIL_APP_PASSWORD=your_app_password
 MAILTO=recipient@example.com
+NEWSDATA_API_KEY=your_newsdata_api_key
 ```
 
-⚠️ You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account.
+- You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for Gmail.
+- Get a free API key from [newsdata.io](https://newsdata.io/).
 
-**Important:**  
-Add `.env` to your `.gitignore` file to prevent accidentally committing it.
+✅ `.env` is automatically loaded by the script.  
+✅ `.env` is excluded from version control via `.gitignore`.
 
 ---
 
@@ -63,35 +61,37 @@ Add `.env` to your `.gitignore` file to prevent accidentally committing it.
 python3 -W ignore digest_bot.py
 ```
 
-You should receive a formatted digest in your inbox shortly.
+You should receive your digest email shortly.
 
 ---
 
 ## ⏱️ Automate with Cron
 
-To send your digest every day at **8:00 AM**, add an entry to your crontab:
+To run the script every day at **8:00 AM**, add an entry to your crontab:
 
 ```bash
 crontab -e
 ```
 
-Then insert and save:
+Add:
 
 ```bash
-0 8 * * * cd ~/digest-bot && /usr/bin/env python3 -W ignore digest_bot.py >> ~/digest-bot/logs/digest_bot.log 2>&1
+0 8 * * * cd ~/news-digest-bot && /usr/bin/env python3 -W ignore digest_bot.py >> ~/news-digest-bot/logs/digest_bot.log 2>&1
 ```
-
 This will run daily at 8AM server time.
 
 ---
 
 ## 💡 Features
 
-- **Topic importance scoring** (via `scored_topics.csv`)
-- **Headline relevance scoring** using robust keyword matching
-- **Stemming + lemmatization** for smarter text comparison
-- **Only sends high-priority headlines** (score ≥ 20)
-- **De-duplication**: avoids repeating articles across runs
-- **HTML-formatted digest with clickable headlines**
-- **Lockfile** prevents overlapping runs
-- **`.env` + `dotenv` support** for safe credential storage
+- **Trending awareness**: Relevance is boosted for topics matching today’s trending headlines (via `newsdata.io`)
+- **Topic importance scoring** from `scored_topics.csv`
+- **Headline relevance scoring** using tiered keywords
+- **Stemming + lemmatization** for smarter keyword matching
+- **Only includes articles with high combined scores (≥ 20)**
+- **No repetition**: Remembers previously sent articles
+- **Nicely formatted HTML email** with clickable links
+- **Lockfile** ensures no duplicate cron runs
+- **`.env` support** for Gmail and API credentials
+
+---

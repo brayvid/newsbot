@@ -18,11 +18,12 @@ from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 import nltk
+from dotenv import load_dotenv
+
 nltk.download('wordnet')
 nltk.download('omw-1.4')
 stemmer = PorterStemmer()
 lemmatizer = WordNetLemmatizer()
-from dotenv import load_dotenv
 load_dotenv()
 
 # ─── Tiered Keyword Scoring ─────────────────────────────────────────────
@@ -63,8 +64,15 @@ KEYWORD_WEIGHTS = {
     "smartphones": 1, "app development": 1, "wearable tech": 1, "IoT": 1, "cloud services": 1,
     "virtual assistants": 1, "privacy tech": 1, "sustainability": 1, "3D printing": 1
 }
+
 BASE_DIR = os.path.dirname(__file__)
 SCORED_TOPICS_CSV = os.path.join(BASE_DIR, "scored_topics.csv")
+
+def normalize(text):
+    words = text.lower().split()
+    stemmed = [stemmer.stem(w) for w in words]
+    lemmatized = [lemmatizer.lemmatize(w) for w in stemmed]
+    return " ".join(lemmatized)
 
 # Load topic criticality
 topic_criticality = {}
@@ -75,11 +83,33 @@ with open(SCORED_TOPICS_CSV, newline='', encoding='utf-8') as f:
         if len(row) >= 2:
             topic_criticality[row[0].strip()] = int(row[1])
 
-def normalize(text):
-    words = text.lower().split()
-    stemmed = [stemmer.stem(w) for w in words]
-    lemmatized = [lemmatizer.lemmatize(w) for w in stemmed]
-    return " ".join(lemmatized)
+# Newsdata.io trending topics integration
+NEWS_API_KEY = os.getenv("NEWSDATA_API_KEY")
+trending_topics = []
+if NEWS_API_KEY:
+    try:
+        response = requests.get(
+            "https://newsdata.io/api/1/news",
+            params={
+                "apikey": NEWS_API_KEY,
+                "country": "us",
+                "language": "en",
+                "category": "top"
+            }
+        )
+        response.raise_for_status()
+        articles = response.json().get("results", [])
+        trending_topics = [article["title"] for article in articles if "title" in article]
+    except Exception as e:
+        logging.warning(f"Could not fetch trending topics: {e}")
+
+# Cross-reference trending topics (weight more heavily)
+for t in trending_topics:
+    norm_t = normalize(t)
+    for known_topic in topic_criticality:
+        norm_known = normalize(known_topic)
+        if norm_t in norm_known or norm_known in norm_t:
+            topic_criticality[known_topic] += 3  # more heavily boost trending match
 
 NORMALIZED_KEYWORDS = { normalize(k): v for k, v in KEYWORD_WEIGHTS.items() }
 
