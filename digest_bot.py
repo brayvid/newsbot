@@ -115,7 +115,7 @@ else:
         f.write("locked")
 
 try:
-    LOG_PATH = os.path.join(BASE_DIR, "logs/digest.log")
+    LOG_PATH = os.path.join(BASE_DIR, "logs/digest_bot.log")
     os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)
     logging.basicConfig(filename=LOG_PATH, level=logging.INFO)
     logging.info(f"Script started at {datetime.now()}")
