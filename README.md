@@ -13,7 +13,7 @@ digest-bot/
 ├── last_seen.json        # Tracks all previously sent articles (not committed)
 ├── .env                  # Email credentials (not committed)
 ├── logs/                 # Logs folder (not committed)
-│   └── digest.log        # Cron + runtime logs (not committed)
+│   └── digest_bot.log    # Cron + runtime logs (not committed)
 ```
 
 ---
