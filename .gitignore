@@ -1,4 +1,4 @@
 .DS_Store
 .env
 logs/
-last_seen.json
+history.json

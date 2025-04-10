@@ -1,19 +1,20 @@
+topic,weight
 Artificial Intelligence,5
-Cybersecurity,5
+Cybersecurity,3
 Fusion Power,5
-Intelligence Agencies,5
+Intelligence Agencies,3
 Israel-Hamas War,5
-Public Health,5
+Public Health,3
 Russian Invasion of Ukraine,5
-Cancer,4
-Data Science,4
+Cancer,3
+Data Science,3
 Donald Trump,4
-Financial Markets,4
-Inflation,4
-Large Language Model,4
+Financial Markets,3
+Inflation,3
+Large Language Model,3
 Machine Learning,4
 Neuroscience,4
-North Korea,4
+North Korea,3
 Quantum Mechanics,4
 Renewable Energy,4
 United Nations,4
@@ -186,7 +187,6 @@ Terrorism,2
 Tesla,2
 The Moon,2
 The Pentagon,2
-The Sun,2
 Theoretical Physics,2
 Thunderstorms,2
 Tidal Power,2
@@ -208,7 +208,6 @@ US Supreme Court,2
 Value Investing,2
 Violence,2
 Virtual Reality,2
-War,2
 War and Unrest,2
 Water on Mars,2
 Wireless Technology,2

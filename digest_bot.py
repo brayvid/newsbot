@@ -1,15 +1,15 @@
 # Author: Blake Rayvid <https://github.com/brayvid>
 
-# ─── Configurable Parameters ─────────────────────────────────────────────
+# ─── Configurable Parameters ─────────────────────────────────────────────────
 
-TRENDING_WEIGHT = 5         # 1–5: How much to boost a topic if it matches trending
-TOPIC_WEIGHT = 4            # 1–5: Importance of `scored_topics.csv` scores
-KEYWORD_WEIGHT = 2          # 1–5: Importance of keyword scores
+TREND_WEIGHT = 3                # 1–5: How much to boost a topic if it matches trending
+TOPIC_WEIGHT = 2                # 1–5: Importance of `topics.csv` scores
+KEYWORD_WEIGHT = 1              # 1–5: Importance of keyword scores 
 
-MIN_ARTICLE_SCORE = 20      # Minimum combined score to include article
-MAX_TOPICS = 10         # Number of topics to include in each digest
-USE_TRENDING_TOPICS = True  # Toggle trending boost
-
+MIN_ARTICLE_SCORE = 1           # Minimum combined score to include article
+MAX_TOPICS = 10                 # Max number of topics to include in each digest
+MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
+DEDUPLICATION_THRESHOLD = 0.7   # Similarity threshold for deduplication (0-1)
 
 #!/usr/bin/env python3
 import sys
@@ -23,13 +23,28 @@ import xml.etree.ElementTree as ET
 import requests
 import json
 import os
+import random
 from collections import defaultdict
 from difflib import SequenceMatcher
 from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 from nltk.stem import PorterStemmer, WordNetLemmatizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 import nltk
 from dotenv import load_dotenv
+
+# Load topics.csv, keywords.csv and history.json
+BASE_DIR = os.path.dirname(__file__)
+TOPICS_CSV = os.path.join(BASE_DIR, "topics.csv")
+KEYWORDS_CSV = os.path.join(BASE_DIR, "keywords.csv")
+HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
+
+# Initialize logging immediately to capture all runtime info
+log_path = os.path.join(BASE_DIR, "logs/digest_bot.log")
+os.makedirs(os.path.dirname(log_path), exist_ok=True)
+logging.basicConfig(filename=log_path, level=logging.INFO)
+logging.info(f"Script started at {datetime.now()}")
 
 nltk.download('wordnet')
 nltk.download('omw-1.4')
@@ -37,95 +52,58 @@ stemmer = PorterStemmer()
 lemmatizer = WordNetLemmatizer()
 load_dotenv()
 
-# ─── Tiered Keyword Scoring ─────────────────────────────────────────────
-KEYWORD_WEIGHTS = {
-    # Score 5 (Highest Relevance) - 5 keywords
-    "war": 5, "invasion": 5, "nuclear": 5, "pandemic": 5, "emergency": 5, 
+# Prevent concurrent runs using a lockfile
+LOCKFILE = "/tmp/digest_bot.lock"
+if os.path.exists(LOCKFILE):
+    print("Script is already running. Exiting.")
+    sys.exit()
+else:
+    with open(LOCKFILE, 'w') as f:
+        f.write("locked")
 
-    # Score 4 - 10 keywords (twice as many as Score 5)
-    "cyberattack": 4, "explosion": 4, "outbreak": 4, "recession": 4, "indictment": 4,
-    "resignation": 4, "bankruptcy": 4, "famine": 4, "flooding": 4, "terrorism": 4,
-
-    # Score 3 - 20 keywords (twice as many as Score 4)
-    "crisis": 3, "sanctions": 3, "ceasefire": 3, "layoffs": 3, "breach": 3, 
-    "scandal": 3, "fatal": 3, "heatwave": 3, "wildfire": 3, "earthquake": 3,
-    "collapse": 3, "data leak": 3, "charged": 3, "inflation": 3, "missile": 3, 
-    "protests": 3, "subpoena": 3, "legislation": 3, "executive order": 3, "drought": 3,
-
-    # Score 2 - 40 keywords (twice as many as Score 3)
-    "ransomware": 2, "record profit": 2, "launch": 2, "leaked": 2, "clinical trial": 2,
-    "vaccine": 2, "research study": 2, "IPO": 2, "quarterly report": 2, "greenhouse gases": 2,
-    "pollution": 2, "mutation": 2, "demo": 2, "historic": 2, "job cuts": 2, 
-    "staff layoffs": 2, "price hike": 2, "data breach": 2, "user privacy": 2, "stock drop": 2,
-    "restructuring": 2, "debt crisis": 2, "tech failure": 2, "displacement": 2, "education cuts": 2,
-    "income inequality": 2, "unemployment": 2, "climate change": 2, "financial crash": 2,
-    "geopolitical tensions": 2, "trade war": 2, "cybersecurity breach": 2, "political crisis": 2,
-
-    # Score 1 - 80 keywords (twice as many as Score 2)
-    "small business growth": 1, "IPO filing": 1, "quarterly earnings": 1, "market trends": 1, 
-    "new product launch": 1, "industry growth": 1, "innovation in tech": 1, "startup investment": 1,
-    "consumer demand": 1, "patent filing": 1, "social media trends": 1, "digital marketing": 1, 
-    "cloud technology": 1, "wearables": 1, "artificial intelligence": 1, "robotics": 1, 
-    "nanotechnology": 1, "space exploration": 1, "green tech": 1, "renewable energy": 1, 
-    "electronic vehicles": 1, "machine learning": 1, "quantum computing": 1, "big data": 1, 
-    "blockchain": 1, "fintech": 1, "mobile apps": 1, "cloud computing": 1, "edge computing": 1,
-    "5G technology": 1, "augmented reality": 1, "virtual reality": 1, "telemedicine": 1,
-    "smart cities": 1, "e-commerce": 1, "data analytics": 1, "cryptocurrency": 1, "bitcoin": 1,
-    "cryptocurrency mining": 1, "financial tech": 1, "self-driving cars": 1, "clean energy": 1,
-    "smartphones": 1, "app development": 1, "wearable tech": 1, "IoT": 1, "cloud services": 1,
-    "virtual assistants": 1, "privacy tech": 1, "sustainability": 1, "3D printing": 1
-}
-
-BASE_DIR = os.path.dirname(__file__)
-SCORED_TOPICS_CSV = os.path.join(BASE_DIR, "scored_topics.csv")
 
 def normalize(text):
+    # Lowercases, stems, and lemmatizes words to produce normalized text for matching.
     words = text.lower().split()
     stemmed = [stemmer.stem(w) for w in words]
     lemmatized = [lemmatizer.lemmatize(w) for w in stemmed]
     return " ".join(lemmatized)
 
-# Load topic criticality
-topic_criticality = {}
-with open(SCORED_TOPICS_CSV, newline='', encoding='utf-8') as f:
-    reader = csv.reader(f)
-    next(reader)
-    for row in reader:
-        if len(row) >= 2:
-            topic_criticality[row[0].strip()] = int(row[1])
+def load_topic_weights():
+    # Loads topic weights from topics.csv into a dictionary
+    weights = {}
+    with open(TOPICS_CSV, newline='', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        next(reader, None)
+        for row in reader:
+            if len(row) < 2 or not row[0].strip() or not row[1].strip():
+                continue
+            try:
+                weights[row[0].strip()] = int(row[1])
+            except ValueError:
+                logging.warning(f"Invalid topic weight for '{row[0].strip()}': {row[1]}")
+    return weights
 
-# Newsdata.io trending topics integration
-NEWS_API_KEY = os.getenv("NEWSDATA_API_KEY")
-trending_topics = []
-if NEWS_API_KEY:
-    try:
-        response = requests.get(
-            "https://newsdata.io/api/1/news",
-            params={
-                "apikey": NEWS_API_KEY,
-                "country": "us",
-                "language": "en",
-                "category": "top"
-            }
-        )
-        response.raise_for_status()
-        articles = response.json().get("results", [])
-        trending_topics = [article["title"] for article in articles if "title" in article]
-    except Exception as e:
-        logging.warning(f"Could not fetch trending topics: {e}")
+def load_keyword_weights():
+    # Loads keyword weights from keywords.csv into a dictionary
+    weights = {}
+    with open(KEYWORDS_CSV, newline='', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        next(reader, None)
+        for row in reader:
+            if len(row) < 2 or not row[0].strip() or not row[1].strip():
+                continue
+            try:
+                weights[row[0].strip().lower()] = int(row[1])
+            except ValueError:
+                logging.warning(f"Invalid keyword weight for '{row[0].strip()}': {row[1]}")
+    return weights
 
-# Cross-reference trending topics (weight more heavily)
-if USE_TRENDING_TOPICS:
-    for t in trending_topics:
-        norm_t = normalize(t)
-        for known_topic in topic_criticality:
-            norm_known = normalize(known_topic)
-            if norm_t in norm_known or norm_known in norm_t:
-                topic_criticality[known_topic] += TRENDING_WEIGHT
-
+KEYWORD_WEIGHTS = load_keyword_weights()
 NORMALIZED_KEYWORDS = { normalize(k): v for k, v in KEYWORD_WEIGHTS.items() }
 
 def score_text(text):
+    # Scores a text by summing keyword weights and a small bonus for length
     norm_text = normalize(text)
     score = 0
     for keyword, weight in NORMALIZED_KEYWORDS.items():
@@ -134,136 +112,279 @@ def score_text(text):
     score += len(norm_text.split()) // 20
     return score
 
-def combined_score(topic, article):
-    keyword_score = score_text(article["title"]) * KEYWORD_WEIGHT
-    topic_score = topic_criticality.get(topic, 1) * TOPIC_WEIGHT
-    return keyword_score + topic_score
+def fetch_google_top_headlines(max_articles=50):
+    # Fetches up to N top headlines from Google News RSS (US edition) within the past week
+    url = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
+    try:
+        headers = {"User-Agent": "Mozilla/5.0"}
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
 
-def dedupe_articles(articles, threshold=0.75):
-    unique = []
-    for article in sorted(articles, key=lambda x: -x["score"]):
-        if all(SequenceMatcher(None, normalize(article["title"]), normalize(seen["title"])).ratio() < threshold for seen in unique):
-            unique.append(article)
-    return unique
+        root = ET.fromstring(response.content)
+        items = root.findall("./channel/item")
+
+        one_week_ago = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=7)
+        articles = []
+
+        for item in items:
+            title = item.findtext("title") or "No title"
+            link = item.findtext("link")
+            pub_date = item.findtext("pubDate")
+
+            try:
+                pub_dt = parsedate_to_datetime(pub_date).astimezone(ZoneInfo("America/New_York"))
+            except:
+                continue
+
+            if pub_dt <= one_week_ago:
+                continue
+
+            articles.append({
+                "title": title,
+                "link": link,
+                "pubDate": pub_date,
+                "pub_dt": pub_dt
+            })
+
+            if len(articles) >= max_articles:
+                break
+
+        logging.info(f"Fetched {len(articles)} top headlines from Google News RSS.")
+        return articles
+
+    except Exception as e:
+        logging.warning(f"Failed to fetch Google top headlines: {e}")
+        return []
+
+def fetch_articles_for_topic(topic, topic_weights, keyword_weights):
+    # Searches Google News RSS for a topic and returns articles with calculated scores
+    url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
+    try:
+        headers = {"User-Agent": "Mozilla/5.0"}
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        root = ET.fromstring(response.content)
+        one_week_ago = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=7)
+        articles = []
+
+        for item in root.findall("./channel/item"):
+            title = item.findtext("title") or "No title"
+            link = item.findtext("link")
+            pubDate = item.findtext("pubDate")
+
+            try:
+                pub_dt = parsedate_to_datetime(pubDate).astimezone(ZoneInfo("America/New_York"))
+            except Exception:
+                pub_dt = None
+
+            if not pub_dt or pub_dt <= one_week_ago:
+                continue
+
+            score, topic_scores = match_article_to_topics(title, topic_weights, keyword_weights)
+            total_score = score + sum(topic_scores.values())
+
+            if total_score >= MIN_ARTICLE_SCORE:
+                articles.append({
+                    "title": title,
+                    "link": link,
+                    "pubDate": pubDate,
+                    "pub_dt": pub_dt,  # include this for efficient scoring later
+                    "score": total_score
+                })
+        logging.info(f"Found {len(articles)} articles for topic '{topic}'")
+        return articles
+
+    except Exception as e:
+        logging.warning(f"Failed to fetch articles for topic '{topic}': {e}")
+        return []
+
+def match_article_to_topics(article_title, topic_weights, keyword_weights):
+    # Evaluates topic and keyword relevance of an article title; returns total score and per-topic match scores
+    score = 0
+    normalized_title = normalize(article_title)
+
+    for keyword, weight in keyword_weights.items():
+        if keyword in normalized_title:
+            score += weight * KEYWORD_WEIGHT
+            logging.debug(f"Keyword match: '{keyword}' in '{article_title}'")
+
+    topic_match_scores = {}
+    for topic, weight in topic_weights.items():
+        normalized_topic = normalize(topic)
+        similarity = SequenceMatcher(None, normalized_title, normalized_topic).ratio()
+
+        if similarity > DEDUPLICATION_THRESHOLD:
+            topic_score = weight * TOPIC_WEIGHT
+            topic_match_scores[topic] = topic_score
+            logging.info(f"Trending match: '{article_title}' ≈ '{topic}' (sim={similarity:.2f})")
+
+    total_topic_score = sum(topic_match_scores.values())
+    return score + total_topic_score, topic_match_scores
+
+def combined_score(topic, article, topic_weights):
+    # Calculates final article score combining keyword relevance, topic weight, and a recency bonus.
+    keyword_score = score_text(article["title"]) * KEYWORD_WEIGHT
+    topic_score = topic_weights.get(topic, 1) * TOPIC_WEIGHT
+    pub_dt = article.get("pub_dt")
+    recency_score = 5 if pub_dt and pub_dt > datetime.now(ZoneInfo("America/New_York")) - timedelta(days=1) else 1
+    return (keyword_score + topic_score) * recency_score
+
+def dedupe_articles(articles, threshold=DEDUPLICATION_THRESHOLD):
+    # Removes articles with similar titles above a similarity threshold
+    unique_articles = []
+    for article in sorted(articles, key=lambda x: -x['score']):
+        if all(SequenceMatcher(None, normalize(article['title']), normalize(seen['title'])).ratio() < threshold for seen in unique_articles):
+            unique_articles.append(article)
+    return unique_articles
+
+def is_in_history(article_title, topic_key, history):
+    # Checks if a normalized article title is already in the history for a topic
+    norm_title = normalize(article_title)
+    return any(normalize(a["title"]) == norm_title for a in history.get(topic_key, []))
 
 def to_eastern(dt):
+    # Converts datetime to US Eastern Timezone
     return dt.astimezone(ZoneInfo("America/New_York"))
 
-LOCKFILE = "/tmp/digest_bot.lock"
-
-if os.path.exists(LOCKFILE):
-    print("Script is already running. Exiting.")
-    sys.exit()
-else:
-    with open(LOCKFILE, 'w') as f:
-        f.write("locked")
-
-try:
-    LOG_PATH = os.path.join(BASE_DIR, "logs/digest_bot.log")
-    os.makedirs(os.path.dirname(LOG_PATH), exist_ok=True)
-    logging.basicConfig(filename=LOG_PATH, level=logging.INFO)
-    logging.info(f"Script started at {datetime.now()}")
-
-    EMAIL_FROM = os.getenv("GMAIL_USER", "").encode("ascii", "ignore").decode()
-    EMAIL_TO = os.getenv("MAILTO", EMAIL_FROM).encode("ascii", "ignore").decode()
-    SMTP_PASS = os.getenv("GMAIL_APP_PASSWORD", "")
-    
-    SMTP_SERVER = "smtp.gmail.com"
-    SMTP_PORT = 587
-
-    TOPIC_CSV = SCORED_TOPICS_CSV  # Reuse the already-loaded path
-
-    LAST_SEEN_FILE = os.path.join(BASE_DIR, "last_seen.json")
-
-    if os.path.exists(LAST_SEEN_FILE):
-        with open(LAST_SEEN_FILE, "r") as f:
-            last_seen = json.load(f)
+# Main logic: fetch trending headlines, identify strong topic matches, fetch and score articles, deduplicate and filter, and send the digest email.
+def main():
+    """
+    Orchestrates the news digest process: detects trending topics, gathers and scores relevant news articles,
+    selects top results by topic, and emails the final digest.
+    """
+    if os.path.exists(HISTORY_FILE):
+        with open(HISTORY_FILE, "r") as f:
+            history = json.load(f)
     else:
-        last_seen = {}
+        history = {}
 
-    topics = list(topic_criticality.keys())
+    try:
+        topic_weights = load_topic_weights()
+        keyword_weights = load_keyword_weights()
+        normalized_topics = {normalize(t): t for t in topic_weights}
 
-    one_week_ago = datetime.utcnow() - timedelta(days=7)
-    topic_articles = defaultdict(list)
+        # Step 1: Get latest headlines and boost matching topics
+        latest_articles = fetch_google_top_headlines()
+        trending_boosts = defaultdict(int)
 
-    for topic in topics:
-        feed_url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
-        try:
-            headers = {"User-Agent": "Mozilla/5.0"}
-            response = requests.get(feed_url, headers=headers, timeout=10)
-            response.raise_for_status()
-
-            root = ET.fromstring(response.content)
-            for item in root.findall("./channel/item"):
-                title = item.findtext("title") or "No title"
-                link = item.findtext("link")
-                pubDate = item.findtext("pubDate")
-                try:
-                    pubDate_dt = parsedate_to_datetime(pubDate).astimezone(ZoneInfo("America/New_York"))
-                except:
-                    pubDate_dt = None
-                if not pubDate_dt or pubDate_dt <= one_week_ago.replace(tzinfo=ZoneInfo("UTC")):
-                    continue
-                score = combined_score(topic, {"title": title})
-                if score >= MIN_ARTICLE_SCORE:
-                    topic_articles[topic].append({
-                        "score": score,
-                        "title": title,
-                        "link": link,
-                        "pubDate": pubDate
-                    })
-        except Exception as e:
-            logging.warning(f"Error fetching topic '{topic}': {e}")
-            continue
-    topic_scores = [
-       (topic, sum(article["score"] for article in articles) * topic_criticality.get(topic, 1))
-        for topic, articles in topic_articles.items()
-    ]
-    top_topics = set(topic for topic, _ in sorted(topic_scores, key=lambda x: x[1], reverse=True)[:MAX_TOPICS])
-    filtered_articles = {k: v for k, v in topic_articles.items() if k in top_topics}
-
-    sent_articles = last_seen
-    if filtered_articles:
-        html_body = "<h2>Your News Digest</h2>"
-        sections = []
-        for topic, articles in filtered_articles.items():
-            deduped = dedupe_articles(articles)
-            topic_key = topic.replace(" ", "_").lower()
-            raw_history = sent_articles.get(topic_key, [])
-            if isinstance(raw_history, dict):
-                raw_history = [raw_history]
-            sent_articles[topic_key] = raw_history
-            previous_titles = {
-                normalize(a["title"]) for a in raw_history if isinstance(a, dict) and "title" in a
-            }
-            top_article = None
-            for article in deduped:
-                if normalize(article["title"]) not in previous_titles:
-                    top_article = article
-                    break
-            if not top_article:
+        for article in latest_articles:
+            title = article.get("title", "")
+            if not title:
                 continue
-            raw_history.append({
-                "title": top_article["title"],
-                "pubDate": to_eastern(parsedate_to_datetime(top_article["pubDate"])).strftime('%a, %d %b %Y %I:%M %p %Z')
-            })
-            section_html = f"<h3>{html.escape(topic)}</h3>\n"
-            section_html += f"""
-            <p>
-                📰 <a href=\"{top_article['link']}\" target=\"_blank\">{html.escape(top_article['title'])}</a><br>
-                📅 {to_eastern(parsedate_to_datetime(top_article['pubDate'])).strftime('%a, %d %b %Y %I:%M %p %Z')} — Score: {top_article['score']}
-            </p>
-            """
-            sections.append((top_article['score'], section_html))
+            norm_title = normalize(title)
+            keyword_score = score_text(title)
 
-        for _, html_section in sorted(sections, key=lambda x: -x[0]):
-            html_body += html_section   
-        # Append config code        
-        config_code = f"(Trend weight: {TRENDING_WEIGHT}, Topic weight: {TOPIC_WEIGHT}, Keyword weight: {KEYWORD_WEIGHT}, Min score: {MIN_ARTICLE_SCORE}, Max Topics: {MAX_TOPICS})"
-        html_body += f"<hr><small>{config_code}</small>"    
-        
+            for norm_topic, raw_topic in normalized_topics.items():
+                similarity = SequenceMatcher(None, norm_title, norm_topic).ratio()
+                if similarity > 0.6:
+                    trending_boosts[raw_topic] += TREND_WEIGHT + keyword_score // 10
+                    logging.info(f"Trending boost: '{title}' ≈ '{raw_topic}' (sim={similarity:.2f})")
+
+        topic_sources = {}
+
+        for topic, boost in trending_boosts.items():
+            topic_weights[topic] += boost
+            topic_sources[topic] = "latest"
+
+        # Step 2: Build limited topic list to fetch
+        topics_to_fetch = set(trending_boosts.keys())
+        remaining_slots = MAX_TOPICS - len(topics_to_fetch)
+
+        if remaining_slots > 0:
+            fallback_candidates = sorted(
+                (t for t in topic_weights if t not in topics_to_fetch),
+                key=lambda t: -topic_weights[t]
+            )
+            for t in fallback_candidates:
+                topics_to_fetch.add(t)
+                topic_sources[t] = "user"
+                if len(topics_to_fetch) >= MAX_TOPICS:
+                    break
+
+        # Step 3: Fetch articles only for selected topics
+        all_articles = {}
+        for topic in topics_to_fetch:
+            articles = fetch_articles_for_topic(topic, topic_weights, keyword_weights)
+            if articles:
+                deduped = dedupe_articles(articles)
+                for a in deduped:
+                    a["score"] = combined_score(topic, a, topic_weights)
+                all_articles[topic] = sorted(deduped, key=lambda x: -x["score"])
+
+        # Debug log
+        # for topic, arts in all_articles.items():
+        #     logging.info(f"Topic '{topic}' has {len(arts)} scored articles. Top score: {arts[0]['score'] if arts else 'N/A'}")
+
+        # Step 4: Score and prioritize topics for the digest
+        digest_topics = sorted(
+            [(t, sum(a["score"] for a in all_articles.get(t, [])))
+             for t in topics_to_fetch if all_articles.get(t)],
+            key=lambda x: -x[1]
+        )[:MAX_TOPICS]
+
+        digest = {}
+        for topic, _ in digest_topics:
+            # Get sorted & deduped articles for this topic
+            articles = all_articles.get(topic, [])
+
+            # Filter out articles that have already been emailed
+            topic_key = topic.replace(" ", "_").lower()
+            seen_titles = {normalize(a["title"]) for a in history.get(topic_key, [])}
+            articles = [a for a in articles if normalize(a["title"]) not in seen_titles]
+
+            if not articles:
+                continue
+            
+            # Introduce small variation to get fresh combos
+            start_index = random.randint(0, min(2, len(articles) - 1))
+            articles = articles[start_index:start_index + 5]
+
+            # TFIDF deduplication
+            titles = [a["title"] for a in articles]
+            tfidf = TfidfVectorizer().fit_transform(titles)
+            sim_matrix = cosine_similarity(tfidf)
+
+            # Select top-scoring articles for this topic, ensuring low similarity and capping at MAX_ARTICLES_PER_TOPIC
+            selected = []
+            for i in range(len(articles)):
+                if len(selected) >= MAX_ARTICLES_PER_TOPIC:
+                    break
+                if i == 0 or all(sim_matrix[i][j] < 0.7 for j in range(i)):
+                    selected.append(articles[i])
+
+            digest[topic] = selected
+
+        # logging.info(f"Digest content: {json.dumps(digest, indent=2, default=str)}")
+
+        if not digest:
+            logging.info("No articles met criteria. Skipping email.")
+            return
+
+        # Step 5: Compose and send email
+        EMAIL_FROM = os.getenv("GMAIL_USER", "").encode("ascii", "ignore").decode()
+        EMAIL_TO = os.getenv("MAILTO", EMAIL_FROM).encode("ascii", "ignore").decode()
+        SMTP_PASS = os.getenv("GMAIL_APP_PASSWORD", "")
+        SMTP_SERVER = "smtp.gmail.com"
+        SMTP_PORT = 587
+
+        html_body = "<h2>Your News Digest</h2>"
+        for topic, articles in sorted(digest.items(), key=lambda x: -sum(a['score'] for a in x[1])):
+            section = f"<h3>{html.escape(topic)}</h3>\n"
+            for article in articles:
+                pub_dt = to_eastern(parsedate_to_datetime(article["pubDate"]))
+                section += f"""
+                <p>
+                    📰 <a href="{article['link']}" target="_blank">{html.escape(article['title'])}</a><br>
+                    📅 {pub_dt.strftime('%a, %d %b %Y %I:%M %p %Z')} — Score: {article['score']}
+                </p>
+                """
+            html_body += section
+
+        config_code = f"(Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Article Score: {MIN_ARTICLE_SCORE}, Topics: {MAX_TOPICS}, Articles per Topic: {MAX_ARTICLES_PER_TOPIC})"
+        html_body += f"<hr><small>{config_code}</small>"
+
         msg = EmailMessage()
-        msg["Subject"] = f"🗞️ News Digest – {datetime.now().strftime('%Y-%m-%d') }"
+        msg["Subject"] = f"🗞️ News Digest – {datetime.now(ZoneInfo('America/New_York')).strftime('%Y-%m-%d %I:%M %p %Z')}"
         msg["From"] = EMAIL_FROM
         msg["To"] = EMAIL_TO
         msg.set_content("This is the plain-text version of your digest.")
@@ -275,15 +396,34 @@ try:
                 server.login(EMAIL_FROM, SMTP_PASS)
                 server.send_message(msg)
             logging.info("Digest email sent successfully.")
+
+            for topic, articles in digest.items():
+                key = topic.replace(" ", "_").lower()
+                if key not in history:
+                    history[key] = []
+                existing_titles = {normalize(a["title"]) for a in history[key]}
+                for article in articles:
+                    if normalize(article["title"]) not in existing_titles:
+                        history[key].append({
+                            "title": article["title"],
+                            "pubDate": article["pubDate"]
+                        })
+                history[key] = history[key][-40:]
+
         except Exception as e:
-            logging.error(f"Failed to send email: {e}")
-    else:
-        logging.info("No high-priority articles to send.")
+            logging.error(f"Email failed: {e}")
 
-    with open(LAST_SEEN_FILE, "w") as f:
-        json.dump(sent_articles, f, indent=2)
+        with open(HISTORY_FILE, "w") as f:
+            json.dump(history, f, indent=2)
 
-finally:
-    if os.path.exists(LOCKFILE):
-        os.remove(LOCKFILE)
-    logging.info(f"Lockfile released at {datetime.now()}\n")
+    finally:
+        if os.path.exists(LOCKFILE):
+            os.remove(LOCKFILE)
+        logging.info(f"Lockfile released at {datetime.now()}")
+
+if __name__ == "__main__":
+    main()
+
+
+
+

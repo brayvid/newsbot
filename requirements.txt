@@ -1,3 +1,4 @@
-nltk>=3.9.1
-requests>=2.32.3
-python-dotenv>=1.1.0
+requests
+nltk
+scikit-learn
+python-dotenv
