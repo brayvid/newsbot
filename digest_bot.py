@@ -1,4 +1,4 @@
-# Author: Blake Rayvid <https://github.com/brayvid>
+# Author: Blake Rayvid <https://github.com/brayvid/news-digest-bot>
 
 # ─── Configurable Parameters ─────────────────────────────────────────────────
 
@@ -31,7 +31,6 @@ from email.utils import parsedate_to_datetime
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-import nltk
 from dotenv import load_dotenv
 
 # Load topics.csv, keywords.csv and history.json
@@ -46,11 +45,26 @@ os.makedirs(os.path.dirname(log_path), exist_ok=True)
 logging.basicConfig(filename=log_path, level=logging.INFO)
 logging.info(f"Script started at {datetime.now()}")
 
-nltk.download('wordnet')
-nltk.download('omw-1.4')
 stemmer = PorterStemmer()
 lemmatizer = WordNetLemmatizer()
 load_dotenv()
+
+from nltk.data import find
+import nltk
+# Add the path just in case:
+nltk.data.path.append("~/nltk-data")
+
+def ensure_nltk_data():
+    for resource in ['wordnet', 'omw-1.4']:
+        try:
+            find(f'corpora/{resource}')
+        except LookupError:
+            try:
+                nltk.download(resource)
+            except Exception as e:
+                print(f"Failed to download {resource}: {e}")
+
+ensure_nltk_data()
 
 # Prevent concurrent runs using a lockfile
 LOCKFILE = "/tmp/digest_bot.lock"
@@ -248,10 +262,6 @@ def to_eastern(dt):
 
 # Main logic: fetch trending headlines, identify strong topic matches, fetch and score articles, deduplicate and filter, and send the digest email.
 def main():
-    """
-    Orchestrates the news digest process: detects trending topics, gathers and scores relevant news articles,
-    selects top results by topic, and emails the final digest.
-    """
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r") as f:
             history = json.load(f)
@@ -369,18 +379,20 @@ def main():
 
         html_body = "<h2>Your News Digest</h2>"
         for topic, articles in sorted(digest.items(), key=lambda x: -sum(a['score'] for a in x[1])):
-            section = f"<h3>{html.escape(topic)}</h3>\n"
+            
+            section = f'<h3 style="margin: 0 0 0 0;">{html.escape(topic)}</h3>'
             for article in articles:
                 pub_dt = to_eastern(parsedate_to_datetime(article["pubDate"]))
-                section += f"""
-                <p>
-                    📰 <a href="{article['link']}" target="_blank">{html.escape(article['title'])}</a><br>
-                    📅 {pub_dt.strftime('%a, %d %b %Y %I:%M %p %Z')} — Score: {article['score']}
-                </p>
-                """
+                section += (
+                    f'<p style="margin: 0.4em 0 1.2em 0;">'
+                    f'📰 <a href="{article["link"]}" target="_blank">{html.escape(article["title"])}</a><br>'
+                    f'📅 {pub_dt.strftime("%a, %d %b %Y %I:%M %p %Z")} — Score: {article["score"]}'
+                    f'</p>'
+                )
+
             html_body += section
 
-        config_code = f"(Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Article Score: {MIN_ARTICLE_SCORE}, Topics: {MAX_TOPICS}, Articles per Topic: {MAX_ARTICLES_PER_TOPIC})"
+        config_code = f"(Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Article Score: {MIN_ARTICLE_SCORE})"
         html_body += f"<hr><small>{config_code}</small>"
 
         msg = EmailMessage()
