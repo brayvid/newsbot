@@ -77,13 +77,13 @@ cd news-digest-bot
 ### 2. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Or manually:
 
 ```bash
-pip install nltk requests python-dotenv scikit-learn
+pip3 install nltk requests python-dotenv scikit-learn
 ```
 
 
