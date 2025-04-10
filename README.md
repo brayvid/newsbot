@@ -115,7 +115,7 @@ pip3 install nltk requests python-dotenv scikit-learn
 ## Running the Script
 
 ```bash
-python -W ignore digest_bot.py
+python3 -W ignore digest_bot.py
 ```
 
 To automate daily delivery:
