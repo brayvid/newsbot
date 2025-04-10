@@ -1,6 +1,6 @@
 # News Digest Bot
 
-This script compiles a daily email digest of news articles matched to a user's priority topics and keywords. It fetches top headlines from Google News RSS, scores them for relevance, deduplicates similar stories, and sends the results via email.
+This script compiles an email digest of news articles matched to a user's priority topics and keywords. It fetches top headlines from Google News RSS, scores them for relevance, deduplicates similar stories, and sends the results via email.
 
 ---
 
@@ -130,7 +130,7 @@ Add a line like the following:
 0 8 * * * cd /path/to/news-digest-bot && /usr/bin/env python3 -W ignore digest_bot.py >> logs/digest_bot.log 2>&1
 ```
 
-This example runs the script every day at 8:00 AM server time.
+This runs the script every day at 8:00 AM server time.
 
 ---
 
