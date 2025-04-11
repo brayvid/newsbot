@@ -2,8 +2,8 @@
 
 # ─── Configurable Parameters ─────────────────────────────────────────────────
 
-TREND_WEIGHT = 3                # 1–5: How much to boost a topic if it matches trending
-TOPIC_WEIGHT = 2                # 1–5: Importance of `topics.csv` scores
+TREND_WEIGHT = 2                # 1–5: How much to boost a topic if it matches trending
+TOPIC_WEIGHT = 3                # 1–5: Importance of `topics.csv` scores
 KEYWORD_WEIGHT = 1              # 1–5: Importance of keyword scores 
 
 MIN_ARTICLE_SCORE = 1           # Minimum combined score to include article
@@ -392,7 +392,7 @@ def main():
 
             html_body += section
 
-        config_code = f"[Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Score: {MIN_ARTICLE_SCORE}]"
+        config_code = f"[Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Score: {MIN_ARTICLE_SCORE}, Max Similarity: {DEDUPLICATION_THRESHOLD}, Topics: {MAX_TOPICS}]"
         html_body += f"<hr><small>{config_code}</small>"
 
         msg = EmailMessage()
