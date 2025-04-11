@@ -7,7 +7,7 @@ TOPIC_WEIGHT = 2                # 1–5: Importance of `topics.csv` scores
 KEYWORD_WEIGHT = 1              # 1–5: Importance of keyword scores 
 
 MIN_ARTICLE_SCORE = 1           # Minimum combined score to include article
-MAX_TOPICS = 10                 # Max number of topics to include in each digest
+MAX_TOPICS = 20                 # Max number of topics to include in each digest
 MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
 DEDUPLICATION_THRESHOLD = 0.7   # Similarity threshold for deduplication (0-1)
 
@@ -286,7 +286,7 @@ def main():
 
             for norm_topic, raw_topic in normalized_topics.items():
                 similarity = SequenceMatcher(None, norm_title, norm_topic).ratio()
-                if similarity > 0.6:
+                if similarity > DEDUPLICATION_THRESHOLD:
                     trending_boosts[raw_topic] += TREND_WEIGHT + keyword_score // 10
                     logging.info(f"Trending boost: '{title}' ≈ '{raw_topic}' (sim={similarity:.2f})")
 
@@ -359,7 +359,7 @@ def main():
             for i in range(len(articles)):
                 if len(selected) >= MAX_ARTICLES_PER_TOPIC:
                     break
-                if i == 0 or all(sim_matrix[i][j] < 0.7 for j in range(i)):
+                if i == 0 or all(sim_matrix[i][j] < DEDUPLICATION_THRESHOLD for j in range(i)):
                     selected.append(articles[i])
 
             digest[topic] = selected
@@ -386,13 +386,13 @@ def main():
                 section += (
                     f'<p style="margin: 0.4em 0 1.2em 0;">'
                     f'📰 <a href="{article["link"]}" target="_blank">{html.escape(article["title"])}</a><br>'
-                    f'📅 {pub_dt.strftime("%a, %d %b %Y %I:%M %p %Z")} — Score: {article["score"]}'
+                    f'<span style="font-size: 0.9em;">📅 {pub_dt.strftime("%a, %d %b %Y %I:%M %p %Z")} — Score: {article["score"]}</span>'
                     f'</p>'
                 )
 
             html_body += section
 
-        config_code = f"(Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Article Score: {MIN_ARTICLE_SCORE})"
+        config_code = f"[Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Score: {MIN_ARTICLE_SCORE}]"
         html_body += f"<hr><small>{config_code}</small>"
 
         msg = EmailMessage()

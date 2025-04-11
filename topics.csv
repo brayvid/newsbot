@@ -1,12 +1,14 @@
 topic,weight
 Artificial Intelligence,5
 Cybersecurity,3
-Fusion Power,5
-Intelligence Agencies,3
-Israel-Hamas War,5
+Fusion Power,4
+Intelligence Agencies,2
+Israel,3
+Hamas,2
 Public Health,3
-Russian Invasion of Ukraine,5
-Cancer,3
+Russia,3
+Ukraine,3
+Cancer,2
 Data Science,3
 Donald Trump,4
 Financial Markets,3
@@ -56,7 +58,7 @@ Bitcoin,2
 Blockchain,2
 Business,2
 Chemistry,2
-China,2
+China,3
 Chris Murphy,2
 Climate,2
 Climate Engineering,2
@@ -164,7 +166,7 @@ Quantum Computer,2
 Quantum Engineering,2
 Quantum Information Science,2
 Rain Forests,2
-Recession,2
+Recession,3
 Research,2
 Research and Development,2
 Risk Management,2
@@ -215,7 +217,7 @@ World Economy,2
 World News,2
 World Politics,2
 World Wide Web,2
-Asteroids,1
-Earth's Magnetic Field,1
-Oceans,1
-Venture Capital,1
+Asteroids,2
+Earth's Magnetic Field,2
+Oceans,2
+Venture Capital,2
