@@ -2,8 +2,8 @@
 
 # ─── Configurable Parameters ─────────────────────────────────────────────────
 
-TREND_WEIGHT = 2                # 1–5: How much to boost a topic if it matches trending
-TOPIC_WEIGHT = 3                # 1–5: Importance of `topics.csv` scores
+TREND_WEIGHT = 3                # 1–5: How much to boost a topic if it matches trending
+TOPIC_WEIGHT = 2                # 1–5: Importance of `topics.csv` scores
 KEYWORD_WEIGHT = 1              # 1–5: Importance of keyword scores 
 
 MIN_ARTICLE_SCORE = 1           # Minimum combined score to include article
@@ -377,7 +377,7 @@ def main():
         SMTP_SERVER = "smtp.gmail.com"
         SMTP_PORT = 587
 
-        html_body = "<h2>Your News Digest</h2>"
+        html_body = "<h2>Your News</h2>"
         for topic, articles in sorted(digest.items(), key=lambda x: -sum(a['score'] for a in x[1])):
             
             section = f'<h3 style="margin: 0 0 0 0;">{html.escape(topic)}</h3>'
@@ -396,7 +396,7 @@ def main():
         html_body += f"<hr><small>{config_code}</small>"
 
         msg = EmailMessage()
-        msg["Subject"] = f"🗞️ News Digest – {datetime.now(ZoneInfo('America/New_York')).strftime('%Y-%m-%d %I:%M %p %Z')}"
+        msg["Subject"] = f"🗞️ News – {datetime.now(ZoneInfo('America/New_York')).strftime('%Y-%m-%d %I:%M %p %Z')}"
         msg["From"] = EMAIL_FROM
         msg["To"] = EMAIL_TO
         msg.set_content("This is the plain-text version of your digest.")
