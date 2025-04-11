@@ -392,7 +392,7 @@ def main():
 
             html_body += section
 
-        config_code = f"[Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Score: {MIN_ARTICLE_SCORE}, Max Similarity: {DEDUPLICATION_THRESHOLD}, Topics: {MAX_TOPICS}]"
+        config_code = f"(Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Score: {MIN_ARTICLE_SCORE}, Max Similarity: {DEDUPLICATION_THRESHOLD}, Topics: {MAX_TOPICS})"
         html_body += f"<hr><small>{config_code}</small>"
 
         msg = EmailMessage()
