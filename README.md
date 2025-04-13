@@ -27,12 +27,12 @@ Each headline is scored based on how well it matches entries from these two file
 1. **Configuration and Data Loading**
    - Loads:
      - `topics.csv` – e.g., `Artificial Intelligence,5`
-     - `keywords.csv` – e.g., `nuclear,4`
+     - `keywords.csv` – e.g., `war,5`
      - `history.json` – to avoid repeating headlines already sent
      - Environment variables from `.env` for email delivery
 
 2. **Headline Matching**
-   - Only the article's **headline text** is analyzed.
+   - The latest 50 headlines for your topics are retrieved via RSS.
    - Headlines are:
      - Lowercased
      - Stemmed and lemmatized
@@ -44,7 +44,7 @@ Each headline is scored based on how well it matches entries from these two file
      - Matches to topics (`TOPIC_WEIGHT`)
      - Matches to current top headlines (`TREND_WEIGHT`)
      - Recency bonus for newer headlines
-   - Headlines must meet or exceed `MIN_ARTICLE_SCORE` to be considered.
+   - Headlines must meet or exceed `MIN_ARTICLE_SCORE` to be included.
 
 4. **Topic and Article Filtering**
    - Up to `MAX_TOPICS` are selected per run.
