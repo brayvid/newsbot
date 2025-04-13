@@ -1,6 +1,6 @@
 # News Digest Bot
 
-**News Digest Bot** is a Python automation script that compiles a personalized news digest by matching **headline text** against two user-defined CSV files:
+**News Digest Bot** is a Python automation script that compiles a personalized news digest by matching headline text against two user-defined CSV files:
 
 - `topics.csv` – A list of topics with importance weights.
 - `keywords.csv` – A list of keywords with importance weights.
