@@ -49,9 +49,9 @@ stemmer = PorterStemmer()
 lemmatizer = WordNetLemmatizer()
 load_dotenv()
 
+# Download nltk resources
 from nltk.data import find
 import nltk
-# Add the path just in case:
 nltk.data.path.append("~/nltk-data")
 
 def ensure_nltk_data():
@@ -75,16 +75,15 @@ else:
     with open(LOCKFILE, 'w') as f:
         f.write("locked")
 
-
+# Lowercases, stems, and lemmatizes words to produce normalized text for matching.
 def normalize(text):
-    # Lowercases, stems, and lemmatizes words to produce normalized text for matching.
     words = text.lower().split()
     stemmed = [stemmer.stem(w) for w in words]
     lemmatized = [lemmatizer.lemmatize(w) for w in stemmed]
     return " ".join(lemmatized)
 
+# Loads topic weights from topics.csv into a dictionary
 def load_topic_weights():
-    # Loads topic weights from topics.csv into a dictionary
     weights = {}
     with open(TOPICS_CSV, newline='', encoding='utf-8') as f:
         reader = csv.reader(f)
@@ -98,8 +97,8 @@ def load_topic_weights():
                 logging.warning(f"Invalid topic weight for '{row[0].strip()}': {row[1]}")
     return weights
 
+# Loads keyword weights from keywords.csv into a dictionary
 def load_keyword_weights():
-    # Loads keyword weights from keywords.csv into a dictionary
     weights = {}
     with open(KEYWORDS_CSV, newline='', encoding='utf-8') as f:
         reader = csv.reader(f)
@@ -116,8 +115,8 @@ def load_keyword_weights():
 KEYWORD_WEIGHTS = load_keyword_weights()
 NORMALIZED_KEYWORDS = { normalize(k): v for k, v in KEYWORD_WEIGHTS.items() }
 
+# Scores a text by summing keyword weights and a small bonus for length
 def score_text(text):
-    # Scores a text by summing keyword weights and a small bonus for length
     norm_text = normalize(text)
     score = 0
     for keyword, weight in NORMALIZED_KEYWORDS.items():
@@ -126,8 +125,8 @@ def score_text(text):
     score += len(norm_text.split()) // 20
     return score
 
+# Fetches up to N top headlines from Google News RSS (US edition) within the past week
 def fetch_google_top_headlines(max_articles=50):
-    # Fetches up to N top headlines from Google News RSS (US edition) within the past week
     url = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
@@ -170,8 +169,8 @@ def fetch_google_top_headlines(max_articles=50):
         logging.warning(f"Failed to fetch Google top headlines: {e}")
         return []
 
+# Searches Google News RSS for a topic and returns articles with calculated scores
 def fetch_articles_for_topic(topic, topic_weights, keyword_weights):
-    # Searches Google News RSS for a topic and returns articles with calculated scores
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
@@ -212,8 +211,8 @@ def fetch_articles_for_topic(topic, topic_weights, keyword_weights):
         logging.warning(f"Failed to fetch articles for topic '{topic}': {e}")
         return []
 
+# Evaluates topic and keyword relevance of an article title; returns total score and per-topic match scores
 def match_article_to_topics(article_title, topic_weights, keyword_weights):
-    # Evaluates topic and keyword relevance of an article title; returns total score and per-topic match scores
     score = 0
     normalized_title = normalize(article_title)
 
@@ -235,29 +234,29 @@ def match_article_to_topics(article_title, topic_weights, keyword_weights):
     total_topic_score = sum(topic_match_scores.values())
     return score + total_topic_score, topic_match_scores
 
+# Calculates final article score combining keyword relevance, topic weight, and a recency bonus.
 def combined_score(topic, article, topic_weights):
-    # Calculates final article score combining keyword relevance, topic weight, and a recency bonus.
     keyword_score = score_text(article["title"]) * KEYWORD_WEIGHT
     topic_score = topic_weights.get(topic, 1) * TOPIC_WEIGHT
     pub_dt = article.get("pub_dt")
     recency_score = 5 if pub_dt and pub_dt > datetime.now(ZoneInfo("America/New_York")) - timedelta(days=1) else 1
     return (keyword_score + topic_score) * recency_score
 
+# Removes articles with similar titles above a similarity threshold
 def dedupe_articles(articles, threshold=DEDUPLICATION_THRESHOLD):
-    # Removes articles with similar titles above a similarity threshold
     unique_articles = []
     for article in sorted(articles, key=lambda x: -x['score']):
         if all(SequenceMatcher(None, normalize(article['title']), normalize(seen['title'])).ratio() < threshold for seen in unique_articles):
             unique_articles.append(article)
     return unique_articles
 
+# Checks if a normalized article title is already in the history for a topic
 def is_in_history(article_title, topic_key, history):
-    # Checks if a normalized article title is already in the history for a topic
     norm_title = normalize(article_title)
     return any(normalize(a["title"]) == norm_title for a in history.get(topic_key, []))
 
-def to_eastern(dt):
-    # Converts datetime to US Eastern Timezone
+# Converts datetime to US Eastern Timezone
+def to_eastern(dt): 
     return dt.astimezone(ZoneInfo("America/New_York"))
 
 # Main logic: fetch trending headlines, identify strong topic matches, fetch and score articles, deduplicate and filter, and send the digest email.

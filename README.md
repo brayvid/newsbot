@@ -1,11 +1,6 @@
 # News Digest Bot
 
-**News Digest Bot** is a Python automation script that compiles a personalized news digest by matching headline text against two user-defined CSV files:
-
-- `topics.csv` – A list of topics with importance weights.
-- `keywords.csv` – A list of keywords with importance weights.
-
-Each headline is scored based on how well it matches entries from these two files. The top results are filtered, deduplicated, and delivered in an HTML email.
+This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest via Gmail. It prioritizes high-importance headlines using keyword and topic scoring, and ensures each email contains fresh, non-repeating articles. Designed to run daily using `cron` on any Unix-based system.
 
 ---
 
