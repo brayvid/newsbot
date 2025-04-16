@@ -2,16 +2,22 @@
 
 # ─── Configurable Parameters ─────────────────────────────────────────────────
 
-TREND_WEIGHT = 3                # 1–5: How much to boost a topic if it matches trending
-TOPIC_WEIGHT = 2                # 1–5: Importance of `topics.csv` scores
+TREND_WEIGHT = 5                # 1–5: How much to boost a topic if it matches trending
+TOPIC_WEIGHT = 1                # 1–5: Importance of `topics.csv` scores
 KEYWORD_WEIGHT = 1              # 1–5: Importance of keyword scores 
 
 MIN_ARTICLE_SCORE = 1           # Minimum combined score to include article
-MAX_TOPICS = 20                 # Max number of topics to include in each digest
+MAX_TOPICS = 7                  # Max number of topics to include in each digest
 MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
-DEDUPLICATION_THRESHOLD = 0.7   # Similarity threshold for deduplication (0-1)
-
+DEDUPLICATION_THRESHOLD = 0.5   # Similarity threshold for deduplication (0-1)
+TREND_MATCH_THRESHOLD = 0.65   
 #!/usr/bin/env python3
+import os
+os.environ["OPENBLAS_NUM_THREADS"] = "1"
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+os.environ["NUMEXPR_NUM_THREADS"] = "1"
+
 import sys
 import csv
 import smtplib
@@ -22,7 +28,6 @@ from email.message import EmailMessage
 import xml.etree.ElementTree as ET
 import requests
 import json
-import os
 import random
 from collections import defaultdict
 from difflib import SequenceMatcher
@@ -274,7 +279,10 @@ def main():
 
         # Step 1: Get latest headlines and boost matching topics
         latest_articles = fetch_google_top_headlines()
+
+
         trending_boosts = defaultdict(int)
+        TREND_MATCH_THRESHOLD = 0.65  # use separate threshold for topic matching
 
         for article in latest_articles:
             title = article.get("title", "")
@@ -285,14 +293,16 @@ def main():
 
             for norm_topic, raw_topic in normalized_topics.items():
                 similarity = SequenceMatcher(None, norm_title, norm_topic).ratio()
-                if similarity > DEDUPLICATION_THRESHOLD:
+                if similarity > TREND_MATCH_THRESHOLD:
                     trending_boosts[raw_topic] += TREND_WEIGHT + keyword_score // 10
                     logging.info(f"Trending boost: '{title}' ≈ '{raw_topic}' (sim={similarity:.2f})")
 
         topic_sources = {}
 
+        # Apply boosts to a copy of the topic weights
+        boosted_topic_weights = topic_weights.copy()
         for topic, boost in trending_boosts.items():
-            topic_weights[topic] += boost
+            boosted_topic_weights[topic] = boosted_topic_weights.get(topic, 0) + boost
             topic_sources[topic] = "latest"
 
         # Step 2: Build limited topic list to fetch
@@ -300,24 +310,29 @@ def main():
         remaining_slots = MAX_TOPICS - len(topics_to_fetch)
 
         if remaining_slots > 0:
-            fallback_candidates = sorted(
-                (t for t in topic_weights if t not in topics_to_fetch),
-                key=lambda t: -topic_weights[t]
-            )
+            fallback_candidates = [t for t in boosted_topic_weights if t not in topics_to_fetch]
+            random.shuffle(fallback_candidates)
+            fallback_candidates.sort(key=lambda t: -boosted_topic_weights[t])
+
             for t in fallback_candidates:
                 topics_to_fetch.add(t)
                 topic_sources[t] = "user"
                 if len(topics_to_fetch) >= MAX_TOPICS:
                     break
 
+        # Optional logging to help debug what's going on
+        logging.info(f"Boosted topic weights: {sorted(boosted_topic_weights.items(), key=lambda x: -x[1])}")
+        logging.info(f"Selected topics for fetch: {list(topics_to_fetch)}")
+
+
         # Step 3: Fetch articles only for selected topics
         all_articles = {}
         for topic in topics_to_fetch:
-            articles = fetch_articles_for_topic(topic, topic_weights, keyword_weights)
+            articles = fetch_articles_for_topic(topic, boosted_topic_weights, keyword_weights)
             if articles:
                 deduped = dedupe_articles(articles)
                 for a in deduped:
-                    a["score"] = combined_score(topic, a, topic_weights)
+                    a["score"] = combined_score(topic, a, boosted_topic_weights)
                 all_articles[topic] = sorted(deduped, key=lambda x: -x["score"])
 
         # Debug log
@@ -391,7 +406,7 @@ def main():
 
             html_body += section
 
-        config_code = f"(Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Score: {MIN_ARTICLE_SCORE}, Max Similarity: {DEDUPLICATION_THRESHOLD}, Topics: {MAX_TOPICS})"
+        config_code = f"(Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Score: {MIN_ARTICLE_SCORE}, Max Similarity: {DEDUPLICATION_THRESHOLD}, Max Topics: {MAX_TOPICS})"
         html_body += f"<hr><small>{config_code}</small>"
 
         msg = EmailMessage()

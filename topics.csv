@@ -1,7 +1,7 @@
 topic,weight
 Artificial Intelligence,5
-Cybersecurity,3
-Fusion Power,4
+Cybersecurity,2
+Fusion Power,2
 Intelligence Agencies,2
 Israel,3
 Hamas,2
@@ -10,18 +10,18 @@ Russia,3
 Ukraine,3
 Cancer,2
 Data Science,3
-Donald Trump,4
+Donald Trump,5
 Financial Markets,3
 Inflation,3
 Large Language Model,3
-Machine Learning,4
-Neuroscience,4
+Machine Learning,3
+Neuroscience,3
 North Korea,2
-Quantum Mechanics,4
-Renewable Energy,4
-United Nations,4
-US Foreign Policy,4
-Vladimir Putin,3
+Quantum Mechanics,3
+Renewable Energy,3
+United Nations,3
+US Foreign Policy,3
+Vladimir Putin,2
 Cloud Computing,3
 Democratic Party,3
 Elon Musk,3
@@ -166,7 +166,7 @@ Quantum Computer,2
 Quantum Engineering,2
 Quantum Information Science,2
 Rain Forests,2
-Recession,4
+Recession,3
 Research,2
 Research and Development,2
 Risk Management,2
@@ -193,14 +193,14 @@ Theoretical Physics,2
 Thunderstorms,2
 Tidal Power,2
 Time Travel,2
-UFOs,2
+UFO,2
 United Nations Security Council,2
 United States,2
 United States Constitution,2
 Universal Basic Income,2
 Universal Health Care,2
 Universe,2
-US Central Intelligence Agency,2
+Central Intelligence Agency,2
 US Congress,2
 US Economy,2
 US House of Representatives,2
@@ -221,3 +221,4 @@ Asteroids,2
 Earth's Magnetic Field,2
 Oceans,2
 Venture Capital,2
+Trade War, 5

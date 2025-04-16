@@ -14,33 +14,35 @@ bankruptcy,4
 famine,4
 flooding,4
 terrorism,4
+world,4
 crisis,3
-sanctions,3
+sanction,3
 ceasefire,3
-layoffs,3
+layoff,3
 breach,3
 scandal,3
 fatal,3
 heatwave,3
 wildfire,3
+hurricane,3
 earthquake,3
 collapse,3
-data leak,3
+dangerous,3
+leak,3
 charged,3
 inflation,3
 missile,3
-protests,3
+protest,3
 subpoena,3
 legislation,3
 executive order,3
 drought,3
 ransomware,2
-record profit,2
+profit,2
 launch,2
-leaked,2
 clinical trial,2
 vaccine,2
-research study,2
+study,2
 IPO,2
 quarterly report,2
 greenhouse gases,2
@@ -50,7 +52,7 @@ demo,2
 historic,3
 cuts,2
 hike,2
-privacy,2
+privacy,3
 stock drop,2
 restructuring,2
 tech failure,2
@@ -58,8 +60,8 @@ displacement,2
 inequality,4
 unemployment,2
 climate change,4
-crash,3
+crash,4
 tensions,2
-trade war,4
 humanitarian,4
 tariffs,3
+findings,2
