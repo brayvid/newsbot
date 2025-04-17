@@ -10,7 +10,7 @@ MIN_ARTICLE_SCORE = 1           # Minimum combined score to include article
 MAX_TOPICS = 7                  # Max number of topics to include in each digest
 MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
 
-DEDUPLICATION_THRESHOLD = 0.7   # 0-1: Similarity threshold for deduplication (0-1)
+DEDUPLICATION_THRESHOLD = 0.5   # 0-1: Similarity threshold for deduplication (0-1)
 TREND_OVERLAP_THRESHOLD = 0.3   # 0–1: Min token overlap for a headline to match a topic
 
 #!/usr/bin/env python3
@@ -168,8 +168,8 @@ def fetch_google_top_headlines(max_articles=50):
 
             if len(articles) >= max_articles:
                 break
-
-        logging.info(f"Fetched {len(articles)} top headlines from Google News RSS.")
+        # Debugging
+        # logging.info(f"Fetched {len(articles)} top headlines from Google News RSS.")
         return articles
 
     except Exception as e:
@@ -211,7 +211,8 @@ def fetch_articles_for_topic(topic, topic_weights, keyword_weights):
                     "pub_dt": pub_dt,  # include this for efficient scoring later
                     "score": total_score
                 })
-        logging.info(f"Found {len(articles)} articles for topic '{topic}'")
+        # Debugging
+        # logging.info(f"Found {len(articles)} articles for topic '{topic}'")
         return articles
 
     except Exception as e:
@@ -236,7 +237,8 @@ def match_article_to_topics(article_title, topic_weights, keyword_weights):
         if similarity > DEDUPLICATION_THRESHOLD:
             topic_score = weight * TOPIC_WEIGHT
             topic_match_scores[topic] = topic_score
-            logging.info(f"Trending match: '{article_title}' ≈ '{topic}' (sim={similarity:.2f})")
+            # Debugging
+            # logging.info(f"Trending match: '{article_title}' ≈ '{topic}' (sim={similarity:.2f})")
 
     total_topic_score = sum(topic_match_scores.values())
     return score + total_topic_score, topic_match_scores
@@ -300,15 +302,13 @@ def main():
 
                 overlap = len(title_tokens & topic_tokens) / len(topic_tokens)
 
-                if overlap >= TREND_OVERLAP_THRESHOLD:  # You can tune this threshold
+                if overlap >= TREND_OVERLAP_THRESHOLD:
                     trending_boosts[raw_topic] += TREND_WEIGHT + keyword_score // 10
-                    
                     # Debugging
                     # logging.info(f"Trending overlap: '{title}' hits '{raw_topic}' (overlap={overlap:.2f})")
 
         # Debugging
         # logging.info(f"Trending boosts: {list(trending_boosts)}")
-
         topic_sources = {}
 
         # Apply boosts to a copy of the topic weights
@@ -331,10 +331,10 @@ def main():
                 topic_sources[t] = "user"
                 if len(topics_to_fetch) >= MAX_TOPICS:
                     break
-
-        logging.info(f"Boosted topic weights: {sorted(boosted_topic_weights.items(), key=lambda x: -x[1])}")
-        logging.info(f"Selected topics for fetch: {list(topics_to_fetch)}")
-
+        
+        # Debugging
+        # logging.info(f"Boosted topic weights: {sorted(boosted_topic_weights.items(), key=lambda x: -x[1])}")
+        # logging.info(f"Selected topics for fetch: {list(topics_to_fetch)}")
 
         # Step 3: Fetch articles only for selected topics
         all_articles = {}

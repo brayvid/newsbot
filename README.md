@@ -70,12 +70,15 @@ pip3 install nltk requests python-dotenv scikit-learn
 ### 3. Prepare Configuration Files
 
 - `.env` – contains email credentials and recipient:
+
   ```env
   GMAIL_USER=your_email@gmail.com
   GMAIL_APP_PASSWORD=your_app_password
   MAILTO=recipient@example.com
   ```
+  
 - `topics.csv` – your list of prioritized topics, one per line:
+
   ```
   Topic,Weight
   Artificial Intelligence,5
@@ -83,6 +86,7 @@ pip3 install nltk requests python-dotenv scikit-learn
   ...
   ```
 - `keywords.csv` – relevant keywords to influence scoring:
+
   ```
   Keyword,Weight
   war,5
@@ -90,6 +94,7 @@ pip3 install nltk requests python-dotenv scikit-learn
   nuclear,5
   ...
   ```
+
 ---
 
 ## Running the Script
@@ -106,7 +111,7 @@ crontab -e
 
 Add a line like the following:
 
-```
+```cron
 0 8 * * * cd /path/to/news-digest-bot && /usr/bin/env python3 digest_bot.py >> logs/digest_bot.log 2>&1
 ```
 
@@ -136,7 +141,5 @@ All script logs are saved to `logs/digest_bot.log`. The `logs/` directory will b
 - Lower `MIN_ARTICLE_SCORE` to include more articles.
 - Use richer keyword and topic lists for more comprehensive coverage.
 - Increase `MAX_ARTICLES_PER_TOPIC` if you want more results per topic.
+
 ---
-
-
-
