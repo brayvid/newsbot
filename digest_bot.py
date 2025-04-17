@@ -1,7 +1,6 @@
 # Author: Blake Rayvid <https://github.com/brayvid/news-digest-bot>
 
 # ─── Configurable Parameters ─────────────────────────────────────────────────
-
 TREND_WEIGHT = 1                # 1–5: How much to boost a topic if it matches trending
 TOPIC_WEIGHT = 1                # 1–5: Importance of `topics.csv` scores
 KEYWORD_WEIGHT = 1              # 1–5: Importance of keyword scores 
@@ -10,7 +9,7 @@ MIN_ARTICLE_SCORE = 1           # Minimum combined score to include article
 MAX_TOPICS = 7                  # Max number of topics to include in each digest
 MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
 
-DEDUPLICATION_THRESHOLD = 0.5   # 0-1: Similarity threshold for deduplication (0-1)
+DEDUPLICATION_THRESHOLD = 0.3   # 0-1: Similarity threshold for deduplication (0-1)
 TREND_OVERLAP_THRESHOLD = 0.3   # 0–1: Min token overlap for a headline to match a topic
 
 #!/usr/bin/env python3
