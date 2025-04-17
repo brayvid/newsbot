@@ -7,10 +7,11 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 ## How it works
 
 - Finds top news stories from Google News
-- Picks the ones that match your interests
-- Scores and filters articles based on relevance and freshness
+- Selects your topics that have similarity to top headlines
+- Scores and filters more articles for selected topics based on relevance
 - Avoids showing you the same headlines twice
-- Sends you a clean, organized email with the best stories
+- Sends you a clean HTML email digest when run
+- Schedule with `cron`
 
 ---
 
@@ -143,3 +144,28 @@ All script logs are saved to `logs/digest_bot.log`. The `logs/` directory will b
 - Increase `MAX_ARTICLES_PER_TOPIC` if you want more results per topic.
 
 ---
+<br>
+
+# Sample Digest
+
+  <h2>The Pentagon</h2>
+  <p>📰 <a href="#">Third Pentagon appointee placed on administrative leave - CNN</a><br>
+  📅 Wed, 16 Apr 2025 03:01 PM EDT — <strong>Score: 65</strong></p>
+
+  <h2>Research and Development</h2>
+  <p>📰 <a href="#">OpenAI releases o3, a model that tops 99% of human competitors on IOI 2024 and Codeforces benchmarks - R&D World</a><br>
+  📅 Wed, 16 Apr 2025 06:04 PM EDT — <strong>Score: 65</strong></p>
+
+  <h2>Donald Trump</h2>
+  <p>📰 <a href="#">America’s Mad King - The Atlantic</a><br>
+  📅 Thu, 17 Apr 2025 10:08 AM EDT — <strong>Score: 45</strong></p>
+
+  <h2>Public Health</h2>
+  <p>📰 <a href="#">Public health sounds alarm on measles - Ouray News</a><br>
+  📅 Wed, 16 Apr 2025 11:46 PM EDT — <strong>Score: 25</strong></p>
+
+  <h2>Health Care</h2>
+  <p>📰 <a href="#">Health care AI stuck in the waiting room - Politico</a><br>
+  📅 Thu, 17 Apr 2025 02:00 PM EDT — <strong>Score: 20</strong></p>
+
+  <hr>
