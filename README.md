@@ -7,10 +7,10 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 ## How it works
 
 - Finds top news stories from Google News
-- Selects your topics that have similarity to top headlines
-- Scores and filters more articles for selected topics based on relevance
+- Selects topics you chose that have similarity to headlines
+- Scores and filters more stories for those topics
 - Avoids showing you the same headlines twice
-- Sends you a clean HTML email digest when run
+- Sends you a clean HTML email digest
 - Schedule with `cron`
 
 ---
