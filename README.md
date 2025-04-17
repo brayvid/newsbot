@@ -4,52 +4,13 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 
 ---
 
-## Features
+## How it works
 
-- Fetches trending and topic-specific headlines from Google News RSS.
-- Matches each headline against `topics.csv` and `keywords.csv` using NLP normalization (stemming and lemmatization).
-- Applies user-defined weights (`TOPIC_WEIGHT` and `KEYWORD_WEIGHT`) to influence scoring.
-- Temporarily boosts scores for trending topics based on recent headlines.
-- Deduplicates semantically similar headlines using string similarity and TF-IDF.
-- Sends the final digest as a structured HTML email via Gmail SMTP.
-- Cron-safe: uses a lockfile to prevent concurrent runs.
-- Fully configurable parameters to fine-tune scoring, relevance, and output volume.
-
----
-
-## How It Works
-
-1. **Configuration and Data Loading**
-   - Loads:
-     - `topics.csv` – e.g., `Artificial Intelligence,5`
-     - `keywords.csv` – e.g., `war,5`
-     - `history.json` – to avoid repeating headlines already sent
-     - Environment variables from `.env` for email delivery
-
-2. **Headline Matching**
-   - The latest 50 headlines for your topics are retrieved via RSS.
-   - Headlines are:
-     - Lowercased
-     - Stemmed and lemmatized
-     - Compared to normalized versions of topics and keywords
-
-3. **Scoring and Boosting**
-   - Each headline receives a score based on:
-     - Matches to keywords (`KEYWORD_WEIGHT`)
-     - Matches to topics (`TOPIC_WEIGHT`)
-     - Matches to current top headlines (`TREND_WEIGHT`)
-     - Recency bonus for newer headlines
-   - Headlines must meet or exceed `MIN_ARTICLE_SCORE` to be included.
-
-4. **Topic and Article Filtering**
-   - Up to `MAX_TOPICS` are selected per run.
-   - A maximum of `MAX_ARTICLES_PER_TOPIC` articles are chosen per topic after deduplication.
-   - Redundant or overly similar headlines are filtered using TF-IDF cosine similarity and sequence matching.
-
-5. **Email Generation and Delivery**
-   - Composes an HTML digest grouped by topic.
-   - Includes publication dates, scores, and source links.
-   - Sends via Gmail using credentials from `.env`.
+- Finds top news stories from Google News
+- Picks the ones that match your interests
+- Scores and filters articles based on relevance and freshness
+- Avoids showing you the same headlines twice
+- Sends you a clean, organized email with the best stories
 
 ---
 
@@ -71,15 +32,17 @@ news-digest-bot/
 
 ## Configuration Parameters
 
-| Parameter                  | Description |
-|---------------------------|-------------|
-| `TREND_WEIGHT`            | Boost for topics found in top headlines (1–5) |
-| `TOPIC_WEIGHT`            | Influence of topic scores from `topics.csv` (1–5) |
-| `KEYWORD_WEIGHT`          | Influence of keyword matches from `keywords.csv` (1–5) |
-| `DEDUPLICATION_THRESHOLD` | Threshold for similarity-based deduplication (0.0–1.0) |
-| `MIN_ARTICLE_SCORE`       | Minimum score required for an article to be included |
-| `MAX_TOPICS`              | Maximum number of topics to include in a digest |
-| `MAX_ARTICLES_PER_TOPIC`  | Cap on number of articles per topic |
+| Parameter                  | What It Does |
+|---------------------------|--------------|
+| `TREND_WEIGHT`            | 1-5: Boost for trending topics |
+| `TOPIC_WEIGHT`            | 1-5: Boost for topics in `topics.csv` |
+| `KEYWORD_WEIGHT`          | 1-5: Boost for matching keywords |
+| `TREND_OVERLAP_THRESHOLD` | 0-1: Token overlap % needed to detect a trending topic |
+| `DEDUPLICATION_THRESHOLD` | 0-1: Similarity level to remove near-duplicate headlines |
+| `MIN_ARTICLE_SCORE`       | Articles below this score are ignored |
+| `MAX_TOPICS`              | Number of topics per digest |
+| `MAX_ARTICLES_PER_TOPIC`  | Number of articles per topic |
+
 ---
 
 ## Setup
@@ -174,3 +137,6 @@ All script logs are saved to `logs/digest_bot.log`. The `logs/` directory will b
 - Use richer keyword and topic lists for more comprehensive coverage.
 - Increase `MAX_ARTICLES_PER_TOPIC` if you want more results per topic.
 ---
+
+
+
