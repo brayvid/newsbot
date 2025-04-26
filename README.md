@@ -1,6 +1,6 @@
 # News Digest Bot
 
-This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest via Gmail. It prioritizes high-importance headlines using keyword and topic scoring, and ensures each email contains fresh, non-repeating articles. Designed to run daily using `cron` on any Unix-based system.
+This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest with a [Gmail app password](https://support.google.com/mail/answer/185833?hl=en). It prioritizes high-importance headlines using keyword and topic scoring, and ensures each email contains fresh, non-repeating articles. Designed to run daily using `cron` on any Unix-based system.
 
 ---
 
@@ -148,10 +148,6 @@ All script logs are saved to `logs/digest_bot.log`. The `logs/` directory will b
 
 # Sample Digest
 
-  <h2>The Pentagon</h2>
-  <p>📰 <a href="#">Third Pentagon appointee placed on administrative leave - CNN</a><br>
-  📅 Wed, 16 Apr 2025 03:01 PM EDT — <strong>Score: 65</strong></p>
-
   <h2>Research and Development</h2>
   <p>📰 <a href="#">OpenAI releases o3, a model that tops 99% of human competitors on IOI 2024 and Codeforces benchmarks - R&D World</a><br>
   📅 Wed, 16 Apr 2025 06:04 PM EDT — <strong>Score: 65</strong></p>
@@ -159,10 +155,6 @@ All script logs are saved to `logs/digest_bot.log`. The `logs/` directory will b
   <h2>Donald Trump</h2>
   <p>📰 <a href="#">America’s Mad King - The Atlantic</a><br>
   📅 Thu, 17 Apr 2025 10:08 AM EDT — <strong>Score: 45</strong></p>
-
-  <h2>Public Health</h2>
-  <p>📰 <a href="#">Public health sounds alarm on measles - Ouray News</a><br>
-  📅 Wed, 16 Apr 2025 11:46 PM EDT — <strong>Score: 25</strong></p>
 
   <h2>Health Care</h2>
   <p>📰 <a href="#">Health care AI stuck in the waiting room - Politico</a><br>
