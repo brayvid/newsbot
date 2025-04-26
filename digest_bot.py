@@ -36,6 +36,7 @@ import xml.etree.ElementTree as ET
 import requests
 import json
 import random
+import math
 from collections import defaultdict
 from difflib import SequenceMatcher
 from zoneinfo import ZoneInfo
@@ -64,7 +65,7 @@ load_dotenv()
 # Download nltk resources
 from nltk.data import find
 import nltk
-nltk.data.path.append("~/nltk-data")
+nltk.data.path.append("~/nltk_data")
 
 def ensure_nltk_data():
     for resource in ['wordnet', 'omw-1.4']:
@@ -436,7 +437,7 @@ def main():
                 section += (
                     f'<p style="margin: 0.4em 0 1.2em 0;">'
                     f'📰 <a href="{article["link"]}" target="_blank">{html.escape(article["title"])}</a><br>'
-                    f'<span style="font-size: 0.9em;">📅 {pub_dt.strftime("%a, %d %b %Y %I:%M %p %Z")} — Score: {article["score"]}</span>'
+                    f'<span style="font-size: 0.9em;">📅 {pub_dt.strftime("%a, %d %b %Y %I:%M %p %Z")} — Score: {math.floor(article["score"])}</span>'
                     f'</p>'
                 )
 
