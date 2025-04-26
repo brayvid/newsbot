@@ -15,8 +15,11 @@ TREND_OVERLAP_THRESHOLD = 0.3   # 0–1: Min token overlap for a headline to mat
 CATEGORY_ACTIONS = {
     "sports": "ban",
     "entertainment": "demote",
+    "daily mail": "ban",
+    "fox news": "ban",
+    "celebrity": "demote"
 }
-DEMOTE_FACTOR = 0.5  # How much to weaken demoted articles
+DEMOTE_FACTOR = 0.5 
 
 #!/usr/bin/env python3
 import os
