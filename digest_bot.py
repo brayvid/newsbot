@@ -12,6 +12,12 @@ MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
 DEDUPLICATION_THRESHOLD = 0.3   # 0-1: Similarity threshold for deduplication (0-1)
 TREND_OVERLAP_THRESHOLD = 0.3   # 0–1: Min token overlap for a headline to match a topic
 
+CATEGORY_ACTIONS = {
+    "sports": "ban",
+    "entertainment": "demote",
+}
+DEMOTE_FACTOR = 0.5  # How much to weaken demoted articles
+
 #!/usr/bin/env python3
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
@@ -88,7 +94,6 @@ def normalize(text):
     lemmatized = [lemmatizer.lemmatize(w) for w in stemmed]
     return " ".join(lemmatized)
 
-# Loads topic weights from topics.csv into a dictionary
 def load_topic_weights():
     weights = {}
     with open(TOPICS_CSV, newline='', encoding='utf-8') as f:
@@ -100,10 +105,9 @@ def load_topic_weights():
             try:
                 weights[row[0].strip()] = int(row[1])
             except ValueError:
-                logging.warning(f"Invalid topic weight for '{row[0].strip()}': {row[1]}")
+                continue
     return weights
 
-# Loads keyword weights from keywords.csv into a dictionary
 def load_keyword_weights():
     weights = {}
     with open(KEYWORDS_CSV, newline='', encoding='utf-8') as f:
@@ -115,20 +119,26 @@ def load_keyword_weights():
             try:
                 weights[row[0].strip().lower()] = int(row[1])
             except ValueError:
-                logging.warning(f"Invalid keyword weight for '{row[0].strip()}': {row[1]}")
+                continue
     return weights
 
 KEYWORD_WEIGHTS = load_keyword_weights()
 NORMALIZED_KEYWORDS = { normalize(k): v for k, v in KEYWORD_WEIGHTS.items() }
 
-# Scores a text by summing keyword weights and a small bonus for length
 def score_text(text):
     norm_text = normalize(text)
     score = 0
+    repetitive_keywords = ["donald trump", "elon musk", "kardashian", "taylor swift"]
+    penalty = 1.0
+
     for keyword, weight in NORMALIZED_KEYWORDS.items():
         if keyword in norm_text:
             score += weight
-    score += len(norm_text.split()) // 20
+
+    if any(rep_kw in norm_text for rep_kw in repetitive_keywords):
+        penalty = 0.7
+
+    score = (score + len(norm_text.split()) // 20) * penalty
     return score
 
 # Fetches up to N top headlines from Google News RSS (US edition) within the past week
@@ -138,10 +148,8 @@ def fetch_google_top_headlines(max_articles=50):
         headers = {"User-Agent": "Mozilla/5.0"}
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
-
         root = ET.fromstring(response.content)
         items = root.findall("./channel/item")
-
         one_week_ago = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=7)
         articles = []
 
@@ -167,15 +175,12 @@ def fetch_google_top_headlines(max_articles=50):
 
             if len(articles) >= max_articles:
                 break
-        # Debugging
-        # logging.info(f"Fetched {len(articles)} top headlines from Google News RSS.")
+
         return articles
 
-    except Exception as e:
-        logging.warning(f"Failed to fetch Google top headlines: {e}")
+    except Exception:
         return []
 
-# Searches Google News RSS for a topic and returns articles with calculated scores
 def fetch_articles_for_topic(topic, topic_weights, keyword_weights):
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
     try:
@@ -193,31 +198,23 @@ def fetch_articles_for_topic(topic, topic_weights, keyword_weights):
 
             try:
                 pub_dt = parsedate_to_datetime(pubDate).astimezone(ZoneInfo("America/New_York"))
-            except Exception:
+            except:
                 pub_dt = None
 
             if not pub_dt or pub_dt <= one_week_ago:
                 continue
 
-            score, topic_scores = match_article_to_topics(title, topic_weights, keyword_weights)
-            total_score = score + sum(topic_scores.values())
+            articles.append({
+                "title": title,
+                "link": link,
+                "pubDate": pubDate,
+                "pub_dt": pub_dt
+            })
 
-            if total_score >= MIN_ARTICLE_SCORE:
-                articles.append({
-                    "title": title,
-                    "link": link,
-                    "pubDate": pubDate,
-                    "pub_dt": pub_dt,  # include this for efficient scoring later
-                    "score": total_score
-                })
-        # Debugging
-        # logging.info(f"Found {len(articles)} articles for topic '{topic}'")
         return articles
 
-    except Exception as e:
-        logging.warning(f"Failed to fetch articles for topic '{topic}': {e}")
+    except Exception:
         return []
-
 # Evaluates topic and keyword relevance of an article title; returns total score and per-topic match scores
 def match_article_to_topics(article_title, topic_weights, keyword_weights):
     score = 0
@@ -244,19 +241,51 @@ def match_article_to_topics(article_title, topic_weights, keyword_weights):
 
 # Calculates final article score combining keyword relevance, topic weight, and a recency bonus.
 def combined_score(topic, article, topic_weights):
+    importance_map = {
+        "geopolitics": 1.5,
+        "world news": 1.4,
+        "economy": 1.3,
+        "science": 1.2,
+        "technology": 1.1,
+        "health": 1.1,
+        "local news": 0.8,
+        "entertainment": 0.7,
+        "sports": 0.5,
+    }
+    source_quality_boost = 1.2 if any(s in (article.get("link") or "").lower() for s in ["reuters", "bbc", "apnews", "nytimes", "wsj"]) else 1.0
+    topic_key = topic.lower()
+    importance = importance_map.get(topic_key, 1.0)
+
+    # New: Demote or ban certain topics
+    action = CATEGORY_ACTIONS.get(topic_key)
+    if action == "ban":
+        return 0  # Will get filtered out later
+    elif action == "demote":
+        importance *= DEMOTE_FACTOR
+
     keyword_score = score_text(article["title"]) * KEYWORD_WEIGHT
     topic_score = topic_weights.get(topic, 1) * TOPIC_WEIGHT
-    pub_dt = article.get("pub_dt")
-    recency_score = 5 if pub_dt and pub_dt > datetime.now(ZoneInfo("America/New_York")) - timedelta(days=1) else 1
-    return (keyword_score + topic_score) * recency_score
+    recency_score = 5 if article.get("pub_dt") and article["pub_dt"] > datetime.now(ZoneInfo("America/New_York")) - timedelta(hours=6) else 1
+
+    total_score = (keyword_score + topic_score) * recency_score * importance * source_quality_boost
+    return total_score
 
 # Removes articles with similar titles above a similarity threshold
 def dedupe_articles(articles, threshold=DEDUPLICATION_THRESHOLD):
-    unique_articles = []
-    for article in sorted(articles, key=lambda x: -x['score']):
-        if all(SequenceMatcher(None, normalize(article['title']), normalize(seen['title'])).ratio() < threshold for seen in unique_articles):
-            unique_articles.append(article)
-    return unique_articles
+    if len(articles) <= 1:
+        return articles
+
+    titles = [normalize(a["title"]) for a in articles]
+    tfidf = TfidfVectorizer().fit_transform(titles)
+    sim_matrix = cosine_similarity(tfidf)
+
+    selected_indices = []
+    for i in range(len(articles)):
+        if all(sim_matrix[i][j] < threshold for j in selected_indices):
+            selected_indices.append(i)
+
+    deduped_articles = [articles[i] for i in selected_indices]
+    return deduped_articles
 
 # Checks if a normalized article title is already in the history for a topic
 def is_in_history(article_title, topic_key, history):
@@ -295,16 +324,12 @@ def main():
 
             for norm_topic, raw_topic in normalized_topics.items():
                 topic_tokens = set(norm_topic.split())
-
                 if not topic_tokens:
                     continue
 
                 overlap = len(title_tokens & topic_tokens) / len(topic_tokens)
-
                 if overlap >= TREND_OVERLAP_THRESHOLD:
-                    trending_boosts[raw_topic] += TREND_WEIGHT + keyword_score // 10
-                    # Debugging
-                    # logging.info(f"Trending overlap: '{title}' hits '{raw_topic}' (overlap={overlap:.2f})")
+                    trending_boosts[raw_topic] += TREND_WEIGHT * (1 + keyword_score / 10)
 
         # Debugging
         # logging.info(f"Trending boosts: {list(trending_boosts)}")
