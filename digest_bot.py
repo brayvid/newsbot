@@ -21,7 +21,6 @@ CATEGORY_ACTIONS = {
 }
 DEMOTE_FACTOR = 0.5 
 
-#!/usr/bin/env python3
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
 os.environ["OMP_NUM_THREADS"] = "1"
@@ -252,9 +251,9 @@ def combined_score(topic, article, topic_weights):
         "science": 1.2,
         "technology": 1.1,
         "health": 1.1,
-        "local news": 0.8,
-        "entertainment": 0.7,
-        "sports": 0.5,
+        "local news": 0.2,
+        "entertainment": 0.2,
+        "sports": 0.2,
     }
     source_quality_boost = 1.2 if any(s in (article.get("link") or "").lower() for s in ["reuters", "bbc", "apnews", "nytimes", "wsj"]) else 1.0
     topic_key = topic.lower()
