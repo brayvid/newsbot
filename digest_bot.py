@@ -12,6 +12,12 @@ MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
 DEDUPLICATION_THRESHOLD = 0.3   # 0-1: Similarity threshold for deduplication (0-1)
 TREND_OVERLAP_THRESHOLD = 0.3   # 0–1: Min token overlap for a headline to match a topic
 
+CATEGORY_ACTIONS = {
+    "sports": "ban",
+    "entertainment": "demote",
+}
+DEMOTE_FACTOR = 0.5  # How much to weaken demoted articles
+
 #!/usr/bin/env python3
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
@@ -249,6 +255,13 @@ def combined_score(topic, article, topic_weights):
     source_quality_boost = 1.2 if any(s in (article.get("link") or "").lower() for s in ["reuters", "bbc", "apnews", "nytimes", "wsj"]) else 1.0
     topic_key = topic.lower()
     importance = importance_map.get(topic_key, 1.0)
+
+    # New: Demote or ban certain topics
+    action = CATEGORY_ACTIONS.get(topic_key)
+    if action == "ban":
+        return 0  # Will get filtered out later
+    elif action == "demote":
+        importance *= DEMOTE_FACTOR
 
     keyword_score = score_text(article["title"]) * KEYWORD_WEIGHT
     topic_score = topic_weights.get(topic, 1) * TOPIC_WEIGHT
