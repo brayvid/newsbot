@@ -149,15 +149,15 @@ All script logs are saved to `logs/digest_bot.log`. The `logs/` directory will b
 # Sample Digest
 
   <h2>Research and Development</h2>
-  <p>📰 <a href="#">OpenAI releases o3, a model that tops 99% of human competitors on IOI 2024 and Codeforces benchmarks - R&D World</a><br>
+  <p>📰 <a href="https://www.rdworldonline.com/openai-releases-o3-a-model-that-tops-99-of-human-competitors-on-ioi-2024-and-codeforces-benchmarks">OpenAI releases o3, a model that tops 99% of human competitors on IOI 2024 and Codeforces benchmarks - R&D World</a><br>
   📅 Wed, 16 Apr 2025 06:04 PM EDT — <strong>Score: 65</strong></p>
 
   <h2>Donald Trump</h2>
-  <p>📰 <a href="#">America’s Mad King - The Atlantic</a><br>
+  <p>📰 <a href="https://www.theatlantic.com/ideas/archive/2025/04/donald-trump-authoritarian-actions/682486/">America’s Mad King - The Atlantic</a><br>
   📅 Thu, 17 Apr 2025 10:08 AM EDT — <strong>Score: 45</strong></p>
 
   <h2>Health Care</h2>
-  <p>📰 <a href="#">Health care AI stuck in the waiting room - Politico</a><br>
+  <p>📰 <a href="https://www.politico.com/newsletters/future-pulse/2025/04/17/health-care-ai-stuck-in-the-waiting-room-00294471">Health care AI stuck in the waiting room - Politico</a><br>
   📅 Thu, 17 Apr 2025 02:00 PM EDT — <strong>Score: 20</strong></p>
 
   <hr>
