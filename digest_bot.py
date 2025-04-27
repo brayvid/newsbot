@@ -5,14 +5,14 @@ TREND_WEIGHT = 1                # 1–5: How much to boost a topic if it matches
 TOPIC_WEIGHT = 1                # 1–5: Importance of `topics.csv` scores
 KEYWORD_WEIGHT = 1              # 1–5: Importance of keyword scores 
 
-MIN_ARTICLE_SCORE = 1           # Minimum combined score to include article
+MIN_ARTICLE_SCORE = 25          # Minimum combined score to include article
 MAX_TOPICS = 7                  # Max number of topics to include in each digest
 MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
 
 DEDUPLICATION_THRESHOLD = 0.2   # 0-1: Similarity threshold for deduplication (0-1)
 TREND_OVERLAP_THRESHOLD = 0.2   # 0–1: Min token overlap for a headline to match a topic
 
-CATEGORY_ACTIONS = {
+OVERRIDES = {
     "sports": "ban",
     "entertainment": "demote",
     "daily mail": "ban",
@@ -157,10 +157,14 @@ def score_text(text):
 
     word_count = len(norm_text.split())
 
-    # Boost: longer headlines get a slight bonus
+    # Long-title boost
     long_title_bonus = 1.0 + min(word_count / 30.0, 0.3)
 
-    score = score * long_title_bonus
+    # Short-title penalty
+    short_title_penalty = 0.7 if word_count < 6 else 1.0
+
+    # Final score adjustment
+    score = score * long_title_bonus * short_title_penalty
     return score
 
 
@@ -271,12 +275,12 @@ def combined_score(topic, article, topic_weights):
     normalized_title = normalize(article["title"])
 
     # Ban based on banned keywords inside the title
-    for banned_word, action in CATEGORY_ACTIONS.items():
+    for banned_word, action in OVERRIDES.items():
         if action == "ban" and banned_word in normalized_title:
             return 0
 
     # Demote or ban based on topic
-    action = CATEGORY_ACTIONS.get(topic_key)
+    action = OVERRIDES.get(topic_key)
     if action == "ban":
         return 0
     elif action == "demote":
@@ -388,9 +392,12 @@ def main():
             articles = fetch_articles_for_topic(topic, boosted_topic_weights, keyword_weights)
             if articles:
                 deduped = dedupe_articles(articles)
+                scored = []
                 for a in deduped:
                     a["score"] = combined_score(topic, a, boosted_topic_weights)
-                all_articles[topic] = sorted(deduped, key=lambda x: -x["score"])
+                    if a["score"] >= MIN_ARTICLE_SCORE:
+                        scored.append(a)
+                all_articles[topic] = sorted(scored, key=lambda x: -x["score"])
 
         # Debugging
         # for topic, arts in all_articles.items():
@@ -441,7 +448,6 @@ def main():
                 selected_titles.add(normalize(article["title"]))
 
             digest[topic] = selected
-
 
         # Debugging
         # logging.info(f"Digest content: {json.dumps(digest, indent=2, default=str)}")
@@ -515,7 +521,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
