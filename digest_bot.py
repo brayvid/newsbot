@@ -31,7 +31,8 @@ CATEGORY_ACTIONS = {
     "us weekly": "ban",
     "vogue":"ban",
     "golf":"ban",
-    "food":"ban"
+    "food":"ban",
+    "local":"demote"
 }
 DEMOTE_FACTOR = 0.5 
 
@@ -145,18 +146,20 @@ NORMALIZED_KEYWORDS = { normalize(k): v for k, v in KEYWORD_WEIGHTS.items() }
 def score_text(text):
     norm_text = normalize(text)
     score = 0
-    repetitive_keywords = ["donald trump", "elon musk", "kardashian", "taylor swift"]
-    penalty = 1.0
 
+    # Add scores based on keyword matches
     for keyword, weight in NORMALIZED_KEYWORDS.items():
         if keyword in norm_text:
             score += weight
 
-    if any(rep_kw in norm_text for rep_kw in repetitive_keywords):
-        penalty = 0.7
+    word_count = len(norm_text.split())
 
-    score = (score + len(norm_text.split()) // 20) * penalty
+    # Boost: longer headlines get a slight bonus (up to +50%)
+    long_title_bonus = 1.0 + min(word_count / 20.0, 0.5)
+
+    score = score * long_title_bonus
     return score
+
 
 # Fetches up to N top headlines from Google News RSS (US edition) within the past week
 def fetch_google_top_headlines(max_articles=50):
@@ -407,9 +410,7 @@ def main():
             articles = all_articles.get(topic, [])
 
             # Filter out articles that have already been emailed
-            topic_key = topic.replace(" ", "_").lower()
-            seen_titles = {normalize(a["title"]) for a in history.get(topic_key, [])}
-            articles = [a for a in articles if normalize(a["title"]) not in seen_titles]
+            articles = [a for a in articles if not is_in_history(a["title"], history)]
 
             if not articles:
                 continue
