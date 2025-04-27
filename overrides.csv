@@ -1,9 +1,5 @@
 keyword,action
 sports,ban
-entertainment,demote
-daily mail,ban
-fox news,ban
-celebrity,demote
 fifa,ban
 baseball,ban
 mlb,ban
@@ -11,13 +7,16 @@ nba,ban
 nfl,ban
 football,ban
 basketball,ban
+daily mail,ban
+fox news,ban
 cosmopolitan,ban
 entertainment weekly,ban
 espn,ban
 us weekly,ban
 vogue,ban
 golf,ban
-food,ban
+entertainment,demote
+celebrity,demote
 local,demote
 county,demote
 town,demote
