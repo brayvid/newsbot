@@ -1,4 +1,4 @@
-# News Bot
+# NewsBot
 
 This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest with a [Gmail app password](https://support.google.com/mail/answer/185833?hl=en). It prioritizes high-importance headlines using keyword and topic scoring, and ensures each email contains fresh, non-repeating articles. Designed to run daily using `cron` on any Unix-based system.
 
