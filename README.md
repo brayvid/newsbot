@@ -52,7 +52,7 @@ newsbot/
 
 ```bash
 git clone https://github.com/brayvid/newsbot.git
-cd news-digest-bot
+cd newsbot
 ```
 
 ### 2. Install Dependencies
