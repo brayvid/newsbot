@@ -3,7 +3,7 @@
 # ─── Configurable Parameters ─────────────────────────────────────────────────
 TREND_WEIGHT = 1                # 1–5: How much to boost a topic if it matches trending
 TOPIC_WEIGHT = 1                # 1–5: Importance of `topics.csv` scores
-KEYWORD_WEIGHT = 1              # 1–5: Importance of keyword scores 
+KEYWORD_WEIGHT = 1              # 1–5: Importance of `keywords.csv` scores 
 
 MIN_ARTICLE_SCORE = 25          # Minimum combined score to include article
 MAX_TOPICS = 7                  # Max number of topics to include in each digest
@@ -12,32 +12,7 @@ MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
 DEDUPLICATION_THRESHOLD = 0.2   # 0-1: Similarity threshold for deduplication (0-1)
 TREND_OVERLAP_THRESHOLD = 0.2   # 0–1: Min token overlap for a headline to match a topic
 
-OVERRIDES = {
-    "sports": "ban",
-    "entertainment": "demote",
-    "daily mail": "ban",
-    "fox news": "ban",
-    "celebrity": "demote",
-    "fifa": "ban",
-    "baseball": "ban",
-    "mlb": "ban",
-    "nba": "ban",
-    "nfl": "ban",
-    "football": "ban",
-    "basketball":"ban",
-    "cosmopolitan":"ban",
-    "entertainment weekly": "ban",
-    "espn":"ban",
-    "us weekly": "ban",
-    "vogue":"ban",
-    "golf":"ban",
-    "food":"ban",
-    "local":"demote",
-    "county":"demote",
-    "town":"demote"
-}
-
-DEMOTE_FACTOR = 0.5 
+DEMOTE_FACTOR = 0.5             # 0-1: Applied to demoted in `overrides.csv` 
 
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
@@ -71,6 +46,7 @@ BASE_DIR = os.path.dirname(__file__)
 TOPICS_CSV = os.path.join(BASE_DIR, "topics.csv")
 KEYWORDS_CSV = os.path.join(BASE_DIR, "keywords.csv")
 HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
+OVERRIDES_CSV = os.path.join(BASE_DIR, "overrides.csv")
 
 # Initialize logging immediately to capture all runtime info
 log_path = os.path.join(BASE_DIR, "logs/digest_bot.log")
@@ -145,6 +121,23 @@ def load_keyword_weights():
 
 KEYWORD_WEIGHTS = load_keyword_weights()
 NORMALIZED_KEYWORDS = { normalize(k): v for k, v in KEYWORD_WEIGHTS.items() }
+
+def load_overrides():
+    overrides = {}
+    try:
+        with open(OVERRIDES_CSV, newline='', encoding='utf-8') as f:
+            reader = csv.reader(f)
+            next(reader, None)  # Skip header
+            for row in reader:
+                if len(row) >= 2:
+                    keyword = row[0].strip().lower()
+                    action = row[1].strip().lower()
+                    overrides[keyword] = action
+    except FileNotFoundError:
+        logging.warning("overrides.csv not found, proceeding without overrides.")
+    return overrides
+
+OVERRIDES = load_overrides()
 
 def score_text(text):
     norm_text = normalize(text)
