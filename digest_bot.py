@@ -9,15 +9,29 @@ MIN_ARTICLE_SCORE = 1           # Minimum combined score to include article
 MAX_TOPICS = 7                  # Max number of topics to include in each digest
 MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
 
-DEDUPLICATION_THRESHOLD = 0.3   # 0-1: Similarity threshold for deduplication (0-1)
-TREND_OVERLAP_THRESHOLD = 0.3   # 0–1: Min token overlap for a headline to match a topic
+DEDUPLICATION_THRESHOLD = 0.2   # 0-1: Similarity threshold for deduplication (0-1)
+TREND_OVERLAP_THRESHOLD = 0.2   # 0–1: Min token overlap for a headline to match a topic
 
 CATEGORY_ACTIONS = {
     "sports": "ban",
     "entertainment": "demote",
     "daily mail": "ban",
     "fox news": "ban",
-    "celebrity": "demote"
+    "celebrity": "demote",
+    "fifa": "ban",
+    "baseball": "ban",
+    "mlb": "ban",
+    "nba": "ban",
+    "nfl": "ban",
+    "football": "ban",
+    "basketball":"ban",
+    "cosmopolitan":"ban",
+    "entertainment weekly": "ban",
+    "espn":"ban",
+    "us weekly": "ban",
+    "vogue":"ban",
+    "golf":"ban",
+    "food":"ban"
 }
 DEMOTE_FACTOR = 0.5 
 
@@ -290,10 +304,13 @@ def dedupe_articles(articles, threshold=DEDUPLICATION_THRESHOLD):
     deduped_articles = [articles[i] for i in selected_indices]
     return deduped_articles
 
-# Checks if a normalized article title is already in the history for a topic
-def is_in_history(article_title, topic_key, history):
+# Checks if a normalized article title is already in history.json
+def is_in_history(article_title, history):
     norm_title = normalize(article_title)
-    return any(normalize(a["title"]) == norm_title for a in history.get(topic_key, []))
+    for articles in history.values():
+        if any(normalize(a["title"]) == norm_title for a in articles):
+            return True
+    return False
 
 # Converts datetime to US Eastern Timezone
 def to_eastern(dt): 
