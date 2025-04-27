@@ -1,4 +1,4 @@
-# News Digest Bot
+# News Bot
 
 This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest with a [Gmail app password](https://support.google.com/mail/answer/185833?hl=en). It prioritizes high-importance headlines using keyword and topic scoring, and ensures each email contains fresh, non-repeating articles. Designed to run daily using `cron` on any Unix-based system.
 
@@ -18,15 +18,15 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 ## Directory Structure
 
 ```plaintext
-news-digest-bot/
-├── digest_bot.py         # Main script and parameters
+newsbot/
+├── newsbot.py         # Main script and parameters
 ├── requirements.txt      # Package requirements
 ├── topics.csv            # List of topics and weights
 ├── keywords.csv          # List of keywords and weights
 ├── history.json          # Tracks previously sent headlines (excluded from version control)
 ├── .env                  # Email credentials and configuration (excluded from version control)
 ├── logs/                 # Logging directory (excluded from version control)
-│   └── digest_bot.log    # Runtime logs and cron output
+│   └── newsbot.log    # Runtime logs and cron output
 ```
 
 ---
@@ -51,7 +51,7 @@ news-digest-bot/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/brayvid/news-digest-bot.git
+git clone https://github.com/brayvid/newsbot.git
 cd news-digest-bot
 ```
 
@@ -101,7 +101,7 @@ pip3 install nltk requests python-dotenv scikit-learn
 ## Running the Script
 
 ```bash
-python3 digest_bot.py
+python3 newsbot.py
 ```
 
 To automate daily delivery:
@@ -113,7 +113,7 @@ crontab -e
 Add a line like the following:
 
 ```cron
-0 8 * * * cd /path/to/news-digest-bot && /usr/bin/env python3 digest_bot.py >> logs/digest_bot.log 2>&1
+0 8 * * * cd /path/to/newsbot && /usr/bin/env python3 newsbot.py >> logs/newsbot.log 2>&1
 ```
 
 This runs the script every day at 8:00 AM server time.
@@ -122,17 +122,17 @@ This runs the script every day at 8:00 AM server time.
 
 ### Lockfile Notice
 
-If the script fails or is force-terminated, it may leave behind a lockfile at `/tmp/digest_bot.lock`. To remove it manually:
+If the script fails or is force-terminated, it may leave behind a lockfile at `/tmp/newsbot.lock`. To remove it manually:
 
 ```bash
-rm /tmp/digest_bot.lock
+rm /tmp/newsbot.lock
 ```
 
 ---
 
 ## Logging
 
-All script logs are saved to `logs/digest_bot.log`. The `logs/` directory will be created automatically if it doesn't exist.
+All script logs are saved to `logs/newsbot.log`. The `logs/` directory will be created automatically if it doesn't exist.
 
 ---
 

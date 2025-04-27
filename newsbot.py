@@ -1,4 +1,4 @@
-# Author: Blake Rayvid <https://github.com/brayvid/news-digest-bot>
+# Author: Blake Rayvid <https://github.com/brayvid/newsbot>
 
 # ─── Configurable Parameters ─────────────────────────────────────────────────
 TREND_WEIGHT = 1                # 1–5: How much to boost a topic if it matches trending
@@ -49,7 +49,7 @@ HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
 OVERRIDES_CSV = os.path.join(BASE_DIR, "overrides.csv")
 
 # Initialize logging immediately to capture all runtime info
-log_path = os.path.join(BASE_DIR, "logs/digest_bot.log")
+log_path = os.path.join(BASE_DIR, "logs/newsbot.log")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 logging.basicConfig(filename=log_path, level=logging.INFO)
 logging.info(f"Script started at {datetime.now()}")
@@ -76,7 +76,7 @@ def ensure_nltk_data():
 ensure_nltk_data()
 
 # Prevent concurrent runs using a lockfile
-LOCKFILE = "/tmp/digest_bot.lock"
+LOCKFILE = "/tmp/newsbot.lock"
 if os.path.exists(LOCKFILE):
     print("Script is already running. Exiting.")
     sys.exit()
