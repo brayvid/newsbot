@@ -32,8 +32,11 @@ CATEGORY_ACTIONS = {
     "vogue":"ban",
     "golf":"ban",
     "food":"ban",
-    "local":"demote"
+    "local":"demote",
+    "county":"demote",
+    "town":"demote"
 }
+
 DEMOTE_FACTOR = 0.5 
 
 import os
@@ -154,8 +157,8 @@ def score_text(text):
 
     word_count = len(norm_text.split())
 
-    # Boost: longer headlines get a slight bonus (up to +50%)
-    long_title_bonus = 1.0 + min(word_count / 20.0, 0.5)
+    # Boost: longer headlines get a slight bonus
+    long_title_bonus = 1.0 + min(word_count / 30.0, 0.3)
 
     score = score * long_title_bonus
     return score
@@ -261,25 +264,21 @@ def match_article_to_topics(article_title, topic_weights, keyword_weights):
 
 # Calculates final article score combining keyword relevance, topic weight, and a recency bonus.
 def combined_score(topic, article, topic_weights):
-    importance_map = {
-        "geopolitics": 1.5,
-        "world news": 1.4,
-        "economy": 1.3,
-        "science": 1.2,
-        "technology": 1.1,
-        "health": 1.1,
-        "local news": 0.2,
-        "entertainment": 0.2,
-        "sports": 0.2,
-    }
-    source_quality_boost = 1.2 if any(s in (article.get("link") or "").lower() for s in ["reuters", "bbc", "apnews", "nytimes", "wsj"]) else 1.0
     topic_key = topic.lower()
-    importance = importance_map.get(topic_key, 1.0)
+    importance = 1.0  # Default importance factor
 
-    # New: Demote or ban certain topics
+    # Normalize title once
+    normalized_title = normalize(article["title"])
+
+    # Ban based on banned keywords inside the title
+    for banned_word, action in CATEGORY_ACTIONS.items():
+        if action == "ban" and banned_word in normalized_title:
+            return 0
+
+    # Demote or ban based on topic
     action = CATEGORY_ACTIONS.get(topic_key)
     if action == "ban":
-        return 0  # Will get filtered out later
+        return 0
     elif action == "demote":
         importance *= DEMOTE_FACTOR
 
@@ -287,7 +286,7 @@ def combined_score(topic, article, topic_weights):
     topic_score = topic_weights.get(topic, 1) * TOPIC_WEIGHT
     recency_score = 5 if article.get("pub_dt") and article["pub_dt"] > datetime.now(ZoneInfo("America/New_York")) - timedelta(hours=6) else 1
 
-    total_score = (keyword_score + topic_score) * recency_score * importance * source_quality_boost
+    total_score = (keyword_score + topic_score) * recency_score * importance
     return total_score
 
 # Removes articles with similar titles above a similarity threshold
@@ -405,16 +404,21 @@ def main():
         )[:MAX_TOPICS]
 
         digest = {}
+        selected_titles = set()  # track selected articles globally across topics
+
         for topic, _ in digest_topics:
             # Get sorted & deduped articles for this topic
             articles = all_articles.get(topic, [])
 
-            # Filter out articles that have already been emailed
-            articles = [a for a in articles if not is_in_history(a["title"], history)]
+            # Filter out articles that have already been emailed or already selected
+            articles = [
+                a for a in articles
+                if normalize(a["title"]) not in selected_titles and not is_in_history(a["title"], history)
+            ]
 
             if not articles:
                 continue
-            
+
             # Introduce small variation to get fresh combos
             start_index = random.randint(0, min(2, len(articles) - 1))
             articles = articles[start_index:start_index + 5]
@@ -432,7 +436,12 @@ def main():
                 if i == 0 or all(sim_matrix[i][j] < DEDUPLICATION_THRESHOLD for j in range(i)):
                     selected.append(articles[i])
 
+            # After selecting articles, add them to selected_titles
+            for article in selected:
+                selected_titles.add(normalize(article["title"]))
+
             digest[topic] = selected
+
 
         # Debugging
         # logging.info(f"Digest content: {json.dumps(digest, indent=2, default=str)}")
