@@ -14,7 +14,7 @@ TREND_OVERLAP_THRESHOLD = 0.2   # 0–1: Min token overlap for a headline to mat
 
 DEMOTE_FACTOR = 0.5             # 0-1: Applied to demoted in `overrides.csv` 
 
-DAYS_CUTOFF = 3                 # Maximum days old an article can be to be included
+DAYS_CUTOFF = 3                 # Maximum article age in days to be included
 
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
