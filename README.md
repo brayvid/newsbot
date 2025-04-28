@@ -36,16 +36,16 @@ newsbot/
 
 | Parameter                  | What It Does |
 |---------------------------|--------------|
-| `TREND_WEIGHT`            | 1-5: Boost for trending topics |
-| `TOPIC_WEIGHT`            | 1-5: Boost for topics in `topics.csv` |
-| `KEYWORD_WEIGHT`          | 1-5: Boost for matching keywords |
+| `TREND_WEIGHT`            | 1-5: Boost for matching top headlines |
+| `TOPIC_WEIGHT`            | 1-5: Boost for matching `topics.csv` |
+| `KEYWORD_WEIGHT`          | 1-5: Boost for matching `keywords.csv` |
+| `MIN_ARTICLE_SCORE`       | Minimum article score to be included |
+| `MAX_ARTICLE_AGE`         | Maximum article age in days to be included |
+| `MAX_TOPICS`              | Maximum number of topics in digest |
+| `MAX_ARTICLES_PER_TOPIC`  | Maximum number of articles per topic in digest |
 | `TREND_OVERLAP_THRESHOLD` | 0-1: Token overlap % needed to detect a trending topic |
 | `DEDUPLICATION_THRESHOLD` | 0-1: Similarity level to remove near-duplicate headlines |
-| `MIN_ARTICLE_SCORE`       | Articles below this score are ignored |
-| `MAX_TOPICS`              | Number of topics per digest |
-| `MAX_ARTICLES_PER_TOPIC`  | Number of articles per topic |
 | `DEMOTE_FACTOR`           | 0-1: Demote multiplier for `overrides.csv` |
-| `DAYS_CUTOFF`             | Maximum days old an article can be |
 
 ---
 

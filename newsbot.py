@@ -5,7 +5,9 @@ TREND_WEIGHT = 1                # 1–5: How much to boost a topic if it matches
 TOPIC_WEIGHT = 1                # 1–5: Importance of `topics.csv` scores
 KEYWORD_WEIGHT = 1              # 1–5: Importance of `keywords.csv` scores 
 
-MIN_ARTICLE_SCORE = 25          # Minimum combined score to include article
+MIN_ARTICLE_SCORE = 25          # Minimum combined score to include an article
+MAX_ARTICLE_AGE = 3             # Maximum age in days to include an article
+
 MAX_TOPICS = 7                  # Max number of topics to include in each digest
 MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
 
@@ -13,8 +15,6 @@ DEDUPLICATION_THRESHOLD = 0.2   # 0-1: Similarity threshold for deduplication (0
 TREND_OVERLAP_THRESHOLD = 0.2   # 0–1: Min token overlap for a headline to match a topic
 
 DEMOTE_FACTOR = 0.5             # 0-1: Applied to demoted in `overrides.csv` 
-
-DAYS_CUTOFF = 3                 # Maximum article age in days to be included
 
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
@@ -172,7 +172,7 @@ def fetch_google_top_headlines(max_articles=50):
         response.raise_for_status()
         root = ET.fromstring(response.content)
         items = root.findall("./channel/item")
-        time_cutoff = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=DAYS_CUTOFF)
+        time_cutoff = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=MAX_ARTICLE_AGE)
         articles = []
 
         for item in items:
@@ -210,7 +210,7 @@ def fetch_articles_for_topic(topic, topic_weights, keyword_weights):
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
         root = ET.fromstring(response.content)
-        time_cutoff = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=DAYS_CUTOFF)
+        time_cutoff = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=MAX_ARTICLE_AGE)
         articles = []
 
         for item in root.findall("./channel/item"):
