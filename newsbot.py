@@ -14,6 +14,8 @@ TREND_OVERLAP_THRESHOLD = 0.2   # 0–1: Min token overlap for a headline to mat
 
 DEMOTE_FACTOR = 0.5             # 0-1: Applied to demoted in `overrides.csv` 
 
+DAYS_CUTOFF = 3                 # Maximum days old an article can be to be included
+
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
 os.environ["OMP_NUM_THREADS"] = "1"
@@ -170,7 +172,7 @@ def fetch_google_top_headlines(max_articles=50):
         response.raise_for_status()
         root = ET.fromstring(response.content)
         items = root.findall("./channel/item")
-        one_week_ago = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=7)
+        time_cutoff = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=DAYS_CUTOFF)
         articles = []
 
         for item in items:
@@ -183,7 +185,7 @@ def fetch_google_top_headlines(max_articles=50):
             except:
                 continue
 
-            if pub_dt <= one_week_ago:
+            if pub_dt <= time_cutoff:
                 continue
 
             articles.append({
@@ -208,7 +210,7 @@ def fetch_articles_for_topic(topic, topic_weights, keyword_weights):
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
         root = ET.fromstring(response.content)
-        one_week_ago = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=7)
+        time_cutoff = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=DAYS_CUTOFF)
         articles = []
 
         for item in root.findall("./channel/item"):
@@ -221,7 +223,7 @@ def fetch_articles_for_topic(topic, topic_weights, keyword_weights):
             except:
                 pub_dt = None
 
-            if not pub_dt or pub_dt <= one_week_ago:
+            if not pub_dt or pub_dt <= time_cutoff:
                 continue
 
             articles.append({
@@ -264,12 +266,9 @@ def combined_score(topic, article, topic_weights):
     topic_key = topic.lower()
     importance = 1.0  # Default importance factor
 
-    # Normalize title once
-    normalized_title = normalize(article["title"])
-
     # Ban based on banned keywords inside the title
     for banned_word, action in OVERRIDES.items():
-        if action == "ban" and banned_word in normalized_title:
+        if action == "ban" and banned_word.lower() in article["title"].lower():
             return 0
 
     # Demote or ban based on topic
