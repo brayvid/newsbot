@@ -23,6 +23,7 @@ newsbot/
 ├── requirements.txt      # Package requirements
 ├── topics.csv            # List of topics and weights
 ├── keywords.csv          # List of keywords and weights
+├── overrides.csv         # List of keywords to ban or demote
 ├── history.json          # Tracks previously sent headlines (excluded from version control)
 ├── .env                  # Email credentials and configuration (excluded from version control)
 ├── logs/                 # Logging directory (excluded from version control)
@@ -43,6 +44,8 @@ newsbot/
 | `MIN_ARTICLE_SCORE`       | Articles below this score are ignored |
 | `MAX_TOPICS`              | Number of topics per digest |
 | `MAX_ARTICLES_PER_TOPIC`  | Number of articles per topic |
+| `DEMOTE_FACTOR`           | 0-1: Demote multiplier for `overrides.csv` |
+| `DAYS_CUTOFF`             | Maximum days old an article can be |
 
 ---
 
