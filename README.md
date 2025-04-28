@@ -98,7 +98,15 @@ pip3 install nltk requests python-dotenv scikit-learn
   nuclear,5
   ...
   ```
+- `overrides.csv` – banned and demoted keywords:
 
+  ```
+  Keyword,Action
+  fox news,ban
+  daily mail,ban
+  entertainment,demote
+  ...
+  ```
 ---
 
 ## Running the Script
