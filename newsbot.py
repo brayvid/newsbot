@@ -43,7 +43,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from dotenv import load_dotenv
 
-# Load topics.csv, keywords.csv and history.json
+# Load topics.csv, keywords.csv, overrides.csv and history.json
 BASE_DIR = os.path.dirname(__file__)
 TOPICS_CSV = os.path.join(BASE_DIR, "topics.csv")
 KEYWORDS_CSV = os.path.join(BASE_DIR, "keywords.csv")
