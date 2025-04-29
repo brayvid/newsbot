@@ -12,7 +12,7 @@ MAX_TOPICS = 7                  # Max number of topics to include in each digest
 MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
 
 DEDUPLICATION_THRESHOLD = 0.2   # 0-1: Similarity threshold for deduplication (0-1)
-TREND_OVERLAP_THRESHOLD = 0.2   # 0–1: Min token overlap for a headline to match a topic
+TREND_OVERLAP_THRESHOLD = 0.5   # 0–1: Min token overlap for a headline to match a topic
 
 DEMOTE_FACTOR = 0.5             # 0-1: Applied to demoted in `overrides.csv` 
 
