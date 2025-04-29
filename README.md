@@ -82,7 +82,7 @@ pip3 install nltk requests python-dotenv scikit-learn
   ```
 
   (You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account.)
-<br>
+
 
 - `topics.csv` – your list of prioritized topics, one per line:
 
@@ -102,7 +102,7 @@ pip3 install nltk requests python-dotenv scikit-learn
   nuclear,5
   ...
   ```
-  
+
 - `overrides.csv` – banned and demoted keywords:
 
   ```
