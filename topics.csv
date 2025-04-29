@@ -5,7 +5,7 @@ Fusion Power,2
 Intelligence Agencies,2
 Israel,3
 Hamas,2
-Public Health,3
+Public Health,2
 Russia,3
 Ukraine,3
 Cancer,2
@@ -15,9 +15,9 @@ Financial Markets,3
 Inflation,3
 Large Language Model,3
 Machine Learning,3
-Neuroscience,3
+Neuroscience,2
 North Korea,2
-Quantum Mechanics,3
+Quantum Mechanics,2
 Renewable Energy,3
 United Nations,3
 US Foreign Policy,3
@@ -26,9 +26,9 @@ Cloud Computing,3
 Democratic Party,3
 Elon Musk,3
 Geothermal Power,3
-Health Care,3
+Health Care,2
 Jeff Bezos,3
-Programming Languages,3
+Programming Languages,2
 Psychology,3
 Republican Party,3
 Solar Power,3
@@ -220,4 +220,4 @@ Asteroids,2
 Earth's Magnetic Field,2
 Oceans,2
 Venture Capital,2
-Trade War, 5
+Trade War,5
