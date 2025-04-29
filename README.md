@@ -1,6 +1,6 @@
 # NewsBot
 
-This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest with a [Gmail app password](https://support.google.com/mail/answer/185833?hl=en). It prioritizes high-importance headlines using keyword and topic scoring, and ensures each email contains fresh, non-repeating articles. Designed to run daily using `cron` on any Unix-based system.
+This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest. It prioritizes high-importance headlines using keyword and topic scoring, and ensures each email contains fresh, non-repeating articles. Designed to run daily using `cron` on any Unix-based system.
 
 ---
 
@@ -80,7 +80,9 @@ pip3 install nltk requests python-dotenv scikit-learn
   GMAIL_APP_PASSWORD=your_app_password
   MAILTO=recipient@example.com
   ```
-  
+
+  (You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account.)
+<br>
 - `topics.csv` – your list of prioritized topics, one per line:
 
   ```
@@ -131,7 +133,7 @@ This runs the script every day at 8:00 AM server time.
 
 ---
 
-### Lockfile Notice
+## Lockfile Notice
 
 If the script fails or is force-terminated, it may leave behind a lockfile at `/tmp/newsbot.lock`. To remove it manually:
 
@@ -157,17 +159,17 @@ All script logs are saved to `logs/newsbot.log`. The `logs/` directory will be c
 ---
 <br>
 
-# Sample Digest
+## Sample Digest
 
-  <h2>Research and Development</h2>
+  <h3>Research and Development</h3>
   <p>📰 <a href="https://www.rdworldonline.com/openai-releases-o3-a-model-that-tops-99-of-human-competitors-on-ioi-2024-and-codeforces-benchmarks">OpenAI releases o3, a model that tops 99% of human competitors on IOI 2024 and Codeforces benchmarks - R&D World</a><br>
   📅 Wed, 16 Apr 2025 06:04 PM EDT — <strong>Score: 65</strong></p>
 
-  <h2>Donald Trump</h2>
+  <h3>Donald Trump</h3>
   <p>📰 <a href="https://www.theatlantic.com/ideas/archive/2025/04/donald-trump-authoritarian-actions/682486/">America’s Mad King - The Atlantic</a><br>
   📅 Thu, 17 Apr 2025 10:08 AM EDT — <strong>Score: 45</strong></p>
 
-  <h2>Health Care</h2>
+  <h3>Health Care</h3>
   <p>📰 <a href="https://www.politico.com/newsletters/future-pulse/2025/04/17/health-care-ai-stuck-in-the-waiting-room-00294471">Health care AI stuck in the waiting room - Politico</a><br>
   📅 Thu, 17 Apr 2025 02:00 PM EDT — <strong>Score: 20</strong></p>
 
