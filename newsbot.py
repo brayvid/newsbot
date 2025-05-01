@@ -14,7 +14,7 @@ MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
 DEDUPLICATION_THRESHOLD = 0.2   # 0-1: Similarity threshold for deduplication (0-1)
 TREND_OVERLAP_THRESHOLD = 0.5   # 0–1: Min token overlap for a headline to match a topic
 
-DEMOTE_FACTOR = 0.5             # 0-1: Applied to demoted in `overrides.csv` 
+DEMOTE_FACTOR = 0.2             # 0-1: Applied to demoted in `overrides.csv` 
 
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
@@ -95,6 +95,9 @@ def normalize(text):
 
 def load_topic_weights():
     weights = {}
+    if not os.path.exists(TOPICS_CSV):
+        logging.warning("topics.csv not found. Proceeding without topics.")
+        return weights
     with open(TOPICS_CSV, newline='', encoding='utf-8') as f:
         reader = csv.reader(f)
         next(reader, None)
@@ -107,8 +110,12 @@ def load_topic_weights():
                 continue
     return weights
 
+
 def load_keyword_weights():
     weights = {}
+    if not os.path.exists(KEYWORDS_CSV):
+        logging.warning("keywords.csv not found. Proceeding without keyword scoring.")
+        return weights
     with open(KEYWORDS_CSV, newline='', encoding='utf-8') as f:
         reader = csv.reader(f)
         next(reader, None)
@@ -120,6 +127,7 @@ def load_keyword_weights():
             except ValueError:
                 continue
     return weights
+
 
 KEYWORD_WEIGHTS = load_keyword_weights()
 NORMALIZED_KEYWORDS = { normalize(k): v for k, v in KEYWORD_WEIGHTS.items() }
@@ -324,7 +332,7 @@ def main():
 
     try:
         topic_weights = load_topic_weights()
-        keyword_weights = load_keyword_weights()
+        keyword_weights = KEYWORD_WEIGHTS
         normalized_topics = {normalize(t): t for t in topic_weights}
 
         # Step 1: Get latest headlines and boost matching topics
