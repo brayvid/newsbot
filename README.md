@@ -164,16 +164,16 @@ All script logs are saved to `logs/newsbot.log`. The `logs/` directory will be c
 
 ## Sample Digest
 
-  <h3>Research and Development</h3>
-  <p>📰 <a href="https://www.rdworldonline.com/openai-releases-o3-a-model-that-tops-99-of-human-competitors-on-ioi-2024-and-codeforces-benchmarks">OpenAI releases o3, a model that tops 99% of human competitors on IOI 2024 and Codeforces benchmarks - R&D World</a><br>
-  📅 Wed, 16 Apr 2025 06:04 PM EDT — <strong>Score: 65</strong></p>
+<h3>Research and Development</h3>
+<p>📰 <a href="https://www.rdworldonline.com/openai-releases-o3-a-model-that-tops-99-of-human-competitors-on-ioi-2024-and-codeforces-benchmarks">OpenAI releases o3, a model that tops 99% of human competitors on IOI 2024 and Codeforces benchmarks - R&D World</a><br>
+📅 Wed, 16 Apr 2025 06:04 PM EDT — <strong>Score: 65</strong></p>
 
-  <h3>Donald Trump</h3>
-  <p>📰 <a href="https://www.theatlantic.com/ideas/archive/2025/04/donald-trump-authoritarian-actions/682486/">America’s Mad King - The Atlantic</a><br>
-  📅 Thu, 17 Apr 2025 10:08 AM EDT — <strong>Score: 45</strong></p>
+<h3>Donald Trump</h3>
+<p>📰 <a href="https://www.theatlantic.com/ideas/archive/2025/04/donald-trump-authoritarian-actions/682486/">America’s Mad King - The Atlantic</a><br>
+📅 Thu, 17 Apr 2025 10:08 AM EDT — <strong>Score: 45</strong></p>
 
-  <h3>Health Care</h3>
-  <p>📰 <a href="https://www.politico.com/newsletters/future-pulse/2025/04/17/health-care-ai-stuck-in-the-waiting-room-00294471">Health care AI stuck in the waiting room - Politico</a><br>
-  📅 Thu, 17 Apr 2025 02:00 PM EDT — <strong>Score: 20</strong></p>
+<h3>Health Care</h3>
+<p>📰 <a href="https://www.politico.com/newsletters/future-pulse/2025/04/17/health-care-ai-stuck-in-the-waiting-room-00294471">Health care AI stuck in the waiting room - Politico</a><br>
+📅 Thu, 17 Apr 2025 02:00 PM EDT — <strong>Score: 20</strong></p>
 
-  <hr>
+<hr>
