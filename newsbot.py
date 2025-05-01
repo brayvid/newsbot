@@ -458,10 +458,13 @@ def main():
 
         # Step 5: Compose and send email
         EMAIL_FROM = os.getenv("GMAIL_USER", "").encode("ascii", "ignore").decode()
-        EMAIL_TO = os.getenv("MAILTO", EMAIL_FROM).encode("ascii", "ignore").decode()
+        EMAIL_TO = EMAIL_FROM  # Send to yourself
+        EMAIL_BCC = os.getenv("MAILTO", "").strip()
+        EMAIL_BCC_LIST = [email.strip() for email in EMAIL_BCC.split(",") if email.strip()]
         SMTP_PASS = os.getenv("GMAIL_APP_PASSWORD", "")
         SMTP_SERVER = "smtp.gmail.com"
         SMTP_PORT = 587
+
 
         html_body = "<h2>Your News</h2>"
         for topic, articles in sorted(digest.items(), key=lambda x: -sum(a['score'] for a in x[1])):
@@ -485,6 +488,7 @@ def main():
         msg["Subject"] = f"🗞️ News – {datetime.now(ZoneInfo('America/New_York')).strftime('%Y-%m-%d %I:%M %p %Z')}"
         msg["From"] = EMAIL_FROM
         msg["To"] = EMAIL_TO
+        msg["Bcc"] = ", ".join(EMAIL_BCC_LIST)
         msg.set_content("This is the plain-text version of your digest.")
         msg.add_alternative(html_body, subtype="html")
 
