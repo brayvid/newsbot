@@ -557,7 +557,7 @@ def main():
         if os.path.exists(nltk_path):
             try:
                 shutil.rmtree(nltk_path)
-                logging.info("Deleted ~/nltk_data directory after run.")
+                # logging.info("Deleted ~/nltk_data directory after run.")
             except Exception as e:
                 logging.warning(f"Failed to delete ~/nltk_data: {e}")
 
