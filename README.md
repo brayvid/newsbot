@@ -73,13 +73,13 @@ pip3 install nltk requests python-dotenv scikit-learn
 
 `.env` – contains email credentials and recipient:
 
-  ```env
-  GMAIL_USER=your_email@gmail.com
-  GMAIL_APP_PASSWORD=your_app_password
-  MAILTO=recipient1@example.com,...
-  ```
+```env
+GMAIL_USER=your_email@gmail.com
+GMAIL_APP_PASSWORD=your_app_password
+MAILTO=recipient1@example.com,...
+```
 
-  (You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account.)
+(You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account.)
 
 
 ---
