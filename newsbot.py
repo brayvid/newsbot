@@ -74,6 +74,7 @@ KEYWORDS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ
 OVERRIDES_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=1760236101&single=true&output=csv"
 CONFIG_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
 
+# Loads key-value config settings from a CSV Google Sheet URL.
 def load_config_from_sheet(url):
     config = {}
     try:
@@ -117,6 +118,7 @@ def normalize(text):
     lemmatized = [lemmatizer.lemmatize(w) for w in stemmed]
     return " ".join(lemmatized)
 
+# Loads topics and weights
 def load_topic_weights():
     weights = {}
     try:
@@ -135,6 +137,7 @@ def load_topic_weights():
         logging.warning(f"Failed to load topic weights: {e}")
     return weights
 
+# Loads keywords and weights
 def load_keyword_weights():
     weights = {}
     try:
@@ -153,10 +156,10 @@ def load_keyword_weights():
         logging.warning(f"Failed to load keyword weights: {e}")
     return weights
 
-
 KEYWORD_WEIGHTS = load_keyword_weights()
 NORMALIZED_KEYWORDS = { normalize(k): v for k, v in KEYWORD_WEIGHTS.items() }
 
+# Loads overrides and actions
 def load_overrides():
     overrides = {}
     try:
@@ -176,6 +179,7 @@ def load_overrides():
 
 OVERRIDES = load_overrides()
 
+# Computes a weighted keyword relevance score for the given text, with length adjustments.
 def score_text(text):
     norm_text = normalize(text)
     score = 0
@@ -196,7 +200,6 @@ def score_text(text):
     # Final score adjustment
     score = score * long_title_bonus * short_title_penalty
     return score
-
 
 # Fetches up to N top headlines from Google News RSS (US edition) within the past week
 def fetch_google_top_headlines(max_articles=50):
@@ -238,6 +241,7 @@ def fetch_google_top_headlines(max_articles=50):
     except Exception:
         return []
 
+# Fetches recent news articles from Google News RSS feed for a specific topic.
 def fetch_articles_for_topic(topic):
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
     try:
@@ -273,31 +277,6 @@ def fetch_articles_for_topic(topic):
     except Exception:
         return []
     
-
-# Evaluates topic and keyword relevance of an article title; returns total score and per-topic match scores
-def match_article_to_topics(article_title, topic_weights, keyword_weights):
-    score = 0
-    normalized_title = normalize(article_title)
-
-    for keyword, weight in keyword_weights.items():
-        if keyword in normalized_title:
-            score += weight * KEYWORD_WEIGHT
-            logging.debug(f"Keyword match: '{keyword}' in '{article_title}'")
-
-    topic_match_scores = {}
-    for topic, weight in topic_weights.items():
-        normalized_topic = normalize(topic)
-        similarity = SequenceMatcher(None, normalized_title, normalized_topic).ratio()
-
-        if similarity > DEDUPLICATION_THRESHOLD:
-            topic_score = weight * TOPIC_WEIGHT
-            topic_match_scores[topic] = topic_score
-            # Debugging
-            # logging.info(f"Trending match: '{article_title}' ≈ '{topic}' (sim={similarity:.2f})")
-
-    total_topic_score = sum(topic_match_scores.values())
-    return score + total_topic_score, topic_match_scores
-
 # Calculates final article score combining keyword relevance, topic weight, and a recency bonus.
 def combined_score(topic, article, topic_weights):
     topic_key = topic.lower()
@@ -361,7 +340,6 @@ def main():
 
     try:
         topic_weights = load_topic_weights()
-        keyword_weights = KEYWORD_WEIGHTS
         normalized_topics = {normalize(t): t for t in topic_weights}
 
         # Step 1: Get latest headlines and boost matching topics
@@ -493,7 +471,6 @@ def main():
         SMTP_PASS = os.getenv("GMAIL_APP_PASSWORD", "")
         SMTP_SERVER = "smtp.gmail.com"
         SMTP_PORT = 587
-
 
         html_body = "<h2>Your News</h2>"
         for topic, articles in sorted(digest.items(), key=lambda x: -sum(a['score'] for a in x[1])):
