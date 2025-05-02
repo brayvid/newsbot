@@ -9,7 +9,7 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 - Reads [this](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing) configuration file from Google Sheets 
 - Retrieves top headlines from Google News
 - Selects your topics that have similarity to headlines
-- Scores and filters the latest stories for those topics
+- Scores and filters the latest headlines for those topics
 - Avoids showing you the same headline twice
 - Sends you a clean HTML email digest
 - Schedule with `cron`
