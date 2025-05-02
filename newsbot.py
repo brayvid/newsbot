@@ -1,28 +1,22 @@
 # Author: Blake Rayvid <https://github.com/brayvid/newsbot>
 
-# ─── Configurable Parameters ─────────────────────────────────────────────────
-TREND_WEIGHT = 1                # 1–5: How much to boost a topic if it matches trending
-TOPIC_WEIGHT = 1                # 1–5: Importance of `topics.csv` scores
-KEYWORD_WEIGHT = 1              # 1–5: Importance of `keywords.csv` scores 
-
-MIN_ARTICLE_SCORE = 25          # Minimum combined score to include an article
-MAX_ARTICLE_AGE = 3             # Maximum age in days to include an article
-
-MAX_TOPICS = 7                  # Max number of topics to include in each digest
-MAX_ARTICLES_PER_TOPIC = 1      # Max number of articles per topic in the digest
-
-DEDUPLICATION_THRESHOLD = 0.2   # 0-1: Similarity threshold for deduplication (0-1)
-TREND_OVERLAP_THRESHOLD = 0.5   # 0–1: Min token overlap for a headline to match a topic
-
-DEMOTE_FACTOR = 0.2             # 0-1: Applied to demoted in `overrides.csv` 
-
 import os
+import sys
+
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
 os.environ["OMP_NUM_THREADS"] = "1"
 os.environ["MKL_NUM_THREADS"] = "1"
 os.environ["NUMEXPR_NUM_THREADS"] = "1"
 
-import sys
+# Prevent concurrent runs using a lockfile
+LOCKFILE = "/tmp/newsbot.lock"
+if os.path.exists(LOCKFILE):
+    print("Script is already running. Exiting.")
+    sys.exit()
+else:
+    with open(LOCKFILE, 'w') as f:
+        f.write("locked")
+
 import csv
 import smtplib
 import html
@@ -43,12 +37,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from dotenv import load_dotenv
 
-# Load topics.csv, keywords.csv, overrides.csv and history.json
 BASE_DIR = os.path.dirname(__file__)
-TOPICS_CSV = os.path.join(BASE_DIR, "topics.csv")
-KEYWORDS_CSV = os.path.join(BASE_DIR, "keywords.csv")
 HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
-OVERRIDES_CSV = os.path.join(BASE_DIR, "overrides.csv")
 
 # Initialize logging immediately to capture all runtime info
 log_path = os.path.join(BASE_DIR, "logs/newsbot.log")
@@ -77,14 +67,47 @@ def ensure_nltk_data():
 
 ensure_nltk_data()
 
-# Prevent concurrent runs using a lockfile
-LOCKFILE = "/tmp/newsbot.lock"
-if os.path.exists(LOCKFILE):
-    print("Script is already running. Exiting.")
-    sys.exit()
-else:
-    with open(LOCKFILE, 'w') as f:
-        f.write("locked")
+# Preferences CSVs in Google Sheets
+TOPICS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=0&single=true&output=csv"
+KEYWORDS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=314441026&single=true&output=csv"
+OVERRIDES_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=1760236101&single=true&output=csv"
+CONFIG_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
+
+def load_config_from_sheet(url):
+    config = {}
+    try:
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        lines = response.text.splitlines()
+        reader = csv.reader(lines)
+        next(reader, None)  # skip header
+        for row in reader:
+            if len(row) >= 2:
+                key = row[0].strip()
+                val = row[1].strip()
+                try:
+                    if '.' in val:
+                        config[key] = float(val)
+                    else:
+                        config[key] = int(val)
+                except ValueError:
+                    config[key] = val  # fallback to string
+    except Exception as e:
+        logging.warning(f"Failed to load config from Google Sheet: {e}")
+    return config
+
+CONFIG = load_config_from_sheet(CONFIG_URL)
+
+TREND_WEIGHT = CONFIG.get("TREND_WEIGHT", 1)
+TOPIC_WEIGHT = CONFIG.get("TOPIC_WEIGHT", 1)
+KEYWORD_WEIGHT = CONFIG.get("KEYWORD_WEIGHT", 1)
+MIN_ARTICLE_SCORE = CONFIG.get("MIN_ARTICLE_SCORE", 25)
+MAX_ARTICLE_AGE = CONFIG.get("MAX_ARTICLE_AGE", 3)
+MAX_TOPICS = CONFIG.get("MAX_TOPICS", 7)
+MAX_ARTICLES_PER_TOPIC = CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1)
+DEDUPLICATION_THRESHOLD = CONFIG.get("DEDUPLICATION_THRESHOLD", 0.2)
+TREND_OVERLAP_THRESHOLD = CONFIG.get("TREND_OVERLAP_THRESHOLD", 0.5)
+DEMOTE_FACTOR = CONFIG.get("DEMOTE_FACTOR", 0.2)
 
 # Lowercases, stems, and lemmatizes words to produce normalized text for matching.
 def normalize(text):
@@ -95,37 +118,38 @@ def normalize(text):
 
 def load_topic_weights():
     weights = {}
-    if not os.path.exists(TOPICS_CSV):
-        logging.warning("topics.csv not found. Proceeding without topics.")
-        return weights
-    with open(TOPICS_CSV, newline='', encoding='utf-8') as f:
-        reader = csv.reader(f)
-        next(reader, None)
+    try:
+        response = requests.get(TOPICS_CSV_URL, timeout=10)
+        response.raise_for_status()
+        lines = response.text.splitlines()
+        reader = csv.reader(lines)
+        next(reader, None)  # skip header
         for row in reader:
-            if len(row) < 2 or not row[0].strip() or not row[1].strip():
-                continue
-            try:
-                weights[row[0].strip()] = int(row[1])
-            except ValueError:
-                continue
+            if len(row) >= 2:
+                try:
+                    weights[row[0].strip()] = int(row[1])
+                except ValueError:
+                    continue
+    except Exception as e:
+        logging.warning(f"Failed to load topic weights: {e}")
     return weights
-
 
 def load_keyword_weights():
     weights = {}
-    if not os.path.exists(KEYWORDS_CSV):
-        logging.warning("keywords.csv not found. Proceeding without keyword scoring.")
-        return weights
-    with open(KEYWORDS_CSV, newline='', encoding='utf-8') as f:
-        reader = csv.reader(f)
+    try:
+        response = requests.get(KEYWORDS_CSV_URL, timeout=10)
+        response.raise_for_status()
+        lines = response.text.splitlines()
+        reader = csv.reader(lines)
         next(reader, None)
         for row in reader:
-            if len(row) < 2 or not row[0].strip() or not row[1].strip():
-                continue
-            try:
-                weights[row[0].strip().lower()] = int(row[1])
-            except ValueError:
-                continue
+            if len(row) >= 2:
+                try:
+                    weights[row[0].strip().lower()] = int(row[1])
+                except ValueError:
+                    continue
+    except Exception as e:
+        logging.warning(f"Failed to load keyword weights: {e}")
     return weights
 
 
@@ -135,16 +159,18 @@ NORMALIZED_KEYWORDS = { normalize(k): v for k, v in KEYWORD_WEIGHTS.items() }
 def load_overrides():
     overrides = {}
     try:
-        with open(OVERRIDES_CSV, newline='', encoding='utf-8') as f:
-            reader = csv.reader(f)
-            next(reader, None)  # Skip header
-            for row in reader:
-                if len(row) >= 2:
-                    keyword = row[0].strip().lower()
-                    action = row[1].strip().lower()
-                    overrides[keyword] = action
-    except FileNotFoundError:
-        logging.warning("overrides.csv not found, proceeding without overrides.")
+        response = requests.get(OVERRIDES_CSV_URL, timeout=10)
+        response.raise_for_status()
+        lines = response.text.splitlines()
+        reader = csv.reader(lines)
+        next(reader, None)
+        for row in reader:
+            if len(row) >= 2:
+                keyword = row[0].strip().lower()
+                action = row[1].strip().lower()
+                overrides[keyword] = action
+    except Exception as e:
+        logging.warning(f"Failed to load overrides: {e}")
     return overrides
 
 OVERRIDES = load_overrides()
@@ -211,7 +237,7 @@ def fetch_google_top_headlines(max_articles=50):
     except Exception:
         return []
 
-def fetch_articles_for_topic(topic, topic_weights, keyword_weights):
+def fetch_articles_for_topic(topic):
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
@@ -245,6 +271,8 @@ def fetch_articles_for_topic(topic, topic_weights, keyword_weights):
 
     except Exception:
         return []
+    
+
 # Evaluates topic and keyword relevance of an article title; returns total score and per-topic match scores
 def match_article_to_topics(article_title, topic_weights, keyword_weights):
     score = 0
@@ -389,7 +417,7 @@ def main():
         # Step 3: Fetch articles only for selected topics
         all_articles = {}
         for topic in topics_to_fetch:
-            articles = fetch_articles_for_topic(topic, boosted_topic_weights, keyword_weights)
+            articles = fetch_articles_for_topic(topic)
             if articles:
                 deduped = dedupe_articles(articles)
                 scored = []

@@ -19,15 +19,12 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 
 ```plaintext
 newsbot/
-├── newsbot.py         # Main script and parameters
+├── newsbot.py            # Main script
 ├── requirements.txt      # Package requirements
-├── topics.csv            # List of topics and weights
-├── keywords.csv          # List of keywords and weights
-├── overrides.csv         # List of keywords to ban or demote
 ├── history.json          # Tracks previously sent headlines (excluded from version control)
 ├── .env                  # Email credentials and configuration (excluded from version control)
 ├── logs/                 # Logging directory (excluded from version control)
-│   └── newsbot.log    # Runtime logs and cron output
+│   └── newsbot.log       # Runtime logs and cron output
 ```
 
 ---
@@ -37,15 +34,15 @@ newsbot/
 | Parameter                  | What It Does |
 |---------------------------|--------------|
 | `TREND_WEIGHT`            | 1-5: Boost for matching top headlines |
-| `TOPIC_WEIGHT`            | 1-5: Boost for matching `topics.csv` |
-| `KEYWORD_WEIGHT`          | 1-5: Boost for matching `keywords.csv` |
+| `TOPIC_WEIGHT`            | 1-5: Boost for matching topics |
+| `KEYWORD_WEIGHT`          | 1-5: Boost for matching keywords |
 | `MIN_ARTICLE_SCORE`       | Minimum article score to be included |
 | `MAX_ARTICLE_AGE`         | Maximum article age in days to be included |
 | `MAX_TOPICS`              | Maximum number of topics in digest |
 | `MAX_ARTICLES_PER_TOPIC`  | Maximum number of articles per topic in digest |
 | `TREND_OVERLAP_THRESHOLD` | 0-1: Token overlap % needed to detect a trending topic |
 | `DEDUPLICATION_THRESHOLD` | 0-1: Similarity level to remove near-duplicate headlines |
-| `DEMOTE_FACTOR`           | 0-1: Demote multiplier for `overrides.csv` |
+| `DEMOTE_FACTOR`           | 0-1: Demote multiplier for overrides |
 
 ---
 
@@ -71,47 +68,19 @@ pip3 install nltk requests python-dotenv scikit-learn
 ```
 
 
-### 3. Prepare Configuration Files
+### 3. Prepare Environment File
 
-- `.env` – contains email credentials and recipient:
+`.env` – contains email credentials and recipient:
 
   ```env
   GMAIL_USER=your_email@gmail.com
   GMAIL_APP_PASSWORD=your_app_password
-  MAILTO=recipient@example.com
+  MAILTO=recipient1@example.com,...
   ```
 
   (You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account.)
 
 
-- `topics.csv` – your list of prioritized topics, one per line:
-
-  ```
-  Topic,Weight
-  Artificial Intelligence,5
-  Renewable Energy,5
-  ...
-  ```
-
-- `keywords.csv` – relevant keywords to influence scoring:
-
-  ```
-  Keyword,Weight
-  war,5
-  invasion,5
-  nuclear,5
-  ...
-  ```
-
-- `overrides.csv` – banned and demoted keywords:
-
-  ```
-  Keyword,Action
-  fox news,ban
-  daily mail,ban
-  entertainment,demote
-  ...
-  ```
 ---
 
 ## Running the Script
