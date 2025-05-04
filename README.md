@@ -108,10 +108,10 @@ This runs the script every day at 8:00 AM server time.
 
 ## Lockfile Notice
 
-If the script fails or is force-terminated, it may leave behind a lockfile at `/tmp/newsbot.lock`. To remove it manually:
+If the script fails or is force-terminated, it may leave behind a lockfile `newsbot.lock`. To remove it manually:
 
 ```bash
-rm /tmp/newsbot.lock
+rm newsbot.lock
 ```
 
 ---

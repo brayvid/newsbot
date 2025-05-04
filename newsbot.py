@@ -8,8 +8,10 @@ os.environ["OMP_NUM_THREADS"] = "1"
 os.environ["MKL_NUM_THREADS"] = "1"
 os.environ["NUMEXPR_NUM_THREADS"] = "1"
 
+BASE_DIR = os.path.dirname(__file__)
+
 # Prevent concurrent runs using a lockfile
-LOCKFILE = "/tmp/newsbot.lock"
+LOCKFILE = os.path.join(BASE_DIR, "newsbot.lock")
 if os.path.exists(LOCKFILE):
     print("Script is already running. Exiting.")
     sys.exit()
@@ -38,7 +40,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from dotenv import load_dotenv
 
-BASE_DIR = os.path.dirname(__file__)
 HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
 
 # Initialize logging immediately to capture all runtime info

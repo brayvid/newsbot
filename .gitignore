@@ -2,3 +2,4 @@
 .env
 logs/
 history.json
+newsbot.lock
