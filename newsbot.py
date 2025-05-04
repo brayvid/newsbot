@@ -64,7 +64,7 @@ def ensure_nltk_data():
 
 ensure_nltk_data()
 
-# Preferences CSVs in Google Sheets
+# Configuration file in Google Sheets
 TOPICS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=0&single=true&output=csv"
 KEYWORDS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=314441026&single=true&output=csv"
 OVERRIDES_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=1760236101&single=true&output=csv"
@@ -224,21 +224,54 @@ def fetch_articles_for_topic(topic, max_age_days=3):
         logging.warning(f"Failed to fetch articles for {topic}: {e}")
         return []
 
+def build_user_preferences(topics, keywords, overrides):
+    """
+    Build a structured string representing the user's topic/keyword preferences
+    and overrides, preserving importance scores.
+    """
+    preferences = []
+
+    if topics:
+        preferences.append("User topics (ranked 1-5 in importance):")
+        for topic, score in sorted(topics.items(), key=lambda x: -x[1]):
+            preferences.append(f"- {topic}: {score}")
+
+    if keywords:
+        preferences.append("\nHeadline keywords (ranked 1-5 in importance):")
+        for keyword, score in sorted(keywords.items(), key=lambda x: -x[1]):
+            preferences.append(f"- {keyword}: {score}")
+
+    banned = [k for k, v in overrides.items() if v == "ban"]
+    demoted = [k for k, v in overrides.items() if v == "demote"]
+
+    if banned:
+        preferences.append("\nBanned terms (must not appear in topics or headlines):")
+        for term in banned:
+            preferences.append(f"- {term}")
+
+    if demoted:
+        preferences.append(f"\nDemoted terms (consider headlines with these terms {DEMOTE_FACTOR} as important to user):")
+        for term in demoted:
+            preferences.append(f"- {term}")
+
+    return "\n".join(preferences)
+
 def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gemini_api_key: str) -> dict:
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel(model_name="models/gemini-1.5-pro")
 
     prompt = (
-        "You are an assistant helping a user choose the most relevant news topics and headlines.\n"
-        f"Given a dictionary of topics and headlines, and the user's preferences, select {MAX_TOPICS} most relevant topics.\n"
-        f"For each selected topic, return the top {MAX_ARTICLES_PER_TOPIC} most engaging headlines.\n"
+        "You are helping choose the most relevant news topics and headlines to include in a digest.\n"
+        f"Given a dictionary of topics and headlines, and the user's preferences, select the {MAX_TOPICS} most important topics today.\n"
+        f"For each selected topic, return the top {MAX_ARTICLES_PER_TOPIC} most important headlines.\n"
         "Avoid repeating the same or similar headlines.\n"
+        "There should be a healthy diversity of subjects in your recommendations."
         "Respond ONLY with valid JSON like:\n"
         "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
         f"User Preferences:\n{user_preferences}\n\n"
         f"Topics and Headlines:\n{json.dumps(topics_to_headlines, indent=2)}\n"
     )
-
+    # print(prompt)
     response = model.generate_content([prompt])
     raw = getattr(response, "text", None)
 
@@ -252,22 +285,6 @@ def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gem
     except Exception:
         raise ValueError("Gemini returned invalid JSON or no content:\n" + repr(raw))
 
-def build_user_preferences(topics, keywords, overrides):
-    top_topics = sorted(topics.items(), key=lambda x: -x[1])[:5]
-    top_keywords = sorted(keywords.items(), key=lambda x: -x[1])[:5]
-    banned = [k for k, v in overrides.items() if v == "ban"]
-    demoted = [k for k, v in overrides.items() if v == "demote"]
-
-    parts = []
-    if top_topics:
-        parts.append("Preferred topics: " + ", ".join(t for t, _ in top_topics))
-    if top_keywords:
-        parts.append("Preferred keywords: " + ", ".join(k for k, _ in top_keywords))
-    if banned:
-        parts.append("Avoid topics or headlines mentioning: " + ", ".join(banned))
-    if demoted:
-        parts.append("Less interest in: " + ", ".join(demoted))
-    return ". ".join(parts)
 
 # Main logic: fetch trending headlines, identify strong topic matches, fetch and score articles, deduplicate and filter, and send the digest email.
 def main():
@@ -295,8 +312,12 @@ def main():
         for topic in topic_weights:
             articles = fetch_articles_for_topic(topic)
             if articles:
-                topics_to_headlines[topic] = [a["title"] for a in articles]
-                full_articles[topic] = articles
+                # Filter out articles already seen in history
+                fresh_articles = [a for a in articles if not is_in_history(a["title"], history)]
+                if fresh_articles:
+                    topics_to_headlines[topic] = [a["title"] for a in fresh_articles]
+                    full_articles[topic] = fresh_articles
+
 
         if not topics_to_headlines:
             logging.info("No headlines available for LLM input.")
