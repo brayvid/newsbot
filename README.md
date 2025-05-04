@@ -6,10 +6,10 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 
 ## How it works
 
-- Reads [this](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing) configuration file from Google Sheets 
-- Retrieves top headlines from Google News
-- Selects your topics that have similarity to headlines
-- Scores and filters the latest headlines for those topics
+- Reads [this configuration file](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing) on Google Sheets
+- Retrieves 50 trending news headlines from Google News
+- Selects your topics that have similarity to those top headlines
+- Retrieves and filters the latest headlines for those topics
 - Avoids showing you the same headline twice
 - Sends you a clean HTML email digest
 - Schedule with `cron`
@@ -37,8 +37,8 @@ newsbot/
 | `TREND_WEIGHT`            | 1-5: Boost for matching top headlines |
 | `TOPIC_WEIGHT`            | 1-5: Boost for matching topics |
 | `KEYWORD_WEIGHT`          | 1-5: Boost for matching keywords |
-| `MIN_ARTICLE_SCORE`       | Minimum article score to be included |
-| `MAX_ARTICLE_AGE`         | Maximum article age in days to be included |
+| `MIN_ARTICLE_SCORE`       | Minimum article score in digest |
+| `MAX_ARTICLE_AGE`         | Maximum article age in days in digest |
 | `MAX_TOPICS`              | Maximum number of topics in digest |
 | `MAX_ARTICLES_PER_TOPIC`  | Maximum number of articles per topic in digest |
 | `TREND_OVERLAP_THRESHOLD` | 0-1: Token overlap % needed to detect a trending topic |
@@ -108,7 +108,7 @@ This runs the script every day at 8:00 AM server time.
 
 ## Lockfile Notice
 
-If the script fails or is force-terminated, it may leave behind a lockfile `newsbot.lock`. To remove it manually:
+If the script fails or is force-terminated, it may leave behind a lockfile `newsbot.lock` in the project directory. To remove it manually:
 
 ```bash
 rm newsbot.lock
