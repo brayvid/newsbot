@@ -275,9 +275,6 @@ def main():
         if not gemini_api_key:
             logging.error("Missing GEMINI_API_KEY. Exiting.")
             return
-        else:
-            logging.info("GEMINI_API_KEY loaded successfully.")
-
 
         topic_weights = load_csv_weights(TOPICS_CSV_URL)
         keyword_weights = load_csv_weights(KEYWORDS_CSV_URL)
