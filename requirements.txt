@@ -1,5 +1,4 @@
 requests
 nltk
-scikit-learn
 python-dotenv
 google-generativeai
