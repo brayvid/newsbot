@@ -3,12 +3,20 @@
 import os
 import sys
 
-os.environ["OPENBLAS_NUM_THREADS"] = "1"
-os.environ["OMP_NUM_THREADS"] = "1"
-os.environ["MKL_NUM_THREADS"] = "1"
-os.environ["NUMEXPR_NUM_THREADS"] = "1"
+# Set number of threads for various libraries to 1 if parallelism is not permitted on your system
+# os.environ["OPENBLAS_NUM_THREADS"] = "1"
+# os.environ["OMP_NUM_THREADS"] = "1"
+# os.environ["MKL_NUM_THREADS"] = "1"
+# os.environ["NUMEXPR_NUM_THREADS"] = "1"
 
+# Define paths and URLs for local files and remote configuration.
 BASE_DIR = os.path.dirname(__file__)
+HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
+
+CONFIG_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
+TOPICS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=0&single=true&output=csv"
+KEYWORDS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=314441026&single=true&output=csv"
+OVERRIDES_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=1760236101&single=true&output=csv"
 
 # Prevent concurrent runs using a lockfile
 LOCKFILE = os.path.join(BASE_DIR, "newsbot.lock")
@@ -19,6 +27,7 @@ else:
     with open(LOCKFILE, 'w') as f:
         f.write("locked")
 
+# Import all required libraries
 import csv
 import smtplib
 import html
@@ -36,14 +45,13 @@ from nltk.stem import PorterStemmer, WordNetLemmatizer
 from dotenv import load_dotenv
 import google.generativeai as genai
 
-HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
-
 # Initialize logging immediately to capture all runtime info
 log_path = os.path.join(BASE_DIR, "logs/newsbot.log")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 logging.basicConfig(filename=log_path, level=logging.INFO)
 logging.info(f"Script started at {datetime.now()}")
 
+# Initialize NLP tools and load environment variables from .env file.
 stemmer = PorterStemmer()
 lemmatizer = WordNetLemmatizer()
 load_dotenv()
@@ -64,12 +72,6 @@ def ensure_nltk_data():
                 print(f"Failed to download {resource}: {e}")
 
 ensure_nltk_data()
-
-# Configuration files in Google Sheets
-TOPICS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=0&single=true&output=csv"
-KEYWORDS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=314441026&single=true&output=csv"
-OVERRIDES_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=1760236101&single=true&output=csv"
-CONFIG_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=446667252&single=true&output=csv"
 
 # Loads key-value config settings from a CSV Google Sheet URL.
 def load_config_from_sheet(url):
@@ -95,13 +97,16 @@ def load_config_from_sheet(url):
         logging.warning(f"Failed to load config from Google Sheet: {e}")
     return config
 
-CONFIG = load_config_from_sheet(CONFIG_URL)
+CONFIG = load_config_from_sheet(CONFIG_CSV_URL)
 
+# Extract user settings from the configuration with defaults.
 MAX_ARTICLE_AGE = int(CONFIG.get("MAX_ARTICLE_AGE", 6))
 MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 7))
 MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
-DEMOTE_FACTOR = CONFIG.get("DEMOTE_FACTOR",0.5)
+DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR",0.5))
+MATCH_THRESHOLD = 0.2
 
+# Load user-defined topic and keyword importance scores from Google Sheets.
 def load_csv_weights(url):
     weights = {}
     try:
@@ -120,6 +125,7 @@ def load_csv_weights(url):
         logging.warning(f"Failed to load weights from {url}: {e}")
     return weights
 
+# Load user overrides (banned or demoted terms) from Google Sheets.
 def load_overrides(url):
     overrides = {}
     try:
@@ -143,22 +149,37 @@ def normalize(text):
 
 # Checks if a normalized article title is already in history.json
 def is_in_history(article_title, history):
-    norm_title = normalize(article_title)
+    norm_title_tokens = set(normalize(article_title).split())
+
     for articles in history.values():
-        if any(normalize(a["title"]) == norm_title for a in articles):
-            return True
+        for a in articles:
+            past_tokens = set(normalize(a["title"]).split())
+            if not past_tokens:
+                continue
+            overlap = norm_title_tokens.intersection(past_tokens)
+            similarity = len(overlap) / len(norm_title_tokens)
+            if similarity >= MATCH_THRESHOLD:
+                return True
+
     return False
 
 # Converts datetime to US Eastern Timezone
 def to_eastern(dt): 
     return dt.astimezone(ZoneInfo("America/New_York"))
 
-def fetch_articles_for_topic(topic, max_age_days=1):
+# Fetch recent RSS news articles for a given topic from Google News.
+def fetch_articles_for_topic(topic, max_articles=10):
+    """
+    Fetch recent RSS news articles for a given topic from Google News RSS.
+    Limits results to articles published in the last MAX_ARTICLE_AGE hours
+    and returns up to `max_articles` fresh articles.
+    """
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
+
         root = ET.fromstring(response.content)
         time_cutoff = datetime.now(ZoneInfo("America/New_York")) - timedelta(hours=MAX_ARTICLE_AGE)
         articles = []
@@ -167,18 +188,31 @@ def fetch_articles_for_topic(topic, max_age_days=1):
             title = item.findtext("title") or "No title"
             link = item.findtext("link")
             pubDate = item.findtext("pubDate")
+
             try:
                 pub_dt = parsedate_to_datetime(pubDate).astimezone(ZoneInfo("America/New_York"))
-            except:
-                continue
+            except Exception:
+                continue  # skip if publication date is malformed
+
             if pub_dt <= time_cutoff:
-                continue
-            articles.append({"title": title, "link": link, "pubDate": pubDate})
+                continue  # too old
+
+            articles.append({
+                "title": title,
+                "link": link,
+                "pubDate": pubDate
+            })
+
+            if len(articles) >= max_articles:
+                break  # respect per-topic cap
+
         return articles
+
     except Exception as e:
         logging.warning(f"Failed to fetch articles for {topic}: {e}")
         return []
 
+# Construct a string summarizing user preferences from weights and overrides.
 def build_user_preferences(topics, keywords, overrides):
     """
     Build a structured string representing the user's topic/keyword preferences
@@ -205,12 +239,13 @@ def build_user_preferences(topics, keywords, overrides):
             preferences.append(f"- {term}")
 
     if demoted:
-        preferences.append(f"\nDemoted terms (consider headlines with these terms {DEMOTE_FACTOR} times as important to user):")
+        preferences.append(f"\nDemoted terms (consider headlines with these terms {DEMOTE_FACTOR} times as important to user, all else being equal):")
         for term in demoted:
             preferences.append(f"- {term}")
 
     return "\n".join(preferences)
 
+# Clean and safely parse a possibly malformed JSON string.
 def safe_parse_json(raw: str) -> dict:
     # Strip markdown fences
     if raw.strip().startswith("```"):
@@ -228,19 +263,20 @@ def safe_parse_json(raw: str) -> dict:
         logging.error(raw)
         raise ValueError("Gemini returned malformed JSON:\n" + repr(raw)) from e
 
+# Call Gemini to select top topics/headlines among those retrieved based on user preferences and constraints.
 def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gemini_api_key: str) -> dict:
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel(model_name="models/gemini-2.0-flash-lite-001")
 
     prompt = (
-        "You are choosing news topics and headlines most relevant to a user to include in a digest based on their preferences.\n"
+        "You are choosing news topics and headlines most relevant to include in an email digest for a user based on their specific preferences.\n"
         f"Given a dictionary of topics and corresponding headlines, and the user's preferences, select up to {MAX_TOPICS} of the most important topics today.\n"
         f"For each selected topic, return the top {MAX_ARTICLES_PER_TOPIC} most important headlines.\n"
         "Be careful to avoid returning multiple of the same or similar headlines that cover roughly the same thing.\n"
         "Respect the user's importance preferences for topics and keywords as indicated with a score of 1-5, with 5 the highest."
-        "Be sure not to include any headlines containing any banned terms as indicated by 'banned' in the user preferences, and demote headlines containing keywords flagged 'demote'."
-        "There should be a healthy diversity of subjects covered by your recommendations, not focused on one."
-        "Be very careful to respond ONLY with *VALID JSON* like:\n"
+        f"Be sure not to include any headlines containing any terms flagged 'banned' and demote headlines by a multiplier of {DEMOTE_FACTOR} flagged 'demote'."
+        f"There should be a healthy diversity of subjects covered in your article recommendations."
+        "Be very careful to respond ONLY WITH VALID JSON like:\n"
         "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
         f"User Preferences:\n{user_preferences}\n\n"
         f"Topics and Headlines:\n{json.dumps(dict(sorted(topics_to_headlines.items())), indent=2)}\n"
@@ -260,8 +296,7 @@ def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gem
     except Exception:
         raise ValueError("Gemini returned invalid JSON or no content:\n" + repr(raw))
 
-
-# Main logic: fetch trending headlines, identify strong topic matches, fetch and score articles, deduplicate and filter, and send the digest email.
+# Main logic: load config, fetch articles, rank with Gemini, send digest email.
 def main():
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r") as f:
@@ -285,7 +320,7 @@ def main():
         topics_to_headlines = {}
         full_articles = {}
         for topic in topic_weights:
-            articles = fetch_articles_for_topic(topic)
+            articles = fetch_articles_for_topic(topic, 10)
             if articles:
                 # Filter out articles already seen in history
                 fresh_articles = [a for a in articles if not is_in_history(a["title"], history)]
@@ -393,5 +428,6 @@ def main():
             except Exception as e:
                 logging.warning(f"Failed to delete ~/nltk_data: {e}")
 
+# Entry point of the script.
 if __name__ == "__main__":
     main()
