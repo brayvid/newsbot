@@ -247,14 +247,18 @@ def build_user_preferences(topics, keywords, overrides):
 
 # Clean and safely parse a possibly malformed JSON string.
 def safe_parse_json(raw: str) -> dict:
-    # Strip markdown fences
-    if raw.strip().startswith("```"):
-        raw = re.sub(r"^```(?:json)?\s*", "", raw.strip())
-        raw = re.sub(r"\s*```$", "", raw.strip())
+    import re
+    import json
+    import logging
 
-    # Repair common malformed endings like extra closing brackets
-    # Remove trailing ] if it's immediately after a closing brace
-    raw = re.sub(r"\}\s*\]$", "}", raw.strip())
+    # Strip markdown fences
+    raw = raw.strip()
+    if raw.startswith("```"):
+        raw = re.sub(r"^```(?:json)?\s*", "", raw)
+        raw = re.sub(r"\s*```$", "", raw)
+
+    # Fix array ending in }
+    raw = re.sub(r'(\[[^\[\]]*?)\s*\}', r'\1]', raw)
 
     try:
         return json.loads(raw)
@@ -262,6 +266,7 @@ def safe_parse_json(raw: str) -> dict:
         logging.error("Failed to parse Gemini response.")
         logging.error(raw)
         raise ValueError("Gemini returned malformed JSON:\n" + repr(raw)) from e
+
 
 # Call Gemini to select top topics/headlines among those retrieved based on user preferences and constraints.
 def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gemini_api_key: str) -> dict:
