@@ -23,12 +23,13 @@ import csv
 import smtplib
 import html
 import logging
+import shutil
+import json
+import re
 from datetime import datetime, timedelta
 from email.message import EmailMessage
 import xml.etree.ElementTree as ET
 import requests
-import json
-import re
 from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 from nltk.stem import PorterStemmer, WordNetLemmatizer
@@ -364,6 +365,15 @@ def main():
         if os.path.exists(LOCKFILE):
             os.remove(LOCKFILE)
         logging.info(f"Lockfile released at {datetime.now()}")
+
+        # Delete ~/nltk_data directory if it exists
+        nltk_path = os.path.expanduser("~/nltk_data")
+        if os.path.exists(nltk_path):
+            try:
+                shutil.rmtree(nltk_path)
+                # logging.info("Deleted ~/nltk_data directory after run.")
+            except Exception as e:
+                logging.warning(f"Failed to delete ~/nltk_data: {e}")
 
 if __name__ == "__main__":
     main()
