@@ -1,16 +1,14 @@
 # NewsBot
 
-This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest. It prioritizes high-importance headlines using keyword and topic scoring, and ensures each email contains fresh, non-repeating articles. Designed to run daily using `cron` on any Unix-based system.
+This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest. It uses Google Gemini to prioritize headlines. Designed to run daily using `cron` on any Unix-based system.
 
 ---
 
 ## How it works
 
-- Reads [this configuration file](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing) on Google Sheets
-- Retrieves 50 trending news headlines from Google News
-- Selects your topics that have similarity to those top headlines
-- Retrieves and filters the latest headlines for those topics
-- Avoids showing you the same headline twice
+- Reads [this configuration file](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing) on Google Sheets with topics, keywords and overrides
+- Retrieves the latest news headlines for all topics from Google News RSS
+- Queries Gemini to prioritize these headlines according to your preferences
 - Sends you a clean HTML email digest
 - Schedule with `cron`
 
@@ -34,16 +32,10 @@ newsbot/
 
 | Parameter                  | What It Does |
 |---------------------------|--------------|
-| `TREND_WEIGHT`            | 1-5: Boost for matching top headlines |
-| `TOPIC_WEIGHT`            | 1-5: Boost for matching topics |
-| `KEYWORD_WEIGHT`          | 1-5: Boost for matching keywords |
-| `MIN_ARTICLE_SCORE`       | Minimum article score in digest |
-| `MAX_ARTICLE_AGE`         | Maximum article age in days in digest |
+| `MAX_ARTICLE_AGE`         | Maximum article age in hours in digest |
 | `MAX_TOPICS`              | Maximum number of topics in digest |
 | `MAX_ARTICLES_PER_TOPIC`  | Maximum number of articles per topic in digest |
-| `TREND_OVERLAP_THRESHOLD` | 0-1: Token overlap % needed to detect a trending topic |
-| `DEDUPLICATION_THRESHOLD` | 0-1: Similarity level to remove near-duplicate headlines |
-| `DEMOTE_FACTOR`           | 0-1: Demote multiplier for overrides |
+| `DEMOTE_FACTOR`           | 0-1: Importance multiplier for 'demote' overrides |
 
 ---
 
@@ -65,18 +57,19 @@ pip3 install -r requirements.txt
 Or manually:
 
 ```bash
-pip3 install nltk requests python-dotenv scikit-learn
+pip3 install nltk requests python-dotenv scikit-learn google-generativeai
 ```
 
 
 ### 3. Prepare Environment File
 
-`.env` – contains email credentials and recipient:
+`nano .env` – contains email credentials, recipient(s), and Gemini API key:
 
 ```env
 GMAIL_USER=your_email@gmail.com
 GMAIL_APP_PASSWORD=your_app_password
 MAILTO=recipient1@example.com,...
+GEMINI_API_KEY=your_gemini_api_key
 ```
 
 (You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account.)
@@ -121,29 +114,20 @@ rm newsbot.lock
 All script logs are saved to `logs/newsbot.log`. The `logs/` directory will be created automatically if it doesn't exist.
 
 ---
-
-## Customization Tips
-
-- Adjust `TREND_WEIGHT`, `TOPIC_WEIGHT`, and `KEYWORD_WEIGHT` to fine-tune relevance scoring.
-- Lower `MIN_ARTICLE_SCORE` to include more articles.
-- Use richer keyword and topic lists for more comprehensive coverage.
-- Increase `MAX_ARTICLES_PER_TOPIC` if you want more results per topic.
-
----
 <br>
 
 ## Sample Digest
 
 <h3>Research and Development</h3>
 <p>📰 <a href="https://www.rdworldonline.com/openai-releases-o3-a-model-that-tops-99-of-human-competitors-on-ioi-2024-and-codeforces-benchmarks">OpenAI releases o3, a model that tops 99% of human competitors on IOI 2024 and Codeforces benchmarks - R&D World</a><br>
-📅 Wed, 16 Apr 2025 06:04 PM EDT — <strong>Score: 65</strong></p>
+📅 Wed, 16 Apr 2025 06:04 PM EDT</p>
 
 <h3>Donald Trump</h3>
 <p>📰 <a href="https://www.theatlantic.com/ideas/archive/2025/04/donald-trump-authoritarian-actions/682486/">America’s Mad King - The Atlantic</a><br>
-📅 Thu, 17 Apr 2025 10:08 AM EDT — <strong>Score: 45</strong></p>
+📅 Thu, 17 Apr 2025 10:08 AM EDT</p>
 
 <h3>Health Care</h3>
 <p>📰 <a href="https://www.politico.com/newsletters/future-pulse/2025/04/17/health-care-ai-stuck-in-the-waiting-room-00294471">Health care AI stuck in the waiting room - Politico</a><br>
-📅 Thu, 17 Apr 2025 02:00 PM EDT — <strong>Score: 20</strong></p>
+📅 Thu, 17 Apr 2025 02:00 PM EDT</p>
 
 <hr>
