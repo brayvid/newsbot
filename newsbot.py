@@ -4,10 +4,10 @@ import os
 import sys
 
 # Set number of threads for various libraries to 1 if parallelism is not permitted on your system
-# os.environ["OPENBLAS_NUM_THREADS"] = "1"
-# os.environ["OMP_NUM_THREADS"] = "1"
-# os.environ["MKL_NUM_THREADS"] = "1"
-# os.environ["NUMEXPR_NUM_THREADS"] = "1"
+os.environ["OPENBLAS_NUM_THREADS"] = "1"
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["MKL_NUM_THREADS"] = "1"
+os.environ["NUMEXPR_NUM_THREADS"] = "1"
 
 # Define paths and URLs for local files and remote configuration.
 BASE_DIR = os.path.dirname(__file__)
