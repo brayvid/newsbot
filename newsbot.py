@@ -213,20 +213,22 @@ def build_user_preferences(topics, keywords, overrides):
     return "\n".join(preferences)
 
 def safe_parse_json(raw: str) -> dict:
-    # Strip code fences
+    # Strip markdown fences
     if raw.strip().startswith("```"):
         raw = re.sub(r"^```(?:json)?\s*", "", raw.strip())
         raw = re.sub(r"\s*```$", "", raw.strip())
 
-    # Attempt recovery via literal_eval as fallback
+    # Repair common malformed endings like extra closing brackets
+    # Remove trailing ] if it's immediately after a closing brace
+    raw = re.sub(r"\}\s*\]$", "}", raw.strip())
+
     try:
         return json.loads(raw)
-    except json.JSONDecodeError:
-        try:
-            return ast.literal_eval(raw)
-        except Exception as e:
-            raise ValueError("Gemini returned malformed JSON:\n" + repr(raw)) from e
-        
+    except json.JSONDecodeError as e:
+        logging.error("Failed to parse Gemini response.")
+        logging.error(raw)
+        raise ValueError("Gemini returned malformed JSON:\n" + repr(raw)) from e
+
 def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gemini_api_key: str) -> dict:
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel(model_name="models/gemini-2.0-flash-lite-001")
