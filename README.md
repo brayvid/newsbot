@@ -57,7 +57,7 @@ pip3 install -r requirements.txt
 Or manually:
 
 ```bash
-pip3 install nltk requests python-dotenv scikit-learn google-generativeai
+pip3 install nltk requests python-dotenv google-generativeai
 ```
 
 
