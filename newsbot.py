@@ -104,7 +104,7 @@ MAX_ARTICLE_AGE = int(CONFIG.get("MAX_ARTICLE_AGE", 6))
 MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 7))
 MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
 DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR",0.5))
-MATCH_THRESHOLD = 0.5
+MATCH_THRESHOLD = 0.4
 
 # Load user-defined topic and keyword importance scores from Google Sheets.
 def load_csv_weights(url):
@@ -239,7 +239,7 @@ def build_user_preferences(topics, keywords, overrides):
             preferences.append(f"- {term}")
 
     if demoted:
-        preferences.append(f"\nDemoted terms (consider headlines with these terms {DEMOTE_FACTOR} times as important to user, all else being equal):")
+        preferences.append(f"\nDemoted terms (consider headlines with these terms {DEMOTE_FACTOR} times as important to the user, all else being equal):")
         for term in demoted:
             preferences.append(f"- {term}")
 
@@ -428,6 +428,5 @@ def main():
             except Exception as e:
                 logging.warning(f"Failed to delete ~/nltk_data: {e}")
 
-# Entry point of the script.
 if __name__ == "__main__":
     main()
