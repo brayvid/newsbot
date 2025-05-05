@@ -226,7 +226,8 @@ def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gem
         "Respond ONLY with valid JSON like:\n"
         "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
         f"User Preferences:\n{user_preferences}\n\n"
-        f"Topics and Headlines:\n{json.dumps(topics_to_headlines, indent=2)}\n"
+        f"Topics and Headlines:\n{json.dumps(dict(sorted(topics_to_headlines.items())), indent=2)}\n"
+
     )
     # print(prompt)
     response = model.generate_content([prompt])
@@ -254,7 +255,7 @@ def main():
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
         if not gemini_api_key:
-            print("Missing GEMINI_API_KEY.")
+            logging.error("Missing GEMINI_API_KEY. Exiting.")
             return
 
         topic_weights = load_csv_weights(TOPICS_CSV_URL)
