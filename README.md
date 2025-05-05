@@ -6,7 +6,7 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 
 ## How it works
 
-- Reads [this configuration file](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing) on Google Sheets with topics, keywords and overrides
+- Reads [this configuration file](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing) on Google Sheets with user topics, keywords and overrides
 - Retrieves the latest news headlines for all topics from Google News RSS
 - Queries Gemini to prioritize these headlines according to your preferences
 - Sends you a clean HTML email digest
@@ -72,7 +72,7 @@ MAILTO=recipient1@example.com,...
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
-(You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account.)
+(You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account, and [generate a Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key).)
 
 
 ---
