@@ -232,13 +232,13 @@ def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gem
     model = genai.GenerativeModel(model_name="models/gemini-2.0-flash-lite-001")
 
     prompt = (
-        "You are helping choose news topics and headlines most relevant to a user to include in a digest.\n"
-        f"Given a dictionary of topics and headlines, and the user's preferences, select up to {MAX_TOPICS} of the most important topics today.\n"
+        "You are choosing news topics and headlines most relevant to a user to include in a digest based on their preferences.\n"
+        f"Given a dictionary of topics and corresponding headlines, and the user's preferences, select up to {MAX_TOPICS} of the most important topics today.\n"
         f"For each selected topic, return the top {MAX_ARTICLES_PER_TOPIC} most important headlines.\n"
-        "Avoid repeating the same or similar headlines.\n"
-        "There should be a healthy diversity of subjects in your recommendations."
-        "Respect the user's importance preferences for topics and keywords indicated with a score of 1-5."
-        "Be sure not to include any headlines containing banned terms indicated in the user preferences."
+        "Be careful to avoid returning multiple of the same or similar headlines that cover roughly the same thing.\n"
+        "Respect the user's importance preferences for topics and keywords as indicated with a score of 1-5, with 5 the highest."
+        "Be sure not to include any headlines containing any banned terms as indicated by 'banned' in the user preferences, and demote headlines containing keywords flagged 'demote'."
+        "There should be a healthy diversity of subjects covered by your recommendations, not focused on one."
         "Respond ONLY with valid JSON like:\n"
         "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
         f"User Preferences:\n{user_preferences}\n\n"
