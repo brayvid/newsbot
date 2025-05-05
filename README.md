@@ -118,31 +118,28 @@ All script logs are saved to `logs/newsbot.log`. The `logs/` directory will be c
 
 ## Sample Digest
 
-<h3>Artificial Intelligence</h3>
-<p>📰 <a href="https://malaysia.news.yahoo.com/singapore-sea-lion-ai-model-052720584.html">Singapore’s Sea-Lion AI model gains traction with firms like Indonesia’s GoTo Group, offering 13 regional languages - Yahoo</a><br>
-📅 Mon, 05 May 2025 01:27 AM EDT</p>
-
 <h3>Donald Trump</h3>
-<p>📰 <a href="https://www.cnn.com/2025/05/04/politics/trump-alcatraz-prisons-reopen">Trump says he is directing Bureau of Prisons to reopen Alcatraz to house ‘ruthless and violent offenders’ - CNN</a><br>
-📅 Sun, 04 May 2025 10:21 PM EDT</p>
+<p>📰 <a href="https://www.bbc.com/news/articles/cze17n02gego">Trump orders reopening of notorious Alcatraz prison - BBC</a><br>
+📅 Mon, 05 May 2025 04:03 AM EDT</p>
 
-<h3>China</h3>
-<p>📰 <a href="https://www.nytimes.com/2025/05/05/opinion/china-ai-deepseek-tiktok.html">Opinion | DeepSeek. Temu. TikTok. China Tech Is Starting to Pull Ahead. - The New York Times</a><br>
-📅 Mon, 05 May 2025 01:00 AM EDT</p>
+<h3>Trade War</h3>
+<p>📰 <a href="https://www.reuters.com/business/finance/strategists-optimistic-china-even-us-china-trade-war-climbdown-looks-far-off-2025-05-05/">Strategists optimistic on China even as US-China trade war climbdown looks far off - Reuters</a><br>
+📅 Mon, 05 May 2025 05:22 AM EDT</p>
 
-<h3>Hamas</h3>
-<p>📰 <a href="https://www.reuters.com/world/middle-east/hamas-executes-looters-gaza-food-crisis-worsens-under-israeli-blockade-2025-05-04/">Hamas executes looters in Gaza as food crisis worsens under Israeli blockade - Reuters</a><br>
-📅 Sun, 04 May 2025 11:00 PM EDT</p>
+<h3>Financial Markets</h3>
+<p>📰 <a href="https://www.bloomberg.com/news/articles/2025-05-04/oil-slumps-after-opec-agrees-another-supply-surge-markets-wrap">Asian Currencies Jump on Weaker Dollar, Oil Falls: Markets Wrap - Bloomberg.com</a><br>
+📅 Mon, 05 May 2025 03:24 AM EDT</p>
 
 <h3>Inflation</h3>
-<p>📰 <a href="https://www.bostonglobe.com/2025/05/05/business/federal-reserve-interest-rates/">Federal Reserve likely to defy Trump, keep rates unchanged this week - The Boston Globe</a><br>
-📅 Mon, 05 May 2025 12:53 AM EDT</p>
+<p>📰 <a href="https://www.bloomberg.com/news/articles/2025-05-05/swiss-inflation-drops-to-zero-as-snb-mulls-more-rate-cuts">Swiss Inflation Drops to Zero as SNB Mulls More Interest Rate Cuts - Bloomberg.com</a><br>
+📅 Mon, 05 May 2025 02:30 AM EDT</p>
+
+<h3>Russia</h3>
+<p>📰 <a href="https://www.aljazeera.com/news/2025/5/5/russia-reports-ukrainian-drone-attack-on-moscow-before-may-9-events">Russia reports Ukrainian drone attack on Moscow ahead of May 9 events - Al Jazeera</a><br>
+📅 Mon, 05 May 2025 05:56 AM EDT</p>
 
 <h3>Renewable Energy</h3>
-<p>📰 <a href="https://www.washingtonpost.com/world/2025/05/04/china-united-states-green-energy-gap/">Trump has cut global climate finance. China is more than happy to step in. - The Washington Post</a><br>
-📅 Mon, 05 May 2025 02:00 AM EDT</p>
+<p>📰 <a href="https://www.yahoo.com/news/spains-blackout-highlights-renewables-grid-095751267.html">Spain's blackout highlights renewables' grid challenge - Yahoo</a><br>
+📅 Mon, 05 May 2025 05:57 AM EDT</p>
 
-<h3>Ukraine</h3>
-<p>📰 <a href="https://www.independent.co.uk/news/world/europe/ukraine-russia-war-drones-fighter-jet-putin-ceasefire-latest-news-b2744844.html">Ukraine-Russia war latest: Zelensky says Putin could call ceasefire ‘even today’ if he wanted to - The Independent</a><br>
-📅 Mon, 05 May 2025 01:59 AM EDT</p>
 <hr>
