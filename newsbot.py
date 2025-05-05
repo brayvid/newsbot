@@ -64,7 +64,7 @@ def ensure_nltk_data():
 
 ensure_nltk_data()
 
-# Configuration file in Google Sheets
+# Configuration files in Google Sheets
 TOPICS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=0&single=true&output=csv"
 KEYWORDS_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=314441026&single=true&output=csv"
 OVERRIDES_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTWCrmL5uXBJ9_pORfhESiZyzD3Yw9ci0Y-fQfv0WATRDq6T8dX0E7yz1XNfA6f92R7FDmK40MFSdH4/pub?gid=1760236101&single=true&output=csv"
@@ -96,75 +96,10 @@ def load_config_from_sheet(url):
 
 CONFIG = load_config_from_sheet(CONFIG_URL)
 
-TREND_WEIGHT = CONFIG.get("TREND_WEIGHT", 1)
-TOPIC_WEIGHT = CONFIG.get("TOPIC_WEIGHT", 1)
-KEYWORD_WEIGHT = CONFIG.get("KEYWORD_WEIGHT", 1)
-MIN_ARTICLE_SCORE = int(CONFIG.get("MIN_ARTICLE_SCORE", 25))
-MAX_ARTICLE_AGE = int(CONFIG.get("MAX_ARTICLE_AGE", 3))
+MAX_ARTICLE_AGE = int(CONFIG.get("MAX_ARTICLE_AGE", 6))
 MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 7))
 MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
-DEDUPLICATION_THRESHOLD = CONFIG.get("DEDUPLICATION_THRESHOLD", 0.2)
-TREND_OVERLAP_THRESHOLD = CONFIG.get("TREND_OVERLAP_THRESHOLD", 0.5)
-DEMOTE_FACTOR = CONFIG.get("DEMOTE_FACTOR", 0.2)
-
-# Lowercases, stems, and lemmatizes words to produce normalized text for matching.
-def normalize(text):
-    words = text.lower().split()
-    stemmed = [stemmer.stem(w) for w in words]
-    lemmatized = [lemmatizer.lemmatize(w) for w in stemmed]
-    return " ".join(lemmatized)
-
-# Fetches up to N top headlines from Google News RSS (US edition) within the past week
-def fetch_google_top_headlines(max_articles=50):
-    url = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
-    try:
-        headers = {"User-Agent": "Mozilla/5.0"}
-        response = requests.get(url, headers=headers, timeout=10)
-        response.raise_for_status()
-        root = ET.fromstring(response.content)
-        items = root.findall("./channel/item")
-        time_cutoff = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=MAX_ARTICLE_AGE)
-        articles = []
-
-        for item in items:
-            title = item.findtext("title") or "No title"
-            link = item.findtext("link")
-            pub_date = item.findtext("pubDate")
-
-            try:
-                pub_dt = parsedate_to_datetime(pub_date).astimezone(ZoneInfo("America/New_York"))
-            except:
-                continue
-
-            if pub_dt <= time_cutoff:
-                continue
-
-            articles.append({
-                "title": title,
-                "link": link,
-                "pubDate": pub_date,
-                "pub_dt": pub_dt
-            })
-
-            if len(articles) >= max_articles:
-                break
-
-        return articles
-
-    except Exception:
-        return []
-
-# Checks if a normalized article title is already in history.json
-def is_in_history(article_title, history):
-    norm_title = normalize(article_title)
-    for articles in history.values():
-        if any(normalize(a["title"]) == norm_title for a in articles):
-            return True
-    return False
-
-# Converts datetime to US Eastern Timezone
-def to_eastern(dt): 
-    return dt.astimezone(ZoneInfo("America/New_York"))
+DEMOTE_FACTOR = CONFIG.get("DEMOTE_FACTOR",0.5)
 
 def load_csv_weights(url):
     weights = {}
@@ -198,14 +133,33 @@ def load_overrides(url):
         logging.warning(f"Failed to load overrides: {e}")
     return overrides
 
-def fetch_articles_for_topic(topic, max_age_days=3):
+# Lowercases, stems, and lemmatizes words to produce normalized text for matching.
+def normalize(text):
+    words = text.lower().split()
+    stemmed = [stemmer.stem(w) for w in words]
+    lemmatized = [lemmatizer.lemmatize(w) for w in stemmed]
+    return " ".join(lemmatized)
+
+# Checks if a normalized article title is already in history.json
+def is_in_history(article_title, history):
+    norm_title = normalize(article_title)
+    for articles in history.values():
+        if any(normalize(a["title"]) == norm_title for a in articles):
+            return True
+    return False
+
+# Converts datetime to US Eastern Timezone
+def to_eastern(dt): 
+    return dt.astimezone(ZoneInfo("America/New_York"))
+
+def fetch_articles_for_topic(topic, max_age_days=1):
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
         root = ET.fromstring(response.content)
-        time_cutoff = datetime.now(ZoneInfo("America/New_York")) - timedelta(days=max_age_days)
+        time_cutoff = datetime.now(ZoneInfo("America/New_York")) - timedelta(hours=MAX_ARTICLE_AGE)
         articles = []
 
         for item in root.findall("./channel/item"):
@@ -250,7 +204,7 @@ def build_user_preferences(topics, keywords, overrides):
             preferences.append(f"- {term}")
 
     if demoted:
-        preferences.append(f"\nDemoted terms (consider headlines with these terms {DEMOTE_FACTOR} as important to user):")
+        preferences.append(f"\nDemoted terms (consider headlines with these terms {DEMOTE_FACTOR} times as important to user):")
         for term in demoted:
             preferences.append(f"- {term}")
 
@@ -258,14 +212,16 @@ def build_user_preferences(topics, keywords, overrides):
 
 def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gemini_api_key: str) -> dict:
     genai.configure(api_key=gemini_api_key)
-    model = genai.GenerativeModel(model_name="models/gemini-1.5-pro")
+    model = genai.GenerativeModel(model_name="gemini-2.0-flash-lite-001")
 
     prompt = (
-        "You are helping choose the most relevant news topics and headlines to include in a digest.\n"
-        f"Given a dictionary of topics and headlines, and the user's preferences, select the {MAX_TOPICS} most important topics today.\n"
+        "You are helping choose news topics and headlines most relevant to a user to include in a digest.\n"
+        f"Given a dictionary of topics and headlines, and the user's preferences, select up to {MAX_TOPICS} of the most important topics today.\n"
         f"For each selected topic, return the top {MAX_ARTICLES_PER_TOPIC} most important headlines.\n"
         "Avoid repeating the same or similar headlines.\n"
         "There should be a healthy diversity of subjects in your recommendations."
+        "Respect the user's importance preferences for topics and keywords indicated with a score of 1-5."
+        "Be sure not to include any headlines containing banned terms indicated in the user preferences."
         "Respond ONLY with valid JSON like:\n"
         "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
         f"User Preferences:\n{user_preferences}\n\n"
@@ -324,7 +280,7 @@ def main():
             return
 
         total_headlines = sum(len(v) for v in topics_to_headlines.values())
-        logging.info(f"Sending {total_headlines} headlines across {len(topics_to_headlines)} topics to Gemini for prioritization.")
+        logging.info(f"Sending {total_headlines} headlines across {len(topics_to_headlines)} topics to Gemini.")
 
         # Get prioritized digest from Gemini
         digest_titles = prioritize_with_gemini(topics_to_headlines, user_preferences, gemini_api_key)
@@ -370,8 +326,8 @@ def main():
                 )
             html_body += section
 
-        config_code = f"(Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Article Score: {MIN_ARTICLE_SCORE}, Max Topics: {MAX_TOPICS}, Trend Threshold: {TREND_OVERLAP_THRESHOLD}, Similarity Threshold: {DEDUPLICATION_THRESHOLD})"
-        html_body += f"<hr><small>{config_code}</small>"
+        # config_code = f"(Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Article Score: {MIN_ARTICLE_SCORE}, Max Topics: {MAX_TOPICS}, Trend Threshold: {TREND_OVERLAP_THRESHOLD}, Similarity Threshold: {DEDUPLICATION_THRESHOLD})"
+        # html_body += f"<hr><small>{config_code}</small>"
 
         msg = EmailMessage()
         msg["Subject"] = f"🗞️ News – {datetime.now(ZoneInfo('America/New_York')).strftime('%Y-%m-%d %I:%M %p %Z')}"
