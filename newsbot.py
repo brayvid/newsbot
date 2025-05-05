@@ -35,6 +35,7 @@ import logging
 import shutil
 import json
 import re
+import ast
 from datetime import datetime, timedelta
 from email.message import EmailMessage
 import xml.etree.ElementTree as ET
@@ -247,25 +248,39 @@ def build_user_preferences(topics, keywords, overrides):
 
 # Clean and safely parse a possibly malformed JSON string.
 def safe_parse_json(raw: str) -> dict:
-    import re
-    import json
-    import logging
+    """
+    Attempts to parse malformed JSON returned by Gemini.
+    Fixes common issues like:
+    - Improper closing brackets
+    - Markdown code fences
+    - Trailing commas
+    Falls back to ast.literal_eval if needed.
+    """
 
-    # Strip markdown fences
     raw = raw.strip()
+
+    # Remove Markdown-style code fences
     if raw.startswith("```"):
         raw = re.sub(r"^```(?:json)?\s*", "", raw)
         raw = re.sub(r"\s*```$", "", raw)
 
-    # Fix array ending in }
+    # Fix common mistakes:
+    # 1. Arrays closed with } instead of ]
     raw = re.sub(r'(\[[^\[\]]*?)\s*\}', r'\1]', raw)
+
+    # 2. Trailing commas before closing brackets/braces
+    raw = re.sub(r",\s*(\}|\])", r"\1", raw)
 
     try:
         return json.loads(raw)
-    except json.JSONDecodeError as e:
-        logging.error("Failed to parse Gemini response.")
-        logging.error(raw)
-        raise ValueError("Gemini returned malformed JSON:\n" + repr(raw)) from e
+    except json.JSONDecodeError:
+        logging.warning("json.loads() failed, trying ast.literal_eval() as fallback...")
+        try:
+            return ast.literal_eval(raw)
+        except Exception as e:
+            logging.error("Both JSON and literal_eval parsing failed.")
+            logging.error(raw)
+            raise ValueError("Gemini returned malformed JSON that couldn't be parsed:\n" + repr(raw)) from e
 
 
 # Call Gemini to select top topics/headlines among those retrieved based on user preferences and constraints.
