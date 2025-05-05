@@ -213,7 +213,7 @@ def build_user_preferences(topics, keywords, overrides):
 
 def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gemini_api_key: str) -> dict:
     genai.configure(api_key=gemini_api_key)
-    model = genai.GenerativeModel(model_name="gemini-2.0-flash-lite-001")
+    model = genai.GenerativeModel(model_name="models/gemini-2.0-flash-lite-001")
 
     prompt = (
         "You are helping choose news topics and headlines most relevant to a user to include in a digest.\n"
@@ -257,6 +257,9 @@ def main():
         if not gemini_api_key:
             logging.error("Missing GEMINI_API_KEY. Exiting.")
             return
+        else:
+            logging.info("GEMINI_API_KEY loaded successfully.")
+
 
         topic_weights = load_csv_weights(TOPICS_CSV_URL)
         keyword_weights = load_csv_weights(KEYWORDS_CSV_URL)
