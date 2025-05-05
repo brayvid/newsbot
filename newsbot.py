@@ -304,7 +304,7 @@ def main():
             logging.info("Gemini returned no digest-worthy content.")
             return
 
-        # Step 5: Compose and send email (same as your original logic)
+        # Step 5: Compose and send email
         EMAIL_FROM = os.getenv("GMAIL_USER", "").encode("ascii", "ignore").decode()
         EMAIL_TO = EMAIL_FROM
         EMAIL_BCC = os.getenv("MAILTO", "").strip()
@@ -325,9 +325,6 @@ def main():
                     f'</p>'
                 )
             html_body += section
-
-        # config_code = f"(Trend weight: {TREND_WEIGHT}, Topic Weight: {TOPIC_WEIGHT}, Keyword Weight: {KEYWORD_WEIGHT}, Min Article Score: {MIN_ARTICLE_SCORE}, Max Topics: {MAX_TOPICS}, Trend Threshold: {TREND_OVERLAP_THRESHOLD}, Similarity Threshold: {DEDUPLICATION_THRESHOLD})"
-        # html_body += f"<hr><small>{config_code}</small>"
 
         msg = EmailMessage()
         msg["Subject"] = f"🗞️ News – {datetime.now(ZoneInfo('America/New_York')).strftime('%Y-%m-%d %I:%M %p %Z')}"
