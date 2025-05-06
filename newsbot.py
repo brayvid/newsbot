@@ -248,7 +248,7 @@ def build_user_preferences(topics, keywords, overrides):
             preferences.append(f"- {term}")
 
     if demoted:
-        preferences.append(f"\nDemoted terms (consider headlines with these terms {DEMOTE_FACTOR} times as important to the user, all else being equal):")
+        preferences.append(f"\nDemoted terms (consider headlines with these terms {DEMOTE_FACTOR} times as important to the user, all else equal):")
         for term in demoted:
             preferences.append(f"- {term}")
 
@@ -296,7 +296,7 @@ def contains_banned_keyword(text, banned_terms):
     return any(banned in norm_text for banned in banned_terms)
 
 # Call Gemini to select top topics/headlines among those retrieved based on user preferences and constraints.
-def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gemini_api_key: str) -> dict:
+def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemini_api_key: str) -> dict:
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel(model_name="models/gemini-2.0-flash-lite-001")
 
@@ -312,7 +312,7 @@ def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gem
         "Respond *ONLY WITH VALID JSON* like:\n"
         "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
         f"User Preferences:\n{user_preferences}\n\n"
-        f"Topics and Headlines:\n{json.dumps(dict(sorted(topics_to_headlines.items())), indent=2)}\n"
+        f"Topics and Headlines:\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n"
     )
 
     # print(prompt)
@@ -351,7 +351,7 @@ def main():
         user_preferences = build_user_preferences(topic_weights, keyword_weights, overrides)
 
         # Fetch all articles for all topics
-        topics_to_headlines = {}
+        headlines_to_send = {}
         full_articles = {}
         for topic in topic_weights:
             articles = fetch_articles_for_topic(topic, 10)
@@ -359,24 +359,24 @@ def main():
                 # Filter out old, banned, or already-seen headlines
                 banned_terms = [k for k, v in overrides.items() if v == "ban"]
 
-                fresh_articles = [
+                allowed_articles = [
                     a for a in articles
                     if not is_in_history(a["title"], history) and not contains_banned_keyword(a["title"], banned_terms)
                 ]
 
-                if fresh_articles:
-                    topics_to_headlines[topic] = [a["title"] for a in fresh_articles]
-                    full_articles[topic] = fresh_articles
+                if allowed_articles:
+                    headlines_to_send[topic] = [a["title"] for a in allowed_articles]
+                    full_articles[topic] = allowed_articles
 
-        if not topics_to_headlines:
+        if not headlines_to_send:
             logging.info("No headlines available for LLM input.")
             return
 
-        total_headlines = sum(len(v) for v in topics_to_headlines.values())
-        logging.info(f"Sending {total_headlines} headlines across {len(topics_to_headlines)} topics to Gemini.")
+        total_headlines = sum(len(v) for v in headlines_to_send.values())
+        logging.info(f"Sending {total_headlines} headlines across {len(headlines_to_send)} topics to Gemini.")
 
         # Get prioritized digest from Gemini
-        digest_titles = prioritize_with_gemini(topics_to_headlines, user_preferences, gemini_api_key)
+        digest_titles = prioritize_with_gemini(headlines_to_send, user_preferences, gemini_api_key)
 
         # Rebuild full article entries for final digest
         digest = {}
