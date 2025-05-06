@@ -37,7 +37,7 @@ newsbot/
 | `MAX_TOPICS`              | Maximum number of topics in digest |
 | `MAX_ARTICLES_PER_TOPIC`  | Maximum number of articles per topic in digest |
 | `DEMOTE_FACTOR`           | 0-1: Importance multiplier for 'demote' overrides |
-| `TIMEZONE`                | User timezone string, eg. 'America/New_York' |
+| `TIMEZONE`                | Formatted user timezone, eg. 'America/New_York' |
 
 ---
 
@@ -146,4 +146,4 @@ All script logs are saved to `logs/newsbot.log`. The `logs/` directory will be c
 
 <hr>
 
-<small>Gemini recommends these articles among 1162 published in the last 6 hours based on your <a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">preferences</a>.</small>
+<small>Gemini recommends these articles among 1124 published in the last 6 hours based on your <a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">preferences</a>.</small>
