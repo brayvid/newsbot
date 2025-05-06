@@ -419,7 +419,7 @@ def main():
                 )
             html_body += section
     
-        footer = f"Gemini recommends these articles among {total_headlines} published in the last {MAX_ARTICLE_HOURS} hours."
+        footer = f'<a href="https://gemini.google.com/app">Gemini</a> reviewed {total_headlines} headlines published in the last {MAX_ARTICLE_HOURS} hours.'
         html_body += f"<hr><small>{footer}</small>"
 
         msg = EmailMessage()
