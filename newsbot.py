@@ -418,6 +418,9 @@ def main():
                     f'</p>'
                 )
             html_body += section
+    
+        footer = f"Gemini recommends these articles among {total_headlines} published in the last {MAX_ARTICLE_HOURS} hours."
+        html_body += f"<hr><small>{footer}</small>"
 
         msg = EmailMessage()
         msg["Subject"] = f"🗞️ News – {datetime.now(ZONE).strftime('%Y-%m-%d %I:%M %p %Z')}"
