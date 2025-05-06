@@ -101,7 +101,7 @@ def load_config_from_sheet(url):
 CONFIG = load_config_from_sheet(CONFIG_CSV_URL)
 
 # Extract user settings from the configuration with defaults.
-MAX_ARTICLE_AGE = int(CONFIG.get("MAX_ARTICLE_AGE", 6))
+MAX_ARTICLE_HOURS = int(CONFIG.get("MAX_ARTICLE_HOURS", 6))
 MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 7))
 MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
 DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR",0.5))
@@ -180,7 +180,7 @@ def to_user_timezone(dt):
 def fetch_articles_for_topic(topic, max_articles=10):
     """
     Fetch recent RSS news articles for a given topic from Google News RSS.
-    Limits results to articles published in the last MAX_ARTICLE_AGE hours
+    Limits results to articles published in the last MAX_ARTICLE_HOURS hours
     and returns up to `max_articles` fresh articles.
     """
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
@@ -190,7 +190,7 @@ def fetch_articles_for_topic(topic, max_articles=10):
         response.raise_for_status()
 
         root = ET.fromstring(response.content)
-        time_cutoff = datetime.now(ZONE) - timedelta(hours=MAX_ARTICLE_AGE)
+        time_cutoff = datetime.now(ZONE) - timedelta(hours=MAX_ARTICLE_HOURS)
         articles = []
 
         for item in root.findall("./channel/item"):
