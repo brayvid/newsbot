@@ -296,11 +296,12 @@ def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gem
         "You are choosing the most relevant news topics and headlines to include in an email digest for a user based on their specific preferences.\n"
         f"Given a dictionary of topics and corresponding headlines, and the user's preferences, select up to {MAX_TOPICS} of the most important topics today.\n"
         f"For each selected topic, return the top {MAX_ARTICLES_PER_TOPIC} most important headlines.\n"
-        "Be careful to avoid returning multiple of the same or similar headlines that are covering roughly the same thing.\n"
+        "Avoid all local news, for example any headlines containing a regional town or county name."
+        "Do not return multiple of the same or similar headlines that are covering roughly the same thing.\n"
         "Respect the user's importance preferences for topics and keywords as indicated with a score of 1-5, with 5 the highest."
-        f"Be sure not to include any headlines containing any terms flagged 'banned' and demote headlines with any terms flagged 'demote' by a multiplier of {DEMOTE_FACTOR}."
-        f"There should be a healthy diversity of subjects covered in your article recommendations. Do not focus one one."
-        "Be very careful to respond *ONLY WITH VALID JSON* like:\n"
+        f"Reject any headlines containing terms flagged 'banned', and demote headlines with terms flagged 'demote' by a multiplier of {DEMOTE_FACTOR}."
+        f"There should be a healthy diversity of subjects covered overall in your article recommendations. Do not focus too much on one theme."
+        "Respond *ONLY WITH VALID JSON* like:\n"
         "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
         f"User Preferences:\n{user_preferences}\n\n"
         f"Topics and Headlines:\n{json.dumps(dict(sorted(topics_to_headlines.items())), indent=2)}\n"
@@ -345,7 +346,7 @@ def main():
         topics_to_headlines = {}
         full_articles = {}
         for topic in topic_weights:
-            articles = fetch_articles_for_topic(topic, 5)
+            articles = fetch_articles_for_topic(topic, 10)
             if articles:
                 # Filter out old, banned, or already-seen headlines
                 banned_terms = [k for k, v in overrides.items() if v == "ban"]
