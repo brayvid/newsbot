@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Europe\u2019s Pharma Industry Braces for Pain as Trump Tariff Threat Looms - The New York Times",
-      "pubDate": "Sun, 27 Apr 2025 04:01:07 GMT"
-    },
-    {
       "title": "Rubio says the coming week is 'very critical' in Russia-Ukraine war negotiations - CNBC",
       "pubDate": "Sun, 27 Apr 2025 15:27:37 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump administration bars Harvard from future research grants - Al Jazeera",
       "pubDate": "Tue, 06 May 2025 02:37:30 GMT"
+    },
+    {
+      "title": "Trump tariffs: Car giant Ford and Barbie maker Mattel warn over tariffs costs - BBC",
+      "pubDate": "Tue, 06 May 2025 02:04:22 GMT"
     }
   ],
   "ukraine": [
@@ -271,6 +271,10 @@
     {
       "title": "These Economists Decide Whether the U.S. Had a Recession. There\u2019s No Sign Yet. - Barron's",
       "pubDate": "Tue, 06 May 2025 06:30:00 GMT"
+    },
+    {
+      "title": "6 ways to protect your retirement savings from a recession - USA Today",
+      "pubDate": "Tue, 06 May 2025 04:42:51 GMT"
     }
   ],
   "russia": [
@@ -321,6 +325,10 @@
     {
       "title": "Ukraine-Russia war latest: Moscow airports shut as \u2018more than 100 drones\u2019 attack Russia ahead of Putin\u2019s parade - The Independent",
       "pubDate": "Tue, 06 May 2025 06:31:00 GMT"
+    },
+    {
+      "title": "Ukraine targets Moscow with drones for second straight night, officials say - Reuters",
+      "pubDate": "Tue, 06 May 2025 03:21:00 GMT"
     }
   ],
   "israel": [
@@ -451,6 +459,10 @@
     {
       "title": "China accuses US of launching 'advanced' cyberattacks, names alleged NSA agents - Reuters",
       "pubDate": "Tue, 15 Apr 2025 18:26:19 GMT"
+    },
+    {
+      "title": "Google Fixes Actively Exploited Android System Flaw in May 2025 Security Update - The Hacker News",
+      "pubDate": "Tue, 06 May 2025 05:46:00 GMT"
     }
   ],
   "fusion_power": [
@@ -649,6 +661,10 @@
     {
       "title": "Mars puts pet health in your hands with the snap of a photo and artificial intelligence - Fast Company",
       "pubDate": "Tue, 06 May 2025 07:12:27 GMT"
+    },
+    {
+      "title": "OpenAI agrees to buy Windsurf for about $3 billion, Bloomberg News reports - Reuters",
+      "pubDate": "Tue, 06 May 2025 06:47:48 GMT"
     }
   ],
   "public_health": [
@@ -777,6 +793,10 @@
     {
       "title": "Stocks Fall After Historic Run as Trade Risks Loom: Markets Wrap - Bloomberg.com",
       "pubDate": "Mon, 05 May 2025 18:10:06 GMT"
+    },
+    {
+      "title": "Asian shares are mostly higher after Wall St breaks its winning streak - morning-times.com",
+      "pubDate": "Tue, 06 May 2025 03:30:55 GMT"
     }
   ],
   "renewable_energy": [
@@ -1265,10 +1285,6 @@
   ],
   "world_news": [
     {
-      "title": "Kansas women\u2019s golf gets No. 4 seed in Columbus Regional, sets program record for highest regional seeding - Lawrence Journal-World",
-      "pubDate": "Wed, 23 Apr 2025 13:46:00 GMT"
-    },
-    {
       "title": "Douglas County commissioners ease rules for home-based businesses, drop registration and fees for many small operations - Lawrence Journal-World",
       "pubDate": "Thu, 24 Apr 2025 00:37:00 GMT"
     },
@@ -1423,6 +1439,10 @@
     {
       "title": "Zelenskyy: Ceasefire with Russia possible at any moment - Sky News",
       "pubDate": "Mon, 05 May 2025 01:41:16 GMT"
+    },
+    {
+      "title": "Hamas no longer interested in truce talks after Israel\u2019s new Gaza plan, senior official says \u2013 Israel-Gaza war live - The Guardian",
+      "pubDate": "Tue, 06 May 2025 06:27:00 GMT"
     }
   ],
   "health_care": [

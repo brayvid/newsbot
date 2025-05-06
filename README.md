@@ -36,6 +36,7 @@ newsbot/
 | `MAX_TOPICS`              | Maximum number of topics in digest |
 | `MAX_ARTICLES_PER_TOPIC`  | Maximum number of articles per topic in digest |
 | `DEMOTE_FACTOR`           | 0-1: Importance multiplier for 'demote' overrides |
+| `TIMEZONE`                | User timezone string, eg. 'America/New_York' |
 
 ---
 

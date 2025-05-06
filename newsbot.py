@@ -107,6 +107,14 @@ MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
 DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR",0.5))
 MATCH_THRESHOLD = 0.4
 
+# Extract timezone from config or default to 'America/New_York'
+USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
+try:
+    ZONE = ZoneInfo(USER_TIMEZONE)
+except Exception:
+    logging.warning(f"Invalid TIMEZONE '{USER_TIMEZONE}' in config. Falling back to 'America/New_York'")
+    ZONE = ZoneInfo("America/New_York")
+
 # Load user-defined topic and keyword importance scores from Google Sheets.
 def load_csv_weights(url):
     weights = {}
@@ -164,9 +172,9 @@ def is_in_history(article_title, history):
 
     return False
 
-# Converts datetime to US Eastern Timezone
-def to_eastern(dt): 
-    return dt.astimezone(ZoneInfo("America/New_York"))
+# Converts datetime to user timezone
+def to_user_timezone(dt):
+    return dt.astimezone(ZONE)
 
 # Fetch recent RSS news articles for a given topic from Google News.
 def fetch_articles_for_topic(topic, max_articles=10):
@@ -182,7 +190,7 @@ def fetch_articles_for_topic(topic, max_articles=10):
         response.raise_for_status()
 
         root = ET.fromstring(response.content)
-        time_cutoff = datetime.now(ZoneInfo("America/New_York")) - timedelta(hours=MAX_ARTICLE_AGE)
+        time_cutoff = datetime.now(ZONE) - timedelta(hours=MAX_ARTICLE_AGE)
         articles = []
 
         for item in root.findall("./channel/item"):
@@ -191,7 +199,7 @@ def fetch_articles_for_topic(topic, max_articles=10):
             pubDate = item.findtext("pubDate")
 
             try:
-                pub_dt = parsedate_to_datetime(pubDate).astimezone(ZoneInfo("America/New_York"))
+                pub_dt = parsedate_to_datetime(pubDate).astimezone(ZONE)
             except Exception:
                 continue  # skip if publication date is malformed
 
@@ -402,7 +410,7 @@ def main():
         for topic, articles in digest.items():
             section = f'<h3 style="margin: 0 0 0 0;">{html.escape(topic)}</h3>'
             for article in articles:
-                pub_dt = to_eastern(parsedate_to_datetime(article["pubDate"]))
+                pub_dt = to_user_timezone(parsedate_to_datetime(article["pubDate"]))
                 section += (
                     f'<p style="margin: 0.4em 0 1.2em 0;">'
                     f'📰 <a href="{article["link"]}" target="_blank">{html.escape(article["title"])}</a><br>'
@@ -412,7 +420,7 @@ def main():
             html_body += section
 
         msg = EmailMessage()
-        msg["Subject"] = f"🗞️ News – {datetime.now(ZoneInfo('America/New_York')).strftime('%Y-%m-%d %I:%M %p %Z')}"
+        msg["Subject"] = f"🗞️ News – {datetime.now(ZONE).strftime('%Y-%m-%d %I:%M %p %Z')}"
         msg["From"] = EMAIL_FROM
         msg["To"] = EMAIL_TO
         msg["Bcc"] = ", ".join(EMAIL_BCC_LIST)
