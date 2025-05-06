@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump\u2019s plan to give Ukrainian land to Russia \u2018a capitulation,\u2019 Germany warns, as Putin thanks North Korea for troops - CNN",
-      "pubDate": "Mon, 28 Apr 2025 06:48:00 GMT"
-    },
-    {
       "title": "Trump-China tariff war: Who\u2019s winning so far? - Al Jazeera",
       "pubDate": "Mon, 28 Apr 2025 15:00:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump tariffs live updates: Trump hints at pharma duties, no plans to talk to China's XI - Yahoo Finance",
       "pubDate": "Tue, 06 May 2025 14:52:38 GMT"
+    },
+    {
+      "title": "As Canada\u2019s Mark Carney Meets With Trump, Here\u2019s What\u2019s at Stake - The New York Times",
+      "pubDate": "Tue, 06 May 2025 12:00:54 GMT"
     }
   ],
   "ukraine": [
@@ -237,6 +237,10 @@
     {
       "title": "Ukraine war: Russia closes Moscow airports after drone attack - BBC",
       "pubDate": "Tue, 06 May 2025 02:55:46 GMT"
+    },
+    {
+      "title": "Ukrainian drones attack Moscow, halting flights ahead of major military parade - CNN",
+      "pubDate": "Tue, 06 May 2025 13:50:00 GMT"
     }
   ],
   "recession": [
@@ -279,6 +283,10 @@
     {
       "title": "CIOs prepare for recession with greater cost control - Computer Weekly",
       "pubDate": "Tue, 06 May 2025 11:30:20 GMT"
+    },
+    {
+      "title": "RSM chief economist: \u2018Recession will start on the docks of Los Angeles\u2019 - Fortune",
+      "pubDate": "Tue, 06 May 2025 16:12:00 GMT"
     }
   ],
   "russia": [
@@ -567,6 +575,10 @@
     {
       "title": "Pakistan: Neutral Investigations By US, China, And Turkey \u2013 OpEd - Eurasia Review",
       "pubDate": "Tue, 06 May 2025 15:35:04 GMT"
+    },
+    {
+      "title": "Exhausted Sudanese flee into Chad as fighting escalates - UN News",
+      "pubDate": "Tue, 06 May 2025 12:18:00 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -681,6 +693,10 @@
     {
       "title": "EY CEO says AI won't decrease its 400,000-person workforce \u2014 but it might help it double in size - Business Insider",
       "pubDate": "Tue, 06 May 2025 09:04:00 GMT"
+    },
+    {
+      "title": "Court Short-Circuits Artificial Intelligence Patents: Federal Circuit Tightens Standards for Patent Eligibility - JD Supra",
+      "pubDate": "Tue, 06 May 2025 16:40:57 GMT"
     }
   ],
   "public_health": [
@@ -991,10 +1007,6 @@
   ],
   "trade_war": [
     {
-      "title": "US-China trade war risks dragging the world into recession, warns WTO head - Financial Times",
-      "pubDate": "Wed, 16 Apr 2025 13:05:51 GMT"
-    },
-    {
       "title": "Trump Tariffs Live Updates: Trump tariffs could cut world trade by up to 1.5%, warns WTO - Times of India",
       "pubDate": "Wed, 16 Apr 2025 21:30:16 GMT"
     },
@@ -1149,6 +1161,10 @@
     {
       "title": "European and UK companies lay bare the pain from Donald Trump\u2019s trade war - Financial Times",
       "pubDate": "Tue, 06 May 2025 04:00:27 GMT"
+    },
+    {
+      "title": "America\u2019s trading partners have a massive bazooka in the trade war. They may never use it - CNN",
+      "pubDate": "Tue, 06 May 2025 14:29:00 GMT"
     }
   ],
   "china": [
@@ -2535,6 +2551,10 @@
     {
       "title": "Top Hamas official: 'No sense' in hostage-ceasefire talks while 'hunger war' continues in Gaza - The Times of Israel",
       "pubDate": "Tue, 06 May 2025 06:39:08 GMT"
+    },
+    {
+      "title": "Hamas warns Israeli plans to expand Gaza assault mean 'sacrificing' captives - Middle East Eye",
+      "pubDate": "Tue, 06 May 2025 14:40:00 GMT"
     }
   ],
   "climate": [

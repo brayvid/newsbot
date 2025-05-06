@@ -419,7 +419,7 @@ def main():
                 )
             html_body += section
     
-        footer = f'Gemini reviewed {total_headlines} headlines published in the last {MAX_ARTICLE_HOURS} hours.'
+        footer = f'Gemini recommends these articles among {total_headlines} published in the last {MAX_ARTICLE_HOURS} hours based on your <a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">preferences</a>.'
         html_body += f"<hr><small>{footer}</small>"
 
         msg = EmailMessage()

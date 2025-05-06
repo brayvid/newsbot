@@ -145,3 +145,5 @@ All script logs are saved to `logs/newsbot.log`. The `logs/` directory will be c
 📅 Mon, 05 May 2025 05:57 AM EDT</p>
 
 <hr>
+
+<small>Gemini recommends these articles among 1162 published in the last 6 hours based on your <a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">preferences</a>.</small>
