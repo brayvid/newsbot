@@ -397,7 +397,7 @@ def main():
             logging.info("Gemini returned no digest-worthy content.")
             return
 
-        # Step 5: Compose and send email
+        # Compose and send email
         EMAIL_FROM = os.getenv("GMAIL_USER", "").encode("ascii", "ignore").decode()
         EMAIL_TO = EMAIL_FROM
         EMAIL_BCC = os.getenv("MAILTO", "").strip()
@@ -454,11 +454,7 @@ def main():
             json.dump(history, f, indent=2)
 
     finally:
-        if os.path.exists(LOCKFILE):
-            os.remove(LOCKFILE)
-        logging.info(f"Lockfile released at {datetime.now()}")
-
-        # Delete ~/nltk_data directory if it exists
+        # Delete ~/nltk_data directory
         nltk_path = os.path.expanduser("~/nltk_data")
         if os.path.exists(nltk_path):
             try:
@@ -466,6 +462,11 @@ def main():
                 # logging.info("Deleted ~/nltk_data directory after run.")
             except Exception as e:
                 logging.warning(f"Failed to delete ~/nltk_data: {e}")
+
+        # Remove lockfile last
+        if os.path.exists(LOCKFILE):
+            os.remove(LOCKFILE)
+        logging.info(f"Lockfile released at {datetime.now()}")
 
 if __name__ == "__main__":
     main()
