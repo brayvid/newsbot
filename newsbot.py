@@ -359,7 +359,6 @@ def main():
                     topics_to_headlines[topic] = [a["title"] for a in fresh_articles]
                     full_articles[topic] = fresh_articles
 
-
         if not topics_to_headlines:
             logging.info("No headlines available for LLM input.")
             return
