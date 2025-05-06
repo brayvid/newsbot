@@ -282,6 +282,7 @@ def safe_parse_json(raw: str) -> dict:
             logging.error("Raw content:\n" + raw)
             return {}  # Graceful fallback
 
+# Returns True if any banned term is found in the normalized text
 def contains_banned_keyword(text, banned_terms):
     norm_text = normalize(text)
     return any(banned in norm_text for banned in banned_terms)
