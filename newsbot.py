@@ -279,9 +279,12 @@ def safe_parse_json(raw: str) -> dict:
             return ast.literal_eval(raw)
         except Exception as e:
             logging.error("Both JSON and literal_eval parsing failed.")
-            logging.error(raw)
-            raise ValueError("Gemini returned malformed JSON that couldn't be parsed:\n" + repr(raw)) from e
+            logging.error("Raw content:\n" + raw)
+            return {}  # Graceful fallback
 
+def contains_banned_keyword(text, banned_terms):
+    norm_text = normalize(text)
+    return any(banned in norm_text for banned in banned_terms)
 
 # Call Gemini to select top topics/headlines among those retrieved based on user preferences and constraints.
 def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gemini_api_key: str) -> dict:
@@ -289,14 +292,14 @@ def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gem
     model = genai.GenerativeModel(model_name="models/gemini-2.0-flash-lite-001")
 
     prompt = (
-        "You are choosing news topics and headlines most relevant to include in an email digest for a user based on their specific preferences.\n"
+        "You are choosing the most relevant news topics and headlines to include in an email digest for a user based on their specific preferences.\n"
         f"Given a dictionary of topics and corresponding headlines, and the user's preferences, select up to {MAX_TOPICS} of the most important topics today.\n"
         f"For each selected topic, return the top {MAX_ARTICLES_PER_TOPIC} most important headlines.\n"
-        "Be careful to avoid returning multiple of the same or similar headlines that cover roughly the same thing.\n"
+        "Be careful to avoid returning multiple of the same or similar headlines that are covering roughly the same thing.\n"
         "Respect the user's importance preferences for topics and keywords as indicated with a score of 1-5, with 5 the highest."
-        f"Be sure not to include any headlines containing any terms flagged 'banned' and demote headlines by a multiplier of {DEMOTE_FACTOR} flagged 'demote'."
-        f"There should be a healthy diversity of subjects covered in your article recommendations."
-        "Be very careful to respond ONLY WITH VALID JSON like:\n"
+        f"Be sure not to include any headlines containing any terms flagged 'banned' and demote headlines with any terms flagged 'demote' by a multiplier of {DEMOTE_FACTOR}."
+        f"There should be a healthy diversity of subjects covered in your article recommendations. Do not focus one one."
+        "Be very careful to respond *ONLY WITH VALID JSON* like:\n"
         "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
         f"User Preferences:\n{user_preferences}\n\n"
         f"Topics and Headlines:\n{json.dumps(dict(sorted(topics_to_headlines.items())), indent=2)}\n"
@@ -313,8 +316,9 @@ def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gem
 
     try:
         return safe_parse_json(raw)
-    except Exception:
-        raise ValueError("Gemini returned invalid JSON or no content:\n" + repr(raw))
+    except Exception as e:
+        logging.warning(f"Gemini returned invalid JSON. Skipping digest.")
+        return {}
 
 # Main logic: load config, fetch articles, rank with Gemini, send digest email.
 def main():
@@ -340,10 +344,16 @@ def main():
         topics_to_headlines = {}
         full_articles = {}
         for topic in topic_weights:
-            articles = fetch_articles_for_topic(topic, 10)
+            articles = fetch_articles_for_topic(topic, 5)
             if articles:
-                # Filter out articles already seen in history
-                fresh_articles = [a for a in articles if not is_in_history(a["title"], history)]
+                # Filter out old, banned, or already-seen articles
+                banned_terms = [k for k, v in overrides.items() if v == "ban"]
+
+                fresh_articles = [
+                    a for a in articles
+                    if not is_in_history(a["title"], history) and not contains_banned_keyword(a["title"], banned_terms)
+                ]
+
                 if fresh_articles:
                     topics_to_headlines[topic] = [a["title"] for a in fresh_articles]
                     full_articles[topic] = fresh_articles
