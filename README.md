@@ -20,7 +20,7 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 newsbot/
 ├── newsbot.py            # Main script
 ├── requirements.txt      # Package requirements
-├── history.json          # Tracks previously sent headlines (excluded from version control)
+├── history.json          # Tracks previously sent headlines
 ├── .env                  # Email credentials and configuration (excluded from version control)
 ├── logs/                 # Logging directory (excluded from version control)
 │   └── newsbot.log       # Runtime logs and cron output
