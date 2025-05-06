@@ -1,6 +1,6 @@
 # NewsBot
 
-This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest. It uses Google Gemini to prioritize headlines. Designed to run daily using `cron` on any Unix-based system.
+This Python script fetches the latest Google News RSS headlines for a user-supplied list of topics and sends a nicely formatted email digest. It uses Google Gemini to prioritize headlines and avoid duplicates with a history file. Designed to run daily using `cron` on any Unix-based system.
 
 ---
 
@@ -8,7 +8,8 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 
 - Reads [this configuration file](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing) on Google Sheets with user topics, keywords and overrides
 - Retrieves the latest news headlines for all topics from Google News RSS
-- Queries Gemini to prioritize these headlines according to your preferences
+- Applies stemming and lemmatization to headlines and eliminates duplicates
+- Queries Gemini to prioritize remaining headlines according to your preferences
 - Sends you a clean HTML email digest
 - Schedule with `cron`
 
