@@ -304,8 +304,8 @@ def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gem
         "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
         f"User Preferences:\n{user_preferences}\n\n"
         f"Topics and Headlines:\n{json.dumps(dict(sorted(topics_to_headlines.items())), indent=2)}\n"
-
     )
+    
     # print(prompt)
     response = model.generate_content([prompt])
     raw = getattr(response, "text", None)
