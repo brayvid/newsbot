@@ -305,7 +305,7 @@ def prioritize_with_gemini(topics_to_headlines: dict, user_preferences: str, gem
         f"User Preferences:\n{user_preferences}\n\n"
         f"Topics and Headlines:\n{json.dumps(dict(sorted(topics_to_headlines.items())), indent=2)}\n"
     )
-    
+
     # print(prompt)
     response = model.generate_content([prompt])
     raw = getattr(response, "text", None)
@@ -347,7 +347,7 @@ def main():
         for topic in topic_weights:
             articles = fetch_articles_for_topic(topic, 5)
             if articles:
-                # Filter out old, banned, or already-seen articles
+                # Filter out old, banned, or already-seen headlines
                 banned_terms = [k for k, v in overrides.items() if v == "ban"]
 
                 fresh_articles = [
