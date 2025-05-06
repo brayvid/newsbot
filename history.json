@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump's first 100 days seen as bringing big changes, but still too much focus on tariffs \u2014 CBS News poll - CBS News",
-      "pubDate": "Sun, 27 Apr 2025 19:10:06 GMT"
-    },
-    {
-      "title": "Trump warms to Zelenskyy after Vatican meeting but is \u2018disappointed\u2019 by Russia - The Guardian",
-      "pubDate": "Mon, 28 Apr 2025 02:46:00 GMT"
-    },
-    {
       "title": "Trump\u2019s plan to give Ukrainian land to Russia \u2018a capitulation,\u2019 Germany warns, as Putin thanks North Korea for troops - CNN",
       "pubDate": "Mon, 28 Apr 2025 06:48:00 GMT"
     },
@@ -159,6 +151,14 @@
     {
       "title": "Trump\u2019s talk of film tariffs makes no sense, but it\u2019s already doing damage \u2013 to Hollywood | Peter Bradshaw - The Guardian",
       "pubDate": "Tue, 06 May 2025 09:27:00 GMT"
+    },
+    {
+      "title": "Trump to meet with Canada\u2019s prime minister amid trade tensions - CNN",
+      "pubDate": "Tue, 06 May 2025 15:45:00 GMT"
+    },
+    {
+      "title": "Trump tariffs live updates: Trump hints at pharma duties, no plans to talk to China's XI - Yahoo Finance",
+      "pubDate": "Tue, 06 May 2025 14:52:38 GMT"
     }
   ],
   "ukraine": [
@@ -275,6 +275,10 @@
     {
       "title": "6 ways to protect your retirement savings from a recession - USA Today",
       "pubDate": "Tue, 06 May 2025 04:42:51 GMT"
+    },
+    {
+      "title": "CIOs prepare for recession with greater cost control - Computer Weekly",
+      "pubDate": "Tue, 06 May 2025 11:30:20 GMT"
     }
   ],
   "russia": [
@@ -559,6 +563,10 @@
     {
       "title": "Human Development progress slows to a 35-year low according to UN Development Programme report - United Nations Development Programme",
       "pubDate": "Tue, 06 May 2025 04:03:48 GMT"
+    },
+    {
+      "title": "Pakistan: Neutral Investigations By US, China, And Turkey \u2013 OpEd - Eurasia Review",
+      "pubDate": "Tue, 06 May 2025 15:35:04 GMT"
     }
   ],
   "artificial_intelligence": [
@@ -849,6 +857,10 @@
     {
       "title": "What America Gets Wrong About the AI Race - Foreign Affairs",
       "pubDate": "Fri, 18 Apr 2025 04:00:00 GMT"
+    },
+    {
+      "title": "The beginning of the end of unshakeable support: Why US public opinion is turning away from Israel - Middle East Monitor",
+      "pubDate": "Tue, 06 May 2025 15:00:00 GMT"
     }
   ],
   "machine_learning": [
@@ -899,6 +911,10 @@
     {
       "title": "Machine Learning Helps Predict Exercise Habits, Study Finds - Athletech News",
       "pubDate": "Mon, 05 May 2025 13:50:38 GMT"
+    },
+    {
+      "title": "AI-powered 'ulrb' uncovers Earth's hidden microbial gems - Tech Xplore",
+      "pubDate": "Tue, 06 May 2025 13:40:02 GMT"
     }
   ],
   "data_science": [
@@ -1231,6 +1247,10 @@
     {
       "title": "China's Xi ready to work with EU to expand ties, handle friction - Reuters",
       "pubDate": "Tue, 06 May 2025 09:08:21 GMT"
+    },
+    {
+      "title": "China\u2019s Financial Officials to Hold Briefing Amid Tariff Threat - Bloomberg.com",
+      "pubDate": "Tue, 06 May 2025 10:43:23 GMT"
     }
   ],
   "programming_languages": [
