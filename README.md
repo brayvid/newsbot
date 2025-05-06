@@ -33,7 +33,7 @@ newsbot/
 
 | Parameter                  | What It Does |
 |---------------------------|--------------|
-| `MAX_ARTICLE_AGE`         | Maximum article age in hours in digest |
+| `MAX_ARTICLE_HOURS`       | Maximum article age in hours in digest |
 | `MAX_TOPICS`              | Maximum number of topics in digest |
 | `MAX_ARTICLES_PER_TOPIC`  | Maximum number of articles per topic in digest |
 | `DEMOTE_FACTOR`           | 0-1: Importance multiplier for 'demote' overrides |
