@@ -6,7 +6,7 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 
 ## How it works
 
-- Reads [this configuration file](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing) on Google Sheets with user topics, keywords, overrides and script parameters.
+- Reads [this configuration file](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing) on Google Sheets with user topics, keywords, overrides and script parameters
 - Retrieves the latest news headlines for all topics from Google News RSS
 - Applies stemming and lemmatization to headlines and eliminates duplicates
 - Queries Gemini to prioritize remaining headlines according to your preferences
