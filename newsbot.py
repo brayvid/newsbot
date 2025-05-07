@@ -378,6 +378,22 @@ def main():
         # Get prioritized digest from Gemini
         digest_titles = prioritize_with_gemini(headlines_to_send, user_preferences, gemini_api_key)
 
+        # Deduplicate headlines across all topics from Gemini response
+        seen_normalized_titles = set()
+        deduped_digest_titles = {}
+
+        for topic, titles in digest_titles.items():
+            deduped_titles = []
+            for title in titles:
+                norm_title = normalize(title)
+                if norm_title not in seen_normalized_titles:
+                    seen_normalized_titles.add(norm_title)
+                    deduped_titles.append(title)
+            if deduped_titles:
+                deduped_digest_titles[topic] = deduped_titles
+
+        digest_titles = deduped_digest_titles  # overwrite with deduplicated version
+
         # Rebuild full article entries for final digest
         digest = {}
         for topic, titles in digest_titles.items():
