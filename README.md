@@ -27,30 +27,17 @@ newsbot/
 │   └── newsbot.log       # Runtime logs and cron output
 ```
 
----
-
-## Configuration Parameters
-
-| Parameter                 | What It Does |
-|---------------------------|--------------|
-| `MAX_ARTICLE_HOURS`       | Maximum article age in hours in digest |
-| `MAX_TOPICS`              | Maximum number of topics in digest |
-| `MAX_ARTICLES_PER_TOPIC`  | Maximum number of articles per topic in digest |
-| `DEMOTE_FACTOR`           | 0-1: Importance multiplier for 'demote' overrides |
-| `TIMEZONE`                | Formatted user timezone, eg. 'America/New_York' |
-
----
 
 ## Setup
 
-### 1. Clone the Repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/brayvid/newsbot.git
 cd newsbot
 ```
 
-### 2. Install Dependencies
+### 2. Install dependencies
 
 ```bash
 pip3 install -r requirements.txt
@@ -63,7 +50,7 @@ pip3 install nltk requests python-dotenv google-generativeai
 ```
 
 
-### 3. Prepare Environment File
+### 3. Prepare environment file
 
 `nano .env` – contains email credentials, recipient(s), and Gemini API key:
 
@@ -77,6 +64,51 @@ GEMINI_API_KEY=your_gemini_api_key
 (You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account, and [generate a Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key).)
 
 
+
+### 4. Specify preferences
+
+  
+#### Topics (scored 1-5)
+
+
+  ```
+  Topic,Weight
+  Artificial Intelligence,5
+  Renewable Energy,5
+  ...
+  ```
+#### Keywords (scored 1-5)
+
+
+  ```
+  Keyword,Weight
+  war,5
+  invasion,5
+  nuclear,5
+  ...
+  ```
+
+#### Overrides
+
+
+  ```
+  Override,Action
+  fox news,ban
+  entertainment,demote
+  ...
+  ```
+
+#### Options
+
+| Parameter                 | What It Does |
+|---------------------------|--------------|
+| `MAX_ARTICLE_HOURS`       | Maximum article age in hours in digest |
+| `MAX_TOPICS`              | Maximum number of topics in digest |
+| `MAX_ARTICLES_PER_TOPIC`  | Maximum number of articles per topic in digest |
+| `DEMOTE_FACTOR`           | 0-1: Importance multiplier for 'demote' overrides |
+| `TIMEZONE`                | Formatted user timezone, eg. 'America/New_York' |
+
+---
 ---
 
 ## Running the Script
