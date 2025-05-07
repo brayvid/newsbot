@@ -1,22 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump-China tariff war: Who\u2019s winning so far? - Al Jazeera",
-      "pubDate": "Mon, 28 Apr 2025 15:00:00 GMT"
-    },
-    {
-      "title": "Canadians vote in an election dominated by Trump\u2019s trade war and bluster - AP News",
-      "pubDate": "Mon, 28 Apr 2025 19:46:00 GMT"
-    },
-    {
-      "title": "Canadians keep Liberal Party and Mark Carney in power as country digs in on Trump\u2019s trade war - NBC News",
-      "pubDate": "Tue, 29 Apr 2025 02:27:00 GMT"
-    },
-    {
-      "title": "How durable are Donald Trump's executive orders? - DW",
-      "pubDate": "Tue, 29 Apr 2025 05:30:10 GMT"
-    },
-    {
       "title": "UPS cuts 20,000 jobs, GM delays investor call as Trump's tariffs create corporate chaos - Reuters",
       "pubDate": "Tue, 29 Apr 2025 15:12:14 GMT"
     },
@@ -159,6 +143,22 @@
     {
       "title": "As Canada\u2019s Mark Carney Meets With Trump, Here\u2019s What\u2019s at Stake - The New York Times",
       "pubDate": "Tue, 06 May 2025 12:00:54 GMT"
+    },
+    {
+      "title": "Trump\u2019s Kennedy Center Debut: 'Les Mis' and Six-Figure Checks - The Atlantic",
+      "pubDate": "Tue, 06 May 2025 19:00:00 GMT"
+    },
+    {
+      "title": "Carney told Trump that Canada is not for sale. 'Never say never,' Trump replied - NPR",
+      "pubDate": "Tue, 06 May 2025 17:27:31 GMT"
+    },
+    {
+      "title": "Carney says Canada is \"not for sale, it won't be for sale, ever\" in Oval Office meeting with Trump - CBS News",
+      "pubDate": "Wed, 07 May 2025 00:57:48 GMT"
+    },
+    {
+      "title": "Biden accuses Trump of \u2018modern-day appeasement\u2019 towards Russia - The Guardian",
+      "pubDate": "Wed, 07 May 2025 06:19:00 GMT"
     }
   ],
   "ukraine": [
@@ -287,6 +287,10 @@
     {
       "title": "RSM chief economist: \u2018Recession will start on the docks of Los Angeles\u2019 - Fortune",
       "pubDate": "Tue, 06 May 2025 16:12:00 GMT"
+    },
+    {
+      "title": "The price gap between oil and gold points to a recession and $4,000 gold - Bloomberg\u2019s Mike McGlone - KITCO",
+      "pubDate": "Tue, 06 May 2025 18:24:41 GMT"
     }
   ],
   "russia": [
@@ -345,6 +349,18 @@
     {
       "title": "Ukraine Destroys Rare Russian Naval Radar-on-Wheels: Video - Newsweek",
       "pubDate": "Tue, 06 May 2025 09:37:56 GMT"
+    },
+    {
+      "title": "EU to propose end-2027 halt to all Russian gas imports - Reuters",
+      "pubDate": "Tue, 06 May 2025 16:22:59 GMT"
+    },
+    {
+      "title": "Xi Jinping set to arrive in Moscow as Putin\u2019s \u2018guest of honor\u2019 ahead of Victory Day military parade - CNN",
+      "pubDate": "Wed, 07 May 2025 00:58:00 GMT"
+    },
+    {
+      "title": "Biden accuses Trump of \u2018modern-day appeasement\u2019 towards Russia - The Guardian",
+      "pubDate": "Wed, 07 May 2025 06:19:00 GMT"
     }
   ],
   "israel": [
@@ -697,6 +713,18 @@
     {
       "title": "Court Short-Circuits Artificial Intelligence Patents: Federal Circuit Tightens Standards for Patent Eligibility - JD Supra",
       "pubDate": "Tue, 06 May 2025 16:40:57 GMT"
+    },
+    {
+      "title": "Why people are using AI to fake disabilities like Down syndrome online - CBS News",
+      "pubDate": "Tue, 06 May 2025 20:45:00 GMT"
+    },
+    {
+      "title": "IBM CEO: HR Layoffs Due to AI Led to \u2018More Investment\u2019 in Other Roles - PYMNTS.com",
+      "pubDate": "Wed, 07 May 2025 01:43:41 GMT"
+    },
+    {
+      "title": "The Use of Artificial Intelligence (AI) to Generate Case Studies for the Classroom - Faculty Focus | Higher Ed Teaching & Learning",
+      "pubDate": "Wed, 07 May 2025 04:01:50 GMT"
     }
   ],
   "public_health": [
@@ -833,6 +861,10 @@
     {
       "title": "Stock Market Today: Dow, S&P 500 and Nasdaq to open lower as rally stalls; Fed to start 2-day meeting; Palantir shares dive after earnings - MarketWatch",
       "pubDate": "Tue, 06 May 2025 08:45:00 GMT"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with US-China trade talks, Fed rate call in focus - Yahoo Finance",
+      "pubDate": "Wed, 07 May 2025 08:49:41 GMT"
     }
   ],
   "renewable_energy": [
@@ -877,6 +909,10 @@
     {
       "title": "The beginning of the end of unshakeable support: Why US public opinion is turning away from Israel - Middle East Monitor",
       "pubDate": "Tue, 06 May 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Trump team urged Ukraine to take U.S. deportees amid war, documents show - The Washington Post",
+      "pubDate": "Wed, 07 May 2025 02:56:21 GMT"
     }
   ],
   "machine_learning": [
@@ -1006,14 +1042,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump Tariffs Live Updates: Trump tariffs could cut world trade by up to 1.5%, warns WTO - Times of India",
-      "pubDate": "Wed, 16 Apr 2025 21:30:16 GMT"
-    },
-    {
-      "title": "As US and China escalate trade war, the world asks, \u2018Who will blink first?\u2019 - Al Jazeera",
-      "pubDate": "Wed, 16 Apr 2025 15:56:15 GMT"
-    },
     {
       "title": "For economists, Trump\u2019s trade war offers a rare opportunity to study tariffs - Science | AAAS",
       "pubDate": "Wed, 16 Apr 2025 17:05:00 GMT"
@@ -1165,6 +1193,14 @@
     {
       "title": "America\u2019s trading partners have a massive bazooka in the trade war. They may never use it - CNN",
       "pubDate": "Tue, 06 May 2025 14:29:00 GMT"
+    },
+    {
+      "title": "US stocks sink again as more companies detail damage they're taking because of Trump's trade war - Los Angeles Times",
+      "pubDate": "Tue, 06 May 2025 21:48:26 GMT"
+    },
+    {
+      "title": "U.S. and Chinese officials will meet in Geneva in first sign of thaw in trade war - NPR",
+      "pubDate": "Wed, 07 May 2025 08:09:46 GMT"
     }
   ],
   "china": [
@@ -1267,6 +1303,18 @@
     {
       "title": "China\u2019s Financial Officials to Hold Briefing Amid Tariff Threat - Bloomberg.com",
       "pubDate": "Tue, 06 May 2025 10:43:23 GMT"
+    },
+    {
+      "title": "AMD forecasts revenue above estimates, despite US curbs on China chip exports - Reuters",
+      "pubDate": "Tue, 06 May 2025 21:26:16 GMT"
+    },
+    {
+      "title": "China to cut key rates by 10 points, bank reserve requirement by 50 points in bid to boost economy - CNBC",
+      "pubDate": "Wed, 07 May 2025 01:24:00 GMT"
+    },
+    {
+      "title": "China\u2019s Factories Start to Imagine World Without American Buyers - Bloomberg",
+      "pubDate": "Wed, 07 May 2025 09:00:00 GMT"
     }
   ],
   "programming_languages": [
@@ -2007,6 +2055,10 @@
     {
       "title": "Opinion | It\u2019s not too late to save the U.S. economy - The Washington Post",
       "pubDate": "Tue, 06 May 2025 03:27:29 GMT"
+    },
+    {
+      "title": "Greek-American Investment Titans Calamos, Koudounis Signal Optimism on US Economy - GreekReporter.com",
+      "pubDate": "Tue, 06 May 2025 21:51:10 GMT"
     }
   ],
   "terrorism": [
