@@ -109,7 +109,6 @@ GEMINI_API_KEY=your_gemini_api_key
 | `TIMEZONE`                | Formatted user timezone, eg. 'America/New_York' |
 
 ---
----
 
 ## Running the Script
 
