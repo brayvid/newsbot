@@ -61,12 +61,13 @@ MAILTO=recipient1@example.com,...
 GEMINI_API_KEY=your_gemini_api_key
 ```
 
-(You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account, and [generate a Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key).)
+You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account, and [generate a Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key).
 
 
 
-### 4. Specify preferences
+### 4. Specify preferences [here](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing)
 
+**You must make a copy of the sheet, publish each page as a CSV, and update the urls at the top of** ```newsbot.py```.
   
 #### Topics (scored 1-5)
 
@@ -98,7 +99,7 @@ GEMINI_API_KEY=your_gemini_api_key
   ...
   ```
 
-#### Options
+#### Parameters
 
 | Parameter                 | What It Does |
 |---------------------------|--------------|
