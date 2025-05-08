@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "After her defeat, Kamala Harris re-emerges to weigh in on Trump - NBC News",
-      "pubDate": "Wed, 30 Apr 2025 09:00:00 GMT"
-    },
-    {
       "title": "Despite Trump's promised cuts, U.S. spent about $220 billion more in first 100 days than last year - CBS News",
       "pubDate": "Wed, 30 Apr 2025 13:32:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump puts Fed\u2019s Powell in a political bind with push to cut rates - Politico",
       "pubDate": "Wed, 07 May 2025 20:48:15 GMT"
+    },
+    {
+      "title": "Trump is set to announce his first trade deal since his tariffs sent markets reeling - NPR",
+      "pubDate": "Thu, 08 May 2025 03:06:42 GMT"
     }
   ],
   "ukraine": [
@@ -515,6 +515,10 @@
     {
       "title": "Google Fixes Actively Exploited Android System Flaw in May 2025 Security Update - The Hacker News",
       "pubDate": "Tue, 06 May 2025 05:46:00 GMT"
+    },
+    {
+      "title": "Malaysia Cybersecurity Center of Excellence Marks First Anniversary with New Partnerships, Scholarships and Expanded Programs - Stock Titan",
+      "pubDate": "Thu, 08 May 2025 04:00:00 GMT"
     }
   ],
   "fusion_power": [
@@ -765,6 +769,10 @@
     {
       "title": "Apple Eyes Adding AI Search to Replace Google, Ending Tech Giant Partnership - PYMNTS.com",
       "pubDate": "Wed, 07 May 2025 20:28:57 GMT"
+    },
+    {
+      "title": "AI version of dead Arizona man addresses killer during sentencing - BBC",
+      "pubDate": "Wed, 07 May 2025 22:27:48 GMT"
     }
   ],
   "public_health": [
@@ -909,6 +917,10 @@
     {
       "title": "Why the Asian currency blowup matters - Axios",
       "pubDate": "Wed, 07 May 2025 16:12:33 GMT"
+    },
+    {
+      "title": "Stock futures are little changed after S&P 500 posts first positive day in three following Fed decision: Live updates - CNBC",
+      "pubDate": "Thu, 08 May 2025 00:22:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -1375,6 +1387,10 @@
     {
       "title": "US-China Trade: Trump Says He Won\u2019t Lower China Tariffs to Jump-Start Talks - Bloomberg.com",
       "pubDate": "Wed, 07 May 2025 18:24:37 GMT"
+    },
+    {
+      "title": "China touts new law as foundation for private sector growth - South China Morning Post",
+      "pubDate": "Thu, 08 May 2025 02:29:57 GMT"
     }
   ],
   "programming_languages": [
@@ -2717,6 +2733,12 @@
     {
       "title": "Glendale mass shooting: Violence, chaos erupts just steps from police headquarters building - FOX 10 Phoenix",
       "pubDate": "Mon, 05 May 2025 19:27:21 GMT"
+    }
+  ],
+  "energy_storage": [
+    {
+      "title": "AGL fully acquires 13.9GWh of pumped hydro in New South Wales, Australia - Energy-Storage.News",
+      "pubDate": "Thu, 08 May 2025 04:10:37 GMT"
     }
   ]
 }

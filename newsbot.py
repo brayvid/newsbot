@@ -257,38 +257,91 @@ def build_user_preferences(topics, keywords, overrides):
 # Clean and safely parse a possibly malformed JSON string.
 def safe_parse_json(raw: str) -> dict:
     """
-    Attempts to parse malformed JSON returned by Gemini.
-    Fixes common issues like:
-    - Improper closing brackets
+    Robustly parses malformed JSON returned by Gemini.
+    Handles:
     - Markdown code fences
+    - Smart/single quotes
     - Trailing commas
-    Falls back to ast.literal_eval if needed.
+    - Unbalanced braces/brackets
+    - Python-style dicts
+    - Fallback to regex extraction
     """
+    import json
+    import ast
 
-    raw = raw.strip()
+    def strip_wrappers(text):
+        text = text.strip()
+        # Remove Markdown-style code fences
+        text = re.sub(r"^```(?:json)?\s*", "", text)
+        text = re.sub(r"\s*```$", "", text)
+        return text
 
-    # Remove Markdown-style code fences
-    if raw.startswith("```"):
-        raw = re.sub(r"^```(?:json)?\s*", "", raw)
-        raw = re.sub(r"\s*```$", "", raw)
+    def balance_braces(text):
+        # Naively add missing closing brackets/braces
+        open_braces = text.count('{')
+        close_braces = text.count('}')
+        if open_braces > close_braces:
+            text += '}' * (open_braces - close_braces)
+        elif close_braces > open_braces:
+            text = text.rstrip('}')[:-(close_braces - open_braces)]
 
-    # Fix common mistakes:
-    # 1. Arrays closed with } instead of ]
-    raw = re.sub(r'(\[[^\[\]]*?)\s*\}', r'\1]', raw)
+        open_brackets = text.count('[')
+        close_brackets = text.count(']')
+        if open_brackets > close_brackets:
+            text += ']' * (open_brackets - close_brackets)
+        elif close_brackets > open_brackets:
+            text = text.rstrip(']')[:-(close_brackets - open_brackets)]
 
-    # 2. Trailing commas before closing brackets/braces
-    raw = re.sub(r",\s*(\}|\])", r"\1", raw)
+        return text
 
+    def fix_common_json_errors(text):
+        # Replace smart quotes
+        text = text.replace("“", '"').replace("”", '"').replace("‘", "'").replace("’", "'")
+
+        # Fix trailing commas before closing brackets/braces
+        text = re.sub(r",\s*([\]}])", r"\1", text)
+
+        # Fix single quotes to double quotes (rudimentary)
+        text = re.sub(r"(?<![a-zA-Z0-9])'(.*?)'(?![a-zA-Z0-9])", r'"\1"', text)
+
+        # Replace closing } for arrays with ]
+        text = re.sub(r'(\[[^\[\]]*?)\s*\}', r'\1]', text)
+
+        # Strip control characters
+        text = re.sub(r"[\x00-\x1f\x7f]", "", text)
+
+        # Balance brackets/braces
+        text = balance_braces(text)
+
+        return text
+
+    raw = strip_wrappers(raw)
+    cleaned = fix_common_json_errors(raw)
+
+    # 1. Try strict JSON
     try:
-        return json.loads(raw)
-    except json.JSONDecodeError:
-        logging.warning("json.loads() failed, trying ast.literal_eval() as fallback...")
-        try:
-            return ast.literal_eval(raw)
-        except Exception as e:
-            logging.error("Both JSON and literal_eval parsing failed.")
-            logging.error("Raw content:\n" + raw)
-            return {}  # Graceful fallback
+        return json.loads(cleaned)
+    except json.JSONDecodeError as e_json:
+        logging.warning(f"json.loads() failed: {e_json}")
+
+    # 2. Try Python-style dict parsing
+    try:
+        return ast.literal_eval(cleaned)
+    except Exception as e_ast:
+        logging.warning(f"ast.literal_eval() failed: {e_ast}")
+
+    # 3. Regex fallback to salvage dict
+    try:
+        match = re.search(r"\{.*\}", cleaned, re.DOTALL)
+        if match:
+            candidate = match.group(0)
+            candidate = fix_common_json_errors(candidate)
+            return json.loads(candidate)
+    except Exception as e_fallback:
+        logging.warning(f"Regex-based fallback failed: {e_fallback}")
+
+    logging.error("All parsing methods failed. Raw content:\n" + raw[:2000])
+    return {}
 
 # Returns True if any banned term is found in the normalized text
 def contains_banned_keyword(text, banned_terms):
