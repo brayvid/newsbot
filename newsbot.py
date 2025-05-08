@@ -376,18 +376,18 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
 
     prompt = (
         "You are choosing the most relevant news topics and headlines to include in an email digest for a user based on their specific preferences.\n"
-        f"Given a dictionary of topics and corresponding headlines, and the user's preferences, select up to {MAX_TOPICS} of the most important topics today.\n"
-        f"For each selected topic, return the top {MAX_ARTICLES_PER_TOPIC} most important headlines.\n"
-        "Ensure you do not return multiple copies of the same or similar headlines that are covering roughly the same thing, even if they are in different topics.\n"
+        f"Given a dictionary of headlines retrieved for specific topics, and the user's preferences, select up to {MAX_TOPICS} of the most important topics to include in the digest.\n"
+        f"For each selected topic, return the top {MAX_ARTICLES_PER_TOPIC} most important headlines to include in the digest.\n"
+        "Respond only with valid JSON. Ensure you respond *WITH VALID JSON ONLY* like:\n"
+        "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
+        "Ensure you **do not return multiple copies of the same or similar headlines** that are covering roughly the same thing, even if they are in different topics.\n"
         "Avoid all local news, for example any headlines containing a regional town or county name. Focus on U.S. and Global News.\n"
         "Respect the user's importance preferences for topics and keywords, with 1 the lowest and 5 the highest.\n"
         f"Reject any headlines containing terms flagged 'banned', and demote headlines with terms flagged 'demote' by a multiplier of {DEMOTE_FACTOR}.\n"
         "There should be a healthy diversity of subjects covered overall in your article recommendations. Do not focus too much on one theme.\n"
-        "Prefer to recommend content-rich and informative headlines over any clickbait or filler.\n"
-        "Respond only with valid JSON. Ensure you respond *WITH VALID JSON ONLY* like:\n"
-        "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
+        "Prefer to recommend content-rich and informative headlines over any clickbait or filler or questions or lists.\n"
         f"User Preferences:\n{user_preferences}\n\n"
-        f"Topics and Headlines To Review:\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n"
+        f"Topics and Headlines:\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n"
     )
 
     # print(prompt)
