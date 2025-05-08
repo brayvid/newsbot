@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Kamala Harris' speech condemns Trump's first 100 days, calls on Democrats to band together - NBC News",
-      "pubDate": "Thu, 01 May 2025 15:12:00 GMT"
-    },
-    {
       "title": "Trump's new law enforcement executive order is about brutality \u2014 not safety - MSNBC News",
       "pubDate": "Thu, 01 May 2025 20:45:15 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump says he hopes India and Pakistan stop now after going 'tit-for-tat' - Reuters",
       "pubDate": "Thu, 08 May 2025 01:08:00 GMT"
+    },
+    {
+      "title": "Why Trump isn\u2019t leading an emergency effort to ease the India-Pakistan crisis - CNN",
+      "pubDate": "Thu, 08 May 2025 06:06:00 GMT"
     }
   ],
   "ukraine": [
@@ -539,6 +539,10 @@
     {
       "title": "Malaysia Cybersecurity Center of Excellence Marks First Anniversary with New Partnerships, Scholarships and Expanded Programs - Stock Titan",
       "pubDate": "Thu, 08 May 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Cybersecurity threats CISOs should be most worried about in 2025 - iTnews Asia",
+      "pubDate": "Thu, 08 May 2025 09:22:42 GMT"
     }
   ],
   "fusion_power": [
@@ -650,10 +654,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Warren Buffett Owns 2 Artificial Intelligence (AI) Stocks That Wall Street Says Could Soar Up to 50% - The Motley Fool",
-      "pubDate": "Sat, 12 Apr 2025 08:01:00 GMT"
-    },
     {
       "title": "Global trade war may produce headwinds for nascent AI sector, IEA says - Reuters",
       "pubDate": "Thu, 10 Apr 2025 04:08:00 GMT"
@@ -809,6 +809,10 @@
     {
       "title": "Report: OpenAI Aims to Reduce Revenue Sharing With Microsoft - PYMNTS.com",
       "pubDate": "Thu, 08 May 2025 00:56:15 GMT"
+    },
+    {
+      "title": "AI maturity in financial services: lessons from the most successful firms - imd.org",
+      "pubDate": "Thu, 08 May 2025 07:27:28 GMT"
     }
   ],
   "public_health": [
@@ -1447,6 +1451,10 @@
     {
       "title": "China\u2019s Xi Jinping likens \u2018US hegemony\u2019 to \u2018fascist forces\u2019 ahead of Vladimir Putin summit - Financial Times",
       "pubDate": "Thu, 08 May 2025 02:53:56 GMT"
+    },
+    {
+      "title": "China's Baidu looks to patent AI system to decipher animal sounds - Reuters",
+      "pubDate": "Thu, 08 May 2025 07:50:48 GMT"
     }
   ],
   "programming_languages": [
@@ -2767,6 +2775,10 @@
     {
       "title": "Hamas warns Israeli plans to expand Gaza assault mean 'sacrificing' captives - Middle East Eye",
       "pubDate": "Tue, 06 May 2025 14:40:00 GMT"
+    },
+    {
+      "title": "Hamas: Jenin operation is the strongest response to Israeli attempts to suppress resistance - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc \u0642\u062f\u0633",
+      "pubDate": "Thu, 08 May 2025 08:20:23 GMT"
     }
   ],
   "climate": [
@@ -2817,6 +2829,10 @@
     {
       "title": "Bitcoin returns to $98K as Fed holds rates steady despite Trump\u2019s demand - Cointelegraph",
       "pubDate": "Thu, 08 May 2025 02:51:12 GMT"
+    },
+    {
+      "title": "Bitcoin price nears $100k amid US-UK trade deal optimism - Yahoo Home",
+      "pubDate": "Thu, 08 May 2025 09:22:51 GMT"
     }
   ]
 }
