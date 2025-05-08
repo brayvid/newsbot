@@ -78,7 +78,7 @@ ensure_nltk_data()
 def load_config_from_sheet(url):
     config = {}
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=15)
         response.raise_for_status()
         lines = response.text.splitlines()
         reader = csv.reader(lines)
@@ -94,9 +94,10 @@ def load_config_from_sheet(url):
                         config[key] = int(val)
                 except ValueError:
                     config[key] = val  # fallback to string
+        return config
     except Exception as e:
-        logging.warning(f"Failed to load config from Google Sheet: {e}")
-    return config
+        logging.error(f"Failed to load config from {url}: {e}")
+        return None
 
 CONFIG = load_config_from_sheet(CONFIG_CSV_URL)
 
@@ -119,7 +120,7 @@ except Exception:
 def load_csv_weights(url):
     weights = {}
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=15)
         response.raise_for_status()
         lines = response.text.splitlines()
         reader = csv.reader(lines)
@@ -130,24 +131,26 @@ def load_csv_weights(url):
                     weights[row[0].strip()] = int(row[1])
                 except ValueError:
                     continue
+        return weights
     except Exception as e:
-        logging.warning(f"Failed to load weights from {url}: {e}")
-    return weights
-
+        logging.error(f"Failed to load weights from {url}: {e}")
+        return None
+    
 # Load user overrides (banned or demoted terms) from Google Sheets.
 def load_overrides(url):
     overrides = {}
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=15)
         response.raise_for_status()
         reader = csv.reader(response.text.splitlines())
         next(reader, None)
         for row in reader:
             if len(row) >= 2:
                 overrides[row[0].strip().lower()] = row[1].strip().lower()
+        return overrides
     except Exception as e:
-        logging.warning(f"Failed to load overrides: {e}")
-    return overrides
+        logging.error(f"Failed to load overrides: {e}")
+        return None
 
 # Lowercases, stems, and lemmatizes words to produce normalized text for matching.
 def normalize(text):
@@ -186,7 +189,7 @@ def fetch_articles_for_topic(topic, max_articles=10):
     url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}"
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
-        response = requests.get(url, headers=headers, timeout=10)
+        response = requests.get(url, headers=headers, timeout=20)
         response.raise_for_status()
 
         root = ET.fromstring(response.content)
@@ -266,8 +269,6 @@ def safe_parse_json(raw: str) -> dict:
     - Python-style dicts
     - Fallback to regex extraction
     """
-    import json
-    import ast
 
     def strip_wrappers(text):
         text = text.strip()
@@ -307,13 +308,16 @@ def safe_parse_json(raw: str) -> dict:
         # Replace closing } for arrays with ]
         text = re.sub(r'(\[[^\[\]]*?)\s*\}', r'\1]', text)
 
-        # Strip control characters
-        text = re.sub(r"[\x00-\x1f\x7f]", "", text)
+        # Strip control characters, BOMs, directional marks
+        text = re.sub(r"[\x00-\x1f\x7f\u202a-\u202e\u2060\uFEFF]", "", text)
 
         # Balance brackets/braces
         text = balance_braces(text)
 
         return text
+
+
+    logging.debug("Pre-cleaned raw input (first 1000 chars):\n%s", raw[:1000])
 
     raw = strip_wrappers(raw)
     cleaned = fix_common_json_errors(raw)
@@ -358,11 +362,11 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         f"Given a dictionary of topics and corresponding headlines, and the user's preferences, select up to {MAX_TOPICS} of the most important topics today.\n"
         f"For each selected topic, return the top {MAX_ARTICLES_PER_TOPIC} most important headlines.\n"
         "Ensure you do not return multiple copies of the same or similar headlines that are covering roughly the same thing, even if they are in different topics.\n"
-        "Avoid all local news, for example any headlines containing a regional town or county name.\n"
+        "Avoid all local news, for example any headlines containing a regional town or county name. Focus on U.S. and world news.\n"
         "Respect the user's importance preferences for topics and keywords as indicated with a score of 1-5, with 5 the highest.\n"
         f"Reject any headlines containing terms flagged 'banned', and demote headlines with terms flagged 'demote' by a multiplier of {DEMOTE_FACTOR}.\n"
         "There should be a healthy diversity of subjects covered overall in your article recommendations. Do not focus too much on one theme.\n"
-        "Respond *ONLY WITH VALID JSON* like:\n"
+        "Respond only with valid JSON. Ensure you respond *WITH VALID JSON ONLY* like:\n"
         "{ \"Technology\": [\"Headline A\", \"Headline B\"], \"Climate\": [\"Headline C\"] }\n\n"
         f"User Preferences:\n{user_preferences}\n\n"
         f"Topics and Headlines:\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n"
@@ -397,9 +401,18 @@ def main():
             logging.error("Missing GEMINI_API_KEY. Exiting.")
             return
 
+        config = load_config_from_sheet(CONFIG_CSV_URL)
+        if config is None:
+            logging.error("Critical: Failed to load configuration. Exiting.")
+            return
+
         topic_weights = load_csv_weights(TOPICS_CSV_URL)
         keyword_weights = load_csv_weights(KEYWORDS_CSV_URL)
         overrides = load_overrides(OVERRIDES_CSV_URL)
+
+        if None in (topic_weights, keyword_weights, overrides):
+            logging.error("Critical: Failed to load topic, keyword, or override data. Exiting.")
+            return
 
         user_preferences = build_user_preferences(topic_weights, keyword_weights, overrides)
 
@@ -409,14 +422,11 @@ def main():
         for topic in topic_weights:
             articles = fetch_articles_for_topic(topic, 10)
             if articles:
-                # Filter out old, banned, or already-seen headlines
                 banned_terms = [k for k, v in overrides.items() if v == "ban"]
-
                 allowed_articles = [
                     a for a in articles
                     if not is_in_history(a["title"], history) and not contains_banned_keyword(a["title"], banned_terms)
                 ]
-
                 if allowed_articles:
                     headlines_to_send[topic] = [a["title"] for a in allowed_articles]
                     full_articles[topic] = allowed_articles
@@ -431,10 +441,9 @@ def main():
         # Get prioritized digest from Gemini
         digest_titles = prioritize_with_gemini(headlines_to_send, user_preferences, gemini_api_key)
 
-        # Deduplicate headlines across all topics from Gemini response
+        # Deduplicate headlines
         seen_normalized_titles = set()
         deduped_digest_titles = {}
-
         for topic, titles in digest_titles.items():
             deduped_titles = []
             for title in titles:
@@ -444,10 +453,9 @@ def main():
                     deduped_titles.append(title)
             if deduped_titles:
                 deduped_digest_titles[topic] = deduped_titles
+        digest_titles = deduped_digest_titles
 
-        digest_titles = deduped_digest_titles  # overwrite with deduplicated version
-
-        # Rebuild full article entries for final digest
+        # Rebuild article entries
         digest = {}
         for topic, titles in digest_titles.items():
             articles = full_articles.get(topic, [])
@@ -487,7 +495,7 @@ def main():
                     f'</p>'
                 )
             html_body += section
-    
+
         footer = f'Gemini recommends these articles among {total_headlines} published in the last {MAX_ARTICLE_HOURS} hours based on your <a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">preferences</a>.'
         html_body += f"<hr><small>{footer}</small>"
 
@@ -526,16 +534,13 @@ def main():
             json.dump(history, f, indent=2)
 
     finally:
-        # Delete ~/nltk_data directory
         nltk_path = os.path.expanduser("~/nltk_data")
         if os.path.exists(nltk_path):
             try:
                 shutil.rmtree(nltk_path)
-                # logging.info("Deleted ~/nltk_data directory after run.")
             except Exception as e:
                 logging.warning(f"Failed to delete ~/nltk_data: {e}")
 
-        # Remove lockfile last
         if os.path.exists(LOCKFILE):
             os.remove(LOCKFILE)
         logging.info(f"Lockfile released at {datetime.now()}")
