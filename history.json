@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Kamala Harris hits out at Trump in first major speech since losing election - BBC",
-      "pubDate": "Thu, 01 May 2025 05:48:31 GMT"
-    },
-    {
-      "title": "Kamala Harris' speech condemns Trump's first 100 days, calls on Democrats to band together - NBC News",
-      "pubDate": "Thu, 01 May 2025 15:12:00 GMT"
-    },
-    {
       "title": "Trump's new law enforcement executive order is about brutality \u2014 not safety - MSNBC News",
       "pubDate": "Thu, 01 May 2025 20:45:15 GMT"
     },
@@ -159,6 +151,14 @@
     {
       "title": "Trump news at a glance: Vance says Russia not being realistic on Ukraine, Trump says he may be right - The Guardian",
       "pubDate": "Thu, 08 May 2025 02:30:40 GMT"
+    },
+    {
+      "title": "Trump says he hopes India and Pakistan stop now after going 'tit-for-tat' - Reuters",
+      "pubDate": "Thu, 08 May 2025 01:08:00 GMT"
+    },
+    {
+      "title": "Why Trump isn\u2019t leading an emergency effort to ease the India-Pakistan crisis - CNN",
+      "pubDate": "Thu, 08 May 2025 06:06:00 GMT"
     }
   ],
   "ukraine": [
@@ -245,6 +245,10 @@
     {
       "title": "Vance says Russia \u2018asking for too much\u2019 to end war with Ukraine - Politico",
       "pubDate": "Wed, 07 May 2025 15:56:51 GMT"
+    },
+    {
+      "title": "Russia-Ukraine war: List of key events, day 1,169 - Al Jazeera",
+      "pubDate": "Thu, 08 May 2025 04:51:58 GMT"
     }
   ],
   "recession": [
@@ -535,6 +539,10 @@
     {
       "title": "Malaysia Cybersecurity Center of Excellence Marks First Anniversary with New Partnerships, Scholarships and Expanded Programs - Stock Titan",
       "pubDate": "Thu, 08 May 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Cybersecurity threats CISOs should be most worried about in 2025 - iTnews Asia",
+      "pubDate": "Thu, 08 May 2025 09:22:42 GMT"
     }
   ],
   "fusion_power": [
@@ -646,10 +654,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Warren Buffett Owns 2 Artificial Intelligence (AI) Stocks That Wall Street Says Could Soar Up to 50% - The Motley Fool",
-      "pubDate": "Sat, 12 Apr 2025 08:01:00 GMT"
-    },
     {
       "title": "Global trade war may produce headwinds for nascent AI sector, IEA says - Reuters",
       "pubDate": "Thu, 10 Apr 2025 04:08:00 GMT"
@@ -801,6 +805,14 @@
     {
       "title": "Heartland Gen Zers Feel Unprepared to Use AI at Work - Gallup News",
       "pubDate": "Thu, 08 May 2025 04:20:26 GMT"
+    },
+    {
+      "title": "Report: OpenAI Aims to Reduce Revenue Sharing With Microsoft - PYMNTS.com",
+      "pubDate": "Thu, 08 May 2025 00:56:15 GMT"
+    },
+    {
+      "title": "AI maturity in financial services: lessons from the most successful firms - imd.org",
+      "pubDate": "Thu, 08 May 2025 07:27:28 GMT"
     }
   ],
   "public_health": [
@@ -1435,6 +1447,14 @@
     {
       "title": "China's BYD, Tsingshan scrap plans for Chile lithium plants - Reuters",
       "pubDate": "Wed, 07 May 2025 23:53:05 GMT"
+    },
+    {
+      "title": "China\u2019s Xi Jinping likens \u2018US hegemony\u2019 to \u2018fascist forces\u2019 ahead of Vladimir Putin summit - Financial Times",
+      "pubDate": "Thu, 08 May 2025 02:53:56 GMT"
+    },
+    {
+      "title": "China's Baidu looks to patent AI system to decipher animal sounds - Reuters",
+      "pubDate": "Thu, 08 May 2025 07:50:48 GMT"
     }
   ],
   "programming_languages": [
@@ -2457,6 +2477,10 @@
     {
       "title": "Thompson Coburn Data Breach Exposes Personal Information: Murphy Law Firm Investigates Legal Claims - GlobeNewswire",
       "pubDate": "Fri, 02 May 2025 18:31:51 GMT"
+    },
+    {
+      "title": "Hackers demand Bitcoin for stolen PowerSchool data, state officials confirm - wfmynews2.com",
+      "pubDate": "Thu, 08 May 2025 03:07:00 GMT"
     }
   ],
   "democratic_party": [
@@ -2693,6 +2717,10 @@
     {
       "title": "Electing a New Pope, North Korea Fighting Ukraine, Vaccination Rates to Stop Outbreaks, and a Deadly Gold Mine in Turkey - Global Investigative Journalism Network",
       "pubDate": "Fri, 02 May 2025 07:15:19 GMT"
+    },
+    {
+      "title": "North Korea fires short-range missiles possibly in performance test for export - Reuters",
+      "pubDate": "Thu, 08 May 2025 02:14:00 GMT"
     }
   ],
   "politics": [
@@ -2747,6 +2775,10 @@
     {
       "title": "Hamas warns Israeli plans to expand Gaza assault mean 'sacrificing' captives - Middle East Eye",
       "pubDate": "Tue, 06 May 2025 14:40:00 GMT"
+    },
+    {
+      "title": "Hamas: Jenin operation is the strongest response to Israeli attempts to suppress resistance - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc \u0642\u062f\u0633",
+      "pubDate": "Thu, 08 May 2025 08:20:23 GMT"
     }
   ],
   "climate": [
@@ -2791,6 +2823,16 @@
     {
       "title": "AGL fully acquires 13.9GWh of pumped hydro in New South Wales, Australia - Energy-Storage.News",
       "pubDate": "Thu, 08 May 2025 04:10:37 GMT"
+    }
+  ],
+  "bitcoin": [
+    {
+      "title": "Bitcoin returns to $98K as Fed holds rates steady despite Trump\u2019s demand - Cointelegraph",
+      "pubDate": "Thu, 08 May 2025 02:51:12 GMT"
+    },
+    {
+      "title": "Bitcoin price nears $100k amid US-UK trade deal optimism - Yahoo Home",
+      "pubDate": "Thu, 08 May 2025 09:22:51 GMT"
     }
   ]
 }

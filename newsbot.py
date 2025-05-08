@@ -282,6 +282,12 @@ def safe_parse_json(raw: str) -> dict:
     - Fallback to regex extraction
     """
 
+    # First try untouched JSON
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError as e:
+        logging.warning(f"Initial JSON load failed: {e}")  # Only then begin cleaning
+
     def strip_wrappers(text):
         text = text.strip()
         # Remove Markdown-style code fences
@@ -314,8 +320,8 @@ def safe_parse_json(raw: str) -> dict:
         # Fix trailing commas before closing brackets/braces
         text = re.sub(r",\s*([\]}])", r"\1", text)
 
-        # Fix single quotes to double quotes (rudimentary)
-        text = re.sub(r"(?<![a-zA-Z0-9])'(.*?)'(?![a-zA-Z0-9])", r'"\1"', text)
+        # only replace single-quoted dict keys/values
+        text = re.sub(r"(?<=[:\s])'([^']*?)'", r'"\1"', text)
 
         # Replace closing } for arrays with ]
         text = re.sub(r'(\[[^\[\]]*?)\s*\}', r'\1]', text)
