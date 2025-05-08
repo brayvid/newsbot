@@ -152,29 +152,29 @@ All script logs are saved to `logs/newsbot.log`. The `logs/` directory will be c
 ## Sample Digest
 
 <h3>Donald Trump</h3>
-<p>📰 <a href="https://www.bbc.com/news/articles/cze17n02gego">Trump orders reopening of notorious Alcatraz prison - BBC</a><br>
-📅 Mon, 05 May 2025 04:03 AM EDT</p>
+<p>📰 <a href="https://www.theguardian.com/us-news/2025/may/08/trump-administration-news-updates-today">Trump news at a glance: Vance says Russia not being realistic on Ukraine, Trump says he may be right - The Guardian</a><br>
+📅 Wed, 07 May 2025 10:30 PM EDT</p>
 
 <h3>Trade War</h3>
-<p>📰 <a href="https://www.reuters.com/business/finance/strategists-optimistic-china-even-us-china-trade-war-climbdown-looks-far-off-2025-05-05/">Strategists optimistic on China even as US-China trade war climbdown looks far off - Reuters</a><br>
-📅 Mon, 05 May 2025 05:22 AM EDT</p>
+<p>📰 <a href="https://www.newsnationnow.com/on-balance-with-leland-vittert/bolton-on-us-adversaries-under-tariffs-in-any-trade-war-everyone-suffers/">Bolton on US adversaries under tariffs: In any trade war, everyone suffers - NewsNation</a><br>
+📅 Wed, 07 May 2025 10:49 PM EDT</p>
 
-<h3>Financial Markets</h3>
-<p>📰 <a href="https://www.bloomberg.com/news/articles/2025-05-04/oil-slumps-after-opec-agrees-another-supply-surge-markets-wrap">Asian Currencies Jump on Weaker Dollar, Oil Falls: Markets Wrap - Bloomberg.com</a><br>
-📅 Mon, 05 May 2025 03:24 AM EDT</p>
+<h3>Artificial Intelligence</h3>
+<p>📰 <a href="https://news.gallup.com/poll/660302/heartland-gen-zers-feel-unprepared-work.aspx">Heartland Gen Zers Feel Unprepared to Use AI at Work - Gallup News</a><br>
+📅 Thu, 08 May 2025 12:20 AM EDT</p>
 
-<h3>Inflation</h3>
-<p>📰 <a href="https://www.bloomberg.com/news/articles/2025-05-05/swiss-inflation-drops-to-zero-as-snb-mulls-more-rate-cuts">Swiss Inflation Drops to Zero as SNB Mulls More Interest Rate Cuts - Bloomberg.com</a><br>
-📅 Mon, 05 May 2025 02:30 AM EDT</p>
+<h3>China</h3>
+<p>📰 <a href="https://www.reuters.com/markets/commodities/chinas-byd-tsingshan-scrap-plans-chile-lithium-plants-newspaper-reports-2025-05-07/">China's BYD, Tsingshan scrap plans for Chile lithium plants - Reuters</a><br>
+📅 Wed, 07 May 2025 07:53 PM EDT</p>
 
-<h3>Russia</h3>
-<p>📰 <a href="https://www.aljazeera.com/news/2025/5/5/russia-reports-ukrainian-drone-attack-on-moscow-before-may-9-events">Russia reports Ukrainian drone attack on Moscow ahead of May 9 events - Al Jazeera</a><br>
-📅 Mon, 05 May 2025 05:56 AM EDT</p>
+<h3>Recession</h3>
+<p>📰 <a href="https://kfgo.com/2025/05/07/pimco-sees-heightened-us-recession-risks-ft-reports/">PIMCO sees heightened US recession risks, FT reports - The Mighty 790 KFGO</a><br>
+📅 Thu, 08 May 2025 01:20 AM EDT</p>
 
-<h3>Renewable Energy</h3>
-<p>📰 <a href="https://www.yahoo.com/news/spains-blackout-highlights-renewables-grid-095751267.html">Spain's blackout highlights renewables' grid challenge - Yahoo</a><br>
-📅 Mon, 05 May 2025 05:57 AM EDT</p>
+<h3>Republican Party</h3>
+<p>📰 <a href="https://katv.com/news/local/judge-dismisses-republican-party-of-arkansas-civil-rights-lawsuit-governor-sarah-huckabee-sanders-secretary-of-state-john-thurston-cole-jester-rpa-federal-brian-miller-rogers-little-rock">Judge dismisses Republican Party of Arkansas civil rights lawsuit - KATV</a><br>
+📅 Wed, 07 May 2025 08:55 PM EDT</p>
 
 <hr>
 
-<small>Gemini recommends these articles among 1124 published in the last 6 hours based on your <a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">preferences</a>.</small>
+<small>Gemini recommends these articles among 759 published in the last 6 hours based on your <a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">preferences</a>.</small>
