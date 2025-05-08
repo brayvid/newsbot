@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Kamala Harris hits out at Trump in first major speech since losing election - BBC",
-      "pubDate": "Thu, 01 May 2025 05:48:31 GMT"
-    },
-    {
       "title": "Kamala Harris' speech condemns Trump's first 100 days, calls on Democrats to band together - NBC News",
       "pubDate": "Thu, 01 May 2025 15:12:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump news at a glance: Vance says Russia not being realistic on Ukraine, Trump says he may be right - The Guardian",
       "pubDate": "Thu, 08 May 2025 02:30:40 GMT"
+    },
+    {
+      "title": "Trump says he hopes India and Pakistan stop now after going 'tit-for-tat' - Reuters",
+      "pubDate": "Thu, 08 May 2025 01:08:00 GMT"
     }
   ],
   "ukraine": [
@@ -245,6 +245,10 @@
     {
       "title": "Vance says Russia \u2018asking for too much\u2019 to end war with Ukraine - Politico",
       "pubDate": "Wed, 07 May 2025 15:56:51 GMT"
+    },
+    {
+      "title": "Russia-Ukraine war: List of key events, day 1,169 - Al Jazeera",
+      "pubDate": "Thu, 08 May 2025 04:51:58 GMT"
     }
   ],
   "recession": [
@@ -801,6 +805,10 @@
     {
       "title": "Heartland Gen Zers Feel Unprepared to Use AI at Work - Gallup News",
       "pubDate": "Thu, 08 May 2025 04:20:26 GMT"
+    },
+    {
+      "title": "Report: OpenAI Aims to Reduce Revenue Sharing With Microsoft - PYMNTS.com",
+      "pubDate": "Thu, 08 May 2025 00:56:15 GMT"
     }
   ],
   "public_health": [
@@ -1435,6 +1443,10 @@
     {
       "title": "China's BYD, Tsingshan scrap plans for Chile lithium plants - Reuters",
       "pubDate": "Wed, 07 May 2025 23:53:05 GMT"
+    },
+    {
+      "title": "China\u2019s Xi Jinping likens \u2018US hegemony\u2019 to \u2018fascist forces\u2019 ahead of Vladimir Putin summit - Financial Times",
+      "pubDate": "Thu, 08 May 2025 02:53:56 GMT"
     }
   ],
   "programming_languages": [
@@ -2457,6 +2469,10 @@
     {
       "title": "Thompson Coburn Data Breach Exposes Personal Information: Murphy Law Firm Investigates Legal Claims - GlobeNewswire",
       "pubDate": "Fri, 02 May 2025 18:31:51 GMT"
+    },
+    {
+      "title": "Hackers demand Bitcoin for stolen PowerSchool data, state officials confirm - wfmynews2.com",
+      "pubDate": "Thu, 08 May 2025 03:07:00 GMT"
     }
   ],
   "democratic_party": [
@@ -2693,6 +2709,10 @@
     {
       "title": "Electing a New Pope, North Korea Fighting Ukraine, Vaccination Rates to Stop Outbreaks, and a Deadly Gold Mine in Turkey - Global Investigative Journalism Network",
       "pubDate": "Fri, 02 May 2025 07:15:19 GMT"
+    },
+    {
+      "title": "North Korea fires short-range missiles possibly in performance test for export - Reuters",
+      "pubDate": "Thu, 08 May 2025 02:14:00 GMT"
     }
   ],
   "politics": [
@@ -2791,6 +2811,12 @@
     {
       "title": "AGL fully acquires 13.9GWh of pumped hydro in New South Wales, Australia - Energy-Storage.News",
       "pubDate": "Thu, 08 May 2025 04:10:37 GMT"
+    }
+  ],
+  "bitcoin": [
+    {
+      "title": "Bitcoin returns to $98K as Fed holds rates steady despite Trump\u2019s demand - Cointelegraph",
+      "pubDate": "Thu, 08 May 2025 02:51:12 GMT"
     }
   ]
 }
