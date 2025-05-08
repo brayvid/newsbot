@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump's new law enforcement executive order is about brutality \u2014 not safety - MSNBC News",
-      "pubDate": "Thu, 01 May 2025 20:45:15 GMT"
-    },
-    {
       "title": "Trump threatens sanctions against buyers of Iranian oil after US-Iran nuclear talks are postponed - ABC News",
       "pubDate": "Fri, 02 May 2025 00:25:51 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Why Trump isn\u2019t leading an emergency effort to ease the India-Pakistan crisis - CNN",
       "pubDate": "Thu, 08 May 2025 06:06:00 GMT"
+    },
+    {
+      "title": "Trump announces \u2018very large\u2019 trade deal with UK, final details TBD - Politico",
+      "pubDate": "Thu, 08 May 2025 15:12:58 GMT"
     }
   ],
   "ukraine": [
@@ -401,6 +401,10 @@
     {
       "title": "China\u2019s Xi in Moscow for Putin\u2019s parade amid close ties despite U.S. hopes - The Washington Post",
       "pubDate": "Wed, 07 May 2025 23:26:18 GMT"
+    },
+    {
+      "title": "Xi and Putin agree to \u2018deepen\u2019 China-Russia ties during Moscow talks - CNN",
+      "pubDate": "Thu, 08 May 2025 13:12:00 GMT"
     }
   ],
   "israel": [
@@ -543,6 +547,10 @@
     {
       "title": "Cybersecurity threats CISOs should be most worried about in 2025 - iTnews Asia",
       "pubDate": "Thu, 08 May 2025 09:22:42 GMT"
+    },
+    {
+      "title": "Qilin Leads April 2025 Ransomware Spike with 45 Breaches Using NETXLOADER Malware - The Hacker News",
+      "pubDate": "Thu, 08 May 2025 13:47:00 GMT"
     }
   ],
   "fusion_power": [
@@ -654,10 +662,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Global trade war may produce headwinds for nascent AI sector, IEA says - Reuters",
-      "pubDate": "Thu, 10 Apr 2025 04:08:00 GMT"
-    },
     {
       "title": "Towards conversational diagnostic artificial intelligence - Nature",
       "pubDate": "Wed, 09 Apr 2025 15:36:47 GMT"
@@ -813,6 +817,10 @@
     {
       "title": "AI maturity in financial services: lessons from the most successful firms - imd.org",
       "pubDate": "Thu, 08 May 2025 07:27:28 GMT"
+    },
+    {
+      "title": "WATCH LIVE: OpenAI co-founder Sam Altman testifies on AI competition in Senate hearing - PBS",
+      "pubDate": "Thu, 08 May 2025 13:56:43 GMT"
     }
   ],
   "public_health": [
@@ -1143,10 +1151,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump\u2019s tariff war empowers Europe\u2019s free traders - politico.eu",
-      "pubDate": "Tue, 22 Apr 2025 03:20:00 GMT"
-    },
-    {
       "title": "IMF Slashes Global Growth Forecast on Trade-War Fallout - Bloomberg.com",
       "pubDate": "Tue, 22 Apr 2025 13:27:29 GMT"
     },
@@ -1301,6 +1305,10 @@
     {
       "title": "Bolton on US adversaries under tariffs: In any trade war, everyone suffers - NewsNation",
       "pubDate": "Thu, 08 May 2025 02:49:31 GMT"
+    },
+    {
+      "title": "The stage is set for China-US tariff talks \u2013 but trade war far from final act - South China Morning Post",
+      "pubDate": "Thu, 08 May 2025 14:00:09 GMT"
     }
   ],
   "china": [
@@ -1455,6 +1463,10 @@
     {
       "title": "China's Baidu looks to patent AI system to decipher animal sounds - Reuters",
       "pubDate": "Thu, 08 May 2025 07:50:48 GMT"
+    },
+    {
+      "title": "China\u2019s Xi vows to stand with friend Putin against \u2018hegemonic bullying\u2019 - Al Jazeera",
+      "pubDate": "Thu, 08 May 2025 11:58:57 GMT"
     }
   ],
   "programming_languages": [
@@ -2211,6 +2223,10 @@
     {
       "title": "US Treasuries Rise as Fed Cites Uncertain Path for US Economy - Bloomberg.com",
       "pubDate": "Wed, 07 May 2025 18:16:59 GMT"
+    },
+    {
+      "title": "Why a Fed hold reflects deep uncertainty about the US economy, trade policy - Wealth Professional",
+      "pubDate": "Thu, 08 May 2025 13:33:29 GMT"
     }
   ],
   "terrorism": [
