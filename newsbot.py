@@ -384,7 +384,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         "Avoid all local news, for example any headlines containing a regional town or county name. Focus on U.S. and Global News.\n"
         "Respect the user's importance preferences for topics and keywords, with 1 the lowest and 5 the highest.\n"
         f"Reject any headlines containing terms flagged 'banned', and demote headlines with terms flagged 'demote' by a multiplier of {DEMOTE_FACTOR}.\n"
-        "There should be a healthy diversity of subjects covered overall in your article recommendations. Do not focus too much on one theme.\n"
+        "There should be a healthy diversity of subjects covered overall in your article recommendations. Do not focus on one theme.\n"
         "Prefer to recommend content-rich and informative headlines over any clickbait or filler or questions or lists.\n"
         f"User Preferences:\n{user_preferences}\n\n"
         f"Topics and Headlines:\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n"
