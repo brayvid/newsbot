@@ -99,16 +99,20 @@ def load_config_from_sheet(url):
         logging.error(f"Failed to load config from {url}: {e}")
         return None
 
+# Load config before main
 CONFIG = load_config_from_sheet(CONFIG_CSV_URL)
+if CONFIG is None:
+    logging.critical("Fatal: Unable to load CONFIG from sheet. Exiting.")
+    sys.exit(1)  # Stop immediately if config fails
 
-# Extract user settings from the configuration with defaults.
+# Now it's safe to use .get()
 MAX_ARTICLE_HOURS = int(CONFIG.get("MAX_ARTICLE_HOURS", 6))
 MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 7))
 MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
-DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR",0.5))
+DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR", 0.5))
 MATCH_THRESHOLD = 0.4
 
-# Extract timezone from config or default to 'America/New_York'
+# Load timezone
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
 try:
     ZONE = ZoneInfo(USER_TIMEZONE)
@@ -151,6 +155,14 @@ def load_overrides(url):
     except Exception as e:
         logging.error(f"Failed to load overrides: {e}")
         return None
+
+TOPIC_WEIGHTS = load_csv_weights(TOPICS_CSV_URL)
+KEYWORD_WEIGHTS = load_csv_weights(KEYWORDS_CSV_URL)
+OVERRIDES = load_overrides(OVERRIDES_CSV_URL)
+
+if None in (TOPIC_WEIGHTS, KEYWORD_WEIGHTS, OVERRIDES):
+    logging.critical("Fatal: Failed to load topics, keywords, or overrides. Exiting.")
+    sys.exit(1)
 
 # Lowercases, stems, and lemmatizes words to produce normalized text for matching.
 def normalize(text):
@@ -316,7 +328,6 @@ def safe_parse_json(raw: str) -> dict:
 
         return text
 
-
     logging.debug("Pre-cleaned raw input (first 1000 chars):\n%s", raw[:1000])
 
     raw = strip_wrappers(raw)
@@ -401,28 +412,15 @@ def main():
             logging.error("Missing GEMINI_API_KEY. Exiting.")
             return
 
-        config = load_config_from_sheet(CONFIG_CSV_URL)
-        if config is None:
-            logging.error("Critical: Failed to load configuration. Exiting.")
-            return
-
-        topic_weights = load_csv_weights(TOPICS_CSV_URL)
-        keyword_weights = load_csv_weights(KEYWORDS_CSV_URL)
-        overrides = load_overrides(OVERRIDES_CSV_URL)
-
-        if None in (topic_weights, keyword_weights, overrides):
-            logging.error("Critical: Failed to load topic, keyword, or override data. Exiting.")
-            return
-
-        user_preferences = build_user_preferences(topic_weights, keyword_weights, overrides)
+        user_preferences = build_user_preferences(TOPIC_WEIGHTS, KEYWORD_WEIGHTS, OVERRIDES)
 
         # Fetch all articles for all topics
         headlines_to_send = {}
         full_articles = {}
-        for topic in topic_weights:
+        for topic in TOPIC_WEIGHTS:
             articles = fetch_articles_for_topic(topic, 10)
             if articles:
-                banned_terms = [k for k, v in overrides.items() if v == "ban"]
+                banned_terms = [k for k, v in OVERRIDES.items() if v == "ban"]
                 allowed_articles = [
                     a for a in articles
                     if not is_in_history(a["title"], history) and not contains_banned_keyword(a["title"], banned_terms)

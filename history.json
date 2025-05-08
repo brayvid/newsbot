@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "The Senate is poised to again reject Trump\u2019s tariffs - Politico",
-      "pubDate": "Wed, 30 Apr 2025 17:04:43 GMT"
-    },
-    {
       "title": "Economists offer differing views on Trump\u2019s tariffs and trade war - PBS",
       "pubDate": "Wed, 30 Apr 2025 22:35:53 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump says he\u2019ll decide on name of \u2018Persian Gulf\u2019 on Middle East visit - Al Jazeera",
       "pubDate": "Thu, 08 May 2025 01:53:44 GMT"
+    },
+    {
+      "title": "Trump will announce a \u2018major trade deal\u2019 with the UK Thursday - CNN",
+      "pubDate": "Thu, 08 May 2025 02:25:00 GMT"
     }
   ],
   "ukraine": [
@@ -307,6 +307,10 @@
     {
       "title": "Fed maintains interest rates as fear of possible recession grows - MSN",
       "pubDate": "Wed, 07 May 2025 19:31:58 GMT"
+    },
+    {
+      "title": "Market recession indicators: dissecting the signal from the noise - Reuters",
+      "pubDate": "Thu, 08 May 2025 04:02:00 GMT"
     }
   ],
   "russia": [
@@ -385,6 +389,10 @@
     {
       "title": "Putin\u2019s 3-day ceasefire comes into effect, but Ukraine claims Russia already broke it - CNN",
       "pubDate": "Thu, 08 May 2025 01:59:00 GMT"
+    },
+    {
+      "title": "China\u2019s Xi in Moscow for Putin\u2019s parade amid close ties despite U.S. hopes - The Washington Post",
+      "pubDate": "Wed, 07 May 2025 23:26:18 GMT"
     }
   ],
   "israel": [
@@ -1035,6 +1043,10 @@
     {
       "title": "AI-powered 'ulrb' uncovers Earth's hidden microbial gems - Tech Xplore",
       "pubDate": "Tue, 06 May 2025 13:40:02 GMT"
+    },
+    {
+      "title": "After that 2024 Windows fiasco, CrowdStrike has a plan \u2013 jobs cuts, leaning on AI - theregister.com",
+      "pubDate": "Wed, 07 May 2025 23:28:00 GMT"
     }
   ],
   "data_science": [
@@ -1407,6 +1419,10 @@
     {
       "title": "Trump Tariffs: Xi Fortifies China\u2019s Economy Before First Talks on Trade With US - Bloomberg.com",
       "pubDate": "Thu, 08 May 2025 01:51:00 GMT"
+    },
+    {
+      "title": "Tesla's China-made EV sales fall 6% y/y in April as woes deepen - Reuters",
+      "pubDate": "Thu, 08 May 2025 03:24:07 GMT"
     }
   ],
   "programming_languages": [
@@ -2731,6 +2747,10 @@
     {
       "title": "Focusing AI Governance on Qualitative Capability Leaps - The Regulatory Review",
       "pubDate": "Tue, 06 May 2025 06:33:45 GMT"
+    },
+    {
+      "title": "Singapore\u2019s Vision for AI Safety Bridges the US-China Divide - WIRED",
+      "pubDate": "Thu, 08 May 2025 00:00:00 GMT"
     }
   ],
   "finance": [
