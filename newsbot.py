@@ -110,9 +110,9 @@ MAX_ARTICLE_HOURS = int(CONFIG.get("MAX_ARTICLE_HOURS", 6))
 MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 7))
 MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
 DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR", 0.5))
-MATCH_THRESHOLD = 0.4
+MATCH_THRESHOLD = 0.4   # For deduplication
 
-# Load timezone
+# Load specified timezone to report in
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
 try:
     ZONE = ZoneInfo(USER_TIMEZONE)
@@ -426,6 +426,7 @@ def main():
         full_articles = {}
         for topic in TOPIC_WEIGHTS:
             articles = fetch_articles_for_topic(topic, 10)
+            # Filter out headlines with banned terms
             if articles:
                 banned_terms = [k for k, v in OVERRIDES.items() if v == "ban"]
                 allowed_articles = [
