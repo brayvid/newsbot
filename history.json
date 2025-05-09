@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "What the House GOP is proposing in its first draft of Trump\u2019s sweeping tax and spending cuts package - CNN",
-      "pubDate": "Fri, 02 May 2025 04:00:00 GMT"
-    },
-    {
-      "title": "Waltz pictured using same app at centre of security breach scandal - Sky News",
-      "pubDate": "Fri, 02 May 2025 07:05:22 GMT"
-    },
-    {
       "title": "Trump signs executive order to block funding to National Public Radio - BBC",
       "pubDate": "Fri, 02 May 2025 09:17:44 GMT"
     },
@@ -159,6 +151,14 @@
     {
       "title": "Trump says it is 'such an honor' that Vatican elected first U.S. pope - CNBC",
       "pubDate": "Thu, 08 May 2025 17:39:10 GMT"
+    },
+    {
+      "title": "Trump\u2019s plan to increase tax on rich could hit most U.S. businesses - MarketWatch",
+      "pubDate": "Thu, 08 May 2025 21:04:00 GMT"
+    },
+    {
+      "title": "Trump Announces UK Trade Deal, but Leaves 10% Tariff in Place: Live Updates - The New York Times",
+      "pubDate": "Fri, 09 May 2025 03:39:00 GMT"
     }
   ],
   "ukraine": [
@@ -323,6 +323,10 @@
     {
       "title": "Goldman's Waldron: Obvious there will be economic impact from tariffs but recession is unclear - MSN",
       "pubDate": "Thu, 08 May 2025 16:23:01 GMT"
+    },
+    {
+      "title": "Why one market vet sees more big pain coming for the dollar \u2014 and a recession by year-end - businessinsider.com",
+      "pubDate": "Thu, 08 May 2025 19:40:00 GMT"
     }
   ],
   "russia": [
@@ -409,6 +413,10 @@
     {
       "title": "Xi and Putin agree to \u2018deepen\u2019 China-Russia ties during Moscow talks - CNN",
       "pubDate": "Thu, 08 May 2025 13:12:00 GMT"
+    },
+    {
+      "title": "Ukraine accuses Russia of violating its own truce over 700 times as Kyiv ratifies US minerals deal - The Washington Post",
+      "pubDate": "Fri, 09 May 2025 00:48:54 GMT"
     }
   ],
   "israel": [
@@ -555,6 +563,10 @@
     {
       "title": "Qilin Leads April 2025 Ransomware Spike with 45 Breaches Using NETXLOADER Malware - The Hacker News",
       "pubDate": "Thu, 08 May 2025 13:47:00 GMT"
+    },
+    {
+      "title": "Sen. Murphy: Trump administration has \u2018illegally gutted funding for cybersecurity\u2019 - CyberScoop",
+      "pubDate": "Thu, 08 May 2025 20:22:31 GMT"
     }
   ],
   "fusion_power": [
@@ -666,14 +678,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Bank of England Warns of Higher Market Volatility From AI-Driven Trading - PYMNTS.com",
-      "pubDate": "Fri, 11 Apr 2025 18:45:30 GMT"
-    },
-    {
-      "title": "Nvidia aims to build $500 billion worth of AI servers in the USA by 2029 - Tom's Hardware",
-      "pubDate": "Mon, 14 Apr 2025 16:06:01 GMT"
-    },
     {
       "title": "State awards ESF funding for artificial-intelligence department - Central New York Business Journal",
       "pubDate": "Mon, 14 Apr 2025 21:32:52 GMT"
@@ -825,6 +829,14 @@
     {
       "title": "AI execs say US must increase exports, improve infrastructure to beat China - Reuters",
       "pubDate": "Thu, 08 May 2025 17:14:16 GMT"
+    },
+    {
+      "title": "OpenAI chief Sam Altman: US barely ahead of China in artificial intelligence arms race - Fox Business",
+      "pubDate": "Thu, 08 May 2025 19:52:00 GMT"
+    },
+    {
+      "title": "Researchers try AI to help determine how well a patient has aged - WBUR",
+      "pubDate": "Thu, 08 May 2025 22:34:58 GMT"
     }
   ],
   "public_health": [
@@ -977,6 +989,10 @@
     {
       "title": "Stock Market Today: Dow up 450 points, S&P 500 and Nasdaq jump after Trump says 'buy stocks now' on heels of U.K. trade deal; bitcoin tops $100,000 - MarketWatch",
       "pubDate": "Thu, 08 May 2025 18:01:00 GMT"
+    },
+    {
+      "title": "Stock Market Live: Nifty, Sensex Plummet Over 1% At Open As Tensions Between India & Pakistan Rise - NDTV Profit",
+      "pubDate": "Fri, 09 May 2025 03:54:13 GMT"
     }
   ],
   "renewable_energy": [
@@ -995,6 +1011,10 @@
     {
       "title": "West Virginia\u2019s Solar Holler hits $100 million milestone in renewable energy projects - WV News",
       "pubDate": "Mon, 05 May 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Texas GOP moves closer to killing the state's renewable energy boom - Houston Chronicle",
+      "pubDate": "Thu, 08 May 2025 22:53:11 GMT"
     }
   ],
   "us_foreign_policy": [
@@ -1321,10 +1341,6 @@
   ],
   "china": [
     {
-      "title": "Trump latest: China warns president to \u2018stop whining\u2019 over tariffs after US curbs Nvidia chip sales in trade war - The Independent",
-      "pubDate": "Wed, 16 Apr 2025 20:23:00 GMT"
-    },
-    {
       "title": "How could Trump's trade war with China end? - CBS News",
       "pubDate": "Fri, 18 Apr 2025 21:30:00 GMT"
     },
@@ -1475,6 +1491,14 @@
     {
       "title": "China\u2019s Xi vows to stand with friend Putin against \u2018hegemonic bullying\u2019 - Al Jazeera",
       "pubDate": "Thu, 08 May 2025 11:58:57 GMT"
+    },
+    {
+      "title": "Lawmakers push tech leaders on AI, energy in race with China - The Hill",
+      "pubDate": "Thu, 08 May 2025 21:09:00 GMT"
+    },
+    {
+      "title": "China and Russia accuse US of raising nuclear war risk, vow to respond jointly - South China Morning Post",
+      "pubDate": "Thu, 08 May 2025 22:28:45 GMT"
     }
   ],
   "programming_languages": [
@@ -2861,6 +2885,12 @@
     {
       "title": "Bitcoin price nears $100k amid US-UK trade deal optimism - Yahoo Home",
       "pubDate": "Thu, 08 May 2025 09:22:51 GMT"
+    }
+  ],
+  "ethereum": [
+    {
+      "title": "Ethereum Price Forecast: ETH jumps 15%, outperforms top cryptos following US-UK trade agreement - FXStreet",
+      "pubDate": "Thu, 08 May 2025 19:40:10 GMT"
     }
   ]
 }
