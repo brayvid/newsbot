@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Report: President Donald Trump considering executive order on NIL after Nick Saban meeting - On3.com",
-      "pubDate": "Fri, 02 May 2025 20:26:15 GMT"
-    },
-    {
       "title": "Wall Street stocks bounce back from Trump tariff losses - BBC",
       "pubDate": "Fri, 02 May 2025 22:49:52 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump heads to the Middle East with oil, trade and nuclear ambitions on the table - CNBC",
       "pubDate": "Fri, 09 May 2025 14:35:03 GMT"
+    },
+    {
+      "title": "Trump's float of a tax hike for the wealthy quickly runs into GOP resistance - NBC News",
+      "pubDate": "Fri, 09 May 2025 20:05:06 GMT"
     }
   ],
   "ukraine": [
@@ -261,6 +261,10 @@
     {
       "title": "Ceasefire efforts in Ukraine moving in right direction, Finland says - Reuters",
       "pubDate": "Fri, 09 May 2025 15:21:03 GMT"
+    },
+    {
+      "title": "Ukraine says it has uncovered Hungarian spy network working in border region - CNN",
+      "pubDate": "Fri, 09 May 2025 17:33:00 GMT"
     }
   ],
   "recession": [
@@ -339,6 +343,10 @@
     {
       "title": "Why one market vet sees more big pain coming for the dollar \u2014 and a recession by year-end - businessinsider.com",
       "pubDate": "Thu, 08 May 2025 19:40:00 GMT"
+    },
+    {
+      "title": "Small Business Owners Fear a Recession, but Aren\u2019t Backing Down, Surveys Say - Inc.com",
+      "pubDate": "Fri, 09 May 2025 16:20:10 GMT"
     }
   ],
   "russia": [
@@ -429,6 +437,10 @@
     {
       "title": "Ukraine accuses Russia of violating its own truce over 700 times as Kyiv ratifies US minerals deal - The Washington Post",
       "pubDate": "Fri, 09 May 2025 00:48:54 GMT"
+    },
+    {
+      "title": "Putin Enlists Russian Pride for War in Ukraine During Moscow Parade - The New York Times",
+      "pubDate": "Fri, 09 May 2025 18:35:45 GMT"
     }
   ],
   "israel": [
@@ -519,6 +531,10 @@
     {
       "title": "Israel plans to occupy and flatten all of Gaza if no deal by Trump's trip - Axios",
       "pubDate": "Mon, 05 May 2025 17:48:27 GMT"
+    },
+    {
+      "title": "Scoop: UAE tells Israel it won't work with new Gaza aid mechanism \"as it stands\" - Axios",
+      "pubDate": "Fri, 09 May 2025 17:49:45 GMT"
     }
   ],
   "inflation": [
@@ -537,6 +553,10 @@
     {
       "title": "Save Mart slashing prices to combat tariffs and inflation. What\u2019s on sale? - Modesto Bee",
       "pubDate": "Mon, 05 May 2025 19:39:25 GMT"
+    },
+    {
+      "title": "Trump claims prices are down. Here\u2019s what the data actually shows. - The Washington Post",
+      "pubDate": "Fri, 09 May 2025 17:00:00 GMT"
     }
   ],
   "cybersecurity": [
@@ -579,6 +599,10 @@
     {
       "title": "Sen. Murphy: Trump administration has \u2018illegally gutted funding for cybersecurity\u2019 - CyberScoop",
       "pubDate": "Thu, 08 May 2025 20:22:31 GMT"
+    },
+    {
+      "title": "Cybersecurity Expert Warns of 'Widespread Epidemic' - Men's Journal",
+      "pubDate": "Fri, 09 May 2025 18:23:48 GMT"
     }
   ],
   "fusion_power": [
@@ -687,13 +711,13 @@
     {
       "title": "UN envoy emphasizes China's role in victory over fascism - China Daily",
       "pubDate": "Thu, 08 May 2025 02:04:00 GMT"
+    },
+    {
+      "title": "UN warns copper shortage risks slowing global energy and technology shift - UN News",
+      "pubDate": "Fri, 09 May 2025 20:53:13 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Trump\u2019s trade war puts America\u2019s AI ambitions at risk - The Conversation",
-      "pubDate": "Tue, 15 Apr 2025 20:06:26 GMT"
-    },
     {
       "title": "For the First Time, Artificial Intelligence Is Being Used at a Nuclear Power Plant - Gizmodo",
       "pubDate": "Sun, 13 Apr 2025 17:05:25 GMT"
@@ -849,6 +873,10 @@
     {
       "title": "'Murder prediction' algorithms echo some of Stalin's most horrific policies \u2014 governments are treading a very dangerous line in perusing them - Live Science",
       "pubDate": "Fri, 09 May 2025 15:08:07 GMT"
+    },
+    {
+      "title": "AI System Can Predict Cancer Survival Prognosis Better Than Doctors, Researchers Say - PYMNTS.com",
+      "pubDate": "Fri, 09 May 2025 19:29:16 GMT"
     }
   ],
   "public_health": [
@@ -1065,6 +1093,10 @@
     {
       "title": "DOGE Has Its Sights on the Defense Department - Foreign Policy",
       "pubDate": "Fri, 09 May 2025 14:19:22 GMT"
+    },
+    {
+      "title": "'Half of bombs falling on Gaza supplied by us': Former EU foreign policy chief - Anadolu Ajans\u0131",
+      "pubDate": "Fri, 09 May 2025 18:12:12 GMT"
     }
   ],
   "machine_learning": [
@@ -1123,6 +1155,10 @@
     {
       "title": "After that 2024 Windows fiasco, CrowdStrike has a plan \u2013 jobs cuts, leaning on AI - theregister.com",
       "pubDate": "Wed, 07 May 2025 23:28:00 GMT"
+    },
+    {
+      "title": "AI assistants essential for value-based care, report finds - Fierce Healthcare",
+      "pubDate": "Fri, 09 May 2025 18:00:00 GMT"
     }
   ],
   "data_science": [
@@ -1198,10 +1234,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Ambassador Xie Feng: China firmly opposes tariff war or trade war of any form, not only to safeguard its own national interests, but also to champion international economic and trade rules, fairness and justice_Embassy of the People's Republic of China in the - \u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u9a7b\u7f8e\u5229\u575a\u5408\u4f17\u56fd\u5927\u4f7f\u9986",
-      "pubDate": "Tue, 22 Apr 2025 19:49:00 GMT"
-    },
     {
       "title": "Opinion | Understanding Trump\u2019s Trade War - WSJ",
       "pubDate": "Tue, 22 Apr 2025 21:21:28 GMT"
@@ -1357,13 +1389,13 @@
     {
       "title": "U.S.-China Trade Talks Kick Off This Weekend: What to Expect - Time Magazine",
       "pubDate": "Fri, 09 May 2025 11:05:31 GMT"
+    },
+    {
+      "title": "As US and China begin trade talks in Geneva, Trump's tariff hammer looks less mighty than he claims - AP News",
+      "pubDate": "Fri, 09 May 2025 19:14:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "How could Trump's trade war with China end? - CBS News",
-      "pubDate": "Fri, 18 Apr 2025 21:30:00 GMT"
-    },
     {
       "title": "Beijing warns nations of 'appeasing' US in tariff war - France 24",
       "pubDate": "Mon, 21 Apr 2025 01:58:09 GMT"
@@ -1519,6 +1551,10 @@
     {
       "title": "China and Russia accuse US of raising nuclear war risk, vow to respond jointly - South China Morning Post",
       "pubDate": "Thu, 08 May 2025 22:28:45 GMT"
+    },
+    {
+      "title": "Xi and Putin vow stronger ties at Russia's World War II Victory Day parade ahead of U.S.-China trade talks - NBC News",
+      "pubDate": "Fri, 09 May 2025 18:26:58 GMT"
     }
   ],
   "programming_languages": [
@@ -1573,6 +1609,10 @@
     {
       "title": "Tesla denies report that the EV maker is looking to replace Elon Musk - CNBC",
       "pubDate": "Thu, 01 May 2025 06:34:48 GMT"
+    },
+    {
+      "title": "Tesla faces big threat from rivals in key market - TheStreet",
+      "pubDate": "Fri, 09 May 2025 16:37:00 GMT"
     }
   ],
   "quantum_mechanics": [
@@ -2205,6 +2245,10 @@
     {
       "title": "Amid U.S.-Iran talks, Netanyahu says Iran's entire nuclear program must go - Reuters",
       "pubDate": "Sun, 27 Apr 2025 20:13:05 GMT"
+    },
+    {
+      "title": "Exclusive: Iran to send Russia launchers for short-range missiles, sources say - Reuters",
+      "pubDate": "Fri, 09 May 2025 20:28:32 GMT"
     }
   ],
   "us_economy": [
@@ -2355,6 +2399,10 @@
     {
       "title": "\u2018Literally in the middle of the night\u2019: Justice Alito slams SCOTUS for issuing \u2018unprecedented\u2019 relief by stopping Trump deportations carried out under wartime law - Law and Crime News",
       "pubDate": "Sun, 20 Apr 2025 17:00:00 GMT"
+    },
+    {
+      "title": "Former U.S. Supreme Court Associate Justice David Souter dies at 85 - Brooklyn Eagle",
+      "pubDate": "Fri, 09 May 2025 18:05:59 GMT"
     }
   ],
   "future": [
@@ -2561,6 +2609,10 @@
     {
       "title": "Hackers demand Bitcoin for stolen PowerSchool data, state officials confirm - wfmynews2.com",
       "pubDate": "Thu, 08 May 2025 03:07:00 GMT"
+    },
+    {
+      "title": "Ascension says recent data breach affects over 430,000 patients - BleepingComputer",
+      "pubDate": "Fri, 09 May 2025 18:48:15 GMT"
     }
   ],
   "democratic_party": [
@@ -2617,6 +2669,10 @@
     {
       "title": "'AGI Is Coming \u2013 And We\u2019re Not Ready,' Warns Google DeepMind CEO Demis Hassabis - MSN",
       "pubDate": "Fri, 25 Apr 2025 06:09:25 GMT"
+    },
+    {
+      "title": "The A.I. girlfriend industry - Max Read | Substack",
+      "pubDate": "Fri, 09 May 2025 20:56:15 GMT"
     }
   ],
   "republican_party": [
@@ -2859,6 +2915,10 @@
     {
       "title": "Hamas: Jenin operation is the strongest response to Israeli attempts to suppress resistance - \u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0628\u06cc\u0646 \u0627\u0644\u0645\u0644\u0644\u06cc \u0642\u062f\u0633",
       "pubDate": "Thu, 08 May 2025 08:20:23 GMT"
+    },
+    {
+      "title": "Hamas cannot be contained, it must be completely dismantled - opinion - The Jerusalem Post",
+      "pubDate": "Fri, 09 May 2025 19:10:59 GMT"
     }
   ],
   "climate": [
@@ -2879,6 +2939,10 @@
     {
       "title": "Singapore\u2019s Vision for AI Safety Bridges the US-China Divide - WIRED",
       "pubDate": "Thu, 08 May 2025 00:00:00 GMT"
+    },
+    {
+      "title": "Mistral AI Models Fail Key Safety Tests, Report Finds - BankInfoSecurity",
+      "pubDate": "Fri, 09 May 2025 17:37:27 GMT"
     }
   ],
   "finance": [
@@ -2913,12 +2977,20 @@
     {
       "title": "Bitcoin price nears $100k amid US-UK trade deal optimism - Yahoo Home",
       "pubDate": "Thu, 08 May 2025 09:22:51 GMT"
+    },
+    {
+      "title": "Bitcoin, XRP Soar. Cryptos Are So Back\u2014Unless They\u2019re Not. - Barron's",
+      "pubDate": "Fri, 09 May 2025 16:25:00 GMT"
     }
   ],
   "ethereum": [
     {
       "title": "Ethereum Price Forecast: ETH jumps 15%, outperforms top cryptos following US-UK trade agreement - FXStreet",
       "pubDate": "Thu, 08 May 2025 19:40:10 GMT"
+    },
+    {
+      "title": "Bitcoin tops $100,000 and Ethereum surges in banner week for crypto - qz.com",
+      "pubDate": "Fri, 09 May 2025 16:57:00 GMT"
     }
   ],
   "us_politics": [
@@ -2929,6 +3001,52 @@
     {
       "title": "US politics live updates: majority of Americans disapprove of Trump\u2019s higher education approach, poll finds - inkl",
       "pubDate": "Fri, 09 May 2025 12:10:45 GMT"
+    },
+    {
+      "title": "Pope Leo's stance on key issues, from climate change to LGBTQ+ rights to U.S. politics - NPR",
+      "pubDate": "Fri, 09 May 2025 17:16:39 GMT"
+    }
+  ],
+  "brics": [
+    {
+      "title": "Vietnam\u2019s AI investment grows eightfold - TV BRICS",
+      "pubDate": "Fri, 09 May 2025 16:01:05 GMT"
+    }
+  ],
+  "data_privacy": [
+    {
+      "title": "Surfshark study probes data hunger of web browsers - Computerworld",
+      "pubDate": "Fri, 09 May 2025 21:23:23 GMT"
+    }
+  ],
+  "google": [
+    {
+      "title": "Google would need to shift up to 2,000 employees for antitrust remedies, search head says - CNBC",
+      "pubDate": "Fri, 09 May 2025 19:27:53 GMT"
+    }
+  ],
+  "intelligence_agencies": [
+    {
+      "title": "A Decade After Its Biggest Intelligence Disasters, U.S. Initiates A New Drive To Keep An Eye On China - EurAsian Times",
+      "pubDate": "Fri, 09 May 2025 18:28:02 GMT"
+    }
+  ],
+  "openai": [
+    {
+      "title": "OpenAI\u2019s Simo Tasked With Keeping ChatGPT Ahead of Bot Rivals - Bloomberg",
+      "pubDate": "Fri, 09 May 2025 17:54:22 GMT"
+    }
+  ],
+  "virtual_reality": [
+    {
+      "title": "From AI avatars to virtual reality crime scenes, courts are grappling with AI in the justice system - AP News",
+      "pubDate": "Fri, 09 May 2025 19:49:00 GMT"
+    }
+  ],
+  "world_politics": [
+    {
+      "title": "Gates accuses Musk of \u2018killing the world\u2019s poorest children\u2019 with DOGE cuts - Daily Herald",
+      "pubDate": "Fri, 09 May 2025 21:15:04 GMT"
     }
   ]
 }
