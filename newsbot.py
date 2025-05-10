@@ -372,7 +372,7 @@ def contains_banned_keyword(text, banned_terms):
 # Call Gemini to select top topics/headlines among those retrieved based on user preferences and constraints.
 def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemini_api_key: str) -> dict:
     genai.configure(api_key=gemini_api_key)
-    model = genai.GenerativeModel(model_name="models/gemini-2.0-flash-lite-001")
+    model = genai.GenerativeModel(model_name="models/gemini-1.5-flash")
 
     prompt = (
         "You are choosing the most relevant news topics and headlines to include in an email digest for a user based on their specific preferences.\n"
