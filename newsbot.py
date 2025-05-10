@@ -386,6 +386,7 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
         f"Reject any headlines containing terms flagged 'banned', and demote headlines with terms flagged 'demote' by a multiplier of {DEMOTE_FACTOR}.\n"
         "There should be a healthy diversity of subjects covered overall in your article recommendations. Do not focus on one theme.\n"
         "Prefer to recommend content-rich and informative headlines over any clickbait or filler or questions or lists.\n"
+        f"Again, there can only be up to {MAX_TOPICS} topics in your response, and up to {MAX_ARTICLES_PER_TOPIC} articles per topic.\n"
         f"User Preferences:\n{user_preferences}\n\n"
         f"Topics and Headlines:\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n"
     )
