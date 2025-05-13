@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump orders 100% tariff on foreign-made movies - Axios",
-      "pubDate": "Mon, 05 May 2025 00:16:58 GMT"
-    },
-    {
-      "title": "Trump announces 100% tariffs on movies \u2018produced in foreign lands\u2019 - The Guardian",
-      "pubDate": "Mon, 05 May 2025 15:58:05 GMT"
-    },
-    {
       "title": "Trump says he is directing Bureau of Prisons to reopen Alcatraz to house \u2018ruthless and violent offenders\u2019 - CNN",
       "pubDate": "Mon, 05 May 2025 16:35:00 GMT"
     },
@@ -159,6 +151,14 @@
     {
       "title": "Trump Seeks to Align US Drug Costs With Cheapest Ones Abroad - Bloomberg",
       "pubDate": "Mon, 12 May 2025 07:01:50 GMT"
+    },
+    {
+      "title": "Live updates: Trump seeks to lower drug prices in U.S. by pressing other countries to pay more - The Washington Post",
+      "pubDate": "Mon, 12 May 2025 21:15:58 GMT"
+    },
+    {
+      "title": "Trump\u2019s gifted Qatari 747 would be a security problem, officials say - The Washington Post",
+      "pubDate": "Tue, 13 May 2025 03:04:00 GMT"
     }
   ],
   "ukraine": [
@@ -375,6 +375,10 @@
     {
       "title": "Why the Federal Reserve risks falling behind the curve as recession fears rise - The Hill",
       "pubDate": "Sat, 10 May 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Goldman Raises S&P 500 Targets on Lower Tariff, Recession Risks - Bloomberg.com",
+      "pubDate": "Tue, 13 May 2025 03:35:00 GMT"
     }
   ],
   "russia": [
@@ -497,6 +501,14 @@
     {
       "title": "Zelensky challenges Putin to meet him after Trump demands Ukraine-Russia talks - BBC",
       "pubDate": "Sun, 11 May 2025 18:12:33 GMT"
+    },
+    {
+      "title": "Ukraine works with Europe to ready new Russia sanctions after no ceasefire - The Washington Post",
+      "pubDate": "Mon, 12 May 2025 21:10:49 GMT"
+    },
+    {
+      "title": "UN aviation body rules Russia downed Malaysian airliner - Reuters",
+      "pubDate": "Mon, 12 May 2025 22:04:10 GMT"
     }
   ],
   "israel": [
@@ -775,14 +787,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Ghost Highways in Memory Chips \u2013 The Secret Electron Shortcut to Lightning-Fast AI - SciTechDaily",
-      "pubDate": "Tue, 29 Apr 2025 02:31:14 GMT"
-    },
-    {
-      "title": "Duolingo shifts to AI-first model, cutting contractor roles - AI News",
-      "pubDate": "Wed, 30 Apr 2025 11:24:00 GMT"
-    },
-    {
       "title": "AI Detects an Unusual Detail Hidden in a Famous Raphael Masterpiece - ScienceAlert",
       "pubDate": "Mon, 05 May 2025 00:28:32 GMT"
     },
@@ -933,6 +937,14 @@
     {
       "title": "Army to rely heavily on artificial intelligence (AI) in crew stations for next-gen armored combat vehicles - Military Aerospace",
       "pubDate": "Mon, 12 May 2025 09:44:05 GMT"
+    },
+    {
+      "title": "New AI tool predicts your biological age from a selfie - The Washington Post",
+      "pubDate": "Mon, 12 May 2025 21:54:40 GMT"
+    },
+    {
+      "title": "House Committee Aims to Ban States From Regulating AI - PYMNTS.com",
+      "pubDate": "Tue, 13 May 2025 02:15:00 GMT"
     }
   ],
   "public_health": [
@@ -1291,14 +1303,6 @@
   ],
   "trade_war": [
     {
-      "title": "In Canada\u2019s election, voters appear on track to rebuke Trump\u2019s trade war - Al Jazeera",
-      "pubDate": "Sun, 27 Apr 2025 10:52:30 GMT"
-    },
-    {
-      "title": "US tariff war hurting trade with China; M&S \u2018tells hundreds of agency staff not to come to work\u2019 after cyber-attack \u2013 business live - The Guardian",
-      "pubDate": "Mon, 28 Apr 2025 06:36:00 GMT"
-    },
-    {
       "title": "Trump Trade War Update: Firm Predicts 'Empty Shelves' And Recession By June - Investor's Business Daily",
       "pubDate": "Mon, 28 Apr 2025 13:38:00 GMT"
     },
@@ -1449,17 +1453,17 @@
     {
       "title": "US-China trade war latest: Global markets lifted by tariff deal - Financial Times",
       "pubDate": "Mon, 12 May 2025 09:07:16 GMT"
+    },
+    {
+      "title": "Global stocks rally after US, China pause tariff war, but uncertainty remains - Reuters",
+      "pubDate": "Mon, 12 May 2025 20:15:48 GMT"
+    },
+    {
+      "title": "US-China trade war as it happened: Washington and Beijing agree to reduce tariffs; S&P 500 notches third-biggest jump past of 5 years - Financial Times",
+      "pubDate": "Mon, 12 May 2025 22:17:12 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Trump teases China tariff cut - The Hill",
-      "pubDate": "Tue, 22 Apr 2025 23:08:00 GMT"
-    },
-    {
-      "title": "Treasury Secretary Bessent Talks China Trade War De-Escalation and Tax Cuts - The New York Times",
-      "pubDate": "Tue, 22 Apr 2025 21:42:31 GMT"
-    },
     {
       "title": "Bessent: Status quo with China unsustainable, but no unilateral tariff cuts - Axios",
       "pubDate": "Wed, 23 Apr 2025 15:38:28 GMT"
@@ -1611,6 +1615,14 @@
     {
       "title": "US-China tariff talks to continue Sunday, an official tells The Associated Press - AP News",
       "pubDate": "Sat, 10 May 2025 19:51:00 GMT"
+    },
+    {
+      "title": "Investors cheer US-China tariff truce, but cautious over a final deal - Reuters",
+      "pubDate": "Mon, 12 May 2025 20:41:13 GMT"
+    },
+    {
+      "title": "Xi Defiance Pays Off as Trump Meets Most China Trade Demands - Bloomberg.com",
+      "pubDate": "Tue, 13 May 2025 00:44:00 GMT"
     }
   ],
   "programming_languages": [
@@ -2395,6 +2407,10 @@
     {
       "title": "Trump heads to Saudi Arabia eyeing more investment in US - BBC",
       "pubDate": "Sun, 11 May 2025 23:44:47 GMT"
+    },
+    {
+      "title": "Economic outlook brightens, recession odds fall after US-China tariff deal - USA Today",
+      "pubDate": "Mon, 12 May 2025 18:33:52 GMT"
     }
   ],
   "terrorism": [
@@ -3089,6 +3105,10 @@
     {
       "title": "Pope Leo XIV must carefully thread needle between Catholic Church's mission, US politics: Experts - ABC News",
       "pubDate": "Sat, 10 May 2025 21:01:03 GMT"
+    },
+    {
+      "title": "House Republican Proposal Would Shrink Medicaid Coverage to Advance Trump\u2019s Agenda - The New York Times",
+      "pubDate": "Mon, 12 May 2025 21:14:40 GMT"
     }
   ],
   "brics": [
