@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump tariffs live updates: Trump hints at pharma duties, no plans to talk to China's XI - Yahoo Finance",
-      "pubDate": "Tue, 06 May 2025 14:52:38 GMT"
-    },
-    {
       "title": "As Canada\u2019s Mark Carney Meets With Trump, Here\u2019s What\u2019s at Stake - The New York Times",
       "pubDate": "Tue, 06 May 2025 12:00:54 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump's Syria announcement surprised his own sanctions officials - Reuters",
       "pubDate": "Wed, 14 May 2025 23:09:40 GMT"
+    },
+    {
+      "title": "Trump says he doesn't want Apple building products in India: 'I had a little problem with Tim Cook' - CNBC",
+      "pubDate": "Thu, 15 May 2025 09:17:28 GMT"
     }
   ],
   "ukraine": [
@@ -391,6 +391,10 @@
     {
       "title": "Steve Cohen Says Probability of US Recession Now Stands at 45% - Bloomberg.com",
       "pubDate": "Wed, 14 May 2025 22:49:44 GMT"
+    },
+    {
+      "title": "America faces a summer of smaller raises \u2014 and fewer jobs - Business Insider",
+      "pubDate": "Thu, 15 May 2025 08:03:00 GMT"
     }
   ],
   "russia": [
@@ -533,6 +537,10 @@
     {
       "title": "Despite growth claims, Russia\u2019s war economy shows deep risks, Reuters reports - The Kyiv Independent",
       "pubDate": "Wed, 14 May 2025 02:19:00 GMT"
+    },
+    {
+      "title": "Ukraine-Russia talks to open in Istanbul without Putin, Kremlin confirms - ABC News",
+      "pubDate": "Thu, 15 May 2025 07:25:33 GMT"
     }
   ],
   "israel": [
@@ -815,14 +823,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "OpenAI agrees to buy Windsurf for about $3 billion, Bloomberg News reports - Reuters",
-      "pubDate": "Tue, 06 May 2025 06:47:48 GMT"
-    },
-    {
-      "title": "EY CEO says AI won't decrease its 400,000-person workforce \u2014 but it might help it double in size - Business Insider",
-      "pubDate": "Tue, 06 May 2025 09:04:00 GMT"
-    },
-    {
       "title": "Court Short-Circuits Artificial Intelligence Patents: Federal Circuit Tightens Standards for Patent Eligibility - JD Supra",
       "pubDate": "Tue, 06 May 2025 16:40:57 GMT"
     },
@@ -973,6 +973,14 @@
     {
       "title": "AI can spontaneously develop human-like communication, study finds - The Guardian",
       "pubDate": "Wed, 14 May 2025 18:01:00 GMT"
+    },
+    {
+      "title": "Bloomberg Technology: The 10 People in Tech Shaping AI Startups and Venture Capital - Bloomberg.com",
+      "pubDate": "Thu, 15 May 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Scientists use AI to encrypt secret messages that are invisible to cybersecurity systems - Live Science",
+      "pubDate": "Thu, 15 May 2025 15:49:25 GMT"
     }
   ],
   "public_health": [
@@ -1331,10 +1339,6 @@
   ],
   "trade_war": [
     {
-      "title": "Bridgewater\u2019s Dalio: Too Late to Fix Trade-War Fallout. World Order Risks Breakdown. - Barron's",
-      "pubDate": "Tue, 29 Apr 2025 14:42:00 GMT"
-    },
-    {
       "title": "China social media video jabs at trade war - CNN",
       "pubDate": "Tue, 29 Apr 2025 22:43:00 GMT"
     },
@@ -1489,17 +1493,13 @@
     {
       "title": "Oil prices hold near two-week highs on trade war reprieve, weaker dollar - Reuters",
       "pubDate": "Wed, 14 May 2025 00:56:00 GMT"
+    },
+    {
+      "title": "How the U.S.-China trade war\u2019s 90-day pause was 70 years in the making - Fortune",
+      "pubDate": "Thu, 15 May 2025 14:57:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Apple Posts Disappointing China Sales, Warns of Tariff Pain - Bloomberg.com",
-      "pubDate": "Thu, 01 May 2025 23:23:38 GMT"
-    },
-    {
-      "title": "China looks set to turn to a tariff-proof sector as U.S. trade war bites: K-pop - CNBC",
-      "pubDate": "Fri, 02 May 2025 06:59:31 GMT"
-    },
     {
       "title": "Lutnick: 'I have a deal done, done, done, done' as China, Japan and India warm to trade talks - Fortune",
       "pubDate": "Fri, 02 May 2025 10:43:00 GMT"
@@ -1651,6 +1651,14 @@
     {
       "title": "China launches first of 2,800 satellites for AI space computing constellation - SpaceNews",
       "pubDate": "Wed, 14 May 2025 22:50:58 GMT"
+    },
+    {
+      "title": "EU \u2018has no interest\u2019 in reviving stalled investment deal with China, says trade official - South China Morning Post",
+      "pubDate": "Thu, 15 May 2025 08:18:55 GMT"
+    },
+    {
+      "title": "US-China Trade Clash Risks Making Europe Dumping Ground for Cheap Goods - Bloomberg",
+      "pubDate": "Thu, 15 May 2025 11:37:44 GMT"
     }
   ],
   "programming_languages": [
@@ -2443,6 +2451,10 @@
     {
       "title": "Fed policymakers on hold to seek clarity from the data, but the data are not cooperating - Reuters",
       "pubDate": "Wed, 14 May 2025 23:53:10 GMT"
+    },
+    {
+      "title": "US economy could face \u2018more persistent supply shocks\u2019: Powell - The Hill",
+      "pubDate": "Thu, 15 May 2025 14:11:00 GMT"
     }
   ],
   "terrorism": [
@@ -3149,6 +3161,10 @@
     {
       "title": "RFK Jr. Defends HHS Overhaul as Democrats Denounce \u2018War on Science\u2019 - The New York Times",
       "pubDate": "Wed, 14 May 2025 18:14:20 GMT"
+    },
+    {
+      "title": "Supreme court hears arguments on birthright citizenship dispute \u2013 US politics live - The Guardian",
+      "pubDate": "Thu, 15 May 2025 14:31:18 GMT"
     }
   ],
   "brics": [
