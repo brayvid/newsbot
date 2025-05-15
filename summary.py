@@ -49,7 +49,7 @@ model = genai.GenerativeModel(model_name="models/gemini-2.5-flash-preview-04-17"
 
 # Create prompt
 history_prompt = format_history(history_data)
-question = "Give a brief report in roughly 300 words on how the world has been doing lately based on the attached headlines. Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points. State the timeframe being discussed. Don't state that it's a report, simply present the findings. Then at the end, in 200 words, using all available clues in the headlines, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications."
+question = "Give a brief report in roughly 200 words on how the world has been doing lately based on the attached headlines. Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points. State the timeframe being discussed. Don't state that it's a report, simply present the findings. Then at the end, in 100 words, using all available clues in the headlines, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications."
 response = model.generate_content(f"{history_prompt}\n\nQuestion: {question}")
 answer = response.text.strip()
 
