@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "As Canada\u2019s Mark Carney Meets With Trump, Here\u2019s What\u2019s at Stake - The New York Times",
-      "pubDate": "Tue, 06 May 2025 12:00:54 GMT"
-    },
-    {
-      "title": "Trump\u2019s Kennedy Center Debut: 'Les Mis' and Six-Figure Checks - The Atlantic",
-      "pubDate": "Tue, 06 May 2025 19:00:00 GMT"
-    },
-    {
       "title": "Carney told Trump that Canada is not for sale. 'Never say never,' Trump replied - NPR",
       "pubDate": "Tue, 06 May 2025 17:27:31 GMT"
     },
@@ -159,6 +151,14 @@
     {
       "title": "Trump says he doesn't want Apple building products in India: 'I had a little problem with Tim Cook' - CNBC",
       "pubDate": "Thu, 15 May 2025 09:17:28 GMT"
+    },
+    {
+      "title": "Live updates: Trump, during Mideast trip, says a meeting with Putin is key to Russia-Ukraine talks - The Washington Post",
+      "pubDate": "Thu, 15 May 2025 21:53:45 GMT"
+    },
+    {
+      "title": "Trump\u2019s Computer Chip Deals With Saudi Arabia and UAE Divide US Government - The New York Times",
+      "pubDate": "Fri, 16 May 2025 02:08:53 GMT"
     }
   ],
   "ukraine": [
@@ -395,6 +395,10 @@
     {
       "title": "America faces a summer of smaller raises \u2014 and fewer jobs - Business Insider",
       "pubDate": "Thu, 15 May 2025 08:03:00 GMT"
+    },
+    {
+      "title": "A Recession Can Decimate Your Savings. Protect Your Money by Keeping It in These Places - CNET",
+      "pubDate": "Fri, 16 May 2025 03:10:10 GMT"
     }
   ],
   "russia": [
@@ -541,6 +545,10 @@
     {
       "title": "Ukraine-Russia talks to open in Istanbul without Putin, Kremlin confirms - ABC News",
       "pubDate": "Thu, 15 May 2025 07:25:33 GMT"
+    },
+    {
+      "title": "US 'doesn't have high expectations' for Ukraine-Russia negotiations, Marco Rubio admits - Sky News",
+      "pubDate": "Thu, 15 May 2025 21:20:20 GMT"
     }
   ],
   "israel": [
@@ -823,14 +831,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Court Short-Circuits Artificial Intelligence Patents: Federal Circuit Tightens Standards for Patent Eligibility - JD Supra",
-      "pubDate": "Tue, 06 May 2025 16:40:57 GMT"
-    },
-    {
-      "title": "Why people are using AI to fake disabilities like Down syndrome online - CBS News",
-      "pubDate": "Tue, 06 May 2025 20:45:00 GMT"
-    },
-    {
       "title": "IBM CEO: HR Layoffs Due to AI Led to \u2018More Investment\u2019 in Other Roles - PYMNTS.com",
       "pubDate": "Wed, 07 May 2025 01:43:41 GMT"
     },
@@ -981,6 +981,14 @@
     {
       "title": "Scientists use AI to encrypt secret messages that are invisible to cybersecurity systems - Live Science",
       "pubDate": "Thu, 15 May 2025 15:49:25 GMT"
+    },
+    {
+      "title": "Scammers use AI to spoof senior U.S. officials' voices, FBI warns - Axios",
+      "pubDate": "Thu, 15 May 2025 17:55:04 GMT"
+    },
+    {
+      "title": "OpenAI Gaining Market Share in AI Tools, With Google a Far Second - PYMNTS.com",
+      "pubDate": "Thu, 15 May 2025 22:09:37 GMT"
     }
   ],
   "public_health": [
@@ -1339,14 +1347,6 @@
   ],
   "trade_war": [
     {
-      "title": "China social media video jabs at trade war - CNN",
-      "pubDate": "Tue, 29 Apr 2025 22:43:00 GMT"
-    },
-    {
-      "title": "Trump says 'China probably will eat those tariffs'; defends his trade war moves - The Economic Times",
-      "pubDate": "Wed, 30 Apr 2025 05:16:25 GMT"
-    },
-    {
       "title": "How the Common Wheelbarrow Holds Lessons for Trump\u2019s Tariff Wars - Bloomberg",
       "pubDate": "Wed, 30 Apr 2025 11:00:30 GMT"
     },
@@ -1497,17 +1497,17 @@
     {
       "title": "How the U.S.-China trade war\u2019s 90-day pause was 70 years in the making - Fortune",
       "pubDate": "Thu, 15 May 2025 14:57:00 GMT"
+    },
+    {
+      "title": "Tariffs plunged Chinese imports to lowest levels since the pandemic - USA Today",
+      "pubDate": "Thu, 15 May 2025 20:05:20 GMT"
+    },
+    {
+      "title": "Burry Bets Against Nvidia, China Stocks in Run-Up to Trade War - Bloomberg",
+      "pubDate": "Fri, 16 May 2025 00:02:00 GMT"
     }
   ],
   "china": [
-    {
-      "title": "Lutnick: 'I have a deal done, done, done, done' as China, Japan and India warm to trade talks - Fortune",
-      "pubDate": "Fri, 02 May 2025 10:43:00 GMT"
-    },
-    {
-      "title": "US lawmakers urge SEC to delist Alibaba and Chinese companies, FT reports - Reuters",
-      "pubDate": "Fri, 02 May 2025 23:08:56 GMT"
-    },
     {
       "title": "New OPV For Chinese Coast Guard Launched At Huangpu - navalnews.com",
       "pubDate": "Sat, 03 May 2025 08:19:17 GMT"
@@ -1659,6 +1659,14 @@
     {
       "title": "US-China Trade Clash Risks Making Europe Dumping Ground for Cheap Goods - Bloomberg",
       "pubDate": "Thu, 15 May 2025 11:37:44 GMT"
+    },
+    {
+      "title": "US space chief warns China, Russia are greatest risks to space defense capabilities - The Hill",
+      "pubDate": "Thu, 15 May 2025 20:12:00 GMT"
+    },
+    {
+      "title": "China\u2019s defence chief forges Europe ties in Paris, Berlin plus UN peace pledge - South China Morning Post",
+      "pubDate": "Fri, 16 May 2025 03:26:16 GMT"
     }
   ],
   "programming_languages": [
@@ -3165,6 +3173,10 @@
     {
       "title": "Supreme court hears arguments on birthright citizenship dispute \u2013 US politics live - The Guardian",
       "pubDate": "Thu, 15 May 2025 14:31:18 GMT"
+    },
+    {
+      "title": "Democrats keep trying to move past the cover up around Biden\u2019s decline. It\u2019s not helping their credibility - The Independent",
+      "pubDate": "Fri, 16 May 2025 00:29:00 GMT"
     }
   ],
   "brics": [
