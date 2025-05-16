@@ -372,7 +372,7 @@ def contains_banned_keyword(text, banned_terms):
 # Call Gemini to select top topics/headlines among those retrieved based on user preferences and constraints.
 def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemini_api_key: str) -> dict:
     genai.configure(api_key=gemini_api_key)
-    model = genai.GenerativeModel(model_name="models/gemini-1.5-flash")
+    model = genai.GenerativeModel(model_name="models/gemini-2.0-flash")
 
     prompt = (
         "You are choosing the most relevant news topics and headlines to include in an email digest for a user based on their specific preferences.\n"
@@ -538,6 +538,23 @@ def main():
         except Exception as e:
             logging.error(f"Email failed: {e}")
 
+        # Remove articles older than 1 month from history
+        one_month_ago = datetime.now(ZONE) - timedelta(days=30)
+        for topic in list(history.keys()):
+            new_articles = []
+            for article in history[topic]:
+                try:
+                    pub_date = parsedate_to_datetime(article["pubDate"]).astimezone(ZONE)
+                    if pub_date >= one_month_ago:
+                        new_articles.append(article)
+                except Exception as e:
+                    logging.warning(f"Skipping malformed pubDate in history: {e}")
+            if new_articles:
+                history[topic] = new_articles
+            else:
+                del history[topic]  # remove topic entirely if all articles are too old
+
+        # Save trimmed history
         with open(HISTORY_FILE, "w") as f:
             json.dump(history, f, indent=2)
 
