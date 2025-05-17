@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Biden accuses Trump of \u2018modern-day appeasement\u2019 towards Russia - The Guardian",
-      "pubDate": "Wed, 07 May 2025 06:19:00 GMT"
-    },
-    {
       "title": "Trump plans to announce US will call Persian Gulf \u2018Arabian Gulf\u2019, officials say - The Guardian",
       "pubDate": "Wed, 07 May 2025 13:11:00 GMT"
     },
@@ -159,21 +155,13 @@
     {
       "title": "Trump says India has offered America \u2018no tariffs\u2019, but India says deal not yet complete - CNN",
       "pubDate": "Fri, 16 May 2025 01:42:00 GMT"
+    },
+    {
+      "title": "Trump rips \u2018hapless and cognitively impaired\u2019 Biden after Hur audio released - The Hill",
+      "pubDate": "Sat, 17 May 2025 14:23:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine war briefing: Zelenskyy hails \u2018good progress\u2019 on minerals deal talks - The Guardian",
-      "pubDate": "Thu, 17 Apr 2025 00:35:00 GMT"
-    },
-    {
-      "title": "Russian Offensive Campaign Assessment, April 16, 2025 - Institute for the Study of War",
-      "pubDate": "Wed, 16 Apr 2025 21:16:26 GMT"
-    },
-    {
-      "title": "A NATO country will send troops to Ukraine to learn from the war. Russia said they will be legitimate targets. - Business Insider",
-      "pubDate": "Thu, 17 Apr 2025 11:54:00 GMT"
-    },
     {
       "title": "Rubio says Trump admin may soon \"move on\" from Ukraine-Russia peace efforts: \"It's not our war\" - CBS News",
       "pubDate": "Fri, 18 Apr 2025 13:08:34 GMT"
@@ -390,14 +378,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "North Korea Is Making Billions From Russia's War on Ukraine - Newsweek",
-      "pubDate": "Wed, 16 Apr 2025 08:07:04 GMT"
-    },
-    {
-      "title": "Germany will not invite Russia and Belarus to second world war commemoration - The Guardian",
-      "pubDate": "Thu, 17 Apr 2025 14:08:00 GMT"
-    },
     {
       "title": "Russian Offensive Campaign Assessment, April 23, 2025 - Institute for the Study of War",
       "pubDate": "Thu, 24 Apr 2025 01:28:08 GMT"
@@ -617,10 +597,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Cybersecurity Experts Urge Australian Councils to Embrace MSSPs Amid Surge in Cyberattacks - techbusinessnews.com.au",
-      "pubDate": "Wed, 16 Apr 2025 06:55:57 GMT"
-    },
-    {
       "title": "Google Fixes Actively Exploited Android System Flaw in May 2025 Security Update - The Hacker News",
       "pubDate": "Tue, 06 May 2025 05:46:00 GMT"
     },
@@ -649,17 +625,7 @@
       "pubDate": "Wed, 14 May 2025 20:57:59 GMT"
     }
   ],
-  "fusion_power": [
-    {
-      "title": "Avalanche Energy launches FusionWERX - Nuclear Engineering International",
-      "pubDate": "Wed, 16 Apr 2025 09:21:31 GMT"
-    }
-  ],
   "united_nations": [
-    {
-      "title": "UNICEF Executive Director Catherine Russell briefing to the United Nations Security Council on the humanitarian situation in the Democratic Republic of the Congo - Unicef",
-      "pubDate": "Wed, 16 Apr 2025 20:21:08 GMT"
-    },
     {
       "title": "HNPW2025 United Nations Humanitarian Affairs Side Event - openPR.com",
       "pubDate": "Thu, 17 Apr 2025 20:46:00 GMT"
@@ -718,10 +684,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI isn\u2019t replacing student writing \u2013 but it is reshaping it - The Conversation",
-      "pubDate": "Wed, 07 May 2025 12:35:52 GMT"
-    },
     {
       "title": "CrowdStrike To Cut 5% Of Workforce. CEO Points To AI Productivity Gains. - Investor's Business Daily",
       "pubDate": "Wed, 07 May 2025 13:57:00 GMT"
@@ -877,21 +839,13 @@
     {
       "title": "With Trump\u2019s trip, Persian Gulf states take center stage in AI boom - The Washington Post",
       "pubDate": "Fri, 16 May 2025 04:46:00 GMT"
+    },
+    {
+      "title": "How Microsoft's AI Helped Israeli Military In Its War Against Gaza - NDTV",
+      "pubDate": "Sat, 17 May 2025 14:36:53 GMT"
     }
   ],
   "public_health": [
-    {
-      "title": "Country-level champions meet to strengthen interagency coordination of mental health and psychosocial support across humanitarian emergencies - World Health Organization (WHO)",
-      "pubDate": "Wed, 16 Apr 2025 13:20:05 GMT"
-    },
-    {
-      "title": "Ottawa Co. Health Officer Hambley receives prestigious health award following year of tumult - WZZM13.com",
-      "pubDate": "Wed, 16 Apr 2025 23:17:00 GMT"
-    },
-    {
-      "title": "Health department: CDC funding cuts impact respiratory virus testing - heraldstaronline.com",
-      "pubDate": "Thu, 17 Apr 2025 07:45:39 GMT"
-    },
     {
       "title": "Why homelessness became the focus of a city director hearing - Mirror Indy",
       "pubDate": "Thu, 17 Apr 2025 19:32:38 GMT"
@@ -911,10 +865,6 @@
     {
       "title": "Vaccination rates show some Southland districts \u2018extremely vulnerable\u2019 to measles outbreaks - Chicago Tribune",
       "pubDate": "Fri, 18 Apr 2025 18:40:57 GMT"
-    },
-    {
-      "title": "Gillings School community, programs honored with 5 UNC public service awards - UNC Gillings School of Global Public Health",
-      "pubDate": "Thu, 17 Apr 2025 07:00:00 GMT"
     },
     {
       "title": "CDC Reviews Vaccine Guidelines Under RFK Jr.: What to Know - Healthline",
@@ -942,10 +892,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Global growth weakest since financial crisis: S&P - Investment Executive",
-      "pubDate": "Wed, 16 Apr 2025 16:47:00 GMT"
-    },
     {
       "title": "Sell USA? Why Trump's tariffs may be sparking a historic storm on Wall Street - KUOW",
       "pubDate": "Mon, 21 Apr 2025 13:36:56 GMT"
@@ -1023,10 +969,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "US lifts sanctions against key Orb\u00e1n ally accused of corruption - politico.eu",
-      "pubDate": "Wed, 16 Apr 2025 08:48:00 GMT"
-    },
-    {
       "title": "Guest columnist Ben Grosscup: Anti-Trump resistance can\u2019t be \u2018hands off\u2019 on militarism - Greenfield Recorder",
       "pubDate": "Sun, 20 Apr 2025 16:00:27 GMT"
     },
@@ -1060,10 +1002,6 @@
     }
   ],
   "machine_learning": [
-    {
-      "title": "AI and Machine Learning - Peachtree Corners integrates with Nvidia tech to expand smart city capabilities - Smart Cities World",
-      "pubDate": "Wed, 16 Apr 2025 15:14:47 GMT"
-    },
     {
       "title": "Fine carrier frequency offset estimation for OFDM and MIMO-OFDM systems: A comparative study - Nature",
       "pubDate": "Mon, 05 May 2025 03:17:18 GMT"
@@ -1106,10 +1044,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "'Recession adjacent': Economists project slower growth in RI next year as trade war bites - The Providence Journal",
-      "pubDate": "Wed, 30 Apr 2025 19:34:59 GMT"
-    },
     {
       "title": "FirstFT: Shein considers US restructuring as trade war threatens London IPO plans - Financial Times",
       "pubDate": "Wed, 30 Apr 2025 22:15:17 GMT"
@@ -1265,6 +1199,10 @@
     {
       "title": "Dockworker unions back trade war amid collapse of traffic on US docks - World Socialist Web Site",
       "pubDate": "Fri, 16 May 2025 03:11:44 GMT"
+    },
+    {
+      "title": "Farming anxieties rise among Illinoisans as trade war affects crop exports - MSN",
+      "pubDate": "Sat, 17 May 2025 14:28:43 GMT"
     }
   ],
   "china": [
@@ -1429,25 +1367,7 @@
       "pubDate": "Fri, 16 May 2025 03:26:16 GMT"
     }
   ],
-  "programming_languages": [
-    {
-      "title": "Gleam 1.10 improves compiler, JavaScript codegen - InfoWorld",
-      "pubDate": "Wed, 16 Apr 2025 23:14:29 GMT"
-    },
-    {
-      "title": "The programming language wars - InfoWorld",
-      "pubDate": "Wed, 16 Apr 2025 09:01:52 GMT"
-    }
-  ],
   "solar_power": [
-    {
-      "title": "Elon Musk: The World Will Only Use Solar Power Once It Understands This 1960s Soviet Theory - The Daily Galaxy",
-      "pubDate": "Wed, 16 Apr 2025 12:00:00 GMT"
-    },
-    {
-      "title": "Clean energy's share of world's electricity reaches 40%, and other nature and climate stories you need to read this week - The World Economic Forum",
-      "pubDate": "Thu, 17 Apr 2025 13:14:00 GMT"
-    },
     {
       "title": "East Union supervisors schedule solar hearings for April 24 - Hazleton Standard Speaker",
       "pubDate": "Thu, 17 Apr 2025 18:40:56 GMT"
@@ -1467,10 +1387,6 @@
   ],
   "elon_musk": [
     {
-      "title": "\u2018Hubris Maximus\u2019 excerpt: Elon Musk\u2019s fury over a Tesla death investigation foreshadowed his war on Washington - MSN",
-      "pubDate": "Thu, 17 Apr 2025 12:30:04 GMT"
-    },
-    {
       "title": "Elon Musk's relentless campaigning for Donald Trump in 2024 became a catalyst for Democrats' political pushback - Philadelphia local news, sports, jobs, cars, homes",
       "pubDate": "Fri, 25 Apr 2025 09:00:01 GMT"
     },
@@ -1485,12 +1401,6 @@
     {
       "title": "Tesla faces big threat from rivals in key market - TheStreet",
       "pubDate": "Fri, 09 May 2025 16:37:00 GMT"
-    }
-  ],
-  "geothermal_power": [
-    {
-      "title": "Enertech and Dandelion launch 1,500 residential geothermal systems in the western United States - energynews.pro",
-      "pubDate": "Wed, 16 Apr 2025 14:49:33 GMT"
     }
   ],
   "world_news": [
@@ -1711,10 +1621,6 @@
       "pubDate": "Sat, 19 Apr 2025 00:11:15 GMT"
     },
     {
-      "title": "How the U.S.-China Trade War Could Derail the Energy Transition - Carnegie Endowment for International Peace",
-      "pubDate": "Thu, 17 Apr 2025 14:50:51 GMT"
-    },
-    {
       "title": "Cuban influencer Amanda Camaraza buys her first house in the United States: \"A dream come true\" - CiberCuba",
       "pubDate": "Sun, 20 Apr 2025 14:03:02 GMT"
     },
@@ -1815,10 +1721,6 @@
   ],
   "time_travel": [
     {
-      "title": "Comic Review: Star Trek \u2013 Lower Decks #6 - Bubbleblabber",
-      "pubDate": "Thu, 17 Apr 2025 13:06:35 GMT"
-    },
-    {
       "title": "Is Now the Time to Buy Airline Stocks, JetBlue, Delta, United Surge Amid US\u2013China Trade War De-Escalation Hopes and Mixed Earnings, New Update For You to Know - Travel And Tour World",
       "pubDate": "Wed, 23 Apr 2025 16:40:27 GMT"
     },
@@ -1859,10 +1761,6 @@
     {
       "title": "Reforming Pentagon Software Practices Key to Countering Threats, Report Finds - National Defense Magazine",
       "pubDate": "Tue, 22 Apr 2025 02:12:46 GMT"
-    },
-    {
-      "title": "Third top Pentagon official suspended in leak investigation - Politico",
-      "pubDate": "Wed, 16 Apr 2025 17:37:41 GMT"
     },
     {
       "title": "As Controversies Pile Up, Trump Allies Increasingly Turn on One Another - Military.com",
@@ -2111,10 +2009,6 @@
   ],
   "us_economy": [
     {
-      "title": "Pre-Tariff Shopping Spree Comes to US GDP\u2019s Rescue - Bloomberg",
-      "pubDate": "Thu, 17 Apr 2025 11:08:09 GMT"
-    },
-    {
       "title": "France Warns: Impact of Firing Fed Chief Powell on Dollar and U.S. Economy - Blockchain News",
       "pubDate": "Sun, 20 Apr 2025 07:13:15 GMT"
     },
@@ -2209,13 +2103,13 @@
     {
       "title": "U.N. predicts slower global economic growth following Trump\u2019s tariffs and trade tensions - MarketWatch",
       "pubDate": "Fri, 16 May 2025 00:03:00 GMT"
+    },
+    {
+      "title": "Trump recession is off the table \u2014 but trouble not over for U.S. economy - MarketWatch",
+      "pubDate": "Sat, 17 May 2025 13:00:00 GMT"
     }
   ],
   "terrorism": [
-    {
-      "title": "How Eco-Localism Differs from Tariff Terrorism - resilience.org",
-      "pubDate": "Thu, 17 Apr 2025 08:43:02 GMT"
-    },
     {
       "title": "Veterans Helping Veterans builds wheelchair ramp for Global War on Terrorism Veteran SFC Dearmon Brock - Jackson County Sentinel",
       "pubDate": "Sat, 19 Apr 2025 05:00:00 GMT"
@@ -2927,6 +2821,10 @@
     {
       "title": "Bruce Springsteen says Trump is running \u2018rogue government\u2019 and \u2018siding with dictators\u2019 - The Guardian",
       "pubDate": "Fri, 16 May 2025 01:30:00 GMT"
+    },
+    {
+      "title": "Audio of Special Counsel Interview Adds to Renewed Debate of Biden\u2019s Fitness as President - The New York Times",
+      "pubDate": "Sat, 17 May 2025 13:21:00 GMT"
     }
   ],
   "brics": [
@@ -2941,6 +2839,10 @@
     {
       "title": "Modi to Make 'State Visit' to Brazil for BRICS Summit; Bilateral With Xi Possible, Putin to Skip - Times Now",
       "pubDate": "Sat, 10 May 2025 15:28:27 GMT"
+    },
+    {
+      "title": "India to showcase power sector achievements at BRICS meet in Brazil next week - MSN",
+      "pubDate": "Sat, 17 May 2025 11:12:06 GMT"
     }
   ],
   "data_privacy": [
