@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump plans to announce US will call Persian Gulf \u2018Arabian Gulf\u2019, officials say - The Guardian",
-      "pubDate": "Wed, 07 May 2025 13:11:00 GMT"
-    },
-    {
       "title": "Trump wants to limit kids to three dolls and five pencils each. He's right. | Opinion - USA Today",
       "pubDate": "Wed, 07 May 2025 17:21:58 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump rips \u2018hapless and cognitively impaired\u2019 Biden after Hur audio released - The Hill",
       "pubDate": "Sat, 17 May 2025 14:23:00 GMT"
+    },
+    {
+      "title": "Trump Suggests Supreme Court Is \u2018Illegally\u2019 Blocking His Lawless Deportations - Rolling Stone",
+      "pubDate": "Sat, 17 May 2025 21:12:25 GMT"
     }
   ],
   "ukraine": [
@@ -627,10 +627,6 @@
   ],
   "united_nations": [
     {
-      "title": "HNPW2025 United Nations Humanitarian Affairs Side Event - openPR.com",
-      "pubDate": "Thu, 17 Apr 2025 20:46:00 GMT"
-    },
-    {
       "title": "\u2018The World Is Moving Forward\u2019: UN Chief Says Fossil Fuel Interests and Hostile Governments Can\u2019t Stop Clean Energy Future - EcoWatch",
       "pubDate": "Thu, 24 Apr 2025 01:13:21 GMT"
     },
@@ -684,10 +680,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "CrowdStrike To Cut 5% Of Workforce. CEO Points To AI Productivity Gains. - Investor's Business Daily",
-      "pubDate": "Wed, 07 May 2025 13:57:00 GMT"
-    },
     {
       "title": "Mistral Debuts Corporate Chatbot Amid Three-Fold Rise in Revenue - PYMNTS.com",
       "pubDate": "Wed, 07 May 2025 17:02:49 GMT"
@@ -843,21 +835,13 @@
     {
       "title": "How Microsoft's AI Helped Israeli Military In Its War Against Gaza - NDTV",
       "pubDate": "Sat, 17 May 2025 14:36:53 GMT"
+    },
+    {
+      "title": "U. researchers unveil AI-powered tool for disease prediction with 'unprecedented accuracy' - KSL News",
+      "pubDate": "Sat, 17 May 2025 21:04:47 GMT"
     }
   ],
   "public_health": [
-    {
-      "title": "Why homelessness became the focus of a city director hearing - Mirror Indy",
-      "pubDate": "Thu, 17 Apr 2025 19:32:38 GMT"
-    },
-    {
-      "title": "Trump Administration Proposes Sharp Budget Cuts for H.H.S. - The New York Times",
-      "pubDate": "Thu, 17 Apr 2025 20:16:21 GMT"
-    },
-    {
-      "title": "Concurrent Norovirus Outbreaks Associated with Consumption... - Centers for Disease Control and Prevention (.gov)",
-      "pubDate": "Thu, 17 Apr 2025 17:03:50 GMT"
-    },
     {
       "title": "Measles confirmed in traveler visiting Missouri - KCTV",
       "pubDate": "Fri, 18 Apr 2025 17:21:00 GMT"
@@ -1369,10 +1353,6 @@
   ],
   "solar_power": [
     {
-      "title": "East Union supervisors schedule solar hearings for April 24 - Hazleton Standard Speaker",
-      "pubDate": "Thu, 17 Apr 2025 18:40:56 GMT"
-    },
-    {
       "title": "World4Solar approved as GSA Schedule manufacturer - Solar Builder",
       "pubDate": "Mon, 28 Apr 2025 15:24:44 GMT"
     },
@@ -1567,20 +1547,12 @@
   ],
   "health_care": [
     {
-      "title": "Health care AI stuck in the waiting room - Politico",
-      "pubDate": "Thu, 17 Apr 2025 18:00:00 GMT"
-    },
-    {
       "title": "Smart insoles offer real time gait tracking and early health warnings - News-Medical",
       "pubDate": "Fri, 18 Apr 2025 02:34:00 GMT"
     },
     {
       "title": "THOMPSON, DISABILITY LEADERS, PATIENTS WARN OF DEVASTATING MEDICAID CUTS - Representative Mike Thompson | (.gov)",
       "pubDate": "Fri, 18 Apr 2025 00:43:41 GMT"
-    },
-    {
-      "title": "Shapiro Administration Highlights Budget Investments in Rural Health to Improve Services, Boost Workforce at the First Western Pennsylvania Regional Rural Health Summit - Commonwealth of Pennsylvania (.gov)",
-      "pubDate": "Thu, 17 Apr 2025 16:27:02 GMT"
     },
     {
       "title": "Dave Eldredge, MSW, LCSW, Named Executive Director of Huntsman Mental Health Institute - University of Utah Health",
@@ -1608,10 +1580,6 @@
     }
   ],
   "united_states": [
-    {
-      "title": "More than 1,000 international students and graduates in the US have had their visas revoked or statuses terminated - CNN",
-      "pubDate": "Thu, 17 Apr 2025 17:56:00 GMT"
-    },
     {
       "title": "US measles total climbs to 800 cases, 10 outbreaks - CIDRAP",
       "pubDate": "Fri, 18 Apr 2025 18:25:52 GMT"
@@ -1662,10 +1630,6 @@
     }
   ],
   "health": [
-    {
-      "title": "Brockton schools awarded $100K to support mental health and wellness. How they'll spend it - Enterprise News",
-      "pubDate": "Thu, 17 Apr 2025 17:40:27 GMT"
-    },
     {
       "title": "RFK Jr. Struggles to Navigate Frustrated Supporters and a Demanding Boss - U.S. News & World Report",
       "pubDate": "Fri, 18 Apr 2025 15:13:03 GMT"
@@ -2731,6 +2695,10 @@
     {
       "title": "Mistral AI Models Fail Key Safety Tests, Report Finds - BankInfoSecurity",
       "pubDate": "Fri, 09 May 2025 17:37:27 GMT"
+    },
+    {
+      "title": "AI Security Frameworks - Ensuring Trust in Machine Learning - CybersecurityNews",
+      "pubDate": "Sat, 17 May 2025 19:00:00 GMT"
     }
   ],
   "finance": [
@@ -2825,6 +2793,10 @@
     {
       "title": "Audio of Special Counsel Interview Adds to Renewed Debate of Biden\u2019s Fitness as President - The New York Times",
       "pubDate": "Sat, 17 May 2025 13:21:00 GMT"
+    },
+    {
+      "title": "\"Good God. This Is Pure Evil\": 26 Very Harsh But Very True Tweets About American Politics This Week - Yahoo",
+      "pubDate": "Sat, 17 May 2025 16:55:38 GMT"
     }
   ],
   "brics": [
@@ -2843,6 +2815,10 @@
     {
       "title": "India to showcase power sector achievements at BRICS meet in Brazil next week - MSN",
       "pubDate": "Sat, 17 May 2025 11:12:06 GMT"
+    },
+    {
+      "title": "Colombia applies to join China-led Brics bank amid shift from US ties - Business Standard",
+      "pubDate": "Sat, 17 May 2025 17:49:29 GMT"
     }
   ],
   "data_privacy": [
