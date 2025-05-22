@@ -1,82 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump wants to limit kids to three dolls and five pencils each. He's right. | Opinion - USA Today",
-      "pubDate": "Wed, 07 May 2025 17:21:58 GMT"
-    },
-    {
-      "title": "Trump puts Fed\u2019s Powell in a political bind with push to cut rates - Politico",
-      "pubDate": "Wed, 07 May 2025 20:48:15 GMT"
-    },
-    {
-      "title": "Trump is set to announce his first trade deal since his tariffs sent markets reeling - NPR",
-      "pubDate": "Thu, 08 May 2025 03:06:42 GMT"
-    },
-    {
-      "title": "Trump says he\u2019ll decide on name of \u2018Persian Gulf\u2019 on Middle East visit - Al Jazeera",
-      "pubDate": "Thu, 08 May 2025 01:53:44 GMT"
-    },
-    {
-      "title": "Trump will announce a \u2018major trade deal\u2019 with the UK Thursday - CNN",
-      "pubDate": "Thu, 08 May 2025 02:25:00 GMT"
-    },
-    {
-      "title": "Trump news at a glance: Vance says Russia not being realistic on Ukraine, Trump says he may be right - The Guardian",
-      "pubDate": "Thu, 08 May 2025 02:30:40 GMT"
-    },
-    {
-      "title": "Trump says he hopes India and Pakistan stop now after going 'tit-for-tat' - Reuters",
-      "pubDate": "Thu, 08 May 2025 01:08:00 GMT"
-    },
-    {
-      "title": "Why Trump isn\u2019t leading an emergency effort to ease the India-Pakistan crisis - CNN",
-      "pubDate": "Thu, 08 May 2025 06:06:00 GMT"
-    },
-    {
-      "title": "Trump announces \u2018very large\u2019 trade deal with UK, final details TBD - Politico",
-      "pubDate": "Thu, 08 May 2025 15:12:58 GMT"
-    },
-    {
-      "title": "Trump says it is 'such an honor' that Vatican elected first U.S. pope - CNBC",
-      "pubDate": "Thu, 08 May 2025 17:39:10 GMT"
-    },
-    {
-      "title": "Trump\u2019s plan to increase tax on rich could hit most U.S. businesses - MarketWatch",
-      "pubDate": "Thu, 08 May 2025 21:04:00 GMT"
-    },
-    {
-      "title": "Trump Announces UK Trade Deal, but Leaves 10% Tariff in Place: Live Updates - The New York Times",
-      "pubDate": "Fri, 09 May 2025 03:39:00 GMT"
-    },
-    {
-      "title": "Trump\u2019s tax cuts are set to shrink after GOP flinches at deep spending cuts - Politico",
-      "pubDate": "Fri, 09 May 2025 08:45:00 GMT"
-    },
-    {
-      "title": "Trump heads to the Middle East with oil, trade and nuclear ambitions on the table - CNBC",
-      "pubDate": "Fri, 09 May 2025 14:35:03 GMT"
-    },
-    {
-      "title": "Trump's float of a tax hike for the wealthy quickly runs into GOP resistance - NBC News",
-      "pubDate": "Fri, 09 May 2025 20:05:06 GMT"
-    },
-    {
-      "title": "Trump floats raising taxes on the rich to pay for his sweeping tax and spending cuts package - CNN",
-      "pubDate": "Fri, 09 May 2025 22:15:00 GMT"
-    },
-    {
-      "title": "Trump administration considering suspending habeas corpus - BBC",
-      "pubDate": "Sat, 10 May 2025 08:50:44 GMT"
-    },
-    {
-      "title": "Trump Is Obsessed With His Last Campaign: The Midterms - Politico",
-      "pubDate": "Sat, 10 May 2025 14:00:00 GMT"
-    },
-    {
-      "title": "Donald Trump's Legal Woes Deepen With Major Lawsuit From 15 States - Newsweek",
-      "pubDate": "Sat, 10 May 2025 20:31:46 GMT"
-    },
-    {
       "title": "Trump health cuts create \u2018real danger\u2019 around disease outbreaks, workers warn - The Guardian",
       "pubDate": "Sun, 11 May 2025 09:01:00 GMT"
     },
@@ -159,29 +83,85 @@
     {
       "title": "Trump Suggests Supreme Court Is \u2018Illegally\u2019 Blocking His Lawless Deportations - Rolling Stone",
       "pubDate": "Sat, 17 May 2025 21:12:25 GMT"
+    },
+    {
+      "title": "Trump warns Walmart against raising prices, tells company to \"eat the tariffs\" - CBS News",
+      "pubDate": "Sun, 18 May 2025 01:12:34 GMT"
+    },
+    {
+      "title": "Trump lowered tariffs on China. Here\u2019s why that won\u2019t spare Americans from price hikes and shortages - CNN",
+      "pubDate": "Sun, 18 May 2025 09:00:00 GMT"
+    },
+    {
+      "title": "US policy shifts on Syria, Yemen, Iran \u2013 but not Israel - Al Jazeera",
+      "pubDate": "Sun, 18 May 2025 14:32:04 GMT"
+    },
+    {
+      "title": "The US factory that lays bare the contradiction in Trump's policy - BBC",
+      "pubDate": "Sun, 18 May 2025 21:55:21 GMT"
+    },
+    {
+      "title": "Trump\u2019s tax and immigration bill clears hurdle after late-night vote - The Washington Post",
+      "pubDate": "Mon, 19 May 2025 03:36:01 GMT"
+    },
+    {
+      "title": "Trump DOJ changes to civil rights division spark mass exodus of attorneys - NPR",
+      "pubDate": "Mon, 19 May 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Trump takes on Walmart over tariff price hikes, setting up potential showdown with retail industry - NBC News",
+      "pubDate": "Mon, 19 May 2025 14:18:19 GMT"
+    },
+    {
+      "title": "Zelensky says US should not distance itself from talks, as Russia says no timeline agreed - BBC",
+      "pubDate": "Mon, 19 May 2025 20:06:01 GMT"
+    },
+    {
+      "title": "Trump says Russia, Ukraine agree to immediate ceasefire talks, Kremlin offers no timeframe - Reuters",
+      "pubDate": "Tue, 20 May 2025 01:34:34 GMT"
+    },
+    {
+      "title": "Trump signs bill outlawing \u2018revenge porn\u2019 - Al Jazeera",
+      "pubDate": "Tue, 20 May 2025 05:53:01 GMT"
+    },
+    {
+      "title": "Trump Heads to Capitol Hill to Rally GOP Support For Budget Bill: Live Updates - Newsweek",
+      "pubDate": "Tue, 20 May 2025 15:19:23 GMT"
+    },
+    {
+      "title": "Trump unveils ambitious and expensive plans for 'Golden Dome' missile defense - NPR",
+      "pubDate": "Tue, 20 May 2025 21:09:07 GMT"
+    },
+    {
+      "title": "Official Pushed to Rewrite Intelligence So It Could Not Be \u2018Used Against\u2019 Trump - The New York Times",
+      "pubDate": "Wed, 21 May 2025 02:49:08 GMT"
+    },
+    {
+      "title": "Under attack by Trump, South Africa's Ramaphosa responds with trade deal offer - Reuters",
+      "pubDate": "Wed, 21 May 2025 04:12:00 GMT"
+    },
+    {
+      "title": "Live updates: South Africa\u2019s leader visits the White House in an effort to salvage relationship with Trump - AP News",
+      "pubDate": "Wed, 21 May 2025 15:05:00 GMT"
+    },
+    {
+      "title": "Trump meets with GOP holdouts as they threaten to stall sweeping agenda bill - CNN",
+      "pubDate": "Wed, 21 May 2025 21:39:00 GMT"
+    },
+    {
+      "title": "Key committee advances Trump's sweeping policy bill to House floor after meeting for almost 22 hours - CNN",
+      "pubDate": "Thu, 22 May 2025 03:21:00 GMT"
+    },
+    {
+      "title": "World leaders have a huge new problem: Trump\u2019s Oval Office smackdowns - CNN",
+      "pubDate": "Thu, 22 May 2025 04:08:00 GMT"
+    },
+    {
+      "title": "Washington DC shooting: suspect in deaths of two Israeli embassy staff is believed to have acted alone, says US attorney general \u2013 latest - The Guardian",
+      "pubDate": "Thu, 22 May 2025 15:12:48 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Rubio says Trump admin may soon \"move on\" from Ukraine-Russia peace efforts: \"It's not our war\" - CBS News",
-      "pubDate": "Fri, 18 Apr 2025 13:08:34 GMT"
-    },
-    {
-      "title": "Ukraine sanctions 3 Chinese companies as tensions between Kyiv and Beijing rise - NPR",
-      "pubDate": "Fri, 18 Apr 2025 15:45:27 GMT"
-    },
-    {
-      "title": "Ukraine and US ink memorandum on rare earths - politico.eu",
-      "pubDate": "Fri, 18 Apr 2025 09:38:00 GMT"
-    },
-    {
-      "title": "Vladimir Putin announces \u2018Easter truce\u2019 in Russia-Ukraine war, to last till midnight Sunday - Hindustan Times",
-      "pubDate": "Sat, 19 Apr 2025 14:12:25 GMT"
-    },
-    {
-      "title": "Ukraine's Catholics express hurt over late Pope's war stance - Reuters",
-      "pubDate": "Mon, 21 Apr 2025 23:15:25 GMT"
-    },
     {
       "title": "Russian Offensive Campaign Assessment, April 22, 2025 - Institute for the Study of War",
       "pubDate": "Wed, 23 Apr 2025 01:30:09 GMT"
@@ -269,17 +249,17 @@
     {
       "title": "Ukraine's Zelenskiy speaks to new Pope Leo about children abducted by Russia - Reuters",
       "pubDate": "Mon, 12 May 2025 09:24:51 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Rubio suggests Vatican as future peace talk venue as Trump set to call Putin over \u2018bloodbath\u2019 - The Guardian",
+      "pubDate": "Sun, 18 May 2025 00:25:00 GMT"
+    },
+    {
+      "title": "Aide to former Ukrainian president shot dead in Madrid - Sky News",
+      "pubDate": "Wed, 21 May 2025 09:45:01 GMT"
     }
   ],
   "recession": [
-    {
-      "title": "Trade tensions and rising uncertainty drag global economy towards recession - UN Trade and Development (UNCTAD)",
-      "pubDate": "Fri, 25 Apr 2025 15:49:00 GMT"
-    },
-    {
-      "title": "Trump Avoids High-Speed Train Wreck, but Economy Sliding Toward Recession - TheStreet Pro",
-      "pubDate": "Mon, 28 Apr 2025 13:45:00 GMT"
-    },
     {
       "title": "Marko Kolanovic warns S&P 500 could fall to high 3,000s if recession hits - Investing.com",
       "pubDate": "Wed, 30 Apr 2025 13:24:56 GMT"
@@ -375,6 +355,70 @@
     {
       "title": "Goldman Sachs resets interest rate cut forecast, recession outlook - TheStreet",
       "pubDate": "Fri, 16 May 2025 00:07:00 GMT"
+    },
+    {
+      "title": "\u2018What we\u2019re doing is very big\u2019: Trump says he won\u2019t rule out a recession \u2014 here are 3 simple strategies to help keep your finances safe in a downturn - MSN",
+      "pubDate": "Sun, 18 May 2025 15:50:36 GMT"
+    },
+    {
+      "title": "Michael Burry Makes Major Portfolio Shift, Holding Only One Asset He Deems 'Recession-Proof' - Benzinga",
+      "pubDate": "Sun, 18 May 2025 17:21:18 GMT"
+    },
+    {
+      "title": "The Return of Recession Pop and Why It\u2019s Needed Now More Than Ever - The American River Current",
+      "pubDate": "Mon, 19 May 2025 02:31:50 GMT"
+    },
+    {
+      "title": "Why tariffs lead to recession, even after Trump caved to China | Opinion - IndyStar",
+      "pubDate": "Mon, 19 May 2025 09:33:25 GMT"
+    },
+    {
+      "title": "Emergency savings are crucial in a recession. Here's the dollar figure to aim for. - USA Today",
+      "pubDate": "Mon, 19 May 2025 15:12:37 GMT"
+    },
+    {
+      "title": "Gen Z More Worried Than Millennials About Losing Their Home in a Recession - Newsweek",
+      "pubDate": "Mon, 19 May 2025 21:45:57 GMT"
+    },
+    {
+      "title": "White House study raises alarm: 9 million Americans could lose health insurance in 'major' recession if... - The Economic Times",
+      "pubDate": "Tue, 20 May 2025 08:34:20 GMT"
+    },
+    {
+      "title": "Billionaire Ken Fisher Warns Trump Tariffs Could Trigger Recession - MSN",
+      "pubDate": "Tue, 20 May 2025 13:38:14 GMT"
+    },
+    {
+      "title": "Souring sentiment signals recession: Fitch - Investment Executive",
+      "pubDate": "Tue, 20 May 2025 19:08:43 GMT"
+    },
+    {
+      "title": "Japan's Exports Slow as US Tariffs Bite, Risking Recession - Financial Post",
+      "pubDate": "Wed, 21 May 2025 01:48:09 GMT"
+    },
+    {
+      "title": "Mary Daly and Other Fed Presidents Warn Don\u2019t Expect Recession or Rate Cuts - Barron's",
+      "pubDate": "Wed, 21 May 2025 09:32:00 GMT"
+    },
+    {
+      "title": "U.S. Recession Odds Fall to 35% from 45%, Shows Reuters Economist Poll - TipRanks",
+      "pubDate": "Wed, 21 May 2025 14:01:25 GMT"
+    },
+    {
+      "title": "Homebuyers see silver lining in a potential recession, viewing it as buying opportunity - Fox Business",
+      "pubDate": "Wed, 21 May 2025 20:31:00 GMT"
+    },
+    {
+      "title": "How economists (and TikTok) know if a recession is coming : Planet Money - NPR",
+      "pubDate": "Wed, 21 May 2025 22:03:41 GMT"
+    },
+    {
+      "title": "VIDEO: US recession more likely than not, says PwC US chief economist - Australian Broadcasting Corporation",
+      "pubDate": "Thu, 22 May 2025 07:52:24 GMT"
+    },
+    {
+      "title": "5 Under-the-Radar Recession Indicators Actually Worth Watching - Politico",
+      "pubDate": "Thu, 22 May 2025 14:00:00 GMT"
     }
   ],
   "russia": [
@@ -505,33 +549,33 @@
     {
       "title": "Russia says forces capture two settlements, Ukraine says fighting continues throughout front - Reuters",
       "pubDate": "Fri, 16 May 2025 00:46:00 GMT"
+    },
+    {
+      "title": "9 killed in Russian drone attack on Ukrainian bus after peace talks - ABC News",
+      "pubDate": "Sun, 18 May 2025 02:56:09 GMT"
+    },
+    {
+      "title": "Russia detains Greek oil tanker after it departs Estonian port - Al Jazeera",
+      "pubDate": "Sun, 18 May 2025 17:23:57 GMT"
+    },
+    {
+      "title": "As Trump Prepares to Speak With Putin, Here\u2019s Where Ukraine Cease-Fire Talks Stand - The New York Times",
+      "pubDate": "Mon, 19 May 2025 04:49:51 GMT"
+    },
+    {
+      "title": "EU, Britain go ahead with new Russia sanctions without waiting for Trump - Reuters",
+      "pubDate": "Tue, 20 May 2025 14:12:59 GMT"
+    },
+    {
+      "title": "Russia\u2019s Putin visits Kursk as Ukraine says six killed in missile strike - Al Jazeera",
+      "pubDate": "Wed, 21 May 2025 09:23:34 GMT"
+    },
+    {
+      "title": "Exclusive: Ukraine pitches tougher Russia sanctions plan to EU as US wavers - Reuters",
+      "pubDate": "Wed, 21 May 2025 13:47:02 GMT"
     }
   ],
   "israel": [
-    {
-      "title": "Israel-Gaza war: Hamas formally rejects latest ceasefire offer - BBC",
-      "pubDate": "Fri, 18 Apr 2025 00:43:11 GMT"
-    },
-    {
-      "title": "Erdo\u011fan Sets His Sights on Israel - The Atlantic",
-      "pubDate": "Sat, 19 Apr 2025 11:30:00 GMT"
-    },
-    {
-      "title": "Israeli strikes on Gaza have killed more than 90 people in 48 hours, Gaza Health Ministry says - CBS News",
-      "pubDate": "Sat, 19 Apr 2025 20:31:59 GMT"
-    },
-    {
-      "title": "Netanyahu vows to continue war in Gaza despite growing opposition at home - CNN",
-      "pubDate": "Sat, 19 Apr 2025 20:48:00 GMT"
-    },
-    {
-      "title": "Iran warns no nuclear deal unless Israel is 'restrained' as talks with U.S. end in Rome - Haaretz",
-      "pubDate": "Sat, 19 Apr 2025 19:54:00 GMT"
-    },
-    {
-      "title": "New Israel-Gaza ceasefire plan proposed, Hamas source says - BBC",
-      "pubDate": "Tue, 22 Apr 2025 07:05:48 GMT"
-    },
     {
       "title": "Protestors in Harvard Square demand end to U.S. support for Israel - WCVB",
       "pubDate": "Sat, 26 Apr 2025 17:45:00 GMT"
@@ -593,6 +637,10 @@
     {
       "title": "Trump claims prices are down. Here\u2019s what the data actually shows. - The Washington Post",
       "pubDate": "Fri, 09 May 2025 17:00:00 GMT"
+    },
+    {
+      "title": "Exclusive: Cleveland Fed official's three scenarios for tariff-hit economy - Axios",
+      "pubDate": "Tue, 20 May 2025 15:45:46 GMT"
     }
   ],
   "cybersecurity": [
@@ -681,82 +729,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Mistral Debuts Corporate Chatbot Amid Three-Fold Rise in Revenue - PYMNTS.com",
-      "pubDate": "Wed, 07 May 2025 17:02:49 GMT"
-    },
-    {
-      "title": "Apple Eyes Adding AI Search to Replace Google, Ending Tech Giant Partnership - PYMNTS.com",
-      "pubDate": "Wed, 07 May 2025 20:28:57 GMT"
-    },
-    {
-      "title": "AI version of dead Arizona man addresses killer during sentencing - BBC",
-      "pubDate": "Wed, 07 May 2025 22:27:48 GMT"
-    },
-    {
-      "title": "Steelers\u2019 courtship of Aaron Rodgers is more \u2018complex\u2019 than artificial intelligence, part-owner says - WFIN",
-      "pubDate": "Wed, 07 May 2025 23:09:45 GMT"
-    },
-    {
-      "title": "Heartland Gen Zers Feel Unprepared to Use AI at Work - Gallup News",
-      "pubDate": "Thu, 08 May 2025 04:20:26 GMT"
-    },
-    {
-      "title": "Report: OpenAI Aims to Reduce Revenue Sharing With Microsoft - PYMNTS.com",
-      "pubDate": "Thu, 08 May 2025 00:56:15 GMT"
-    },
-    {
-      "title": "AI maturity in financial services: lessons from the most successful firms - imd.org",
-      "pubDate": "Thu, 08 May 2025 07:27:28 GMT"
-    },
-    {
-      "title": "WATCH LIVE: OpenAI co-founder Sam Altman testifies on AI competition in Senate hearing - PBS",
-      "pubDate": "Thu, 08 May 2025 13:56:43 GMT"
-    },
-    {
-      "title": "AI execs say US must increase exports, improve infrastructure to beat China - Reuters",
-      "pubDate": "Thu, 08 May 2025 17:14:16 GMT"
-    },
-    {
-      "title": "OpenAI chief Sam Altman: US barely ahead of China in artificial intelligence arms race - Fox Business",
-      "pubDate": "Thu, 08 May 2025 19:52:00 GMT"
-    },
-    {
-      "title": "Researchers try AI to help determine how well a patient has aged - WBUR",
-      "pubDate": "Thu, 08 May 2025 22:34:58 GMT"
-    },
-    {
-      "title": "3 Reasons Nvidia Stock Is Still a Top Artificial Intelligence Buy Right Now - Nasdaq",
-      "pubDate": "Fri, 09 May 2025 08:55:00 GMT"
-    },
-    {
-      "title": "Trump AI chip policy to scrap Biden\u2019s export controls - AI News",
-      "pubDate": "Fri, 09 May 2025 08:05:32 GMT"
-    },
-    {
-      "title": "'Murder prediction' algorithms echo some of Stalin's most horrific policies \u2014 governments are treading a very dangerous line in perusing them - Live Science",
-      "pubDate": "Fri, 09 May 2025 15:08:07 GMT"
-    },
-    {
-      "title": "AI System Can Predict Cancer Survival Prognosis Better Than Doctors, Researchers Say - PYMNTS.com",
-      "pubDate": "Fri, 09 May 2025 19:29:16 GMT"
-    },
-    {
-      "title": "Memphis Command Center Uses AI to Enhance Emergency Response - GovTech",
-      "pubDate": "Fri, 09 May 2025 23:00:27 GMT"
-    },
-    {
-      "title": "AI firms warned to calculate threat of super intelligence or risk it escaping human control - The Guardian",
-      "pubDate": "Sat, 10 May 2025 11:29:00 GMT"
-    },
-    {
-      "title": "Wave of job losses hits tech sector as AI makes human roles more dispensable - TechRadar",
-      "pubDate": "Sat, 10 May 2025 17:32:00 GMT"
-    },
-    {
-      "title": "Artificial intelligence voice gender, gender role congruity, and trust in automated vehicles - Nature",
-      "pubDate": "Sun, 11 May 2025 03:10:57 GMT"
-    },
-    {
       "title": "Vyvo COO: AI's Next Step - Becoming a Tool for Self-Awareness - Bitcoin.com News",
       "pubDate": "Sun, 11 May 2025 06:30:50 GMT"
     },
@@ -839,21 +811,85 @@
     {
       "title": "U. researchers unveil AI-powered tool for disease prediction with 'unprecedented accuracy' - KSL News",
       "pubDate": "Sat, 17 May 2025 21:04:47 GMT"
+    },
+    {
+      "title": "EU Parliament: more AI to combat VAT fraud - VATCalc",
+      "pubDate": "Sat, 17 May 2025 23:00:22 GMT"
+    },
+    {
+      "title": "Experienced defense professional to discuss artificial intelligence in industry and government - Today's Medical Developments",
+      "pubDate": "Sun, 18 May 2025 05:32:19 GMT"
+    },
+    {
+      "title": "Musk\u2019s AI bot Grok blames its Holocaust scepticism on \u2018programming error\u2019 - The Guardian",
+      "pubDate": "Sun, 18 May 2025 14:45:00 GMT"
+    },
+    {
+      "title": "Why Apple Still Hasn\u2019t Cracked AI - Bloomberg",
+      "pubDate": "Sun, 18 May 2025 21:00:28 GMT"
+    },
+    {
+      "title": "Why Palmer Luckey thinks AI-powered, autonomous weapons are the future of warfare - CBS News",
+      "pubDate": "Sun, 18 May 2025 23:00:00 GMT"
+    },
+    {
+      "title": "China's Next-Level AI Could Overtake US: New Report - Newsweek",
+      "pubDate": "Mon, 19 May 2025 09:00:03 GMT"
+    },
+    {
+      "title": "Scholars explain how humans can hold the line against AI hype, and why it\u2019s necessary - GeekWire",
+      "pubDate": "Mon, 19 May 2025 15:10:40 GMT"
+    },
+    {
+      "title": "Nvidia plans to sell tech to speed AI chip communication - Reuters",
+      "pubDate": "Mon, 19 May 2025 20:17:55 GMT"
+    },
+    {
+      "title": "Arm Sets Sights on Intel\u2019s Turf With AI-Powered PC Push - PYMNTS.com",
+      "pubDate": "Mon, 19 May 2025 23:35:15 GMT"
+    },
+    {
+      "title": "AI poses a bigger threat to women\u2019s work, than men's, report says - NBC News",
+      "pubDate": "Tue, 20 May 2025 09:31:31 GMT"
+    },
+    {
+      "title": "How Artificial Intelligence Is Re-Shaping Litigation - The National Law Review",
+      "pubDate": "Tue, 20 May 2025 13:56:08 GMT"
+    },
+    {
+      "title": "Google I/O: Artificial Intelligence To Rule The Day With Gemini, AI Agents - Investor's Business Daily",
+      "pubDate": "Tue, 20 May 2025 16:50:00 GMT"
+    },
+    {
+      "title": "Utah AI Policy Office Director: \u2018We\u2019re Just Getting Started\u2019 - GovTech",
+      "pubDate": "Tue, 20 May 2025 23:16:45 GMT"
+    },
+    {
+      "title": "3 Top Artificial Intelligence (AI) Stocks Ready for a Bull Run - Yahoo Finance",
+      "pubDate": "Wed, 21 May 2025 08:52:00 GMT"
+    },
+    {
+      "title": "A new AI-based weather tool surpasses current forecasts - Science News",
+      "pubDate": "Wed, 21 May 2025 15:00:00 GMT"
+    },
+    {
+      "title": "OpenAI Acquires Former Apple Design Chief\u2019s AI Device Startup - PYMNTS.com",
+      "pubDate": "Wed, 21 May 2025 19:43:40 GMT"
+    },
+    {
+      "title": "How teachers are using Artificial Intelligence, and why one student says it's not fair - WPFO",
+      "pubDate": "Wed, 21 May 2025 22:14:31 GMT"
+    },
+    {
+      "title": "54% of US Workers Wary of GenAI\u2019s Impact on Jobs, Report Finds - PYMNTS.com",
+      "pubDate": "Thu, 22 May 2025 08:03:59 GMT"
+    },
+    {
+      "title": "Melania Trump releases audiobook of memoir created with artificial intelligence - ABC News",
+      "pubDate": "Thu, 22 May 2025 12:45:00 GMT"
     }
   ],
   "public_health": [
-    {
-      "title": "Measles confirmed in traveler visiting Missouri - KCTV",
-      "pubDate": "Fri, 18 Apr 2025 17:21:00 GMT"
-    },
-    {
-      "title": "Vaccination rates show some Southland districts \u2018extremely vulnerable\u2019 to measles outbreaks - Chicago Tribune",
-      "pubDate": "Fri, 18 Apr 2025 18:40:57 GMT"
-    },
-    {
-      "title": "CDC Reviews Vaccine Guidelines Under RFK Jr.: What to Know - Healthline",
-      "pubDate": "Mon, 21 Apr 2025 19:53:18 GMT"
-    },
     {
       "title": "Funding cut for landmark study of women's health - NPR",
       "pubDate": "Wed, 23 Apr 2025 22:00:51 GMT"
@@ -876,10 +912,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Sell USA? Why Trump's tariffs may be sparking a historic storm on Wall Street - KUOW",
-      "pubDate": "Mon, 21 Apr 2025 13:36:56 GMT"
-    },
     {
       "title": "Financial Services Roundup: Market Talk - WSJ",
       "pubDate": "Wed, 23 Apr 2025 21:02:00 GMT"
@@ -939,6 +971,26 @@
     {
       "title": "Stock Market Live: Nifty, Sensex Plummet Over 1% At Open As Tensions Between India & Pakistan Rise - NDTV Profit",
       "pubDate": "Fri, 09 May 2025 03:54:13 GMT"
+    },
+    {
+      "title": "Investors Await Another Monday Jolt After Moody\u2019s Downgrades US - Yahoo Finance",
+      "pubDate": "Sun, 18 May 2025 19:23:06 GMT"
+    },
+    {
+      "title": "Nvidia stock wavers as market turmoil eclipses AI chip announcements - Yahoo Finance",
+      "pubDate": "Mon, 19 May 2025 15:40:13 GMT"
+    },
+    {
+      "title": "Message from bond market: US financing needs can roil equity markets - Business Standard",
+      "pubDate": "Tue, 20 May 2025 17:37:23 GMT"
+    },
+    {
+      "title": "Legendary Investor Jeremy Grantham Warns Of 50% Stock Market Crash - Benzinga",
+      "pubDate": "Tue, 20 May 2025 22:56:24 GMT"
+    },
+    {
+      "title": "Stocks to Watch: Dow Closes 800 Points Lower; Treasury Yields Rise in Global Bond Selloff \u2014 Live Updates - WSJ",
+      "pubDate": "Thu, 22 May 2025 02:53:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -952,14 +1004,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "Guest columnist Ben Grosscup: Anti-Trump resistance can\u2019t be \u2018hands off\u2019 on militarism - Greenfield Recorder",
-      "pubDate": "Sun, 20 Apr 2025 16:00:27 GMT"
-    },
-    {
-      "title": "What America Gets Wrong About the AI Race - Foreign Affairs",
-      "pubDate": "Fri, 18 Apr 2025 04:00:00 GMT"
-    },
     {
       "title": "The beginning of the end of unshakeable support: Why US public opinion is turning away from Israel - Middle East Monitor",
       "pubDate": "Tue, 06 May 2025 15:00:00 GMT"
@@ -983,6 +1027,38 @@
     {
       "title": "US senators seek to block Trump\u2019s UAE, Qatar defence deals - Al Jazeera",
       "pubDate": "Fri, 16 May 2025 05:35:22 GMT"
+    },
+    {
+      "title": "What Trump's Middle East tour means for U.S. foreign policy | The Sunday Magazine | On Demand | CBC Listen - CBC",
+      "pubDate": "Sun, 18 May 2025 15:13:07 GMT"
+    },
+    {
+      "title": "Pence: \u2018I\u2019ve never been a fan of American presidents criticizing America on foreign soil\u2019 - Politico",
+      "pubDate": "Sun, 18 May 2025 17:23:34 GMT"
+    },
+    {
+      "title": "Mike Pence Pushes Back After Trump Slams US Foreign Policy, Praises Saudi Crown Prince Mohammed Bin Salman: 'I've Never Been A Fan Of Presidents Criticizing America Abroad' - Benzinga",
+      "pubDate": "Mon, 19 May 2025 10:24:56 GMT"
+    },
+    {
+      "title": "Rubio defends Trump foreign policy as Democratic senators ask pointed questions - Los Angeles Times",
+      "pubDate": "Tue, 20 May 2025 19:05:19 GMT"
+    },
+    {
+      "title": "VIDEO: Senator Rosen Blasts Secretary Rubio for Complicity in Trump Administration\u2019s Disastrous Foreign Policies - Jacky Rosen (.gov)",
+      "pubDate": "Tue, 20 May 2025 22:04:41 GMT"
+    },
+    {
+      "title": "\u201cBrazil is not so vulnerable to U.S. pressure,\u201d ex-IMF official says - Valor International",
+      "pubDate": "Wed, 21 May 2025 11:21:54 GMT"
+    },
+    {
+      "title": "Rubio tells lawmakers that U.S. foreign policy should benefit America first - Washington Times",
+      "pubDate": "Wed, 21 May 2025 18:36:10 GMT"
+    },
+    {
+      "title": "Under Trump, U.S. Foreign Policy Stopped Preaching and Started Performing - Modern Ghana",
+      "pubDate": "Thu, 22 May 2025 13:39:25 GMT"
     }
   ],
   "machine_learning": [
@@ -1011,16 +1087,6 @@
       "pubDate": "Fri, 09 May 2025 18:00:00 GMT"
     }
   ],
-  "data_science": [
-    {
-      "title": "The Coolest Data Analytics Companies Of The 2025 Big Data 100 - CRN Magazine",
-      "pubDate": "Mon, 21 Apr 2025 14:00:00 GMT"
-    },
-    {
-      "title": "Emerging standards: Model Context Protocol - Data Science Central",
-      "pubDate": "Mon, 21 Apr 2025 10:36:40 GMT"
-    }
-  ],
   "cloud_computing": [
     {
       "title": "Nemetschek Group partners with Google Cloud to accelerate innovation - Scientific Computing World",
@@ -1028,78 +1094,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "FirstFT: Shein considers US restructuring as trade war threatens London IPO plans - Financial Times",
-      "pubDate": "Wed, 30 Apr 2025 22:15:17 GMT"
-    },
-    {
-      "title": "Europe growth outlook slumps amid trade war - Northwest Arkansas Democrat-Gazette",
-      "pubDate": "Thu, 01 May 2025 06:46:00 GMT"
-    },
-    {
-      "title": "The Trade War that Restructures What Sells and Why - Retail TouchPoints",
-      "pubDate": "Thu, 01 May 2025 12:07:00 GMT"
-    },
-    {
-      "title": "Uneasy West Coast ports watch as first signs of trade war with China emerge - Journal of Commerce",
-      "pubDate": "Thu, 01 May 2025 19:28:00 GMT"
-    },
-    {
-      "title": "Trade War Exposes China\u2019s Dependence on U.S. for Auto Chips - WSJ",
-      "pubDate": "Fri, 02 May 2025 03:00:00 GMT"
-    },
-    {
-      "title": "Trade war adds further turbulence to EV transition - Automotive World",
-      "pubDate": "Fri, 02 May 2025 09:22:39 GMT"
-    },
-    {
-      "title": "April 2025 Jobs Report: Economy Adds 177K Jobs Amid Trade War Fears - Norada Real Estate Investments",
-      "pubDate": "Sat, 03 May 2025 13:30:10 GMT"
-    },
-    {
-      "title": "Chinese exports to US drop at West Coast ports amid trade war - NewsNation",
-      "pubDate": "Sat, 03 May 2025 18:50:53 GMT"
-    },
-    {
-      "title": "US-China trade war: Trump ends tariff-free regime for Chinese imports - KosovaPress",
-      "pubDate": "Sun, 04 May 2025 12:44:09 GMT"
-    },
-    {
-      "title": "How a Trade War Could Lead to a Secondary Wine Market Boom - Robb Report",
-      "pubDate": "Sun, 04 May 2025 19:00:00 GMT"
-    },
-    {
-      "title": "Warren Buffett sounds alarm on trade war - NBC News",
-      "pubDate": "Sun, 04 May 2025 23:07:12 GMT"
-    },
-    {
-      "title": "Trump Plans 100% Levy on Foreign Films, Deepening Trade War - Bloomberg.com",
-      "pubDate": "Mon, 05 May 2025 13:50:24 GMT"
-    },
-    {
-      "title": "European and UK companies lay bare the pain from Donald Trump\u2019s trade war - Financial Times",
-      "pubDate": "Tue, 06 May 2025 04:00:27 GMT"
-    },
-    {
-      "title": "America\u2019s trading partners have a massive bazooka in the trade war. They may never use it - CNN",
-      "pubDate": "Tue, 06 May 2025 14:29:00 GMT"
-    },
-    {
-      "title": "US stocks sink again as more companies detail damage they're taking because of Trump's trade war - Los Angeles Times",
-      "pubDate": "Tue, 06 May 2025 21:48:26 GMT"
-    },
-    {
-      "title": "U.S. and Chinese officials will meet in Geneva in first sign of thaw in trade war - NPR",
-      "pubDate": "Wed, 07 May 2025 08:09:46 GMT"
-    },
-    {
-      "title": "US, China to hold ice-breaker trade talks in Geneva on Saturday - Reuters",
-      "pubDate": "Wed, 07 May 2025 11:29:44 GMT"
-    },
-    {
-      "title": "Tesla's EV rival Rivian warns Trump's trade war means it will sell fewer of its American-made cars than expected - Fortune",
-      "pubDate": "Wed, 07 May 2025 12:34:00 GMT"
-    },
     {
       "title": "China agrees to trade talks with the U.S. and rolls out more stimulus as tariffs hit economy - PBS",
       "pubDate": "Wed, 07 May 2025 16:35:27 GMT"
@@ -1187,85 +1181,81 @@
     {
       "title": "Farming anxieties rise among Illinoisans as trade war affects crop exports - MSN",
       "pubDate": "Sat, 17 May 2025 14:28:43 GMT"
+    },
+    {
+      "title": "Trump orders Walmart to \u2018eat the tariffs\u2019 and stop blaming his trade war for rising prices: \u2018I\u2019ll be watching\u2019 - The Independent",
+      "pubDate": "Sat, 17 May 2025 23:42:00 GMT"
+    },
+    {
+      "title": "US Stock Market Looks More Favorable Now Than Pre-Trade War, According to Fundstrat\u2019s Tom Lee \u2013 Here\u2019s Why - The Daily Hodl",
+      "pubDate": "Sun, 18 May 2025 07:04:11 GMT"
+    },
+    {
+      "title": "Tariffs live updates: Trump urges Walmart to 'eat the tariffs' and wants Fed to cut rates 'sooner than later' - Yahoo Finance",
+      "pubDate": "Sun, 18 May 2025 15:10:41 GMT"
+    },
+    {
+      "title": "Mansion sales are booming as the rich seek shelter from trade war fallout \u2014 'real estate is safer' - Fortune",
+      "pubDate": "Sun, 18 May 2025 18:54:00 GMT"
+    },
+    {
+      "title": "China Home Prices Drop at Faster Pace in Blow During Trade War - Bloomberg.com",
+      "pubDate": "Mon, 19 May 2025 01:57:00 GMT"
+    },
+    {
+      "title": "Low prices and Trump's trade war are pushing these Northwest farmers to the brink - NPR",
+      "pubDate": "Mon, 19 May 2025 04:01:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s global trade war sparks concerns for vast majority of private market investors - Investment Week",
+      "pubDate": "Mon, 19 May 2025 14:07:04 GMT"
+    },
+    {
+      "title": "Hong Kong Finds a New Calling After Liberation Day - Bloomberg.com",
+      "pubDate": "Mon, 19 May 2025 20:00:26 GMT"
+    },
+    {
+      "title": "China cuts benchmark lending rates to help ease impact of US trade war - Nikkei Asia",
+      "pubDate": "Tue, 20 May 2025 03:02:00 GMT"
+    },
+    {
+      "title": "U.S. Exporters Rethink Supply Chains Amid Trade War: Allianz Trade Survey - Supply & Demand Chain Executive",
+      "pubDate": "Tue, 20 May 2025 15:16:22 GMT"
+    },
+    {
+      "title": "Brazil's Cerrado, Amazon may be next victims of US-China trade war - Context News",
+      "pubDate": "Tue, 20 May 2025 16:39:59 GMT"
+    },
+    {
+      "title": "U.S. loudspeaker maker sounds the alarm on 'unnecessary' trade war - Nikkei Asia",
+      "pubDate": "Wed, 21 May 2025 01:22:00 GMT"
+    },
+    {
+      "title": "German economy set for zero growth thanks largely to Trump, government advisers say - politico.eu",
+      "pubDate": "Wed, 21 May 2025 09:40:31 GMT"
+    },
+    {
+      "title": "How China\u2019s next five-year plan hones in on weak links laid bare by trade war - South China Morning Post",
+      "pubDate": "Wed, 21 May 2025 14:00:09 GMT"
+    },
+    {
+      "title": "Trade war tremors: A Q and A with a Kansas economist about tariffs, manufacturing and the workforce - Kansas Reflector",
+      "pubDate": "Wed, 21 May 2025 20:46:10 GMT"
+    },
+    {
+      "title": "Ultra Rich Wanted More China Exposure Before Trade War, UBS Says - Bloomberg",
+      "pubDate": "Thu, 22 May 2025 01:48:00 GMT"
+    },
+    {
+      "title": "2 Artificial Intelligence (AI) Stocks That May Have a Hard Time Bouncing Back From President Trump's Trade War - Nasdaq",
+      "pubDate": "Thu, 22 May 2025 07:35:00 GMT"
+    },
+    {
+      "title": "Trade War Biggest Risk For Global Family Offices In 2025 \u2013 UBS Report - Family Wealth Report",
+      "pubDate": "Thu, 22 May 2025 11:31:34 GMT"
     }
   ],
   "china": [
-    {
-      "title": "New OPV For Chinese Coast Guard Launched At Huangpu - navalnews.com",
-      "pubDate": "Sat, 03 May 2025 08:19:17 GMT"
-    },
-    {
-      "title": "China risks a spiral into deeper deflation as it diverts U.S.-bound exports to domestic market - CNBC",
-      "pubDate": "Mon, 05 May 2025 03:35:00 GMT"
-    },
-    {
-      "title": "China Plans To Bring Back Samples of Venusian Clouds - IEEE Spectrum",
-      "pubDate": "Mon, 05 May 2025 13:10:25 GMT"
-    },
-    {
-      "title": "Exclusive: US lawmaker targets Nvidia chip smuggling to China with new bill - Reuters",
-      "pubDate": "Mon, 05 May 2025 16:26:16 GMT"
-    },
-    {
-      "title": "China\u2019s Garment Factories Face a Tipping Point After New Tariffs - The New York Times",
-      "pubDate": "Mon, 05 May 2025 17:57:39 GMT"
-    },
-    {
-      "title": "Trump says U.S. girls 'could be very happy' with lots fewer dolls under new tariffs - CNBC",
-      "pubDate": "Mon, 05 May 2025 15:50:13 GMT"
-    },
-    {
-      "title": "China Services Activity Slips, Adding Risk of Rapid Slowdown - Bloomberg.com",
-      "pubDate": "Tue, 06 May 2025 02:25:00 GMT"
-    },
-    {
-      "title": "Chinese holiday spending inches up but trade war weighs on services - Reuters",
-      "pubDate": "Tue, 06 May 2025 05:57:00 GMT"
-    },
-    {
-      "title": "China's Xi ready to work with EU to expand ties, handle friction - Reuters",
-      "pubDate": "Tue, 06 May 2025 09:08:21 GMT"
-    },
-    {
-      "title": "China\u2019s Financial Officials to Hold Briefing Amid Tariff Threat - Bloomberg.com",
-      "pubDate": "Tue, 06 May 2025 10:43:23 GMT"
-    },
-    {
-      "title": "AMD forecasts revenue above estimates, despite US curbs on China chip exports - Reuters",
-      "pubDate": "Tue, 06 May 2025 21:26:16 GMT"
-    },
-    {
-      "title": "China to cut key rates by 10 points, bank reserve requirement by 50 points in bid to boost economy - CNBC",
-      "pubDate": "Wed, 07 May 2025 01:24:00 GMT"
-    },
-    {
-      "title": "China\u2019s Factories Start to Imagine World Without American Buyers - Bloomberg",
-      "pubDate": "Wed, 07 May 2025 09:00:00 GMT"
-    },
-    {
-      "title": "Trump\u2019s team is finally meeting with China. The future of the global economy is riding on its success - CNN",
-      "pubDate": "Wed, 07 May 2025 11:49:00 GMT"
-    },
-    {
-      "title": "AMD CEO Lisa Su calls China a 'large opportunity' and warns against strict U.S. chip controls - CNBC",
-      "pubDate": "Wed, 07 May 2025 16:24:34 GMT"
-    },
-    {
-      "title": "China's Xi arrives in Moscow in show of support for Putin after Ukrainian drones target capital - Reuters",
-      "pubDate": "Wed, 07 May 2025 17:47:46 GMT"
-    },
-    {
-      "title": "US-China Trade: Trump Says He Won\u2019t Lower China Tariffs to Jump-Start Talks - Bloomberg.com",
-      "pubDate": "Wed, 07 May 2025 18:24:37 GMT"
-    },
-    {
-      "title": "China touts new law as foundation for private sector growth - South China Morning Post",
-      "pubDate": "Thu, 08 May 2025 02:29:57 GMT"
-    },
-    {
-      "title": "Trump Tariffs: Xi Fortifies China\u2019s Economy Before First Talks on Trade With US - Bloomberg.com",
-      "pubDate": "Thu, 08 May 2025 01:51:00 GMT"
-    },
     {
       "title": "Tesla's China-made EV sales fall 6% y/y in April as woes deepen - Reuters",
       "pubDate": "Thu, 08 May 2025 03:24:07 GMT"
@@ -1349,6 +1339,82 @@
     {
       "title": "China\u2019s defence chief forges Europe ties in Paris, Berlin plus UN peace pledge - South China Morning Post",
       "pubDate": "Fri, 16 May 2025 03:26:16 GMT"
+    },
+    {
+      "title": "'You start to go crazy': The Australian who survived five years in a Chinese prison - BBC",
+      "pubDate": "Sat, 17 May 2025 23:16:56 GMT"
+    },
+    {
+      "title": "China slaps anti-dumping duties on plastics from US, EU, Japan, Taiwan - Reuters",
+      "pubDate": "Sun, 18 May 2025 06:35:00 GMT"
+    },
+    {
+      "title": "Caught between the U.S. and China, young people in Taiwan just want things to stay the same - NBC News",
+      "pubDate": "Sun, 18 May 2025 12:02:17 GMT"
+    },
+    {
+      "title": "China-US Trade Truce Prompts Nations to Consider Tougher Tactics - Bloomberg",
+      "pubDate": "Sun, 18 May 2025 16:01:00 GMT"
+    },
+    {
+      "title": "China Tells Officials to Rein in Alcohol, Cigarette Spending - Bloomberg.com",
+      "pubDate": "Mon, 19 May 2025 02:55:00 GMT"
+    },
+    {
+      "title": "China 'fully' respects Denmark's sovereignty on Greenland, foreign minister says - Reuters",
+      "pubDate": "Mon, 19 May 2025 07:00:47 GMT"
+    },
+    {
+      "title": "China's state banks will cut deposit rates on Tuesday, sources say - Reuters",
+      "pubDate": "Mon, 19 May 2025 14:58:47 GMT"
+    },
+    {
+      "title": "Hyundai is making a comeback in China and this new EV might just seal the deal - Electrek",
+      "pubDate": "Mon, 19 May 2025 18:44:00 GMT"
+    },
+    {
+      "title": "Chinese exporters are offering sweet deals to U.S. businesses. They often come wrapped in fraud - CNBC",
+      "pubDate": "Tue, 20 May 2025 00:03:00 GMT"
+    },
+    {
+      "title": "China\u2019s Fighter Jets and Missiles Get a Boost From the India-Pakistan Clash - The New York Times",
+      "pubDate": "Tue, 20 May 2025 07:29:39 GMT"
+    },
+    {
+      "title": "China aims JY-27V radar at stealthy targets, such as US fifth-gen fighters - South China Morning Post",
+      "pubDate": "Tue, 20 May 2025 10:02:07 GMT"
+    },
+    {
+      "title": "Congo Gambles on Cobalt as US-China Metals Fight Heats Up - Bloomberg",
+      "pubDate": "Tue, 20 May 2025 21:00:00 GMT"
+    },
+    {
+      "title": "Pacific must not become a \u2018military zone\u2019 amid rise of China, New Zealand\u2019s deputy PM warns - The Guardian",
+      "pubDate": "Wed, 21 May 2025 00:05:00 GMT"
+    },
+    {
+      "title": "US and China are already feuding again after unexpected trade truce - CNN",
+      "pubDate": "Wed, 21 May 2025 06:23:00 GMT"
+    },
+    {
+      "title": "China says Trump's \"Golden Dome\" missile defense plan increases risk of \"space becoming a battlefield\" - CBS News",
+      "pubDate": "Wed, 21 May 2025 12:18:33 GMT"
+    },
+    {
+      "title": "US chip export controls are a \u2018failure\u2019 because they spur Chinese development, Nvidia boss says - The Guardian",
+      "pubDate": "Wed, 21 May 2025 21:12:00 GMT"
+    },
+    {
+      "title": "Top CIA official says China \"is the existential threat to American security\" - Axios",
+      "pubDate": "Thu, 22 May 2025 00:09:39 GMT"
+    },
+    {
+      "title": "Jamie Dimon says he is a 'red-blooded American patriot capitalist,' but he sees how China's hustle is paying off - Business Insider",
+      "pubDate": "Thu, 22 May 2025 08:44:00 GMT"
+    },
+    {
+      "title": "Trump tariff pause bumps up China imports, but less retail choice and higher prices are coming: CNBC Supply Chain Survey - CNBC",
+      "pubDate": "Thu, 22 May 2025 13:46:09 GMT"
     }
   ],
   "solar_power": [
@@ -1399,14 +1465,6 @@
     {
       "title": "KU adds defensive back Gibbs from transfer portal - Lawrence Journal-World",
       "pubDate": "Fri, 25 Apr 2025 00:09:00 GMT"
-    },
-    {
-      "title": "This May Be India's First Benefit From US-China Tariff War - NDTV",
-      "pubDate": "Tue, 22 Apr 2025 04:42:30 GMT"
-    },
-    {
-      "title": "At least 3 dead and 2 missing after dangerous flooding and storms hit Oklahoma - KOMU 8",
-      "pubDate": "Mon, 21 Apr 2025 13:07:00 GMT"
     },
     {
       "title": "Prince Andrew, Epstein Accuser Virginia Giuffre Dies By Suicide - NDTV",
@@ -1547,26 +1605,6 @@
   ],
   "health_care": [
     {
-      "title": "Smart insoles offer real time gait tracking and early health warnings - News-Medical",
-      "pubDate": "Fri, 18 Apr 2025 02:34:00 GMT"
-    },
-    {
-      "title": "THOMPSON, DISABILITY LEADERS, PATIENTS WARN OF DEVASTATING MEDICAID CUTS - Representative Mike Thompson | (.gov)",
-      "pubDate": "Fri, 18 Apr 2025 00:43:41 GMT"
-    },
-    {
-      "title": "Dave Eldredge, MSW, LCSW, Named Executive Director of Huntsman Mental Health Institute - University of Utah Health",
-      "pubDate": "Fri, 18 Apr 2025 19:00:00 GMT"
-    },
-    {
-      "title": "The Rise of Medical Fascism - The Nation",
-      "pubDate": "Mon, 21 Apr 2025 14:10:23 GMT"
-    },
-    {
-      "title": "A Heart for Helping Others - Kaiser Permanente",
-      "pubDate": "Mon, 21 Apr 2025 20:51:03 GMT"
-    },
-    {
       "title": "Trade war with China to hit US healthcare - Al Jazeera",
       "pubDate": "Wed, 23 Apr 2025 21:22:30 GMT"
     },
@@ -1580,30 +1618,6 @@
     }
   ],
   "united_states": [
-    {
-      "title": "US measles total climbs to 800 cases, 10 outbreaks - CIDRAP",
-      "pubDate": "Fri, 18 Apr 2025 18:25:52 GMT"
-    },
-    {
-      "title": "The US and Iran are set to meet for a second round of nuclear talks. Here\u2019s what we know - CNN",
-      "pubDate": "Sat, 19 Apr 2025 00:11:15 GMT"
-    },
-    {
-      "title": "Cuban influencer Amanda Camaraza buys her first house in the United States: \"A dream come true\" - CiberCuba",
-      "pubDate": "Sun, 20 Apr 2025 14:03:02 GMT"
-    },
-    {
-      "title": "China warns countries against striking trade deals with US at its expense - Reuters",
-      "pubDate": "Mon, 21 Apr 2025 08:12:13 GMT"
-    },
-    {
-      "title": "IMF Downgrades U.S. Economic Outlook on Concern Over Trump\u2019s Tariffs | Economy | U.S. News - U.S. News & World Report",
-      "pubDate": "Tue, 22 Apr 2025 15:29:00 GMT"
-    },
-    {
-      "title": "United States, India: Local Economies Benefit as Noctourism Trend Inspires New Investments in Tourism Infrastructure - Travel And Tour World",
-      "pubDate": "Tue, 22 Apr 2025 14:55:08 GMT"
-    },
     {
       "title": "Stocks rebound as US Treasury Secretary says China trade war is unsustainable - CNN",
       "pubDate": "Tue, 22 Apr 2025 20:07:00 GMT"
@@ -1630,14 +1644,6 @@
     }
   ],
   "health": [
-    {
-      "title": "RFK Jr. Struggles to Navigate Frustrated Supporters and a Demanding Boss - U.S. News & World Report",
-      "pubDate": "Fri, 18 Apr 2025 15:13:03 GMT"
-    },
-    {
-      "title": "VA officials acknowledge the need for privacy for telehealth therapy - NPR",
-      "pubDate": "Fri, 18 Apr 2025 18:00:18 GMT"
-    },
     {
       "title": "International foundation issues warning about health risk lurking in common office appliance: 'Rising concerns' - Yahoo",
       "pubDate": "Sun, 27 Apr 2025 11:00:42 GMT"
@@ -1695,38 +1701,6 @@
   ],
   "the_pentagon": [
     {
-      "title": "Ousted Pentagon officials question leak investigation claims - Reuters",
-      "pubDate": "Sun, 20 Apr 2025 18:16:52 GMT"
-    },
-    {
-      "title": "Pentagon in Chaos After Hegseth Sheds Four Staffers in One Day - The Daily Beast",
-      "pubDate": "Sat, 19 Apr 2025 17:22:00 GMT"
-    },
-    {
-      "title": "Pentagon in Chaos After Hegseth Sheds Four Staffers in One Day - Yahoo",
-      "pubDate": "Sat, 19 Apr 2025 05:22:00 GMT"
-    },
-    {
-      "title": "Hegseth faces scrutiny after reports of second Signal chat with sensitive information - USA Today",
-      "pubDate": "Mon, 21 Apr 2025 17:15:00 GMT"
-    },
-    {
-      "title": "Pentagon Dysfunction Is Getting OUT OF CONTROL - TYT.com",
-      "pubDate": "Tue, 22 Apr 2025 02:00:56 GMT"
-    },
-    {
-      "title": "Thom Tillis's man at the Pentagon - PoliticsNC",
-      "pubDate": "Mon, 21 Apr 2025 14:43:42 GMT"
-    },
-    {
-      "title": "Joint Chiefs Chairman Visits Border as Military Presence Expands - The New York Times",
-      "pubDate": "Tue, 22 Apr 2025 12:26:18 GMT"
-    },
-    {
-      "title": "Reforming Pentagon Software Practices Key to Countering Threats, Report Finds - National Defense Magazine",
-      "pubDate": "Tue, 22 Apr 2025 02:12:46 GMT"
-    },
-    {
       "title": "As Controversies Pile Up, Trump Allies Increasingly Turn on One Another - Military.com",
       "pubDate": "Tue, 22 Apr 2025 18:27:00 GMT"
     },
@@ -1735,16 +1709,8 @@
       "pubDate": "Tue, 22 Apr 2025 22:33:49 GMT"
     },
     {
-      "title": "Why Trump Is Standing by Hegseth, for Now - The Atlantic",
-      "pubDate": "Tue, 22 Apr 2025 00:40:00 GMT"
-    },
-    {
       "title": "Defense Innovation Unit to expand US outposts with three new hubs - Defense News",
       "pubDate": "Thu, 24 Apr 2025 19:12:33 GMT"
-    },
-    {
-      "title": "Turns Out It Wasn\u2019t Such a Great Idea to Put Pete Hegseth in Charge of the Military - Rolling Stone",
-      "pubDate": "Mon, 21 Apr 2025 14:17:12 GMT"
     },
     {
       "title": "Pentagon names four senior advisers to Hegseth after firing three officials for leaking information - Stars and Stripes",
@@ -1757,14 +1723,6 @@
     {
       "title": "Bill Maher Takes Brutal Dig At Trump Sec Pete Hegseth \u2014 \u2018Worst Thing To Hit The Pentagon\u2019 Since 9-11 - Mediaite",
       "pubDate": "Sat, 26 Apr 2025 13:35:00 GMT"
-    },
-    {
-      "title": "Hegseth says staffers found leaking \u2018will be prosecuted\u2019 amid Pentagon chaos - Politico",
-      "pubDate": "Tue, 22 Apr 2025 14:34:53 GMT"
-    },
-    {
-      "title": "Former Pentagon official warns department\u2019s dysfunction could topple Hegseth - Politico",
-      "pubDate": "Sun, 20 Apr 2025 23:15:22 GMT"
     },
     {
       "title": "Hegseth Aides\u2019 Civil War Plunged the Pentagon Into Chaos: \u2018It Was a Knife Fight\u2019 - The Daily Beast",
@@ -1853,39 +1811,11 @@
   ],
   "military_and_defense": [
     {
-      "title": "DBJ champions Aerospace and Defense industries with awards program - The Business Journals",
-      "pubDate": "Fri, 18 Apr 2025 13:30:00 GMT"
-    },
-    {
-      "title": "State of the Army 2025 - Defense One",
-      "pubDate": "Fri, 18 Apr 2025 09:59:10 GMT"
-    },
-    {
-      "title": "New military zones on border could take over Texas national parks - Chron",
-      "pubDate": "Sat, 19 Apr 2025 01:07:38 GMT"
-    },
-    {
-      "title": "Iranian Armed Forces achieve \u2018most sophisticated\u2019 defense technology: Military official - PressTV",
-      "pubDate": "Mon, 21 Apr 2025 07:03:32 GMT"
-    },
-    {
       "title": "Inside Ukraine's drone boom: a blueprint for modern warfare on a budget - Business Insider",
       "pubDate": "Thu, 24 Apr 2025 08:01:00 GMT"
-    },
-    {
-      "title": "Why I resigned in protest from National Defense University - Defense One",
-      "pubDate": "Sun, 20 Apr 2025 12:00:00 GMT"
     }
   ],
   "war_and_unrest": [
-    {
-      "title": "Israeli Veterans\u2019 Letters Protest Gaza War, Reflect National Divide - NewsLooks",
-      "pubDate": "Fri, 18 Apr 2025 16:30:25 GMT"
-    },
-    {
-      "title": "Thousands across the US protest Trump, again - BBC",
-      "pubDate": "Sun, 20 Apr 2025 00:20:32 GMT"
-    },
     {
       "title": "Vietnam War-Anniversary-Protest Songs - The Herald Journal",
       "pubDate": "Sat, 26 Apr 2025 03:01:18 GMT"
@@ -1896,18 +1826,6 @@
     }
   ],
   "us_congress": [
-    {
-      "title": "Bill would require lawmakers to put some investments in blind trust - NewsNation",
-      "pubDate": "Sat, 19 Apr 2025 00:24:36 GMT"
-    },
-    {
-      "title": "Former Dem staffer who filmed himself having sex in Congress said he \u2018spent a little bit in the psych ward\u2019 after scandal - New York Post",
-      "pubDate": "Mon, 21 Apr 2025 14:17:20 GMT"
-    },
-    {
-      "title": "First House Republican calls for Pete Hegseth's ouster - Axios",
-      "pubDate": "Mon, 21 Apr 2025 20:01:46 GMT"
-    },
     {
       "title": "Lawmakers to attend Pope Francis\u2019 funeral - Politico",
       "pubDate": "Fri, 25 Apr 2025 14:06:11 GMT"
@@ -1934,14 +1852,6 @@
     }
   ],
   "iran": [
-    {
-      "title": "Iran Sells Russia Drones And Missiles To Kill Ukrainians And Trump Doesn\u2019t Care - HuffPost",
-      "pubDate": "Sat, 19 Apr 2025 12:00:25 GMT"
-    },
-    {
-      "title": "Mossad director, Dermer seemingly unable to deter Witkoff from Iran nuclear strategy - The Jerusalem Post",
-      "pubDate": "Sun, 20 Apr 2025 15:06:00 GMT"
-    },
     {
       "title": "Iran and the US hold hours of expert talks in Oman over Tehran's rapidly advancing nuclear program - AP News",
       "pubDate": "Sat, 26 Apr 2025 15:50:00 GMT"
@@ -1972,10 +1882,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "France Warns: Impact of Firing Fed Chief Powell on Dollar and U.S. Economy - Blockchain News",
-      "pubDate": "Sun, 20 Apr 2025 07:13:15 GMT"
-    },
     {
       "title": "Disney's Impact on the American Economy - The Walt Disney Company",
       "pubDate": "Sat, 26 Apr 2025 16:07:00 GMT"
@@ -2071,41 +1977,81 @@
     {
       "title": "Trump recession is off the table \u2014 but trouble not over for U.S. economy - MarketWatch",
       "pubDate": "Sat, 17 May 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Rowdy and rich, here's what Preakness says about the US economy - BBC",
+      "pubDate": "Sun, 18 May 2025 01:24:23 GMT"
+    },
+    {
+      "title": "Report finds billions in economic impact from the beer industry. See the impact in Ohio - Canton Repository",
+      "pubDate": "Sun, 18 May 2025 10:13:52 GMT"
+    },
+    {
+      "title": "JPMorgan Chase: US Economy Likely To Skirt Recession, Forecasts Sluggish Growth - Benzinga",
+      "pubDate": "Sun, 18 May 2025 19:46:38 GMT"
+    },
+    {
+      "title": "Trump tax bill passes in key US House committee vote - The Economic Times",
+      "pubDate": "Mon, 19 May 2025 03:17:08 GMT"
+    },
+    {
+      "title": "A US recession doesn\u2019t seem so likely any more - American Enterprise Institute",
+      "pubDate": "Mon, 19 May 2025 09:00:54 GMT"
+    },
+    {
+      "title": "New Shipping Fees and Requirements Pose Fresh Threat to US Economy - Cato Institute",
+      "pubDate": "Mon, 19 May 2025 15:10:55 GMT"
+    },
+    {
+      "title": "US economy is outperforming all industrial peers on a GDP basis, economist says - Fox Business",
+      "pubDate": "Mon, 19 May 2025 19:37:50 GMT"
+    },
+    {
+      "title": "Credit rating downgrade triggers warning signs for U.S. economy - PBS",
+      "pubDate": "Mon, 19 May 2025 22:40:46 GMT"
+    },
+    {
+      "title": "Dollar slips again on caution over US economy, Aussie falls after RBA - MSN",
+      "pubDate": "Tue, 20 May 2025 09:40:46 GMT"
+    },
+    {
+      "title": "U.S. economy is experiencing 'death by a thousand cuts', says Deutsche Bank - Fortune",
+      "pubDate": "Tue, 20 May 2025 15:07:02 GMT"
+    },
+    {
+      "title": "Fed officials expect tariffs to boost prices; White House downplays risk - Reuters",
+      "pubDate": "Wed, 21 May 2025 00:26:00 GMT"
+    },
+    {
+      "title": "Insights | U.S. tariff policies will backfire on its domestic economy: Filipino scholar - Ecns.cn",
+      "pubDate": "Wed, 21 May 2025 07:56:02 GMT"
+    },
+    {
+      "title": "Google Antitrust Remedies Could Harm U.S. Economy and Consumers - Forbes",
+      "pubDate": "Wed, 21 May 2025 14:26:30 GMT"
+    },
+    {
+      "title": "Weak US economic outlook persists despite brief trade truce with China: Reuters poll - Reuters",
+      "pubDate": "Wed, 21 May 2025 16:30:55 GMT"
+    },
+    {
+      "title": "JPMorgan CEO flags risk of \"stagflation\" facing U.S. economy - Investing.com",
+      "pubDate": "Thu, 22 May 2025 08:56:55 GMT"
     }
   ],
   "terrorism": [
     {
-      "title": "Veterans Helping Veterans builds wheelchair ramp for Global War on Terrorism Veteran SFC Dearmon Brock - Jackson County Sentinel",
-      "pubDate": "Sat, 19 Apr 2025 05:00:00 GMT"
+      "title": "Deadly blast outside Palm Springs fertility clinic 'intentional act of terrorism,' FBI says - ABC News",
+      "pubDate": "Sun, 18 May 2025 01:30:00 GMT"
     }
   ],
   "world_economy": [
-    {
-      "title": "World economy: Trump forced to retreat, but trade war continues - \u793e\u6703\u4e3b\u7fa9\u884c\u52d5",
-      "pubDate": "Sat, 19 Apr 2025 10:10:00 GMT"
-    },
-    {
-      "title": "TRUMP\u2019S TARIFFS WHAT THEY MEAN FOR THE WORLD - Dawn",
-      "pubDate": "Sun, 20 Apr 2025 01:06:27 GMT"
-    },
-    {
-      "title": "Mapping the high tariff world - Financial Times",
-      "pubDate": "Mon, 21 Apr 2025 04:00:08 GMT"
-    },
-    {
-      "title": "Trade war with China threatens U.S. economy - The Week",
-      "pubDate": "Mon, 21 Apr 2025 21:41:43 GMT"
-    },
     {
       "title": "The IMF just slashed its global growth outlook \u2014 and said the US will be hit hard in the trade war - Business Insider",
       "pubDate": "Tue, 22 Apr 2025 16:51:00 GMT"
     }
   ],
   "economy": [
-    {
-      "title": "How a dollar crisis would unfold - The Economist",
-      "pubDate": "Sun, 20 Apr 2025 08:12:31 GMT"
-    },
     {
       "title": "Beyond tariffs and chaos \u2014 blockchain emerges as the backbone of a parallel economy - Cointelegraph",
       "pubDate": "Mon, 28 Apr 2025 09:01:21 GMT"
@@ -2129,29 +2075,17 @@
   ],
   "us_supreme_court": [
     {
-      "title": "\u2018Literally in the middle of the night\u2019: Justice Alito slams SCOTUS for issuing \u2018unprecedented\u2019 relief by stopping Trump deportations carried out under wartime law - Law and Crime News",
-      "pubDate": "Sun, 20 Apr 2025 17:00:00 GMT"
-    },
-    {
       "title": "Former U.S. Supreme Court Associate Justice David Souter dies at 85 - Brooklyn Eagle",
       "pubDate": "Fri, 09 May 2025 18:05:59 GMT"
     }
   ],
   "future": [
     {
-      "title": "NFL Draft: As Cam Ward tops yet another class of transfer QBs, UCLA-bound Nico Iamaleava and his future looks wide open - Yahoo Sports",
-      "pubDate": "Mon, 21 Apr 2025 01:23:00 GMT"
-    },
-    {
       "title": "\u2018The Equalizer\u2019 Ends 5-Season Run With Romantic Conclusion & Plans For The Future - Deadline",
       "pubDate": "Mon, 05 May 2025 03:00:00 GMT"
     }
   ],
   "business": [
-    {
-      "title": "Recession fashion is on its way - Business Insider",
-      "pubDate": "Sun, 20 Apr 2025 09:08:00 GMT"
-    },
     {
       "title": "\u2018Business-ending\u2019 threats: Boulder companies brace for tariff fallout - The Boulder Reporting Lab",
       "pubDate": "Fri, 25 Apr 2025 03:52:00 GMT"
@@ -2195,23 +2129,11 @@
   ],
   "earth": [
     {
-      "title": "Three NASA, Russian Space Station Crew Return to Earth - Aviation Week",
-      "pubDate": "Sun, 20 Apr 2025 15:12:37 GMT"
-    },
-    {
       "title": "Decades-old Soviet spacecraft still orbiting Earth may crash back around May 10 - Times of India",
       "pubDate": "Fri, 02 May 2025 04:53:00 GMT"
     }
   ],
   "research_and_development": [
-    {
-      "title": "Eascra Biotech Receives U.S. National Science Foundation Grant - GlobeNewswire",
-      "pubDate": "Mon, 21 Apr 2025 13:02:54 GMT"
-    },
-    {
-      "title": "UK urged to modernise R&D tax relief as China races ahead - SecurityBrief New Zealand",
-      "pubDate": "Mon, 21 Apr 2025 11:32:00 GMT"
-    },
     {
       "title": "HORIBA Europe Earns Innovation Seal - The BRAKE Report",
       "pubDate": "Wed, 23 Apr 2025 10:31:19 GMT"
@@ -2219,29 +2141,17 @@
   ],
   "cancer": [
     {
-      "title": "ENHERTU\u00ae Plus Pertuzumab Demonstrated Highly Statistically Significant and Clinically Meaningful Improvement in Progression-Free Survival Versus THP as First-Line Therapy for Patients with HER2 Positive Metastatic Breast Cancer - Business Wire",
-      "pubDate": "Mon, 21 Apr 2025 06:30:00 GMT"
-    },
-    {
       "title": "NIH cuts will set back research into the rare disease that has terrorized my family - statnews.com",
       "pubDate": "Fri, 25 Apr 2025 08:32:18 GMT"
     }
   ],
   "tesla": [
     {
-      "title": "Tesla Once Again Delays Cheaper Models - Jalopnik",
-      "pubDate": "Mon, 21 Apr 2025 14:14:53 GMT"
-    },
-    {
       "title": "Tesla is \u2018carefully\u2019 working on its India entry amid tariff concerns, says CFO - CNBC",
       "pubDate": "Wed, 23 Apr 2025 01:56:00 GMT"
     }
   ],
   "space": [
-    {
-      "title": "Launch recap: SpaceX Bandwagon-3 launches from Cape Canaveral, sonic boom heard - Florida Today",
-      "pubDate": "Tue, 22 Apr 2025 00:45:00 GMT"
-    },
     {
       "title": "Third Space Market launches in Gorham - The Portland Press Herald",
       "pubDate": "Tue, 22 Apr 2025 18:47:11 GMT"
@@ -2276,10 +2186,6 @@
     }
   ],
   "risk_management": [
-    {
-      "title": "Hopper raises $7.6M to accelerate software development with streamlined risk management - SiliconANGLE",
-      "pubDate": "Tue, 22 Apr 2025 12:00:18 GMT"
-    },
     {
       "title": "Finding the right path toward optimizing specialty value-based care - Health Data Management",
       "pubDate": "Wed, 23 Apr 2025 16:39:49 GMT"
@@ -2395,6 +2301,26 @@
     {
       "title": "Pritzker and Ocasio-Cortez: A billionaire and a former bartender emerge as Trump resistance leaders - ABC News",
       "pubDate": "Sun, 04 May 2025 12:10:28 GMT"
+    },
+    {
+      "title": "Bernie Agrees: Democratic Party Is a \u2018Threat to Democracy\u2019 - The Daily Beast",
+      "pubDate": "Mon, 19 May 2025 19:09:00 GMT"
+    },
+    {
+      "title": "Democratic Rep. McIver charged with assault after skirmish at ICE center, New Jersey prosecutor says - The Seattle Times",
+      "pubDate": "Tue, 20 May 2025 00:31:14 GMT"
+    },
+    {
+      "title": "US Senator Bernie Sanders says Democrats are 'threat to Democracy' on podcast - Times of India",
+      "pubDate": "Tue, 20 May 2025 04:58:00 GMT"
+    },
+    {
+      "title": "A huge Democratic victory in Omaha offers a lesson for the party | Katrina vanden Heuvel - The Guardian",
+      "pubDate": "Wed, 21 May 2025 16:27:00 GMT"
+    },
+    {
+      "title": "Messy Democratic primaries could hurt party\u2019s chances of retaking the House - Politico",
+      "pubDate": "Thu, 22 May 2025 08:45:00 GMT"
     }
   ],
   "artificial_general_intelligence": [
@@ -2479,10 +2405,6 @@
   ],
   "history_of_the_united_states": [
     {
-      "title": "The Long History of Lawlessness in U.S. Policy Toward Latin America - The Intercept",
-      "pubDate": "Tue, 22 Apr 2025 16:03:30 GMT"
-    },
-    {
       "title": "The History of Tariffs and Protesting French Farmers - Time Magazine",
       "pubDate": "Fri, 25 Apr 2025 10:47:46 GMT"
     },
@@ -2495,10 +2417,6 @@
     {
       "title": "Watch: The history and purpose of Earth Day - NBC Bay Area",
       "pubDate": "Tue, 22 Apr 2025 18:00:08 GMT"
-    },
-    {
-      "title": "Earth Day 2025: History, theme and why we celebrate it - NBC 5 Dallas-Fort Worth",
-      "pubDate": "Tue, 22 Apr 2025 13:07:53 GMT"
     },
     {
       "title": "Reporter's Notebook: If Earth's entire history was squeezed into a single day - CBS News",
@@ -2671,6 +2589,10 @@
     {
       "title": "Israel targets Hamas leader Mohammed Sinwar in hospital strike in Gaza, sources say - CNN",
       "pubDate": "Tue, 13 May 2025 22:13:00 GMT"
+    },
+    {
+      "title": "LIVE: Israel kills 78 in pre-dawn attacks on Gaza, resumes talks with Hamas - Al Jazeera",
+      "pubDate": "Sun, 18 May 2025 02:37:30 GMT"
     }
   ],
   "climate": [
@@ -2699,6 +2621,50 @@
     {
       "title": "AI Security Frameworks - Ensuring Trust in Machine Learning - CybersecurityNews",
       "pubDate": "Sat, 17 May 2025 19:00:00 GMT"
+    },
+    {
+      "title": "Ex Machina - Prime Mover Magazine",
+      "pubDate": "Mon, 19 May 2025 01:38:00 GMT"
+    },
+    {
+      "title": "Grok AI glitch reignites debate on trust and safety in AI tools - Digital Watch Observatory",
+      "pubDate": "Mon, 19 May 2025 07:30:00 GMT"
+    },
+    {
+      "title": "How OpenAI Says Its New Safety Hub is \u2018Making AI Models More Secure\u2019 - eWEEK",
+      "pubDate": "Mon, 19 May 2025 12:42:40 GMT"
+    },
+    {
+      "title": "\"Zero-Knowledge Proof Technology Can Secure AI Reliability and Safety\" [Coin Interview] - bloomingbit",
+      "pubDate": "Tue, 20 May 2025 04:49:33 GMT"
+    },
+    {
+      "title": "AI Safety, Security, and Trustworthiness - U.S. Embassy in The Czech Republic (.gov)",
+      "pubDate": "Tue, 20 May 2025 12:58:17 GMT"
+    },
+    {
+      "title": "NY lawmakers push AI safety bills - NEWS10 ABC",
+      "pubDate": "Tue, 20 May 2025 20:57:20 GMT"
+    },
+    {
+      "title": "Opinion | Hong Kong firms must take initiative on safe AI practices - South China Morning Post",
+      "pubDate": "Wed, 21 May 2025 08:30:08 GMT"
+    },
+    {
+      "title": "Do No Harm, Build AI Safely - Forbes",
+      "pubDate": "Wed, 21 May 2025 15:34:43 GMT"
+    },
+    {
+      "title": "AI Chatbot Jailbreaking Security Threat is \u2018Immediate, Tangible, and Deeply Concerning\u2019 - TechRepublic",
+      "pubDate": "Thu, 22 May 2025 00:05:06 GMT"
+    },
+    {
+      "title": "Oman unveils new national AI safety and ethics policy - ZAWYA",
+      "pubDate": "Thu, 22 May 2025 06:02:32 GMT"
+    },
+    {
+      "title": "From Doomsday to Due Diligence: A Broader Mandate for AI Safety - Tech Policy Press",
+      "pubDate": "Thu, 22 May 2025 12:46:57 GMT"
     }
   ],
   "finance": [
@@ -2797,6 +2763,54 @@
     {
       "title": "\"Good God. This Is Pure Evil\": 26 Very Harsh But Very True Tweets About American Politics This Week - Yahoo",
       "pubDate": "Sat, 17 May 2025 16:55:38 GMT"
+    },
+    {
+      "title": "Pedro Pascal delivers strong message on U.S. politics: \u201cFight back. Don\u2019t let them win\u201d - Diario AS",
+      "pubDate": "Sat, 17 May 2025 23:00:23 GMT"
+    },
+    {
+      "title": "Why Buttigieg, Walz, Beshear and Other Democrats Are Already Teasing 2028 Bids - The New York Times",
+      "pubDate": "Sun, 18 May 2025 09:01:21 GMT"
+    },
+    {
+      "title": "Mike Pence reveals whether he plans to run in 2028 - The Independent",
+      "pubDate": "Sun, 18 May 2025 20:46:00 GMT"
+    },
+    {
+      "title": "Joe Biden Is Diagnosed With an Aggressive Form of Prostate Cancer - The New York Times",
+      "pubDate": "Mon, 19 May 2025 03:12:18 GMT"
+    },
+    {
+      "title": "Political Leaders React to Joe Biden\u2019s Cancer Diagnosis - Time Magazine",
+      "pubDate": "Mon, 19 May 2025 08:26:15 GMT"
+    },
+    {
+      "title": "Despite Trump\u2019s actions and rhetoric, Ukrainian tech workers are laying stakes in the US - Technical.ly",
+      "pubDate": "Mon, 19 May 2025 10:31:55 GMT"
+    },
+    {
+      "title": "Tim Walz says Trump has been \u2018more effective\u2019 this term. He doesn\u2019t mean it nicely - The Independent",
+      "pubDate": "Mon, 19 May 2025 21:05:00 GMT"
+    },
+    {
+      "title": "Senate advances first-of-its-kind cryptocurrency legislation after Democrats initially blocked it amid Trump crypto deals - KTVZ",
+      "pubDate": "Tue, 20 May 2025 03:03:54 GMT"
+    },
+    {
+      "title": "\u2018This government was illegally run\u2019: Trump continues fixation on Biden\u2019s autopen and says he will investigate - The Independent",
+      "pubDate": "Tue, 20 May 2025 14:21:00 GMT"
+    },
+    {
+      "title": "Trump's 'big, beautiful' tax bill: Four sticking points for Republican rebels - BBC",
+      "pubDate": "Tue, 20 May 2025 18:11:04 GMT"
+    },
+    {
+      "title": "DOJ investigates former governor Andrew Cuomo over pandemic testimony - The Independent",
+      "pubDate": "Wed, 21 May 2025 08:31:00 GMT"
+    },
+    {
+      "title": "In this political bellwether, voters feel the impacts of Trump\u2019s policies - News Channel 3-12",
+      "pubDate": "Thu, 22 May 2025 08:04:58 GMT"
     }
   ],
   "brics": [
@@ -2819,6 +2833,10 @@
     {
       "title": "Colombia applies to join China-led Brics bank amid shift from US ties - Business Standard",
       "pubDate": "Sat, 17 May 2025 17:49:29 GMT"
+    },
+    {
+      "title": "Malaysian PM: BRICS represents new initiative within the Global South - Tehran Times",
+      "pubDate": "Sun, 18 May 2025 12:03:44 GMT"
     }
   ],
   "data_privacy": [
