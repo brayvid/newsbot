@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump health cuts create \u2018real danger\u2019 around disease outbreaks, workers warn - The Guardian",
-      "pubDate": "Sun, 11 May 2025 09:01:00 GMT"
-    },
-    {
       "title": "Trump administration poised to accept 'palace in the sky' as a gift for Trump from Qatar: Sources - ABC News",
       "pubDate": "Sun, 11 May 2025 11:05:35 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Washington DC shooting: suspect in deaths of two Israeli embassy staff is believed to have acted alone, says US attorney general \u2013 latest - The Guardian",
       "pubDate": "Thu, 22 May 2025 15:12:48 GMT"
+    },
+    {
+      "title": "Donald Trump Stages an Oval Office Mugging - The New Yorker",
+      "pubDate": "Thu, 22 May 2025 22:58:14 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Russian Offensive Campaign Assessment, April 22, 2025 - Institute for the Study of War",
-      "pubDate": "Wed, 23 Apr 2025 01:30:09 GMT"
-    },
     {
       "title": "Russian Offensive Campaign Assessment, April 24, 2025 - Institute for the Study of War",
       "pubDate": "Fri, 25 Apr 2025 01:38:33 GMT"
@@ -260,14 +256,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Marko Kolanovic warns S&P 500 could fall to high 3,000s if recession hits - Investing.com",
-      "pubDate": "Wed, 30 Apr 2025 13:24:56 GMT"
-    },
-    {
-      "title": "Amid economic tumult, Trump said he\u2019s prepared to accept a short-term recession - MSNBC News",
-      "pubDate": "Mon, 05 May 2025 17:05:05 GMT"
-    },
     {
       "title": "These Economists Decide Whether the U.S. Had a Recession. There\u2019s No Sign Yet. - Barron's",
       "pubDate": "Tue, 06 May 2025 06:30:00 GMT"
@@ -419,6 +407,14 @@
     {
       "title": "5 Under-the-Radar Recession Indicators Actually Worth Watching - Politico",
       "pubDate": "Thu, 22 May 2025 14:00:00 GMT"
+    },
+    {
+      "title": "What Home Sales Tell Us About Recession Chances - Elliott Wave International",
+      "pubDate": "Thu, 22 May 2025 19:21:58 GMT"
+    },
+    {
+      "title": "America's most powerful banker Jamie Dimon stuns with warning US faces something worse than recession - Daily Mail",
+      "pubDate": "Fri, 23 May 2025 02:26:32 GMT"
     }
   ],
   "russia": [
@@ -729,14 +725,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Vyvo COO: AI's Next Step - Becoming a Tool for Self-Awareness - Bitcoin.com News",
-      "pubDate": "Sun, 11 May 2025 06:30:50 GMT"
-    },
-    {
-      "title": "OpenAI negotiates with Microsoft for new funding and future IPO, FT reports - Reuters",
-      "pubDate": "Sun, 11 May 2025 13:33:33 GMT"
-    },
-    {
       "title": "Insurers Begin Covering AI Mishap-Related Losses - PYMNTS.com",
       "pubDate": "Sun, 11 May 2025 21:44:37 GMT"
     },
@@ -887,6 +875,14 @@
     {
       "title": "Melania Trump releases audiobook of memoir created with artificial intelligence - ABC News",
       "pubDate": "Thu, 22 May 2025 12:45:00 GMT"
+    },
+    {
+      "title": "Artificial Intelligence Proves Its Worth in Cancer Treatment, Drug Development, and Other Real-World Applications - OncLive",
+      "pubDate": "Thu, 22 May 2025 18:22:20 GMT"
+    },
+    {
+      "title": "iPhone design guru and OpenAI chief promise an AI device revolution - The Guardian",
+      "pubDate": "Fri, 23 May 2025 01:30:00 GMT"
     }
   ],
   "public_health": [
@@ -991,6 +987,10 @@
     {
       "title": "Stocks to Watch: Dow Closes 800 Points Lower; Treasury Yields Rise in Global Bond Selloff \u2014 Live Updates - WSJ",
       "pubDate": "Thu, 22 May 2025 02:53:00 GMT"
+    },
+    {
+      "title": "A famed Wall Street bear warns of 'global financial market Armageddon' as Japanese bond yields spike - Business Insider",
+      "pubDate": "Thu, 22 May 2025 23:01:00 GMT"
     }
   ],
   "renewable_energy": [
@@ -1059,6 +1059,10 @@
     {
       "title": "Under Trump, U.S. Foreign Policy Stopped Preaching and Started Performing - Modern Ghana",
       "pubDate": "Thu, 22 May 2025 13:39:25 GMT"
+    },
+    {
+      "title": "Trump brings AI, not democracy, to the Middle East - The Strategist | ASPI's analysis and commentary site",
+      "pubDate": "Thu, 22 May 2025 20:05:57 GMT"
     }
   ],
   "machine_learning": [
@@ -1257,10 +1261,6 @@
   ],
   "china": [
     {
-      "title": "Tesla's China-made EV sales fall 6% y/y in April as woes deepen - Reuters",
-      "pubDate": "Thu, 08 May 2025 03:24:07 GMT"
-    },
-    {
       "title": "China's BYD, Tsingshan scrap plans for Chile lithium plants - Reuters",
       "pubDate": "Wed, 07 May 2025 23:53:05 GMT"
     },
@@ -1415,6 +1415,10 @@
     {
       "title": "Trump tariff pause bumps up China imports, but less retail choice and higher prices are coming: CNBC Supply Chain Survey - CNBC",
       "pubDate": "Thu, 22 May 2025 13:46:09 GMT"
+    },
+    {
+      "title": "China\u2019s Yuan Ambitions Are an Uphill Struggle - Foreign Policy",
+      "pubDate": "Thu, 22 May 2025 20:50:52 GMT"
     }
   ],
   "solar_power": [
@@ -1619,14 +1623,6 @@
   ],
   "united_states": [
     {
-      "title": "Stocks rebound as US Treasury Secretary says China trade war is unsustainable - CNN",
-      "pubDate": "Tue, 22 Apr 2025 20:07:00 GMT"
-    },
-    {
-      "title": "10 Prettiest Downtown Strips In The United States - WorldAtlas",
-      "pubDate": "Tue, 22 Apr 2025 18:00:00 GMT"
-    },
-    {
       "title": "China Is Weighing Tariff Exemptions on Some U.S. Imports - The New York Times",
       "pubDate": "Fri, 25 Apr 2025 12:23:41 GMT"
     },
@@ -1700,14 +1696,6 @@
     }
   ],
   "the_pentagon": [
-    {
-      "title": "As Controversies Pile Up, Trump Allies Increasingly Turn on One Another - Military.com",
-      "pubDate": "Tue, 22 Apr 2025 18:27:00 GMT"
-    },
-    {
-      "title": "Senior Pentagon Official Says Cyber Warfare Poses Significant Threat to Joint Force - U.S. Department of Defense (.gov)",
-      "pubDate": "Tue, 22 Apr 2025 22:33:49 GMT"
-    },
     {
       "title": "Defense Innovation Unit to expand US outposts with three new hubs - Defense News",
       "pubDate": "Thu, 24 Apr 2025 19:12:33 GMT"
@@ -1883,10 +1871,6 @@
   ],
   "us_economy": [
     {
-      "title": "Disney's Impact on the American Economy - The Walt Disney Company",
-      "pubDate": "Sat, 26 Apr 2025 16:07:00 GMT"
-    },
-    {
       "title": "Jennifer Lopez pokes fun at the economy amid fears of US recession - Daily Mail",
       "pubDate": "Sun, 27 Apr 2025 22:23:59 GMT"
     },
@@ -2037,18 +2021,20 @@
     {
       "title": "JPMorgan CEO flags risk of \"stagflation\" facing U.S. economy - Investing.com",
       "pubDate": "Thu, 22 May 2025 08:56:55 GMT"
+    },
+    {
+      "title": "JPMorgan\u2019s Dimon warns of US stagflation risk: Report - Al Jazeera",
+      "pubDate": "Thu, 22 May 2025 18:35:24 GMT"
+    },
+    {
+      "title": "CNBC Daily Open: Trump's 'big, beautiful' tax bill might only be a short-term boost to the U.S. economy - CNBC",
+      "pubDate": "Fri, 23 May 2025 01:23:00 GMT"
     }
   ],
   "terrorism": [
     {
       "title": "Deadly blast outside Palm Springs fertility clinic 'intentional act of terrorism,' FBI says - ABC News",
       "pubDate": "Sun, 18 May 2025 01:30:00 GMT"
-    }
-  ],
-  "world_economy": [
-    {
-      "title": "The IMF just slashed its global growth outlook \u2014 and said the US will be hit hard in the trade war - Business Insider",
-      "pubDate": "Tue, 22 Apr 2025 16:51:00 GMT"
     }
   ],
   "economy": [
@@ -2145,17 +2131,7 @@
       "pubDate": "Fri, 25 Apr 2025 08:32:18 GMT"
     }
   ],
-  "tesla": [
-    {
-      "title": "Tesla is \u2018carefully\u2019 working on its India entry amid tariff concerns, says CFO - CNBC",
-      "pubDate": "Wed, 23 Apr 2025 01:56:00 GMT"
-    }
-  ],
   "space": [
-    {
-      "title": "Third Space Market launches in Gorham - The Portland Press Herald",
-      "pubDate": "Tue, 22 Apr 2025 18:47:11 GMT"
-    },
     {
       "title": "Mystery missile launches from Florida\u2019s Space Coast. Here\u2019s what we know - WKMG",
       "pubDate": "Fri, 25 Apr 2025 17:53:13 GMT"
@@ -2407,20 +2383,6 @@
     {
       "title": "The History of Tariffs and Protesting French Farmers - Time Magazine",
       "pubDate": "Fri, 25 Apr 2025 10:47:46 GMT"
-    },
-    {
-      "title": "Lottery Chief Resigns After 'Biggest Theft' in the History of Texas - Newsweek",
-      "pubDate": "Tue, 22 Apr 2025 16:10:54 GMT"
-    }
-  ],
-  "history_of_the_earth": [
-    {
-      "title": "Watch: The history and purpose of Earth Day - NBC Bay Area",
-      "pubDate": "Tue, 22 Apr 2025 18:00:08 GMT"
-    },
-    {
-      "title": "Reporter's Notebook: If Earth's entire history was squeezed into a single day - CBS News",
-      "pubDate": "Tue, 22 Apr 2025 23:27:00 GMT"
     }
   ],
   "amazon": [
@@ -2665,6 +2627,10 @@
     {
       "title": "From Doomsday to Due Diligence: A Broader Mandate for AI Safety - Tech Policy Press",
       "pubDate": "Thu, 22 May 2025 12:46:57 GMT"
+    },
+    {
+      "title": "US, allies recommend security protections for AI models - Cybersecurity Dive",
+      "pubDate": "Thu, 22 May 2025 16:14:13 GMT"
     }
   ],
   "finance": [
@@ -2811,6 +2777,14 @@
     {
       "title": "In this political bellwether, voters feel the impacts of Trump\u2019s policies - News Channel 3-12",
       "pubDate": "Thu, 22 May 2025 08:04:58 GMT"
+    },
+    {
+      "title": "Supreme Court deadlock leaves in place ruling blocking nation\u2019s first religious charter school - CNN",
+      "pubDate": "Thu, 22 May 2025 16:37:00 GMT"
+    },
+    {
+      "title": "Trump news at a glance: administration escalates Harvard feud; supreme court blocks religious school - The Guardian",
+      "pubDate": "Fri, 23 May 2025 01:26:01 GMT"
     }
   ],
   "brics": [
