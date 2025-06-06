@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "How Trump's clash with the courts is brewing into an 'all-out war' - USA Today",
-      "pubDate": "Sun, 25 May 2025 09:03:16 GMT"
-    },
-    {
       "title": "Trump extends deadline for EU trade deal until 9 July - BBC",
       "pubDate": "Sun, 25 May 2025 23:23:35 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump and Musk escalate public feud over agenda bill - CNN",
       "pubDate": "Thu, 05 Jun 2025 21:06:00 GMT"
+    },
+    {
+      "title": "Trump Musk feud explodes with claim president is in Epstein files - ABC News",
+      "pubDate": "Thu, 05 Jun 2025 20:37:30 GMT"
     }
   ],
   "ukraine": [
@@ -252,10 +252,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Trump May 'Want' A Recession: Market Observer Says It Serves His Economic Agenda\u2014Lower Rates, Oil Prices, And Trade Deficit - Yahoo Finance",
-      "pubDate": "Sun, 25 May 2025 02:08:42 GMT"
-    },
     {
       "title": "Big Short\u2019s Michael Burry Bets on Lipstick to Combat Recession - Bitcoin.com News",
       "pubDate": "Sun, 25 May 2025 07:51:12 GMT"
@@ -411,13 +407,13 @@
     {
       "title": "Musk goes scorched earth: Trump will cause \u2018recession,\u2019 implies he should be impeached - Politico",
       "pubDate": "Thu, 05 Jun 2025 20:56:17 GMT"
+    },
+    {
+      "title": "Elon Musk warns Donald Trump\u2019s tariffs could trigger recession by late 2025 - Mint",
+      "pubDate": "Fri, 06 Jun 2025 03:51:33 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Xi Jinping set to arrive in Moscow as Putin\u2019s \u2018guest of honor\u2019 ahead of Victory Day military parade - CNN",
-      "pubDate": "Wed, 07 May 2025 00:58:00 GMT"
-    },
     {
       "title": "Biden accuses Trump of \u2018modern-day appeasement\u2019 towards Russia - The Guardian",
       "pubDate": "Wed, 07 May 2025 06:19:00 GMT"
@@ -609,10 +605,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Capgemini, SAP, Mistral AI Team Up on Artificial Intelligence - WSJ",
-      "pubDate": "Mon, 26 May 2025 07:34:00 GMT"
-    },
-    {
       "title": "ChatGPT\u2019s Improved Memory Points Toward a More Personal AI - Bloomberg.com",
       "pubDate": "Mon, 26 May 2025 11:03:13 GMT"
     },
@@ -767,6 +759,10 @@
     {
       "title": "Tech job openings vanish as AI, tariffs change hiring landscape - USA Today",
       "pubDate": "Thu, 05 Jun 2025 13:03:49 GMT"
+    },
+    {
+      "title": "Artificial Intelligence is now an A+ law student, study finds - Reuters",
+      "pubDate": "Thu, 05 Jun 2025 17:49:18 GMT"
     }
   ],
   "financial_markets": [
@@ -834,10 +830,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "Trump team urged Ukraine to take U.S. deportees amid war, documents show - The Washington Post",
-      "pubDate": "Wed, 07 May 2025 02:56:21 GMT"
-    },
     {
       "title": "Vance slams Biden\u2019s foreign policy in response to Zelensky meeting criticism: \u2018Total disaster\u2019 - New York Post",
       "pubDate": "Fri, 09 May 2025 04:49:59 GMT"
@@ -1089,10 +1081,6 @@
   ],
   "china": [
     {
-      "title": "EU \u2018has no interest\u2019 in reviving stalled investment deal with China, says trade official - South China Morning Post",
-      "pubDate": "Thu, 15 May 2025 08:18:55 GMT"
-    },
-    {
       "title": "US-China Trade Clash Risks Making Europe Dumping Ground for Cheap Goods - Bloomberg",
       "pubDate": "Thu, 15 May 2025 11:37:44 GMT"
     },
@@ -1247,6 +1235,10 @@
     {
       "title": "Auto industry sounds the alarm as China's rare earth curbs start to bite - CNBC",
       "pubDate": "Thu, 05 Jun 2025 05:10:54 GMT"
+    },
+    {
+      "title": "China Breaks Silence on Minerals Chokehold Threatening Trump and US Allies - Newsweek",
+      "pubDate": "Thu, 05 Jun 2025 18:39:41 GMT"
     }
   ],
   "elon_musk": [
@@ -1262,10 +1254,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "UK deal shrewd start, US to continue to change tariffs: Economists - Anadolu Ajans\u0131",
-      "pubDate": "Sun, 25 May 2025 06:56:34 GMT"
-    },
     {
       "title": "German minister urges 'serious talks' with US on tariffs - The Jakarta Post",
       "pubDate": "Sun, 25 May 2025 14:49:01 GMT"
@@ -1421,6 +1409,10 @@
     {
       "title": "How Disney Parks and Resorts Drive Economic Growth for the U.S. - Disney Experiences",
       "pubDate": "Thu, 05 Jun 2025 13:25:04 GMT"
+    },
+    {
+      "title": "Citadel's Ken Griffin warns of Trump tariffs 'taking a toll' on US economy: Here's what the billionaire said - Mint",
+      "pubDate": "Thu, 05 Jun 2025 16:09:59 GMT"
     }
   ],
   "terrorism": [
@@ -1550,10 +1542,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "US, allies recommend security protections for AI models - Cybersecurity Dive",
-      "pubDate": "Thu, 22 May 2025 16:14:13 GMT"
-    },
     {
       "title": "Anthropic says its Claude AI will resort to blackmail in '84% of rollouts' while an independent AI safety researcher also notes it 'engages in strategic deception more than any other frontier model that we have previously studied' - PC Gamer",
       "pubDate": "Fri, 23 May 2025 12:08:57 GMT"
@@ -1709,6 +1697,10 @@
     {
       "title": "Anthropic introduces new Claude Gov models with national security focus - Nextgov",
       "pubDate": "Thu, 05 Jun 2025 17:04:00 GMT"
+    },
+    {
+      "title": "Groups raise alarms about proposed artificial intelligence regulations - The Center Square",
+      "pubDate": "Thu, 05 Jun 2025 18:52:00 GMT"
     }
   ],
   "energy_storage": [
@@ -1742,10 +1734,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "A Fox host\u2019s \u2018rules for being a man\u2019: no leg-crossing, no public soup drinking | Arwa Mahdawi - The Guardian",
-      "pubDate": "Sat, 24 May 2025 13:01:00 GMT"
-    },
     {
       "title": "Trump Takes Credit for \u2018Most Powerful Army World Has Known\u2019 During West Point Speech: \u2018I Rebuilt the Military\u2019 - Time Magazine",
       "pubDate": "Sat, 24 May 2025 19:02:30 GMT"
@@ -1901,6 +1889,10 @@
     {
       "title": "Musk And Trump Go To War: Musk Endorses Impeachment (Live Updates) - Forbes",
       "pubDate": "Thu, 05 Jun 2025 18:52:00 GMT"
+    },
+    {
+      "title": "The Musk-Trump fight blows up a critical alliance in American politics - CNN",
+      "pubDate": "Thu, 05 Jun 2025 23:51:00 GMT"
     }
   ],
   "brics": [
