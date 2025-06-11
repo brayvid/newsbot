@@ -1,22 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Tariffs court fight threatens Trump's power to wield his favourite economic weapon - BBC",
-      "pubDate": "Fri, 30 May 2025 02:34:20 GMT"
-    },
-    {
-      "title": "Trump goes after Leonard Leo and the Federalist Society in fury over court ruling - Politico",
-      "pubDate": "Fri, 30 May 2025 02:13:48 GMT"
-    },
-    {
-      "title": "Supreme Court rules Trump can revoke protected status for 500,000 immigrants pending appeal - CNBC",
-      "pubDate": "Fri, 30 May 2025 14:32:56 GMT"
-    },
-    {
-      "title": "Trump speaks at Pittsburgh steel plant after hosting Musk at White House - CNN",
-      "pubDate": "Fri, 30 May 2025 21:40:00 GMT"
-    },
-    {
       "title": "Trump's deals with law firms are like deals 'made with a gun to the head,' lawyers say - NPR",
       "pubDate": "Sat, 31 May 2025 09:00:00 GMT"
     },
@@ -159,21 +143,25 @@
     {
       "title": "Trump stumbles up the stairs to Air Force One, stoking memory of Biden tripping video - USA Today",
       "pubDate": "Mon, 09 Jun 2025 15:56:15 GMT"
+    },
+    {
+      "title": "President touts \u2018Trump accounts\u2019 that would create investments for American babies - The Washington Post",
+      "pubDate": "Tue, 10 Jun 2025 03:19:00 GMT"
+    },
+    {
+      "title": "Trump again defends decision to \u2018send in the troops\u2019 after LAPD calls marines\u2019 arrival an \u2018operational challenge\u2019 \u2013 live - The Guardian",
+      "pubDate": "Tue, 10 Jun 2025 06:36:00 GMT"
+    },
+    {
+      "title": "LA protests live: National Guard troops deployed as legal battle rages - BBC",
+      "pubDate": "Tue, 10 Jun 2025 19:58:28 GMT"
+    },
+    {
+      "title": "Trump says he will 'liberate' Los Angeles in speech to mark the 250th anniversary of the Army - AP News",
+      "pubDate": "Wed, 11 Jun 2025 02:45:00 GMT"
     }
   ],
   "ukraine": [
-    {
-      "title": "Ukraine and allies demand 30-day ceasefire; Putin wants talks first - The Washington Post",
-      "pubDate": "Sun, 11 May 2025 06:27:46 GMT"
-    },
-    {
-      "title": "Putin must agree ceasefire before holding \u2018direct\u2019 talks with Ukraine, Kyiv\u2019s allies say - CNN",
-      "pubDate": "Sun, 11 May 2025 12:19:00 GMT"
-    },
-    {
-      "title": "Zelenskyy hopes for ceasefire with Russia and says he'll be 'waiting for Putin' in Turkey personally - AP News",
-      "pubDate": "Mon, 12 May 2025 03:28:00 GMT"
-    },
     {
       "title": "Ukraine's Zelenskiy speaks to new Pope Leo about children abducted by Russia - Reuters",
       "pubDate": "Mon, 12 May 2025 09:24:51 GMT"
@@ -228,18 +216,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Trump\u2019s tariffs in jeopardy: What it means for prices and a recession - CNN",
-      "pubDate": "Thu, 29 May 2025 19:58:00 GMT"
-    },
-    {
-      "title": "North Carolina revenue predictions fall with recession risk - WLOS",
-      "pubDate": "Thu, 29 May 2025 16:08:00 GMT"
-    },
-    {
-      "title": "DBEDT forecasts a downturn in Hawai\u02bbi's economy, but not a recession - Hawaii Public Radio",
-      "pubDate": "Thu, 29 May 2025 23:44:00 GMT"
-    },
     {
       "title": "Recession fears recede but still higher than they were at the start of the year - Investment Week",
       "pubDate": "Fri, 30 May 2025 13:42:57 GMT"
@@ -387,21 +363,21 @@
     {
       "title": "CEOs Show Renewed Economic Optimism As Recession Fears Ease - Finimize",
       "pubDate": "Mon, 09 Jun 2025 21:34:41 GMT"
+    },
+    {
+      "title": "Most CEOs aren't expecting a recession anytime soon, survey finds - CBS News",
+      "pubDate": "Tue, 10 Jun 2025 15:10:12 GMT"
+    },
+    {
+      "title": "How a U.S. recession could upend the travel industry - TheStreet",
+      "pubDate": "Tue, 10 Jun 2025 14:13:04 GMT"
+    },
+    {
+      "title": "Goldman Sachs Predicts Stock Market Rally, Says Recession \u2018Not in the Base Case\u2019 \u2013 Here\u2019s Why - The Daily Hodl",
+      "pubDate": "Tue, 10 Jun 2025 18:42:13 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "Putin proposes direct peace talks with Ukraine after three years of war - Reuters",
-      "pubDate": "Sun, 11 May 2025 08:10:32 GMT"
-    },
-    {
-      "title": "Russia launches more than 100 drones at Ukraine as 72-hour ceasefire ends - Times of India",
-      "pubDate": "Sun, 11 May 2025 11:05:00 GMT"
-    },
-    {
-      "title": "Zelensky challenges Putin to meet him after Trump demands Ukraine-Russia talks - BBC",
-      "pubDate": "Sun, 11 May 2025 18:12:33 GMT"
-    },
     {
       "title": "Ukraine works with Europe to ready new Russia sanctions after no ceasefire - The Washington Post",
       "pubDate": "Mon, 12 May 2025 21:10:49 GMT"
@@ -497,6 +473,10 @@
     {
       "title": "Russian Offensive Campaign Assessment, June 8, 2025 - Institute for the Study of War",
       "pubDate": "Sun, 08 Jun 2025 22:43:39 GMT"
+    },
+    {
+      "title": "Europe heaps harsh sanctions on Russia, saying \u2018strength is the only language\u2019 Moscow understands - CNN",
+      "pubDate": "Tue, 10 Jun 2025 18:51:00 GMT"
     }
   ],
   "inflation": [
@@ -521,25 +501,13 @@
     {
       "title": "Amazon Whole Foods Distributor Breach Disrupts Deliveries - Bloomberg.com",
       "pubDate": "Mon, 09 Jun 2025 21:36:43 GMT"
+    },
+    {
+      "title": "EU to \u2018step up\u2019 on cyber security as dependence on US laid bare - ft.com",
+      "pubDate": "Tue, 10 Jun 2025 04:03:32 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI-enabled \"vibe coding\" lets anyone write software - NPR",
-      "pubDate": "Fri, 30 May 2025 09:00:00 GMT"
-    },
-    {
-      "title": "Artificial Intelligence\u2014Promises and Perils for Humans\u2019 Rights - Harvard Law School | Human Rights Program",
-      "pubDate": "Fri, 30 May 2025 14:56:17 GMT"
-    },
-    {
-      "title": "Artificial Intelligence Speeds Up Diagnoses of Some Cancers - UC San Diego Today",
-      "pubDate": "Fri, 30 May 2025 22:11:26 GMT"
-    },
-    {
-      "title": "Billionaires Are Buying 2 Artificial Intelligence (AI) Stocks That Wall Street Analysts Say Can Soar Up to 240% - Yahoo Finance",
-      "pubDate": "Sat, 31 May 2025 07:15:00 GMT"
-    },
     {
       "title": "Meta plans to replace humans with AI to assess privacy and societal risks - NPR",
       "pubDate": "Sat, 31 May 2025 09:00:00 GMT"
@@ -683,6 +651,22 @@
     {
       "title": "Apple to give app developers access to its artificial intelligence models - Financial Times",
       "pubDate": "Mon, 09 Jun 2025 19:29:29 GMT"
+    },
+    {
+      "title": "Mark Zuckerberg Personally Hiring to Create New \u2018Superintelligence\u2019 AI Team - Bloomberg",
+      "pubDate": "Tue, 10 Jun 2025 06:44:00 GMT"
+    },
+    {
+      "title": "University releases proposed guidelines for artificial intelligence in teaching, learning, open to community feedback - The Daily Texan",
+      "pubDate": "Tue, 10 Jun 2025 04:56:33 GMT"
+    },
+    {
+      "title": "Algoworks Launches as Global Artificial Intelligence (AI), Engineering Services and Experience Transformation Leader - Business Wire",
+      "pubDate": "Tue, 10 Jun 2025 12:00:00 GMT"
+    },
+    {
+      "title": "Qualcomm launches AI R&D centre in Vietnam - Reuters",
+      "pubDate": "Wed, 11 Jun 2025 01:54:00 GMT"
     }
   ],
   "financial_markets": [
@@ -791,6 +775,14 @@
     {
       "title": "Trump\u2019s New Diplomacy: How Tariffs Can Reshape US Foreign Policy - Fair Observer",
       "pubDate": "Sat, 07 Jun 2025 10:09:00 GMT"
+    },
+    {
+      "title": "The New Balance of Power in the Middle East: America, Iran, and the Emerging Arabian Axis - Foreign Affairs",
+      "pubDate": "Tue, 10 Jun 2025 04:00:00 GMT"
+    },
+    {
+      "title": "US Ambassador: A Palestinian State No Longer a Goal of American Foreign Policy - \u0648\u0637\u0646. \u064a\u063a\u0631\u062f \u062e\u0627\u0631\u062c \u0627\u0644\u0633\u0631\u0628",
+      "pubDate": "Tue, 10 Jun 2025 16:47:11 GMT"
     }
   ],
   "trade_war": [
@@ -957,18 +949,6 @@
   ],
   "china": [
     {
-      "title": "China's state banks will cut deposit rates on Tuesday, sources say - Reuters",
-      "pubDate": "Mon, 19 May 2025 14:58:47 GMT"
-    },
-    {
-      "title": "Hyundai is making a comeback in China and this new EV might just seal the deal - Electrek",
-      "pubDate": "Mon, 19 May 2025 18:44:00 GMT"
-    },
-    {
-      "title": "Chinese exporters are offering sweet deals to U.S. businesses. They often come wrapped in fraud - CNBC",
-      "pubDate": "Tue, 20 May 2025 00:03:00 GMT"
-    },
-    {
       "title": "China\u2019s Fighter Jets and Missiles Get a Boost From the India-Pakistan Clash - The New York Times",
       "pubDate": "Tue, 20 May 2025 07:29:39 GMT"
     },
@@ -1115,6 +1095,18 @@
     {
       "title": "Stocks rise, dollar tentative ahead of US-China talks outcome - Reuters",
       "pubDate": "Tue, 10 Jun 2025 02:16:00 GMT"
+    },
+    {
+      "title": "China\u2019s rare-earth mineral squeeze puts defense giants in the crosshairs - CNBC",
+      "pubDate": "Tue, 10 Jun 2025 07:56:35 GMT"
+    },
+    {
+      "title": "China is arming its space station with \u2018guard dogs.\u2019 They have good reason for it - Fast Company",
+      "pubDate": "Tue, 10 Jun 2025 09:11:27 GMT"
+    },
+    {
+      "title": "Gen. Keane warns China conducting 'most comprehensive penetration' of US society in our 250-year history - Fox Business",
+      "pubDate": "Tue, 10 Jun 2025 13:18:00 GMT"
     }
   ],
   "elon_musk": [
@@ -1124,18 +1116,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US stock futures climb as federal court rules against Trump\u2019s tariffs - The Mighty 790 KFGO",
-      "pubDate": "Thu, 29 May 2025 09:56:21 GMT"
-    },
-    {
-      "title": "US economy shrank at 0.2% rate in first quarter - Financial Times",
-      "pubDate": "Thu, 29 May 2025 12:31:18 GMT"
-    },
-    {
-      "title": "America\u2019s economy performed slightly better in the first quarter than we thought \u2014 but it still shrank - CNN",
-      "pubDate": "Thu, 29 May 2025 14:04:00 GMT"
-    },
     {
       "title": "US labor market showing cracks; corporate profits post largest drop since 2020 - Reuters",
       "pubDate": "Thu, 29 May 2025 20:52:48 GMT"
@@ -1283,6 +1263,18 @@
     {
       "title": "Scott Galloway has bold prediction on Social Security, US economy - TheStreet",
       "pubDate": "Tue, 10 Jun 2025 01:31:19 GMT"
+    },
+    {
+      "title": "A nuclear deal with Iran could generate billions for US economy - Responsible Statecraft",
+      "pubDate": "Tue, 10 Jun 2025 04:09:03 GMT"
+    },
+    {
+      "title": "Private equity\u2019s positive impact on the US economy highlighted in new report - InvestmentNews",
+      "pubDate": "Tue, 10 Jun 2025 09:46:44 GMT"
+    },
+    {
+      "title": "World Bank Paints a Bleak Picture of the U.S. Economy\u2014What It Means for Homebuyers and Sellers - Realtor.com",
+      "pubDate": "Tue, 10 Jun 2025 22:12:56 GMT"
     }
   ],
   "terrorism": [
@@ -1344,18 +1336,6 @@
     }
   ],
   "hamas": [
-    {
-      "title": "Israeli Hostages Plead for Rescue in New Hamas Propaganda Video - The Media Line",
-      "pubDate": "Sun, 11 May 2025 09:07:57 GMT"
-    },
-    {
-      "title": "Hamas announces imminent release of Edan Alexander, last known living American hostage - CNN",
-      "pubDate": "Sun, 11 May 2025 19:21:00 GMT"
-    },
-    {
-      "title": "Hamas to release US-Israeli hostage Edan Alexander as part of efforts to reach Gaza ceasefire - BBC",
-      "pubDate": "Mon, 12 May 2025 00:20:01 GMT"
-    },
     {
       "title": "Israel targets Hamas leader Mohammed Sinwar in hospital strike in Gaza, sources say - CNN",
       "pubDate": "Tue, 13 May 2025 22:13:00 GMT"
@@ -1539,22 +1519,6 @@
   ],
   "us_politics": [
     {
-      "title": "U.S. will 'aggressively' revoke Chinese students' visas, Rubio says - NBC News",
-      "pubDate": "Thu, 29 May 2025 02:14:00 GMT"
-    },
-    {
-      "title": "Gov. Whitmer Responds as Trump Considers Kidnap Plot Pardon - Time Magazine",
-      "pubDate": "Thu, 29 May 2025 19:19:00 GMT"
-    },
-    {
-      "title": "Man Who Threatened to Kill Election Officials Gets More Than 3 Years in Prison - The New York Times",
-      "pubDate": "Thu, 29 May 2025 23:08:47 GMT"
-    },
-    {
-      "title": "Supreme court lets Trump strip temporary legal status from 500,000 migrants from four countries \u2013 live - The Guardian",
-      "pubDate": "Fri, 30 May 2025 09:43:00 GMT"
-    },
-    {
       "title": "Defending Medicaid Cuts, Ernst Tells Iowans, \u2018We All Are Going to Die\u2019 - The New York Times",
       "pubDate": "Fri, 30 May 2025 19:04:39 GMT"
     },
@@ -1697,6 +1661,22 @@
     {
       "title": "Trump LA protest response risks turning US military into political force, veterans warn - The Guardian",
       "pubDate": "Mon, 09 Jun 2025 19:54:00 GMT"
+    },
+    {
+      "title": "US Politics: Trump Deploys Troops in LA Amid Protests, Draws Jan 6 Comparison - Deccan Herald",
+      "pubDate": "Tue, 10 Jun 2025 03:51:15 GMT"
+    },
+    {
+      "title": "White House struggles to find qualified people willing to serve under Pete Hegseth: report - The Independent",
+      "pubDate": "Tue, 10 Jun 2025 07:16:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s aggressive moves on immigration protests put Democrats in a political bind - KRDO",
+      "pubDate": "Tue, 10 Jun 2025 17:41:56 GMT"
+    },
+    {
+      "title": "American carnage revisited as Trump plays president of permanent emergency - The Guardian",
+      "pubDate": "Wed, 11 Jun 2025 01:10:00 GMT"
     }
   ],
   "brics": [
