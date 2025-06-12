@@ -45,7 +45,7 @@ def format_history(data):
 
 # Initialize Gemini
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel(model_name="models/gemini-2.5-flash-preview-04-17")
+model = genai.GenerativeModel(model_name="models/gemini-2.5-flash-preview-05-20")
 
 # Create prompt
 history_prompt = format_history(history_data)
