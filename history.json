@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump travel ban: What to know as citizens from Haiti, Afghanistan and other countries barred from U.S. - NBC News",
-      "pubDate": "Thu, 05 Jun 2025 15:12:30 GMT"
-    },
-    {
-      "title": "Trump and Musk escalate public feud over agenda bill - CNN",
-      "pubDate": "Thu, 05 Jun 2025 21:06:00 GMT"
-    },
-    {
       "title": "Trump Musk feud explodes with claim president is in Epstein files - ABC News",
       "pubDate": "Thu, 05 Jun 2025 20:37:30 GMT"
     },
@@ -159,6 +151,14 @@
     {
       "title": "Poll: Americans disapprove of Trump's performance, as Republicans manage splits over spending plans - NBC News",
       "pubDate": "Sun, 15 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Trump coveted a military spectacle but his parade proved underwhelming: \u2018Just kind of lame\u2019 - The Guardian",
+      "pubDate": "Sun, 15 Jun 2025 14:44:00 GMT"
+    },
+    {
+      "title": "Trump administration weighs adding 36 countries to travel ban, memo says - Reuters",
+      "pubDate": "Sun, 15 Jun 2025 21:00:47 GMT"
     }
   ],
   "ukraine": [
@@ -216,10 +216,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "As Recession Risk Rises, Don\u2019t Expect 2008 Repeat (opinion) - Inside Higher Ed",
-      "pubDate": "Wed, 04 Jun 2025 07:01:22 GMT"
-    },
     {
       "title": "Proposed SNAP cuts would permanently undermine recession readiness and responsiveness - Brookings",
       "pubDate": "Wed, 04 Jun 2025 13:02:30 GMT"
@@ -375,6 +371,10 @@
     {
       "title": "Economist's View: Hard data versus soft and what to watch going forward - Pittsburgh Post-Gazette",
       "pubDate": "Sun, 15 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "title": "MOScout Sunday6: Partisan Views of Discrimination - Stable Americans - Slow Down, but no Recession and more\u2026 - Missouri Scout",
+      "pubDate": "Sun, 15 Jun 2025 11:53:50 GMT"
     }
   ],
   "russia": [
@@ -457,6 +457,14 @@
     {
       "title": "Russia is shifting tactics again, assaulting Ukrainian cities with swarms of killer drones - CNN",
       "pubDate": "Sun, 15 Jun 2025 04:01:00 GMT"
+    },
+    {
+      "title": "Russian strike hit Boeing office in Kyiv in deliberate attack on US business, FT reports - The Kyiv Independent",
+      "pubDate": "Sun, 15 Jun 2025 14:16:23 GMT"
+    },
+    {
+      "title": "G7 needs to raise pressure on Russia, von der Leyen says - Reuters",
+      "pubDate": "Mon, 16 Jun 2025 02:54:25 GMT"
     }
   ],
   "inflation": [
@@ -484,14 +492,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI takes down covert operations tied to China and other countries - NPR",
-      "pubDate": "Thu, 05 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "title": "Artificial intelligence supports most precise optical measurements - Optics.org",
-      "pubDate": "Thu, 05 Jun 2025 15:23:54 GMT"
-    },
     {
       "title": "Tech job openings vanish as AI, tariffs change hiring landscape - USA Today",
       "pubDate": "Thu, 05 Jun 2025 13:03:49 GMT"
@@ -643,6 +643,14 @@
     {
       "title": "AI and future of jobs: Here\u2019s what top tech CEOs Sam Altman, Jensen Huang are saying - The Indian Express",
       "pubDate": "Sun, 15 Jun 2025 15:14:00 GMT"
+    },
+    {
+      "title": "\"Summoning the demon\": Steve Bannon stokes fear of an AI \"apocalypse\" - Salon.com",
+      "pubDate": "Sun, 15 Jun 2025 09:45:00 GMT"
+    },
+    {
+      "title": "EU\u2019s waffle on artificial intelligence law creates huge headache - politico.eu",
+      "pubDate": "Mon, 16 Jun 2025 02:34:46 GMT"
     }
   ],
   "financial_markets": [
@@ -786,10 +794,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "U.S. loudspeaker maker sounds the alarm on 'unnecessary' trade war - Nikkei Asia",
-      "pubDate": "Wed, 21 May 2025 01:22:00 GMT"
-    },
     {
       "title": "German economy set for zero growth thanks largely to Trump, government advisers say - politico.eu",
       "pubDate": "Wed, 21 May 2025 09:40:31 GMT"
@@ -945,13 +949,13 @@
     {
       "title": "San Diego businesses adapt to uncertain import prices as tariffs kick in, again - inewsource",
       "pubDate": "Fri, 13 Jun 2025 23:11:43 GMT"
+    },
+    {
+      "title": "UK hoping for US tariff relief in days after deadline slips - politico.eu",
+      "pubDate": "Sun, 15 Jun 2025 20:38:51 GMT"
     }
   ],
   "china": [
-    {
-      "title": "China Fast-Tracks Stealth Jets to Pakistan to Counter India: Report - Newsweek",
-      "pubDate": "Fri, 23 May 2025 15:00:19 GMT"
-    },
     {
       "title": "Alarm Sounded: America's Biotech Future at Risk as China Races Ahead and AI Escalates - cbn.com",
       "pubDate": "Fri, 23 May 2025 16:09:14 GMT"
@@ -1107,6 +1111,10 @@
     {
       "title": "Corporate bond defaults disappear from China\u2019s onshore market - Financial Times",
       "pubDate": "Sun, 15 Jun 2025 04:01:07 GMT"
+    },
+    {
+      "title": "Exclusive: US-China trade truce leaves military-use rare earth issue unresolved, sources say - Reuters",
+      "pubDate": "Sun, 15 Jun 2025 22:59:51 GMT"
     }
   ],
   "elon_musk": [
@@ -1116,14 +1124,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US economic growth forecast cut sharply due to higher tariffs - Fox Business",
-      "pubDate": "Tue, 03 Jun 2025 16:46:00 GMT"
-    },
-    {
-      "title": "Tariff-Resistant US Economy Soothes Traders Ahead of Jobs Data - Bloomberg.com",
-      "pubDate": "Wed, 04 Jun 2025 09:30:00 GMT"
-    },
     {
       "title": "Treasury Yields Slide as ADP Data Flash Signs of Softening Jobs - Bloomberg.com",
       "pubDate": "Wed, 04 Jun 2025 14:52:19 GMT"
@@ -1275,6 +1275,14 @@
     {
       "title": "Making America Backward Again - Rolling Stone",
       "pubDate": "Sun, 15 Jun 2025 09:01:35 GMT"
+    },
+    {
+      "title": "Viewing China-US trade balance objectively reveals the path to win-win cooperation - Global Times",
+      "pubDate": "Sun, 15 Jun 2025 12:48:00 GMT"
+    },
+    {
+      "title": "U.S. could lose more immigrants than it gains for first time in 50 years - The Washington Post",
+      "pubDate": "Sun, 15 Jun 2025 23:51:57 GMT"
     }
   ],
   "terrorism": [
@@ -1519,14 +1527,6 @@
   ],
   "us_politics": [
     {
-      "title": "Marjorie Taylor Greene\u2019s four-word dagger to Trump and GOP after Musk\u2019s \u2018Big Beautiful\u2019 takedown - The Independent",
-      "pubDate": "Wed, 04 Jun 2025 14:33:00 GMT"
-    },
-    {
-      "title": "Elon Musk\u2019s new rallying cry is \u2018KILL BILL\u2019 - The Independent",
-      "pubDate": "Wed, 04 Jun 2025 21:24:00 GMT"
-    },
-    {
       "title": "Musk turns on Republicans - and gives Trump's bill a harder path - BBC",
       "pubDate": "Wed, 04 Jun 2025 20:13:50 GMT"
     },
@@ -1677,6 +1677,14 @@
     {
       "title": "Poll: Neither political party gets good marks on honesty - NBC News",
       "pubDate": "Sun, 15 Jun 2025 13:00:41 GMT"
+    },
+    {
+      "title": "Gathering stormclouds can\u2019t wipe smile from Trump\u2019s face as long-held dream of military parade is realised - The Guardian",
+      "pubDate": "Sun, 15 Jun 2025 18:46:00 GMT"
+    },
+    {
+      "title": "Trump condemns Minnesota shootings but violence has long played a role in U.S. politics - The Globe and Mail",
+      "pubDate": "Sun, 15 Jun 2025 23:43:38 GMT"
     }
   ],
   "brics": [
