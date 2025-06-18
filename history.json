@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump threatens 'very serious consequences' if Elon Musk finances Republican challengers - USA Today",
-      "pubDate": "Sat, 07 Jun 2025 21:14:17 GMT"
-    },
-    {
-      "title": "Trump attends UFC championship fight in New Jersey, taking a break from politics, Musk feud - AP News",
-      "pubDate": "Sun, 08 Jun 2025 02:45:00 GMT"
-    },
-    {
       "title": "Breaking With Trump, Bacon Says He Won\u2019t Follow His Party \u2018Off the Cliff\u2019 - The New York Times",
       "pubDate": "Sun, 08 Jun 2025 09:02:05 GMT"
     },
@@ -159,6 +151,14 @@
     {
       "title": "Live updates: Trump says the US knows where Iran's leader is hiding but won't kill him \u2014 'for now' - AP News",
       "pubDate": "Tue, 17 Jun 2025 20:48:00 GMT"
+    },
+    {
+      "title": "LIVE: Israel-Iran attacks continue; Trump demands unconditional surrender - Al Jazeera",
+      "pubDate": "Wed, 18 Jun 2025 07:22:28 GMT"
+    },
+    {
+      "title": "Trump's Latest Statement On India-Pak Ceasefire, Hours After PM Call - NDTV",
+      "pubDate": "Wed, 18 Jun 2025 15:29:44 GMT"
     }
   ],
   "ukraine": [
@@ -212,18 +212,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Elon Musk warns Donald Trump\u2019s tariffs could trigger recession by late 2025 - Mint",
-      "pubDate": "Fri, 06 Jun 2025 03:51:33 GMT"
-    },
-    {
-      "title": "One in five finance leaders say the US is already in a recession - CFO.com",
-      "pubDate": "Fri, 06 Jun 2025 15:29:22 GMT"
-    },
-    {
-      "title": "Trump Wants the Fed to Cut Interest Rates by a Full Point. That Normally Takes a Recession - Investopedia",
-      "pubDate": "Fri, 06 Jun 2025 17:56:08 GMT"
-    },
     {
       "title": "Elon Musk predicts a recession this year. 8 sneaky signs we actually could be headed for one - Fortune",
       "pubDate": "Fri, 06 Jun 2025 18:15:00 GMT"
@@ -371,13 +359,21 @@
     {
       "title": "Expert dismisses recession fears: \u2018I don\u2019t see anything like that\u2019 - Fox Business",
       "pubDate": "Tue, 17 Jun 2025 16:36:53 GMT"
+    },
+    {
+      "title": "Japan\u2019s exports drop raises recession risks as U.S. tariffs bite - The Japan Times",
+      "pubDate": "Wed, 18 Jun 2025 02:19:00 GMT"
+    },
+    {
+      "title": "Managers bullish as fears about trade war, recession abate \u2014 BofA survey - Pensions & Investments",
+      "pubDate": "Tue, 17 Jun 2025 21:30:56 GMT"
+    },
+    {
+      "title": "Food, Water, And Recession: What Developing Countries Worry About The Most - 24/7 Wall St.",
+      "pubDate": "Wed, 18 Jun 2025 10:43:52 GMT"
     }
   ],
   "russia": [
-    {
-      "title": "As Trump Prepares to Speak With Putin, Here\u2019s Where Ukraine Cease-Fire Talks Stand - The New York Times",
-      "pubDate": "Mon, 19 May 2025 04:49:51 GMT"
-    },
     {
       "title": "EU, Britain go ahead with new Russia sanctions without waiting for Trump - Reuters",
       "pubDate": "Tue, 20 May 2025 14:12:59 GMT"
@@ -465,6 +461,10 @@
     {
       "title": "Russia's deadliest attack on Kyiv for months kills 15 and wounds dozens - BBC",
       "pubDate": "Tue, 17 Jun 2025 10:31:00 GMT"
+    },
+    {
+      "title": "EU's top diplomat warns that Russia has a plan for long-term aggression against Europe - ABC News",
+      "pubDate": "Wed, 18 Jun 2025 11:35:57 GMT"
     }
   ],
   "inflation": [
@@ -496,18 +496,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial intelligence rewrites the chronology of the Dead Sea Scrolls: they are older than expected - Finestre sull'Arte",
-      "pubDate": "Sat, 07 Jun 2025 09:29:13 GMT"
-    },
-    {
-      "title": "UK ministers delay AI regulation amid plans for more \u2018comprehensive\u2019 bill - The Guardian",
-      "pubDate": "Sat, 07 Jun 2025 19:31:00 GMT"
-    },
-    {
-      "title": "State and federal laws allow charges for AI child sexual abuse images - Scranton Times-Tribune",
-      "pubDate": "Sun, 08 Jun 2025 04:05:27 GMT"
-    },
     {
       "title": "Campainers urge UK watchdog to limit use of AI after report of Meta\u2019s plan to automate checks - The Guardian",
       "pubDate": "Sun, 08 Jun 2025 15:42:00 GMT"
@@ -655,13 +643,21 @@
     {
       "title": "'Artificial intelligence is not a miracle cure': Nobel laureate raises questions about AI-generated image of black hole spinning at the heart of our galaxy - Live Science",
       "pubDate": "Tue, 17 Jun 2025 16:51:38 GMT"
+    },
+    {
+      "title": "Amazon CEO tells employees that AI will shrink its workforce - The Washington Post",
+      "pubDate": "Wed, 18 Jun 2025 03:16:53 GMT"
+    },
+    {
+      "title": "Congress Should Not Block State Action on AI - Governing",
+      "pubDate": "Wed, 18 Jun 2025 04:04:11 GMT"
+    },
+    {
+      "title": "This artificial intelligence subcategory is undergoing a 'golden age,' says long-time tech analyst Dan Ives - CNBC",
+      "pubDate": "Wed, 18 Jun 2025 12:43:32 GMT"
     }
   ],
   "financial_markets": [
-    {
-      "title": "Nvidia stock wavers as market turmoil eclipses AI chip announcements - Yahoo Finance",
-      "pubDate": "Mon, 19 May 2025 15:40:13 GMT"
-    },
     {
       "title": "Message from bond market: US financing needs can roil equity markets - Business Standard",
       "pubDate": "Tue, 20 May 2025 17:37:23 GMT"
@@ -713,13 +709,13 @@
     {
       "title": "Financial Markets Daily Report 17 June 2025 - caixabankresearch.com",
       "pubDate": "Tue, 17 Jun 2025 07:10:21 GMT"
+    },
+    {
+      "title": "The market's recovery to near-record high has been led by momentum stock 'freight train' - Yahoo Finance",
+      "pubDate": "Tue, 17 Jun 2025 19:19:08 GMT"
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "Mike Pence Pushes Back After Trump Slams US Foreign Policy, Praises Saudi Crown Prince Mohammed Bin Salman: 'I've Never Been A Fan Of Presidents Criticizing America Abroad' - Benzinga",
-      "pubDate": "Mon, 19 May 2025 10:24:56 GMT"
-    },
     {
       "title": "Rubio defends Trump foreign policy as Democratic senators ask pointed questions - Los Angeles Times",
       "pubDate": "Tue, 20 May 2025 19:05:19 GMT"
@@ -957,18 +953,6 @@
   ],
   "china": [
     {
-      "title": "Huge explosion at China chemical plant kills at least five - BBC",
-      "pubDate": "Tue, 27 May 2025 15:22:20 GMT"
-    },
-    {
-      "title": "China is now the biggest debt collector in the developing world, report says - NPR",
-      "pubDate": "Wed, 28 May 2025 17:23:43 GMT"
-    },
-    {
-      "title": "China investigating former head of food and drug watchdog - Reuters",
-      "pubDate": "Thu, 29 May 2025 15:13:38 GMT"
-    },
-    {
       "title": "Exclusive | Senators Bash Nvidia\u2019s Plans for Facility in China - WSJ",
       "pubDate": "Thu, 29 May 2025 11:00:00 GMT"
     },
@@ -1115,6 +1099,18 @@
     {
       "title": "If Iran\u2019s Oil Is Cut Off, China Will Pay the Price - WSJ",
       "pubDate": "Tue, 17 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "title": "Partnership Short of Alliance: Military Cooperation Between Russia and China - Center for European Policy Analysis (CEPA)",
+      "pubDate": "Wed, 18 Jun 2025 03:52:51 GMT"
+    },
+    {
+      "title": "China\u2019s central bank chief expects new global currency order - Financial Times",
+      "pubDate": "Wed, 18 Jun 2025 07:37:34 GMT"
+    },
+    {
+      "title": "Greetings from Shenyang, China, where workers sort AI data in 'Severance'-like ways - NPR",
+      "pubDate": "Wed, 18 Jun 2025 14:51:30 GMT"
     }
   ],
   "elon_musk": [
@@ -1124,18 +1120,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Elon Musk makes shocking prediction for US economy: 'Donald Trump's tariffs will cause recession in 2025!' - GB News",
-      "pubDate": "Fri, 06 Jun 2025 00:08:50 GMT"
-    },
-    {
-      "title": "U.S. economy adds 139,000 jobs in May while unemployment rate holds steady - NBC News",
-      "pubDate": "Fri, 06 Jun 2025 13:19:22 GMT"
-    },
-    {
-      "title": "US DoT says Biden fuel economy rules exceeded legal authority - Al Jazeera",
-      "pubDate": "Fri, 06 Jun 2025 17:31:40 GMT"
-    },
     {
       "title": "The silent bloodbath that's tearing through the middle-class and rapidly flipping the US economy on its head - Daily Mail",
       "pubDate": "Sat, 07 Jun 2025 15:28:48 GMT"
@@ -1283,6 +1267,18 @@
     {
       "title": "JPMorgan Chase CEO Jamie Dimon makes key observations on US Economy. What we know so far - financialexpress.com",
       "pubDate": "Tue, 17 Jun 2025 15:31:32 GMT"
+    },
+    {
+      "title": "McKinsey Chief Says Global Clients Are Rethinking US Market - Bloomberg.com",
+      "pubDate": "Tue, 17 Jun 2025 20:33:16 GMT"
+    },
+    {
+      "title": "Stalsworth: US economy better under Democrat control - Seguin Gazette",
+      "pubDate": "Tue, 17 Jun 2025 22:30:00 GMT"
+    },
+    {
+      "title": "U.S. unemployment claims dip to 245,000, hovering at historically low levels - PBS",
+      "pubDate": "Wed, 18 Jun 2025 13:54:18 GMT"
     }
   ],
   "us_supreme_court": [
@@ -1349,6 +1345,10 @@
     {
       "title": "Labor accused of \u2018gaslighting\u2019 Australians on climate crisis as fossil fuel projects keep getting approved - The Guardian",
       "pubDate": "Fri, 06 Jun 2025 04:50:00 GMT"
+    },
+    {
+      "title": "UK temperatures of 45C may be possible in current climate, Met Office says - The Guardian",
+      "pubDate": "Wed, 18 Jun 2025 07:01:00 GMT"
     }
   ],
   "ai_safety": [
@@ -1515,14 +1515,6 @@
   ],
   "us_politics": [
     {
-      "title": "Kilmar Abrego Garcia has been returned to the United States to face criminal charges - CNN",
-      "pubDate": "Fri, 06 Jun 2025 21:41:00 GMT"
-    },
-    {
-      "title": "Trump-Musk fallout live updates: The split has rattled US politics and markets - Reuters",
-      "pubDate": "Fri, 06 Jun 2025 16:02:44 GMT"
-    },
-    {
       "title": "Republicans call for an end to Trump-Musk feud: \u2018I hope it doesn\u2019t distract us\u2019 - The Independent",
       "pubDate": "Sat, 07 Jun 2025 08:20:00 GMT"
     },
@@ -1673,6 +1665,14 @@
     {
       "title": "Obama Steps Back Into the Public Eye Amid Political and Global Unrest - The New York Times",
       "pubDate": "Tue, 17 Jun 2025 16:13:28 GMT"
+    },
+    {
+      "title": "The US may be headed into another Middle East war \u2013 and no one is talking about how it ends - CNN",
+      "pubDate": "Wed, 18 Jun 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Obama: The US is dangerously close to becoming an autocracy - The Telegraph",
+      "pubDate": "Wed, 18 Jun 2025 14:24:00 GMT"
     }
   ],
   "iran": [
