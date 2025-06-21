@@ -74,7 +74,7 @@ def ensure_nltk_data():
     nltk_data_dir = os.path.join(BASE_DIR, "nltk_data")
     os.makedirs(nltk_data_dir, exist_ok=True)
     for resource in ['wordnet', 'omw-1.4']:
-        try:
+        try: 
             find(f'corpora/{resource}')
         except LookupError:
             try:
