@@ -68,18 +68,17 @@ lemmatizer = WordNetLemmatizer()
 # Download nltk resources
 from nltk.data import find
 import nltk
-nltk.data.path.append(os.path.join(BASE_DIR, "nltk_data"))
 
 def ensure_nltk_data():
-    nltk_data_dir = os.path.join(BASE_DIR, "nltk_data")
-    os.makedirs(nltk_data_dir, exist_ok=True)
+    nltk_home_dir = os.path.expanduser("~/nltk_data")
+    os.makedirs(nltk_home_dir, exist_ok=True)
     for resource in ['wordnet', 'omw-1.4']:
         try: 
             find(f'corpora/{resource}')
         except LookupError:
             try:
-                logging.info(f"Downloading NLTK resource: {resource} to {nltk_data_dir}")
-                nltk.download(resource, download_dir=nltk_data_dir)
+                logging.info(f"Downloading NLTK resource: {resource} to {nltk_home_dir}")
+                nltk.download(resource, download_dir=nltk_home_dir)
             except Exception as e:
                 print(f"Failed to download {resource}: {e}")
                 logging.error(f"Failed to download NLTK resource {resource}: {e}")
@@ -559,7 +558,7 @@ def main():
         html_body_parts = ["<h2>Your News Digest</h2>"]
         total_articles_in_digest = 0
         for topic, articles in final_digest_to_email.items():
-            section = f'<h3 style="margin-top: 20px; margin-bottom: 5px; border-bottom: 1px solid #eee; padding-bottom: 3px;">{html.escape(topic)}</h3>'
+            section = f'<h3 style="margin-top: 20px; margin-bottom: 5px; padding-bottom: 3px;">{html.escape(topic)}</h3>'
             article_html_parts = []
             for article in articles:
                 total_articles_in_digest += 1
@@ -652,13 +651,13 @@ def main():
     except Exception as e:
         logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
     finally:
-        nltk_path_local = os.path.join(BASE_DIR, "nltk_data")
-        # if os.path.exists(nltk_path_local): # Decided to keep nltk_data locally
+        nltk_home_dir = os.path.expanduser("~/nltk_data")
+        # if os.path.exists(nltk_home_dir): # Decided to keep nltk_data locally
         #     try:
-        #         shutil.rmtree(nltk_path_local)
-        #         logging.info(f"Cleaned up local nltk_data directory: {nltk_path_local}")
+        #         shutil.rmtree(nltk_home_dir)
+        #         logging.info(f"Cleaned up local nltk_data directory: {nltk_home_dir}")
         #     except Exception as e:
-        #         logging.warning(f"Failed to delete local nltk_data directory {nltk_path_local}: {e}")
+        #         logging.warning(f"Failed to delete local nltk_data directory {nltk_home_dir}: {e}")
 
         if os.path.exists(LOCKFILE):
             os.remove(LOCKFILE)
