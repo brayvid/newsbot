@@ -705,10 +705,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "Trump brings AI, not democracy, to the Middle East - The Strategist | ASPI's analysis and commentary site",
-      "pubDate": "Thu, 22 May 2025 20:05:57 GMT"
-    },
-    {
       "title": "We Can No Longer Dismiss Trump\u2019s Blatant Racism - Foreign Policy",
       "pubDate": "Fri, 23 May 2025 18:39:44 GMT"
     },
@@ -1673,18 +1669,30 @@
     {
       "title": "'Major fail' indeed: Musk's AI told the truth, so now he has to fix it | Opinion - USA Today",
       "pubDate": "Sat, 21 Jun 2025 12:58:27 GMT"
+    },
+    {
+      "title": "Top AI models will lie, cheat and steal to reach goals, Anthropic finds - Axios",
+      "pubDate": "Sat, 21 Jun 2025 11:33:36 GMT"
     }
   ],
   "US Politics": [
     {
       "title": "Democrats are at odds over the Israel-Iran war as Trump considers intervening - WTOP",
       "pubDate": "Sat, 21 Jun 2025 16:52:52 GMT"
+    },
+    {
+      "title": "Senate Official Rejects Food Aid Cuts Proposed by Republicans in Megabill - The New York Times",
+      "pubDate": "Sat, 21 Jun 2025 16:24:57 GMT"
     }
   ],
   "Iran": [
     {
       "title": "U.S. Begins Moving B-2 Bombers, as Trump Weighs Attack on Iran - WSJ",
       "pubDate": "Sat, 21 Jun 2025 16:19:00 GMT"
+    },
+    {
+      "title": "Israel says it hit Iran nuclear research facility, killed top commanders as both trade strikes - The Hill",
+      "pubDate": "Sat, 21 Jun 2025 13:47:00 GMT"
     }
   ],
   "Israel": [
@@ -1697,12 +1705,26 @@
     {
       "title": "Ukraine Warns Teenagers the Enemy Is Inside Their Phones - The New York Times",
       "pubDate": "Sat, 21 Jun 2025 09:35:26 GMT"
+    },
+    {
+      "title": "Ukraine asks allies to allocate 0.25% of GDP to boost its weapon production - Reuters",
+      "pubDate": "Sat, 21 Jun 2025 12:44:20 GMT"
     }
   ],
   "Russia": [
     {
       "title": "Putin Sending Dead Russian Soldiers to Ukraine To Hide Losses: Zelensky - Newsweek",
       "pubDate": "Sat, 21 Jun 2025 16:20:20 GMT"
+    },
+    {
+      "title": "Putin says 'all of Ukraine is ours' and threatens nuclear strike - Sky News",
+      "pubDate": "Sat, 21 Jun 2025 14:32:34 GMT"
+    }
+  ],
+  "Donald Trump": [
+    {
+      "title": "Trump\u2019s two-week delay on Iran strike decision leaves Israel in limbo - CNN",
+      "pubDate": "Sat, 21 Jun 2025 12:39:00 GMT"
     }
   ]
 }
