@@ -1257,10 +1257,6 @@
   ],
   "democratic_party": [
     {
-      "title": "Democratic credibility tanks to \u2018catastrophic\u2019 level with Biden health cover-up - Washington Examiner",
-      "pubDate": "Fri, 23 May 2025 09:00:00 GMT"
-    },
-    {
       "title": "NJ Democratic governor candidates want to fight Trump and tackle affordability | Editorial - Bergen Record",
       "pubDate": "Sat, 24 May 2025 08:13:35 GMT"
     },
@@ -1709,6 +1705,10 @@
     {
       "title": "Iran Had Vowed to Retaliate. Now, It Faces Grim Choices. - The New York Times",
       "pubDate": "Sun, 22 Jun 2025 05:51:15 GMT"
+    },
+    {
+      "title": "U.S. Strike on Iran Began With a Ruse - WSJ",
+      "pubDate": "Sun, 22 Jun 2025 12:28:00 GMT"
     }
   ],
   "Israel": [
@@ -1723,6 +1723,10 @@
     {
       "title": "What to know about the Iranian nuclear sites that were hit by US strikes - The Times of Israel",
       "pubDate": "Sun, 22 Jun 2025 07:49:44 GMT"
+    },
+    {
+      "title": "Israel says 21 people wounded as Iran fires dozens of missiles following U.S. strikes on nuclear facilities - CBS News",
+      "pubDate": "Sun, 22 Jun 2025 09:44:13 GMT"
     }
   ],
   "Ukraine": [
@@ -1757,6 +1761,10 @@
     {
       "title": "Trump says key Iranian nuclear facilities \u2018totally obliterated\u2019 in U.S. strikes - The Washington Post",
       "pubDate": "Sun, 22 Jun 2025 07:38:10 GMT"
+    },
+    {
+      "title": "Live updates: Trump claims success on U.S. strikes on Iran; military details overnight stealth operation - NBC News",
+      "pubDate": "Sun, 22 Jun 2025 14:20:31 GMT"
     }
   ],
   "World News": [
@@ -1773,6 +1781,30 @@
     {
       "title": "What are the national security implications of Trump's Iran attack - CBS News",
       "pubDate": "Sun, 22 Jun 2025 01:30:00 GMT"
+    }
+  ],
+  "US Congress": [
+    {
+      "title": "Congress members split over US attack on Iran - Reuters",
+      "pubDate": "Sun, 22 Jun 2025 02:54:00 GMT"
+    }
+  ],
+  "Financial Markets": [
+    {
+      "title": "Investors brace for oil price spike, rush to havens after US bombs Iran nuclear sites - USA Today",
+      "pubDate": "Sun, 22 Jun 2025 02:43:21 GMT"
+    }
+  ],
+  "Recession": [
+    {
+      "title": "Will This War Spark the Next Global Recession? US Strikes on Iran Rattle World Markets - Republic World",
+      "pubDate": "Sun, 22 Jun 2025 12:18:13 GMT"
+    }
+  ],
+  "China": [
+    {
+      "title": "China condemns US strikes on Iran, calls for ceasefire and talks - South China Morning Post",
+      "pubDate": "Sun, 22 Jun 2025 11:38:08 GMT"
     }
   ]
 }
