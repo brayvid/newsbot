@@ -76,11 +76,8 @@ import nltk
 def ensure_nltk_data():
     # Adjusted to use a user-level directory, common for nltk
     # Or keep it relative to BASE_DIR if preferred for portability/CI
-    nltk_data_path_options = [
-        os.path.join(BASE_DIR, "nltk_data"), # For CI or bundled deployments
-        os.path.expanduser("~/nltk_data")    # Standard user location
-    ]
-    download_target_dir = nltk_data_path_options[0] # Default to local project path
+    nltk_home_dir = os.path.expanduser("~/nltk_data")
+    download_target_dir = nltk_home_dir # Default to local project path
     
     # Ensure NLTK knows about this path
     # Check if path is already there to avoid duplicates
