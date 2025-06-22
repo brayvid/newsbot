@@ -651,10 +651,6 @@
   ],
   "financial_markets": [
     {
-      "title": "A famed Wall Street bear warns of 'global financial market Armageddon' as Japanese bond yields spike - Business Insider",
-      "pubDate": "Thu, 22 May 2025 23:01:00 GMT"
-    },
-    {
       "title": "How novice investors have outperformed old pros in the volatile stock market - MarketWatch",
       "pubDate": "Fri, 23 May 2025 15:28:00 GMT"
     },
@@ -1673,6 +1669,10 @@
     {
       "title": "Top AI models will lie, cheat and steal to reach goals, Anthropic finds - Axios",
       "pubDate": "Sat, 21 Jun 2025 11:33:36 GMT"
+    },
+    {
+      "title": "Amazon CEO Andy Jassy says company will cut jobs amid AI boom. It's already happening at Microsoft. - Yahoo Finance",
+      "pubDate": "Sat, 21 Jun 2025 16:25:38 GMT"
     }
   ],
   "US Politics": [
@@ -1683,6 +1683,10 @@
     {
       "title": "Senate Official Rejects Food Aid Cuts Proposed by Republicans in Megabill - The New York Times",
       "pubDate": "Sat, 21 Jun 2025 16:24:57 GMT"
+    },
+    {
+      "title": "Trump's Iran strikes meet bipartisan blowback in Congress over war powers - Axios",
+      "pubDate": "Sun, 22 Jun 2025 01:29:44 GMT"
     }
   ],
   "Iran": [
@@ -1693,12 +1697,20 @@
     {
       "title": "Israel says it hit Iran nuclear research facility, killed top commanders as both trade strikes - The Hill",
       "pubDate": "Sat, 21 Jun 2025 13:47:00 GMT"
+    },
+    {
+      "title": "Live Updates: U.S. Enters War Against Iran, Bombing Key Nuclear Sites - The New York Times",
+      "pubDate": "Sun, 22 Jun 2025 03:52:00 GMT"
     }
   ],
   "Israel": [
     {
       "title": "Israel-Iran live updates: Israel kills 3 Iranian generals, strikes nuclear site - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 21 Jun 2025 13:28:00 GMT"
+    },
+    {
+      "title": "Israeli strikes on Iran cap dramatic shift in Mideast strategic balance - The Washington Post",
+      "pubDate": "Sun, 22 Jun 2025 02:51:57 GMT"
     }
   ],
   "Ukraine": [
@@ -1725,6 +1737,16 @@
     {
       "title": "Trump\u2019s two-week delay on Iran strike decision leaves Israel in limbo - CNN",
       "pubDate": "Sat, 21 Jun 2025 12:39:00 GMT"
+    },
+    {
+      "title": "U.S. bombs three Iranian nuclear sites, Trump addresses nation: Live updates - NBC News",
+      "pubDate": "Sun, 22 Jun 2025 02:52:00 GMT"
+    }
+  ],
+  "World News": [
+    {
+      "title": "US Bombs 3 Nuclear Sites In Iran, Trump Says \"Now Is Time For Peace\" - NDTV",
+      "pubDate": "Sun, 22 Jun 2025 00:43:05 GMT"
     }
   ]
 }
