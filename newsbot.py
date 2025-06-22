@@ -807,7 +807,7 @@ def main():
         html_body_parts = ["<h2>Your News Digest</h2>"]
         total_articles_in_digest = 0
         for topic, articles in final_digest_to_email.items(): # Iterates in Gemini's provided order
-            section = f'<h3 style="margin-top: 20px; margin-bottom: 5px; padding-bottom: 3px; border-bottom: 1px solid #eee;">{html.escape(topic)}</h3>'
+            section = f'<h3 style="margin-top: 20px; margin-bottom: 5px; padding-bottom: 3px;">{html.escape(topic)}</h3>'
             article_html_parts = []
             for article in articles: # Iterates in Gemini's provided order for headlines
                 total_articles_in_digest += 1
