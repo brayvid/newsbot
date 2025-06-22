@@ -751,10 +751,6 @@
   ],
   "trade_war": [
     {
-      "title": "US-China Trade War Shows Signs of Easing with Delegates Maintain Communication - kaohoon international",
-      "pubDate": "Fri, 23 May 2025 06:45:48 GMT"
-    },
-    {
       "title": "Trump threatens 50% tariffs on EU and 25% penalties on smart phones as his trade war intensifies - AP News",
       "pubDate": "Fri, 23 May 2025 23:36:00 GMT"
     },
@@ -1673,6 +1669,10 @@
     {
       "title": "Amazon CEO Andy Jassy says company will cut jobs amid AI boom. It's already happening at Microsoft. - Yahoo Finance",
       "pubDate": "Sat, 21 Jun 2025 16:25:38 GMT"
+    },
+    {
+      "title": "Humans, AI collaborating makes for more accurate medical diagnoses: Study - Straight Arrow News",
+      "pubDate": "Sun, 22 Jun 2025 01:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -1687,6 +1687,10 @@
     {
       "title": "Trump's Iran strikes meet bipartisan blowback in Congress over war powers - Axios",
       "pubDate": "Sun, 22 Jun 2025 01:29:44 GMT"
+    },
+    {
+      "title": "Republican Lawmakers Cheer Strike on Iran as Top Democrats Condemn It - The New York Times",
+      "pubDate": "Sun, 22 Jun 2025 05:37:56 GMT"
     }
   ],
   "Iran": [
@@ -1701,6 +1705,10 @@
     {
       "title": "Live Updates: U.S. Enters War Against Iran, Bombing Key Nuclear Sites - The New York Times",
       "pubDate": "Sun, 22 Jun 2025 03:52:00 GMT"
+    },
+    {
+      "title": "Iran Had Vowed to Retaliate. Now, It Faces Grim Choices. - The New York Times",
+      "pubDate": "Sun, 22 Jun 2025 05:51:15 GMT"
     }
   ],
   "Israel": [
@@ -1711,6 +1719,10 @@
     {
       "title": "Israeli strikes on Iran cap dramatic shift in Mideast strategic balance - The Washington Post",
       "pubDate": "Sun, 22 Jun 2025 02:51:57 GMT"
+    },
+    {
+      "title": "What to know about the Iranian nuclear sites that were hit by US strikes - The Times of Israel",
+      "pubDate": "Sun, 22 Jun 2025 07:49:44 GMT"
     }
   ],
   "Ukraine": [
@@ -1741,12 +1753,26 @@
     {
       "title": "U.S. bombs three Iranian nuclear sites, Trump addresses nation: Live updates - NBC News",
       "pubDate": "Sun, 22 Jun 2025 02:52:00 GMT"
+    },
+    {
+      "title": "Trump says key Iranian nuclear facilities \u2018totally obliterated\u2019 in U.S. strikes - The Washington Post",
+      "pubDate": "Sun, 22 Jun 2025 07:38:10 GMT"
     }
   ],
   "World News": [
     {
       "title": "US Bombs 3 Nuclear Sites In Iran, Trump Says \"Now Is Time For Peace\" - NDTV",
       "pubDate": "Sun, 22 Jun 2025 00:43:05 GMT"
+    },
+    {
+      "title": "US strikes on Iran come at fragile moment for the global economy - The Economic Times",
+      "pubDate": "Sun, 22 Jun 2025 06:39:46 GMT"
+    }
+  ],
+  "National Security": [
+    {
+      "title": "What are the national security implications of Trump's Iran attack - CBS News",
+      "pubDate": "Sun, 22 Jun 2025 01:30:00 GMT"
     }
   ]
 }
