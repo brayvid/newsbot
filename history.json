@@ -651,10 +651,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Markets Slide as Trump Targets EU and iPhones With Tariffs - Bitcoin.com News",
-      "pubDate": "Fri, 23 May 2025 16:30:30 GMT"
-    },
-    {
       "title": "Rising bond yields give stock-market investors the yips. Watch these levels. - MarketWatch",
       "pubDate": "Sat, 24 May 2025 12:30:00 GMT"
     },
@@ -696,10 +692,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "We Can No Longer Dismiss Trump\u2019s Blatant Racism - Foreign Policy",
-      "pubDate": "Fri, 23 May 2025 18:39:44 GMT"
-    },
     {
       "title": "These historians oversee unbiased accounts of U.S. foreign policy. Trump fired them all. - The Washington Post",
       "pubDate": "Wed, 28 May 2025 15:28:06 GMT"
@@ -1281,10 +1273,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Striking the Balance: Global Approaches to Mitigating AI-Related Risks - Unite.AI",
-      "pubDate": "Fri, 23 May 2025 17:06:03 GMT"
-    },
-    {
       "title": "This AI used affair to blackmail engineer and prevent shutdown - Interesting Engineering",
       "pubDate": "Fri, 23 May 2025 23:28:00 GMT"
     },
@@ -1717,6 +1705,10 @@
     {
       "title": "U.S. strikes on Iran nuclear facilities see Hamas and the Houthis vow retaliation, as world leaders react - CBS News",
       "pubDate": "Sun, 22 Jun 2025 13:16:56 GMT"
+    },
+    {
+      "title": "Satellite images and decoy planes: Behind the US attacks on Iran - BBC",
+      "pubDate": "Sun, 22 Jun 2025 18:02:12 GMT"
     }
   ],
   "Israel": [
@@ -1735,6 +1727,10 @@
     {
       "title": "Israel says 21 people wounded as Iran fires dozens of missiles following U.S. strikes on nuclear facilities - CBS News",
       "pubDate": "Sun, 22 Jun 2025 09:44:13 GMT"
+    },
+    {
+      "title": "Israel-Iran war live: Iran parliament votes to shut Hormuz strait in response to US attack raising fears of oil price shock - The Guardian",
+      "pubDate": "Sun, 22 Jun 2025 19:27:00 GMT"
     }
   ],
   "Ukraine": [
@@ -1759,6 +1755,10 @@
     {
       "title": "Putin says 'all of Ukraine is ours' and threatens nuclear strike - Sky News",
       "pubDate": "Sat, 21 Jun 2025 14:32:34 GMT"
+    },
+    {
+      "title": "Russia\u2019s economy boomed after the invasion of Ukraine\u2014it\u2019s now running out of steam - Fortune",
+      "pubDate": "Sun, 22 Jun 2025 12:08:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -1817,6 +1817,10 @@
     {
       "title": "Most Gulf markets trade up, unfazed by rising regional tensions as US strikes Iran - Reuters",
       "pubDate": "Sun, 22 Jun 2025 09:56:59 GMT"
+    },
+    {
+      "title": "Investors set to flock to safety as world awaits Iran\u2019s response - Yahoo Finance",
+      "pubDate": "Sun, 22 Jun 2025 14:15:01 GMT"
     }
   ],
   "Recession": [
@@ -1829,6 +1833,18 @@
     {
       "title": "China condemns US strikes on Iran, calls for ceasefire and talks - South China Morning Post",
       "pubDate": "Sun, 22 Jun 2025 11:38:08 GMT"
+    }
+  ],
+  "AI Safety": [
+    {
+      "title": "AI Deception and Blackmail: Anthropic Study Reveals Widespread Risks, Urges Proactive Safeguards - Oneindia",
+      "pubDate": "Sun, 22 Jun 2025 08:57:11 GMT"
+    }
+  ],
+  "Data Breach": [
+    {
+      "title": "Urgent alarm issued after \u2018mother of all data breaches\u2019 sees 16 billion passwords exposed \u2014 do this ASAP - AOL.com",
+      "pubDate": "Sun, 22 Jun 2025 19:15:51 GMT"
     }
   ]
 }
