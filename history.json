@@ -1233,10 +1233,6 @@
   ],
   "democratic_party": [
     {
-      "title": "NJ Democratic governor candidates want to fight Trump and tackle affordability | Editorial - Bergen Record",
-      "pubDate": "Sat, 24 May 2025 08:13:35 GMT"
-    },
-    {
       "title": "Democrats find unlikely defender over Biden decline revelations \u2013 Trump\u2019s former press secretary - The Independent",
       "pubDate": "Sat, 24 May 2025 19:59:00 GMT"
     },
@@ -1260,10 +1256,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "AI model blackmails engineer; threatens to expose his affair in attempt to avoid shutdown - The Economic Times",
-      "pubDate": "Sat, 24 May 2025 07:21:35 GMT"
-    },
     {
       "title": "Musk\u2019s Grok AI use in US govt sparks privacy, ethics concerns - The Express Tribune",
       "pubDate": "Sat, 24 May 2025 10:17:28 GMT"
@@ -1645,6 +1637,10 @@
     {
       "title": "Preparing for a New Age: Artificial Intelligence, the American Workforce and the G.I. Bill - New Jersey Globe",
       "pubDate": "Sun, 22 Jun 2025 23:52:54 GMT"
+    },
+    {
+      "title": "Range Intelligent Is Said to Explore Second Listing in Hong Kong - Bloomberg.com",
+      "pubDate": "Mon, 23 Jun 2025 05:44:00 GMT"
     }
   ],
   "US Politics": [
@@ -1671,6 +1667,10 @@
     {
       "title": "Legality of Trump Iran strikes questioned by some lawmakers in both parties - NBC News",
       "pubDate": "Sun, 22 Jun 2025 18:34:00 GMT"
+    },
+    {
+      "title": "Shifting Views and Misdirection: How Trump Decided to Strike Iran - The New York Times",
+      "pubDate": "Mon, 23 Jun 2025 03:43:56 GMT"
     }
   ],
   "Iran": [
@@ -1727,6 +1727,10 @@
     {
       "title": "Israel-Iran war live: Iran parliament votes to shut Hormuz strait in response to US attack raising fears of oil price shock - The Guardian",
       "pubDate": "Sun, 22 Jun 2025 19:27:00 GMT"
+    },
+    {
+      "title": "Israel-Iran live: Iran threatens US with 'decisive response' after strikes - as it sends wave of missiles at Israel - Sky News",
+      "pubDate": "Mon, 23 Jun 2025 08:54:21 GMT"
     }
   ],
   "Ukraine": [
@@ -1741,6 +1745,10 @@
     {
       "title": "One million and counting: Russian casualties hit milestone in Ukraine war - The Guardian",
       "pubDate": "Sun, 22 Jun 2025 05:01:00 GMT"
+    },
+    {
+      "title": "More than 350 Russian drones, missiles blast Kyiv killing at least five - France 24",
+      "pubDate": "Mon, 23 Jun 2025 03:26:56 GMT"
     }
   ],
   "Russia": [
@@ -1781,6 +1789,10 @@
     {
       "title": "Trump Changed. The Intelligence Didn\u2019t. - The Atlantic",
       "pubDate": "Sun, 22 Jun 2025 22:22:00 GMT"
+    },
+    {
+      "title": "LIVE: Iran vows to retaliate over US attacks; Trump warns of regime change - Al Jazeera",
+      "pubDate": "Mon, 23 Jun 2025 06:56:02 GMT"
     }
   ],
   "World News": [
@@ -1825,6 +1837,10 @@
     {
       "title": "Global Markets Dip as Traders Gauge Fallout From U.S. Strikes on Iran - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 03:03:33 GMT"
+    },
+    {
+      "title": "Stock Futures Drop, Oil Gains After Strike on Iran: Markets Wrap - Bloomberg.com",
+      "pubDate": "Mon, 23 Jun 2025 07:33:22 GMT"
     }
   ],
   "Recession": [
@@ -1837,6 +1853,10 @@
     {
       "title": "China condemns US strikes on Iran, calls for ceasefire and talks - South China Morning Post",
       "pubDate": "Sun, 22 Jun 2025 11:38:08 GMT"
+    },
+    {
+      "title": "China Says the U.S. Damaged Its Own Credibility by Striking Iran - The New York Times",
+      "pubDate": "Mon, 23 Jun 2025 07:58:38 GMT"
     }
   ],
   "AI Safety": [
