@@ -371,10 +371,6 @@
   ],
   "russia": [
     {
-      "title": "Russia hits Ukrainian capital Kyiv with heavy missile and drone attack - CBS News",
-      "pubDate": "Sat, 24 May 2025 01:38:50 GMT"
-    },
-    {
       "title": "Russian strikes kill 13 and injure scores of civilians - BBC",
       "pubDate": "Sat, 24 May 2025 14:17:52 GMT"
     },
@@ -738,10 +734,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump threatens 50% tariffs on EU and 25% penalties on smart phones as his trade war intensifies - AP News",
-      "pubDate": "Fri, 23 May 2025 23:36:00 GMT"
-    },
     {
       "title": "Unpacking Trump\u2019s Issue With the E.U. as He Threatens 50% Tariff - Time Magazine",
       "pubDate": "Sat, 24 May 2025 14:56:45 GMT"
@@ -1227,10 +1219,6 @@
   ],
   "us_supreme_court": [
     {
-      "title": "Supreme Court Chief Justice John Roberts Throws Elon Musk's DOGE a Lifeline - Newsweek",
-      "pubDate": "Fri, 23 May 2025 22:33:39 GMT"
-    },
-    {
       "title": "Justices Grant DOGE Access to Social Security Data and Let the Team Shield Records - The New York Times",
       "pubDate": "Fri, 06 Jun 2025 22:22:41 GMT"
     },
@@ -1272,10 +1260,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "This AI used affair to blackmail engineer and prevent shutdown - Interesting Engineering",
-      "pubDate": "Fri, 23 May 2025 23:28:00 GMT"
-    },
     {
       "title": "AI model blackmails engineer; threatens to expose his affair in attempt to avoid shutdown - The Economic Times",
       "pubDate": "Sat, 24 May 2025 07:21:35 GMT"
@@ -1657,6 +1641,10 @@
     {
       "title": "Trump\u2019s plan to ban US states from AI regulation will \u2018hold us back\u2019, says Microsoft science chief - The Guardian",
       "pubDate": "Sun, 22 Jun 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Preparing for a New Age: Artificial Intelligence, the American Workforce and the G.I. Bill - New Jersey Globe",
+      "pubDate": "Sun, 22 Jun 2025 23:52:54 GMT"
     }
   ],
   "US Politics": [
@@ -1679,6 +1667,10 @@
     {
       "title": "Democrats say they were left in dark about plans for US strikes on Iran - The Guardian",
       "pubDate": "Sun, 22 Jun 2025 14:31:00 GMT"
+    },
+    {
+      "title": "Legality of Trump Iran strikes questioned by some lawmakers in both parties - NBC News",
+      "pubDate": "Sun, 22 Jun 2025 18:34:00 GMT"
     }
   ],
   "Iran": [
@@ -1709,6 +1701,10 @@
     {
       "title": "Satellite images and decoy planes: Behind the US attacks on Iran - BBC",
       "pubDate": "Sun, 22 Jun 2025 18:02:12 GMT"
+    },
+    {
+      "title": "U.S. strikes on Iranian nuclear sites show no sign of widespread environmental impact - NPR",
+      "pubDate": "Sun, 22 Jun 2025 16:22:39 GMT"
     }
   ],
   "Israel": [
@@ -1781,6 +1777,10 @@
     {
       "title": "Live updates: Iran warns US strikes will have \u2018everlasting consequences\u2019 as Trump says nuclear sites \u2018obliterated\u2019 - CNN",
       "pubDate": "Sun, 22 Jun 2025 14:39:00 GMT"
+    },
+    {
+      "title": "Trump Changed. The Intelligence Didn\u2019t. - The Atlantic",
+      "pubDate": "Sun, 22 Jun 2025 22:22:00 GMT"
     }
   ],
   "World News": [
@@ -1821,6 +1821,10 @@
     {
       "title": "Investors set to flock to safety as world awaits Iran\u2019s response - Yahoo Finance",
       "pubDate": "Sun, 22 Jun 2025 14:15:01 GMT"
+    },
+    {
+      "title": "Global Markets Dip as Traders Gauge Fallout From U.S. Strikes on Iran - The New York Times",
+      "pubDate": "Mon, 23 Jun 2025 03:03:33 GMT"
     }
   ],
   "Recession": [
@@ -1845,6 +1849,18 @@
     {
       "title": "Urgent alarm issued after \u2018mother of all data breaches\u2019 sees 16 billion passwords exposed \u2014 do this ASAP - AOL.com",
       "pubDate": "Sun, 22 Jun 2025 19:15:51 GMT"
+    }
+  ],
+  "Cybersecurity": [
+    {
+      "title": "DHS expects Iran\u2019s cyber forces will target US networks after strikes on nuclear sites - Nextgov",
+      "pubDate": "Sun, 22 Jun 2025 19:39:27 GMT"
+    }
+  ],
+  "US Economy": [
+    {
+      "title": "America\u2019s economy faces a new war shock: Surging oil prices - CNN",
+      "pubDate": "Sun, 22 Jun 2025 21:35:00 GMT"
     }
   ]
 }
