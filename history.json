@@ -371,10 +371,6 @@
   ],
   "russia": [
     {
-      "title": "Russian strikes kill 13 and injure scores of civilians - BBC",
-      "pubDate": "Sat, 24 May 2025 14:17:52 GMT"
-    },
-    {
       "title": "At Least 12 Killed and Dozens Injured After Russia\u2019s Air Strike In Ukraine - The New York Times",
       "pubDate": "Sun, 25 May 2025 15:50:31 GMT"
     },
@@ -647,10 +643,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Rising bond yields give stock-market investors the yips. Watch these levels. - MarketWatch",
-      "pubDate": "Sat, 24 May 2025 12:30:00 GMT"
-    },
-    {
       "title": "The U.S. dollar hasn't been this weak in 3 years. What that means for stock investors - CNBC",
       "pubDate": "Thu, 12 Jun 2025 20:00:02 GMT"
     },
@@ -734,10 +726,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Unpacking Trump\u2019s Issue With the E.U. as He Threatens 50% Tariff - Time Magazine",
-      "pubDate": "Sat, 24 May 2025 14:56:45 GMT"
-    },
     {
       "title": "Trump\u2019s new tariff threats show trade uncertainty here to stay - Yahoo Finance",
       "pubDate": "Sat, 24 May 2025 18:51:20 GMT"
@@ -1257,10 +1245,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Musk\u2019s Grok AI use in US govt sparks privacy, ethics concerns - The Express Tribune",
-      "pubDate": "Sat, 24 May 2025 10:17:28 GMT"
-    },
-    {
       "title": "Claude Opus 4 sets a benchmark in AI coding as Anthropic\u2019s revenue doubles - Digital Watch Observatory",
       "pubDate": "Sun, 25 May 2025 09:00:00 GMT"
     },
@@ -1705,6 +1689,10 @@
     {
       "title": "U.S. strikes on Iranian nuclear sites show no sign of widespread environmental impact - NPR",
       "pubDate": "Sun, 22 Jun 2025 16:22:39 GMT"
+    },
+    {
+      "title": "Israel Pounds Tehran, Strikes Fordow Again as Khamenei Appeals to Putin - Newsweek",
+      "pubDate": "Mon, 23 Jun 2025 14:39:14 GMT"
     }
   ],
   "Israel": [
@@ -1793,6 +1781,10 @@
     {
       "title": "LIVE: Iran vows to retaliate over US attacks; Trump warns of regime change - Al Jazeera",
       "pubDate": "Mon, 23 Jun 2025 06:56:02 GMT"
+    },
+    {
+      "title": "Trump says 'everyone' should keep oil prices lower or they're playing 'into the hands of the enemy' - CNBC",
+      "pubDate": "Mon, 23 Jun 2025 13:52:25 GMT"
     }
   ],
   "World News": [
@@ -1881,6 +1873,24 @@
     {
       "title": "America\u2019s economy faces a new war shock: Surging oil prices - CNN",
       "pubDate": "Sun, 22 Jun 2025 21:35:00 GMT"
+    }
+  ],
+  "Trade War": [
+    {
+      "title": "US farmers face tough outlook as China switches suppliers amid trade war - South China Morning Post",
+      "pubDate": "Mon, 23 Jun 2025 13:00:08 GMT"
+    }
+  ],
+  "Asteroids": [
+    {
+      "title": "Thousands of asteroids and millions of galaxies shine in first images from the largest camera ever built - CNN",
+      "pubDate": "Mon, 23 Jun 2025 04:01:00 GMT"
+    }
+  ],
+  "Atlantic Ocean": [
+    {
+      "title": "The Gulf Stream is on the verge of COLLAPSING, scientists warn - as they find the first concrete evidence of major ocean circulation system weakening - Daily Mail",
+      "pubDate": "Mon, 23 Jun 2025 10:22:51 GMT"
     }
   ]
 }
