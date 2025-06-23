@@ -727,10 +727,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump\u2019s new tariff threats show trade uncertainty here to stay - Yahoo Finance",
-      "pubDate": "Sat, 24 May 2025 18:51:20 GMT"
-    },
-    {
       "title": "Indonesian president and Chinese premier meet to discuss expanding trade during US trade war - AP News",
       "pubDate": "Sun, 25 May 2025 03:54:00 GMT"
     },
@@ -1221,10 +1217,6 @@
   ],
   "democratic_party": [
     {
-      "title": "Democrats find unlikely defender over Biden decline revelations \u2013 Trump\u2019s former press secretary - The Independent",
-      "pubDate": "Sat, 24 May 2025 19:59:00 GMT"
-    },
-    {
       "title": "- St. Joseph County Democratic Party Press Conference - WNDU",
       "pubDate": "Sat, 24 May 2025 23:14:00 GMT"
     }
@@ -1625,6 +1617,10 @@
     {
       "title": "Range Intelligent Is Said to Explore Second Listing in Hong Kong - Bloomberg.com",
       "pubDate": "Mon, 23 Jun 2025 05:44:00 GMT"
+    },
+    {
+      "title": "Artificial intelligence isn\u2019t hurting workers\u2014It might be helping - ScienceDaily",
+      "pubDate": "Mon, 23 Jun 2025 14:03:45 GMT"
     }
   ],
   "US Politics": [
@@ -1655,6 +1651,10 @@
     {
       "title": "Shifting Views and Misdirection: How Trump Decided to Strike Iran - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 03:43:56 GMT"
+    },
+    {
+      "title": "Republican House speaker dismisses efforts to check Trump\u2019s military power against Iran \u2013 US politics live - The Guardian",
+      "pubDate": "Mon, 23 Jun 2025 09:45:00 GMT"
     }
   ],
   "Iran": [
@@ -1693,6 +1693,10 @@
     {
       "title": "Israel Pounds Tehran, Strikes Fordow Again as Khamenei Appeals to Putin - Newsweek",
       "pubDate": "Mon, 23 Jun 2025 14:39:14 GMT"
+    },
+    {
+      "title": "US strikes: How much damage has been done to Iran's nuclear facilities? - Sky News",
+      "pubDate": "Mon, 23 Jun 2025 19:49:49 GMT"
     }
   ],
   "Israel": [
@@ -1785,6 +1789,10 @@
     {
       "title": "Trump says 'everyone' should keep oil prices lower or they're playing 'into the hands of the enemy' - CNBC",
       "pubDate": "Mon, 23 Jun 2025 13:52:25 GMT"
+    },
+    {
+      "title": "Donald Trump Reacts to Iran's Strike on US Base - Newsweek",
+      "pubDate": "Mon, 23 Jun 2025 20:06:49 GMT"
     }
   ],
   "World News": [
@@ -1833,6 +1841,10 @@
     {
       "title": "Stock Futures Drop, Oil Gains After Strike on Iran: Markets Wrap - Bloomberg.com",
       "pubDate": "Mon, 23 Jun 2025 07:33:22 GMT"
+    },
+    {
+      "title": "Stocks Rise as Oil Fades and Fed Bets Sink Yields: Markets Wrap - Bloomberg.com",
+      "pubDate": "Mon, 23 Jun 2025 20:13:39 GMT"
     }
   ],
   "Recession": [
@@ -1891,6 +1903,18 @@
     {
       "title": "The Gulf Stream is on the verge of COLLAPSING, scientists warn - as they find the first concrete evidence of major ocean circulation system weakening - Daily Mail",
       "pubDate": "Mon, 23 Jun 2025 10:22:51 GMT"
+    }
+  ],
+  "Business": [
+    {
+      "title": "Global Business Remains Resilient in Face of Tariffs, Middle East War - WSJ",
+      "pubDate": "Mon, 23 Jun 2025 18:11:00 GMT"
+    }
+  ],
+  "Astronomy": [
+    {
+      "title": "Vera Rubin Telescope Quickly Found 1,200 New Asteroids - The New York Times",
+      "pubDate": "Mon, 23 Jun 2025 15:30:07 GMT"
     }
   ]
 }
