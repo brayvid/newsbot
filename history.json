@@ -727,10 +727,6 @@
   ],
   "trade_war": [
     {
-      "title": "Indonesian president and Chinese premier meet to discuss expanding trade during US trade war - AP News",
-      "pubDate": "Sun, 25 May 2025 03:54:00 GMT"
-    },
-    {
       "title": "Trade war with China highlights auto sector's need for rare-earth mineral supply - The Detroit News",
       "pubDate": "Mon, 26 May 2025 03:07:20 GMT"
     },
@@ -1215,12 +1211,6 @@
       "pubDate": "Thu, 12 Jun 2025 14:37:26 GMT"
     }
   ],
-  "democratic_party": [
-    {
-      "title": "- St. Joseph County Democratic Party Press Conference - WNDU",
-      "pubDate": "Sat, 24 May 2025 23:14:00 GMT"
-    }
-  ],
   "climate": [
     {
       "title": "Global temperatures could break heat record in next five years - The Guardian",
@@ -1621,6 +1611,10 @@
     {
       "title": "Artificial intelligence isn\u2019t hurting workers\u2014It might be helping - ScienceDaily",
       "pubDate": "Mon, 23 Jun 2025 14:03:45 GMT"
+    },
+    {
+      "title": "Opinion | Unleashing artificial intelligence - The Washington Post",
+      "pubDate": "Tue, 24 Jun 2025 02:55:24 GMT"
     }
   ],
   "US Politics": [
@@ -1793,6 +1787,10 @@
     {
       "title": "Donald Trump Reacts to Iran's Strike on US Base - Newsweek",
       "pubDate": "Mon, 23 Jun 2025 20:06:49 GMT"
+    },
+    {
+      "title": "Live updates: Trump announces Israel-Iran ceasefire; attack on Al Udeid Air Base in Qatar - CNN",
+      "pubDate": "Tue, 24 Jun 2025 03:40:00 GMT"
     }
   ],
   "World News": [
@@ -1861,6 +1859,10 @@
     {
       "title": "China Says the U.S. Damaged Its Own Credibility by Striking Iran - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 07:58:38 GMT"
+    },
+    {
+      "title": "China says Taiwan president spreading 'heresy' with sovereignty speech - Reuters",
+      "pubDate": "Mon, 23 Jun 2025 23:48:06 GMT"
     }
   ],
   "AI Safety": [
@@ -1885,6 +1887,10 @@
     {
       "title": "America\u2019s economy faces a new war shock: Surging oil prices - CNN",
       "pubDate": "Sun, 22 Jun 2025 21:35:00 GMT"
+    },
+    {
+      "title": "Ford Will Keep Battery Factory Even if Republicans Ax Tax Break - The New York Times",
+      "pubDate": "Tue, 24 Jun 2025 00:37:40 GMT"
     }
   ],
   "Trade War": [
@@ -1915,6 +1921,12 @@
     {
       "title": "Vera Rubin Telescope Quickly Found 1,200 New Asteroids - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 15:30:07 GMT"
+    }
+  ],
+  "Earthquakes": [
+    {
+      "title": "Magnitude 5.8 earthquake strikes off Dominican Republic coast, USGS says - Yahoo",
+      "pubDate": "Tue, 24 Jun 2025 03:00:00 GMT"
     }
   ]
 }
