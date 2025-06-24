@@ -1227,10 +1227,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Claude Opus 4 sets a benchmark in AI coding as Anthropic\u2019s revenue doubles - Digital Watch Observatory",
-      "pubDate": "Sun, 25 May 2025 09:00:00 GMT"
-    },
-    {
       "title": "AI mistrust: Concerns over safety, ethics, and cybercrime fuel rising scepticism - Business Daily",
       "pubDate": "Sun, 25 May 2025 16:30:00 GMT"
     },
@@ -1615,6 +1611,10 @@
     {
       "title": "Opinion | Unleashing artificial intelligence - The Washington Post",
       "pubDate": "Tue, 24 Jun 2025 02:55:24 GMT"
+    },
+    {
+      "title": "American Students Are Relying On ChatGPT - At Their Own Risk - Newsweek",
+      "pubDate": "Tue, 24 Jun 2025 08:00:01 GMT"
     }
   ],
   "US Politics": [
@@ -1691,6 +1691,10 @@
     {
       "title": "US strikes: How much damage has been done to Iran's nuclear facilities? - Sky News",
       "pubDate": "Mon, 23 Jun 2025 19:49:49 GMT"
+    },
+    {
+      "title": "Iran fires missiles at US base in Qatar, Trump calls for peace - Reuters",
+      "pubDate": "Mon, 23 Jun 2025 21:40:41 GMT"
     }
   ],
   "Israel": [
@@ -1717,6 +1721,10 @@
     {
       "title": "Israel-Iran live: Iran threatens US with 'decisive response' after strikes - as it sends wave of missiles at Israel - Sky News",
       "pubDate": "Mon, 23 Jun 2025 08:54:21 GMT"
+    },
+    {
+      "title": "Israel-Iran war live: Israeli government confirms it has agreed to ceasefire deal brokered by US - The Guardian",
+      "pubDate": "Tue, 24 Jun 2025 07:44:07 GMT"
     }
   ],
   "Ukraine": [
@@ -1791,6 +1799,10 @@
     {
       "title": "Live updates: Trump announces Israel-Iran ceasefire; attack on Al Udeid Air Base in Qatar - CNN",
       "pubDate": "Tue, 24 Jun 2025 03:40:00 GMT"
+    },
+    {
+      "title": "LIVE: Trump says Israel-Iran ceasefire is now in effect - Al Jazeera",
+      "pubDate": "Tue, 24 Jun 2025 05:40:01 GMT"
     }
   ],
   "World News": [
@@ -1843,6 +1855,10 @@
     {
       "title": "Stocks Rise as Oil Fades and Fed Bets Sink Yields: Markets Wrap - Bloomberg.com",
       "pubDate": "Mon, 23 Jun 2025 20:13:39 GMT"
+    },
+    {
+      "title": "US strikes on Iran shake up financial markets - KREM",
+      "pubDate": "Mon, 23 Jun 2025 23:17:00 GMT"
     }
   ],
   "Recession": [
@@ -1869,6 +1885,10 @@
     {
       "title": "AI Deception and Blackmail: Anthropic Study Reveals Widespread Risks, Urges Proactive Safeguards - Oneindia",
       "pubDate": "Sun, 22 Jun 2025 08:57:11 GMT"
+    },
+    {
+      "title": "AI models exhibit harmful behaviors, posing insider threats in corporate scenarios - CHOSUNBIZ - Chosunbiz",
+      "pubDate": "Tue, 24 Jun 2025 08:35:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1903,6 +1923,10 @@
     {
       "title": "Thousands of asteroids and millions of galaxies shine in first images from the largest camera ever built - CNN",
       "pubDate": "Mon, 23 Jun 2025 04:01:00 GMT"
+    },
+    {
+      "title": "Giant asteroid could crash into moon in 2032, firing debris towards Earth - The Guardian",
+      "pubDate": "Tue, 24 Jun 2025 01:31:00 GMT"
     }
   ],
   "Atlantic Ocean": [
