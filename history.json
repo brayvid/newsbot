@@ -371,10 +371,6 @@
   ],
   "russia": [
     {
-      "title": "At Least 12 Killed and Dozens Injured After Russia\u2019s Air Strike In Ukraine - The New York Times",
-      "pubDate": "Sun, 25 May 2025 15:50:31 GMT"
-    },
-    {
       "title": "Russia says U.S. Golden Dome project undermines strategic stability - Reuters",
       "pubDate": "Tue, 27 May 2025 09:23:13 GMT"
     },
@@ -1615,6 +1611,10 @@
     {
       "title": "American Students Are Relying On ChatGPT - At Their Own Risk - Newsweek",
       "pubDate": "Tue, 24 Jun 2025 08:00:01 GMT"
+    },
+    {
+      "title": "At Amazon\u2019s Biggest Data Center, Everything Is Supersized for A.I. - The New York Times",
+      "pubDate": "Tue, 24 Jun 2025 09:01:00 GMT"
     }
   ],
   "US Politics": [
@@ -1695,6 +1695,10 @@
     {
       "title": "Iran fires missiles at US base in Qatar, Trump calls for peace - Reuters",
       "pubDate": "Mon, 23 Jun 2025 21:40:41 GMT"
+    },
+    {
+      "title": "Israel-Iran ceasefire appears to hold after Trump outburst at both sides - live updates - BBC",
+      "pubDate": "Tue, 24 Jun 2025 10:46:30 GMT"
     }
   ],
   "Israel": [
@@ -1743,6 +1747,10 @@
     {
       "title": "More than 350 Russian drones, missiles blast Kyiv killing at least five - France 24",
       "pubDate": "Mon, 23 Jun 2025 03:26:56 GMT"
+    },
+    {
+      "title": "Russia strikes Kyiv with North Korean missiles and Iranian drones: Zelensky - NK News",
+      "pubDate": "Tue, 24 Jun 2025 05:04:10 GMT"
     }
   ],
   "Russia": [
@@ -1803,6 +1811,10 @@
     {
       "title": "LIVE: Trump says Israel-Iran ceasefire is now in effect - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 05:40:01 GMT"
+    },
+    {
+      "title": "Live updates: Trump lashes out at Israel and Iran amid accusations of ceasefire violations - NBC News",
+      "pubDate": "Tue, 24 Jun 2025 15:23:32 GMT"
     }
   ],
   "World News": [
@@ -1951,6 +1963,18 @@
     {
       "title": "Magnitude 5.8 earthquake strikes off Dominican Republic coast, USGS says - Yahoo",
       "pubDate": "Tue, 24 Jun 2025 03:00:00 GMT"
+    }
+  ],
+  "Quantum Computer": [
+    {
+      "title": "China breaks RSA encryption with a quantum computer, threatening global data security - Earth.com",
+      "pubDate": "Tue, 24 Jun 2025 13:30:29 GMT"
+    }
+  ],
+  "Democratic Party": [
+    {
+      "title": "New York mayoral candidates face off in test of Democratic Party - BBC",
+      "pubDate": "Tue, 24 Jun 2025 13:51:58 GMT"
     }
   ]
 }
