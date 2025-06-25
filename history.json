@@ -1599,6 +1599,10 @@
     {
       "title": "AI Security Turning Point: Echo Chamber Jailbreak Exposes Dangerous Blind Spot - TechRepublic",
       "pubDate": "Tue, 24 Jun 2025 21:44:06 GMT"
+    },
+    {
+      "title": "New York Legislature Passes Sweeping AI Safety Legislation - Inside Global Tech",
+      "pubDate": "Tue, 24 Jun 2025 23:06:31 GMT"
     }
   ],
   "US Politics": [
@@ -1695,6 +1699,10 @@
     {
       "title": "Early US intel assessment finds strikes set back Iran's nuclear program only by months - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 24 Jun 2025 20:01:38 GMT"
+    },
+    {
+      "title": "US strikes set Iran's nuclear program back a few months, Pentagon assessment says - USA Today",
+      "pubDate": "Wed, 25 Jun 2025 01:07:30 GMT"
     }
   ],
   "Israel": [
@@ -1827,6 +1835,10 @@
     {
       "title": "US strikes failed to destroy Iran's nuclear sites, intelligence report says - Reuters",
       "pubDate": "Wed, 25 Jun 2025 00:17:00 GMT"
+    },
+    {
+      "title": "Trump insists Iran nuclear sites \u2018completely destroyed\u2019 in US strikes - Al Jazeera",
+      "pubDate": "Wed, 25 Jun 2025 07:46:18 GMT"
     }
   ],
   "World News": [
@@ -1937,6 +1949,10 @@
     {
       "title": "DHS expects Iran\u2019s cyber forces will target US networks after strikes on nuclear sites - Nextgov",
       "pubDate": "Sun, 22 Jun 2025 19:39:27 GMT"
+    },
+    {
+      "title": "BlackBerry raises annual revenue forecast on robust demand for cybersecurity services - Reuters",
+      "pubDate": "Tue, 24 Jun 2025 22:04:19 GMT"
     }
   ],
   "US Economy": [
@@ -1951,6 +1967,10 @@
     {
       "title": "Electricity prices soar as US regional grids wobble from extreme heat - MSN",
       "pubDate": "Wed, 25 Jun 2025 00:01:14 GMT"
+    },
+    {
+      "title": "Tesla\u2019s EU sales slump continues; China\u2019s premier warns global trade tensions \u2018intensifying\u2019 \u2013 business live - The Guardian",
+      "pubDate": "Wed, 25 Jun 2025 06:41:00 GMT"
     }
   ],
   "Trade War": [
@@ -2009,6 +2029,18 @@
     {
       "title": "Mediator: Ceasefire-hostage deal between Israel and Hamas possible \u2018within days\u2019 - The Times of Israel",
       "pubDate": "Wed, 25 Jun 2025 03:54:51 GMT"
+    }
+  ],
+  "New York City": [
+    {
+      "title": "Zohran Mamdani stuns Democratic establishment in New York mayor race - Financial Times",
+      "pubDate": "Wed, 25 Jun 2025 07:28:48 GMT"
+    }
+  ],
+  "Bitcoin": [
+    {
+      "title": "Anthony Pompliano\u2019s crypto venture buys $386M in Bitcoin - Cointelegraph",
+      "pubDate": "Wed, 25 Jun 2025 04:53:42 GMT"
     }
   ]
 }
