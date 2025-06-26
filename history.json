@@ -1203,10 +1203,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Movies predicted it! AI models ignored shut down orders, say researchers - Mathrubhumi English",
-      "pubDate": "Tue, 27 May 2025 01:20:12 GMT"
-    },
-    {
       "title": "This just-released AI knows how to blackmail, how to escape and more - Switzer Daily",
       "pubDate": "Tue, 27 May 2025 05:55:46 GMT"
     },
@@ -1591,6 +1587,10 @@
     {
       "title": "Paul Tudor Jones: Why AI Rings Every One of My Alarm Bells - Time Magazine",
       "pubDate": "Wed, 25 Jun 2025 15:09:31 GMT"
+    },
+    {
+      "title": "Meta wins artificial intelligence copyright case in blow to authors - Financial Times",
+      "pubDate": "Wed, 25 Jun 2025 23:10:42 GMT"
     }
   ],
   "US Politics": [
@@ -1987,6 +1987,10 @@
     {
       "title": "JPMorgan says tariffs could still spark a 'stagflationary' recession this year - Quartz",
       "pubDate": "Wed, 25 Jun 2025 16:25:15 GMT"
+    },
+    {
+      "title": "US Economy: Glass Half Full or Half Empty? - Nomura Connects",
+      "pubDate": "Thu, 26 Jun 2025 02:04:11 GMT"
     }
   ],
   "Trade War": [
@@ -2039,6 +2043,10 @@
     {
       "title": "New York mayoral candidates face off in test of Democratic Party - BBC",
       "pubDate": "Tue, 24 Jun 2025 13:51:58 GMT"
+    },
+    {
+      "title": "What the New York Mayoral Primary Means for Democrats - The Atlantic",
+      "pubDate": "Wed, 25 Jun 2025 21:09:00 GMT"
     }
   ],
   "Hamas": [
@@ -2063,6 +2071,12 @@
     {
       "title": "CIA says intelligence indicates Iran's nuclear program severely damaged - Reuters",
       "pubDate": "Wed, 25 Jun 2025 20:35:45 GMT"
+    }
+  ],
+  "BRICS": [
+    {
+      "title": "Putin to skip BRICS summit in Brazil due to ICC arrest warrant - The Kyiv Independent",
+      "pubDate": "Wed, 25 Jun 2025 17:43:34 GMT"
     }
   ]
 }
