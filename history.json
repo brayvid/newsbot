@@ -1203,10 +1203,6 @@
   ],
   "ai_safety": [
     {
-      "title": "This just-released AI knows how to blackmail, how to escape and more - Switzer Daily",
-      "pubDate": "Tue, 27 May 2025 05:55:46 GMT"
-    },
-    {
       "title": "AI Autonomy Alert: ChatGPT-o3 resists shutdown in safety test - Deccan Herald",
       "pubDate": "Tue, 27 May 2025 09:51:52 GMT"
     },
@@ -1591,6 +1587,10 @@
     {
       "title": "Meta wins artificial intelligence copyright case in blow to authors - Financial Times",
       "pubDate": "Wed, 25 Jun 2025 23:10:42 GMT"
+    },
+    {
+      "title": "Meta wins AI copyright case, but judge says others could bring lawsuits - CNBC",
+      "pubDate": "Thu, 26 Jun 2025 00:13:00 GMT"
     }
   ],
   "US Politics": [
@@ -1847,6 +1847,10 @@
     {
       "title": "Live updates: Trump attends NATO summit; Andrew Cuomo concedes to Zohran Mamdani in NYC mayoral primary - NBC News",
       "pubDate": "Wed, 25 Jun 2025 20:06:39 GMT"
+    },
+    {
+      "title": "Live updates: Iran confirms nuclear sites damaged as Trump promises a meeting \u2018next week\u2019 - CNN",
+      "pubDate": "Thu, 26 Jun 2025 08:34:00 GMT"
     }
   ],
   "World News": [
@@ -1939,6 +1943,10 @@
     {
       "title": "China Military Unveils Mosquito-Sized Drones for 'Special Missions' - Newsweek",
       "pubDate": "Wed, 25 Jun 2025 15:39:55 GMT"
+    },
+    {
+      "title": "China breaks more records with surge in solar and wind power - The Guardian",
+      "pubDate": "Thu, 26 Jun 2025 05:52:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1997,6 +2005,10 @@
     {
       "title": "US farmers face tough outlook as China switches suppliers amid trade war - South China Morning Post",
       "pubDate": "Mon, 23 Jun 2025 13:00:08 GMT"
+    },
+    {
+      "title": "US-China trade deal is near, expert says: \u2018they are going to stabilise this\u2019 - South China Morning Post",
+      "pubDate": "Thu, 26 Jun 2025 08:01:57 GMT"
     }
   ],
   "Asteroids": [
@@ -2077,6 +2089,18 @@
     {
       "title": "Putin to skip BRICS summit in Brazil due to ICC arrest warrant - The Kyiv Independent",
       "pubDate": "Wed, 25 Jun 2025 17:43:34 GMT"
+    }
+  ],
+  "Central Intelligence Agency": [
+    {
+      "title": "Mossad hails Israel\u2019s \u2018historic\u2019 Iran offensive, thanks CIA in rare public message - The Times of Israel",
+      "pubDate": "Wed, 25 Jun 2025 22:07:30 GMT"
+    }
+  ],
+  "NVIDIA": [
+    {
+      "title": "Nvidia Becomes World's Most Valuable Company Again Thanks to AI, Robotics - Tech Times",
+      "pubDate": "Thu, 26 Jun 2025 06:20:06 GMT"
     }
   ]
 }
