@@ -367,10 +367,6 @@
   ],
   "russia": [
     {
-      "title": "Russia says U.S. Golden Dome project undermines strategic stability - Reuters",
-      "pubDate": "Tue, 27 May 2025 09:23:13 GMT"
-    },
-    {
       "title": "Russia launches deadly drone and missile strikes days after Ukraine\u2019s audacious attack on bomber fleet - CNN",
       "pubDate": "Fri, 06 Jun 2025 08:52:00 GMT"
     },
@@ -718,10 +714,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump's trade war imperils Spanish hatmaker's business with US Orthodox Jews - Reuters",
-      "pubDate": "Tue, 27 May 2025 11:42:07 GMT"
-    },
     {
       "title": "Temu's Chinese owner sees profits plunge as tariff war bites - BBC",
       "pubDate": "Wed, 28 May 2025 03:17:34 GMT"
@@ -1203,10 +1195,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI Autonomy Alert: ChatGPT-o3 resists shutdown in safety test - Deccan Herald",
-      "pubDate": "Tue, 27 May 2025 09:51:52 GMT"
-    },
-    {
       "title": "ChatGPT o3 Resists Shutdown Despite Instructions, Study Claims - Hackread",
       "pubDate": "Tue, 27 May 2025 21:24:59 GMT"
     },
@@ -1591,6 +1579,10 @@
     {
       "title": "Meta wins AI copyright case, but judge says others could bring lawsuits - CNBC",
       "pubDate": "Thu, 26 Jun 2025 00:13:00 GMT"
+    },
+    {
+      "title": "Group of high-profile authors sue Microsoft over use of their books in AI training - The Guardian",
+      "pubDate": "Thu, 26 Jun 2025 15:39:00 GMT"
     }
   ],
   "US Politics": [
@@ -1851,6 +1843,10 @@
     {
       "title": "Live updates: Iran confirms nuclear sites damaged as Trump promises a meeting \u2018next week\u2019 - CNN",
       "pubDate": "Thu, 26 Jun 2025 08:34:00 GMT"
+    },
+    {
+      "title": "Trump calls for Netanyahu's trial to be canceled - Reuters",
+      "pubDate": "Thu, 26 Jun 2025 08:01:51 GMT"
     }
   ],
   "World News": [
@@ -1947,6 +1943,10 @@
     {
       "title": "China breaks more records with surge in solar and wind power - The Guardian",
       "pubDate": "Thu, 26 Jun 2025 05:52:00 GMT"
+    },
+    {
+      "title": "China Could Turn Up the Heat on Taiwan. Iran Is Why. - Barron's",
+      "pubDate": "Thu, 26 Jun 2025 14:55:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1999,6 +1999,10 @@
     {
       "title": "US Economy: Glass Half Full or Half Empty? - Nomura Connects",
       "pubDate": "Thu, 26 Jun 2025 02:04:11 GMT"
+    },
+    {
+      "title": "Trump Is Setting the US Economy Up for Another Great Financial Crisis - Truthout",
+      "pubDate": "Thu, 26 Jun 2025 13:39:04 GMT"
     }
   ],
   "Trade War": [
@@ -2059,6 +2063,10 @@
     {
       "title": "What the New York Mayoral Primary Means for Democrats - The Atlantic",
       "pubDate": "Wed, 25 Jun 2025 21:09:00 GMT"
+    },
+    {
+      "title": "Democrats\u2019 Scattered Response to Trump\u2019s Iran Strikes Highlights Party Divides - The New York Times",
+      "pubDate": "Thu, 26 Jun 2025 04:51:00 GMT"
     }
   ],
   "Hamas": [
@@ -2071,6 +2079,10 @@
     {
       "title": "Zohran Mamdani stuns Democratic establishment in New York mayor race - Financial Times",
       "pubDate": "Wed, 25 Jun 2025 07:28:48 GMT"
+    },
+    {
+      "title": "Zohran Mamdani\u2019s Winning Style - The New York Times",
+      "pubDate": "Thu, 26 Jun 2025 14:50:03 GMT"
     }
   ],
   "Bitcoin": [
