@@ -1177,10 +1177,6 @@
   ],
   "climate": [
     {
-      "title": "Global temperatures could break heat record in next five years - The Guardian",
-      "pubDate": "Wed, 28 May 2025 04:00:00 GMT"
-    },
-    {
       "title": "Labor accused of \u2018gaslighting\u2019 Australians on climate crisis as fossil fuel projects keep getting approved - The Guardian",
       "pubDate": "Fri, 06 Jun 2025 04:50:00 GMT"
     },
@@ -1190,10 +1186,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "US lawmakers urge AI Safety Institute to counter China's growing AI threat - ANI News",
-      "pubDate": "Wed, 28 May 2025 06:55:00 GMT"
-    },
     {
       "title": "AI Shutdown Failure: OpenAI Models Disobey Commands, Report Reveals - The Hans India",
       "pubDate": "Wed, 28 May 2025 10:12:56 GMT"
@@ -1583,6 +1575,10 @@
     {
       "title": "Meta hires key OpenAI researcher to work on AI reasoning models - TechCrunch",
       "pubDate": "Thu, 26 Jun 2025 16:13:59 GMT"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman takes one of the biggest AI U-Turn, says: Current computers are \u2026 - Times of India",
+      "pubDate": "Fri, 27 Jun 2025 03:53:00 GMT"
     }
   ],
   "US Politics": [
@@ -1637,6 +1633,10 @@
     {
       "title": "Senate GOP dealt major blow on Medicaid cuts in megabill - Politico",
       "pubDate": "Thu, 26 Jun 2025 12:51:08 GMT"
+    },
+    {
+      "title": "Senators Unconvinced of Effectiveness of U.S. Strikes on Iran - Time Magazine",
+      "pubDate": "Thu, 26 Jun 2025 22:25:44 GMT"
     }
   ],
   "Iran": [
@@ -1867,6 +1867,10 @@
     {
       "title": "Trump pushes for passage of his massive tax and immigration bill - The Washington Post",
       "pubDate": "Fri, 27 Jun 2025 03:00:00 GMT"
+    },
+    {
+      "title": "Trump threatens CNN and New York Times with lawsuits over Iran reports - CNN",
+      "pubDate": "Fri, 27 Jun 2025 01:33:00 GMT"
     }
   ],
   "World News": [
@@ -1975,6 +1979,10 @@
     {
       "title": "Exclusive | China Is Still Choking Exports of Rare Earths Despite Pact With U.S. - WSJ",
       "pubDate": "Thu, 26 Jun 2025 09:30:00 GMT"
+    },
+    {
+      "title": "US reaches deal with China to speed up rare earth shipments, White House says, amid efforts to end trade war - The Guardian",
+      "pubDate": "Fri, 27 Jun 2025 07:21:00 GMT"
     }
   ],
   "AI Safety": [
@@ -2157,6 +2165,18 @@
     {
       "title": "A Battery \u20182X Better\u2019 than Tesla\u2019s Is Reshaping the $90B Home Power Storage Market - CarbonCredits.com",
       "pubDate": "Thu, 26 Jun 2025 17:06:38 GMT"
+    }
+  ],
+  "Cancer": [
+    {
+      "title": "People dying early of cancer costs UK economy \u00a310.3bn a year, study finds - The Guardian",
+      "pubDate": "Thu, 26 Jun 2025 23:01:00 GMT"
+    }
+  ],
+  "Climate": [
+    {
+      "title": "Earth is trapping much more heat than climate models forecast \u2013 and the rate has doubled in 20 years - The Conversation",
+      "pubDate": "Fri, 27 Jun 2025 01:34:00 GMT"
     }
   ]
 }
