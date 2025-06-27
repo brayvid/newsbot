@@ -715,10 +715,6 @@
   ],
   "trade_war": [
     {
-      "title": "Temu's Chinese owner sees profits plunge as tariff war bites - BBC",
-      "pubDate": "Wed, 28 May 2025 03:17:34 GMT"
-    },
-    {
       "title": "Brussels \u2018urgently\u2019 asks EU companies about US exposure as trade war deadline nears - politico.eu",
       "pubDate": "Wed, 28 May 2025 12:10:00 GMT"
     },
@@ -1195,10 +1191,6 @@
   ],
   "ai_safety": [
     {
-      "title": "ChatGPT o3 Resists Shutdown Despite Instructions, Study Claims - Hackread",
-      "pubDate": "Tue, 27 May 2025 21:24:59 GMT"
-    },
-    {
       "title": "US lawmakers urge AI Safety Institute to counter China's growing AI threat - ANI News",
       "pubDate": "Wed, 28 May 2025 06:55:00 GMT"
     },
@@ -1587,6 +1579,10 @@
     {
       "title": "AI is doing up to 50% of the work at Salesforce, CEO Marc Benioff says - CNBC",
       "pubDate": "Thu, 26 Jun 2025 13:49:11 GMT"
+    },
+    {
+      "title": "Meta hires key OpenAI researcher to work on AI reasoning models - TechCrunch",
+      "pubDate": "Thu, 26 Jun 2025 16:13:59 GMT"
     }
   ],
   "US Politics": [
@@ -1703,6 +1699,10 @@
     {
       "title": "Pentagon chief: Iran strike was a 'historically successful attack' - NPR",
       "pubDate": "Thu, 26 Jun 2025 13:57:26 GMT"
+    },
+    {
+      "title": "Secrets on Iran nuclear strike spill into open as Pentagon defends bombing - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Thu, 26 Jun 2025 21:26:57 GMT"
     }
   ],
   "Israel": [
@@ -1781,6 +1781,10 @@
     {
       "title": "Russia\u2019s economy boomed after the invasion of Ukraine\u2014it\u2019s now running out of steam - Fortune",
       "pubDate": "Sun, 22 Jun 2025 12:08:00 GMT"
+    },
+    {
+      "title": "Putin cannot attend BRICS summit in Brazil as he fears arrest for war crimes - Atlantic Council",
+      "pubDate": "Thu, 26 Jun 2025 20:53:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -1859,6 +1863,10 @@
     {
       "title": "Trump calls for Netanyahu's trial to be canceled - Reuters",
       "pubDate": "Thu, 26 Jun 2025 08:01:51 GMT"
+    },
+    {
+      "title": "Trump pushes for passage of his massive tax and immigration bill - The Washington Post",
+      "pubDate": "Fri, 27 Jun 2025 03:00:00 GMT"
     }
   ],
   "World News": [
@@ -2087,6 +2095,10 @@
     {
       "title": "Democrats\u2019 Scattered Response to Trump\u2019s Iran Strikes Highlights Party Divides - The New York Times",
       "pubDate": "Thu, 26 Jun 2025 04:51:00 GMT"
+    },
+    {
+      "title": "Zohran Mamdani\u2019s upset in New York primary reignites Democratic identity debate: Analysis - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Thu, 26 Jun 2025 19:21:43 GMT"
     }
   ],
   "Hamas": [
@@ -2133,6 +2145,18 @@
     {
       "title": "Nvidia Becomes World's Most Valuable Company Again Thanks to AI, Robotics - Tech Times",
       "pubDate": "Thu, 26 Jun 2025 06:20:06 GMT"
+    }
+  ],
+  "Technology": [
+    {
+      "title": "Nvidia Stock Keeps Rallying After Hitting New High. Why Shares Can Keep Rising. - Barron's",
+      "pubDate": "Thu, 26 Jun 2025 19:15:00 GMT"
+    }
+  ],
+  "Renewable Energy": [
+    {
+      "title": "A Battery \u20182X Better\u2019 than Tesla\u2019s Is Reshaping the $90B Home Power Storage Market - CarbonCredits.com",
+      "pubDate": "Thu, 26 Jun 2025 17:06:38 GMT"
     }
   ]
 }
