@@ -1179,10 +1179,6 @@
   ],
   "ai_safety": [
     {
-      "title": "OpenAI Models defy shutdown commands in AI safety tests, raising control concerns - Diya TV",
-      "pubDate": "Wed, 28 May 2025 18:00:00 GMT"
-    },
-    {
       "title": "Singapore: Global Collaboration for a Trusted AI Ecosystem - OpenGov Asia",
       "pubDate": "Thu, 29 May 2025 00:55:04 GMT"
     },
@@ -1763,6 +1759,10 @@
     {
       "title": "Russian missile attack kills 17 as Zelenskiy presses NATO allies for support - Reuters",
       "pubDate": "Tue, 24 Jun 2025 16:14:16 GMT"
+    },
+    {
+      "title": "Russia and Ukraine trade long-range drone attacks as Putin says Moscow is ready for new peace talks - AP News",
+      "pubDate": "Fri, 27 Jun 2025 18:08:00 GMT"
     }
   ],
   "Russia": [
@@ -1875,6 +1875,10 @@
     {
       "title": "Supreme Court curbs injunctions that blocked Trump's birthright citizenship plan - NBC News",
       "pubDate": "Fri, 27 Jun 2025 14:13:49 GMT"
+    },
+    {
+      "title": "Supreme Court limits ability of judges to stop Trump - CNN",
+      "pubDate": "Fri, 27 Jun 2025 19:42:00 GMT"
     }
   ],
   "World News": [
@@ -1995,6 +1999,10 @@
     {
       "title": "US, China formalize deal on rare earth shipments in trade breakthrough - CNN",
       "pubDate": "Fri, 27 Jun 2025 07:50:00 GMT"
+    },
+    {
+      "title": "China Confirms Trade Framework With U.S. to Lift Export Controls - The New York Times",
+      "pubDate": "Fri, 27 Jun 2025 11:13:49 GMT"
     }
   ],
   "AI Safety": [
@@ -2051,6 +2059,10 @@
     {
       "title": "Trump Is Setting the US Economy Up for Another Great Financial Crisis - Truthout",
       "pubDate": "Thu, 26 Jun 2025 13:39:04 GMT"
+    },
+    {
+      "title": "Biggest US banks pass Federal Reserve stress tests - Financial Times",
+      "pubDate": "Fri, 27 Jun 2025 20:30:59 GMT"
     }
   ],
   "Trade War": [
@@ -2125,6 +2137,10 @@
     {
       "title": "Mediator: Ceasefire-hostage deal between Israel and Hamas possible \u2018within days\u2019 - The Times of Israel",
       "pubDate": "Wed, 25 Jun 2025 03:54:51 GMT"
+    },
+    {
+      "title": "Battling to survive, Hamas faces defiant clans and doubts over Iran - Reuters",
+      "pubDate": "Fri, 27 Jun 2025 18:27:01 GMT"
     }
   ],
   "New York City": [
@@ -2189,6 +2205,12 @@
     {
       "title": "Earth is trapping much more heat than climate models forecast \u2013 and the rate has doubled in 20 years - The Conversation",
       "pubDate": "Fri, 27 Jun 2025 01:34:00 GMT"
+    }
+  ],
+  "Hurricanes": [
+    {
+      "title": "Critical Hurricane Monitoring Data Is Going Offline - The New York Times",
+      "pubDate": "Fri, 27 Jun 2025 15:54:31 GMT"
     }
   ]
 }
