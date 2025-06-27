@@ -669,10 +669,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "These historians oversee unbiased accounts of U.S. foreign policy. Trump fired them all. - The Washington Post",
-      "pubDate": "Wed, 28 May 2025 15:28:06 GMT"
-    },
-    {
       "title": "Judge says US effort to deport Mahmoud Khalil on foreign policy grounds is likely unconstitutional - Decatur Daily",
       "pubDate": "Thu, 29 May 2025 17:32:00 GMT"
     },
@@ -714,10 +710,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "Brussels \u2018urgently\u2019 asks EU companies about US exposure as trade war deadline nears - politico.eu",
-      "pubDate": "Wed, 28 May 2025 12:10:00 GMT"
-    },
     {
       "title": "Auto Trader boss says trade war could boost new car sales into UK - The Independent",
       "pubDate": "Thu, 29 May 2025 09:21:00 GMT"
@@ -1187,14 +1179,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI Shutdown Failure: OpenAI Models Disobey Commands, Report Reveals - The Hans India",
-      "pubDate": "Wed, 28 May 2025 10:12:56 GMT"
-    },
-    {
-      "title": "Safety measures can spur AI\u2019s growth, not stifle it: Panellists - Yahoo News Singapore",
-      "pubDate": "Wed, 28 May 2025 12:22:45 GMT"
-    },
-    {
       "title": "OpenAI Models defy shutdown commands in AI safety tests, raising control concerns - Diya TV",
       "pubDate": "Wed, 28 May 2025 18:00:00 GMT"
     },
@@ -1579,6 +1563,10 @@
     {
       "title": "OpenAI CEO Sam Altman takes one of the biggest AI U-Turn, says: Current computers are \u2026 - Times of India",
       "pubDate": "Fri, 27 Jun 2025 03:53:00 GMT"
+    },
+    {
+      "title": "Exclusive: Trump plans executive orders to power AI growth in race with China - Reuters",
+      "pubDate": "Fri, 27 Jun 2025 11:27:19 GMT"
     }
   ],
   "US Politics": [
@@ -1703,6 +1691,10 @@
     {
       "title": "Secrets on Iran nuclear strike spill into open as Pentagon defends bombing - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 26 Jun 2025 21:26:57 GMT"
+    },
+    {
+      "title": "Senate Democrats question \"obliteration\" of Iran's nuclear sites after classified briefing on strikes - CBS News",
+      "pubDate": "Fri, 27 Jun 2025 11:40:42 GMT"
     }
   ],
   "Israel": [
@@ -1741,6 +1733,10 @@
     {
       "title": "Israel says Iran's nuclear plans set back 'many years' after US report casts doubt on impact - BBC",
       "pubDate": "Wed, 25 Jun 2025 15:09:13 GMT"
+    },
+    {
+      "title": "Israel Suggests It Could Strike Iran Again to Counter New Threats - The New York Times",
+      "pubDate": "Fri, 27 Jun 2025 12:14:14 GMT"
     }
   ],
   "Ukraine": [
@@ -1785,6 +1781,10 @@
     {
       "title": "Putin cannot attend BRICS summit in Brazil as he fears arrest for war crimes - Atlantic Council",
       "pubDate": "Thu, 26 Jun 2025 20:53:00 GMT"
+    },
+    {
+      "title": "Russia Seizes Key Lithium Field in Challenge for U.S.-Ukraine Minerals Deal - The New York Times",
+      "pubDate": "Fri, 27 Jun 2025 09:46:25 GMT"
     }
   ],
   "Donald Trump": [
@@ -1871,6 +1871,10 @@
     {
       "title": "Trump threatens CNN and New York Times with lawsuits over Iran reports - CNN",
       "pubDate": "Fri, 27 Jun 2025 01:33:00 GMT"
+    },
+    {
+      "title": "Supreme Court curbs injunctions that blocked Trump's birthright citizenship plan - NBC News",
+      "pubDate": "Fri, 27 Jun 2025 14:13:49 GMT"
     }
   ],
   "World News": [
@@ -1939,6 +1943,10 @@
     {
       "title": "Stocks rise, lifting S&P 500 to within inches from new record: Live updates - CNBC",
       "pubDate": "Thu, 26 Jun 2025 19:05:00 GMT"
+    },
+    {
+      "title": "Wall Street indexes hit new peak on trade, Fed cut optimism - Reuters",
+      "pubDate": "Fri, 27 Jun 2025 14:55:20 GMT"
     }
   ],
   "Recession": [
@@ -1983,6 +1991,10 @@
     {
       "title": "US reaches deal with China to speed up rare earth shipments, White House says, amid efforts to end trade war - The Guardian",
       "pubDate": "Fri, 27 Jun 2025 07:21:00 GMT"
+    },
+    {
+      "title": "US, China formalize deal on rare earth shipments in trade breakthrough - CNN",
+      "pubDate": "Fri, 27 Jun 2025 07:50:00 GMT"
     }
   ],
   "AI Safety": [
