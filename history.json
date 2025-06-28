@@ -711,14 +711,6 @@
   ],
   "trade_war": [
     {
-      "title": "Auto Trader boss says trade war could boost new car sales into UK - The Independent",
-      "pubDate": "Thu, 29 May 2025 09:21:00 GMT"
-    },
-    {
-      "title": "Trump\u2019s tariff house of cards collapses \u2014 one court ruling just ended the trade wars - The Hill",
-      "pubDate": "Thu, 29 May 2025 15:30:00 GMT"
-    },
-    {
       "title": "China already had a graduate jobs crisis. The trade war is making it worse - South China Morning Post",
       "pubDate": "Thu, 29 May 2025 22:00:13 GMT"
     },
@@ -1179,10 +1171,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Singapore releases tools and resources to help businesses test, develop AI safety - CNA",
-      "pubDate": "Thu, 29 May 2025 15:07:36 GMT"
-    },
-    {
       "title": "As AI models start exhibiting bad behavior, it\u2019s time to start thinking harder about AI safety - Fast Company",
       "pubDate": "Thu, 29 May 2025 18:20:23 GMT"
     },
@@ -1563,6 +1551,10 @@
     {
       "title": "OpenAI turns to Google's AI chips to power its products, source says - Reuters",
       "pubDate": "Fri, 27 Jun 2025 22:15:13 GMT"
+    },
+    {
+      "title": "Scientists develop extremely thin material that could usher in next-gen fuel source: 'Taking into account the global challenges' - The Cool Down",
+      "pubDate": "Sat, 28 Jun 2025 04:30:00 GMT"
     }
   ],
   "US Politics": [
@@ -1625,6 +1617,10 @@
     {
       "title": "Senate Blocks War Powers Resolution to Limit Trump\u2019s Ability to Strike Iran Again - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 23:01:08 GMT"
+    },
+    {
+      "title": "Senate Republicans make steep cuts to wind and solar in updated megabill text - Politico",
+      "pubDate": "Sat, 28 Jun 2025 13:39:47 GMT"
     }
   ],
   "Iran": [
@@ -1771,6 +1767,10 @@
     {
       "title": "Russian drone strike kills 2, wounds 14 in Ukraine's Odesa, authorities say - Reuters",
       "pubDate": "Sat, 28 Jun 2025 07:40:02 GMT"
+    },
+    {
+      "title": "A Russian drone strike on Odesa kills a married couple and injures 17 people, Ukraine says - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Sat, 28 Jun 2025 11:42:02 GMT"
     }
   ],
   "Russia": [
@@ -1891,6 +1891,10 @@
     {
       "title": "Supreme Court limits nationwide orders that have blocked Trump\u2019s birthright citizenship ban - The Washington Post",
       "pubDate": "Sat, 28 Jun 2025 04:35:55 GMT"
+    },
+    {
+      "title": "Trump victorious again as US Supreme Court wraps up its term - Reuters",
+      "pubDate": "Sat, 28 Jun 2025 05:06:00 GMT"
     }
   ],
   "World News": [
@@ -1973,6 +1977,10 @@
     {
       "title": "Will This War Spark the Next Global Recession? US Strikes on Iran Rattle World Markets - Republic World",
       "pubDate": "Sun, 22 Jun 2025 12:18:13 GMT"
+    },
+    {
+      "title": "That Drop in Consumer Income in May Was a False Recession Alarm - Wolf Street",
+      "pubDate": "Sat, 28 Jun 2025 10:04:10 GMT"
     }
   ],
   "China": [
@@ -2023,6 +2031,10 @@
     {
       "title": "US, China announce a trade agreement \u2014 again. Here\u2019s what it means - AP News",
       "pubDate": "Sat, 28 Jun 2025 01:49:00 GMT"
+    },
+    {
+      "title": "China \u2018planned car collision\u2019 during Taiwan vice-president\u2019s visit to Prague - The Guardian",
+      "pubDate": "Sat, 28 Jun 2025 14:11:00 GMT"
     }
   ],
   "AI Safety": [
@@ -2049,6 +2061,10 @@
     {
       "title": "BlackBerry raises annual revenue forecast on robust demand for cybersecurity services - Reuters",
       "pubDate": "Tue, 24 Jun 2025 22:04:19 GMT"
+    },
+    {
+      "title": "FBI, cybersecurity firms say a prolific hacking crew is now targeting airlines and the transportation sector - Yahoo Finance",
+      "pubDate": "Sat, 28 Jun 2025 13:30:00 GMT"
     }
   ],
   "US Economy": [
