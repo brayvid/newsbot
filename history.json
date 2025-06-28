@@ -1179,10 +1179,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Singapore: Global Collaboration for a Trusted AI Ecosystem - OpenGov Asia",
-      "pubDate": "Thu, 29 May 2025 00:55:04 GMT"
-    },
-    {
       "title": "Singapore releases tools and resources to help businesses test, develop AI safety - CNA",
       "pubDate": "Thu, 29 May 2025 15:07:36 GMT"
     },
@@ -1563,6 +1559,10 @@
     {
       "title": "Exclusive: Trump plans executive orders to power AI growth in race with China - Reuters",
       "pubDate": "Fri, 27 Jun 2025 11:27:19 GMT"
+    },
+    {
+      "title": "OpenAI turns to Google's AI chips to power its products, source says - Reuters",
+      "pubDate": "Fri, 27 Jun 2025 22:15:13 GMT"
     }
   ],
   "US Politics": [
@@ -1621,6 +1621,10 @@
     {
       "title": "Senators Unconvinced of Effectiveness of U.S. Strikes on Iran - Time Magazine",
       "pubDate": "Thu, 26 Jun 2025 22:25:44 GMT"
+    },
+    {
+      "title": "Senate Blocks War Powers Resolution to Limit Trump\u2019s Ability to Strike Iran Again - The New York Times",
+      "pubDate": "Fri, 27 Jun 2025 23:01:08 GMT"
     }
   ],
   "Iran": [
@@ -1763,6 +1767,10 @@
     {
       "title": "Russia and Ukraine trade long-range drone attacks as Putin says Moscow is ready for new peace talks - AP News",
       "pubDate": "Fri, 27 Jun 2025 18:08:00 GMT"
+    },
+    {
+      "title": "Russian drone strike kills 2, wounds 14 in Ukraine's Odesa, authorities say - Reuters",
+      "pubDate": "Sat, 28 Jun 2025 07:40:02 GMT"
     }
   ],
   "Russia": [
@@ -1879,6 +1887,10 @@
     {
       "title": "Supreme Court limits ability of judges to stop Trump - CNN",
       "pubDate": "Fri, 27 Jun 2025 19:42:00 GMT"
+    },
+    {
+      "title": "Supreme Court limits nationwide orders that have blocked Trump\u2019s birthright citizenship ban - The Washington Post",
+      "pubDate": "Sat, 28 Jun 2025 04:35:55 GMT"
     }
   ],
   "World News": [
@@ -1951,6 +1963,10 @@
     {
       "title": "Wall Street indexes hit new peak on trade, Fed cut optimism - Reuters",
       "pubDate": "Fri, 27 Jun 2025 14:55:20 GMT"
+    },
+    {
+      "title": "Stock Market on June 27, 2025: S&P 500, Nasdaq close at all-time highs; U.S. stocks shake off Trump's remarks about trade with Canada - MarketWatch",
+      "pubDate": "Fri, 27 Jun 2025 20:53:00 GMT"
     }
   ],
   "Recession": [
@@ -2003,6 +2019,10 @@
     {
       "title": "China Confirms Trade Framework With U.S. to Lift Export Controls - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 11:13:49 GMT"
+    },
+    {
+      "title": "US, China announce a trade agreement \u2014 again. Here\u2019s what it means - AP News",
+      "pubDate": "Sat, 28 Jun 2025 01:49:00 GMT"
     }
   ],
   "AI Safety": [
@@ -2211,6 +2231,10 @@
     {
       "title": "Critical Hurricane Monitoring Data Is Going Offline - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 15:54:31 GMT"
+    },
+    {
+      "title": "Vital hurricane satellites to go dark weeks into Atlantic storm season\u2014 and NOAA rips media for causing panic - New York Post",
+      "pubDate": "Sat, 28 Jun 2025 01:34:00 GMT"
     }
   ]
 }
