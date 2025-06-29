@@ -707,10 +707,6 @@
   ],
   "trade_war": [
     {
-      "title": "GOP breathes secret sigh of relief as courts put brakes on Trump tariffs - The Hill",
-      "pubDate": "Fri, 30 May 2025 09:30:00 GMT"
-    },
-    {
       "title": "China hits back after Trump claims it is 'violating' tariff truce - BBC",
       "pubDate": "Fri, 30 May 2025 16:28:26 GMT"
     },
@@ -1547,6 +1543,10 @@
     {
       "title": "Researchers alarmed as AI begins to lie, scheme and threaten - The News International",
       "pubDate": "Sun, 29 Jun 2025 06:00:00 GMT"
+    },
+    {
+      "title": "OpenAI and Microsoft are dueling over AGI. These real-world tests will prove when AI is really better than humans. - Business Insider",
+      "pubDate": "Sun, 29 Jun 2025 09:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -1741,6 +1741,10 @@
     {
       "title": "Israel military strikes at Hezbollah as UN assesses Iran nuclear site damage - live - The Independent",
       "pubDate": "Sun, 29 Jun 2025 07:21:33 GMT"
+    },
+    {
+      "title": "LIVE: Israel\u2019s attacks on Gaza kill 45; health system \u2018obliterated\u2019 - Al Jazeera",
+      "pubDate": "Sun, 29 Jun 2025 15:16:18 GMT"
     }
   ],
   "Ukraine": [
@@ -1791,6 +1795,10 @@
     {
       "title": "Ukraine Reports Record Russian Missile and Drone Attack - Bloomberg.com",
       "pubDate": "Sun, 29 Jun 2025 07:13:27 GMT"
+    },
+    {
+      "title": "Russia hits Ukraine with biggest attack of the war; F-16 pilot is killed - politico.eu",
+      "pubDate": "Sun, 29 Jun 2025 10:09:00 GMT"
     }
   ],
   "Russia": [
@@ -1927,6 +1935,10 @@
     {
       "title": "Trump Urges Israel-Gaza Ceasefire: 'Make the Deal' - Newsweek",
       "pubDate": "Sun, 29 Jun 2025 06:58:34 GMT"
+    },
+    {
+      "title": "Senate votes to move forward on Trump\u2019s \u2018big, beautiful bill,\u2019 though measure\u2019s fate remains in question - CNN",
+      "pubDate": "Sun, 29 Jun 2025 06:30:00 GMT"
     }
   ],
   "World News": [
@@ -2075,6 +2087,10 @@
     {
       "title": "China warns countries not to sign US trade deals at its expense - South China Morning Post",
       "pubDate": "Sun, 29 Jun 2025 07:06:00 GMT"
+    },
+    {
+      "title": "China resumes qualified seafood imports from some Japan regions - Reuters",
+      "pubDate": "Sun, 29 Jun 2025 14:30:41 GMT"
     }
   ],
   "AI Safety": [
