@@ -707,10 +707,6 @@
   ],
   "trade_war": [
     {
-      "title": "China already had a graduate jobs crisis. The trade war is making it worse - South China Morning Post",
-      "pubDate": "Thu, 29 May 2025 22:00:13 GMT"
-    },
-    {
       "title": "GOP breathes secret sigh of relief as courts put brakes on Trump tariffs - The Hill",
       "pubDate": "Fri, 30 May 2025 09:30:00 GMT"
     },
@@ -1167,10 +1163,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Scoop: AI Safety Institute to be renamed Center for AI Safety and Leadership - Axios",
-      "pubDate": "Fri, 30 May 2025 00:25:49 GMT"
-    },
-    {
       "title": "MLCommons partners with NASSCOM to bring global AI reliability benchmarks to India - Deccan Herald",
       "pubDate": "Fri, 30 May 2025 20:34:38 GMT"
     },
@@ -1551,6 +1543,10 @@
     {
       "title": "These two game-changing breakthroughs advance us toward artificial general intelligence - Fast Company",
       "pubDate": "Sat, 28 Jun 2025 10:40:33 GMT"
+    },
+    {
+      "title": "AI is learning to lie, scheme, and threaten its creators - The Straits Times",
+      "pubDate": "Sun, 29 Jun 2025 03:25:00 GMT"
     }
   ],
   "US Politics": [
@@ -1779,6 +1775,10 @@
     {
       "title": "Ukrainian drones strike missile, drone arsenal in Russia's Bryansk Oblast - The Kyiv Independent",
       "pubDate": "Sat, 28 Jun 2025 17:09:09 GMT"
+    },
+    {
+      "title": "Ukraine says drones destroyed Russia\u2019s helicopters, air defences in Crimea - Al Jazeera",
+      "pubDate": "Sat, 28 Jun 2025 19:40:25 GMT"
     }
   ],
   "Russia": [
@@ -1907,6 +1907,10 @@
     {
       "title": "Trump says he will move aggressively to undo nationwide blocks on his agenda - The Washington Post",
       "pubDate": "Sat, 28 Jun 2025 20:54:25 GMT"
+    },
+    {
+      "title": "Senate begins vote to open debate on Trump\u2019s spending bill \u2014 with support still unclear - CNN",
+      "pubDate": "Sun, 29 Jun 2025 00:56:00 GMT"
     }
   ],
   "World News": [
@@ -2193,6 +2197,10 @@
     {
       "title": "Battling to survive, Hamas faces defiant clans and doubts over Iran - Reuters",
       "pubDate": "Fri, 27 Jun 2025 18:27:01 GMT"
+    },
+    {
+      "title": "At least 81 people killed in Israeli strikes in Gaza, Hamas-run health ministry says - BBC",
+      "pubDate": "Sat, 28 Jun 2025 19:20:18 GMT"
     }
   ],
   "New York City": [
@@ -2209,6 +2217,10 @@
     {
       "title": "Anthony Pompliano\u2019s crypto venture buys $386M in Bitcoin - Cointelegraph",
       "pubDate": "Wed, 25 Jun 2025 04:53:42 GMT"
+    },
+    {
+      "title": "Bitcoin Surges 2% to $107,340.66 on Bullish Technical Patterns - AInvest",
+      "pubDate": "Sun, 29 Jun 2025 02:00:54 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2267,6 +2279,18 @@
     {
       "title": "Vital hurricane satellites to go dark weeks into Atlantic storm season\u2014 and NOAA rips media for causing panic - New York Post",
       "pubDate": "Sat, 28 Jun 2025 01:34:00 GMT"
+    }
+  ],
+  "Elon Musk": [
+    {
+      "title": "Musk condemns latest Senate bill that would 'destroy millions of jobs,' raise taxes on wind, solar projects - Fox Business",
+      "pubDate": "Sat, 28 Jun 2025 22:28:00 GMT"
+    }
+  ],
+  "Mars": [
+    {
+      "title": "Confirmed\u2014a NASA robot finds biological signs on Mars, and scientists talk about the strongest evidence of extraterrestrial life to date - El Adelantado de Segovia",
+      "pubDate": "Sat, 28 Jun 2025 16:30:41 GMT"
     }
   ]
 }
