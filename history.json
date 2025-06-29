@@ -707,10 +707,6 @@
   ],
   "trade_war": [
     {
-      "title": "China hits back after Trump claims it is 'violating' tariff truce - BBC",
-      "pubDate": "Fri, 30 May 2025 16:28:26 GMT"
-    },
-    {
       "title": "China\u2019s Factory Activity Contraction Eases After Trade War Truce - Bloomberg",
       "pubDate": "Sat, 31 May 2025 01:54:00 GMT"
     },
@@ -1154,10 +1150,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "MLCommons partners with NASSCOM to bring global AI reliability benchmarks to India - Deccan Herald",
-      "pubDate": "Fri, 30 May 2025 20:34:38 GMT"
-    },
     {
       "title": "AI Rebellion in 2025: How ChatGPT-o3 Defied Human Commands for the First Time Ever \u2013 A Groundbreaking Experiment Shocks the AI Community - Business Matters",
       "pubDate": "Sat, 31 May 2025 05:03:42 GMT"
@@ -1621,6 +1613,10 @@
     {
       "title": "Senate Republicans advance Trump's 'Big Beautiful Bill' but final vote hangs in balance - BBC",
       "pubDate": "Sun, 29 Jun 2025 03:39:27 GMT"
+    },
+    {
+      "title": "Senate Version of Trump\u2019s Policy Bill Would Slash Medicaid Spending Even More - The New York Times",
+      "pubDate": "Sun, 29 Jun 2025 14:28:53 GMT"
     }
   ],
   "Iran": [
@@ -1799,6 +1795,10 @@
     {
       "title": "Russia hits Ukraine with biggest attack of the war; F-16 pilot is killed - politico.eu",
       "pubDate": "Sun, 29 Jun 2025 10:09:00 GMT"
+    },
+    {
+      "title": "Russia launches the biggest aerial attack since the start of the war, Ukraine says - AP News",
+      "pubDate": "Sun, 29 Jun 2025 18:48:00 GMT"
     }
   ],
   "Russia": [
@@ -1939,6 +1939,10 @@
     {
       "title": "Senate votes to move forward on Trump\u2019s \u2018big, beautiful bill,\u2019 though measure\u2019s fate remains in question - CNN",
       "pubDate": "Sun, 29 Jun 2025 06:30:00 GMT"
+    },
+    {
+      "title": "Senate advances massive bill for Trump's agenda after GOP leaders sway holdouts - NBC News",
+      "pubDate": "Sun, 29 Jun 2025 16:01:00 GMT"
     }
   ],
   "World News": [
@@ -2101,6 +2105,10 @@
     {
       "title": "AI models exhibit harmful behaviors, posing insider threats in corporate scenarios - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Tue, 24 Jun 2025 08:35:00 GMT"
+    },
+    {
+      "title": "AI Gone Rogue: When Machines Lie, Scheme, and Threaten - OpenTools",
+      "pubDate": "Sun, 29 Jun 2025 13:09:33 GMT"
     }
   ],
   "Data Breach": [
@@ -2223,6 +2231,10 @@
     {
       "title": "Zohran Mamdani\u2019s upset in New York primary reignites Democratic identity debate: Analysis - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 26 Jun 2025 19:21:43 GMT"
+    },
+    {
+      "title": "A roadmap to beat Trump? How rise of Zohran Mamdani is dividing Democrats - The Guardian",
+      "pubDate": "Sun, 29 Jun 2025 19:27:00 GMT"
     }
   ],
   "Hamas": [
@@ -2237,6 +2249,10 @@
     {
       "title": "At least 81 people killed in Israeli strikes in Gaza, Hamas-run health ministry says - BBC",
       "pubDate": "Sat, 28 Jun 2025 19:20:18 GMT"
+    },
+    {
+      "title": "Trump calls for a deal on Israel's war in Gaza, as signs of progress emerge - NPR",
+      "pubDate": "Sun, 29 Jun 2025 09:09:24 GMT"
     }
   ],
   "New York City": [
@@ -2281,6 +2297,10 @@
     {
       "title": "Nvidia Becomes World's Most Valuable Company Again Thanks to AI, Robotics - Tech Times",
       "pubDate": "Thu, 26 Jun 2025 06:20:06 GMT"
+    },
+    {
+      "title": "Nvidia insiders sold over $1 billion in stock amid market surge, FT reports - Reuters",
+      "pubDate": "Sun, 29 Jun 2025 13:57:39 GMT"
     }
   ],
   "Technology": [
