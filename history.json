@@ -707,10 +707,6 @@
   ],
   "trade_war": [
     {
-      "title": "China\u2019s Factory Activity Contraction Eases After Trade War Truce - Bloomberg",
-      "pubDate": "Sat, 31 May 2025 01:54:00 GMT"
-    },
-    {
       "title": "Trump\u2019s 50 percent tariff bombshell sparks cross-border chaos, industry panic, and fears of a new trade war with Canada - The Economic Times",
       "pubDate": "Sat, 31 May 2025 19:32:13 GMT"
     },
@@ -1539,6 +1535,10 @@
     {
       "title": "OpenAI and Microsoft are dueling over AGI. These real-world tests will prove when AI is really better than humans. - Business Insider",
       "pubDate": "Sun, 29 Jun 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Is AI rewiring our minds? Scientists probe cognitive cost of chatbots. - The Washington Post",
+      "pubDate": "Sun, 29 Jun 2025 17:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -1799,6 +1799,10 @@
     {
       "title": "Russia launches the biggest aerial attack since the start of the war, Ukraine says - AP News",
       "pubDate": "Sun, 29 Jun 2025 18:48:00 GMT"
+    },
+    {
+      "title": "Russia Pounds Ukraine With Drones and Missiles in One of War\u2019s Largest Attacks - The New York Times",
+      "pubDate": "Sun, 29 Jun 2025 16:18:07 GMT"
     }
   ],
   "Russia": [
@@ -1943,6 +1947,10 @@
     {
       "title": "Senate advances massive bill for Trump's agenda after GOP leaders sway holdouts - NBC News",
       "pubDate": "Sun, 29 Jun 2025 16:01:00 GMT"
+    },
+    {
+      "title": "Senate Republicans seek to vote on Trump\u2019s massive tax bill Monday - The Washington Post",
+      "pubDate": "Mon, 30 Jun 2025 02:43:47 GMT"
     }
   ],
   "World News": [
@@ -2095,6 +2103,10 @@
     {
       "title": "China resumes qualified seafood imports from some Japan regions - Reuters",
       "pubDate": "Sun, 29 Jun 2025 14:30:41 GMT"
+    },
+    {
+      "title": "China manufacturing activity shrinks as trade war bites - Financial Times",
+      "pubDate": "Mon, 30 Jun 2025 02:49:35 GMT"
     }
   ],
   "AI Safety": [
@@ -2351,6 +2363,12 @@
     {
       "title": "Confirmed\u2014a NASA robot finds biological signs on Mars, and scientists talk about the strongest evidence of extraterrestrial life to date - El Adelantado de Segovia",
       "pubDate": "Sat, 28 Jun 2025 16:30:41 GMT"
+    }
+  ],
+  "Health Care": [
+    {
+      "title": "The Grim State of Trans Health Care - The New Yorker",
+      "pubDate": "Sun, 29 Jun 2025 16:53:15 GMT"
     }
   ]
 }
