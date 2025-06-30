@@ -707,10 +707,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump\u2019s 50 percent tariff bombshell sparks cross-border chaos, industry panic, and fears of a new trade war with Canada - The Economic Times",
-      "pubDate": "Sat, 31 May 2025 19:32:13 GMT"
-    },
-    {
       "title": "The \u2018revenge tax\u2019 buried deep in the budget bill could turn a trade war into a \u2018capital war,\u2019 analyst says - MSN",
       "pubDate": "Sat, 31 May 2025 22:36:40 GMT"
     },
@@ -1539,6 +1535,10 @@
     {
       "title": "Microsoft says AI system better than doctors at diagnosing complex health conditions - The Guardian",
       "pubDate": "Mon, 30 Jun 2025 14:29:00 GMT"
+    },
+    {
+      "title": "Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors - WIRED",
+      "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -1617,6 +1617,10 @@
     {
       "title": "Senate Version of Trump\u2019s Policy Bill Would Slash Medicaid Spending Even More - The New York Times",
       "pubDate": "Sun, 29 Jun 2025 14:28:53 GMT"
+    },
+    {
+      "title": "Senate inches toward a vote on Trump\u2019s sweeping domestic policy bill - CNN",
+      "pubDate": "Mon, 30 Jun 2025 19:07:00 GMT"
     }
   ],
   "Iran": [
@@ -1807,6 +1811,10 @@
     {
       "title": "Russia Masses 50,000 Troops Around Sumy, Putting Ukraine in Precarious Position - WSJ",
       "pubDate": "Mon, 30 Jun 2025 14:43:32 GMT"
+    },
+    {
+      "title": "Russia unleashes new deadly \"Blueberry\" drones with 100-kilometer reach on Kharkiv - Euromaidan Press",
+      "pubDate": "Mon, 30 Jun 2025 14:03:38 GMT"
     }
   ],
   "Russia": [
@@ -1967,6 +1975,10 @@
     {
       "title": "Senate begins marathon vote series on Trump's \"big, beautiful bill\" as GOP eyes July 4 deadline - CBS News",
       "pubDate": "Mon, 30 Jun 2025 14:20:20 GMT"
+    },
+    {
+      "title": "Live updates: Congress sprints to pass Trump\u2019s big bill before July 4 deadline - AP News",
+      "pubDate": "Mon, 30 Jun 2025 20:42:00 GMT"
     }
   ],
   "World News": [
@@ -2047,6 +2059,10 @@
     {
       "title": "Stock Market on June 27, 2025: S&P 500, Nasdaq close at all-time highs; U.S. stocks shake off Trump's remarks about trade with Canada - MarketWatch",
       "pubDate": "Fri, 27 Jun 2025 20:53:00 GMT"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as momentum builds for Trump trade deals, tax bill - Yahoo Finance",
+      "pubDate": "Mon, 30 Jun 2025 19:40:22 GMT"
     }
   ],
   "Recession": [
@@ -2413,6 +2429,16 @@
     {
       "title": "The Grim State of Trans Health Care - The New Yorker",
       "pubDate": "Sun, 29 Jun 2025 16:53:15 GMT"
+    },
+    {
+      "title": "More than 300 charged in $14.6 billion health care fraud schemes takedown, Justice Department says - AP News",
+      "pubDate": "Mon, 30 Jun 2025 17:34:00 GMT"
+    }
+  ],
+  "Fusion Power": [
+    {
+      "title": "Google just bought 200 megawatts of fusion energy that doesn\u2019t even exist yet - CNN",
+      "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
     }
   ]
 }
