@@ -163,10 +163,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine launches major drone attack on Russian bombers, security official says - The Guardian",
-      "pubDate": "Sun, 01 Jun 2025 14:01:00 GMT"
-    },
-    {
       "title": "Ukraine\u2019s drone attack the latest in a series of daring David versus Goliath hits against Russian targets - CNN",
       "pubDate": "Mon, 02 Jun 2025 08:25:00 GMT"
     },
@@ -1135,10 +1131,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Straight Out of a Sci-Fi Movie: An AI Managed to Rewrite Its Own Code to Prevent Humans From Shutting It Down - The Daily Galaxy",
-      "pubDate": "Sun, 01 Jun 2025 11:00:00 GMT"
-    },
-    {
       "title": "Business Council Reveals AI Strategy for 2028 Leadership - Mirage News",
       "pubDate": "Sun, 01 Jun 2025 20:48:00 GMT"
     },
@@ -1539,6 +1531,10 @@
     {
       "title": "Google signs first fusion power deal with MIT spinout Commonwealth Fusion Systems - Proactive Investors",
       "pubDate": "Tue, 01 Jul 2025 07:34:00 GMT"
+    },
+    {
+      "title": "Senate Votes 99-1 to Strip AI Provision From Trump\u2019s Tax Bill - Bloomberg",
+      "pubDate": "Tue, 01 Jul 2025 11:05:16 GMT"
     }
   ],
   "US Politics": [
@@ -1625,6 +1621,10 @@
     {
       "title": "Supreme Court to hear Republican challenge to campaign spending limits - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 01 Jul 2025 00:30:04 GMT"
+    },
+    {
+      "title": "Senate prepares to take final megabill votes - Politico",
+      "pubDate": "Tue, 01 Jul 2025 14:19:15 GMT"
     }
   ],
   "Iran": [
@@ -1703,6 +1703,10 @@
     {
       "title": "Iran-linked hackers threaten to release Trump aides' emails - Reuters",
       "pubDate": "Tue, 01 Jul 2025 03:31:00 GMT"
+    },
+    {
+      "title": "Israel\u2019s War on Iran Backfired - Foreign Policy",
+      "pubDate": "Tue, 01 Jul 2025 07:21:01 GMT"
     }
   ],
   "Israel": [
@@ -1827,6 +1831,10 @@
     {
       "title": "Russia's Largest Bombardment of Ukraine - NPR",
       "pubDate": "Mon, 30 Jun 2025 20:54:08 GMT"
+    },
+    {
+      "title": "Three killed in Ukrainian drone attack on central Russia - BBC",
+      "pubDate": "Tue, 01 Jul 2025 12:00:31 GMT"
     }
   ],
   "Russia": [
@@ -2167,6 +2175,10 @@
     {
       "title": "China Reveals Details of Dual Aircraft Carrier Operations in West Pacific - Newsweek",
       "pubDate": "Tue, 01 Jul 2025 07:20:18 GMT"
+    },
+    {
+      "title": "China sanctions former Philippine senator on maritime claims - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 07:37:49 GMT"
     }
   ],
   "AI Safety": [
@@ -2243,6 +2255,10 @@
     {
       "title": "A crucial jobs report meets a stock market at all-time highs: What to know this week - Yahoo Finance",
       "pubDate": "Mon, 30 Jun 2025 09:14:25 GMT"
+    },
+    {
+      "title": "Federal Reserve chair blames Trump\u2019s tariffs for preventing interest rates cut - The Guardian",
+      "pubDate": "Tue, 01 Jul 2025 15:21:15 GMT"
     }
   ],
   "Trade War": [
