@@ -707,10 +707,6 @@
   ],
   "trade_war": [
     {
-      "title": "Kelly Ortberg: Boeing should not be an \u2018unintended consequence\u2019 of trade war - Financial Times",
-      "pubDate": "Sun, 01 Jun 2025 04:00:58 GMT"
-    },
-    {
       "title": "Trump's new salvo about to upend world trade; 50% tariff on steel & aluminum to kick in on June 4 - The Economic Times",
       "pubDate": "Wed, 04 Jun 2025 01:58:15 GMT"
     },
@@ -1539,6 +1535,10 @@
     {
       "title": "Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal - Bloomberg",
       "pubDate": "Mon, 30 Jun 2025 20:55:05 GMT"
+    },
+    {
+      "title": "Google signs first fusion power deal with MIT spinout Commonwealth Fusion Systems - Proactive Investors",
+      "pubDate": "Tue, 01 Jul 2025 07:34:00 GMT"
     }
   ],
   "US Politics": [
@@ -1699,6 +1699,10 @@
     {
       "title": "Israel and U.S. Smashed Iran Nuclear Site That Grew After Trump Quit 2015 Accord - The New York Times",
       "pubDate": "Sat, 28 Jun 2025 15:17:45 GMT"
+    },
+    {
+      "title": "Iran-linked hackers threaten to release Trump aides' emails - Reuters",
+      "pubDate": "Tue, 01 Jul 2025 03:31:00 GMT"
     }
   ],
   "Israel": [
@@ -1991,6 +1995,10 @@
     {
       "title": "Senate tries to overcome vote-a-rama, infighting to pass Trump's $3.3 trillion bill - Reuters",
       "pubDate": "Tue, 01 Jul 2025 00:50:00 GMT"
+    },
+    {
+      "title": "Senate holds marathon \u2018vote-a-rama\u2019 on Donald Trump\u2019s \u2018big, beautiful bill\u2019 \u2013 US politics live - The Guardian",
+      "pubDate": "Tue, 01 Jul 2025 08:13:21 GMT"
     }
   ],
   "World News": [
@@ -2155,6 +2163,10 @@
     {
       "title": "China Home Sales Slump Persists as Calls Grow for More Stimulus - Bloomberg",
       "pubDate": "Mon, 30 Jun 2025 11:23:31 GMT"
+    },
+    {
+      "title": "China Reveals Details of Dual Aircraft Carrier Operations in West Pacific - Newsweek",
+      "pubDate": "Tue, 01 Jul 2025 07:20:18 GMT"
     }
   ],
   "AI Safety": [
@@ -2325,6 +2337,10 @@
     {
       "title": "LIVE: Israel bombards Gaza City after ordering Palestinians to flee - Al Jazeera",
       "pubDate": "Mon, 30 Jun 2025 15:06:18 GMT"
+    },
+    {
+      "title": "Israel bombs Gaza aid sites, cafe and school, killing 95 Palestinians - Al Jazeera",
+      "pubDate": "Tue, 01 Jul 2025 04:23:26 GMT"
     }
   ],
   "New York City": [
@@ -2417,6 +2433,10 @@
     {
       "title": "Earth is trapping much more heat than climate models forecast \u2013 and the rate has doubled in 20 years - The Conversation",
       "pubDate": "Fri, 27 Jun 2025 01:34:00 GMT"
+    },
+    {
+      "title": "California lawmakers approve last-minute, sweeping rollbacks of environmental law - CalMatters",
+      "pubDate": "Tue, 01 Jul 2025 02:06:51 GMT"
     }
   ],
   "Hurricanes": [
@@ -2463,6 +2483,12 @@
     {
       "title": "Google just bought 200 megawatts of fusion energy that doesn\u2019t even exist yet - CNN",
       "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
+    }
+  ],
+  "North Korea": [
+    {
+      "title": "Kim Jong Un publicly honors North Korean soldiers killed in Russia-Ukraine war - The Kyiv Independent",
+      "pubDate": "Tue, 01 Jul 2025 08:40:31 GMT"
     }
   ]
 }
