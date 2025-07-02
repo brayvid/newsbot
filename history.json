@@ -661,10 +661,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "International Hotel Giants Are Profiting Despite Genocide in Xinjiang - Foreign Policy",
-      "pubDate": "Mon, 02 Jun 2025 19:37:46 GMT"
-    },
-    {
       "title": "Powering Diplomacy: How Energy Politics Shapes The Foreign Policy Of Great Powers \u2013 Analysis - Eurasia Review",
       "pubDate": "Mon, 02 Jun 2025 23:14:12 GMT"
     },
@@ -1126,14 +1122,6 @@
     }
   ],
   "ai_safety": [
-    {
-      "title": "The hidden security risks of open source AI - Computer Weekly",
-      "pubDate": "Mon, 02 Jun 2025 19:48:01 GMT"
-    },
-    {
-      "title": "New Anthropic AI Models Demonstrate Coding Prowess, Behavior Risks - Campus Technology",
-      "pubDate": "Mon, 02 Jun 2025 18:06:17 GMT"
-    },
     {
       "title": "AI Whistleblowers Can\u2019t Carry the Burden of Regulating Industry - Bloomberg Law News",
       "pubDate": "Tue, 03 Jun 2025 08:30:00 GMT"
@@ -1885,6 +1873,10 @@
     {
       "title": "Russia unleashes its summer offensive with an army mired in problems - The Washington Post",
       "pubDate": "Mon, 30 Jun 2025 08:31:44 GMT"
+    },
+    {
+      "title": "Ukraine fears increased Russian aggression after US halt of weapons supply - BBC",
+      "pubDate": "Wed, 02 Jul 2025 19:14:18 GMT"
     }
   ],
   "Donald Trump": [
@@ -2043,6 +2035,10 @@
     {
       "title": "Trump announces Vietnam trade deal, 20% tariff on its imports to U.S. - CNBC",
       "pubDate": "Wed, 02 Jul 2025 14:31:10 GMT"
+    },
+    {
+      "title": "Live updates: House in limbo on vote over Trump's sweeping tax bill package - USA Today",
+      "pubDate": "Wed, 02 Jul 2025 19:53:47 GMT"
     }
   ],
   "World News": [
@@ -2227,6 +2223,10 @@
     {
       "title": "China will invade Siberia, not Taiwan - The Hill",
       "pubDate": "Wed, 02 Jul 2025 15:30:00 GMT"
+    },
+    {
+      "title": "Beijing braces for US trade deals that seek to shut out China - Jing Daily",
+      "pubDate": "Wed, 02 Jul 2025 14:53:47 GMT"
     }
   ],
   "AI Safety": [
@@ -2277,6 +2277,10 @@
     {
       "title": "Hackers tied to Iran preparing \u2018calculated smear campaign\u2019 on Trump, cyber agency says - Politico",
       "pubDate": "Tue, 01 Jul 2025 15:56:00 GMT"
+    },
+    {
+      "title": "Cyberattack hits major airline, up to 6M customer profiles exposed - Fox Business",
+      "pubDate": "Wed, 02 Jul 2025 18:24:00 GMT"
     }
   ],
   "US Economy": [
@@ -2331,6 +2335,10 @@
     {
       "title": "Private sector lost 33,000 jobs in June, well below expectations, ADP says - Fox Business",
       "pubDate": "Wed, 02 Jul 2025 12:25:00 GMT"
+    },
+    {
+      "title": "US private sector lost 33,000 jobs in June, missing expectations for an increase of 115,000 - CNN",
+      "pubDate": "Wed, 02 Jul 2025 14:36:00 GMT"
     }
   ],
   "Trade War": [
@@ -2433,6 +2441,10 @@
     {
       "title": "Hamas says it is studying ceasefire proposal labelled 'final' by Trump - Reuters",
       "pubDate": "Wed, 02 Jul 2025 14:48:54 GMT"
+    },
+    {
+      "title": "LIVE: Israeli attacks kill 78; Hamas says considering ceasefire proposal - Al Jazeera",
+      "pubDate": "Wed, 02 Jul 2025 12:15:47 GMT"
     }
   ],
   "New York City": [
@@ -2591,6 +2603,12 @@
     {
       "title": "Tesla reports record sales plunge from last year - CNN",
       "pubDate": "Wed, 02 Jul 2025 14:35:00 GMT"
+    }
+  ],
+  "Microsoft": [
+    {
+      "title": "Microsoft to lay off about 9,000 employees in latest round - The Seattle Times",
+      "pubDate": "Wed, 02 Jul 2025 12:47:34 GMT"
     }
   ]
 }
