@@ -1539,6 +1539,10 @@
     {
       "title": "Meta offering OpenAI researchers up to $300 million to join its AI lab, says report; company responds, sa - Times of India",
       "pubDate": "Wed, 02 Jul 2025 07:33:00 GMT"
+    },
+    {
+      "title": "How tech\u2019s bold bid to curb AI laws fell apart - The Washington Post",
+      "pubDate": "Wed, 02 Jul 2025 05:49:59 GMT"
     }
   ],
   "US Politics": [
@@ -1851,6 +1855,10 @@
     {
       "title": "US halts weapons shipments to Ukraine over fears stockpiles are too low - The Guardian",
       "pubDate": "Wed, 02 Jul 2025 01:00:00 GMT"
+    },
+    {
+      "title": "US pauses some munitions shipments to Ukraine, including air defense missiles, senior White House official says - CNN",
+      "pubDate": "Wed, 02 Jul 2025 15:20:00 GMT"
     }
   ],
   "Russia": [
@@ -2031,6 +2039,10 @@
     {
       "title": "Trump escalates feud with Musk, threatens Tesla, SpaceX support - Reuters",
       "pubDate": "Tue, 01 Jul 2025 21:33:12 GMT"
+    },
+    {
+      "title": "Trump announces Vietnam trade deal, 20% tariff on its imports to U.S. - CNBC",
+      "pubDate": "Wed, 02 Jul 2025 14:31:10 GMT"
     }
   ],
   "World News": [
@@ -2211,6 +2223,10 @@
     {
       "title": "Senate votes to send 2 million US jobs to China, increase deficit, energy costs - Electrek",
       "pubDate": "Tue, 01 Jul 2025 19:21:00 GMT"
+    },
+    {
+      "title": "China will invade Siberia, not Taiwan - The Hill",
+      "pubDate": "Wed, 02 Jul 2025 15:30:00 GMT"
     }
   ],
   "AI Safety": [
@@ -2311,6 +2327,10 @@
     {
       "title": "US personal income drops for first time since 2021, raising recession concerns - KUTV",
       "pubDate": "Wed, 02 Jul 2025 02:32:03 GMT"
+    },
+    {
+      "title": "Private sector lost 33,000 jobs in June, well below expectations, ADP says - Fox Business",
+      "pubDate": "Wed, 02 Jul 2025 12:25:00 GMT"
     }
   ],
   "Trade War": [
@@ -2409,6 +2429,10 @@
     {
       "title": "Israel bombs Gaza aid sites, cafe and school, killing 95 Palestinians - Al Jazeera",
       "pubDate": "Tue, 01 Jul 2025 04:23:26 GMT"
+    },
+    {
+      "title": "Hamas says it is studying ceasefire proposal labelled 'final' by Trump - Reuters",
+      "pubDate": "Wed, 02 Jul 2025 14:48:54 GMT"
     }
   ],
   "New York City": [
@@ -2561,6 +2585,12 @@
     {
       "title": "Kim Jong Un publicly honors North Korean soldiers killed in Russia-Ukraine war - The Kyiv Independent",
       "pubDate": "Tue, 01 Jul 2025 08:40:31 GMT"
+    }
+  ],
+  "Tesla": [
+    {
+      "title": "Tesla reports record sales plunge from last year - CNN",
+      "pubDate": "Wed, 02 Jul 2025 14:35:00 GMT"
     }
   ]
 }
