@@ -1119,10 +1119,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI Whistleblowers Can\u2019t Carry the Burden of Regulating Industry - Bloomberg Law News",
-      "pubDate": "Tue, 03 Jun 2025 08:30:00 GMT"
-    },
-    {
       "title": "Preparing for AI: The CISO\u2019s role in security, ethics and compliance - Computer Weekly",
       "pubDate": "Tue, 03 Jun 2025 13:31:58 GMT"
     },
@@ -1531,6 +1527,10 @@
     {
       "title": "Scientists Use A.I. to Mimic the Mind, Warts and All - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 17:24:26 GMT"
+    },
+    {
+      "title": "Microsoft to cut up to 9,000 jobs as it invests in AI - BBC",
+      "pubDate": "Thu, 03 Jul 2025 03:09:37 GMT"
     }
   ],
   "US Politics": [
@@ -1711,6 +1711,10 @@
     {
       "title": "Israel\u2019s War on Iran Backfired - Foreign Policy",
       "pubDate": "Tue, 01 Jul 2025 07:21:01 GMT"
+    },
+    {
+      "title": "After US and Israeli strikes, some nuclear experts say Iran could be more dangerous - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Wed, 02 Jul 2025 23:22:38 GMT"
     }
   ],
   "Israel": [
@@ -1889,10 +1893,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "U.S. bombs three Iranian nuclear sites, Trump addresses nation: Live updates - NBC News",
-      "pubDate": "Sun, 22 Jun 2025 02:52:00 GMT"
-    },
-    {
       "title": "Trump says key Iranian nuclear facilities \u2018totally obliterated\u2019 in U.S. strikes - The Washington Post",
       "pubDate": "Sun, 22 Jun 2025 07:38:10 GMT"
     },
@@ -2047,6 +2047,10 @@
     {
       "title": "Live updates: House GOP leadership works to woo holdouts on Trump megabill - The Hill",
       "pubDate": "Thu, 03 Jul 2025 02:45:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s megabill advances in the House after GOP divisions nearly derail it - CNBC",
+      "pubDate": "Thu, 03 Jul 2025 07:39:39 GMT"
     }
   ],
   "World News": [
@@ -2235,6 +2239,10 @@
     {
       "title": "Beijing braces for US trade deals that seek to shut out China - Jing Daily",
       "pubDate": "Wed, 02 Jul 2025 14:53:47 GMT"
+    },
+    {
+      "title": "US lifts chip design software curbs against China following London trade talks - CNN",
+      "pubDate": "Thu, 03 Jul 2025 07:12:00 GMT"
     }
   ],
   "AI Safety": [
@@ -2461,6 +2469,10 @@
     {
       "title": "Hamas studying new ceasefire proposals, calls for end to Gaza war - Al Jazeera",
       "pubDate": "Wed, 02 Jul 2025 17:32:16 GMT"
+    },
+    {
+      "title": "Israel kills more than 300 Palestinians in 48 hours as ceasefire in balance - Al Jazeera",
+      "pubDate": "Thu, 03 Jul 2025 06:53:34 GMT"
     }
   ],
   "New York City": [
@@ -2629,6 +2641,12 @@
     {
       "title": "Microsoft to lay off about 9,000 employees in latest round - The Seattle Times",
       "pubDate": "Wed, 02 Jul 2025 12:47:34 GMT"
+    }
+  ],
+  "Health": [
+    {
+      "title": "House nears finish line on health cuts - The Hill",
+      "pubDate": "Wed, 02 Jul 2025 23:01:00 GMT"
     }
   ]
 }
