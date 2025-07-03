@@ -661,10 +661,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "Powering Diplomacy: How Energy Politics Shapes The Foreign Policy Of Great Powers \u2013 Analysis - Eurasia Review",
-      "pubDate": "Mon, 02 Jun 2025 23:14:12 GMT"
-    },
-    {
       "title": "Turkey\u2019s State Broadcaster TRT May Have Violated U.S. Foreign Agent Law - Middle East Forum",
       "pubDate": "Thu, 05 Jun 2025 21:36:20 GMT"
     },
@@ -1531,6 +1527,10 @@
     {
       "title": "How tech\u2019s bold bid to curb AI laws fell apart - The Washington Post",
       "pubDate": "Wed, 02 Jul 2025 05:49:59 GMT"
+    },
+    {
+      "title": "Scientists Use A.I. to Mimic the Mind, Warts and All - The New York Times",
+      "pubDate": "Wed, 02 Jul 2025 17:24:26 GMT"
     }
   ],
   "US Politics": [
@@ -1625,6 +1625,10 @@
     {
       "title": "Medicaid cuts in Trump's 'big beautiful' bill will leave millions uninsured, threaten rural hospitals - CNBC",
       "pubDate": "Tue, 01 Jul 2025 19:57:47 GMT"
+    },
+    {
+      "title": "Judge blocks Trump\u2019s ban on asylum at the southern US border - Al Jazeera",
+      "pubDate": "Thu, 03 Jul 2025 02:04:24 GMT"
     }
   ],
   "Iran": [
@@ -1877,13 +1881,13 @@
     {
       "title": "Ukraine fears increased Russian aggression after US halt of weapons supply - BBC",
       "pubDate": "Wed, 02 Jul 2025 19:14:18 GMT"
+    },
+    {
+      "title": "North Korea to send as many as 30,000 troops to bolster Russia\u2019s forces, Ukrainian officials say - CNN",
+      "pubDate": "Wed, 02 Jul 2025 16:19:00 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump\u2019s two-week delay on Iran strike decision leaves Israel in limbo - CNN",
-      "pubDate": "Sat, 21 Jun 2025 12:39:00 GMT"
-    },
     {
       "title": "U.S. bombs three Iranian nuclear sites, Trump addresses nation: Live updates - NBC News",
       "pubDate": "Sun, 22 Jun 2025 02:52:00 GMT"
@@ -2039,6 +2043,10 @@
     {
       "title": "Live updates: House in limbo on vote over Trump's sweeping tax bill package - USA Today",
       "pubDate": "Wed, 02 Jul 2025 19:53:47 GMT"
+    },
+    {
+      "title": "Live updates: House GOP leadership works to woo holdouts on Trump megabill - The Hill",
+      "pubDate": "Thu, 03 Jul 2025 02:45:00 GMT"
     }
   ],
   "World News": [
@@ -2339,6 +2347,10 @@
     {
       "title": "US private sector lost 33,000 jobs in June, missing expectations for an increase of 115,000 - CNN",
       "pubDate": "Wed, 02 Jul 2025 14:36:00 GMT"
+    },
+    {
+      "title": "Microsoft to cut about 4% of jobs amid hefty AI bets - Reuters",
+      "pubDate": "Wed, 02 Jul 2025 18:08:31 GMT"
     }
   ],
   "Trade War": [
@@ -2445,6 +2457,10 @@
     {
       "title": "LIVE: Israeli attacks kill 78; Hamas says considering ceasefire proposal - Al Jazeera",
       "pubDate": "Wed, 02 Jul 2025 12:15:47 GMT"
+    },
+    {
+      "title": "Hamas studying new ceasefire proposals, calls for end to Gaza war - Al Jazeera",
+      "pubDate": "Wed, 02 Jul 2025 17:32:16 GMT"
     }
   ],
   "New York City": [
@@ -2565,6 +2581,10 @@
     {
       "title": "Musk vows to punish lawmakers who back Trump's spending bill - Reuters",
       "pubDate": "Mon, 30 Jun 2025 22:42:32 GMT"
+    },
+    {
+      "title": "Tesla Sales Fall as Elon Musk Focuses on Self-Driving Cars - The New York Times",
+      "pubDate": "Wed, 02 Jul 2025 17:59:24 GMT"
     }
   ],
   "Mars": [
