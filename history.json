@@ -163,10 +163,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine says it has struck bridge connecting Russia to Crimea with underwater explosives - The Hill",
-      "pubDate": "Tue, 03 Jun 2025 14:43:00 GMT"
-    },
-    {
       "title": "Ukraine's massive drone attack deep inside Russia highlights how both have changed battlefield tactics - NBC News",
       "pubDate": "Tue, 03 Jun 2025 20:30:33 GMT"
     },
@@ -1119,10 +1115,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Preparing for AI: The CISO\u2019s role in security, ethics and compliance - Computer Weekly",
-      "pubDate": "Tue, 03 Jun 2025 13:31:58 GMT"
-    },
-    {
       "title": "Yoshua Bengio launches LawZero, a nonprofit AI safety lab - TechCrunch",
       "pubDate": "Tue, 03 Jun 2025 17:33:49 GMT"
     },
@@ -1373,10 +1365,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "'Major fail' indeed: Musk's AI told the truth, so now he has to fix it | Opinion - USA Today",
-      "pubDate": "Sat, 21 Jun 2025 12:58:27 GMT"
-    },
-    {
       "title": "Top AI models will lie, cheat and steal to reach goals, Anthropic finds - Axios",
       "pubDate": "Sat, 21 Jun 2025 11:33:36 GMT"
     },
@@ -1531,6 +1519,10 @@
     {
       "title": "Microsoft to cut up to 9,000 jobs as it invests in AI - BBC",
       "pubDate": "Thu, 03 Jul 2025 03:09:37 GMT"
+    },
+    {
+      "title": "Explainable artificial intelligence for predicting medical students\u2019 performance in comprehensive assessments - Nature",
+      "pubDate": "Thu, 03 Jul 2025 12:59:52 GMT"
     }
   ],
   "US Politics": [
@@ -1629,6 +1621,10 @@
     {
       "title": "Judge blocks Trump\u2019s ban on asylum at the southern US border - Al Jazeera",
       "pubDate": "Thu, 03 Jul 2025 02:04:24 GMT"
+    },
+    {
+      "title": "House Republicans expected to pass Trump's massive tax and policy bill by July 4 - NPR",
+      "pubDate": "Thu, 03 Jul 2025 09:28:09 GMT"
     }
   ],
   "Iran": [
@@ -1855,6 +1851,10 @@
     {
       "title": "US pauses some munitions shipments to Ukraine, including air defense missiles, senior White House official says - CNN",
       "pubDate": "Wed, 02 Jul 2025 15:20:00 GMT"
+    },
+    {
+      "title": "Ukraine kills Russian navy's No. 2 commander in strike, but officials worry about Trump's military aid cuts - CBS News",
+      "pubDate": "Thu, 03 Jul 2025 15:49:08 GMT"
     }
   ],
   "Russia": [
@@ -1892,10 +1892,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump says key Iranian nuclear facilities \u2018totally obliterated\u2019 in U.S. strikes - The Washington Post",
-      "pubDate": "Sun, 22 Jun 2025 07:38:10 GMT"
-    },
     {
       "title": "Live updates: Trump claims success on U.S. strikes on Iran; military details overnight stealth operation - NBC News",
       "pubDate": "Sun, 22 Jun 2025 14:20:31 GMT"
@@ -2051,6 +2047,10 @@
     {
       "title": "Trump\u2019s megabill advances in the House after GOP divisions nearly derail it - CNBC",
       "pubDate": "Thu, 03 Jul 2025 07:39:39 GMT"
+    },
+    {
+      "title": "Trump admin live updates: Jeffries' marathon speech continues as final megabill vote looms - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Thu, 03 Jul 2025 15:03:00 GMT"
     }
   ],
   "World News": [
@@ -2359,6 +2359,10 @@
     {
       "title": "Microsoft to cut about 4% of jobs amid hefty AI bets - Reuters",
       "pubDate": "Wed, 02 Jul 2025 18:08:31 GMT"
+    },
+    {
+      "title": "US economy surpasses expectations to add 147,000 jobs in June - Financial Times",
+      "pubDate": "Thu, 03 Jul 2025 12:32:59 GMT"
     }
   ],
   "Trade War": [
@@ -2473,6 +2477,10 @@
     {
       "title": "Israel kills more than 300 Palestinians in 48 hours as ceasefire in balance - Al Jazeera",
       "pubDate": "Thu, 03 Jul 2025 06:53:34 GMT"
+    },
+    {
+      "title": "IDF releases video of Hamas torturing Gazan civilians - The Jerusalem Post",
+      "pubDate": "Thu, 03 Jul 2025 13:43:45 GMT"
     }
   ],
   "New York City": [
@@ -2623,6 +2631,10 @@
     {
       "title": "Google just bought 200 megawatts of fusion energy that doesn\u2019t even exist yet - CNN",
       "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Record-Breaking Results Bring Fusion Power Closer to Reality - Scientific American",
+      "pubDate": "Thu, 03 Jul 2025 12:00:00 GMT"
     }
   ],
   "North Korea": [
