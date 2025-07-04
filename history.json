@@ -1329,10 +1329,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Trump\u2019s plan to ban US states from AI regulation will \u2018hold us back\u2019, says Microsoft science chief - The Guardian",
-      "pubDate": "Sun, 22 Jun 2025 10:00:00 GMT"
-    },
-    {
       "title": "Preparing for a New Age: Artificial Intelligence, the American Workforce and the G.I. Bill - New Jersey Globe",
       "pubDate": "Sun, 22 Jun 2025 23:52:54 GMT"
     },
@@ -1487,6 +1483,10 @@
     {
       "title": "Tesla Vs. BYD: Tesla Loses Tax Credits Amid Robotaxi Push; BYD's BEV Sales Boom - MSN",
       "pubDate": "Fri, 04 Jul 2025 11:36:29 GMT"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats - CNBC",
+      "pubDate": "Fri, 04 Jul 2025 15:44:10 GMT"
     }
   ],
   "US Politics": [
@@ -1831,6 +1831,10 @@
     {
       "title": "Russia pounds Kyiv with largest drone attack, hours after Trump-Putin call - Reuters",
       "pubDate": "Fri, 04 Jul 2025 13:41:40 GMT"
+    },
+    {
+      "title": "Russia Hits Ukraine With Large Air Barrage Hours After Trump-Putin Call - The New York Times",
+      "pubDate": "Fri, 04 Jul 2025 17:52:49 GMT"
     }
   ],
   "Russia": [
@@ -1868,10 +1872,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump says 'everyone' should keep oil prices lower or they're playing 'into the hands of the enemy' - CNBC",
-      "pubDate": "Mon, 23 Jun 2025 13:52:25 GMT"
-    },
     {
       "title": "Donald Trump Reacts to Iran's Strike on US Base - Newsweek",
       "pubDate": "Mon, 23 Jun 2025 20:06:49 GMT"
@@ -2027,6 +2027,10 @@
     {
       "title": "Trump uses antisemitic slur in remarks promoting his 'big, beautiful bill' - NBC News",
       "pubDate": "Fri, 04 Jul 2025 13:24:34 GMT"
+    },
+    {
+      "title": "Trump expected to sign tax-and-spending bill in win for administration - The Guardian",
+      "pubDate": "Fri, 04 Jul 2025 20:07:00 GMT"
     }
   ],
   "World News": [
@@ -2537,6 +2541,10 @@
     {
       "title": "Bitcoin to benefit from Trump\u2019s \u2018Big Beautiful Bill,\u2019 analysts predict - Cointelegraph",
       "pubDate": "Fri, 04 Jul 2025 13:15:51 GMT"
+    },
+    {
+      "title": "Mysterious Bitcoin Whale Moves $8 Billion in 'Largest Daily' Transfer of Old BTC in History - Decrypt",
+      "pubDate": "Fri, 04 Jul 2025 16:12:04 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2701,12 +2709,22 @@
     {
       "title": "Microsoft to lay off about 9,000 employees in latest round - The Seattle Times",
       "pubDate": "Wed, 02 Jul 2025 12:47:34 GMT"
+    },
+    {
+      "title": "Microsoft and Nvidia Are the Odd $4 Trillion Power Couple - WSJ",
+      "pubDate": "Fri, 04 Jul 2025 09:30:00 GMT"
     }
   ],
   "Health": [
     {
       "title": "House nears finish line on health cuts - The Hill",
       "pubDate": "Wed, 02 Jul 2025 23:01:00 GMT"
+    }
+  ],
+  "Large Language Model": [
+    {
+      "title": "EU sticks with timeline for AI rules - Reuters",
+      "pubDate": "Fri, 04 Jul 2025 11:20:04 GMT"
     }
   ]
 }
