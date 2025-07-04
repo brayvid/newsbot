@@ -163,10 +163,6 @@
   ],
   "ukraine": [
     {
-      "title": "A drone strike devastated Russia\u2019s air force. The U.S. is vulnerable, too. - The Washington Post",
-      "pubDate": "Wed, 04 Jun 2025 14:58:27 GMT"
-    },
-    {
       "title": "China helps Russia pull ahead in lethal drone war race with Ukraine - politico.eu",
       "pubDate": "Thu, 05 Jun 2025 02:26:02 GMT"
     },
@@ -1103,14 +1099,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Anthropic is pulling in talent from OpenAI and DeepMind. What makes the AI \u200b\u200bstartup so attractive to the best engineers - dev.ua",
-      "pubDate": "Wed, 04 Jun 2025 11:34:00 GMT"
-    },
-    {
-      "title": "Three Essentials for Agentic AI Security - MIT Sloan Management Review",
-      "pubDate": "Wed, 04 Jun 2025 11:00:27 GMT"
-    },
-    {
       "title": "New US AI center reflects change in branding, not role - MLex",
       "pubDate": "Wed, 04 Jun 2025 22:58:00 GMT"
     },
@@ -1341,10 +1329,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Humans, AI collaborating makes for more accurate medical diagnoses: Study - Straight Arrow News",
-      "pubDate": "Sun, 22 Jun 2025 01:00:00 GMT"
-    },
-    {
       "title": "Trump\u2019s plan to ban US states from AI regulation will \u2018hold us back\u2019, says Microsoft science chief - The Guardian",
       "pubDate": "Sun, 22 Jun 2025 10:00:00 GMT"
     },
@@ -1499,6 +1483,10 @@
     {
       "title": "Meta restructures AI teams to focus on superintelligence - Quartz",
       "pubDate": "Thu, 03 Jul 2025 18:04:26 GMT"
+    },
+    {
+      "title": "Tesla Vs. BYD: Tesla Loses Tax Credits Amid Robotaxi Push; BYD's BEV Sales Boom - MSN",
+      "pubDate": "Fri, 04 Jul 2025 11:36:29 GMT"
     }
   ],
   "US Politics": [
@@ -1839,6 +1827,10 @@
     {
       "title": "Kyiv hit by barrage of drone strikes as Putin spurns Trump's truce bid - BBC",
       "pubDate": "Fri, 04 Jul 2025 07:12:48 GMT"
+    },
+    {
+      "title": "Russia pounds Kyiv with largest drone attack, hours after Trump-Putin call - Reuters",
+      "pubDate": "Fri, 04 Jul 2025 13:41:40 GMT"
     }
   ],
   "Russia": [
@@ -1876,10 +1868,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "LIVE: Iran vows to retaliate over US attacks; Trump warns of regime change - Al Jazeera",
-      "pubDate": "Mon, 23 Jun 2025 06:56:02 GMT"
-    },
     {
       "title": "Trump says 'everyone' should keep oil prices lower or they're playing 'into the hands of the enemy' - CNBC",
       "pubDate": "Mon, 23 Jun 2025 13:52:25 GMT"
@@ -2035,6 +2023,10 @@
     {
       "title": "July 3, 2025 - Congress passes Trump\u2019s sweeping domestic policy bill - CNN",
       "pubDate": "Fri, 04 Jul 2025 02:33:00 GMT"
+    },
+    {
+      "title": "Trump uses antisemitic slur in remarks promoting his 'big, beautiful bill' - NBC News",
+      "pubDate": "Fri, 04 Jul 2025 13:24:34 GMT"
     }
   ],
   "World News": [
@@ -2261,6 +2253,10 @@
     {
       "title": "Sutskever to lead Safe Superintelligence after Meta poaches CEO Gross in AI talent war - Reuters",
       "pubDate": "Thu, 03 Jul 2025 21:50:42 GMT"
+    },
+    {
+      "title": "AI Security Institute targets cybercrime in hiring push - UKTN",
+      "pubDate": "Fri, 04 Jul 2025 13:00:17 GMT"
     }
   ],
   "Data Breach": [
@@ -2381,6 +2377,10 @@
     {
       "title": "US-China trade deal is near, expert says: \u2018they are going to stabilise this\u2019 - South China Morning Post",
       "pubDate": "Thu, 26 Jun 2025 08:01:57 GMT"
+    },
+    {
+      "title": "China issues fresh warning over Trump\u2019s trade war - The Independent",
+      "pubDate": "Fri, 04 Jul 2025 14:13:00 GMT"
     }
   ],
   "Asteroids": [
@@ -2533,6 +2533,10 @@
     {
       "title": "Bitcoin Whales Wake Up From 14-Year Slumber to Move Over $2B of BTC - CoinDesk",
       "pubDate": "Fri, 04 Jul 2025 07:26:16 GMT"
+    },
+    {
+      "title": "Bitcoin to benefit from Trump\u2019s \u2018Big Beautiful Bill,\u2019 analysts predict - Cointelegraph",
+      "pubDate": "Fri, 04 Jul 2025 13:15:51 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2665,6 +2669,10 @@
     {
       "title": "Inside Operation Gold Rush, largest health care fraud bust in U.S. history - The Washington Post",
       "pubDate": "Mon, 30 Jun 2025 22:15:20 GMT"
+    },
+    {
+      "title": "How Trump\u2019s megabill will impact health care - The Hill",
+      "pubDate": "Fri, 04 Jul 2025 09:30:00 GMT"
     }
   ],
   "Fusion Power": [
