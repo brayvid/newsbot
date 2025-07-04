@@ -679,10 +679,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump's new salvo about to upend world trade; 50% tariff on steel & aluminum to kick in on June 4 - The Economic Times",
-      "pubDate": "Wed, 04 Jun 2025 01:58:15 GMT"
-    },
-    {
       "title": "Trump and Xi hold first talks since start of trade war to ease tensions - EL PA\u00cdS English",
       "pubDate": "Thu, 05 Jun 2025 15:20:13 GMT"
     },
@@ -1107,14 +1103,6 @@
   ],
   "ai_safety": [
     {
-      "title": "AI Godfather Is 'Deeply Concerned' About AI Dangers, Launches Safety-Focused Nonprofit LawZero - eWEEK",
-      "pubDate": "Wed, 04 Jun 2025 00:39:15 GMT"
-    },
-    {
-      "title": "\"Godfather of AI\" warns that today's AI systems are becoming strategically dishonest - TechSpot",
-      "pubDate": "Tue, 03 Jun 2025 22:31:00 GMT"
-    },
-    {
       "title": "Anthropic is pulling in talent from OpenAI and DeepMind. What makes the AI \u200b\u200bstartup so attractive to the best engineers - dev.ua",
       "pubDate": "Wed, 04 Jun 2025 11:34:00 GMT"
     },
@@ -1353,10 +1341,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Amazon CEO Andy Jassy says company will cut jobs amid AI boom. It's already happening at Microsoft. - Yahoo Finance",
-      "pubDate": "Sat, 21 Jun 2025 16:25:38 GMT"
-    },
-    {
       "title": "Humans, AI collaborating makes for more accurate medical diagnoses: Study - Straight Arrow News",
       "pubDate": "Sun, 22 Jun 2025 01:00:00 GMT"
     },
@@ -1511,6 +1495,10 @@
     {
       "title": "Motor safety: AI-powered warning system enhances capability to uncover hidden faults - Tech Xplore",
       "pubDate": "Thu, 03 Jul 2025 17:16:03 GMT"
+    },
+    {
+      "title": "Meta restructures AI teams to focus on superintelligence - Quartz",
+      "pubDate": "Thu, 03 Jul 2025 18:04:26 GMT"
     }
   ],
   "US Politics": [
@@ -1885,10 +1873,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Live updates: Iran warns US strikes will have \u2018everlasting consequences\u2019 as Trump says nuclear sites \u2018obliterated\u2019 - CNN",
-      "pubDate": "Sun, 22 Jun 2025 14:39:00 GMT"
-    },
-    {
       "title": "Trump Changed. The Intelligence Didn\u2019t. - The Atlantic",
       "pubDate": "Sun, 22 Jun 2025 22:22:00 GMT"
     },
@@ -2043,6 +2027,10 @@
     {
       "title": "House passes Trump megabill with $150 billion in military funding - Defense News",
       "pubDate": "Thu, 03 Jul 2025 19:24:55 GMT"
+    },
+    {
+      "title": "House passes GOP's 'big, beautiful bill,' sends it to Trump - NBC News",
+      "pubDate": "Fri, 04 Jul 2025 02:42:00 GMT"
     }
   ],
   "World News": [
@@ -2239,6 +2227,10 @@
     {
       "title": "Trump Wants the World to Squeeze Out China. He\u2019s Starting With Vietnam. - The New York Times",
       "pubDate": "Thu, 03 Jul 2025 12:46:29 GMT"
+    },
+    {
+      "title": "Exclusive | China tells EU it does not want to see Russia lose its war in Ukraine: sources - South China Morning Post",
+      "pubDate": "Thu, 03 Jul 2025 17:53:54 GMT"
     }
   ],
   "AI Safety": [
@@ -2363,6 +2355,10 @@
     {
       "title": "Solid US job numbers mask weakness underneath - Al Jazeera",
       "pubDate": "Thu, 03 Jul 2025 17:05:15 GMT"
+    },
+    {
+      "title": "Solid Jobs Report Keeps Fed Rate Cuts at Bay - The New York Times",
+      "pubDate": "Thu, 03 Jul 2025 17:22:01 GMT"
     }
   ],
   "Trade War": [
@@ -2489,6 +2485,10 @@
     {
       "title": "Where Do Israel-Hamas Truce Negotiations Stand? - The New York Times",
       "pubDate": "Thu, 03 Jul 2025 17:03:10 GMT"
+    },
+    {
+      "title": "Scores killed in Gaza as Israel intensifies strikes - CNN",
+      "pubDate": "Thu, 03 Jul 2025 20:57:00 GMT"
     }
   ],
   "New York City": [
@@ -2541,6 +2541,10 @@
     {
       "title": "Nvidia insiders sold over $1 billion in stock amid market surge, FT reports - Reuters",
       "pubDate": "Sun, 29 Jun 2025 13:57:39 GMT"
+    },
+    {
+      "title": "Nvidia stock closes at record as AI chipmaker nears being crowned most valuable company in history - Yahoo Finance",
+      "pubDate": "Thu, 03 Jul 2025 17:17:43 GMT"
     }
   ],
   "Technology": [
@@ -2569,6 +2573,10 @@
     {
       "title": "Renewables Slide as Senate Bill Takes Aim at Clean Energy - Yahoo Finance",
       "pubDate": "Mon, 30 Jun 2025 17:20:45 GMT"
+    },
+    {
+      "title": "Trump megabill gives the oil industry everything it wants and ends key support for solar and wind - CNBC",
+      "pubDate": "Thu, 03 Jul 2025 18:55:21 GMT"
     }
   ],
   "Cancer": [
