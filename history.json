@@ -163,10 +163,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine war live: Putin launches glide bomb strike on key city after revenge warning - The Independent",
-      "pubDate": "Thu, 05 Jun 2025 09:27:27 GMT"
-    },
-    {
       "title": "Ukraine claims to have damaged Russian fighter jets in night-time raid - The Guardian",
       "pubDate": "Mon, 09 Jun 2025 09:42:00 GMT"
     },
@@ -671,10 +667,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump and Xi hold first talks since start of trade war to ease tensions - EL PA\u00cdS English",
-      "pubDate": "Thu, 05 Jun 2025 15:20:13 GMT"
-    },
-    {
       "title": "US Targets Niche Gas That China Can\u2019t Replace as Trade War Chip - Bloomberg",
       "pubDate": "Fri, 06 Jun 2025 08:21:51 GMT"
     },
@@ -1095,18 +1087,6 @@
   ],
   "ai_safety": [
     {
-      "title": "Anthropic's New Government AI Models Signal the Defense Tech Gold Rush is Real - Maginative",
-      "pubDate": "Thu, 05 Jun 2025 14:34:49 GMT"
-    },
-    {
-      "title": "Anthropic introduces new Claude Gov models with national security focus - Nextgov",
-      "pubDate": "Thu, 05 Jun 2025 17:04:00 GMT"
-    },
-    {
-      "title": "Groups raise alarms about proposed artificial intelligence regulations - The Center Square",
-      "pubDate": "Thu, 05 Jun 2025 18:52:00 GMT"
-    },
-    {
       "title": "\u2018Godfather of AI\u2019 believes the tech is now unsafe - but he has a plan - The Independent",
       "pubDate": "Fri, 06 Jun 2025 10:58:00 GMT"
     }
@@ -1321,10 +1301,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Artificial intelligence isn\u2019t hurting workers\u2014It might be helping - ScienceDaily",
-      "pubDate": "Mon, 23 Jun 2025 14:03:45 GMT"
-    },
-    {
       "title": "Opinion | Unleashing artificial intelligence - The Washington Post",
       "pubDate": "Tue, 24 Jun 2025 02:55:24 GMT"
     },
@@ -1479,6 +1455,10 @@
     {
       "title": "AI revolution: How artificial intelligence is reshaping education and jobs in America - The College Fix",
       "pubDate": "Sat, 05 Jul 2025 04:17:01 GMT"
+    },
+    {
+      "title": "OpenAI is betting millions on building AI talent from the ground up amid rival Meta\u2019s poaching pitch - Fortune",
+      "pubDate": "Sat, 05 Jul 2025 11:54:00 GMT"
     }
   ],
   "US Politics": [
@@ -1869,13 +1849,13 @@
     {
       "title": "North Korea to send as many as 30,000 troops to bolster Russia\u2019s forces, Ukrainian officials say - CNN",
       "pubDate": "Wed, 02 Jul 2025 16:19:00 GMT"
+    },
+    {
+      "title": "Russia seeks to involve Laos in war against Ukraine, military intelligence claims - The Kyiv Independent",
+      "pubDate": "Sat, 05 Jul 2025 10:03:52 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "LIVE: Trump says Israel-Iran ceasefire is now in effect - Al Jazeera",
-      "pubDate": "Tue, 24 Jun 2025 05:40:01 GMT"
-    },
     {
       "title": "Live updates: Trump lashes out at Israel and Iran amid accusations of ceasefire violations - NBC News",
       "pubDate": "Tue, 24 Jun 2025 15:23:32 GMT"
@@ -2031,6 +2011,10 @@
     {
       "title": "Trump signs \"big, beautiful bill\" in July Fourth ceremony at White House - CBS News",
       "pubDate": "Sat, 05 Jul 2025 00:01:53 GMT"
+    },
+    {
+      "title": "Trump ramps up his attacks against NYC's Zohran Mamdani as GOP seizes on new foe - NBC New York",
+      "pubDate": "Sat, 05 Jul 2025 15:42:15 GMT"
     }
   ],
   "World News": [
@@ -2243,6 +2227,10 @@
     {
       "title": "China Has Paid a High Price for Its Dominance in Rare Earths - The New York Times",
       "pubDate": "Sat, 05 Jul 2025 04:01:07 GMT"
+    },
+    {
+      "title": "China, EU near EV tariff deal, state media says, refutes \u2018trade diversion\u2019 fears - South China Morning Post",
+      "pubDate": "Sat, 05 Jul 2025 12:03:50 GMT"
     }
   ],
   "AI Safety": [
@@ -2529,6 +2517,10 @@
     {
       "title": "Hamas says it delivered 'positive response' on Gaza ceasefire plan - BBC",
       "pubDate": "Fri, 04 Jul 2025 22:42:00 GMT"
+    },
+    {
+      "title": "Israel continues airstrikes on Gaza after Hamas says it is ready for ceasefire talks - The Guardian",
+      "pubDate": "Sat, 05 Jul 2025 20:22:00 GMT"
     }
   ],
   "New York City": [
@@ -2569,6 +2561,10 @@
     {
       "title": "BlackRock Bitcoin ETF Surges 500% Faster Than Any Other ETF - AInvest",
       "pubDate": "Fri, 04 Jul 2025 22:55:47 GMT"
+    },
+    {
+      "title": "Bitcoin Price Watch: Calm Before the Storm\u2014Could Bitcoin Shatter the $111K Ceiling This Week? - Bitcoin.com News",
+      "pubDate": "Sat, 05 Jul 2025 11:46:57 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2661,6 +2657,10 @@
     {
       "title": "Republican budget bill dismantles climate law passed by Democrats - AP News",
       "pubDate": "Wed, 02 Jul 2025 02:14:00 GMT"
+    },
+    {
+      "title": "Devastating flash floods slam Texas Hill Country; Tropical Storm Chantal heads for Carolinas - Yale Climate Connections",
+      "pubDate": "Sat, 05 Jul 2025 18:15:13 GMT"
     }
   ],
   "Hurricanes": [
