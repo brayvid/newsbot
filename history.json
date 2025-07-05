@@ -163,10 +163,6 @@
   ],
   "ukraine": [
     {
-      "title": "China helps Russia pull ahead in lethal drone war race with Ukraine - politico.eu",
-      "pubDate": "Thu, 05 Jun 2025 02:26:02 GMT"
-    },
-    {
       "title": "Ukraine war live: Putin launches glide bomb strike on key city after revenge warning - The Independent",
       "pubDate": "Thu, 05 Jun 2025 09:27:27 GMT"
     },
@@ -1099,10 +1095,6 @@
   ],
   "ai_safety": [
     {
-      "title": "New US AI center reflects change in branding, not role - MLex",
-      "pubDate": "Wed, 04 Jun 2025 22:58:00 GMT"
-    },
-    {
       "title": "Anthropic's New Government AI Models Signal the Defense Tech Gold Rush is Real - Maginative",
       "pubDate": "Thu, 05 Jun 2025 14:34:49 GMT"
     },
@@ -1329,10 +1321,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Preparing for a New Age: Artificial Intelligence, the American Workforce and the G.I. Bill - New Jersey Globe",
-      "pubDate": "Sun, 22 Jun 2025 23:52:54 GMT"
-    },
-    {
       "title": "Range Intelligent Is Said to Explore Second Listing in Hong Kong - Bloomberg.com",
       "pubDate": "Mon, 23 Jun 2025 05:44:00 GMT"
     },
@@ -1487,6 +1475,10 @@
     {
       "title": "OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats - CNBC",
       "pubDate": "Fri, 04 Jul 2025 15:44:10 GMT"
+    },
+    {
+      "title": "Why OpenAI and Anthropic Are the Best Bets in Artificial Intelligence - The Information",
+      "pubDate": "Fri, 04 Jul 2025 18:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -1835,6 +1827,10 @@
     {
       "title": "Russia Hits Ukraine With Large Air Barrage Hours After Trump-Putin Call - The New York Times",
       "pubDate": "Fri, 04 Jul 2025 17:52:49 GMT"
+    },
+    {
+      "title": "Russia hits Ukraine with largest aerial attack as Trump talks to Zelenskyy and Putin - NPR",
+      "pubDate": "Fri, 04 Jul 2025 17:02:17 GMT"
     }
   ],
   "Russia": [
@@ -1872,10 +1868,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Donald Trump Reacts to Iran's Strike on US Base - Newsweek",
-      "pubDate": "Mon, 23 Jun 2025 20:06:49 GMT"
-    },
     {
       "title": "Live updates: Trump announces Israel-Iran ceasefire; attack on Al Udeid Air Base in Qatar - CNN",
       "pubDate": "Tue, 24 Jun 2025 03:40:00 GMT"
@@ -2031,6 +2023,10 @@
     {
       "title": "Trump expected to sign tax-and-spending bill in win for administration - The Guardian",
       "pubDate": "Fri, 04 Jul 2025 20:07:00 GMT"
+    },
+    {
+      "title": "Trump signs his huge tax and spending bill into law - BBC",
+      "pubDate": "Fri, 04 Jul 2025 22:57:37 GMT"
     }
   ],
   "World News": [
@@ -2235,6 +2231,10 @@
     {
       "title": "China Plans Nationwide Subsidies to Boost Birthrate - Bloomberg.com",
       "pubDate": "Fri, 04 Jul 2025 04:59:00 GMT"
+    },
+    {
+      "title": "China tells EU it can\u2019t accept Russia losing its war against Ukraine, official says - CNN",
+      "pubDate": "Fri, 04 Jul 2025 16:38:00 GMT"
     }
   ],
   "AI Safety": [
@@ -2261,6 +2261,10 @@
     {
       "title": "AI Security Institute targets cybercrime in hiring push - UKTN",
       "pubDate": "Fri, 04 Jul 2025 13:00:17 GMT"
+    },
+    {
+      "title": "OpenAI Co-Founder Now Leads Safe Superintelligence Amid AI Talent Wars - CoinCentral",
+      "pubDate": "Fri, 04 Jul 2025 18:23:28 GMT"
     }
   ],
   "Data Breach": [
@@ -2509,6 +2513,10 @@
     {
       "title": "LIVE: Israel intensifies Gaza attacks; Hamas seeks ceasefire guarantees - Al Jazeera",
       "pubDate": "Fri, 04 Jul 2025 08:25:47 GMT"
+    },
+    {
+      "title": "Hamas submits \u2018positive response\u2019 to ceasefire proposal in major step toward a deal - CNN",
+      "pubDate": "Fri, 04 Jul 2025 21:40:00 GMT"
     }
   ],
   "New York City": [
@@ -2545,6 +2553,10 @@
     {
       "title": "Mysterious Bitcoin Whale Moves $8 Billion in 'Largest Daily' Transfer of Old BTC in History - Decrypt",
       "pubDate": "Fri, 04 Jul 2025 16:12:04 GMT"
+    },
+    {
+      "title": "BlackRock Bitcoin ETF Surges 500% Faster Than Any Other ETF - AInvest",
+      "pubDate": "Fri, 04 Jul 2025 22:55:47 GMT"
     }
   ],
   "US Foreign Policy": [
