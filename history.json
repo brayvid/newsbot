@@ -1321,10 +1321,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Range Intelligent Is Said to Explore Second Listing in Hong Kong - Bloomberg.com",
-      "pubDate": "Mon, 23 Jun 2025 05:44:00 GMT"
-    },
-    {
       "title": "Artificial intelligence isn\u2019t hurting workers\u2014It might be helping - ScienceDaily",
       "pubDate": "Mon, 23 Jun 2025 14:03:45 GMT"
     },
@@ -1479,6 +1475,10 @@
     {
       "title": "Why OpenAI and Anthropic Are the Best Bets in Artificial Intelligence - The Information",
       "pubDate": "Fri, 04 Jul 2025 18:00:00 GMT"
+    },
+    {
+      "title": "AI revolution: How artificial intelligence is reshaping education and jobs in America - The College Fix",
+      "pubDate": "Sat, 05 Jul 2025 04:17:01 GMT"
     }
   ],
   "US Politics": [
@@ -1831,6 +1831,10 @@
     {
       "title": "Russia hits Ukraine with largest aerial attack as Trump talks to Zelenskyy and Putin - NPR",
       "pubDate": "Fri, 04 Jul 2025 17:02:17 GMT"
+    },
+    {
+      "title": "Ukraine says it struck a Russian airbase as Russia sent hundreds of drones into Ukraine - The Hill",
+      "pubDate": "Sat, 05 Jul 2025 08:25:00 GMT"
     }
   ],
   "Russia": [
@@ -1868,10 +1872,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Live updates: Trump announces Israel-Iran ceasefire; attack on Al Udeid Air Base in Qatar - CNN",
-      "pubDate": "Tue, 24 Jun 2025 03:40:00 GMT"
-    },
     {
       "title": "LIVE: Trump says Israel-Iran ceasefire is now in effect - Al Jazeera",
       "pubDate": "Tue, 24 Jun 2025 05:40:01 GMT"
@@ -2027,6 +2027,10 @@
     {
       "title": "Trump signs his huge tax and spending bill into law - BBC",
       "pubDate": "Fri, 04 Jul 2025 22:57:37 GMT"
+    },
+    {
+      "title": "Trump signs \"big, beautiful bill\" in July Fourth ceremony at White House - CBS News",
+      "pubDate": "Sat, 05 Jul 2025 00:01:53 GMT"
     }
   ],
   "World News": [
@@ -2235,6 +2239,10 @@
     {
       "title": "China tells EU it can\u2019t accept Russia losing its war against Ukraine, official says - CNN",
       "pubDate": "Fri, 04 Jul 2025 16:38:00 GMT"
+    },
+    {
+      "title": "China Has Paid a High Price for Its Dominance in Rare Earths - The New York Times",
+      "pubDate": "Sat, 05 Jul 2025 04:01:07 GMT"
     }
   ],
   "AI Safety": [
@@ -2517,6 +2525,10 @@
     {
       "title": "Hamas submits \u2018positive response\u2019 to ceasefire proposal in major step toward a deal - CNN",
       "pubDate": "Fri, 04 Jul 2025 21:40:00 GMT"
+    },
+    {
+      "title": "Hamas says it delivered 'positive response' on Gaza ceasefire plan - BBC",
+      "pubDate": "Fri, 04 Jul 2025 22:42:00 GMT"
     }
   ],
   "New York City": [
@@ -2631,6 +2643,10 @@
     {
       "title": "Shock research reveals how types of birth can affect children's chances of getting CANCER - Daily Mail",
       "pubDate": "Thu, 03 Jul 2025 23:05:20 GMT"
+    },
+    {
+      "title": "Actor Julian McMahon dies after private battle with cancer - KTLA",
+      "pubDate": "Fri, 04 Jul 2025 22:50:54 GMT"
     }
   ],
   "Climate": [
@@ -2737,6 +2753,12 @@
     {
       "title": "EU sticks with timeline for AI rules - Reuters",
       "pubDate": "Fri, 04 Jul 2025 11:20:04 GMT"
+    }
+  ],
+  "Federal Reserve": [
+    {
+      "title": "Federal Reserve Watch: No Rate Change - Seeking Alpha",
+      "pubDate": "Sat, 05 Jul 2025 07:19:00 GMT"
     }
   ]
 }
