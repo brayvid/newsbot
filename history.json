@@ -1069,12 +1069,6 @@
       "pubDate": "Wed, 18 Jun 2025 07:01:00 GMT"
     }
   ],
-  "ai_safety": [
-    {
-      "title": "\u2018Godfather of AI\u2019 believes the tech is now unsafe - but he has a plan - The Independent",
-      "pubDate": "Fri, 06 Jun 2025 10:58:00 GMT"
-    }
-  ],
   "us_politics": [
     {
       "title": "Trump LA protest response risks turning US military into political force, veterans warn - The Guardian",
@@ -1285,10 +1279,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "American Students Are Relying On ChatGPT - At Their Own Risk - Newsweek",
-      "pubDate": "Tue, 24 Jun 2025 08:00:01 GMT"
-    },
-    {
       "title": "At Amazon\u2019s Biggest Data Center, Everything Is Supersized for A.I. - The New York Times",
       "pubDate": "Tue, 24 Jun 2025 09:01:00 GMT"
     },
@@ -1443,6 +1433,10 @@
     {
       "title": "Drivers of artificial intelligence innovation in manufacturing clusters: insights from cellular automata simulations - Nature",
       "pubDate": "Sat, 05 Jul 2025 18:17:01 GMT"
+    },
+    {
+      "title": "Bosses Are Using AI to Decide Who to Fire - Futurism",
+      "pubDate": "Sun, 06 Jul 2025 13:00:42 GMT"
     }
   ],
   "US Politics": [
@@ -1811,6 +1805,10 @@
     {
       "title": "Ukraine says it struck a Russian airbase as Russia sent hundreds of drones into Ukraine - The Hill",
       "pubDate": "Sat, 05 Jul 2025 08:25:00 GMT"
+    },
+    {
+      "title": "Russia downs 120 Ukrainian drones overnight, Defence Ministry says - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 08:35:44 GMT"
     }
   ],
   "Russia": [
@@ -2545,6 +2543,10 @@
     {
       "title": "Israel to send team to Gaza talks despite Hamas demands, PM says - BBC",
       "pubDate": "Sat, 05 Jul 2025 22:08:50 GMT"
+    },
+    {
+      "title": "Netanyahu Heads to Washington as Trump Pushes for Israel-Hamas Cease-Fire - The New York Times",
+      "pubDate": "Sun, 06 Jul 2025 08:39:18 GMT"
     }
   ],
   "New York City": [
@@ -2795,6 +2797,24 @@
     {
       "title": "Federal Reserve Watch: No Rate Change - Seeking Alpha",
       "pubDate": "Sat, 05 Jul 2025 07:19:00 GMT"
+    }
+  ],
+  "Alternative Energy": [
+    {
+      "title": "The resistance to renewables - Why are energy providers abandoning net-zero strategies? - AltEnergyMag",
+      "pubDate": "Sun, 06 Jul 2025 14:10:44 GMT"
+    }
+  ],
+  "Cosmology": [
+    {
+      "title": "Confirmed by the James Webb telescope - something is wrong with the universe and scientists fear this anomaly will change physics forever - La Grada Online",
+      "pubDate": "Sun, 06 Jul 2025 10:15:59 GMT"
+    }
+  ],
+  "Pacific Ocean": [
+    {
+      "title": "Space burial ends in tragedy: Capsule with ashes of 166 people crashes into Pacific Ocean | Trending - Hindustan Times - Hindustan Times",
+      "pubDate": "Sun, 06 Jul 2025 09:40:14 GMT"
     }
   ]
 }
