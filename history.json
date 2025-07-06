@@ -339,10 +339,6 @@
   ],
   "russia": [
     {
-      "title": "White House Quietly Pressures Senate to Water Down Russia Sanctions - WSJ",
-      "pubDate": "Fri, 06 Jun 2025 16:31:00 GMT"
-    },
-    {
       "title": "Germany plans rapid bunker expansion amid fears of Russian attack - The Guardian",
       "pubDate": "Sat, 07 Jun 2025 15:00:00 GMT"
     },
@@ -1279,10 +1275,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "At Amazon\u2019s Biggest Data Center, Everything Is Supersized for A.I. - The New York Times",
-      "pubDate": "Tue, 24 Jun 2025 09:01:00 GMT"
-    },
-    {
       "title": "AI poses \u2018existential risk\u2019 if out of control, Chinese computer scientist warns - South China Morning Post",
       "pubDate": "Tue, 24 Jun 2025 12:00:07 GMT"
     },
@@ -1437,6 +1429,10 @@
     {
       "title": "Bosses Are Using AI to Decide Who to Fire - Futurism",
       "pubDate": "Sun, 06 Jul 2025 13:00:42 GMT"
+    },
+    {
+      "title": "Sam Altman\u2019s AI Empire Relies on Brutal Labor Exploitation - Jacobin",
+      "pubDate": "Sun, 06 Jul 2025 17:08:41 GMT"
     }
   ],
   "US Politics": [
@@ -2591,6 +2587,10 @@
     {
       "title": "Bitcoin Price Watch: Calm Before the Storm\u2014Could Bitcoin Shatter the $111K Ceiling This Week? - Bitcoin.com News",
       "pubDate": "Sat, 05 Jul 2025 11:46:57 GMT"
+    },
+    {
+      "title": "Bitcoin just became a path to homeownership. Here\u2019s how - USA Today",
+      "pubDate": "Sun, 06 Jul 2025 19:02:06 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2623,6 +2623,10 @@
     {
       "title": "Nvidia stock closes at record as AI chipmaker nears being crowned most valuable company in history - Yahoo Finance",
       "pubDate": "Thu, 03 Jul 2025 17:17:43 GMT"
+    },
+    {
+      "title": "Nvidia sets new record, leaves Apple and Microsoft behind to become first company in history to achieve t - Times of India",
+      "pubDate": "Sun, 06 Jul 2025 13:44:00 GMT"
     }
   ],
   "Technology": [
@@ -2695,6 +2699,10 @@
     {
       "title": "Southern Ocean current reverses for first time, signalling risk of climate system collapse - bne IntelliNews",
       "pubDate": "Sat, 05 Jul 2025 21:17:14 GMT"
+    },
+    {
+      "title": "Texas floods reveal limitations of disaster forecasting under climate crisis - The Guardian",
+      "pubDate": "Sun, 06 Jul 2025 20:31:00 GMT"
     }
   ],
   "Hurricanes": [
@@ -2719,6 +2727,10 @@
     {
       "title": "Tesla Sales Fall as Elon Musk Focuses on Self-Driving Cars - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 17:59:24 GMT"
+    },
+    {
+      "title": "Musk Announces New \u2018America Party Is Formed,\u2019 Cementing Split From Trump and Republicans - Time Magazine",
+      "pubDate": "Sun, 06 Jul 2025 15:25:34 GMT"
     }
   ],
   "Mars": [
@@ -2815,6 +2827,12 @@
     {
       "title": "Space burial ends in tragedy: Capsule with ashes of 166 people crashes into Pacific Ocean | Trending - Hindustan Times - Hindustan Times",
       "pubDate": "Sun, 06 Jul 2025 09:40:14 GMT"
+    }
+  ],
+  "Drones": [
+    {
+      "title": "Six Ukrainian drones headed for Moscow downed, mayor says - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 17:05:47 GMT"
     }
   ]
 }
