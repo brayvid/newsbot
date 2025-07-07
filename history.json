@@ -339,10 +339,6 @@
   ],
   "russia": [
     {
-      "title": "Germany plans rapid bunker expansion amid fears of Russian attack - The Guardian",
-      "pubDate": "Sat, 07 Jun 2025 15:00:00 GMT"
-    },
-    {
       "title": "Russia shoots down 10 Ukrainian drones targeting Moscow - Al Jazeera",
       "pubDate": "Sun, 08 Jun 2025 09:13:42 GMT"
     },
@@ -629,10 +625,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "Trump\u2019s New Diplomacy: How Tariffs Can Reshape US Foreign Policy - Fair Observer",
-      "pubDate": "Sat, 07 Jun 2025 10:09:00 GMT"
-    },
-    {
       "title": "The New Balance of Power in the Middle East: America, Iran, and the Emerging Arabian Axis - Foreign Affairs",
       "pubDate": "Tue, 10 Jun 2025 04:00:00 GMT"
     },
@@ -654,10 +646,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "The Deng doctrine: How China weaponises rare earths to gain leverage in trade war with the US - Firstpost",
-      "pubDate": "Sat, 07 Jun 2025 14:19:46 GMT"
-    },
     {
       "title": "Export Controls to Take Center Stage at U.S.-China Trade Talks - WSJ",
       "pubDate": "Sun, 08 Jun 2025 09:30:00 GMT"
@@ -1805,6 +1793,10 @@
     {
       "title": "Russia downs 120 Ukrainian drones overnight, Defence Ministry says - Reuters",
       "pubDate": "Sun, 06 Jul 2025 08:35:44 GMT"
+    },
+    {
+      "title": "Ukraine Turns to Fishing Nets to Catch Russian Drones - The New York Times",
+      "pubDate": "Mon, 07 Jul 2025 09:02:40 GMT"
     }
   ],
   "Russia": [
@@ -2399,6 +2391,10 @@
     {
       "title": "Trump tariffs live updates: Trump set to impose tariffs of up to 70% in letter push as July 9 deadline looms - Yahoo Finance",
       "pubDate": "Sat, 05 Jul 2025 21:13:13 GMT"
+    },
+    {
+      "title": "Trump threatens extra 10% tariff on nations that side with Brics - BBC",
+      "pubDate": "Mon, 07 Jul 2025 13:16:52 GMT"
     }
   ],
   "Asteroids": [
@@ -2559,6 +2555,10 @@
     {
       "title": "First indirect Hamas-Israel ceasefire talks ended inconclusively, Palestinian sources say - Reuters",
       "pubDate": "Sun, 06 Jul 2025 23:31:00 GMT"
+    },
+    {
+      "title": "Israel, Hamas set for Gaza ceasefire talks as Netanyahu due to meet Trump - Reuters",
+      "pubDate": "Mon, 07 Jul 2025 09:52:29 GMT"
     }
   ],
   "New York City": [
@@ -2763,6 +2763,10 @@
     {
       "title": "Musk Announces New \u2018America Party Is Formed,\u2019 Cementing Split From Trump and Republicans - Time Magazine",
       "pubDate": "Sun, 06 Jul 2025 15:25:34 GMT"
+    },
+    {
+      "title": "Tesla shares drop 8% after Elon Musk says he is launching a political party - CNBC",
+      "pubDate": "Mon, 07 Jul 2025 08:29:07 GMT"
     }
   ],
   "Mars": [
@@ -2871,6 +2875,18 @@
     {
       "title": "Scientists create biological \u2018artificial intelligence\u2019 system - Scimex",
       "pubDate": "Mon, 07 Jul 2025 08:32:02 GMT"
+    }
+  ],
+  "FBI": [
+    {
+      "title": "Jeffrey Epstein died by suicide, justice department and FBI review confirms - The Guardian",
+      "pubDate": "Mon, 07 Jul 2025 15:40:00 GMT"
+    }
+  ],
+  "Chemistry": [
+    {
+      "title": "A new organometallic compound challenges a fundamental principle of textbook chemistry - Phys.org",
+      "pubDate": "Mon, 07 Jul 2025 13:22:04 GMT"
     }
   ]
 }
