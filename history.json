@@ -655,10 +655,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump announces second round of US trade talks with China next week - Al Jazeera",
-      "pubDate": "Fri, 06 Jun 2025 21:13:57 GMT"
-    },
-    {
       "title": "The Deng doctrine: How China weaponises rare earths to gain leverage in trade war with the US - Firstpost",
       "pubDate": "Sat, 07 Jun 2025 14:19:46 GMT"
     },
@@ -871,10 +867,6 @@
   ],
   "elon_musk": [
     {
-      "title": "Trump takes aim at Musk's government contracts but says ex-pal can keep White House key - USA Today",
-      "pubDate": "Sat, 07 Jun 2025 02:36:12 GMT"
-    },
-    {
       "title": "Elon Musk rips Trump personnel director Sergio Gor as \u2018a snake\u2019 - New York Post",
       "pubDate": "Thu, 19 Jun 2025 15:39:00 GMT"
     },
@@ -1046,10 +1038,6 @@
     }
   ],
   "us_supreme_court": [
-    {
-      "title": "Justices Grant DOGE Access to Social Security Data and Let the Team Shield Records - The New York Times",
-      "pubDate": "Fri, 06 Jun 2025 22:22:41 GMT"
-    },
     {
       "title": "US Supreme Court sides with American gun manufacturers in Mexico\u2019s lawsuit over cartel violence - JURIST Legal News",
       "pubDate": "Sun, 08 Jun 2025 01:46:53 GMT"
@@ -1275,10 +1263,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "AI poses \u2018existential risk\u2019 if out of control, Chinese computer scientist warns - South China Morning Post",
-      "pubDate": "Tue, 24 Jun 2025 12:00:07 GMT"
-    },
-    {
       "title": "AI Security Turning Point: Echo Chamber Jailbreak Exposes Dangerous Blind Spot - TechRepublic",
       "pubDate": "Tue, 24 Jun 2025 21:44:06 GMT"
     },
@@ -1433,6 +1417,10 @@
     {
       "title": "Sam Altman\u2019s AI Empire Relies on Brutal Labor Exploitation - Jacobin",
       "pubDate": "Sun, 06 Jul 2025 17:08:41 GMT"
+    },
+    {
+      "title": "AI-linked job losses drive record-high unemployment among college graduates - News 9",
+      "pubDate": "Sun, 06 Jul 2025 16:29:49 GMT"
     }
   ],
   "US Politics": [
@@ -1547,6 +1535,10 @@
     {
       "title": "Elon Musk launches the America Party as feud with Trump escalates - Al Jazeera",
       "pubDate": "Sun, 06 Jul 2025 05:07:10 GMT"
+    },
+    {
+      "title": "Neither Democrat nor Republican: Elon Musk launches \u201cAmerica Party,\u201d a party no one was expecting - Diario AS",
+      "pubDate": "Sun, 06 Jul 2025 22:44:13 GMT"
     }
   ],
   "Iran": [
@@ -1691,6 +1683,10 @@
     {
       "title": "Israel\u2019s 12-day war with Iran was a test of technological dominance - The Times of Israel",
       "pubDate": "Tue, 01 Jul 2025 18:37:00 GMT"
+    },
+    {
+      "title": "Israel\u2019s Deadly Assault on Iran Prison Incites Fury, Even Among Dissidents - The New York Times",
+      "pubDate": "Sun, 06 Jul 2025 22:13:55 GMT"
     }
   ],
   "Ukraine": [
@@ -2273,6 +2269,10 @@
     {
       "title": "Qantas Data Breach Impacts Up to 6 Million Customers - SecurityWeek",
       "pubDate": "Wed, 02 Jul 2025 07:49:25 GMT"
+    },
+    {
+      "title": "Texas agency announces critical identification leaked in breach - Chron",
+      "pubDate": "Sun, 06 Jul 2025 19:36:11 GMT"
     }
   ],
   "Cybersecurity": [
@@ -2543,6 +2543,10 @@
     {
       "title": "Netanyahu Heads to Washington as Trump Pushes for Israel-Hamas Cease-Fire - The New York Times",
       "pubDate": "Sun, 06 Jul 2025 08:39:18 GMT"
+    },
+    {
+      "title": "Hamas security officer says group has lost control over most of Gaza /OR/ Hamas security officer says clans filling void as group loses control of Gaza - BBC",
+      "pubDate": "Sun, 06 Jul 2025 16:13:59 GMT"
     }
   ],
   "New York City": [
@@ -2603,6 +2607,10 @@
     {
       "title": "Putin to skip BRICS summit in Brazil due to ICC arrest warrant - The Kyiv Independent",
       "pubDate": "Wed, 25 Jun 2025 17:43:34 GMT"
+    },
+    {
+      "title": "Trump says countries aligning with BRICS policies will face additional 10% tariff - CNBC",
+      "pubDate": "Mon, 07 Jul 2025 02:52:00 GMT"
     }
   ],
   "Central Intelligence Agency": [
@@ -2703,6 +2711,10 @@
     {
       "title": "Texas floods reveal limitations of disaster forecasting under climate crisis - The Guardian",
       "pubDate": "Sun, 06 Jul 2025 20:31:00 GMT"
+    },
+    {
+      "title": "Texas tragedy foretells future for warming climate, scientists say - Axios",
+      "pubDate": "Sun, 06 Jul 2025 23:48:06 GMT"
     }
   ],
   "Hurricanes": [
