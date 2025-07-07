@@ -1263,10 +1263,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "AI Security Turning Point: Echo Chamber Jailbreak Exposes Dangerous Blind Spot - TechRepublic",
-      "pubDate": "Tue, 24 Jun 2025 21:44:06 GMT"
-    },
-    {
       "title": "New York Legislature Passes Sweeping AI Safety Legislation - Inside Global Tech",
       "pubDate": "Tue, 24 Jun 2025 23:06:31 GMT"
     },
@@ -1421,6 +1417,10 @@
     {
       "title": "AI-linked job losses drive record-high unemployment among college graduates - News 9",
       "pubDate": "Sun, 06 Jul 2025 16:29:49 GMT"
+    },
+    {
+      "title": "OpenAI says GPT-5 will unify breakthroughs from different models - BleepingComputer",
+      "pubDate": "Mon, 07 Jul 2025 00:22:40 GMT"
     }
   ],
   "US Politics": [
@@ -1539,6 +1539,10 @@
     {
       "title": "Neither Democrat nor Republican: Elon Musk launches \u201cAmerica Party,\u201d a party no one was expecting - Diario AS",
       "pubDate": "Sun, 06 Jul 2025 22:44:13 GMT"
+    },
+    {
+      "title": "Trump calls Musk's formation of new party \"ridiculous\" and criticizes his own NASA pick - Reuters",
+      "pubDate": "Mon, 07 Jul 2025 06:12:00 GMT"
     }
   ],
   "Iran": [
@@ -2405,6 +2409,10 @@
     {
       "title": "Giant asteroid could crash into moon in 2032, firing debris towards Earth - The Guardian",
       "pubDate": "Tue, 24 Jun 2025 01:31:00 GMT"
+    },
+    {
+      "title": "New Vera Rubin Observatory discovers 2,000 unknown asteroids within 10 hours - AOL.com",
+      "pubDate": "Mon, 07 Jul 2025 08:35:50 GMT"
     }
   ],
   "Atlantic Ocean": [
@@ -2547,6 +2555,10 @@
     {
       "title": "Hamas security officer says group has lost control over most of Gaza /OR/ Hamas security officer says clans filling void as group loses control of Gaza - BBC",
       "pubDate": "Sun, 06 Jul 2025 16:13:59 GMT"
+    },
+    {
+      "title": "First indirect Hamas-Israel ceasefire talks ended inconclusively, Palestinian sources say - Reuters",
+      "pubDate": "Sun, 06 Jul 2025 23:31:00 GMT"
     }
   ],
   "New York City": [
@@ -2595,6 +2607,10 @@
     {
       "title": "Bitcoin just became a path to homeownership. Here\u2019s how - USA Today",
       "pubDate": "Sun, 06 Jul 2025 19:02:06 GMT"
+    },
+    {
+      "title": "Bitcoin price today: up at $109k ahead of \u2019crypto week\u2019; tariff jitters cap gains - Investing.com",
+      "pubDate": "Mon, 07 Jul 2025 06:13:24 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2715,6 +2731,10 @@
     {
       "title": "Texas tragedy foretells future for warming climate, scientists say - Axios",
       "pubDate": "Sun, 06 Jul 2025 23:48:06 GMT"
+    },
+    {
+      "title": "Texas flood highlights deadly climate risk from extreme weather - Los Angeles Times",
+      "pubDate": "Mon, 07 Jul 2025 01:33:55 GMT"
     }
   ],
   "Hurricanes": [
@@ -2845,6 +2865,12 @@
     {
       "title": "Six Ukrainian drones headed for Moscow downed, mayor says - Reuters",
       "pubDate": "Sun, 06 Jul 2025 17:05:47 GMT"
+    }
+  ],
+  "Biology": [
+    {
+      "title": "Scientists create biological \u2018artificial intelligence\u2019 system - Scimex",
+      "pubDate": "Mon, 07 Jul 2025 08:32:02 GMT"
     }
   ]
 }
