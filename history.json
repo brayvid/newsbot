@@ -339,10 +339,6 @@
   ],
   "russia": [
     {
-      "title": "Russia shoots down 10 Ukrainian drones targeting Moscow - Al Jazeera",
-      "pubDate": "Sun, 08 Jun 2025 09:13:42 GMT"
-    },
-    {
       "title": "Russian forces claim new advance deeper into Ukraine, amid dispute over dead soldiers - CNN",
       "pubDate": "Sun, 08 Jun 2025 23:18:00 GMT"
     },
@@ -643,10 +639,6 @@
   ],
   "trade_war": [
     {
-      "title": "Export Controls to Take Center Stage at U.S.-China Trade Talks - WSJ",
-      "pubDate": "Sun, 08 Jun 2025 09:30:00 GMT"
-    },
-    {
       "title": "US, China reach deal to ease export curbs, keep tariff truce alive - Reuters",
       "pubDate": "Wed, 11 Jun 2025 07:12:04 GMT"
     },
@@ -688,10 +680,6 @@
     }
   ],
   "china": [
-    {
-      "title": "US and China set for trade talks in London on Monday - Reuters",
-      "pubDate": "Sun, 08 Jun 2025 11:13:30 GMT"
-    },
     {
       "title": "China consumer prices slump again, deepening deflation worries as demand stays weak - CNBC",
       "pubDate": "Mon, 09 Jun 2025 01:41:00 GMT"
@@ -1239,10 +1227,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Paul Tudor Jones: Why AI Rings Every One of My Alarm Bells - Time Magazine",
-      "pubDate": "Wed, 25 Jun 2025 15:09:31 GMT"
-    },
-    {
       "title": "Meta wins artificial intelligence copyright case in blow to authors - Financial Times",
       "pubDate": "Wed, 25 Jun 2025 23:10:42 GMT"
     },
@@ -1397,6 +1381,10 @@
     {
       "title": "AI could be about to completely change the way we do mathematics - New Scientist",
       "pubDate": "Mon, 07 Jul 2025 09:00:33 GMT"
+    },
+    {
+      "title": "How AI computer vision is redefining workplace safety - The HR Director",
+      "pubDate": "Tue, 08 Jul 2025 10:44:42 GMT"
     }
   ],
   "US Politics": [
@@ -1835,10 +1823,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Israel-Iran Live Updates: Shaky Cease-Fire Takes Hold, Under Pressure From Trump - The New York Times",
-      "pubDate": "Tue, 24 Jun 2025 20:46:14 GMT"
-    },
-    {
       "title": "US strikes failed to destroy Iran's nuclear sites, intelligence report says - Reuters",
       "pubDate": "Wed, 25 Jun 2025 00:17:00 GMT"
     },
@@ -1993,6 +1977,10 @@
     {
       "title": "Trump Looks to Avoid Casting Blame in Texas Flood as Democrats Question Cuts - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 00:02:17 GMT"
+    },
+    {
+      "title": "Trump announces new tariffs of up to 40% on a growing number of countries - CNN",
+      "pubDate": "Tue, 08 Jul 2025 06:39:00 GMT"
     }
   ],
   "World News": [
@@ -2213,6 +2201,10 @@
     {
       "title": "For the first time, Xi is missing a China-backed BRICS summit. Why? - CNN",
       "pubDate": "Sat, 05 Jul 2025 23:43:00 GMT"
+    },
+    {
+      "title": "China\u2019s weaponisation of rare earths is a new kind of trade war - Financial Times",
+      "pubDate": "Tue, 08 Jul 2025 04:00:29 GMT"
     }
   ],
   "AI Safety": [
@@ -2251,6 +2243,10 @@
     {
       "title": "Expert Says AI Systems May Be Hiding Their True Capabilities to Seed Our Destruction - Futurism",
       "pubDate": "Mon, 07 Jul 2025 21:07:58 GMT"
+    },
+    {
+      "title": "OpenAI Shakes Up Safety: Superalignment Team Dissolved, AI Safety Gets a New Focus - OpenTools",
+      "pubDate": "Tue, 08 Jul 2025 11:31:41 GMT"
     }
   ],
   "Data Breach": [
@@ -2421,6 +2417,10 @@
     {
       "title": "New Vera Rubin Observatory discovers 2,000 unknown asteroids within 10 hours - AOL.com",
       "pubDate": "Mon, 07 Jul 2025 08:35:50 GMT"
+    },
+    {
+      "title": "Inside the most dangerous asteroid hunt ever - MIT Technology Review",
+      "pubDate": "Tue, 08 Jul 2025 08:30:00 GMT"
     }
   ],
   "Atlantic Ocean": [
@@ -2583,6 +2583,10 @@
     {
       "title": "5 Israeli Soldiers Killed in Gaza, Military Says - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 08:05:27 GMT"
+    },
+    {
+      "title": "Hamas used sexual violence as part of 'genocidal strategy', Israeli experts say - BBC",
+      "pubDate": "Tue, 08 Jul 2025 09:46:33 GMT"
     }
   ],
   "New York City": [
@@ -2733,6 +2737,10 @@
     {
       "title": "New Cancer Drug Blocks Tumors Without Debilitating Side Effects - SciTechDaily",
       "pubDate": "Mon, 07 Jul 2025 21:29:50 GMT"
+    },
+    {
+      "title": "Breast cancer breakthrough raises hopes for disease eradication - The Independent",
+      "pubDate": "Tue, 08 Jul 2025 15:36:00 GMT"
     }
   ],
   "Climate": [
