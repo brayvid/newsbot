@@ -1023,10 +1023,6 @@
   ],
   "us_supreme_court": [
     {
-      "title": "US Supreme Court sides with American gun manufacturers in Mexico\u2019s lawsuit over cartel violence - JURIST Legal News",
-      "pubDate": "Sun, 08 Jun 2025 01:46:53 GMT"
-    },
-    {
       "title": "Unanimous Supreme Court makes it easier to sue schools in disability cases - NPR",
       "pubDate": "Thu, 12 Jun 2025 14:37:26 GMT"
     }
@@ -2251,6 +2247,10 @@
     {
       "title": "Experts urge vigilance over AI's threat to global security, humanity - Xinhua",
       "pubDate": "Sun, 06 Jul 2025 02:15:16 GMT"
+    },
+    {
+      "title": "Expert Says AI Systems May Be Hiding Their True Capabilities to Seed Our Destruction - Futurism",
+      "pubDate": "Mon, 07 Jul 2025 21:07:58 GMT"
     }
   ],
   "Data Breach": [
@@ -2399,6 +2399,10 @@
     {
       "title": "Trump announces steep tariffs on five more countries starting Aug. 1 - CNBC",
       "pubDate": "Mon, 07 Jul 2025 16:27:01 GMT"
+    },
+    {
+      "title": "Trump Revives Trade War, Threatening Steep Aug. 1 Tariffs on Allies - The New York Times",
+      "pubDate": "Mon, 07 Jul 2025 22:26:28 GMT"
     }
   ],
   "Asteroids": [
@@ -2437,6 +2441,10 @@
     {
       "title": "Magnitude 5.8 earthquake strikes off Dominican Republic coast, USGS says - Yahoo",
       "pubDate": "Tue, 24 Jun 2025 03:00:00 GMT"
+    },
+    {
+      "title": "Dozens evacuate Japan islands after 1,582 earthquakes - Taipei Times",
+      "pubDate": "Mon, 07 Jul 2025 16:00:00 GMT"
     }
   ],
   "Quantum Computer": [
@@ -2713,6 +2721,10 @@
     {
       "title": "Scientists Turn Forgotten Cells Into Powerful Cancer Killers - SciTechDaily",
       "pubDate": "Sun, 06 Jul 2025 03:51:52 GMT"
+    },
+    {
+      "title": "New Cancer Drug Blocks Tumors Without Debilitating Side Effects - SciTechDaily",
+      "pubDate": "Mon, 07 Jul 2025 21:29:50 GMT"
     }
   ],
   "Climate": [
@@ -2779,6 +2791,10 @@
     {
       "title": "Tesla shares drop 8% after Elon Musk says he is launching a political party - CNBC",
       "pubDate": "Mon, 07 Jul 2025 08:29:07 GMT"
+    },
+    {
+      "title": "Elon Musk Is Running Out of Road in China - WSJ",
+      "pubDate": "Tue, 08 Jul 2025 01:17:44 GMT"
     }
   ],
   "Mars": [
@@ -2907,6 +2923,12 @@
     {
       "title": "A new organometallic compound challenges a fundamental principle of textbook chemistry - Phys.org",
       "pubDate": "Mon, 07 Jul 2025 13:22:04 GMT"
+    }
+  ],
+  "Ancient History": [
+    {
+      "title": "Major Finding on Beloved Egyptian Queen Rewrites History - Men's Journal",
+      "pubDate": "Mon, 07 Jul 2025 17:05:45 GMT"
     }
   ]
 }
