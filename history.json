@@ -339,14 +339,6 @@
   ],
   "russia": [
     {
-      "title": "Russian forces claim new advance deeper into Ukraine, amid dispute over dead soldiers - CNN",
-      "pubDate": "Sun, 08 Jun 2025 23:18:00 GMT"
-    },
-    {
-      "title": "Russian Offensive Campaign Assessment, June 8, 2025 - Institute for the Study of War",
-      "pubDate": "Sun, 08 Jun 2025 22:43:39 GMT"
-    },
-    {
       "title": "Europe heaps harsh sanctions on Russia, saying \u2018strength is the only language\u2019 Moscow understands - CNN",
       "pubDate": "Tue, 10 Jun 2025 18:51:00 GMT"
     },
@@ -680,10 +672,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China consumer prices slump again, deepening deflation worries as demand stays weak - CNBC",
-      "pubDate": "Mon, 09 Jun 2025 01:41:00 GMT"
-    },
     {
       "title": "China's May exports slow, deflation deepens as tariffs bite - Reuters",
       "pubDate": "Mon, 09 Jun 2025 08:00:06 GMT"
@@ -1227,10 +1215,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Meta wins artificial intelligence copyright case in blow to authors - Financial Times",
-      "pubDate": "Wed, 25 Jun 2025 23:10:42 GMT"
-    },
-    {
       "title": "Meta wins AI copyright case, but judge says others could bring lawsuits - CNBC",
       "pubDate": "Thu, 26 Jun 2025 00:13:00 GMT"
     },
@@ -1385,6 +1369,10 @@
     {
       "title": "How AI computer vision is redefining workplace safety - The HR Director",
       "pubDate": "Tue, 08 Jul 2025 10:44:42 GMT"
+    },
+    {
+      "title": "Grok, Elon Musk\u2019s AI Chatbot, Shares Antisemitic Posts on X - The New York Times",
+      "pubDate": "Wed, 09 Jul 2025 00:08:43 GMT"
     }
   ],
   "US Politics": [
@@ -1781,6 +1769,10 @@
     {
       "title": "Russia-Ukraine war: Trump says Kyiv to receive more weapons a week after US pause - BBC",
       "pubDate": "Tue, 08 Jul 2025 08:07:06 GMT"
+    },
+    {
+      "title": "Trump\u2019s sudden shift on weapons for Ukraine takes the war back to square one - CNN",
+      "pubDate": "Tue, 08 Jul 2025 17:54:00 GMT"
     }
   ],
   "Russia": [
@@ -2457,6 +2449,10 @@
     {
       "title": "Dozens evacuate Japan islands after 1,582 earthquakes - Taipei Times",
       "pubDate": "Mon, 07 Jul 2025 16:00:00 GMT"
+    },
+    {
+      "title": "Hundreds of small earthquakes detected under Mt. Rainier, scientists say no cause for alarm - KPTV",
+      "pubDate": "Tue, 08 Jul 2025 19:11:00 GMT"
     }
   ],
   "Quantum Computer": [
@@ -2859,6 +2855,10 @@
     {
       "title": "How Trump\u2019s megabill will impact health care - The Hill",
       "pubDate": "Fri, 04 Jul 2025 09:30:00 GMT"
+    },
+    {
+      "title": "'Heartless' mass firings at major Bay Area health care network spark pushback - SFGATE",
+      "pubDate": "Tue, 08 Jul 2025 23:50:26 GMT"
     }
   ],
   "Fusion Power": [
@@ -2991,12 +2991,28 @@
     {
       "title": "Exclusive: Why China's ultimatum to Myanmar rebels threatens global supply of heavy rare earths - Reuters",
       "pubDate": "Tue, 08 Jul 2025 13:01:22 GMT"
+    },
+    {
+      "title": "Trump's Tariff Threat on Copper Imports and Its Market Impact: Navigating Geopolitical Risks in Strategic Commodity Investing - AInvest",
+      "pubDate": "Wed, 09 Jul 2025 00:04:27 GMT"
     }
   ],
   "Gaza": [
     {
       "title": "Israeli attacks across Gaza kill nearly 80 Palestinians since dawn - Al Jazeera",
       "pubDate": "Tue, 08 Jul 2025 18:11:15 GMT"
+    }
+  ],
+  "Cryptocurrency": [
+    {
+      "title": "Trump Media files for \u2018Crypto Blue Chip ETF\u2019 with SEC - AP News",
+      "pubDate": "Tue, 08 Jul 2025 16:16:00 GMT"
+    }
+  ],
+  "Science": [
+    {
+      "title": "Scientists are holding a 'science fair' in the lobby of a congressional building to show what the U.S. stands to lose with cuts - Fast Company",
+      "pubDate": "Tue, 08 Jul 2025 19:04:53 GMT"
     }
   ]
 }
