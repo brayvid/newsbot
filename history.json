@@ -163,14 +163,6 @@
   ],
   "ukraine": [
     {
-      "title": "Ukraine claims to have damaged Russian fighter jets in night-time raid - The Guardian",
-      "pubDate": "Mon, 09 Jun 2025 09:42:00 GMT"
-    },
-    {
-      "title": "Russia fires record 479 drones at Ukraine overnight, Kyiv says - France 24",
-      "pubDate": "Mon, 09 Jun 2025 10:14:12 GMT"
-    },
-    {
       "title": "Ukraine drone attack on Russia\u2019s Tatarstan region leaves at least 1 dead, 13 injured - The Washington Post",
       "pubDate": "Sun, 15 Jun 2025 15:37:13 GMT"
     }
@@ -672,14 +664,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China's May exports slow, deflation deepens as tariffs bite - Reuters",
-      "pubDate": "Mon, 09 Jun 2025 08:00:06 GMT"
-    },
-    {
-      "title": "China\u2019s Grip on an Obscure Rare Earth Metal Threatens the West\u2019s Militaries - The New York Times",
-      "pubDate": "Mon, 09 Jun 2025 15:49:34 GMT"
-    },
     {
       "title": "US stocks drift and Chinese markets rise as trade talks start between the world's largest economies - AP News",
       "pubDate": "Mon, 09 Jun 2025 20:20:00 GMT"
@@ -1215,10 +1199,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Meta wins AI copyright case, but judge says others could bring lawsuits - CNBC",
-      "pubDate": "Thu, 26 Jun 2025 00:13:00 GMT"
-    },
-    {
       "title": "Group of high-profile authors sue Microsoft over use of their books in AI training - The Guardian",
       "pubDate": "Thu, 26 Jun 2025 15:39:00 GMT"
     },
@@ -1373,6 +1353,10 @@
     {
       "title": "Grok, Elon Musk\u2019s AI Chatbot, Shares Antisemitic Posts on X - The New York Times",
       "pubDate": "Wed, 09 Jul 2025 00:08:43 GMT"
+    },
+    {
+      "title": "Musk's AI firm deletes posts after Grok chatbot praises Hitler - BBC",
+      "pubDate": "Wed, 09 Jul 2025 11:17:37 GMT"
     }
   ],
   "US Politics": [
@@ -1773,6 +1757,10 @@
     {
       "title": "Trump\u2019s sudden shift on weapons for Ukraine takes the war back to square one - CNN",
       "pubDate": "Tue, 08 Jul 2025 17:54:00 GMT"
+    },
+    {
+      "title": "Russia launches largest drone attack on Ukraine as Kyiv pushes US for air defense aid - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Wed, 09 Jul 2025 08:30:33 GMT"
     }
   ],
   "Russia": [
@@ -1814,10 +1802,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "US strikes failed to destroy Iran's nuclear sites, intelligence report says - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 00:17:00 GMT"
-    },
     {
       "title": "Trump insists Iran nuclear sites \u2018completely destroyed\u2019 in US strikes - Al Jazeera",
       "pubDate": "Wed, 25 Jun 2025 07:46:18 GMT"
@@ -1973,6 +1957,10 @@
     {
       "title": "Trump announces new tariffs of up to 40% on a growing number of countries - CNN",
       "pubDate": "Tue, 08 Jul 2025 06:39:00 GMT"
+    },
+    {
+      "title": "Trump threatened to 'bomb the s--- out' of Moscow to deter Putin: CNN - CNBC",
+      "pubDate": "Wed, 09 Jul 2025 14:56:44 GMT"
     }
   ],
   "World News": [
@@ -2265,6 +2253,10 @@
     {
       "title": "Texas agency announces critical identification leaked in breach - Chron",
       "pubDate": "Sun, 06 Jul 2025 19:36:11 GMT"
+    },
+    {
+      "title": "Qantas says cyberattack affected 5.7 million customers - Cybersecurity Dive",
+      "pubDate": "Wed, 09 Jul 2025 15:07:10 GMT"
     }
   ],
   "Cybersecurity": [
@@ -2687,6 +2679,10 @@
     {
       "title": "Nvidia sets new record, leaves Apple and Microsoft behind to become first company in history to achieve t - Times of India",
       "pubDate": "Sun, 06 Jul 2025 13:44:00 GMT"
+    },
+    {
+      "title": "Nvidia becomes first company to surpass $4 trillion in market valuation - CBS News",
+      "pubDate": "Wed, 09 Jul 2025 14:48:57 GMT"
     }
   ],
   "Technology": [
@@ -2787,6 +2783,10 @@
     {
       "title": "Trump Hires Scientists Who Doubt the Consensus on Climate Change - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 14:27:54 GMT"
+    },
+    {
+      "title": "Climate breakdown tripled death toll in Europe\u2019s June heatwave, study finds - The Guardian",
+      "pubDate": "Wed, 09 Jul 2025 04:00:00 GMT"
     }
   ],
   "Hurricanes": [
@@ -3001,6 +3001,10 @@
     {
       "title": "Israeli attacks across Gaza kill nearly 80 Palestinians since dawn - Al Jazeera",
       "pubDate": "Tue, 08 Jul 2025 18:11:15 GMT"
+    },
+    {
+      "title": "Gaza humanitarian work at risk of shutdown, U.N. warns amid fuel blockade - The Washington Post",
+      "pubDate": "Wed, 09 Jul 2025 15:12:28 GMT"
     }
   ],
   "Cryptocurrency": [
