@@ -224,7 +224,7 @@ except Exception as e:
 try:
     GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
     GITHUB_USER = os.getenv("GITHUB_USER", "your-username")
-    REPO = "based-news"
+    REPO = "newsbot"
     REPO_OWNER = "brayvid"
 
     remote_url = f"https://{GITHUB_USER}:{GITHUB_TOKEN}@github.com/{REPO_OWNER}/{REPO}.git"
