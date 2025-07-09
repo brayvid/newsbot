@@ -665,10 +665,6 @@
   ],
   "china": [
     {
-      "title": "US stocks drift and Chinese markets rise as trade talks start between the world's largest economies - AP News",
-      "pubDate": "Mon, 09 Jun 2025 20:20:00 GMT"
-    },
-    {
       "title": "Stocks rise, dollar tentative ahead of US-China talks outcome - Reuters",
       "pubDate": "Tue, 10 Jun 2025 02:16:00 GMT"
     },
@@ -990,10 +986,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump LA protest response risks turning US military into political force, veterans warn - The Guardian",
-      "pubDate": "Mon, 09 Jun 2025 19:54:00 GMT"
-    },
     {
       "title": "US Politics: Trump Deploys Troops in LA Amid Protests, Draws Jan 6 Comparison - Deccan Herald",
       "pubDate": "Tue, 10 Jun 2025 03:51:15 GMT"
@@ -1761,6 +1753,10 @@
     {
       "title": "Russia launches largest drone attack on Ukraine as Kyiv pushes US for air defense aid - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 09 Jul 2025 08:30:33 GMT"
+    },
+    {
+      "title": "Russia launches record drone attack on Ukraine, hours after Trump criticizes Putin - CNN",
+      "pubDate": "Wed, 09 Jul 2025 15:33:00 GMT"
     }
   ],
   "Russia": [
@@ -2395,6 +2391,10 @@
     {
       "title": "Trump ramps up trade war with tariff blitz targeting 14 countries - Al Jazeera",
       "pubDate": "Tue, 08 Jul 2025 05:48:12 GMT"
+    },
+    {
+      "title": "Trump announces tariffs of up to 30% on six more countries \u2013 live updates - The Guardian",
+      "pubDate": "Wed, 09 Jul 2025 12:15:00 GMT"
     }
   ],
   "Asteroids": [
@@ -2639,6 +2639,10 @@
     {
       "title": "House Preps For Crypto Week; Core Scientific Tumbles; Bit Digital Ditches Bitcoin - Investor's Business Daily",
       "pubDate": "Mon, 07 Jul 2025 14:53:00 GMT"
+    },
+    {
+      "title": "Bitcoin sets new record, briefly breaking above $112,000 as policy outlook shifts - The Block",
+      "pubDate": "Wed, 09 Jul 2025 20:28:35 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2683,6 +2687,10 @@
     {
       "title": "Nvidia becomes first company to surpass $4 trillion in market valuation - CBS News",
       "pubDate": "Wed, 09 Jul 2025 14:48:57 GMT"
+    },
+    {
+      "title": "Nvidia becomes first company to reach $4tn in market value - The Guardian",
+      "pubDate": "Wed, 09 Jul 2025 18:28:00 GMT"
     }
   ],
   "Technology": [
@@ -2979,6 +2987,10 @@
     {
       "title": "Doctors and public health organizations sue Kennedy over vaccine policy change - AP News",
       "pubDate": "Mon, 07 Jul 2025 23:23:00 GMT"
+    },
+    {
+      "title": "Measles Cases Hit Record High Since U.S. Eliminated Disease - The New York Times",
+      "pubDate": "Wed, 09 Jul 2025 15:47:38 GMT"
     }
   ],
   "Alexandria Ocasio-Cortez": [
@@ -3017,6 +3029,18 @@
     {
       "title": "Scientists are holding a 'science fair' in the lobby of a congressional building to show what the U.S. stands to lose with cuts - Fast Company",
       "pubDate": "Tue, 08 Jul 2025 19:04:53 GMT"
+    }
+  ],
+  "Apple": [
+    {
+      "title": "Apple Readies First Upgrade to Its Struggling Vision Pro Headset - Bloomberg",
+      "pubDate": "Wed, 09 Jul 2025 17:10:10 GMT"
+    }
+  ],
+  "Artificial General Intelligence": [
+    {
+      "title": "AGI\u2019s Undefined Future Threatens AI Industry Trust - WebProNews",
+      "pubDate": "Wed, 09 Jul 2025 14:04:19 GMT"
     }
   ]
 }
