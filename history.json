@@ -653,10 +653,6 @@
   ],
   "china": [
     {
-      "title": "China\u2019s rare-earth mineral squeeze puts defense giants in the crosshairs - CNBC",
-      "pubDate": "Tue, 10 Jun 2025 07:56:35 GMT"
-    },
-    {
       "title": "China is arming its space station with \u2018guard dogs.\u2019 They have good reason for it - Fast Company",
       "pubDate": "Tue, 10 Jun 2025 09:11:27 GMT"
     },
@@ -796,10 +792,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "A nuclear deal with Iran could generate billions for US economy - Responsible Statecraft",
-      "pubDate": "Tue, 10 Jun 2025 04:09:03 GMT"
-    },
     {
       "title": "Private equity\u2019s positive impact on the US economy highlighted in new report - InvestmentNews",
       "pubDate": "Tue, 10 Jun 2025 09:46:44 GMT"
@@ -966,10 +958,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "White House struggles to find qualified people willing to serve under Pete Hegseth: report - The Independent",
-      "pubDate": "Tue, 10 Jun 2025 07:16:00 GMT"
-    },
     {
       "title": "Trump\u2019s aggressive moves on immigration protests put Democrats in a political bind - KRDO",
       "pubDate": "Tue, 10 Jun 2025 17:41:56 GMT"
@@ -1167,10 +1155,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Group of high-profile authors sue Microsoft over use of their books in AI training - The Guardian",
-      "pubDate": "Thu, 26 Jun 2025 15:39:00 GMT"
-    },
-    {
       "title": "AI is doing up to 50% of the work at Salesforce, CEO Marc Benioff says - CNBC",
       "pubDate": "Thu, 26 Jun 2025 13:49:11 GMT"
     },
@@ -1325,6 +1309,10 @@
     {
       "title": "Musk's AI firm deletes posts after Grok chatbot praises Hitler - BBC",
       "pubDate": "Wed, 09 Jul 2025 11:17:37 GMT"
+    },
+    {
+      "title": "Nvidia Hits $4 Trillion Valuation Milestone on AI Demand - Bloomberg.com",
+      "pubDate": "Thu, 10 Jul 2025 08:27:26 GMT"
     }
   ],
   "US Politics": [
@@ -1737,6 +1725,10 @@
     {
       "title": "Russia Makes Record Attack on Ukraine as Trump Castigates Putin - The New York Times",
       "pubDate": "Wed, 09 Jul 2025 21:39:44 GMT"
+    },
+    {
+      "title": "Russia hits Kyiv with more missiles and drones, causing fires and injuring at least 10 - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Thu, 10 Jul 2025 06:11:08 GMT"
     }
   ],
   "Russia": [
@@ -1778,10 +1770,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump says Iran nuclear program 'gone for years,' rejects early Pentagon analysis - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Wed, 25 Jun 2025 11:18:13 GMT"
-    },
     {
       "title": "Live updates: Trump attends NATO summit; Andrew Cuomo concedes to Zohran Mamdani in NYC mayoral primary - NBC News",
       "pubDate": "Wed, 25 Jun 2025 20:06:39 GMT"
@@ -1937,6 +1925,10 @@
     {
       "title": "Trump threatens 50% tariffs on Brazil if it doesn\u2019t stop the Bolsonaro \u2018witch hunt\u2019 trial - CNN",
       "pubDate": "Thu, 10 Jul 2025 01:04:00 GMT"
+    },
+    {
+      "title": "Trump threatens 50 percent tariffs on Brazil over treatment of Bolsonaro - The Washington Post",
+      "pubDate": "Thu, 10 Jul 2025 03:04:00 GMT"
     }
   ],
   "World News": [
@@ -2631,6 +2623,10 @@
     {
       "title": "Bitcoin soars to all-time peak just shy of $112,000 - Reuters",
       "pubDate": "Wed, 09 Jul 2025 21:45:03 GMT"
+    },
+    {
+      "title": "Bitcoin hits record high. Why the crypto\u2019s rally may lose steam after briefly topping $112,000. - MarketWatch",
+      "pubDate": "Wed, 09 Jul 2025 21:49:00 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2787,6 +2783,10 @@
     {
       "title": "Climate breakdown tripled death toll in Europe\u2019s June heatwave, study finds - The Guardian",
       "pubDate": "Wed, 09 Jul 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Tibetan glacial lake drainage triggered deadly flood in Nepal, climate body says - Reuters",
+      "pubDate": "Thu, 10 Jul 2025 07:55:32 GMT"
     }
   ],
   "Hurricanes": [
@@ -3013,6 +3013,10 @@
     {
       "title": "Gaza humanitarian work at risk of shutdown, U.N. warns amid fuel blockade - The Washington Post",
       "pubDate": "Wed, 09 Jul 2025 15:12:28 GMT"
+    },
+    {
+      "title": "LIVE: Israel kills 35 in Gaza as \u2018difficult\u2019 truce talks continue - Al Jazeera",
+      "pubDate": "Thu, 10 Jul 2025 08:06:15 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -3031,6 +3035,10 @@
     {
       "title": "Apple Readies First Upgrade to Its Struggling Vision Pro Headset - Bloomberg",
       "pubDate": "Wed, 09 Jul 2025 17:10:10 GMT"
+    },
+    {
+      "title": "Meta Offered Apple AI Executive Over $200 Million to Leave - MacRumors",
+      "pubDate": "Thu, 10 Jul 2025 04:20:47 GMT"
     }
   ],
   "Artificial General Intelligence": [
