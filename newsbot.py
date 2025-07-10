@@ -207,27 +207,29 @@ def normalize(text):
     lemmatized = [lemmatizer.lemmatize(w) for w in stemmed]
     return " ".join(lemmatized)
 
-def is_in_history(article_title, history):
+def is_in_history(article_title: str, history: dict, threshold: float) -> bool:
+    """
+    Checks if a given article title is a high-confidence duplicate of any article
+    title already in the history log, based on the provided word overlap threshold.
+    """
     norm_title_tokens = set(normalize(article_title).split())
     if not norm_title_tokens:
         return False
 
-    for articles_in_topic in history.values(): # history.values() are lists of article dicts
-        for a in articles_in_topic: # a is an article dict {"title": "...", "pubDate": "..."}
-            past_title = a.get("title", "")
+    for articles_in_topic in history.values():
+        for past_article_data in articles_in_topic:
+            past_title = past_article_data.get("title", "")
             past_tokens = set(normalize(past_title).split())
             if not past_tokens:
                 continue
             
             intersection_len = len(norm_title_tokens.intersection(past_tokens))
             union_len = len(norm_title_tokens.union(past_tokens))
-            if union_len == 0: # Avoid division by zero if both titles are empty after normalization
-                similarity = 1.0 if not norm_title_tokens and not past_tokens else 0.0
-            else:
-                similarity = intersection_len / union_len
+            if union_len == 0: continue
 
-            if similarity >= MATCH_THRESHOLD: # Use the globally defined MATCH_THRESHOLD
-                logging.debug(f"Article '{article_title}' matched past article '{past_title}' with similarity {similarity:.2f}")
+            similarity = intersection_len / union_len
+            if similarity >= threshold:
+                logging.debug(f"Article '{article_title}' matched past article '{past_title}' with similarity {similarity:.2f} >= {threshold}")
                 return True
     return False
 
@@ -732,8 +734,7 @@ def main():
         except Exception as e:
             logging.error(f"Error loading {HISTORY_FILE}: {e}. Initializing empty history.")
 
-    # Extract a clean list of recent headlines from the history to use as context for the LLM.
-    # Assumes MAX_HISTORY_HEADLINES_FOR_LLM is defined globally (e.g., 150)
+    # Create a separate, clean list of recent headlines for the LLM's context.
     MAX_HISTORY_HEADLINES_FOR_LLM = int(CONFIG.get("MAX_HISTORY_HEADLINES_FOR_LLM", 150))
     recent_headlines_for_llm = load_recent_headlines_from_history(history, MAX_HISTORY_HEADLINES_FOR_LLM)
 
@@ -750,7 +751,7 @@ def main():
         banned_terms = [k for k, v in OVERRIDES.items() if v == "ban"]
         articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 20))
 
-        # Fetch all candidate articles
+        # --- HYBRID PRE-FILTERING STAGE ---
         for topic in TOPIC_WEIGHTS:
             articles_for_this_topic = fetch_articles_for_topic(topic, articles_to_fetch_per_topic)
             if not articles_for_this_topic:
@@ -758,10 +759,14 @@ def main():
             
             allowed_titles_for_topic = []
             for article in articles_for_this_topic:
-                # The flawed is_in_history() pre-filter is REMOVED.
-                # The LLM will handle history checking semantically.
+                # Call the history check with the MATCH_THRESHOLD from your config.
+                # REMEMBER to set this to a high value (e.g., 0.90) in your Google Sheet.
+                if is_in_history(article["title"], history, MATCH_THRESHOLD):
+                    logging.debug(f"Skipping (history match): {article['title']}")
+                    continue
+                
                 if contains_banned_keyword(article["title"], banned_terms):
-                    logging.debug(f"Skipping article: '{article['title']}' (banned).")
+                    logging.debug(f"Skipping (banned keyword): {article['title']}")
                     continue
                 
                 allowed_titles_for_topic.append(article["title"])
@@ -771,13 +776,12 @@ def main():
                 headlines_to_send[topic] = allowed_titles_for_topic
 
         if not headlines_to_send:
-            logging.info("No fresh, non-banned headlines available. Nothing to send to LLM.")
+            logging.info("No fresh, non-banned, non-duplicate headlines available. Nothing to send to LLM.")
             return
 
         total_headlines_candidate_count = sum(len(v) for v in headlines_to_send.values())
         logging.info(f"Sending {total_headlines_candidate_count} candidate headlines across {len(headlines_to_send)} topics to Gemini.")
 
-        # Call the new, portable LLM function with all required arguments
         selected_digest_content = prioritize_with_gemini(
             headlines_to_send=headlines_to_send,
             digest_history=recent_headlines_for_llm,
@@ -791,7 +795,6 @@ def main():
             logging.warning("Gemini returned no valid digest content. No email will be sent.")
             return
         
-        # Process the LLM's curated output
         final_digest_to_email = {}
         processed_normalized_titles = set()
 
@@ -803,10 +806,7 @@ def main():
             articles_for_email_topic = []
             for title_from_llm in titles_from_gemini[:MAX_ARTICLES_PER_TOPIC]:
                 normalized_title_from_gemini = normalize(title_from_llm)
-                if not normalized_title_from_gemini: continue
-
-                if normalized_title_from_gemini in processed_normalized_titles:
-                    logging.info(f"Failsafe dedupe: Skipping already processed title '{title_from_llm}'.")
+                if not normalized_title_from_gemini or normalized_title_from_gemini in processed_normalized_titles:
                     continue
                 
                 original_article_data = full_articles_map.get(normalized_title_from_gemini)
@@ -816,7 +816,7 @@ def main():
                 else:
                     found_fallback = False
                     for stored_norm_title, stored_article_data in full_articles_map.items():
-                        if normalized_title_from_gemini in stored_norm_title or stored_norm_title in normalized_title_from_gemini:
+                        if normalized_title_from_gemini in stored_norm_title or stored_norm_title in stored_article_data.get('title', ''):
                             if stored_norm_title not in processed_normalized_titles:
                                 articles_for_email_topic.append(stored_article_data)
                                 processed_normalized_titles.add(stored_norm_title)
@@ -938,7 +938,7 @@ def main():
         if os.path.exists(LOCKFILE):
             os.remove(LOCKFILE)
         logging.info(f"Lockfile released. Script finished at {datetime.now(ZONE).strftime('%Y-%m-%d %H:%M:%S %Z')}")
-        
+             
 if __name__ == "__main__":
     main()
 
