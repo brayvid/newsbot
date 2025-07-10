@@ -169,14 +169,6 @@
   ],
   "recession": [
     {
-      "title": "Most CEOs aren't expecting a recession anytime soon, survey finds - CBS News",
-      "pubDate": "Tue, 10 Jun 2025 15:10:12 GMT"
-    },
-    {
-      "title": "How a U.S. recession could upend the travel industry - TheStreet",
-      "pubDate": "Tue, 10 Jun 2025 14:13:04 GMT"
-    },
-    {
       "title": "Goldman Sachs Predicts Stock Market Rally, Says Recession \u2018Not in the Base Case\u2019 \u2013 Here\u2019s Why - The Daily Hodl",
       "pubDate": "Tue, 10 Jun 2025 18:42:13 GMT"
     },
@@ -653,14 +645,6 @@
   ],
   "china": [
     {
-      "title": "China is arming its space station with \u2018guard dogs.\u2019 They have good reason for it - Fast Company",
-      "pubDate": "Tue, 10 Jun 2025 09:11:27 GMT"
-    },
-    {
-      "title": "Gen. Keane warns China conducting 'most comprehensive penetration' of US society in our 250-year history - Fox Business",
-      "pubDate": "Tue, 10 Jun 2025 13:18:00 GMT"
-    },
-    {
       "title": "China, U.S. officials reach agreement for allowing rare-earth, tech trade. Now it's up to Trump and Xi - CNBC",
       "pubDate": "Wed, 11 Jun 2025 00:01:00 GMT"
     },
@@ -792,10 +776,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Private equity\u2019s positive impact on the US economy highlighted in new report - InvestmentNews",
-      "pubDate": "Tue, 10 Jun 2025 09:46:44 GMT"
-    },
     {
       "title": "World Bank Paints a Bleak Picture of the U.S. Economy\u2014What It Means for Homebuyers and Sellers - Realtor.com",
       "pubDate": "Tue, 10 Jun 2025 22:12:56 GMT"
@@ -2207,6 +2187,10 @@
     {
       "title": "California lawmaker behind SB 1047 reignites push for mandated AI safety reports - TechCrunch",
       "pubDate": "Wed, 09 Jul 2025 20:54:30 GMT"
+    },
+    {
+      "title": "New York Passes the Responsible AI Safety and Education Act - The National Law Review",
+      "pubDate": "Thu, 10 Jul 2025 15:42:24 GMT"
     }
   ],
   "Data Breach": [
@@ -2371,6 +2355,10 @@
     {
       "title": "Trump announces tariffs of up to 30% on six more countries \u2013 live updates - The Guardian",
       "pubDate": "Wed, 09 Jul 2025 12:15:00 GMT"
+    },
+    {
+      "title": "Trump tariffs goods from Brazil at 50%, citing 'witch hunt' trial against country's former president - AP News",
+      "pubDate": "Thu, 10 Jul 2025 04:36:00 GMT"
     }
   ],
   "Asteroids": [
@@ -2627,6 +2615,10 @@
     {
       "title": "Bitcoin hits record high. Why the crypto\u2019s rally may lose steam after briefly topping $112,000. - MarketWatch",
       "pubDate": "Wed, 09 Jul 2025 21:49:00 GMT"
+    },
+    {
+      "title": "Bitcoin hits new all-time high: What is the next catalyst? - Yahoo Finance",
+      "pubDate": "Thu, 10 Jul 2025 14:15:37 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2879,6 +2871,10 @@
     {
       "title": "Kim Jong Un publicly honors North Korean soldiers killed in Russia-Ukraine war - The Kyiv Independent",
       "pubDate": "Tue, 01 Jul 2025 08:40:31 GMT"
+    },
+    {
+      "title": "North Korean defector to sue Kim Jong Un for abuse - BBC",
+      "pubDate": "Thu, 10 Jul 2025 05:11:30 GMT"
     }
   ],
   "Tesla": [
