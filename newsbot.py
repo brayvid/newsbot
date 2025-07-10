@@ -720,90 +720,93 @@ def git_push_history_json(history_file_path, base_dir, zone_for_commit_msg):
 
 
 def main():
+    # Load the entire history log from the JSON file.
+    history = {}
     if os.path.exists(HISTORY_FILE):
         try:
-            with open(HISTORY_FILE, "r", encoding="utf-8") as f: # Added encoding
+            with open(HISTORY_FILE, "r", encoding="utf-8") as f:
                 history = json.load(f)
         except json.JSONDecodeError:
             logging.warning(f"Could not decode {HISTORY_FILE}. Initializing empty history.")
             history = {}
-        except Exception as e: # Catch other potential IOErrors
+        except Exception as e:
             logging.error(f"Error loading {HISTORY_FILE}: {e}. Initializing empty history.")
-            history = {}
-    else:
-        history = {}
+
+    # Extract a clean list of recent headlines from the history to use as context for the LLM.
+    # Assumes MAX_HISTORY_HEADLINES_FOR_LLM is defined globally (e.g., 150)
+    MAX_HISTORY_HEADLINES_FOR_LLM = int(CONFIG.get("MAX_HISTORY_HEADLINES_FOR_LLM", 150))
+    recent_headlines_for_llm = load_recent_headlines_from_history(history, MAX_HISTORY_HEADLINES_FOR_LLM)
 
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
         if not gemini_api_key:
             logging.error("Missing GEMINI_API_KEY. Exiting.")
-            return # Exit main if no API key
+            return
 
-        user_preferences = build_user_preferences(TOPIC_WEIGHTS, KEYWORD_WEIGHTS, OVERRIDES)
-        headlines_to_send = {} # For LLM: topic -> list of titles
-        full_articles_map = {} # For local use: normalized_title -> full article dict
+        # Initialize containers for this run
+        headlines_to_send = {}
+        full_articles_map = {}
         
-        # Ensure banned_terms list uses the same keys as OVERRIDES (already lowercased during load)
         banned_terms = [k for k, v in OVERRIDES.items() if v == "ban"]
+        articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 20))
 
-
-        articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 20)) # Configurable fetch count
-
-        for topic in TOPIC_WEIGHTS: # Iterate actual topic names
+        # Fetch all candidate articles
+        for topic in TOPIC_WEIGHTS:
             articles_for_this_topic = fetch_articles_for_topic(topic, articles_to_fetch_per_topic)
             if not articles_for_this_topic:
                 continue
             
             allowed_titles_for_topic = []
             for article in articles_for_this_topic:
-                # Pass the list of banned terms directly
-                if is_in_history(article["title"], history) or contains_banned_keyword(article["title"], banned_terms):
-                    logging.debug(f"Skipping article: '{article['title']}' (in history or banned).")
+                # The flawed is_in_history() pre-filter is REMOVED.
+                # The LLM will handle history checking semantically.
+                if contains_banned_keyword(article["title"], banned_terms):
+                    logging.debug(f"Skipping article: '{article['title']}' (banned).")
                     continue
+                
                 allowed_titles_for_topic.append(article["title"])
-                # Use normalized title as key for robust matching later
                 full_articles_map[normalize(article["title"])] = article 
             
             if allowed_titles_for_topic:
                 headlines_to_send[topic] = allowed_titles_for_topic
 
         if not headlines_to_send:
-            logging.info("No fresh, non-banned headlines available after initial filtering. Nothing to send to LLM.")
-            # Consider if an email should still be sent saying "no news today" or just exit. Current exits.
+            logging.info("No fresh, non-banned headlines available. Nothing to send to LLM.")
             return
 
         total_headlines_candidate_count = sum(len(v) for v in headlines_to_send.values())
         logging.info(f"Sending {total_headlines_candidate_count} candidate headlines across {len(headlines_to_send)} topics to Gemini.")
 
-        selected_digest_content = prioritize_with_gemini(headlines_to_send, user_preferences, gemini_api_key)
+        # Call the new, portable LLM function with all required arguments
+        selected_digest_content = prioritize_with_gemini(
+            headlines_to_send=headlines_to_send,
+            digest_history=recent_headlines_for_llm,
+            gemini_api_key=gemini_api_key,
+            topic_weights=TOPIC_WEIGHTS,
+            keyword_weights=KEYWORD_WEIGHTS,
+            overrides=OVERRIDES
+        )
 
         if not selected_digest_content or not isinstance(selected_digest_content, dict):
-            logging.info("Gemini returned no valid digest content or content was not a dictionary. No email will be sent.")
-            return # Exit if Gemini provides nothing usable
+            logging.warning("Gemini returned no valid digest content. No email will be sent.")
+            return
         
-        final_digest_to_email = {} # This will store Topic -> [Full Article Dicts]
-        processed_normalized_titles = set() # For de-duplication across topics from Gemini's output
+        # Process the LLM's curated output
+        final_digest_to_email = {}
+        processed_normalized_titles = set()
 
-        # Gemini is expected to return topics and headlines already ordered by significance
-        # Python dicts (3.7+) preserve insertion order, so this order will be maintained.
         for topic, titles_from_gemini in selected_digest_content.items():
             if not isinstance(titles_from_gemini, list):
-                logging.warning(f"Gemini output for topic '{topic}' is not a list: {titles_from_gemini}. Skipping topic.")
+                logging.warning(f"Gemini output for topic '{topic}' is not a list. Skipping.")
                 continue
             
             articles_for_email_topic = []
-            for title_from_llm in titles_from_gemini: # Iterate titles in the order Gemini provided
-                if not isinstance(title_from_llm, str):
-                    logging.warning(f"Encountered non-string title in Gemini output for topic '{topic}': {title_from_llm}. Skipping.")
-                    continue
-                
+            for title_from_llm in titles_from_gemini[:MAX_ARTICLES_PER_TOPIC]:
                 normalized_title_from_gemini = normalize(title_from_llm)
-                if not normalized_title_from_gemini: # Skip if title normalizes to empty
-                    logging.debug(f"Skipping LLM title '{title_from_llm}' as it normalized to empty string.")
-                    continue
+                if not normalized_title_from_gemini: continue
 
                 if normalized_title_from_gemini in processed_normalized_titles:
-                    logging.info(f"Skipping already processed (duplicate via normalization) title '{title_from_llm}' (norm: '{normalized_title_from_gemini}') from Gemini for topic '{topic}'.")
+                    logging.info(f"Failsafe dedupe: Skipping already processed title '{title_from_llm}'.")
                     continue
                 
                 original_article_data = full_articles_map.get(normalized_title_from_gemini)
@@ -811,64 +814,52 @@ def main():
                     articles_for_email_topic.append(original_article_data)
                     processed_normalized_titles.add(normalized_title_from_gemini)
                 else:
-                    # Fallback attempt if exact normalized match failed (e.g., LLM slightly rephrased)
-                    # This can be risky; consider Jaccard similarity for more robust fuzzy matching if needed.
                     found_fallback = False
                     for stored_norm_title, stored_article_data in full_articles_map.items():
                         if normalized_title_from_gemini in stored_norm_title or stored_norm_title in normalized_title_from_gemini:
                             if stored_norm_title not in processed_normalized_titles:
                                 articles_for_email_topic.append(stored_article_data)
-                                processed_normalized_titles.add(stored_norm_title) # Add the matched stored title's norm
-                                logging.info(f"Fallback matched LLM title '{title_from_llm}' (norm: '{normalized_title_from_gemini}') to stored article '{stored_article_data['title']}' (norm: '{stored_norm_title}')")
+                                processed_normalized_titles.add(stored_norm_title)
+                                logging.info(f"Fallback matched LLM title '{title_from_llm}' to stored article '{stored_article_data['title']}'")
                                 found_fallback = True
                                 break
                     if not found_fallback:
-                        logging.warning(f"Could not find original article data for title '{title_from_llm}' (normalized: '{normalized_title_from_gemini}') from Gemini. It might have been rephrased significantly or is not from candidates. Skipping.")
+                        logging.warning(f"Could not find original article data for title '{title_from_llm}'. Skipping.")
             
             if articles_for_email_topic:
                 final_digest_to_email[topic] = articles_for_email_topic
 
         if not final_digest_to_email:
-            logging.info("No articles selected for the final email digest after Gemini processing and mapping. No email sent.")
+            logging.info("No articles selected for the final email digest after processing. No email sent.")
             return
 
         # --- Email Sending Logic ---
         EMAIL_FROM = os.getenv("GMAIL_USER", "").encode("ascii", "ignore").decode()
-        EMAIL_TO_SELF = EMAIL_FROM # Default to send to self if GMAIL_USER is set
         EMAIL_BCC_RAW = os.getenv("MAILTO", "").strip()
         EMAIL_BCC_LIST = [email.strip() for email in EMAIL_BCC_RAW.split(",") if email.strip()]
-        
-        recipients = []
-        if EMAIL_TO_SELF:
-            recipients.append(EMAIL_TO_SELF)
-        recipients.extend(EMAIL_BCC_LIST)
-        recipients = list(set(recipients)) # Deduplicate
+        recipients = list(set([EMAIL_FROM] + EMAIL_BCC_LIST)) if EMAIL_FROM else list(set(EMAIL_BCC_LIST))
 
         if not recipients:
-             logging.error("No recipients configured (GMAIL_USER is empty and MAILTO is empty or invalid). Cannot send email.")
+             logging.error("No recipients configured. Cannot send email.")
              return
 
         SMTP_PASS = os.getenv("GMAIL_APP_PASSWORD", "")
-        SMTP_SERVER = "smtp.gmail.com"
-        SMTP_PORT = 587
-
-        if not EMAIL_FROM or not SMTP_PASS: # EMAIL_FROM is used for login
-            logging.error("GMAIL_USER (for login) or GMAIL_APP_PASSWORD not set. Cannot send email.")
+        if not EMAIL_FROM or not SMTP_PASS:
+            logging.error("GMAIL_USER or GMAIL_APP_PASSWORD not set. Cannot send email.")
             return
 
         html_body_parts = ["<h2>Your News Digest</h2>"]
         total_articles_in_digest = 0
-        for topic, articles in final_digest_to_email.items(): # Iterates in Gemini's provided order
+        for topic, articles in final_digest_to_email.items():
             section = f'<h3 style="margin-top: 20px; margin-bottom: 5px; padding-bottom: 3px;">{html.escape(topic)}</h3>'
             article_html_parts = []
-            for article in articles: # Iterates in Gemini's provided order for headlines
+            for article in articles:
                 total_articles_in_digest += 1
                 try:
                     pub_dt_obj = parsedate_to_datetime(article["pubDate"])
-                    pub_dt_user_tz = to_user_timezone(pub_dt_obj)
-                    date_str = pub_dt_user_tz.strftime("%a, %d %b %Y %I:%M %p %Z")
+                    date_str = to_user_timezone(pub_dt_obj).strftime("%a, %d %b %Y %I:%M %p %Z")
                 except Exception:
-                    date_str = "Date unavailable" # Fallback
+                    date_str = "Date unavailable"
                 article_html_parts.append(
                     f'<p style="margin: 0.4em 0 1.2em 0;">'
                     f'📰 <a href="{html.escape(article["link"])}" target="_blank" style="text-decoration:none; color:#0056b3;">{html.escape(article["title"])}</a><br>'
@@ -878,116 +869,65 @@ def main():
             section += "".join(article_html_parts)
             html_body_parts.append(section)
         
-        html_body_content = "".join(html_body_parts)
-        # Using the exact Google Sheet link from the first script's footer for preferences
         preferences_link = "https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing"
         footer_info = f'{total_articles_in_digest} articles selected by Gemini from {total_headlines_candidate_count} candidates published in the last {MAX_ARTICLE_HOURS} hours, based on your <a href="{preferences_link}" target="_blank">preferences</a>.'
-        html_body = f"<html><head><style>body {{font-family: sans-serif;}}</style></head><body>{html_body_content}<hr><p style=\"font-size:0.8em; color:#777;\">{footer_info}</p></body></html>"
-
+        html_body = f"<html><head><style>body {{font-family: sans-serif;}}</style></head><body>{''.join(html_body_parts)}<hr><p style=\"font-size:0.8em; color:#777;\">{footer_info}</p></body></html>"
 
         msg = EmailMessage()
         current_time_str = datetime.now(ZONE).strftime('%Y-%m-%d %I:%M %p %Z')
         msg["Subject"] = f"🗞️ News Digest – {current_time_str}"
         msg["From"] = EMAIL_FROM
-        
-        # Set To and Bcc. EmailMessage handles multiple addresses in Bcc if comma-separated.
-        # For clarity, send to GMAIL_USER if it's the primary, and BCC others.
-        # Or, if only BCC list, just use that.
-        if EMAIL_TO_SELF and EMAIL_TO_SELF in recipients:
-            msg["To"] = EMAIL_TO_SELF
-            # Remove from BCC list if it's already in To
-            if EMAIL_TO_SELF in EMAIL_BCC_LIST:
-                EMAIL_BCC_LIST.remove(EMAIL_TO_SELF)
-        
-        if EMAIL_BCC_LIST: # Remaining BCC recipients
+        if EMAIL_FROM in recipients:
+            msg["To"] = EMAIL_FROM
+        if EMAIL_BCC_LIST:
             msg["Bcc"] = ", ".join(EMAIL_BCC_LIST)
-        
-        # If msg["To"] is still empty (e.g. GMAIL_USER was not meant to be a recipient, only MAILTO)
-        # and there are BCC recipients, that's fine. If both are empty, error.
-        if not msg.get("To") and not msg.get("Bcc"):
-            logging.error("No valid recipients for email after processing To/Bcc. This shouldn't happen if initial check passed.")
-            return
-
         msg.set_content("This is the plain-text version of your news digest. Please enable HTML to view the formatted version.")
         msg.add_alternative(html_body, subtype="html")
 
         try:
-            with smtplib.SMTP(SMTP_SERVER, SMTP_PORT) as server:
+            with smtplib.SMTP("smtp.gmail.com", 587) as server:
                 server.starttls()
                 server.login(EMAIL_FROM, SMTP_PASS)
                 server.send_message(msg)
-            logging.info(f"Digest email sent successfully at {current_time_str} to: {recipients}.")
+            logging.info(f"Digest email sent successfully to: {recipients}.")
 
-            # --- History Update ---
+            # --- History Update Logic ---
             for topic, articles_sent in final_digest_to_email.items():
-                topic_key_in_history = topic # Using the topic name as key
-                if topic_key_in_history not in history:
-                    history[topic_key_in_history] = []
-                
-                # Create a set of normalized titles already in history for this topic for efficient check
-                current_normalized_titles_in_history = {normalize(a['title']) for a in history[topic_key_in_history]}
-                
-                for article_to_add in articles_sent:
-                    # Add only if not already present (based on normalized title)
-                    if normalize(article_to_add['title']) not in current_normalized_titles_in_history:
-                        history[topic_key_in_history].append({
-                            "title": article_to_add["title"], # Store original title
-                            "pubDate": article_to_add["pubDate"] # Store original pubDate
-                        })
-                        current_normalized_titles_in_history.add(normalize(article_to_add['title'])) # Update set
-                
-                # Optional: limit history per topic to last N items (e.g., 40)
-                # This is different from time-based pruning but can prevent one topic from bloating history.
+                if topic not in history: history[topic] = []
+                current_titles_in_history = {normalize(a['title']) for a in history[topic]}
+                for article in articles_sent:
+                    if normalize(article['title']) not in current_titles_in_history:
+                        history[topic].append({"title": article["title"], "pubDate": article["pubDate"]})
                 history_per_topic_limit = int(CONFIG.get("HISTORY_PER_TOPIC_LIMIT", 40))
-                if len(history[topic_key_in_history]) > history_per_topic_limit:
-                    history[topic_key_in_history] = history[topic_key_in_history][-history_per_topic_limit:]
+                if len(history[topic]) > history_per_topic_limit:
+                    history[topic] = history[topic][-history_per_topic_limit:]
 
-        except smtplib.SMTPAuthenticationError:
-            logging.error("SMTP Authentication Error. Check GMAIL_USER and GMAIL_APP_PASSWORD.")
         except Exception as e:
             logging.error(f"Email sending failed: {e}", exc_info=True)
 
-        # --- History Pruning (time-based) ---
-        # Using a fixed 30-day retention for this script as per original logic.
-        # Can be made configurable similar to HISTORY_RETENTION_DAYS if desired.
-        history_retention_days_newsbot = int(CONFIG.get("NEWSBOT_HISTORY_RETENTION_DAYS", 30))
-        one_month_ago_utc = datetime.now(ZoneInfo("UTC")) - timedelta(days=history_retention_days_newsbot)
-        
-        logging.info(f"Pruning history older than {history_retention_days_newsbot} days (before {one_month_ago_utc.isoformat()}).")
-        pruned_article_count = 0
-        kept_article_count = 0
-
-        for topic_key in list(history.keys()): # Iterate over copy of keys for safe deletion
-            pruned_articles_for_topic = []
-            for article_entry in history[topic_key]:
+        # --- History Pruning and Saving ---
+        history_retention_days = int(CONFIG.get("NEWSBOT_HISTORY_RETENTION_DAYS", 30))
+        time_limit_utc = datetime.now(ZoneInfo("UTC")) - timedelta(days=history_retention_days)
+        pruned_history = {}
+        for topic, articles in history.items():
+            valid_articles = []
+            for article in articles:
                 try:
-                    pub_dt_naive = parsedate_to_datetime(article_entry["pubDate"]) # pubDate is string
-                    pub_dt_utc = pub_dt_naive.astimezone(ZoneInfo("UTC")) if pub_dt_naive.tzinfo else pub_dt_naive.replace(tzinfo=ZoneInfo("UTC"))
-                    
-                    if pub_dt_utc >= one_month_ago_utc:
-                        pruned_articles_for_topic.append(article_entry)
-                        kept_article_count += 1
-                    else:
-                        pruned_article_count += 1
-                except Exception as e:
-                    # If date is malformed, keep it to be safe, or decide to discard. Keeping is safer.
-                    logging.warning(f"Skipping article in history due to malformed pubDate '{article_entry.get('pubDate')}' for title '{article_entry.get('title')}': {e}. Keeping.")
-                    pruned_articles_for_topic.append(article_entry)
-                    kept_article_count += 1
+                    pub_dt = parsedate_to_datetime(article["pubDate"])
+                    if pub_dt.tzinfo is None: pub_dt = pub_dt.replace(tzinfo=ZoneInfo("UTC"))
+                    if pub_dt >= time_limit_utc:
+                        valid_articles.append(article)
+                except Exception:
+                    valid_articles.append(article) # Keep if date is malformed
+            if valid_articles:
+                pruned_history[topic] = valid_articles
+        history = pruned_history
 
-            if pruned_articles_for_topic:
-                history[topic_key] = pruned_articles_for_topic
-            else: # All articles for this topic were pruned
-                logging.info(f"Removing empty topic '{topic_key}' from history after pruning.")
-                del history[topic_key]
-        
-        logging.info(f"History pruning complete. Kept: {kept_article_count}, Pruned: {pruned_article_count} articles.")
-
-        with open(HISTORY_FILE, "w", encoding="utf-8") as f: # Added encoding
+        with open(HISTORY_FILE, "w", encoding="utf-8") as f:
             json.dump(history, f, indent=2)
         logging.info(f"History saved to {HISTORY_FILE}")
 
-        if CONFIG.get("ENABLE_GIT_PUSH", False): # Use a config flag for this
+        if CONFIG.get("ENABLE_GIT_PUSH", False):
             git_push_history_json(HISTORY_FILE, BASE_DIR, ZONE)
         else:
             logging.info("Git push for history.json is disabled in config.")
@@ -995,18 +935,10 @@ def main():
     except Exception as e:
         logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
     finally:
-        # nltk_data cleanup logic was commented out in original, keeping it that way.
-        # if os.path.exists(nltk_home_dir): 
-        # try:
-        # shutil.rmtree(nltk_home_dir)
-        # logging.info(f"Cleaned up local nltk_data directory: {nltk_home_dir}")
-        # except Exception as e:
-        # logging.warning(f"Failed to delete local nltk_data directory {nltk_home_dir}: {e}")
-
         if os.path.exists(LOCKFILE):
             os.remove(LOCKFILE)
         logging.info(f"Lockfile released. Script finished at {datetime.now(ZONE).strftime('%Y-%m-%d %H:%M:%S %Z')}")
-
+        
 if __name__ == "__main__":
     main()
 
