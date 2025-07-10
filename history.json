@@ -387,14 +387,6 @@
   ],
   "cybersecurity": [
     {
-      "title": "Amazon Whole Foods Distributor Breach Disrupts Deliveries - Bloomberg.com",
-      "pubDate": "Mon, 09 Jun 2025 21:36:43 GMT"
-    },
-    {
-      "title": "EU to \u2018step up\u2019 on cyber security as dependence on US laid bare - ft.com",
-      "pubDate": "Tue, 10 Jun 2025 04:03:32 GMT"
-    },
-    {
       "title": "Cybersecurity Alert: 16 billion credentials leaked in largest-ever data breach - Deccan Herald",
       "pubDate": "Fri, 20 Jun 2025 08:10:19 GMT"
     }
@@ -601,10 +593,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "The New Balance of Power in the Middle East: America, Iran, and the Emerging Arabian Axis - Foreign Affairs",
-      "pubDate": "Tue, 10 Jun 2025 04:00:00 GMT"
-    },
-    {
       "title": "US Ambassador: A Palestinian State No Longer a Goal of American Foreign Policy - \u0648\u0637\u0646. \u064a\u063a\u0631\u062f \u062e\u0627\u0631\u062c \u0627\u0644\u0633\u0631\u0628",
       "pubDate": "Tue, 10 Jun 2025 16:47:11 GMT"
     },
@@ -664,10 +652,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Stocks rise, dollar tentative ahead of US-China talks outcome - Reuters",
-      "pubDate": "Tue, 10 Jun 2025 02:16:00 GMT"
-    },
     {
       "title": "China\u2019s rare-earth mineral squeeze puts defense giants in the crosshairs - CNBC",
       "pubDate": "Tue, 10 Jun 2025 07:56:35 GMT"
@@ -812,10 +796,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Scott Galloway has bold prediction on Social Security, US economy - TheStreet",
-      "pubDate": "Tue, 10 Jun 2025 01:31:19 GMT"
-    },
     {
       "title": "A nuclear deal with Iran could generate billions for US economy - Responsible Statecraft",
       "pubDate": "Tue, 10 Jun 2025 04:09:03 GMT"
@@ -986,10 +966,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "US Politics: Trump Deploys Troops in LA Amid Protests, Draws Jan 6 Comparison - Deccan Herald",
-      "pubDate": "Tue, 10 Jun 2025 03:51:15 GMT"
-    },
     {
       "title": "White House struggles to find qualified people willing to serve under Pete Hegseth: report - The Independent",
       "pubDate": "Tue, 10 Jun 2025 07:16:00 GMT"
@@ -1757,6 +1733,10 @@
     {
       "title": "Russia launches record drone attack on Ukraine, hours after Trump criticizes Putin - CNN",
       "pubDate": "Wed, 09 Jul 2025 15:33:00 GMT"
+    },
+    {
+      "title": "Russia Makes Record Attack on Ukraine as Trump Castigates Putin - The New York Times",
+      "pubDate": "Wed, 09 Jul 2025 21:39:44 GMT"
     }
   ],
   "Russia": [
@@ -1798,10 +1778,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump insists Iran nuclear sites \u2018completely destroyed\u2019 in US strikes - Al Jazeera",
-      "pubDate": "Wed, 25 Jun 2025 07:46:18 GMT"
-    },
     {
       "title": "Trump says Iran nuclear program 'gone for years,' rejects early Pentagon analysis - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 25 Jun 2025 11:18:13 GMT"
@@ -1957,6 +1933,10 @@
     {
       "title": "Trump threatened to 'bomb the s--- out' of Moscow to deter Putin: CNN - CNBC",
       "pubDate": "Wed, 09 Jul 2025 14:56:44 GMT"
+    },
+    {
+      "title": "Trump threatens 50% tariffs on Brazil if it doesn\u2019t stop the Bolsonaro \u2018witch hunt\u2019 trial - CNN",
+      "pubDate": "Thu, 10 Jul 2025 01:04:00 GMT"
     }
   ],
   "World News": [
@@ -2231,6 +2211,10 @@
     {
       "title": "Researchers Uncover Alarming AI Hack: ChatGPT And Gemini Can Be Fooled With Gibberish Prompts To Reveal Banned Content, Bypass Filters, And Break Safety Rules - Wccftech",
       "pubDate": "Tue, 08 Jul 2025 19:31:00 GMT"
+    },
+    {
+      "title": "California lawmaker behind SB 1047 reignites push for mandated AI safety reports - TechCrunch",
+      "pubDate": "Wed, 09 Jul 2025 20:54:30 GMT"
     }
   ],
   "Data Breach": [
@@ -2643,6 +2627,10 @@
     {
       "title": "Bitcoin sets new record, briefly breaking above $112,000 as policy outlook shifts - The Block",
       "pubDate": "Wed, 09 Jul 2025 20:28:35 GMT"
+    },
+    {
+      "title": "Bitcoin soars to all-time peak just shy of $112,000 - Reuters",
+      "pubDate": "Wed, 09 Jul 2025 21:45:03 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2691,6 +2679,10 @@
     {
       "title": "Nvidia becomes first company to reach $4tn in market value - The Guardian",
       "pubDate": "Wed, 09 Jul 2025 18:28:00 GMT"
+    },
+    {
+      "title": "Nvidia Just Became the First Company to Hit a $4 Trillion Market Cap - Barron's",
+      "pubDate": "Wed, 09 Jul 2025 20:15:00 GMT"
     }
   ],
   "Technology": [
@@ -2975,6 +2967,10 @@
     {
       "title": "OpenAI tightens the screws on security to keep away prying eyes - TechCrunch",
       "pubDate": "Tue, 08 Jul 2025 05:44:33 GMT"
+    },
+    {
+      "title": "Exclusive: OpenAI to release web browser in challenge to Google Chrome - Reuters",
+      "pubDate": "Thu, 10 Jul 2025 03:16:00 GMT"
     }
   ],
   "Quantum Computing": [
@@ -3041,6 +3037,12 @@
     {
       "title": "AGI\u2019s Undefined Future Threatens AI Industry Trust - WebProNews",
       "pubDate": "Wed, 09 Jul 2025 14:04:19 GMT"
+    }
+  ],
+  "American Civil Liberties Union": [
+    {
+      "title": "U.S. Supreme Court Denies Florida\u2019s Request to Enforce Unconstitutional Anti-Immigrant Law - American Civil Liberties Union",
+      "pubDate": "Wed, 09 Jul 2025 20:29:13 GMT"
     }
   ]
 }
