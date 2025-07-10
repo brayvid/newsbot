@@ -296,6 +296,37 @@ def fetch_articles_for_topic(topic, max_articles=10):
         logging.error(f"Unexpected error fetching articles for {topic} from {url}: {e}")
         return []
 
+def load_recent_headlines_from_history(history_data: dict, max_headlines: int) -> list:
+    """
+    Extracts a flat list of the most recent headlines from the history.json data.
+    This provides the LLM with a representation of what was recently sent.
+    """
+    if not history_data:
+        return []
+
+    all_articles = []
+    for topic_articles in history_data.values():
+        all_articles.extend(topic_articles)
+
+    # Define a safe key for sorting that handles potential malformed dates
+    def get_date_key(article):
+        try:
+            dt = parsedate_to_datetime(article.get("pubDate", ""))
+            # Ensure timezone awareness for correct comparison
+            if dt.tzinfo is None:
+                return dt.replace(tzinfo=ZoneInfo("UTC"))
+            return dt
+        except (TypeError, ValueError):
+            # Return a very old date for articles with missing/bad dates so they sort last
+            return datetime.min.replace(tzinfo=ZoneInfo("UTC"))
+
+    # Sort all articles by publication date, newest first
+    all_articles.sort(key=get_date_key, reverse=True)
+
+    # Extract just the titles and limit to the max count
+    recent_titles = [article['title'] for article in all_articles[:max_headlines]]
+    logging.info(f"Loaded {len(recent_titles)} most recent headlines from history log for LLM context.")
+    return recent_titles
 
 def build_user_preferences(topics, keywords, overrides):
     preferences = []
@@ -418,74 +449,92 @@ SELECT_DIGEST_ARTICLES_TOOL = Tool(
 )
 # --- End Tool Definition ---
 
-def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemini_api_key: str) -> dict:
+def prioritize_with_gemini(
+    headlines_to_send: dict,
+    digest_history: list,
+    gemini_api_key: str,
+    topic_weights: dict,
+    keyword_weights: dict,
+    overrides: dict
+) -> dict:
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel(
-        model_name=GEMINI_MODEL_NAME, # Use configured model name
-        tools=[SELECT_DIGEST_ARTICLES_TOOL] # Enable tool
-    )
-    
-    # Using the exact prompt string provided by the user
-    prompt = (
-        "You are an expert news curator. Your task is to meticulously select and deduplicate the most relevant news topics and headlines "
-        "for a user's email digest. You will be given user preferences and a list of candidate articles. "
-        "Your goal is to produce a concise, high-quality digest adhering to strict criteria.\n\n"
-        f"User Preferences:\n{user_preferences}\n\n"
-        f"Available Topics and Headlines (candidate articles):\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n\n"
-        "Core Selection and Prioritization Logic:\n"
-        "1.  **Topic Importance (User-Defined):** First, identify topics that align with the user's preferences and assigned importance weights (1=lowest, 5=highest). This is the primary driver for topic selection.\n"
-        "2.  **Headline Newsworthiness & Relevance:** Within those topics, select headlines that are genuinely newsworthy, factual, objective, and deeply informative for a U.S. audience.\n"
-        "3.  **Recency:** For developing stories with multiple updates, generally prefer the latest headline that provides the most comprehensive information, unless an earlier headline offers unique critical insight not found later.\n\n"
-        "Strict Filtering Criteria (Apply these *after* initial relevance assessment):\n\n"
-        "*   **Output Limits:**\n"
-        f"    - Select up to {MAX_TOPICS} topics.\n"
-        f"    - For each selected topic, choose up to {MAX_ARTICLES_PER_TOPIC} headlines.\n"
-        "*   **Aggressive Deduplication:**\n"
-        "    - CRITICAL: If multiple headlines cover the *exact same core event, announcement, or substantively similar information*, even if from different sources or under different candidate topics, select ONLY ONE. Choose the most comprehensive, authoritative, or recent version. Do not include slight rephrasing of the same news.\n"
-        "*   **Geographic Focus:**\n"
-        "    - Focus on national (U.S.) or major international news.\n"
-        "    - AVOID news that is *solely* of local interest (e.g., specific to a small town, county, or local community event) *unless* it has clear and direct national or major international implications relevant to a U.S. audience (e.g., a local protest that gains national attention due to presidential involvement and sparks a national debate).\n"
-        "*   **Banned/Demoted Content:**\n"
-        "    - Strictly REJECT any headlines containing terms flagged as 'banned' in user preferences.\n"
-        "    - Headlines with 'demote' terms should be *strongly deprioritized* (effectively treated as having an importance score of 0.1 on a 1-5 scale) and only selected if their relevance and importance are exceptionally high and no other suitable headlines exist for a critical user topic.\n" # Note: DEMOTE_FACTOR value is embedded here.
-        "*   **Commercial Content:**\n"
-        "    - REJECT advertisements.\n"
-        "    - REJECT mentions of specific products/services UNLESS it's highly newsworthy criticism, a major market-moving announcement (e.g., a massive product recall by a major company), or a significant technological breakthrough discussed in a news context, not a promotional one.\n"
-        "    - STRICTLY REJECT articles that primarily offer investment advice, promote specific stocks/cryptocurrencies as 'buy now' opportunities, or resemble 'hot stock tips' (e.g., \"Top X Stocks to Invest In,\" \"This Coin Will Explode,\" \"X Stocks Worth Buying\"). News about broad market trends (e.g., \"S&P 500 reaches record high\"), significant company earnings reports (without buy/sell advice), or major regulatory changes affecting financial markets IS acceptable. The key is to avoid direct or implied investment solicitation for specific securities.\n"
-        "*   **Content Quality & Style:**\n"
-        "    - Ensure a healthy diversity of subjects if possible within the user's preferences; do not let one single event (even if important) dominate the entire digest if other relevant news is available.\n"
-        "    - PRIORITIZE content-rich, factual, objective, and neutrally-toned reporting.\n"
-        "    - ACTIVELY AVOID and DEPRIORITIZE headlines that are:\n"
-        "        - Sensationalist, using hyperbole, excessive superlatives (e.g., \"terrifying,\" \"decimated,\" \"gross failure\"), or fear-mongering.\n"
-        "        - Purely for entertainment, celebrity gossip (unless of undeniable major national/international impact, e.g., death of a global icon), or \"fluff\" pieces lacking substantial news value (e.g., \"Recession Nails,\" \"Trump stumbles\").\n"
-        "        - Clickbait (e.g., withholding key information, using vague teasers like \"You won't believe what happened next!\").\n"
-        "        - Primarily opinion/op-ed pieces, especially those with inflammatory or biased language. Focus on reported news.\n"
-        "        - Phrased as questions (e.g., \"Is X the new Y?\") or promoting listicles (e.g., \"5 reasons why...\"), unless the underlying content is exceptionally newsworthy and unique.\n"
-        "*   **Overall Goal:** The selected articles must reflect genuine newsworthiness and be relevant to an informed general audience seeking serious, objective news updates.\n\n"
-        "**Final Output Structure and Ordering:**\n"
-        "When you provide your selections using the 'format_digest_selection' tool, you MUST adhere to the following ordering:\n"
-        "1.  **Topic Order:** The selected topics MUST be ordered from most significant to least significant. Topic significance is determined primarily by user preference weights, but also consider the overall impact and newsworthiness of the actual headlines selected for that topic. The topic you deem most important overall for the user should appear first.\n"
-        "2.  **Headline Order (within each topic):** For each selected topic, the chosen headlines MUST be ordered from most significant/newsworthy/comprehensive to least significant. This internal ordering should reflect the 'Headline Newsworthiness & Relevance' and 'Recency' criteria. The single most impactful headline for that topic should be listed first under that topic.\n\n"
-        "Chain-of-Thought Instruction (Internal Monologue):\n"
-        "Before finalizing, briefly review your choices against these criteria. Ask yourself:\n"
-        "- \"Is this headline truly distinct from others I've selected?\"\n"
-        "- \"Is this purely local, or does it have wider significance?\"\n"
-        "- \"Is this trying to sell me a stock or just reporting market news?\"\n"
-        "- \"Is this headline objective, or is it heavily opinionated/sensational?\"\n"
-        "- \"Have I ordered my selected topics and the headlines within them correctly according to their significance?\"\n\n"
-        "Based on all the above, provide your selections using the 'format_digest_selection' tool."
+        model_name=GEMINI_MODEL_NAME,
+        tools=[SELECT_DIGEST_ARTICLES_TOOL]
     )
 
-    logging.info("Sending request to Gemini for prioritization using tool calling.")
+    digest_history_json = json.dumps(digest_history, indent=2)
+
+    # Build the preferences JSON from the arguments passed into the function.
+    # This makes the function self-contained and removes global dependencies.
+    pref_data = {
+        "topic_weights": topic_weights,
+        "keyword_weights": keyword_weights,
+        "banned_terms": [k for k, v in overrides.items() if v == "ban"],
+        "demoted_terms": [k for k, v in overrides.items() if v == "demote"]
+    }
+    user_preferences_json = json.dumps(pref_data, indent=2)
+
+    # The prompt is now fully self-contained and uses the data passed in.
+    prompt = (
+        "You are an Advanced News Synthesis Engine. Your function is to act as an expert, hyper-critical news curator. Your single most important mission is to produce a high-signal, non-redundant, and deeply relevant news digest for a user. You must be ruthless in eliminating noise, repetition, and low-quality content.\n\n"
+        "### Inputs Provided\n"
+        f"1.  **User Preferences:** A JSON object defining topic interests, importance weights (1-5), and banned/demoted keywords.\n```json\n{user_preferences_json}\n```\n"
+        f"2.  **Candidate Headlines:** A pool of new articles available for today's digest, organized by their machine-assigned topic.\n```json\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n```\n"
+        f"3.  **Digest History:** A list of headlines the user has already seen in recent digests. You MUST NOT select headlines that are substantively identical to these.\n```json\n{digest_history_json}\n```\n\n"
+        "### Core Processing Pipeline (Follow these steps sequentially)\n\n"
+        "**Step 1: Cross-Topic Semantic Clustering & Deduplication (CRITICAL FIRST STEP)**\n"
+        "First, analyze ALL `Candidate Headlines`. Your primary task is to identify and group all headlines from ALL topics that cover the same core news event. An 'event' is the underlying real-world occurrence, not the specific wording of a headline.\n"
+        "-   **Group by Meaning:** Cluster headlines based on their substantive meaning. For example, 'Fed Pauses Rate Hikes,' 'Federal Reserve Holds Interest Rates Steady,' and 'Powell Announces No Change to Fed Funds Rate' all belong to the same cluster.\n"
+        "-   **Select One Champion:** From each cluster, select ONLY ONE headline—the one that is the most comprehensive, recent, objective, and authoritative. Discard all other headlines in that cluster immediately.\n\n"
+        "**Step 2: History-Based Filtering**\n"
+        "Now, take your deduplicated list of 'champion' headlines. Compare each one against the `Digest History`. If any of your champion headlines reports on the exact same event that has already been sent, DISCARD it. Only select news that provides a significant, new update.\n\n"
+        "**Step 3: Rigorous Relevance & Quality Filtering**\n"
+        "For the remaining, unique, and new headlines, apply the following strict filtering criteria with full force:\n\n"
+        f"*   **Output Limits:** Adhere strictly to a maximum of **{MAX_TOPICS} topics** and **{MAX_ARTICLES_PER_TOPIC} headlines** per topic.\n"
+        "*   **Geographic Focus:**\n"
+        "    - Focus on national (U.S.) or major international news.\n"
+        "    - AVOID news that is *solely* of local interest (e.g., specific to a small town) *unless* it has clear and direct national or major international implications relevant to a U.S. audience.\n"
+        "*   **Banned/Demoted Content:**\n"
+        "    - Strictly REJECT any headlines containing terms flagged as 'banned' in user preferences.\n"
+        "    - Headlines with 'demote' terms should be *strongly deprioritized* (effectively treated as having an importance score of 0.1 on a 1-5 scale) and only selected if their relevance is exceptionally high.\n"
+        "*   **Commercial Content (APPLY WITH EXTREME PREJUDICE):**\n"
+        "    - REJECT advertisements, sponsored content, and articles that are primarily promotional.\n"
+        "    - REJECT mentions of specific products/services UNLESS it's highly newsworthy criticism, a major market-moving announcement (e.g., a massive product recall by a major company), or a significant technological breakthrough discussed in a news context, not a promotional one.\n"
+        "    - STRICTLY REJECT articles that primarily offer investment advice, promote specific stocks/cryptocurrencies as 'buy now' opportunities, or resemble 'hot stock tips' (e.g., \"Top X Stocks to Invest In,\" \"This Coin Will Explode,\" \"X Stocks Worth Buying\"). News about broad market trends (e.g., \"S&P 500 reaches record high\"), factual company earnings reports (without buy/sell advice), or major regulatory changes IS acceptable. The key is to distinguish objective financial news from investment solicitation.\n"
+        "*   **Content Quality & Style (CRITICAL):**\n"
+        "    - Ensure a healthy diversity of subjects if possible; do not let one single event dominate the entire digest.\n"
+        "    - PRIORITIZE content-rich, factual, objective, and neutrally-toned reporting.\n"
+        "    - AGGRESSIVELY AVOID AND REJECT headlines that are:\n"
+        "        - Sensationalist, using hyperbole, excessive superlatives (e.g., \"terrifying,\" \"decimated,\" \"gross failure\"), or fear-mongering.\n"
+        "        - Purely for entertainment, celebrity gossip, or \"fluff\" pieces lacking substantial news value.\n"
+        "        - Clickbait (e.g., withholding key information, using vague teasers like \"You won't believe what happened next!\").\n"
+        "        - Primarily opinion/op-ed pieces, especially those with inflammatory or biased language. Focus on reported news.\n"
+        "        - Phrased as questions (e.g., \"Is X the new Y?\") or promoting listicles (e.g., \"5 reasons why...\").\n\n"
+        "**Step 4: Final Selection and Ordering**\n"
+        "From the fully filtered and vetted pool of headlines, make your final selection.\n"
+        "1.  **Topic Ordering:** Order the selected topics from most to least significant. Significance is a blend of the user's preference weight and the objective importance of the news you've selected for that topic.\n"
+        "2.  **Headline Ordering:** Within each topic, order the selected headlines from most to least newsworthy/comprehensive.\n\n"
+        "### Final Output\n"
+        "Before calling the tool, perform a final mental check. Ask yourself:\n"
+        "- \"Is this headline truly distinct from everything else, including the history?\"\n"
+        "- \"Is this trying to sell me a stock, a product, or is it just reporting market news?\"\n"
+        "- \"Is this headline objective, or is it heavily opinionated/sensationalist clickbait?\"\n"
+        "- \"Is my final topic and headline ordering logical and based on true significance?\"\n\n"
+        "Based on this rigorous process, provide your final, curated selection using the 'format_digest_selection' tool."
+    )
+
+    logging.info("Sending request to Gemini for prioritization with history.")
+    
     try:
         response = model.generate_content(
-            [prompt], # Content can be a list
+            [prompt],
             tool_config={"function_calling_config": {"mode": "ANY", "allowed_function_names": ["format_digest_selection"]}}
         )
-        
+
         finish_reason_display_str = "N/A"
         raw_finish_reason_value = None
-        
+
         if response.candidates and hasattr(response.candidates[0], 'finish_reason'):
             raw_finish_reason_value = response.candidates[0].finish_reason
             if hasattr(raw_finish_reason_value, 'name'):
@@ -500,16 +549,16 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                 if hasattr(part, 'function_call') and part.function_call:
                     function_call_part = part.function_call
                     has_tool_call = True
-                    finish_reason_display_str = "TOOL_CALLS" # Override if tool call is present
+                    finish_reason_display_str = "TOOL_CALLS"
                     break
-        
+
         logging.info(f"Gemini response. finish_reason: {finish_reason_display_str}, raw_finish_reason_value: {raw_finish_reason_value}, has_tool_call: {has_tool_call}")
 
         if function_call_part:
             if function_call_part.name == "format_digest_selection":
                 args = function_call_part.args
                 logging.info(f"Gemini used tool 'format_digest_selection' with args (type: {type(args)}): {str(args)[:1000]}...")
-                
+
                 transformed_output = {}
                 if isinstance(args, (MapComposite, dict)):
                     entries_list_proto = args.get("selected_digest_entries")
@@ -518,14 +567,13 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
                             if isinstance(entry_proto, (MapComposite, dict)):
                                 topic_name = entry_proto.get("topic_name")
                                 headlines_proto = entry_proto.get("headlines")
-                                
+
                                 headlines_python_list = []
                                 if isinstance(headlines_proto, (RepeatedComposite, list)):
                                     for h_item in headlines_proto:
                                         headlines_python_list.append(str(h_item))
-                                
+
                                 if isinstance(topic_name, str) and topic_name.strip() and headlines_python_list:
-                                    # Python dicts preserve insertion order (3.7+), so LLM's ordering is maintained
                                     transformed_output[topic_name.strip()] = headlines_python_list
                                 else:
                                     logging.warning(f"Skipping invalid entry from tool: topic '{topic_name}', headlines '{headlines_python_list}'")
@@ -545,36 +593,40 @@ def prioritize_with_gemini(headlines_to_send: dict, user_preferences: str, gemin
             text_content = "".join(part.text for part in response.candidates[0].content.parts if hasattr(part, 'text'))
             if text_content.strip():
                 logging.warning("Gemini did not use the tool, returned text instead. Attempting to parse.")
-                logging.debug(f"Gemini raw text response: {text_content}")
                 parsed_json_fallback = safe_parse_json(text_content)
-                if isinstance(parsed_json_fallback, dict): # Ensure it's a dict
-                    # Further validation if it matches expected structure could be added here
-                    logging.info(f"Successfully parsed text fallback from Gemini: {parsed_json_fallback}")
-                    return parsed_json_fallback
-                else:
-                    logging.warning(f"Parsed text fallback from Gemini did not result in a dict. Type: {type(parsed_json_fallback)}")
-                    return {}
+                # The returned value from Gemini is a dict of {topic: [headlines]}
+                # Let's check if the parsed content matches this structure.
+                if isinstance(parsed_json_fallback, dict) and "selected_digest_entries" in parsed_json_fallback:
+                    # It seems the model might return JSON matching the tool structure, even in text.
+                    # We should handle this gracefully.
+                    entries = parsed_json_fallback.get("selected_digest_entries", [])
+                    if isinstance(entries, list):
+                        transformed_output = {}
+                        for item in entries:
+                            if isinstance(item, dict):
+                                topic = item.get("topic_name")
+                                headlines = item.get("headlines")
+                                if isinstance(topic, str) and isinstance(headlines, list):
+                                    transformed_output[topic] = headlines
+                        if transformed_output:
+                             logging.info(f"Successfully parsed tool-like structure from Gemini text response: {transformed_output}")
+                             return transformed_output
+
+                logging.warning(f"Could not parse Gemini's text response into expected format. Raw text: {text_content[:500]}")
+                return {}
             else:
                  logging.warning("Gemini returned no usable function call and no parsable text content.")
-                 if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
-                     logging.warning(f"Prompt feedback: {response.prompt_feedback}")
                  return {}
         else:
             if hasattr(response, 'prompt_feedback') and response.prompt_feedback:
                 logging.warning(f"Gemini response has prompt feedback: {response.prompt_feedback}")
-            logging.warning(f"Gemini returned no candidates or no content parts. Full response object: {response}")
+            logging.warning(f"Gemini returned no candidates or no content parts.")
             return {}
 
     except Exception as e:
         logging.error(f"Error during Gemini API call or processing response: {e}", exc_info=True)
-        try:
-            if 'response' in locals() and response:
-                logging.error(f"Gemini response object on error (prompt_feedback): {response.prompt_feedback if hasattr(response, 'prompt_feedback') else 'N/A'}")
-        except Exception as e_log:
-            logging.error(f"Error logging response details during exception: {e_log}")
         return {}
-
-
+    
 def git_push_history_json(history_file_path, base_dir, zone_for_commit_msg):
     """Adds, commits (if history.json changed and was staged), and pushes to GitHub using .env credentials."""
     try:
@@ -957,3 +1009,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+
