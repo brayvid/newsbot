@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Musk says he regrets some posts he made about Trump - Reuters",
-      "pubDate": "Wed, 11 Jun 2025 07:25:26 GMT"
-    },
-    {
       "title": "Live updates: Trump announces finalized trade deal with China, says tariffs on Chinese goods go to 55% - AP News",
       "pubDate": "Wed, 11 Jun 2025 15:48:00 GMT"
     },
@@ -168,10 +164,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "U.S. economy to avoid recession even after tariff hike - Wells Fargo (SP500:S&P Complete Indices) - Seeking Alpha",
-      "pubDate": "Wed, 11 Jun 2025 08:40:00 GMT"
-    },
     {
       "title": "US-China relations improve, yet industrial recession remains likely - Oxford Economics",
       "pubDate": "Wed, 11 Jun 2025 09:37:42 GMT"
@@ -376,10 +368,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "The rise of artificial intelligence can make college degrees 'out of date': Upskill in AI or fall behind, says expert - CNBC",
-      "pubDate": "Wed, 11 Jun 2025 06:15:34 GMT"
-    },
     {
       "title": "The war is on for Congress\u2019 AI law ban - The Verge",
       "pubDate": "Wed, 11 Jun 2025 15:00:00 GMT"
@@ -590,10 +578,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "US, China reach deal to ease export curbs, keep tariff truce alive - Reuters",
-      "pubDate": "Wed, 11 Jun 2025 07:12:04 GMT"
-    },
     {
       "title": "Trump says \u2018relationship is excellent\u2019 with China after exports deal sealed - The Independent",
       "pubDate": "Wed, 11 Jun 2025 15:24:00 GMT"
@@ -914,10 +898,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "OPINION: Donald Trump is seeking to infuse politics into America\u2019s military forces - Coeur d'Alene Press",
-      "pubDate": "Wed, 11 Jun 2025 08:00:00 GMT"
-    },
     {
       "title": "Elon Musk: I went too far criticising Trump - The Times",
       "pubDate": "Wed, 11 Jun 2025 10:00:00 GMT"
@@ -1715,6 +1695,10 @@
     {
       "title": "Russia seeks to involve Laos in war against Ukraine, military intelligence claims - The Kyiv Independent",
       "pubDate": "Sat, 05 Jul 2025 10:03:52 GMT"
+    },
+    {
+      "title": "Russia Makes 'Unprecedented' Censorship Admission - Newsweek",
+      "pubDate": "Fri, 11 Jul 2025 07:44:47 GMT"
     }
   ],
   "Donald Trump": [
@@ -2955,6 +2939,10 @@
     {
       "title": "Exclusive: OpenAI to release web browser in challenge to Google Chrome - Reuters",
       "pubDate": "Thu, 10 Jul 2025 03:16:00 GMT"
+    },
+    {
+      "title": "OpenAI Faces IRS Complaint Over Alleged Tax Violations - Cointelegraph",
+      "pubDate": "Fri, 11 Jul 2025 05:49:29 GMT"
     }
   ],
   "Quantum Computing": [
@@ -3005,6 +2993,10 @@
     {
       "title": "Israeli attacks kill 82 amid forced displacement plans, truce talks in Gaza - Al Jazeera",
       "pubDate": "Thu, 10 Jul 2025 19:42:41 GMT"
+    },
+    {
+      "title": "Israel\u2019s Military Lawyers Raise Concerns About New Plan to Move Hundreds of Thousands of Gazans - The Wall Street Journal",
+      "pubDate": "Fri, 11 Jul 2025 08:04:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -3045,6 +3037,12 @@
     {
       "title": "SpaceX registers to build 700,000-square-foot Starship-producing 'gigabay' in Starbase - MSN",
       "pubDate": "Thu, 10 Jul 2025 16:18:28 GMT"
+    }
+  ],
+  "Effects of Global Warming": [
+    {
+      "title": "Melting Glaciers Could Reawaken Hundreds of Earth's Volcanoes - ScienceAlert",
+      "pubDate": "Fri, 11 Jul 2025 02:58:07 GMT"
     }
   ]
 }
