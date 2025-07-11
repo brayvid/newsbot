@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Trump announces finalized trade deal with China, says tariffs on Chinese goods go to 55% - AP News",
-      "pubDate": "Wed, 11 Jun 2025 15:48:00 GMT"
-    },
-    {
       "title": "Trump is under water on some of his top issues \u2014 including immigration, poll shows - Politico",
       "pubDate": "Wed, 11 Jun 2025 19:53:53 GMT"
     },
@@ -165,10 +161,6 @@
   ],
   "recession": [
     {
-      "title": "US-China relations improve, yet industrial recession remains likely - Oxford Economics",
-      "pubDate": "Wed, 11 Jun 2025 09:37:42 GMT"
-    },
-    {
       "title": "Unemployment Claims and the CLF as a Recession Indicator: May 2025 - Advisor Perspectives",
       "pubDate": "Wed, 11 Jun 2025 18:10:43 GMT"
     },
@@ -311,10 +303,6 @@
   ],
   "russia": [
     {
-      "title": "Russia says it's ready to remove highly enriched uranium from Iran - Reuters",
-      "pubDate": "Wed, 11 Jun 2025 11:52:59 GMT"
-    },
-    {
       "title": "Ukraine war: 1,212 soldiers' bodies repatriated in latest swap with Russia - BBC",
       "pubDate": "Wed, 11 Jun 2025 16:50:02 GMT"
     },
@@ -368,10 +356,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "The war is on for Congress\u2019 AI law ban - The Verge",
-      "pubDate": "Wed, 11 Jun 2025 15:00:00 GMT"
-    },
     {
       "title": "Nvidia CEO Rebuts Anthropic CEO\u2019s Dire Prediction of AI Taking Jobs - PYMNTS.com",
       "pubDate": "Wed, 11 Jun 2025 20:25:53 GMT"
@@ -579,10 +563,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump says \u2018relationship is excellent\u2019 with China after exports deal sealed - The Independent",
-      "pubDate": "Wed, 11 Jun 2025 15:24:00 GMT"
-    },
-    {
       "title": "US-China trade truce leaves businesses still facing daunting tariffs - Nikkei Asia",
       "pubDate": "Thu, 12 Jun 2025 04:16:00 GMT"
     },
@@ -745,10 +725,6 @@
   ],
   "us_economy": [
     {
-      "title": "JPMorgan's Jamie Dimon warns U.S. economy could soon 'deteriorate' - CNBC",
-      "pubDate": "Wed, 11 Jun 2025 13:12:33 GMT"
-    },
-    {
       "title": "JPMorgan Chase CEO Jamie Dimon issues stark warning on economy: \u2018Real chance numbers will deteriorate soon\u2019 - New York Post",
       "pubDate": "Wed, 11 Jun 2025 16:56:00 GMT"
     },
@@ -898,10 +874,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Elon Musk: I went too far criticising Trump - The Times",
-      "pubDate": "Wed, 11 Jun 2025 10:00:00 GMT"
-    },
     {
       "title": "Eleanor Holmes Norton, D.C.\u2019s Delegate in Congress, Clings to Seat Amid Signs of Decline - The New York Times",
       "pubDate": "Wed, 11 Jun 2025 17:32:49 GMT"
@@ -1083,10 +1055,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "AI is doing up to 50% of the work at Salesforce, CEO Marc Benioff says - CNBC",
-      "pubDate": "Thu, 26 Jun 2025 13:49:11 GMT"
-    },
-    {
       "title": "Meta hires key OpenAI researcher to work on AI reasoning models - TechCrunch",
       "pubDate": "Thu, 26 Jun 2025 16:13:59 GMT"
     },
@@ -1241,6 +1209,10 @@
     {
       "title": "Nvidia Hits $4 Trillion Valuation Milestone on AI Demand - Bloomberg.com",
       "pubDate": "Thu, 10 Jul 2025 08:27:26 GMT"
+    },
+    {
+      "title": "Goldman Sachs is piloting its first autonomous coder in major AI milestone for Wall Street - CNBC",
+      "pubDate": "Fri, 11 Jul 2025 09:30:01 GMT"
     }
   ],
   "US Politics": [
@@ -2319,6 +2291,10 @@
     {
       "title": "Trump announces 35% tariffs on Canada starting Aug. 1, warns of higher levies if Ottawa retaliates - CNBC",
       "pubDate": "Fri, 11 Jul 2025 00:32:00 GMT"
+    },
+    {
+      "title": "Trump threatens 35% tariffs on Canadian goods - BBC",
+      "pubDate": "Fri, 11 Jul 2025 04:36:27 GMT"
     }
   ],
   "Asteroids": [
@@ -2929,6 +2905,10 @@
     {
       "title": "Major Finding on Beloved Egyptian Queen Rewrites History - Men's Journal",
       "pubDate": "Mon, 07 Jul 2025 17:05:45 GMT"
+    },
+    {
+      "title": "Ancient Moon Rock Reveals Missing Chapter in Lunar History - Universe Today",
+      "pubDate": "Fri, 11 Jul 2025 06:56:00 GMT"
     }
   ],
   "OpenAI": [
@@ -3031,6 +3011,10 @@
     {
       "title": "U.S. Supreme Court Denies Florida\u2019s Request to Enforce Unconstitutional Anti-Immigrant Law - American Civil Liberties Union",
       "pubDate": "Wed, 09 Jul 2025 20:29:13 GMT"
+    },
+    {
+      "title": "Federal judge hears arguments in ACLU lawsuit over ICE tactics in Los Angeles - CBS News",
+      "pubDate": "Fri, 11 Jul 2025 12:50:11 GMT"
     }
   ],
   "SpaceX": [
@@ -3043,6 +3027,18 @@
     {
       "title": "Melting Glaciers Could Reawaken Hundreds of Earth's Volcanoes - ScienceAlert",
       "pubDate": "Fri, 11 Jul 2025 02:58:07 GMT"
+    }
+  ],
+  "War and Unrest": [
+    {
+      "title": "Russia blasts Kyiv with another missile and drone barrage, killing at least 2 - AP News",
+      "pubDate": "Fri, 11 Jul 2025 12:22:00 GMT"
+    }
+  ],
+  "Climate Change": [
+    {
+      "title": "How climate change made Texas flooding more violent - CNN",
+      "pubDate": "Fri, 11 Jul 2025 13:38:37 GMT"
     }
   ]
 }
