@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump is under water on some of his top issues \u2014 including immigration, poll shows - Politico",
-      "pubDate": "Wed, 11 Jun 2025 19:53:53 GMT"
-    },
-    {
       "title": "White House accuses Newsom and Bass of fanning flames, siding with criminals - The Washington Post",
       "pubDate": "Thu, 12 Jun 2025 03:19:45 GMT"
     },
@@ -161,10 +157,6 @@
   ],
   "recession": [
     {
-      "title": "Unemployment Claims and the CLF as a Recession Indicator: May 2025 - Advisor Perspectives",
-      "pubDate": "Wed, 11 Jun 2025 18:10:43 GMT"
-    },
-    {
       "title": "JPMorgan CEO Warns of Potential U.S. Economic Recession Risks - GuruFocus",
       "pubDate": "Thu, 12 Jun 2025 00:10:21 GMT"
     },
@@ -303,10 +295,6 @@
   ],
   "russia": [
     {
-      "title": "Ukraine war: 1,212 soldiers' bodies repatriated in latest swap with Russia - BBC",
-      "pubDate": "Wed, 11 Jun 2025 16:50:02 GMT"
-    },
-    {
       "title": "Russia is shifting tactics again, assaulting Ukrainian cities with swarms of killer drones - CNN",
       "pubDate": "Sun, 15 Jun 2025 04:01:00 GMT"
     },
@@ -356,10 +344,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Nvidia CEO Rebuts Anthropic CEO\u2019s Dire Prediction of AI Taking Jobs - PYMNTS.com",
-      "pubDate": "Wed, 11 Jun 2025 20:25:53 GMT"
-    },
     {
       "title": "\u2018This is coming for everyone\u2019: A new kind of AI bot takes over the web - The Washington Post",
       "pubDate": "Thu, 12 Jun 2025 03:12:08 GMT"
@@ -549,10 +533,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "America moves closer to the brink of maximum uncertainty at home and abroad - Middle East Institute",
-      "pubDate": "Wed, 11 Jun 2025 19:09:01 GMT"
-    },
-    {
       "title": "Security for Resources: A New Era in Foreign Policy and Critical Mineral Diplomacy - Modern Diplomacy",
       "pubDate": "Sat, 14 Jun 2025 04:00:07 GMT"
     },
@@ -596,10 +576,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Trump\u2019s latest trade \u2018deal\u2019 with China underscores key U.S. disadvantage - Politico",
-      "pubDate": "Wed, 11 Jun 2025 17:43:29 GMT"
-    },
     {
       "title": "China demands sensitive information for rare earth exports, companies warn - Financial Times",
       "pubDate": "Thu, 12 Jun 2025 04:00:52 GMT"
@@ -724,10 +700,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "JPMorgan Chase CEO Jamie Dimon issues stark warning on economy: \u2018Real chance numbers will deteriorate soon\u2019 - New York Post",
-      "pubDate": "Wed, 11 Jun 2025 16:56:00 GMT"
-    },
     {
       "title": "Largest US Banker Warns US Economy Could 'Deteriorate' As Global Growth Forecast Dims - MSN",
       "pubDate": "Thu, 12 Jun 2025 02:05:46 GMT"
@@ -874,10 +846,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Eleanor Holmes Norton, D.C.\u2019s Delegate in Congress, Clings to Seat Amid Signs of Decline - The New York Times",
-      "pubDate": "Wed, 11 Jun 2025 17:32:49 GMT"
-    },
     {
       "title": "We\u2019ve Stopped Talking to People We Disagree With. That\u2019s a Problem. - U.S. News & World Report",
       "pubDate": "Wed, 11 Jun 2025 22:42:00 GMT"
@@ -1629,6 +1597,10 @@
     {
       "title": "Russia hits Kyiv with more missiles and drones, causing fires and injuring at least 10 - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 10 Jul 2025 06:11:08 GMT"
+    },
+    {
+      "title": "Trump Announces \u2018Deal\u2019 to Arm Ukraine via NATO - Time Magazine",
+      "pubDate": "Fri, 11 Jul 2025 09:08:50 GMT"
     }
   ],
   "Russia": [
@@ -2167,6 +2139,10 @@
     {
       "title": "Ingram Micro Issues Statement Regarding Cybersecurity Incident - Business Wire",
       "pubDate": "Sun, 06 Jul 2025 02:07:00 GMT"
+    },
+    {
+      "title": "CISA orders agencies to immediately patch Citrix Bleed 2, saying bug poses \u2018unacceptable risk\u2019 - The Record from Recorded Future News",
+      "pubDate": "Fri, 11 Jul 2025 15:01:20 GMT"
     }
   ],
   "US Economy": [
@@ -2559,6 +2535,10 @@
     {
       "title": "Bitcoin hits new all-time high: What is the next catalyst? - Yahoo Finance",
       "pubDate": "Thu, 10 Jul 2025 14:15:37 GMT"
+    },
+    {
+      "title": "Bitcoin flies to new all-time highs, briefly topping $118,000 as institutions pile into ETFs - CNBC",
+      "pubDate": "Fri, 11 Jul 2025 11:16:29 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2977,6 +2957,10 @@
     {
       "title": "Israel\u2019s Military Lawyers Raise Concerns About New Plan to Move Hundreds of Thousands of Gazans - The Wall Street Journal",
       "pubDate": "Fri, 11 Jul 2025 08:04:00 GMT"
+    },
+    {
+      "title": "Gaza's largest functioning hospital facing disaster, medics warn, as Israel widens offensive - BBC",
+      "pubDate": "Fri, 11 Jul 2025 15:41:42 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -3005,6 +2989,10 @@
     {
       "title": "AGI\u2019s Undefined Future Threatens AI Industry Trust - WebProNews",
       "pubDate": "Wed, 09 Jul 2025 14:04:19 GMT"
+    },
+    {
+      "title": "Microsoft and OpenAI's AGI Fight Is Bigger Than a Contract - WIRED",
+      "pubDate": "Fri, 11 Jul 2025 12:11:00 GMT"
     }
   ],
   "American Civil Liberties Union": [
@@ -3039,6 +3027,16 @@
     {
       "title": "How climate change made Texas flooding more violent - CNN",
       "pubDate": "Fri, 11 Jul 2025 13:38:37 GMT"
+    },
+    {
+      "title": "As Climate Change Heats Up Europe\u2019s Summers, Avignon Festival Tries to Adapt - The New York Times",
+      "pubDate": "Fri, 11 Jul 2025 13:07:16 GMT"
+    }
+  ],
+  "Algorithms": [
+    {
+      "title": "France launches criminal investigation into Musk\u2019s X over algorithm manipulation - politico.eu",
+      "pubDate": "Fri, 11 Jul 2025 15:07:00 GMT"
     }
   ]
 }
