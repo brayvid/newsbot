@@ -169,10 +169,6 @@
   ],
   "recession": [
     {
-      "title": "Goldman Sachs Predicts Stock Market Rally, Says Recession \u2018Not in the Base Case\u2019 \u2013 Here\u2019s Why - The Daily Hodl",
-      "pubDate": "Tue, 10 Jun 2025 18:42:13 GMT"
-    },
-    {
       "title": "U.S. economy to avoid recession even after tariff hike - Wells Fargo (SP500:S&P Complete Indices) - Seeking Alpha",
       "pubDate": "Wed, 11 Jun 2025 08:40:00 GMT"
     },
@@ -322,10 +318,6 @@
     }
   ],
   "russia": [
-    {
-      "title": "Europe heaps harsh sanctions on Russia, saying \u2018strength is the only language\u2019 Moscow understands - CNN",
-      "pubDate": "Tue, 10 Jun 2025 18:51:00 GMT"
-    },
     {
       "title": "Russia says it's ready to remove highly enriched uranium from Iran - Reuters",
       "pubDate": "Wed, 11 Jun 2025 11:52:59 GMT"
@@ -585,10 +577,6 @@
   ],
   "us_foreign_policy": [
     {
-      "title": "US Ambassador: A Palestinian State No Longer a Goal of American Foreign Policy - \u0648\u0637\u0646. \u064a\u063a\u0631\u062f \u062e\u0627\u0631\u062c \u0627\u0644\u0633\u0631\u0628",
-      "pubDate": "Tue, 10 Jun 2025 16:47:11 GMT"
-    },
-    {
       "title": "America moves closer to the brink of maximum uncertainty at home and abroad - Middle East Institute",
       "pubDate": "Wed, 11 Jun 2025 19:09:01 GMT"
     },
@@ -644,10 +632,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China, U.S. officials reach agreement for allowing rare-earth, tech trade. Now it's up to Trump and Xi - CNBC",
-      "pubDate": "Wed, 11 Jun 2025 00:01:00 GMT"
-    },
     {
       "title": "Trump\u2019s latest trade \u2018deal\u2019 with China underscores key U.S. disadvantage - Politico",
       "pubDate": "Wed, 11 Jun 2025 17:43:29 GMT"
@@ -776,14 +760,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "World Bank Paints a Bleak Picture of the U.S. Economy\u2014What It Means for Homebuyers and Sellers - Realtor.com",
-      "pubDate": "Tue, 10 Jun 2025 22:12:56 GMT"
-    },
-    {
-      "title": "World Bank slashes U.S. growth forecast over trade wars - Finance & Commerce",
-      "pubDate": "Wed, 11 Jun 2025 03:53:49 GMT"
-    },
     {
       "title": "JPMorgan's Jamie Dimon warns U.S. economy could soon 'deteriorate' - CNBC",
       "pubDate": "Wed, 11 Jun 2025 13:12:33 GMT"
@@ -938,14 +914,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump\u2019s aggressive moves on immigration protests put Democrats in a political bind - KRDO",
-      "pubDate": "Tue, 10 Jun 2025 17:41:56 GMT"
-    },
-    {
-      "title": "American carnage revisited as Trump plays president of permanent emergency - The Guardian",
-      "pubDate": "Wed, 11 Jun 2025 01:10:00 GMT"
-    },
     {
       "title": "OPINION: Donald Trump is seeking to infuse politics into America\u2019s military forces - Coeur d'Alene Press",
       "pubDate": "Wed, 11 Jun 2025 08:00:00 GMT"
@@ -2191,6 +2159,10 @@
     {
       "title": "New York Passes the Responsible AI Safety and Education Act - The National Law Review",
       "pubDate": "Thu, 10 Jul 2025 15:42:24 GMT"
+    },
+    {
+      "title": "European Union Unveils Rules for Powerful A.I. Systems - The New York Times",
+      "pubDate": "Thu, 10 Jul 2025 18:37:50 GMT"
     }
   ],
   "Data Breach": [
@@ -2359,6 +2331,10 @@
     {
       "title": "Trump tariffs goods from Brazil at 50%, citing 'witch hunt' trial against country's former president - AP News",
       "pubDate": "Thu, 10 Jul 2025 04:36:00 GMT"
+    },
+    {
+      "title": "Trump announces 35% tariffs on Canada starting Aug. 1, warns of higher levies if Ottawa retaliates - CNBC",
+      "pubDate": "Fri, 11 Jul 2025 00:32:00 GMT"
     }
   ],
   "Asteroids": [
@@ -2409,6 +2385,10 @@
     {
       "title": "Hundreds of small earthquakes detected under Mt. Rainier, scientists say no cause for alarm - KPTV",
       "pubDate": "Tue, 08 Jul 2025 19:11:00 GMT"
+    },
+    {
+      "title": "Hundreds Of Earthquakes Detected At Mount Rainier In US, Officials Assess Potential Risks - NDTV",
+      "pubDate": "Thu, 10 Jul 2025 18:55:04 GMT"
     }
   ],
   "Quantum Computer": [
@@ -2671,6 +2651,10 @@
     {
       "title": "Nvidia Just Became the First Company to Hit a $4 Trillion Market Cap - Barron's",
       "pubDate": "Wed, 09 Jul 2025 20:15:00 GMT"
+    },
+    {
+      "title": "Nvidia becomes the first public company with $4T valuation - MSNBC News",
+      "pubDate": "Thu, 10 Jul 2025 16:21:11 GMT"
     }
   ],
   "Technology": [
@@ -2851,6 +2835,10 @@
     {
       "title": "'Heartless' mass firings at major Bay Area health care network spark pushback - SFGATE",
       "pubDate": "Tue, 08 Jul 2025 23:50:26 GMT"
+    },
+    {
+      "title": "HHS bans illegal immigrants from federal health care benefits - American Hospital Association",
+      "pubDate": "Thu, 10 Jul 2025 20:00:39 GMT"
     }
   ],
   "Fusion Power": [
@@ -3013,6 +3001,10 @@
     {
       "title": "LIVE: Israel kills 35 in Gaza as \u2018difficult\u2019 truce talks continue - Al Jazeera",
       "pubDate": "Thu, 10 Jul 2025 08:06:15 GMT"
+    },
+    {
+      "title": "Israeli attacks kill 82 amid forced displacement plans, truce talks in Gaza - Al Jazeera",
+      "pubDate": "Thu, 10 Jul 2025 19:42:41 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -3047,6 +3039,12 @@
     {
       "title": "U.S. Supreme Court Denies Florida\u2019s Request to Enforce Unconstitutional Anti-Immigrant Law - American Civil Liberties Union",
       "pubDate": "Wed, 09 Jul 2025 20:29:13 GMT"
+    }
+  ],
+  "SpaceX": [
+    {
+      "title": "SpaceX registers to build 700,000-square-foot Starship-producing 'gigabay' in Starbase - MSN",
+      "pubDate": "Thu, 10 Jul 2025 16:18:28 GMT"
     }
   ]
 }
