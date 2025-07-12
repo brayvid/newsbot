@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Majorities in key U.S. allies have no confidence in Trump's global leadership - NPR",
-      "pubDate": "Thu, 12 Jun 2025 09:00:00 GMT"
-    },
-    {
       "title": "Prices for common baby items are rising due to Trump's tariffs, congressional analysis says - CNBC",
       "pubDate": "Thu, 12 Jun 2025 19:44:35 GMT"
     },
@@ -148,14 +144,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Goldman Sachs trims 12-month US recession probability to 30% - MSN",
-      "pubDate": "Thu, 12 Jun 2025 15:10:43 GMT"
-    },
-    {
-      "title": "WA agencies see largest wave of layoffs since Great Recession - The Seattle Times",
-      "pubDate": "Thu, 12 Jun 2025 13:00:00 GMT"
-    },
     {
       "title": "US Recession Fears Are Finally Cooling Off: Risk Drops to Just 25% - The Tradable",
       "pubDate": "Thu, 12 Jun 2025 19:56:02 GMT"
@@ -328,14 +316,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Google DeepMind just changed hurricane forecasting forever with new AI model - VentureBeat",
-      "pubDate": "Thu, 12 Jun 2025 15:00:00 GMT"
-    },
-    {
-      "title": "Joint Commission teams with CHAI on artificial intelligence guidance for health systems - Healthcare IT News",
-      "pubDate": "Thu, 12 Jun 2025 15:59:38 GMT"
-    },
     {
       "title": "This Incredibly Cheap Artificial Intelligence (AI) Chip Stock Wants to Become the Next Broadcom - Yahoo Finance",
       "pubDate": "Fri, 13 Jun 2025 00:56:24 GMT"
@@ -549,14 +529,6 @@
   ],
   "china": [
     {
-      "title": "Exclusive: China-backed militia secures control of new rare earth mines in Myanmar - Reuters",
-      "pubDate": "Thu, 12 Jun 2025 10:48:59 GMT"
-    },
-    {
-      "title": "China to remove tariffs on nearly all goods from Africa as both criticise US - South China Morning Post",
-      "pubDate": "Thu, 12 Jun 2025 10:00:17 GMT"
-    },
-    {
       "title": "Pentagon review rattles submarine deal amid fears of China\u2019s naval edge - The Washington Post",
       "pubDate": "Fri, 13 Jun 2025 20:41:01 GMT"
     },
@@ -668,10 +640,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US Economy: Producer Prices Muted, Recurring Jobless Claims Jump - marketscreener.com",
-      "pubDate": "Thu, 12 Jun 2025 13:28:52 GMT"
-    },
     {
       "title": "US economy is 'frozen' due to a string of compounding uncertainties, strategist says - Fox Business",
       "pubDate": "Thu, 12 Jun 2025 19:29:22 GMT"
@@ -793,12 +761,6 @@
       "pubDate": "Sat, 21 Jun 2025 00:25:30 GMT"
     }
   ],
-  "us_supreme_court": [
-    {
-      "title": "Unanimous Supreme Court makes it easier to sue schools in disability cases - NPR",
-      "pubDate": "Thu, 12 Jun 2025 14:37:26 GMT"
-    }
-  ],
   "climate": [
     {
       "title": "UK temperatures of 45C may be possible in current climate, Met Office says - The Guardian",
@@ -806,10 +768,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Democratic governors testify before Congress as immigration protests sweep country - The Independent",
-      "pubDate": "Thu, 12 Jun 2025 14:10:00 GMT"
-    },
     {
       "title": "Senate G.O.P. Includes Expanded Fund for Radiation Victims in Policy Bill - The New York Times",
       "pubDate": "Fri, 13 Jun 2025 02:06:20 GMT"
@@ -975,10 +933,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Meta hires key OpenAI researcher to work on AI reasoning models - TechCrunch",
-      "pubDate": "Thu, 26 Jun 2025 16:13:59 GMT"
-    },
-    {
       "title": "OpenAI CEO Sam Altman takes one of the biggest AI U-Turn, says: Current computers are \u2026 - Times of India",
       "pubDate": "Fri, 27 Jun 2025 03:53:00 GMT"
     },
@@ -1133,6 +1087,10 @@
     {
       "title": "Goldman Sachs is piloting its first autonomous coder in major AI milestone for Wall Street - CNBC",
       "pubDate": "Fri, 11 Jul 2025 09:30:01 GMT"
+    },
+    {
+      "title": "OpenAI Delays Open-Source Model Release Indefinitely for Safety Testing - AInvest",
+      "pubDate": "Sat, 12 Jul 2025 12:44:15 GMT"
     }
   ],
   "US Politics": [
@@ -1255,6 +1213,10 @@
     {
       "title": "Trump calls Musk's formation of new party \"ridiculous\" and criticizes his own NASA pick - Reuters",
       "pubDate": "Mon, 07 Jul 2025 06:12:00 GMT"
+    },
+    {
+      "title": "AOC Calls Trump \u2018Rapist\u2019 in Brutal Epstein Files Crisis Dig - The Daily Beast",
+      "pubDate": "Sat, 12 Jul 2025 06:49:00 GMT"
     }
   ],
   "Iran": [
@@ -1557,6 +1519,10 @@
     {
       "title": "Russia's drones and missile barrage targets Ukraine's west, kills two - Reuters",
       "pubDate": "Sat, 12 Jul 2025 07:22:52 GMT"
+    },
+    {
+      "title": "Russia launches hundreds of drones and cruise missiles into Ukraine, killing at least 6 - CBS News",
+      "pubDate": "Sat, 12 Jul 2025 13:45:39 GMT"
     }
   ],
   "Russia": [
@@ -2239,6 +2205,10 @@
     {
       "title": "Trump threatens 35% tariffs on Canadian goods - BBC",
       "pubDate": "Fri, 11 Jul 2025 04:36:27 GMT"
+    },
+    {
+      "title": "Trump intensifies trade war with 30% tariffs on EU and Mexico - Reuters",
+      "pubDate": "Sat, 12 Jul 2025 14:16:36 GMT"
     }
   ],
   "Asteroids": [
@@ -2941,6 +2911,10 @@
     {
       "title": "Gaza truce talks on verge of collapse, Palestinian officials say - BBC",
       "pubDate": "Sat, 12 Jul 2025 04:20:41 GMT"
+    },
+    {
+      "title": "Israel-Hamas Negotiations Faltering Over IDF Withdrawal From Gaza, Sources Say - Haaretz",
+      "pubDate": "Sat, 12 Jul 2025 15:21:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -3031,6 +3005,18 @@
     {
       "title": "Federal judge orders DHS to stop immigration arrests without probable cause - CNN",
       "pubDate": "Sat, 12 Jul 2025 02:49:25 GMT"
+    }
+  ],
+  "Battery Electric Vehicle": [
+    {
+      "title": "Company unveils head-turning EV battery that can fully charge in under 20 seconds \u2014 here's how it could impact the future of cars - The Cool Down",
+      "pubDate": "Sat, 12 Jul 2025 11:00:00 GMT"
+    }
+  ],
+  "Natural History": [
+    {
+      "title": "Scientists discover a prehistoric animal that lived on Earth 259 million years ago - Earth.com",
+      "pubDate": "Sat, 12 Jul 2025 15:40:29 GMT"
     }
   ]
 }
