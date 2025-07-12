@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "White House accuses Newsom and Bass of fanning flames, siding with criminals - The Washington Post",
-      "pubDate": "Thu, 12 Jun 2025 03:19:45 GMT"
-    },
-    {
-      "title": "Musk backtracks on Trump criticism after White House outreach - Reuters",
-      "pubDate": "Thu, 12 Jun 2025 00:24:00 GMT"
-    },
-    {
       "title": "Majorities in key U.S. allies have no confidence in Trump's global leadership - NPR",
       "pubDate": "Thu, 12 Jun 2025 09:00:00 GMT"
     },
@@ -156,14 +148,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "JPMorgan CEO Warns of Potential U.S. Economic Recession Risks - GuruFocus",
-      "pubDate": "Thu, 12 Jun 2025 00:10:21 GMT"
-    },
-    {
-      "title": "Recession not imminent in Eurozone, big four: Oxford Economics - Fibre2Fashion",
-      "pubDate": "Thu, 12 Jun 2025 02:50:07 GMT"
-    },
     {
       "title": "Goldman Sachs trims 12-month US recession probability to 30% - MSN",
       "pubDate": "Thu, 12 Jun 2025 15:10:43 GMT"
@@ -344,10 +328,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "\u2018This is coming for everyone\u2019: A new kind of AI bot takes over the web - The Washington Post",
-      "pubDate": "Thu, 12 Jun 2025 03:12:08 GMT"
-    },
     {
       "title": "OpenAI\u2019s Sam Altman: AI may already have surpassed human intelligence - MarketWatch",
       "pubDate": "Thu, 12 Jun 2025 08:41:00 GMT"
@@ -577,10 +557,6 @@
   ],
   "china": [
     {
-      "title": "China demands sensitive information for rare earth exports, companies warn - Financial Times",
-      "pubDate": "Thu, 12 Jun 2025 04:00:52 GMT"
-    },
-    {
       "title": "Exclusive: China-backed militia secures control of new rare earth mines in Myanmar - Reuters",
       "pubDate": "Thu, 12 Jun 2025 10:48:59 GMT"
     },
@@ -700,14 +676,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Largest US Banker Warns US Economy Could 'Deteriorate' As Global Growth Forecast Dims - MSN",
-      "pubDate": "Thu, 12 Jun 2025 02:05:46 GMT"
-    },
-    {
-      "title": "New State Merger Review Laws Could Harm U.S. Economy - Forbes",
-      "pubDate": "Wed, 11 Jun 2025 21:57:43 GMT"
-    },
     {
       "title": "US Economy: Producer Prices Muted, Recurring Jobless Claims Jump - marketscreener.com",
       "pubDate": "Thu, 12 Jun 2025 13:28:52 GMT"
@@ -846,14 +814,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "We\u2019ve Stopped Talking to People We Disagree With. That\u2019s a Problem. - U.S. News & World Report",
-      "pubDate": "Wed, 11 Jun 2025 22:42:00 GMT"
-    },
-    {
-      "title": "US pushes Mexico to prosecute, extradite politicians with cartel ties - Reuters",
-      "pubDate": "Thu, 12 Jun 2025 02:29:39 GMT"
-    },
     {
       "title": "Democratic governors testify before Congress as immigration protests sweep country - The Independent",
       "pubDate": "Thu, 12 Jun 2025 14:10:00 GMT"
@@ -1647,10 +1607,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Live updates: Trump attends NATO summit; Andrew Cuomo concedes to Zohran Mamdani in NYC mayoral primary - NBC News",
-      "pubDate": "Wed, 25 Jun 2025 20:06:39 GMT"
-    },
-    {
       "title": "Live updates: Iran confirms nuclear sites damaged as Trump promises a meeting \u2018next week\u2019 - CNN",
       "pubDate": "Thu, 26 Jun 2025 08:34:00 GMT"
     },
@@ -1805,6 +1761,10 @@
     {
       "title": "Trump threatens 50 percent tariffs on Brazil over treatment of Bolsonaro - The Washington Post",
       "pubDate": "Thu, 10 Jul 2025 03:04:00 GMT"
+    },
+    {
+      "title": "Trump surveys Texas flood devastation; State Department layoffs start - NBC News",
+      "pubDate": "Sat, 12 Jul 2025 01:39:00 GMT"
     }
   ],
   "World News": [
@@ -2091,6 +2051,10 @@
     {
       "title": "European Union Unveils Rules for Powerful A.I. Systems - The New York Times",
       "pubDate": "Thu, 10 Jul 2025 18:37:50 GMT"
+    },
+    {
+      "title": "EU's Model Documentation Form makes AI providers explain their models like it's tax season - the-decoder.com",
+      "pubDate": "Fri, 11 Jul 2025 16:46:56 GMT"
     }
   ],
   "Data Breach": [
@@ -2143,6 +2107,10 @@
     {
       "title": "CISA orders agencies to immediately patch Citrix Bleed 2, saying bug poses \u2018unacceptable risk\u2019 - The Record from Recorded Future News",
       "pubDate": "Fri, 11 Jul 2025 15:01:20 GMT"
+    },
+    {
+      "title": "AI-driven European cybersecurity project puts patient safety first - Healthcare IT News",
+      "pubDate": "Fri, 11 Jul 2025 19:37:00 GMT"
     }
   ],
   "US Economy": [
@@ -2539,6 +2507,10 @@
     {
       "title": "Bitcoin flies to new all-time highs, briefly topping $118,000 as institutions pile into ETFs - CNBC",
       "pubDate": "Fri, 11 Jul 2025 11:16:29 GMT"
+    },
+    {
+      "title": "Bitcoin Breaks Records With 100% Profitable Days And Unmatched Returns - Bitcoin Magazine",
+      "pubDate": "Fri, 11 Jul 2025 19:26:02 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2843,6 +2815,10 @@
     {
       "title": "The resistance to renewables - Why are energy providers abandoning net-zero strategies? - AltEnergyMag",
       "pubDate": "Sun, 06 Jul 2025 14:10:44 GMT"
+    },
+    {
+      "title": "Solar power might be our best chance at avoiding climate calamity - marketplace.org",
+      "pubDate": "Fri, 11 Jul 2025 20:30:00 GMT"
     }
   ],
   "Cosmology": [
@@ -3037,6 +3013,16 @@
     {
       "title": "France launches criminal investigation into Musk\u2019s X over algorithm manipulation - politico.eu",
       "pubDate": "Fri, 11 Jul 2025 15:07:00 GMT"
+    },
+    {
+      "title": "France is investigating X over algorithm enabling \u2018foreign interference\u2019 - Semafor",
+      "pubDate": "Fri, 11 Jul 2025 16:01:00 GMT"
+    }
+  ],
+  "Department of Homeland Security": [
+    {
+      "title": "Federal judge orders DHS to stop immigration arrests without probable cause - CNN",
+      "pubDate": "Sat, 12 Jul 2025 02:49:25 GMT"
     }
   ]
 }
