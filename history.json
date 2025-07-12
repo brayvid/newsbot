@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Prices for common baby items are rising due to Trump's tariffs, congressional analysis says - CNBC",
-      "pubDate": "Thu, 12 Jun 2025 19:44:35 GMT"
-    },
-    {
-      "title": "Trump vows changes to immigration crackdown to protect migrant farmers, hotel workers - USA Today",
-      "pubDate": "Thu, 12 Jun 2025 16:41:16 GMT"
-    },
-    {
       "title": "Trump promises immigration order soon on farm and leisure workers - Reuters",
       "pubDate": "Thu, 12 Jun 2025 21:34:12 GMT"
     },
@@ -144,10 +136,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "US Recession Fears Are Finally Cooling Off: Risk Drops to Just 25% - The Tradable",
-      "pubDate": "Thu, 12 Jun 2025 19:56:02 GMT"
-    },
     {
       "title": "Podcast: US Recession Threat Is Back\u2014and Maybe Something Worse - Bloomberg",
       "pubDate": "Fri, 13 Jun 2025 04:00:00 GMT"
@@ -451,10 +439,6 @@
   ],
   "financial_markets": [
     {
-      "title": "The U.S. dollar hasn't been this weak in 3 years. What that means for stock investors - CNBC",
-      "pubDate": "Thu, 12 Jun 2025 20:00:02 GMT"
-    },
-    {
       "title": "Stock market today: Dow, S&P 500, Nasdaq futures sink, oil surges as Israel launches strike against Iran - Yahoo Finance",
       "pubDate": "Fri, 13 Jun 2025 00:56:44 GMT"
     },
@@ -640,14 +624,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US economy is 'frozen' due to a string of compounding uncertainties, strategist says - Fox Business",
-      "pubDate": "Thu, 12 Jun 2025 19:29:22 GMT"
-    },
-    {
-      "title": "Renewable energy: The key to strengthening U.S. energy security - SaportaReport",
-      "pubDate": "Thu, 12 Jun 2025 20:08:19 GMT"
-    },
     {
       "title": "Uncertainty Surge: Middle-Market Firms\u2019 Product Chiefs React to \u2018America First\u2019 Policy - PYMNTS.com",
       "pubDate": "Fri, 13 Jun 2025 08:04:57 GMT"
@@ -1365,6 +1341,10 @@
     {
       "title": "Israel\u2019s Deadly Assault on Iran Prison Incites Fury, Even Among Dissidents - The New York Times",
       "pubDate": "Sun, 06 Jul 2025 22:13:55 GMT"
+    },
+    {
+      "title": "Israeli settlers beat U.S. citizen to death in West Bank - NPR",
+      "pubDate": "Sat, 12 Jul 2025 17:19:52 GMT"
     }
   ],
   "Ukraine": [
@@ -1523,6 +1503,10 @@
     {
       "title": "Russia launches hundreds of drones and cruise missiles into Ukraine, killing at least 6 - CBS News",
       "pubDate": "Sat, 12 Jul 2025 13:45:39 GMT"
+    },
+    {
+      "title": "Russia launches hundreds of drones in mass aerial attack, Zelensky says - The Jerusalem Post",
+      "pubDate": "Sat, 12 Jul 2025 12:08:26 GMT"
     }
   ],
   "Russia": [
@@ -1568,10 +1552,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Live updates: Iran confirms nuclear sites damaged as Trump promises a meeting \u2018next week\u2019 - CNN",
-      "pubDate": "Thu, 26 Jun 2025 08:34:00 GMT"
-    },
     {
       "title": "Trump calls for Netanyahu's trial to be canceled - Reuters",
       "pubDate": "Thu, 26 Jun 2025 08:01:51 GMT"
@@ -1727,6 +1707,10 @@
     {
       "title": "Trump surveys Texas flood devastation; State Department layoffs start - NBC News",
       "pubDate": "Sat, 12 Jul 2025 01:39:00 GMT"
+    },
+    {
+      "title": "Trump authorizes Ice agents to protect themselves using \u2018whatever means\u2019 necessary - The Guardian",
+      "pubDate": "Sat, 12 Jul 2025 14:28:00 GMT"
     }
   ],
   "World News": [
@@ -2021,6 +2005,10 @@
     {
       "title": "OpenAI delays open model release, no timeline announced - Tech in Asia",
       "pubDate": "Sat, 12 Jul 2025 02:30:00 GMT"
+    },
+    {
+      "title": "OpenAI Delays Launch of Open-Weight AI Model Citing Safety Concerns - thedailyjagran.com",
+      "pubDate": "Sat, 12 Jul 2025 17:22:00 GMT"
     }
   ],
   "Data Breach": [
@@ -2209,6 +2197,10 @@
     {
       "title": "Trump intensifies trade war with 30% tariffs on EU and Mexico - Reuters",
       "pubDate": "Sat, 12 Jul 2025 14:16:36 GMT"
+    },
+    {
+      "title": "Trump announces 30% tariffs on European Union and Mexico - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Sat, 12 Jul 2025 14:48:45 GMT"
     }
   ],
   "Asteroids": [
@@ -2233,6 +2225,10 @@
     {
       "title": "The Gulf Stream is on the verge of COLLAPSING, scientists warn - as they find the first concrete evidence of major ocean circulation system weakening - Daily Mail",
       "pubDate": "Mon, 23 Jun 2025 10:22:51 GMT"
+    },
+    {
+      "title": "Scientists Discover Arctic Lifeline for Atlantic Ocean Circulation - The Daily Galaxy",
+      "pubDate": "Sat, 12 Jul 2025 16:00:00 GMT"
     }
   ],
   "Business": [
@@ -3005,6 +3001,10 @@
     {
       "title": "Federal judge orders DHS to stop immigration arrests without probable cause - CNN",
       "pubDate": "Sat, 12 Jul 2025 02:49:25 GMT"
+    },
+    {
+      "title": "DHS Secretary Noem vows to ramp up deportations with funding boost from Trump\u2019s domestic policy law - CNN",
+      "pubDate": "Sat, 12 Jul 2025 20:22:00 GMT"
     }
   ],
   "Battery Electric Vehicle": [
