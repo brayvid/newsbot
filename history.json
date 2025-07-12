@@ -329,10 +329,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "OpenAI\u2019s Sam Altman: AI may already have surpassed human intelligence - MarketWatch",
-      "pubDate": "Thu, 12 Jun 2025 08:41:00 GMT"
-    },
-    {
       "title": "Google DeepMind just changed hurricane forecasting forever with new AI model - VentureBeat",
       "pubDate": "Thu, 12 Jun 2025 15:00:00 GMT"
     },
@@ -522,10 +518,6 @@
     }
   ],
   "trade_war": [
-    {
-      "title": "US-China trade truce leaves businesses still facing daunting tariffs - Nikkei Asia",
-      "pubDate": "Thu, 12 Jun 2025 04:16:00 GMT"
-    },
     {
       "title": "Metal casket maker ready for trade war to end after steel hit with 50% tariff - CBC",
       "pubDate": "Fri, 13 Jun 2025 08:00:00 GMT"
@@ -1561,6 +1553,10 @@
     {
       "title": "Trump Announces \u2018Deal\u2019 to Arm Ukraine via NATO - Time Magazine",
       "pubDate": "Fri, 11 Jul 2025 09:08:50 GMT"
+    },
+    {
+      "title": "Russia's drones and missile barrage targets Ukraine's west, kills two - Reuters",
+      "pubDate": "Sat, 12 Jul 2025 07:22:52 GMT"
     }
   ],
   "Russia": [
@@ -2055,6 +2051,10 @@
     {
       "title": "EU's Model Documentation Form makes AI providers explain their models like it's tax season - the-decoder.com",
       "pubDate": "Fri, 11 Jul 2025 16:46:56 GMT"
+    },
+    {
+      "title": "OpenAI delays open model release, no timeline announced - Tech in Asia",
+      "pubDate": "Sat, 12 Jul 2025 02:30:00 GMT"
     }
   ],
   "Data Breach": [
@@ -2937,6 +2937,10 @@
     {
       "title": "Gaza's largest functioning hospital facing disaster, medics warn, as Israel widens offensive - BBC",
       "pubDate": "Fri, 11 Jul 2025 15:41:42 GMT"
+    },
+    {
+      "title": "Gaza truce talks on verge of collapse, Palestinian officials say - BBC",
+      "pubDate": "Sat, 12 Jul 2025 04:20:41 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -3007,6 +3011,10 @@
     {
       "title": "As Climate Change Heats Up Europe\u2019s Summers, Avignon Festival Tries to Adapt - The New York Times",
       "pubDate": "Fri, 11 Jul 2025 13:07:16 GMT"
+    },
+    {
+      "title": "The State Department fires remaining employees who worked on climate change - The Washington Post",
+      "pubDate": "Sat, 12 Jul 2025 02:42:43 GMT"
     }
   ],
   "Algorithms": [
