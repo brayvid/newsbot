@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump urges Iran to reach nuclear deal 'before there is nothing left' - CNBC",
-      "pubDate": "Fri, 13 Jun 2025 10:29:45 GMT"
-    },
-    {
       "title": "Judge rules Trump\u2019s firings at federal product safety agency illegal - The Hill",
       "pubDate": "Fri, 13 Jun 2025 18:16:00 GMT"
     },
@@ -132,10 +128,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Recession already underway, market still asleep, Rosenberg warns - KITCO",
-      "pubDate": "Fri, 13 Jun 2025 09:57:00 GMT"
-    },
     {
       "title": "Steve Hanke Forecasts US Recession and Urges Policy Shift \u2013 Here\u2019s Why - BeInCrypto",
       "pubDate": "Fri, 13 Jun 2025 16:09:25 GMT"
@@ -297,10 +289,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Meta poaches 28-year-old Scale AI CEO after taking multibillion dollar stake in startup - Reuters",
-      "pubDate": "Fri, 13 Jun 2025 11:53:25 GMT"
-    },
-    {
       "title": "New Hampshire jury acquits consultant behind AI robocalls mimicking Biden on all charges - CBS News",
       "pubDate": "Fri, 13 Jun 2025 20:05:40 GMT"
     },
@@ -422,10 +410,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Israel-Iran clash delivers a fresh shock to investors. History suggests this is the move to make. - MarketWatch",
-      "pubDate": "Fri, 13 Jun 2025 10:30:00 GMT"
-    },
     {
       "title": "Dow falls more than 700 points on Friday as attacks between Israel and Iran escalate: Live updates - CNBC",
       "pubDate": "Fri, 13 Jun 2025 20:24:00 GMT"
@@ -600,10 +584,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US Economy Shrinks for First Time in Three Years Amid Tariff Concerns - MSN",
-      "pubDate": "Fri, 13 Jun 2025 13:31:34 GMT"
-    },
     {
       "title": "There are risks that the U.S. economy will suffer collateral damage from Israel\u2019s airstrikes in Iran - MarketWatch",
       "pubDate": "Fri, 13 Jun 2025 16:03:00 GMT"
@@ -2441,6 +2421,10 @@
     {
       "title": "Bitcoin jumps to all-time high due to demand from - GlobeNewswire",
       "pubDate": "Sun, 13 Jul 2025 07:19:16 GMT"
+    },
+    {
+      "title": "Bitcoin Surges 100% to $119,376 as Institutional Interest Soars - AInvest",
+      "pubDate": "Sun, 13 Jul 2025 15:00:18 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2497,6 +2481,10 @@
     {
       "title": "Nvidia becomes the first public company with $4T valuation - MSNBC News",
       "pubDate": "Thu, 10 Jul 2025 16:21:11 GMT"
+    },
+    {
+      "title": "Nvidia CEO to hold media briefing in Beijing on July 16 - Reuters",
+      "pubDate": "Sun, 13 Jul 2025 11:11:49 GMT"
     }
   ],
   "Technology": [
@@ -2641,6 +2629,10 @@
     {
       "title": "Elon Musk Is Running Out of Road in China - WSJ",
       "pubDate": "Tue, 08 Jul 2025 01:17:44 GMT"
+    },
+    {
+      "title": "Elon Musk Is Back at Work and Burning Through Executives - The Wall Street Journal",
+      "pubDate": "Sun, 13 Jul 2025 09:30:00 GMT"
     }
   ],
   "Mars": [
@@ -2709,6 +2701,10 @@
     {
       "title": "North Korea sends 12M+ shells to Russia - Shafaq News - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
       "pubDate": "Sun, 13 Jul 2025 07:22:23 GMT"
+    },
+    {
+      "title": "North Korea sent Russia over 12 million artillery shells - Defence Blog",
+      "pubDate": "Sun, 13 Jul 2025 09:21:59 GMT"
     }
   ],
   "Tesla": [
@@ -2891,6 +2887,10 @@
     {
       "title": "Israel at War Day 646 Netanyahu: 'The Hostages Are the Only Reason the War in Gaza Is Still Going On' - Haaretz",
       "pubDate": "Sun, 13 Jul 2025 08:19:00 GMT"
+    },
+    {
+      "title": "Gaza officials say children killed in strike as Israeli military admits 'error' - BBC",
+      "pubDate": "Sun, 13 Jul 2025 12:17:56 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2973,6 +2973,10 @@
     {
       "title": "Heat cuts milk output by 10% even on top Israeli dairy farms - The Jerusalem Post",
       "pubDate": "Sun, 13 Jul 2025 01:27:24 GMT"
+    },
+    {
+      "title": "Scientists transplant crossbred corals to help save Miami's reefs from climate change - Pittsburgh Post-Gazette",
+      "pubDate": "Sun, 13 Jul 2025 08:00:00 GMT"
     }
   ],
   "Algorithms": [
