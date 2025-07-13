@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump promises immigration order soon on farm and leisure workers - Reuters",
-      "pubDate": "Thu, 12 Jun 2025 21:34:12 GMT"
-    },
-    {
       "title": "Trump urges Iran to reach nuclear deal 'before there is nothing left' - CNBC",
       "pubDate": "Fri, 13 Jun 2025 10:29:45 GMT"
     },
@@ -305,10 +301,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "This Incredibly Cheap Artificial Intelligence (AI) Chip Stock Wants to Become the Next Broadcom - Yahoo Finance",
-      "pubDate": "Fri, 13 Jun 2025 00:56:24 GMT"
-    },
-    {
       "title": "AI digital transformation: reshaping organizations, work, and our global future - imd.org",
       "pubDate": "Fri, 13 Jun 2025 07:34:03 GMT"
     },
@@ -438,10 +430,6 @@
     }
   ],
   "financial_markets": [
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures sink, oil surges as Israel launches strike against Iran - Yahoo Finance",
-      "pubDate": "Fri, 13 Jun 2025 00:56:44 GMT"
-    },
     {
       "title": "Israel-Iran clash delivers a fresh shock to investors. History suggests this is the move to make. - MarketWatch",
       "pubDate": "Fri, 13 Jun 2025 10:30:00 GMT"
@@ -745,10 +733,6 @@
   ],
   "us_politics": [
     {
-      "title": "Senate G.O.P. Includes Expanded Fund for Radiation Victims in Policy Bill - The New York Times",
-      "pubDate": "Fri, 13 Jun 2025 02:06:20 GMT"
-    },
-    {
       "title": "America is heading down a dark road as fury boils over in California - CNN",
       "pubDate": "Fri, 13 Jun 2025 04:00:00 GMT"
     },
@@ -863,10 +847,6 @@
   ],
   "iran": [
     {
-      "title": "Iran announces a new nuclear enrichment site after UN watchdog censure - AP News",
-      "pubDate": "Fri, 13 Jun 2025 02:41:00 GMT"
-    },
-    {
       "title": "Israel-Iran Live Updates: Trump Privately Approved of Attack Plans for Iran but Has Withheld Final Order - WSJ",
       "pubDate": "Thu, 19 Jun 2025 15:14:00 GMT"
     },
@@ -895,10 +875,6 @@
   ],
   "us_senate": [
     {
-      "title": "US senator forcefully removed from DHS event in LA, triggering Democratic outcry on Capitol Hill - CNN",
-      "pubDate": "Thu, 12 Jun 2025 22:25:00 GMT"
-    },
-    {
       "title": "US senator introduces bill to curb Trump\u2019s power to go to war with Iran - Al Jazeera",
       "pubDate": "Mon, 16 Jun 2025 16:35:58 GMT"
     },
@@ -908,10 +884,6 @@
     }
   ],
   "Artificial Intelligence": [
-    {
-      "title": "OpenAI CEO Sam Altman takes one of the biggest AI U-Turn, says: Current computers are \u2026 - Times of India",
-      "pubDate": "Fri, 27 Jun 2025 03:53:00 GMT"
-    },
     {
       "title": "Exclusive: Trump plans executive orders to power AI growth in race with China - Reuters",
       "pubDate": "Fri, 27 Jun 2025 11:27:19 GMT"
@@ -1067,6 +1039,10 @@
     {
       "title": "OpenAI Delays Open-Source Model Release Indefinitely for Safety Testing - AInvest",
       "pubDate": "Sat, 12 Jul 2025 12:44:15 GMT"
+    },
+    {
+      "title": "Elon Musk's artificial intelligence system, GROK, issues apology following antisemitic posts - FOX13 Memphis",
+      "pubDate": "Sat, 12 Jul 2025 23:45:00 GMT"
     }
   ],
   "US Politics": [
@@ -2201,6 +2177,10 @@
     {
       "title": "Trump announces 30% tariffs on European Union and Mexico - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 12 Jul 2025 14:48:45 GMT"
+    },
+    {
+      "title": "Trump slaps 30% tariffs on all goods from EU and Mexico - Al Jazeera",
+      "pubDate": "Sat, 12 Jul 2025 19:07:30 GMT"
     }
   ],
   "Asteroids": [
@@ -2791,6 +2771,10 @@
     {
       "title": "Confirmed by the James Webb telescope - something is wrong with the universe and scientists fear this anomaly will change physics forever - La Grada Online",
       "pubDate": "Sun, 06 Jul 2025 10:15:59 GMT"
+    },
+    {
+      "title": "Scientists Say Earth May Be Trapped Inside a Huge, Strange Void - Futurism",
+      "pubDate": "Sat, 12 Jul 2025 16:45:03 GMT"
     }
   ],
   "Pacific Ocean": [
@@ -2911,6 +2895,10 @@
     {
       "title": "Israel-Hamas Negotiations Faltering Over IDF Withdrawal From Gaza, Sources Say - Haaretz",
       "pubDate": "Sat, 12 Jul 2025 15:21:00 GMT"
+    },
+    {
+      "title": "Gaza hospital says 24 people killed near aid site as witnesses blame IDF - BBC",
+      "pubDate": "Sat, 12 Jul 2025 21:49:47 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -3011,12 +2999,22 @@
     {
       "title": "Company unveils head-turning EV battery that can fully charge in under 20 seconds \u2014 here's how it could impact the future of cars - The Cool Down",
       "pubDate": "Sat, 12 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Panasonic to delay production at Kansas battery plant as electric car sales decline, policies shift - KAKE",
+      "pubDate": "Sat, 12 Jul 2025 21:51:05 GMT"
     }
   ],
   "Natural History": [
     {
       "title": "Scientists discover a prehistoric animal that lived on Earth 259 million years ago - Earth.com",
       "pubDate": "Sat, 12 Jul 2025 15:40:29 GMT"
+    }
+  ],
+  "Machine Learning": [
+    {
+      "title": "A crack detection and quantification method using matched filter and photograph reconstruction - Nature",
+      "pubDate": "Sat, 12 Jul 2025 17:50:54 GMT"
     }
   ]
 }
