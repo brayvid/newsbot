@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Judge rules Trump\u2019s firings at federal product safety agency illegal - The Hill",
-      "pubDate": "Fri, 13 Jun 2025 18:16:00 GMT"
-    },
-    {
       "title": "Trump Live Updates: Latest News on Tariffs, Voter ID and More - The New York Times",
       "pubDate": "Sat, 14 Jun 2025 03:25:00 GMT"
     },
@@ -128,10 +124,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Steve Hanke Forecasts US Recession and Urges Policy Shift \u2013 Here\u2019s Why - BeInCrypto",
-      "pubDate": "Fri, 13 Jun 2025 16:09:25 GMT"
-    },
     {
       "title": "Some Basic Math on Why I Think the Recession Likelihood Is Greater than 30% - Econbrowser",
       "pubDate": "Fri, 13 Jun 2025 22:23:21 GMT"
@@ -289,14 +281,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "New Hampshire jury acquits consultant behind AI robocalls mimicking Biden on all charges - CBS News",
-      "pubDate": "Fri, 13 Jun 2025 20:05:40 GMT"
-    },
-    {
-      "title": "The Deficit Narrative May Find Its Cure In Artificial Intelligence - Seeking Alpha",
-      "pubDate": "Fri, 13 Jun 2025 18:00:00 GMT"
-    },
-    {
       "title": "TotalEnergies to Collaborate with Mistral AI to Increase the Application of Artificial Intelligence in its Multi-Energy Strategy - TotalEnergies.com",
       "pubDate": "Sat, 14 Jun 2025 05:11:38 GMT"
     },
@@ -411,10 +395,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Dow falls more than 700 points on Friday as attacks between Israel and Iran escalate: Live updates - CNBC",
-      "pubDate": "Fri, 13 Jun 2025 20:24:00 GMT"
-    },
-    {
       "title": "Household loans continue to increase in June on heated housing, stock markets - Yonhap News Agency",
       "pubDate": "Sun, 15 Jun 2025 02:07:43 GMT"
     },
@@ -472,10 +452,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Pentagon review rattles submarine deal amid fears of China\u2019s naval edge - The Washington Post",
-      "pubDate": "Fri, 13 Jun 2025 20:41:01 GMT"
-    },
     {
       "title": "China's UN envoy condemns Israeli strikes on Iran - state media - Reuters",
       "pubDate": "Sat, 14 Jun 2025 03:08:00 GMT"
@@ -585,14 +561,6 @@
   ],
   "us_economy": [
     {
-      "title": "There are risks that the U.S. economy will suffer collateral damage from Israel\u2019s airstrikes in Iran - MarketWatch",
-      "pubDate": "Fri, 13 Jun 2025 16:03:00 GMT"
-    },
-    {
-      "title": "The Israel-Iran War Could Send a Shock Through the US Economy. Here\u2019s How. - Barron's",
-      "pubDate": "Fri, 13 Jun 2025 19:34:00 GMT"
-    },
-    {
       "title": "Map Shows US States With Best\u2014And Worst\u2014Economies - Newsweek",
       "pubDate": "Sat, 14 Jun 2025 09:00:01 GMT"
     },
@@ -696,14 +664,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Forcible removal of US Sen. Alex Padilla signals a dangerous shift in American democracy - The Conversation",
-      "pubDate": "Fri, 13 Jun 2025 17:27:08 GMT"
-    },
-    {
-      "title": "What Israel\u2019s kitchen-sink operation against Iran tells us so far - CNN",
-      "pubDate": "Fri, 13 Jun 2025 19:54:00 GMT"
-    },
     {
       "title": "How boredom gave us chaos - Financial Times",
       "pubDate": "Sat, 14 Jun 2025 04:00:01 GMT"
@@ -1485,10 +1445,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump calls for Netanyahu's trial to be canceled - Reuters",
-      "pubDate": "Thu, 26 Jun 2025 08:01:51 GMT"
-    },
-    {
       "title": "Trump pushes for passage of his massive tax and immigration bill - The Washington Post",
       "pubDate": "Fri, 27 Jun 2025 03:00:00 GMT"
     },
@@ -1643,6 +1599,10 @@
     {
       "title": "Trump authorizes Ice agents to protect themselves using \u2018whatever means\u2019 necessary - The Guardian",
       "pubDate": "Sat, 12 Jul 2025 14:28:00 GMT"
+    },
+    {
+      "title": "Secret Service\u2019s \u2018cascade of failures\u2019 allowed Trump assassination attempt, report says - The Guardian",
+      "pubDate": "Sun, 13 Jul 2025 20:16:00 GMT"
     }
   ],
   "World News": [
@@ -2425,6 +2385,10 @@
     {
       "title": "Bitcoin Surges 100% to $119,376 as Institutional Interest Soars - AInvest",
       "pubDate": "Sun, 13 Jul 2025 15:00:18 GMT"
+    },
+    {
+      "title": "Bitcoin hits new all-time high above $119K as trader eyes 7-week uptrend - Cointelegraph",
+      "pubDate": "Sun, 13 Jul 2025 15:32:57 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2633,6 +2597,10 @@
     {
       "title": "Elon Musk Is Back at Work and Burning Through Executives - The Wall Street Journal",
       "pubDate": "Sun, 13 Jul 2025 09:30:00 GMT"
+    },
+    {
+      "title": "Why Elon Musk may have reached the end of the road at Tesla - The Telegraph",
+      "pubDate": "Sun, 13 Jul 2025 11:00:00 GMT"
     }
   ],
   "Mars": [
@@ -2673,6 +2641,10 @@
     {
       "title": "HHS bans illegal immigrants from federal health care benefits - American Hospital Association",
       "pubDate": "Thu, 10 Jul 2025 20:00:39 GMT"
+    },
+    {
+      "title": "Hospitals across nation brace for Medicaid cuts under \u2018big, beautiful\u2019 law - The Hill",
+      "pubDate": "Sun, 13 Jul 2025 18:00:00 GMT"
     }
   ],
   "Fusion Power": [
@@ -2705,6 +2677,10 @@
     {
       "title": "North Korea sent Russia over 12 million artillery shells - Defence Blog",
       "pubDate": "Sun, 13 Jul 2025 09:21:59 GMT"
+    },
+    {
+      "title": "North Korea unconditionally backs Putin\u2019s war in Ukraine during Lavrov visit - Financial Times",
+      "pubDate": "Sun, 13 Jul 2025 14:35:26 GMT"
     }
   ],
   "Tesla": [
