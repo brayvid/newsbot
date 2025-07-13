@@ -133,10 +133,6 @@
   ],
   "recession": [
     {
-      "title": "Podcast: US Recession Threat Is Back\u2014and Maybe Something Worse - Bloomberg",
-      "pubDate": "Fri, 13 Jun 2025 04:00:00 GMT"
-    },
-    {
       "title": "Recession already underway, market still asleep, Rosenberg warns - KITCO",
       "pubDate": "Fri, 13 Jun 2025 09:57:00 GMT"
     },
@@ -300,10 +296,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI digital transformation: reshaping organizations, work, and our global future - imd.org",
-      "pubDate": "Fri, 13 Jun 2025 07:34:03 GMT"
-    },
     {
       "title": "Meta poaches 28-year-old Scale AI CEO after taking multibillion dollar stake in startup - Reuters",
       "pubDate": "Fri, 13 Jun 2025 11:53:25 GMT"
@@ -471,10 +463,6 @@
   ],
   "trade_war": [
     {
-      "title": "Metal casket maker ready for trade war to end after steel hit with 50% tariff - CBC",
-      "pubDate": "Fri, 13 Jun 2025 08:00:00 GMT"
-    },
-    {
       "title": "San Diego businesses adapt to uncertain import prices as tariffs kick in, again - inewsource",
       "pubDate": "Fri, 13 Jun 2025 23:11:43 GMT"
     },
@@ -613,10 +601,6 @@
   ],
   "us_economy": [
     {
-      "title": "Uncertainty Surge: Middle-Market Firms\u2019 Product Chiefs React to \u2018America First\u2019 Policy - PYMNTS.com",
-      "pubDate": "Fri, 13 Jun 2025 08:04:57 GMT"
-    },
-    {
       "title": "US Economy Shrinks for First Time in Three Years Amid Tariff Concerns - MSN",
       "pubDate": "Fri, 13 Jun 2025 13:31:34 GMT"
     },
@@ -732,10 +716,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "America is heading down a dark road as fury boils over in California - CNN",
-      "pubDate": "Fri, 13 Jun 2025 04:00:00 GMT"
-    },
     {
       "title": "Forcible removal of US Sen. Alex Padilla signals a dangerous shift in American democracy - The Conversation",
       "pubDate": "Fri, 13 Jun 2025 17:27:08 GMT"
@@ -856,10 +836,6 @@
     }
   ],
   "israel": [
-    {
-      "title": "Israel strikes Iran nuclear sites and military leadership as Middle East braces for retaliation - CNN",
-      "pubDate": "Fri, 13 Jun 2025 08:53:00 GMT"
-    },
     {
       "title": "Israel-Iran live updates: Sirens as Israeli authorities warn of new wave of missiles - ABC News",
       "pubDate": "Sat, 14 Jun 2025 01:42:00 GMT"
@@ -1325,10 +1301,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine Warns Teenagers the Enemy Is Inside Their Phones - The New York Times",
-      "pubDate": "Sat, 21 Jun 2025 09:35:26 GMT"
-    },
-    {
       "title": "Ukraine asks allies to allocate 0.25% of GDP to boost its weapon production - Reuters",
       "pubDate": "Sat, 21 Jun 2025 12:44:20 GMT"
     },
@@ -1483,6 +1455,10 @@
     {
       "title": "Russia launches hundreds of drones in mass aerial attack, Zelensky says - The Jerusalem Post",
       "pubDate": "Sat, 12 Jul 2025 12:08:26 GMT"
+    },
+    {
+      "title": "A Never-Ending Supply of Drones Has Frozen the Front Lines in Ukraine - The Wall Street Journal",
+      "pubDate": "Sun, 13 Jul 2025 04:04:00 GMT"
     }
   ],
   "Russia": [
@@ -2181,6 +2157,10 @@
     {
       "title": "Trump slaps 30% tariffs on all goods from EU and Mexico - Al Jazeera",
       "pubDate": "Sat, 12 Jul 2025 19:07:30 GMT"
+    },
+    {
+      "title": "Trump announces 30% tariffs against EU, Mexico to begin Aug. 1, rattling major US trading partners - AP News",
+      "pubDate": "Sat, 12 Jul 2025 21:13:00 GMT"
     }
   ],
   "Asteroids": [
@@ -2457,6 +2437,10 @@
     {
       "title": "Bitcoin Breaks Records With 100% Profitable Days And Unmatched Returns - Bitcoin Magazine",
       "pubDate": "Fri, 11 Jul 2025 19:26:02 GMT"
+    },
+    {
+      "title": "Bitcoin jumps to all-time high due to demand from - GlobeNewswire",
+      "pubDate": "Sun, 13 Jul 2025 07:19:16 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2721,6 +2705,10 @@
     {
       "title": "North Korean defector to sue Kim Jong Un for abuse - BBC",
       "pubDate": "Thu, 10 Jul 2025 05:11:30 GMT"
+    },
+    {
+      "title": "North Korea sends 12M+ shells to Russia - Shafaq News - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+      "pubDate": "Sun, 13 Jul 2025 07:22:23 GMT"
     }
   ],
   "Tesla": [
@@ -2899,12 +2887,20 @@
     {
       "title": "Gaza hospital says 24 people killed near aid site as witnesses blame IDF - BBC",
       "pubDate": "Sat, 12 Jul 2025 21:49:47 GMT"
+    },
+    {
+      "title": "Israel at War Day 646 Netanyahu: 'The Hostages Are the Only Reason the War in Gaza Is Still Going On' - Haaretz",
+      "pubDate": "Sun, 13 Jul 2025 08:19:00 GMT"
     }
   ],
   "Cryptocurrency": [
     {
       "title": "Trump Media files for \u2018Crypto Blue Chip ETF\u2019 with SEC - AP News",
       "pubDate": "Tue, 08 Jul 2025 16:16:00 GMT"
+    },
+    {
+      "title": "Millions in savers\u2019 cash goes missing after crypto company collapses - The Telegraph",
+      "pubDate": "Sun, 13 Jul 2025 05:30:00 GMT"
     }
   ],
   "Science": [
@@ -2973,6 +2969,10 @@
     {
       "title": "The State Department fires remaining employees who worked on climate change - The Washington Post",
       "pubDate": "Sat, 12 Jul 2025 02:42:43 GMT"
+    },
+    {
+      "title": "Heat cuts milk output by 10% even on top Israeli dairy farms - The Jerusalem Post",
+      "pubDate": "Sun, 13 Jul 2025 01:27:24 GMT"
     }
   ],
   "Algorithms": [
