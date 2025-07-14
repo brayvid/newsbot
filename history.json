@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Democrats engage in \u2018treacherous\u2019 fight with Trump on immigration, protests - The Washington Post",
-      "pubDate": "Sat, 14 Jun 2025 14:32:10 GMT"
-    },
-    {
-      "title": "\u2018This moment was thrust upon him\u2019: Gavin Newsom steps up to parry Trump\u2019s \u2018wrecking ball\u2019 attacks on American democracy - The Guardian",
-      "pubDate": "Sat, 14 Jun 2025 15:34:00 GMT"
-    },
-    {
       "title": "Anti-Trump protests held across US as president attends military parade - CNN",
       "pubDate": "Sun, 15 Jun 2025 03:20:00 GMT"
     },
@@ -116,14 +108,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "The optimism recession: Why American workforce is worried now more than ever despite stable jobs - Times of India",
-      "pubDate": "Sat, 14 Jun 2025 11:00:00 GMT"
-    },
-    {
-      "title": "Hair Stylists Are Bracing For A Recession \u2014 And Noticing A Hot New Trend With Clients - HuffPost",
-      "pubDate": "Sat, 14 Jun 2025 11:00:17 GMT"
-    },
     {
       "title": "Economist's View: Hard data versus soft and what to watch going forward - Pittsburgh Post-Gazette",
       "pubDate": "Sun, 15 Jun 2025 09:00:00 GMT"
@@ -264,10 +248,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "How Artificial Intelligence Can Analyze Market Sentiment to Decrypt Public Opinion - Insider Monkey",
-      "pubDate": "Sat, 14 Jun 2025 12:44:15 GMT"
-    },
     {
       "title": "Artificial intelligence consumes massive amounts of energy. Here's why - Le Monde.fr",
       "pubDate": "Sat, 14 Jun 2025 18:30:05 GMT"
@@ -425,10 +405,6 @@
   ],
   "china": [
     {
-      "title": "China expresses backing for Tehran, opposition to Israeli strikes in separate calls with Araghchi, Sa'ar - The Times of Israel",
-      "pubDate": "Sat, 14 Jun 2025 16:04:17 GMT"
-    },
-    {
       "title": "Why Chinese firms building foreign factories are no longer focused on US market - South China Morning Post",
       "pubDate": "Sun, 15 Jun 2025 03:00:11 GMT"
     },
@@ -524,14 +500,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "Map Shows US States With Best\u2014And Worst\u2014Economies - Newsweek",
-      "pubDate": "Sat, 14 Jun 2025 09:00:01 GMT"
-    },
-    {
-      "title": "Rising Unemployment May Be Warning Sign for the U.S. Economy - La Voce di New York",
-      "pubDate": "Sat, 14 Jun 2025 11:29:05 GMT"
-    },
     {
       "title": "Making America Backward Again - Rolling Stone",
       "pubDate": "Sun, 15 Jun 2025 09:01:35 GMT"
@@ -1397,6 +1365,10 @@
     {
       "title": "Russia Makes 'Unprecedented' Censorship Admission - Newsweek",
       "pubDate": "Fri, 11 Jul 2025 07:44:47 GMT"
+    },
+    {
+      "title": "Trump threatens 'very severe' tariffs against Russia if no Ukraine deal within 50 days - BBC",
+      "pubDate": "Mon, 14 Jul 2025 15:50:17 GMT"
     }
   ],
   "Donald Trump": [
@@ -2119,6 +2091,10 @@
     {
       "title": "Hundreds Of Earthquakes Detected At Mount Rainier In US, Officials Assess Potential Risks - NDTV",
       "pubDate": "Thu, 10 Jul 2025 18:55:04 GMT"
+    },
+    {
+      "title": "Magnitude 6.8 earthquake hits Indonesia\u2019s Tanimbar Islands region - The Independent",
+      "pubDate": "Mon, 14 Jul 2025 11:34:00 GMT"
     }
   ],
   "Quantum Computer": [
@@ -2349,6 +2325,10 @@
     {
       "title": "Bitcoin hits new all-time high above $119K as trader eyes 7-week uptrend - Cointelegraph",
       "pubDate": "Sun, 13 Jul 2025 15:32:57 GMT"
+    },
+    {
+      "title": "Bitcoin Price Soars Past $120,000 at Outset of House\u2019s \u2018Crypto Week\u2019 - The New York Times",
+      "pubDate": "Mon, 14 Jul 2025 13:44:24 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2939,6 +2919,10 @@
     {
       "title": "France is investigating X over algorithm enabling \u2018foreign interference\u2019 - Semafor",
       "pubDate": "Fri, 11 Jul 2025 16:01:00 GMT"
+    },
+    {
+      "title": "Elon Musk's X Under Criminal Probe In France For Alleged Algorithm Manipulation And Hate Speech - Benzinga",
+      "pubDate": "Mon, 14 Jul 2025 07:22:16 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -2977,6 +2961,18 @@
     {
       "title": "Mysterious Blobs Deep Inside Earth May Fuel Deadly Volcanic Eruptions - ScienceAlert",
       "pubDate": "Mon, 14 Jul 2025 04:49:01 GMT"
+    }
+  ],
+  "Defense Intelligence Agency": [
+    {
+      "title": "Trump accuses Democrats of leaking intel assessment of Iran strikes: \u2018They should be prosecuted!\u2019 - AOL.com",
+      "pubDate": "Mon, 14 Jul 2025 14:55:46 GMT"
+    }
+  ],
+  "Battery Technology": [
+    {
+      "title": "GM to produce lower-cost battery cells at Tennessee plant - Reuters",
+      "pubDate": "Mon, 14 Jul 2025 15:05:17 GMT"
     }
   ]
 }
