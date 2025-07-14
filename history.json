@@ -249,10 +249,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Artificial intelligence consumes massive amounts of energy. Here's why - Le Monde.fr",
-      "pubDate": "Sat, 14 Jun 2025 18:30:05 GMT"
-    },
-    {
       "title": "Meet Goku, the Chinese quant fund with AI ambitions beyond finance - South China Morning Post",
       "pubDate": "Sun, 15 Jun 2025 01:00:18 GMT"
     },
@@ -597,14 +593,6 @@
   ],
   "us_politics": [
     {
-      "title": "Texas Lawmakers Warned of 'Credible Threat' After Minnesota Assassination - Newsweek",
-      "pubDate": "Sat, 14 Jun 2025 19:29:59 GMT"
-    },
-    {
-      "title": "Minnesota: US politician shot dead and another wounded - as suspect named - Sky News",
-      "pubDate": "Sat, 14 Jun 2025 17:15:00 GMT"
-    },
-    {
       "title": "Like School Shootings, Political Violence Is Becoming Almost Routine - The New York Times",
       "pubDate": "Sun, 15 Jun 2025 00:40:56 GMT"
     },
@@ -724,10 +712,6 @@
     }
   ],
   "Artificial Intelligence": [
-    {
-      "title": "OpenAI turns to Google's AI chips to power its products, source says - Reuters",
-      "pubDate": "Fri, 27 Jun 2025 22:15:13 GMT"
-    },
     {
       "title": "Scientists develop extremely thin material that could usher in next-gen fuel source: 'Taking into account the global challenges' - The Cool Down",
       "pubDate": "Sat, 28 Jun 2025 04:30:00 GMT"
@@ -883,6 +867,10 @@
     {
       "title": "Nvidia Just Became the World's First $4 Trillion Stock. This Artificial Intelligence (AI) Giant -- Which Is up 686,000% Since Its IPO -- Might Be Next. - Yahoo",
       "pubDate": "Mon, 14 Jul 2025 01:30:00 GMT"
+    },
+    {
+      "title": "Meta\u2019s New Superintelligence Lab Is Discussing Major A.I. Strategy Changes - The New York Times",
+      "pubDate": "Mon, 14 Jul 2025 18:28:20 GMT"
     }
   ],
   "US Politics": [
@@ -1165,10 +1153,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine asks allies to allocate 0.25% of GDP to boost its weapon production - Reuters",
-      "pubDate": "Sat, 21 Jun 2025 12:44:20 GMT"
-    },
-    {
       "title": "One million and counting: Russian casualties hit milestone in Ukraine war - The Guardian",
       "pubDate": "Sun, 22 Jun 2025 05:01:00 GMT"
     },
@@ -1323,6 +1307,10 @@
     {
       "title": "A Never-Ending Supply of Drones Has Frozen the Front Lines in Ukraine - The Wall Street Journal",
       "pubDate": "Sun, 13 Jul 2025 04:04:00 GMT"
+    },
+    {
+      "title": "Trump sending weapons to Ukraine, threatens 'severe tariffs' against Russia if ceasefire deal not reached in 50 days - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Mon, 14 Jul 2025 13:38:31 GMT"
     }
   ],
   "Russia": [
@@ -1759,6 +1747,10 @@
     {
       "title": "China says it will retaliate on unfavorable deals after Trump warns Asia of higher tariffs - NBC News",
       "pubDate": "Tue, 08 Jul 2025 11:14:09 GMT"
+    },
+    {
+      "title": "China gives conditional nod to Synopsys-Ansys deal, removing last major hurdle - Reuters",
+      "pubDate": "Mon, 14 Jul 2025 13:38:39 GMT"
     }
   ],
   "AI Safety": [
@@ -2823,6 +2815,10 @@
     {
       "title": "Israel bombs Gaza market, water point, as total death toll passes 58,000 - Al Jazeera",
       "pubDate": "Mon, 14 Jul 2025 01:10:44 GMT"
+    },
+    {
+      "title": "Israel killing Gaza civilians with commercial drones, probe finds - Al Jazeera",
+      "pubDate": "Mon, 14 Jul 2025 10:15:26 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2973,6 +2969,12 @@
     {
       "title": "GM to produce lower-cost battery cells at Tennessee plant - Reuters",
       "pubDate": "Mon, 14 Jul 2025 15:05:17 GMT"
+    }
+  ],
+  "Electric Vehicle": [
+    {
+      "title": "GM Presses Ahead With New Battery Investment as EV Market Slumps - Bloomberg.com",
+      "pubDate": "Mon, 14 Jul 2025 15:00:01 GMT"
     }
   ]
 }
