@@ -265,10 +265,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "TotalEnergies to Collaborate with Mistral AI to Increase the Application of Artificial Intelligence in its Multi-Energy Strategy - TotalEnergies.com",
-      "pubDate": "Sat, 14 Jun 2025 05:11:38 GMT"
-    },
-    {
       "title": "How Artificial Intelligence Can Analyze Market Sentiment to Decrypt Public Opinion - Insider Monkey",
       "pubDate": "Sat, 14 Jun 2025 12:44:15 GMT"
     },
@@ -400,10 +396,6 @@
     }
   ],
   "us_foreign_policy": [
-    {
-      "title": "Security for Resources: A New Era in Foreign Policy and Critical Mineral Diplomacy - Modern Diplomacy",
-      "pubDate": "Sat, 14 Jun 2025 04:00:07 GMT"
-    },
     {
       "title": "\u2018Not our war\u2019: bipartisan US lawmakers back resolution to block involvement in Iran - The Guardian",
       "pubDate": "Tue, 17 Jun 2025 18:59:00 GMT"
@@ -636,10 +628,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "How boredom gave us chaos - Financial Times",
-      "pubDate": "Sat, 14 Jun 2025 04:00:01 GMT"
-    },
     {
       "title": "Texas Lawmakers Warned of 'Credible Threat' After Minnesota Assassination - Newsweek",
       "pubDate": "Sat, 14 Jun 2025 19:29:59 GMT"
@@ -2109,6 +2097,10 @@
     {
       "title": "Vera Rubin Telescope Quickly Found 1,200 New Asteroids - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 15:30:07 GMT"
+    },
+    {
+      "title": "Scientists detect biggest ever merger of two massive black holes - The Guardian",
+      "pubDate": "Sun, 13 Jul 2025 23:01:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -2569,6 +2561,10 @@
     {
       "title": "Why Elon Musk may have reached the end of the road at Tesla - The Telegraph",
       "pubDate": "Sun, 13 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Elon Musk says Tesla shareholders will vote on investing in xAI - Business Insider",
+      "pubDate": "Mon, 14 Jul 2025 04:07:00 GMT"
     }
   ],
   "Mars": [
@@ -2843,6 +2839,10 @@
     {
       "title": "Gaza violence escalates with ceasefire talks on verge of collapse - NBC News",
       "pubDate": "Sun, 13 Jul 2025 22:54:30 GMT"
+    },
+    {
+      "title": "Israel bombs Gaza market, water point, as total death toll passes 58,000 - Al Jazeera",
+      "pubDate": "Mon, 14 Jul 2025 01:10:44 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2971,6 +2971,12 @@
     {
       "title": "A crack detection and quantification method using matched filter and photograph reconstruction - Nature",
       "pubDate": "Sat, 12 Jul 2025 17:50:54 GMT"
+    }
+  ],
+  "Earth": [
+    {
+      "title": "Mysterious Blobs Deep Inside Earth May Fuel Deadly Volcanic Eruptions - ScienceAlert",
+      "pubDate": "Mon, 14 Jul 2025 04:49:01 GMT"
     }
   ]
 }
