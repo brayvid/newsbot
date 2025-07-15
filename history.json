@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "D.C. onlookers line streets for Trump military parade; 'No Kings' protests unfold nationwide - NBC News",
-      "pubDate": "Sun, 15 Jun 2025 04:46:00 GMT"
-    },
-    {
       "title": "Poll: Americans disapprove of Trump's performance, as Republicans manage splits over spending plans - NBC News",
       "pubDate": "Sun, 15 Jun 2025 13:00:00 GMT"
     },
@@ -104,10 +100,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Economist's View: Hard data versus soft and what to watch going forward - Pittsburgh Post-Gazette",
-      "pubDate": "Sun, 15 Jun 2025 09:00:00 GMT"
-    },
     {
       "title": "MOScout Sunday6: Partisan Views of Discrimination - Stable Americans - Slow Down, but no Recession and more\u2026 - Missouri Scout",
       "pubDate": "Sun, 15 Jun 2025 11:53:50 GMT"
@@ -469,10 +461,6 @@
   ],
   "us_economy": [
     {
-      "title": "Making America Backward Again - Rolling Stone",
-      "pubDate": "Sun, 15 Jun 2025 09:01:35 GMT"
-    },
-    {
       "title": "Viewing China-US trade balance objectively reveals the path to win-win cooperation - Global Times",
       "pubDate": "Sun, 15 Jun 2025 12:48:00 GMT"
     },
@@ -681,10 +669,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "Scientists develop extremely thin material that could usher in next-gen fuel source: 'Taking into account the global challenges' - The Cool Down",
-      "pubDate": "Sat, 28 Jun 2025 04:30:00 GMT"
-    },
-    {
       "title": "These two game-changing breakthroughs advance us toward artificial general intelligence - Fast Company",
       "pubDate": "Sat, 28 Jun 2025 10:40:33 GMT"
     },
@@ -839,6 +823,10 @@
     {
       "title": "Meta\u2019s New Superintelligence Lab Is Discussing Major A.I. Strategy Changes - The New York Times",
       "pubDate": "Mon, 14 Jul 2025 18:28:20 GMT"
+    },
+    {
+      "title": "Nvidia Says U.S. Has Lifted Restrictions on A.I. Chip Sales to China - The New York Times",
+      "pubDate": "Tue, 15 Jul 2025 04:24:00 GMT"
     }
   ],
   "US Politics": [
@@ -1121,10 +1109,6 @@
   ],
   "Ukraine": [
     {
-      "title": "One million and counting: Russian casualties hit milestone in Ukraine war - The Guardian",
-      "pubDate": "Sun, 22 Jun 2025 05:01:00 GMT"
-    },
-    {
       "title": "More than 350 Russian drones, missiles blast Kyiv killing at least five - France 24",
       "pubDate": "Mon, 23 Jun 2025 03:26:56 GMT"
     },
@@ -1279,6 +1263,10 @@
     {
       "title": "Trump sending weapons to Ukraine, threatens 'severe tariffs' against Russia if ceasefire deal not reached in 50 days - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 14 Jul 2025 13:38:31 GMT"
+    },
+    {
+      "title": "Trump announces novel plan to send weapons to Ukraine and gives Russia new deadline to make peace - CNN",
+      "pubDate": "Tue, 15 Jul 2025 08:27:00 GMT"
     }
   ],
   "Russia": [
@@ -1719,6 +1707,10 @@
     {
       "title": "China gives conditional nod to Synopsys-Ansys deal, removing last major hurdle - Reuters",
       "pubDate": "Mon, 14 Jul 2025 13:38:39 GMT"
+    },
+    {
+      "title": "China posts better-than-expected Q2 growth in face of Trump tariffs - CNN",
+      "pubDate": "Tue, 15 Jul 2025 07:50:00 GMT"
     }
   ],
   "AI Safety": [
@@ -2649,6 +2641,10 @@
     {
       "title": "Solar power might be our best chance at avoiding climate calamity - marketplace.org",
       "pubDate": "Fri, 11 Jul 2025 20:30:00 GMT"
+    },
+    {
+      "title": "California reaches new record clean energy milestone - The Mercury News",
+      "pubDate": "Tue, 15 Jul 2025 05:10:39 GMT"
     }
   ],
   "Cosmology": [
@@ -2807,6 +2803,10 @@
     {
       "title": "Dozens dead as Israel pounds Gaza Strip with air strikes - Al Jazeera",
       "pubDate": "Mon, 14 Jul 2025 19:47:02 GMT"
+    },
+    {
+      "title": "EU foreign ministers set to weigh sanctions against Israel over Gaza war - The Times of Israel",
+      "pubDate": "Tue, 15 Jul 2025 05:54:51 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2843,6 +2843,10 @@
     {
       "title": "Microsoft and OpenAI's AGI Fight Is Bigger Than a Contract - WIRED",
       "pubDate": "Fri, 11 Jul 2025 12:11:00 GMT"
+    },
+    {
+      "title": "Concerns That AGI And AI Superintelligence Might Be Dangerously Deeply Loyal To Their AI Maker - Forbes",
+      "pubDate": "Tue, 15 Jul 2025 07:15:00 GMT"
     }
   ],
   "American Civil Liberties Union": [
