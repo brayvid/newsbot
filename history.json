@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Anti-Trump protests held across US as president attends military parade - CNN",
-      "pubDate": "Sun, 15 Jun 2025 03:20:00 GMT"
-    },
-    {
       "title": "D.C. onlookers line streets for Trump military parade; 'No Kings' protests unfold nationwide - NBC News",
       "pubDate": "Sun, 15 Jun 2025 04:46:00 GMT"
     },
@@ -199,10 +195,6 @@
   ],
   "russia": [
     {
-      "title": "Russia is shifting tactics again, assaulting Ukrainian cities with swarms of killer drones - CNN",
-      "pubDate": "Sun, 15 Jun 2025 04:01:00 GMT"
-    },
-    {
       "title": "Russian strike hit Boeing office in Kyiv in deliberate attack on US business, FT reports - The Kyiv Independent",
       "pubDate": "Sun, 15 Jun 2025 14:16:23 GMT"
     },
@@ -248,10 +240,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Meet Goku, the Chinese quant fund with AI ambitions beyond finance - South China Morning Post",
-      "pubDate": "Sun, 15 Jun 2025 01:00:18 GMT"
-    },
     {
       "title": "AI and future of jobs: Here\u2019s what top tech CEOs Sam Altman, Jensen Huang are saying - The Indian Express",
       "pubDate": "Sun, 15 Jun 2025 15:14:00 GMT"
@@ -351,10 +339,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Household loans continue to increase in June on heated housing, stock markets - Yonhap News Agency",
-      "pubDate": "Sun, 15 Jun 2025 02:07:43 GMT"
-    },
-    {
       "title": "Financial Markets Daily Report 17 June 2025 - caixabankresearch.com",
       "pubDate": "Tue, 17 Jun 2025 07:10:21 GMT"
     },
@@ -400,18 +384,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Why Chinese firms building foreign factories are no longer focused on US market - South China Morning Post",
-      "pubDate": "Sun, 15 Jun 2025 03:00:11 GMT"
-    },
-    {
-      "title": "Taiwan adds China's Huawei, SMIC to export control list - Reuters",
-      "pubDate": "Sun, 15 Jun 2025 03:43:00 GMT"
-    },
-    {
-      "title": "Corporate bond defaults disappear from China\u2019s onshore market - Financial Times",
-      "pubDate": "Sun, 15 Jun 2025 04:01:07 GMT"
-    },
     {
       "title": "Exclusive: US-China trade truce leaves military-use rare earth issue unresolved, sources say - Reuters",
       "pubDate": "Sun, 15 Jun 2025 22:59:51 GMT"
@@ -592,10 +564,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Like School Shootings, Political Violence Is Becoming Almost Routine - The New York Times",
-      "pubDate": "Sun, 15 Jun 2025 00:40:56 GMT"
-    },
     {
       "title": "Poll: Neither political party gets good marks on honesty - NBC News",
       "pubDate": "Sun, 15 Jun 2025 13:00:41 GMT"
@@ -1361,10 +1329,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump pushes for passage of his massive tax and immigration bill - The Washington Post",
-      "pubDate": "Fri, 27 Jun 2025 03:00:00 GMT"
-    },
-    {
       "title": "Trump threatens CNN and New York Times with lawsuits over Iran reports - CNN",
       "pubDate": "Fri, 27 Jun 2025 01:33:00 GMT"
     },
@@ -1519,6 +1483,10 @@
     {
       "title": "Secret Service\u2019s \u2018cascade of failures\u2019 allowed Trump assassination attempt, report says - The Guardian",
       "pubDate": "Sun, 13 Jul 2025 20:16:00 GMT"
+    },
+    {
+      "title": "Trump threatens 100% secondary tariffs on Russia; Supreme Court allows mass layoffs at Education Department - NBC News",
+      "pubDate": "Tue, 15 Jul 2025 01:58:00 GMT"
     }
   ],
   "World News": [
@@ -1843,6 +1811,10 @@
     {
       "title": "Qantas says cyberattack affected 5.7 million customers - Cybersecurity Dive",
       "pubDate": "Wed, 09 Jul 2025 15:07:10 GMT"
+    },
+    {
+      "title": "5.4 million hit in major healthcare data breach \u2014 names, emails, SSNs and more exposed - Tom's Guide",
+      "pubDate": "Mon, 14 Jul 2025 21:57:23 GMT"
     }
   ],
   "Cybersecurity": [
@@ -2321,6 +2293,10 @@
     {
       "title": "Bitcoin Price Soars Past $120,000 at Outset of House\u2019s \u2018Crypto Week\u2019 - The New York Times",
       "pubDate": "Mon, 14 Jul 2025 13:44:24 GMT"
+    },
+    {
+      "title": "Bitcoin hits new record above $123,000 as 'Crypto Week' kicks off on Capitol Hill: CNBC Crypto World - CNBC",
+      "pubDate": "Mon, 14 Jul 2025 19:06:00 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2381,6 +2357,10 @@
     {
       "title": "Nvidia CEO to hold media briefing in Beijing on July 16 - Reuters",
       "pubDate": "Sun, 13 Jul 2025 11:11:49 GMT"
+    },
+    {
+      "title": "Nvidia says U.S. government will allow it to resume H20 AI chip sales to China - CNBC",
+      "pubDate": "Tue, 15 Jul 2025 02:28:00 GMT"
     }
   ],
   "Technology": [
@@ -2643,6 +2623,10 @@
     {
       "title": "House nears finish line on health cuts - The Hill",
       "pubDate": "Wed, 02 Jul 2025 23:01:00 GMT"
+    },
+    {
+      "title": "HHS carries out mass firings across health agencies after Supreme Court decision - CNN",
+      "pubDate": "Tue, 15 Jul 2025 00:33:00 GMT"
     }
   ],
   "Large Language Model": [
@@ -2819,6 +2803,10 @@
     {
       "title": "Israel killing Gaza civilians with commercial drones, probe finds - Al Jazeera",
       "pubDate": "Mon, 14 Jul 2025 10:15:26 GMT"
+    },
+    {
+      "title": "Dozens dead as Israel pounds Gaza Strip with air strikes - Al Jazeera",
+      "pubDate": "Mon, 14 Jul 2025 19:47:02 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2975,6 +2963,12 @@
     {
       "title": "GM Presses Ahead With New Battery Investment as EV Market Slumps - Bloomberg.com",
       "pubDate": "Mon, 14 Jul 2025 15:00:01 GMT"
+    }
+  ],
+  "Hacking": [
+    {
+      "title": "Elmo\u2019s X account posts racist and antisemitic messages after being hacked - The Guardian",
+      "pubDate": "Mon, 14 Jul 2025 17:47:00 GMT"
     }
   ]
 }
