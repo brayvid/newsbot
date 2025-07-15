@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Poll: Americans disapprove of Trump's performance, as Republicans manage splits over spending plans - NBC News",
-      "pubDate": "Sun, 15 Jun 2025 13:00:00 GMT"
-    },
-    {
-      "title": "Trump coveted a military spectacle but his parade proved underwhelming: \u2018Just kind of lame\u2019 - The Guardian",
-      "pubDate": "Sun, 15 Jun 2025 14:44:00 GMT"
-    },
-    {
       "title": "Trump administration weighs adding 36 countries to travel ban, memo says - Reuters",
       "pubDate": "Sun, 15 Jun 2025 21:00:47 GMT"
     },
@@ -93,17 +85,7 @@
       "pubDate": "Sat, 21 Jun 2025 11:00:00 GMT"
     }
   ],
-  "ukraine": [
-    {
-      "title": "Ukraine drone attack on Russia\u2019s Tatarstan region leaves at least 1 dead, 13 injured - The Washington Post",
-      "pubDate": "Sun, 15 Jun 2025 15:37:13 GMT"
-    }
-  ],
   "recession": [
-    {
-      "title": "MOScout Sunday6: Partisan Views of Discrimination - Stable Americans - Slow Down, but no Recession and more\u2026 - Missouri Scout",
-      "pubDate": "Sun, 15 Jun 2025 11:53:50 GMT"
-    },
     {
       "title": "Ex-Fed Adviser Flags Israel-Iran Tensions As \u2018Wild Card,\u2019 Says Recession Odds Ticking Up - MSN",
       "pubDate": "Mon, 16 Jun 2025 05:49:57 GMT"
@@ -187,10 +169,6 @@
   ],
   "russia": [
     {
-      "title": "Russian strike hit Boeing office in Kyiv in deliberate attack on US business, FT reports - The Kyiv Independent",
-      "pubDate": "Sun, 15 Jun 2025 14:16:23 GMT"
-    },
-    {
       "title": "G7 needs to raise pressure on Russia, von der Leyen says - Reuters",
       "pubDate": "Mon, 16 Jun 2025 02:54:25 GMT"
     },
@@ -232,14 +210,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "AI and future of jobs: Here\u2019s what top tech CEOs Sam Altman, Jensen Huang are saying - The Indian Express",
-      "pubDate": "Sun, 15 Jun 2025 15:14:00 GMT"
-    },
-    {
-      "title": "\"Summoning the demon\": Steve Bannon stokes fear of an AI \"apocalypse\" - Salon.com",
-      "pubDate": "Sun, 15 Jun 2025 09:45:00 GMT"
-    },
     {
       "title": "EU\u2019s waffle on artificial intelligence law creates huge headache - politico.eu",
       "pubDate": "Mon, 16 Jun 2025 02:34:46 GMT"
@@ -461,10 +431,6 @@
   ],
   "us_economy": [
     {
-      "title": "Viewing China-US trade balance objectively reveals the path to win-win cooperation - Global Times",
-      "pubDate": "Sun, 15 Jun 2025 12:48:00 GMT"
-    },
-    {
       "title": "U.S. could lose more immigrants than it gains for first time in 50 years - The Washington Post",
       "pubDate": "Sun, 15 Jun 2025 23:51:57 GMT"
     },
@@ -552,10 +518,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Poll: Neither political party gets good marks on honesty - NBC News",
-      "pubDate": "Sun, 15 Jun 2025 13:00:41 GMT"
-    },
     {
       "title": "Gathering stormclouds can\u2019t wipe smile from Trump\u2019s face as long-held dream of military parade is realised - The Guardian",
       "pubDate": "Sun, 15 Jun 2025 18:46:00 GMT"
@@ -1109,10 +1071,6 @@
   ],
   "Ukraine": [
     {
-      "title": "More than 350 Russian drones, missiles blast Kyiv killing at least five - France 24",
-      "pubDate": "Mon, 23 Jun 2025 03:26:56 GMT"
-    },
-    {
       "title": "Russia strikes Kyiv with North Korean missiles and Iranian drones: Zelensky - NK News",
       "pubDate": "Tue, 24 Jun 2025 05:04:10 GMT"
     },
@@ -1267,6 +1225,10 @@
     {
       "title": "Trump announces novel plan to send weapons to Ukraine and gives Russia new deadline to make peace - CNN",
       "pubDate": "Tue, 15 Jul 2025 08:27:00 GMT"
+    },
+    {
+      "title": "Trump asked Zelenskiy if Ukraine could hit Moscow, FT reports - Reuters",
+      "pubDate": "Tue, 15 Jul 2025 09:57:31 GMT"
     }
   ],
   "Russia": [
@@ -1781,6 +1743,10 @@
     {
       "title": "OpenAI Delays Launch of Open-Weight AI Model Citing Safety Concerns - thedailyjagran.com",
       "pubDate": "Sat, 12 Jul 2025 17:22:00 GMT"
+    },
+    {
+      "title": "Pentagon taps four commercial tech firms to expand military use of AI - Defense News",
+      "pubDate": "Tue, 15 Jul 2025 15:20:28 GMT"
     }
   ],
   "Data Breach": [
@@ -2013,6 +1979,10 @@
     {
       "title": "Scientists Discover Arctic Lifeline for Atlantic Ocean Circulation - The Daily Galaxy",
       "pubDate": "Sat, 12 Jul 2025 16:00:00 GMT"
+    },
+    {
+      "title": "Melting Arctic ice bolstering North Atlantic Ocean currents, for now - Phys.org",
+      "pubDate": "Tue, 15 Jul 2025 10:40:02 GMT"
     }
   ],
   "Business": [
@@ -2353,6 +2323,10 @@
     {
       "title": "Nvidia says U.S. government will allow it to resume H20 AI chip sales to China - CNBC",
       "pubDate": "Tue, 15 Jul 2025 02:28:00 GMT"
+    },
+    {
+      "title": "Nvidia says it has Trump administration green light to sell China its advanced H20 computer chips used for AI - CBS News",
+      "pubDate": "Tue, 15 Jul 2025 11:55:34 GMT"
     }
   ],
   "Technology": [
@@ -2415,6 +2389,10 @@
     {
       "title": "World\u2019s premier cancer institute faces crippling cuts and chaos - CNN",
       "pubDate": "Tue, 08 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Blood tests promise to detect cancer early. How well do they work? - The Washington Post",
+      "pubDate": "Tue, 15 Jul 2025 15:02:24 GMT"
     }
   ],
   "Climate": [
@@ -2807,6 +2785,10 @@
     {
       "title": "EU foreign ministers set to weigh sanctions against Israel over Gaza war - The Times of Israel",
       "pubDate": "Tue, 15 Jul 2025 05:54:51 GMT"
+    },
+    {
+      "title": "LIVE: Israel kills dozens as it bombards Gaza, Lebanon and Syria - Al Jazeera",
+      "pubDate": "Tue, 15 Jul 2025 15:00:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2961,6 +2943,10 @@
     {
       "title": "GM to produce lower-cost battery cells at Tennessee plant - Reuters",
       "pubDate": "Mon, 14 Jul 2025 15:05:17 GMT"
+    },
+    {
+      "title": "China Adds Export Controls to Protect EV Battery Technology - The Wall Street Journal",
+      "pubDate": "Tue, 15 Jul 2025 14:37:00 GMT"
     }
   ],
   "Electric Vehicle": [
