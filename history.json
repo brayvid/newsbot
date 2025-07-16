@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump administration weighs adding 36 countries to travel ban, memo says - Reuters",
-      "pubDate": "Sun, 15 Jun 2025 21:00:47 GMT"
-    },
-    {
-      "title": "Trump orders ICE to ramp up deportations in Democratic stronghold cities - France 24",
-      "pubDate": "Mon, 16 Jun 2025 02:22:38 GMT"
-    },
-    {
       "title": "\u2018Extremely disturbing and unethical\u2019: new rules allow VA doctors to refuse to treat Democrats, unmarried veterans - The Guardian",
       "pubDate": "Mon, 16 Jun 2025 10:00:00 GMT"
     },
@@ -169,10 +161,6 @@
   ],
   "russia": [
     {
-      "title": "G7 needs to raise pressure on Russia, von der Leyen says - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 02:54:25 GMT"
-    },
-    {
       "title": "EU leaders call for tougher sanctions on Russia at G7 summit - The Kyiv Independent",
       "pubDate": "Mon, 16 Jun 2025 06:56:15 GMT"
     },
@@ -210,14 +198,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "EU\u2019s waffle on artificial intelligence law creates huge headache - politico.eu",
-      "pubDate": "Mon, 16 Jun 2025 02:34:46 GMT"
-    },
-    {
-      "title": "Workplace Artificial Intelligence Use Has Doubled in Two Years - Bloomberg Law News",
-      "pubDate": "Mon, 16 Jun 2025 04:01:00 GMT"
-    },
     {
       "title": "Alibaba launches new Qwen3 AI models for Apple's MLX architecture - Reuters",
       "pubDate": "Mon, 16 Jun 2025 14:36:15 GMT"
@@ -325,10 +305,6 @@
   ],
   "trade_war": [
     {
-      "title": "UK hoping for US tariff relief in days after deadline slips - politico.eu",
-      "pubDate": "Sun, 15 Jun 2025 20:38:51 GMT"
-    },
-    {
       "title": "Investor Steve Eisman says we are headed for a global recession if Trump's tariffs spark a trade war - CNBC",
       "pubDate": "Tue, 17 Jun 2025 12:58:48 GMT"
     },
@@ -346,14 +322,6 @@
     }
   ],
   "china": [
-    {
-      "title": "Exclusive: US-China trade truce leaves military-use rare earth issue unresolved, sources say - Reuters",
-      "pubDate": "Sun, 15 Jun 2025 22:59:51 GMT"
-    },
-    {
-      "title": "China's May factory output slows, retail sales surprisingly upbeat - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 02:08:35 GMT"
-    },
     {
       "title": "China\u2019s aircraft carriers send message in the open Pacific for the first time \u2013 and bigger and more powerful ships are coming - CNN",
       "pubDate": "Mon, 16 Jun 2025 10:00:00 GMT"
@@ -430,10 +398,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "U.S. could lose more immigrants than it gains for first time in 50 years - The Washington Post",
-      "pubDate": "Sun, 15 Jun 2025 23:51:57 GMT"
-    },
     {
       "title": "US Economy To Face 'Pretty Limited' Impact From Israel-Iran Airstrikes, With Only A 'Tiny Bit' Recession Risk, Say Economists - Benzinga",
       "pubDate": "Mon, 16 Jun 2025 08:32:41 GMT"
@@ -518,18 +482,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Gathering stormclouds can\u2019t wipe smile from Trump\u2019s face as long-held dream of military parade is realised - The Guardian",
-      "pubDate": "Sun, 15 Jun 2025 18:46:00 GMT"
-    },
-    {
-      "title": "Trump condemns Minnesota shootings but violence has long played a role in U.S. politics - The Globe and Mail",
-      "pubDate": "Sun, 15 Jun 2025 23:43:38 GMT"
-    },
-    {
-      "title": "Terrifying new Trump \u2018order\u2019 rocks US - News.com.au",
-      "pubDate": "Sun, 15 Jun 2025 21:00:00 GMT"
-    },
     {
       "title": "Trump to meet with Carney as G7 summit begins amid trade tensions and Iran-Israel crisis \u2013 US politics live - The Guardian",
       "pubDate": "Mon, 16 Jun 2025 08:07:00 GMT"
@@ -1071,10 +1023,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia strikes Kyiv with North Korean missiles and Iranian drones: Zelensky - NK News",
-      "pubDate": "Tue, 24 Jun 2025 05:04:10 GMT"
-    },
-    {
       "title": "Russian missile attack kills 17 as Zelenskiy presses NATO allies for support - Reuters",
       "pubDate": "Tue, 24 Jun 2025 16:14:16 GMT"
     },
@@ -1229,6 +1177,10 @@
     {
       "title": "Trump asked Zelenskiy if Ukraine could hit Moscow, FT reports - Reuters",
       "pubDate": "Tue, 15 Jul 2025 09:57:31 GMT"
+    },
+    {
+      "title": "Russia rejects Trump's demand for a Ukraine war ceasefire in 50 days as unacceptable - CBS News",
+      "pubDate": "Wed, 16 Jul 2025 00:22:36 GMT"
     }
   ],
   "Russia": [
@@ -1461,6 +1413,10 @@
     {
       "title": "US on 'high alert' for Iran retaliation, says nuke program 'obliterated': Live updates - USA Today",
       "pubDate": "Sun, 22 Jun 2025 14:37:30 GMT"
+    },
+    {
+      "title": "The top U.S. cybersecurity agency is shrinking quickly under Trump 2.0 - Axios",
+      "pubDate": "Tue, 15 Jul 2025 17:44:39 GMT"
     }
   ],
   "US Congress": [
@@ -1673,6 +1629,10 @@
     {
       "title": "China posts better-than-expected Q2 growth in face of Trump tariffs - CNN",
       "pubDate": "Tue, 15 Jul 2025 07:50:00 GMT"
+    },
+    {
+      "title": "Nvidia says Trump administration lifts ban on AI chip sales to China - The Washington Post",
+      "pubDate": "Wed, 16 Jul 2025 02:17:11 GMT"
     }
   ],
   "AI Safety": [
@@ -1951,6 +1911,10 @@
     {
       "title": "Trump announces 30% tariffs against EU, Mexico to begin Aug. 1, rattling major US trading partners - AP News",
       "pubDate": "Sat, 12 Jul 2025 21:13:00 GMT"
+    },
+    {
+      "title": "Trump announces trade agreement with Indonesia, including 19% tariff - CNN",
+      "pubDate": "Tue, 15 Jul 2025 18:51:00 GMT"
     }
   ],
   "Asteroids": [
@@ -2531,6 +2495,10 @@
     {
       "title": "Hospitals across nation brace for Medicaid cuts under \u2018big, beautiful\u2019 law - The Hill",
       "pubDate": "Sun, 13 Jul 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Federal health agency finalizes mass layoffs after Supreme Court lifts pause - USA Today",
+      "pubDate": "Tue, 15 Jul 2025 22:10:26 GMT"
     }
   ],
   "Fusion Power": [
@@ -2789,6 +2757,10 @@
     {
       "title": "LIVE: Israel kills dozens as it bombards Gaza, Lebanon and Syria - Al Jazeera",
       "pubDate": "Tue, 15 Jul 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Israeli attacks in Gaza kill at least 61 as UN warns of rising malnutrition - Al Jazeera",
+      "pubDate": "Tue, 15 Jul 2025 20:20:47 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2959,6 +2931,12 @@
     {
       "title": "Elmo\u2019s X account posts racist and antisemitic messages after being hacked - The Guardian",
       "pubDate": "Mon, 14 Jul 2025 17:47:00 GMT"
+    }
+  ],
+  "Environment": [
+    {
+      "title": "House Republicans pitch 23 percent cut to EPA - The Hill",
+      "pubDate": "Tue, 15 Jul 2025 18:10:00 GMT"
     }
   ]
 }
