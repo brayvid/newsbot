@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump Organization enters mobile phone business - BBC",
-      "pubDate": "Mon, 16 Jun 2025 20:10:33 GMT"
-    },
-    {
       "title": "Trump team proposes Iran talks this week on nuclear deal, ceasefire - Axios",
       "pubDate": "Tue, 17 Jun 2025 02:51:18 GMT"
     },
@@ -74,10 +70,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "\u2018Worse than a recession\u2019: Billionaire investor Ray Dalio sounds alarm on Trump\u2019s economic agenda - MSN",
-      "pubDate": "Mon, 16 Jun 2025 17:41:19 GMT"
-    },
     {
       "title": "'Devastated:' Cheap tacos, H-E-B products lamented as 'recession indicators' - MySA",
       "pubDate": "Tue, 17 Jun 2025 01:05:51 GMT"
@@ -163,10 +155,6 @@
   ],
   "inflation": [
     {
-      "title": "The economic outlook is back to square one, despite months of upheaval - Axios",
-      "pubDate": "Mon, 16 Jun 2025 16:20:55 GMT"
-    },
-    {
       "title": "Norwegian crown slides after surprise interest rate cut - Reuters",
       "pubDate": "Thu, 19 Jun 2025 08:11:03 GMT"
     }
@@ -178,10 +166,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "OpenAI CFO Says \u2018Secret\u2019 Device to Usher in New Computing Era - PYMNTS.com",
-      "pubDate": "Mon, 16 Jun 2025 18:44:58 GMT"
-    },
     {
       "title": "Artificial intelligence-derived retinal age gap as a marker for reproductive aging in women - Nature",
       "pubDate": "Mon, 16 Jun 2025 23:01:01 GMT"
@@ -363,14 +347,6 @@
   ],
   "us_economy": [
     {
-      "title": "Opinion | The worst thing Trump is doing to the economy isn\u2019t tariffs - The Washington Post",
-      "pubDate": "Mon, 16 Jun 2025 18:15:28 GMT"
-    },
-    {
-      "title": "Though Government Policy Makes Headlines, Real Economic Muscle Continues to Power Growth - ETF Database",
-      "pubDate": "Mon, 16 Jun 2025 17:40:07 GMT"
-    },
-    {
       "title": "US Fed Rate Decision: What to Expect on June 18 - Morningstar",
       "pubDate": "Tue, 17 Jun 2025 07:28:00 GMT"
     },
@@ -438,14 +414,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Senate to maintain cap on state tax deductions, imperilling Trump\u2019s bill - Financial Times",
-      "pubDate": "Mon, 16 Jun 2025 19:57:17 GMT"
-    },
-    {
-      "title": "Violence is coming to define American political life | Stephen Marche - The Guardian",
-      "pubDate": "Mon, 16 Jun 2025 16:48:00 GMT"
-    },
     {
       "title": "Trump\u2019s Cuts to N.I.H. Grants Focused on Minority Groups Are Illegal, Judge Rules - The New York Times",
       "pubDate": "Mon, 16 Jun 2025 22:25:21 GMT"
@@ -525,19 +493,11 @@
   ],
   "us_senate": [
     {
-      "title": "US senator introduces bill to curb Trump\u2019s power to go to war with Iran - Al Jazeera",
-      "pubDate": "Mon, 16 Jun 2025 16:35:58 GMT"
-    },
-    {
       "title": "Stablecoins' market cap surges to record high as US senate passes bill - Reuters",
       "pubDate": "Wed, 18 Jun 2025 20:37:02 GMT"
     }
   ],
   "Artificial Intelligence": [
-    {
-      "title": "Researchers alarmed as AI begins to lie, scheme and threaten - The News International",
-      "pubDate": "Sun, 29 Jun 2025 06:00:00 GMT"
-    },
     {
       "title": "OpenAI and Microsoft are dueling over AGI. These real-world tests will prove when AI is really better than humans. - Business Insider",
       "pubDate": "Sun, 29 Jun 2025 09:00:00 GMT"
@@ -693,6 +653,10 @@
     {
       "title": "WeTransfer says user content will not be used to train AI after backlash - The Guardian",
       "pubDate": "Wed, 16 Jul 2025 15:06:00 GMT"
+    },
+    {
+      "title": "Zuckerberg says Meta will build data center the size of Manhattan in latest AI push - The Guardian",
+      "pubDate": "Wed, 16 Jul 2025 18:07:00 GMT"
     }
   ],
   "US Politics": [
@@ -975,10 +939,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russian missile attack kills 17 as Zelenskiy presses NATO allies for support - Reuters",
-      "pubDate": "Tue, 24 Jun 2025 16:14:16 GMT"
-    },
-    {
       "title": "Russia and Ukraine trade long-range drone attacks as Putin says Moscow is ready for new peace talks - AP News",
       "pubDate": "Fri, 27 Jun 2025 18:08:00 GMT"
     },
@@ -1133,6 +1093,10 @@
     {
       "title": "Russia rejects Trump's demand for a Ukraine war ceasefire in 50 days as unacceptable - CBS News",
       "pubDate": "Wed, 16 Jul 2025 00:22:36 GMT"
+    },
+    {
+      "title": "Russia attacks Ukraine with hundreds of drones, energy infrastructure hit - Reuters",
+      "pubDate": "Wed, 16 Jul 2025 16:28:03 GMT"
     }
   ],
   "Russia": [
@@ -1589,6 +1553,10 @@
     {
       "title": "Nvidia says Trump administration lifts ban on AI chip sales to China - The Washington Post",
       "pubDate": "Wed, 16 Jul 2025 02:17:11 GMT"
+    },
+    {
+      "title": "China\u2019s cyber sector amplifies Beijing\u2019s hacking of U.S. targets - The Washington Post",
+      "pubDate": "Wed, 16 Jul 2025 19:00:50 GMT"
     }
   ],
   "AI Safety": [
@@ -1671,6 +1639,10 @@
     {
       "title": "Top tech companies are sounding another alarm on AI - Quartz",
       "pubDate": "Wed, 16 Jul 2025 14:52:07 GMT"
+    },
+    {
+      "title": "OpenAI and Anthropic researchers decry \u2018reckless\u2019 safety culture at Elon Musk\u2019s xAI - TechCrunch",
+      "pubDate": "Wed, 16 Jul 2025 18:11:20 GMT"
     }
   ],
   "Data Breach": [
@@ -2541,6 +2513,10 @@
     {
       "title": "Federal Reserve Watch: No Rate Change - Seeking Alpha",
       "pubDate": "Sat, 05 Jul 2025 07:19:00 GMT"
+    },
+    {
+      "title": "Trump Has Draft of Letter to Fire Fed Chair. He Asked Republicans if He Should Send It. - The New York Times",
+      "pubDate": "Wed, 16 Jul 2025 19:51:54 GMT"
     }
   ],
   "Alternative Energy": [
@@ -2739,6 +2715,10 @@
     {
       "title": "Millions in savers\u2019 cash goes missing after crypto company collapses - The Telegraph",
       "pubDate": "Sun, 13 Jul 2025 05:30:00 GMT"
+    },
+    {
+      "title": "House Passes Two Major Cryptocurrency Bills - AInvest",
+      "pubDate": "Wed, 16 Jul 2025 17:33:29 GMT"
     }
   ],
   "Science": [
@@ -2823,6 +2803,10 @@
     {
       "title": "Scientists transplant crossbred corals to help save Miami's reefs from climate change - Pittsburgh Post-Gazette",
       "pubDate": "Sun, 13 Jul 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Why flash floods like those in Texas and New York are becoming more common - Axios",
+      "pubDate": "Wed, 16 Jul 2025 18:40:25 GMT"
     }
   ],
   "Algorithms": [
