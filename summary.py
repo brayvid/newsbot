@@ -155,13 +155,30 @@ def format_history(data):
 # --- Gemini query ---
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
+
+# <<< MODIFICATION START: Replaced the old prompt with the enhanced, fact-checking prompt >>>
 question = (
-    "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing lately based on the attached headlines. Use simple language, cite figures, and be specific with people, places, things, etc. Do not use bullet points and do not use section headings or any markdown formatting. Use only complete sentences. State the timeframe being discussed. Don't state that it's a report, simply present the findings. At the end, in 50 words, using all available clues in the headlines, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications."
+    "Give a brief report with short paragraphs in roughly 100 words on how the world has been doing lately based on the attached headlines. "
+    "**Use Google Search to actively verify all information, such as names, places, figures, and event details to ensure the summary is factually accurate and grounded in real-world information, not just inferences from the headlines.** "
+    "Use simple language, cite figures, and be specific with people, places, things, etc. "
+    "Do not use bullet points and do not use section headings or any markdown formatting. Use only complete sentences. "
+    "State the timeframe being discussed. Don't state that it's a report, simply present the findings. "
+    "At the end, in 50 words, using all available clues in the headlines and your search findings, predict what should in all likelihood occur in the near future, and less likely but still entirely possible events, and give a sense of the ramifications."
 )
+# <<< MODIFICATION END >>>
+
 try:
-    logging.info("Sending prompt to Gemini...")
+    # <<< MODIFICATION START: Enabled grounding in the API call with the correct syntax >>>
+    logging.info("Sending prompt to Gemini with grounding enabled...")
     prompt = f"{question}\n\n{format_history(history_data_filtered)}"
-    result = model.generate_content(prompt)
+    
+    # Correctly create the grounding tool using the proper path
+    tools = [genai.types.Tool(google_search_retrieval={})]
+
+    # Pass the tool in the `tools` parameter
+    result = model.generate_content(prompt, tools=tools)
+    # <<< MODIFICATION END >>>
+
     answer = result.text.strip()
     logging.info("Gemini returned a response.")
 except Exception as e:
