@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "\u2018Extremely disturbing and unethical\u2019: new rules allow VA doctors to refuse to treat Democrats, unmarried veterans - The Guardian",
-      "pubDate": "Mon, 16 Jun 2025 10:00:00 GMT"
-    },
-    {
       "title": "Trump Organization enters mobile phone business - BBC",
       "pubDate": "Mon, 16 Jun 2025 20:10:33 GMT"
     },
@@ -78,10 +74,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Why Stock Investors Shouldn't Bet On A Recession - Seeking Alpha",
-      "pubDate": "Mon, 16 Jun 2025 14:06:00 GMT"
-    },
     {
       "title": "\u2018Worse than a recession\u2019: Billionaire investor Ray Dalio sounds alarm on Trump\u2019s economic agenda - MSN",
       "pubDate": "Mon, 16 Jun 2025 17:41:19 GMT"
@@ -157,10 +149,6 @@
   ],
   "russia": [
     {
-      "title": "The Kerch Bridge is \u2018doomed\u2019 - Al Jazeera",
-      "pubDate": "Mon, 16 Jun 2025 09:34:12 GMT"
-    },
-    {
       "title": "Russia's deadliest attack on Kyiv for months kills 15 and wounds dozens - BBC",
       "pubDate": "Tue, 17 Jun 2025 10:31:00 GMT"
     },
@@ -190,14 +178,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Alibaba launches new Qwen3 AI models for Apple's MLX architecture - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 14:36:15 GMT"
-    },
-    {
-      "title": "AI Stocks Face 'Show Me' Moment: Meta, Nvidia, CoreWeave Flex Muscles - Investor's Business Daily",
-      "pubDate": "Mon, 16 Jun 2025 11:25:00 GMT"
-    },
     {
       "title": "OpenAI CFO Says \u2018Secret\u2019 Device to Usher in New Computing Era - PYMNTS.com",
       "pubDate": "Mon, 16 Jun 2025 18:44:58 GMT"
@@ -315,14 +295,6 @@
   ],
   "china": [
     {
-      "title": "China\u2019s aircraft carriers send message in the open Pacific for the first time \u2013 and bigger and more powerful ships are coming - CNN",
-      "pubDate": "Mon, 16 Jun 2025 10:00:00 GMT"
-    },
-    {
-      "title": "US pharma bets big on China to snap up potential blockbuster drugs - Reuters",
-      "pubDate": "Mon, 16 Jun 2025 15:26:40 GMT"
-    },
-    {
       "title": "China's automakers aim for cars with 100% domestic chips from 2026 - Nikkei Asia",
       "pubDate": "Tue, 17 Jun 2025 02:00:00 GMT"
     },
@@ -390,10 +362,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "The Monthly Preview: Potential Impact of the Revenge Tax - Natixis CIB | Natixis Corporate & Investment Banking",
-      "pubDate": "Mon, 16 Jun 2025 15:25:57 GMT"
-    },
     {
       "title": "Opinion | The worst thing Trump is doing to the economy isn\u2019t tariffs - The Washington Post",
       "pubDate": "Mon, 16 Jun 2025 18:15:28 GMT"
@@ -567,10 +535,6 @@
   ],
   "Artificial Intelligence": [
     {
-      "title": "AI is learning to lie, scheme, and threaten its creators - The Straits Times",
-      "pubDate": "Sun, 29 Jun 2025 03:25:00 GMT"
-    },
-    {
       "title": "Researchers alarmed as AI begins to lie, scheme and threaten - The News International",
       "pubDate": "Sun, 29 Jun 2025 06:00:00 GMT"
     },
@@ -725,6 +689,10 @@
     {
       "title": "China Is Spending Billions to Become an A.I. Superpower - The New York Times",
       "pubDate": "Wed, 16 Jul 2025 04:00:06 GMT"
+    },
+    {
+      "title": "WeTransfer says user content will not be used to train AI after backlash - The Guardian",
+      "pubDate": "Wed, 16 Jul 2025 15:06:00 GMT"
     }
   ],
   "US Politics": [
@@ -1699,6 +1667,10 @@
     {
       "title": "AI Leaders Unite to Enhance Transparency in AI Models - AInvest",
       "pubDate": "Wed, 16 Jul 2025 07:27:33 GMT"
+    },
+    {
+      "title": "Top tech companies are sounding another alarm on AI - Quartz",
+      "pubDate": "Wed, 16 Jul 2025 14:52:07 GMT"
     }
   ],
   "Data Breach": [
@@ -2583,6 +2555,10 @@
     {
       "title": "California reaches new record clean energy milestone - The Mercury News",
       "pubDate": "Tue, 15 Jul 2025 05:10:39 GMT"
+    },
+    {
+      "title": "10 States Bracing for Trump's Energy Tax Shock (and How They Plan to Cope) - MSN",
+      "pubDate": "Wed, 16 Jul 2025 15:13:29 GMT"
     }
   ],
   "Cosmology": [
@@ -2779,6 +2755,10 @@
     {
       "title": "Meta Offered Apple AI Executive Over $200 Million to Leave - MacRumors",
       "pubDate": "Thu, 10 Jul 2025 04:20:47 GMT"
+    },
+    {
+      "title": "With all eyes on Apple\u2019s next earnings report, one research firm calls on Tim Cook to step aside - Fortune",
+      "pubDate": "Wed, 16 Jul 2025 14:37:00 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -2857,6 +2837,10 @@
     {
       "title": "Elon Musk's X Under Criminal Probe In France For Alleged Algorithm Manipulation And Hate Speech - Benzinga",
       "pubDate": "Mon, 14 Jul 2025 07:22:16 GMT"
+    },
+    {
+      "title": "DOJ Warns of Potential Antitrust Risks With Pricing Algorithms - Bloomberg Law News",
+      "pubDate": "Wed, 16 Jul 2025 08:30:00 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -2929,6 +2913,12 @@
     {
       "title": "House Republicans pitch 23 percent cut to EPA - The Hill",
       "pubDate": "Tue, 15 Jul 2025 18:10:00 GMT"
+    }
+  ],
+  "Animals": [
+    {
+      "title": "NIH under fire for funding dog tests despite vow to cut animal research - The Guardian",
+      "pubDate": "Wed, 16 Jul 2025 14:02:00 GMT"
     }
   ]
 }
