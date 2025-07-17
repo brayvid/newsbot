@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump team proposes Iran talks this week on nuclear deal, ceasefire - Axios",
-      "pubDate": "Tue, 17 Jun 2025 02:51:18 GMT"
-    },
-    {
       "title": "Israel-Iran live updates: Trump heads to Situation Room as Middle East tensions escalate, sources say - ABC News",
       "pubDate": "Tue, 17 Jun 2025 08:25:53 GMT"
     },
@@ -70,10 +66,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "'Devastated:' Cheap tacos, H-E-B products lamented as 'recession indicators' - MySA",
-      "pubDate": "Tue, 17 Jun 2025 01:05:51 GMT"
-    },
     {
       "title": "U.S. Treasury yields slide after retail sales tumbled in May, raising recession fear - CNBC",
       "pubDate": "Tue, 17 Jun 2025 08:13:21 GMT"
@@ -166,10 +158,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial intelligence-derived retinal age gap as a marker for reproductive aging in women - Nature",
-      "pubDate": "Mon, 16 Jun 2025 23:01:01 GMT"
-    },
     {
       "title": "Artificial intelligence may cause mass unemployment, says Geoffrey Hinton; 'Godfather of AI' reveals 'safe' jobs - Mint",
       "pubDate": "Tue, 17 Jun 2025 14:04:12 GMT"
@@ -278,10 +266,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China's automakers aim for cars with 100% domestic chips from 2026 - Nikkei Asia",
-      "pubDate": "Tue, 17 Jun 2025 02:00:00 GMT"
-    },
     {
       "title": "China stockpiling nuclear warheads at fastest rate globally, new research shows - The Guardian",
       "pubDate": "Tue, 17 Jun 2025 05:11:00 GMT"
@@ -415,10 +399,6 @@
   ],
   "us_politics": [
     {
-      "title": "Trump\u2019s Cuts to N.I.H. Grants Focused on Minority Groups Are Illegal, Judge Rules - The New York Times",
-      "pubDate": "Mon, 16 Jun 2025 22:25:21 GMT"
-    },
-    {
       "title": "Congress should be ashamed over helping Trump cut foreign aid, activists say - The Independent",
       "pubDate": "Tue, 17 Jun 2025 12:25:00 GMT"
     },
@@ -482,10 +462,6 @@
     }
   ],
   "israel": [
-    {
-      "title": "Live Updates: Israel Strikes State TV After Telling People to Evacuate Part of Tehran - The New York Times",
-      "pubDate": "Tue, 17 Jun 2025 00:41:00 GMT"
-    },
     {
       "title": "LIVE: Iran ready for nuclear talks when \u2018Israeli aggression stops\u2019 - Al Jazeera",
       "pubDate": "Fri, 20 Jun 2025 20:03:45 GMT"
@@ -939,10 +915,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia and Ukraine trade long-range drone attacks as Putin says Moscow is ready for new peace talks - AP News",
-      "pubDate": "Fri, 27 Jun 2025 18:08:00 GMT"
-    },
-    {
       "title": "Russian drone strike kills 2, wounds 14 in Ukraine's Odesa, authorities say - Reuters",
       "pubDate": "Sat, 28 Jun 2025 07:40:02 GMT"
     },
@@ -1097,6 +1069,10 @@
     {
       "title": "Russia attacks Ukraine with hundreds of drones, energy infrastructure hit - Reuters",
       "pubDate": "Wed, 16 Jul 2025 16:28:03 GMT"
+    },
+    {
+      "title": "Russia Launches Hundreds of Drones at Ukraine, Defying Trump\u2019s Peace Ultimatum - The Moscow Times",
+      "pubDate": "Wed, 16 Jul 2025 16:08:00 GMT"
     }
   ],
   "Russia": [
@@ -1150,10 +1126,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump threatens CNN and New York Times with lawsuits over Iran reports - CNN",
-      "pubDate": "Fri, 27 Jun 2025 01:33:00 GMT"
-    },
     {
       "title": "Supreme Court curbs injunctions that blocked Trump's birthright citizenship plan - NBC News",
       "pubDate": "Fri, 27 Jun 2025 14:13:49 GMT"
@@ -1309,6 +1281,10 @@
     {
       "title": "Trump threatens 100% secondary tariffs on Russia; Supreme Court allows mass layoffs at Education Department - NBC News",
       "pubDate": "Tue, 15 Jul 2025 01:58:00 GMT"
+    },
+    {
+      "title": "Trump says Coca-Cola will swap corn syrup for cane sugar in US - 'It's just better!' - BBC",
+      "pubDate": "Wed, 16 Jul 2025 23:05:05 GMT"
     }
   ],
   "World News": [
@@ -1643,6 +1619,10 @@
     {
       "title": "OpenAI and Anthropic researchers decry \u2018reckless\u2019 safety culture at Elon Musk\u2019s xAI - TechCrunch",
       "pubDate": "Wed, 16 Jul 2025 18:11:20 GMT"
+    },
+    {
+      "title": "California Lawmakers Beef Up AI Safety Bill Over Tech Opposition - Bloomberg Law News",
+      "pubDate": "Wed, 16 Jul 2025 19:21:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1921,6 +1901,10 @@
     {
       "title": "Magnitude 6.8 earthquake hits Indonesia\u2019s Tanimbar Islands region - The Independent",
       "pubDate": "Mon, 14 Jul 2025 11:34:00 GMT"
+    },
+    {
+      "title": "7.3 magnitude earthquake stirs tsunami warning along parts of Alaska\u2019s southern coast - PBS",
+      "pubDate": "Wed, 16 Jul 2025 21:58:36 GMT"
     }
   ],
   "Quantum Computer": [
@@ -2705,6 +2689,10 @@
     {
       "title": "Israeli attacks in Gaza kill at least 61 as UN warns of rising malnutrition - Al Jazeera",
       "pubDate": "Tue, 15 Jul 2025 20:20:47 GMT"
+    },
+    {
+      "title": "At Least 20 Killed in Stampede Outside a Gaza Food Site, Aid Group Says - The New York Times",
+      "pubDate": "Wed, 16 Jul 2025 22:33:46 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2903,6 +2891,18 @@
     {
       "title": "NIH under fire for funding dog tests despite vow to cut animal research - The Guardian",
       "pubDate": "Wed, 16 Jul 2025 14:02:00 GMT"
+    }
+  ],
+  "Mark Zuckerberg": [
+    {
+      "title": "Trial Opens Against Meta CEO Mark Zuckerberg And Other Leaders Over Facebook Privacy Violations - WBAP",
+      "pubDate": "Wed, 16 Jul 2025 21:20:44 GMT"
+    }
+  ],
+  "Volcanoes": [
+    {
+      "title": "Scientists Warn of Massive Eruption Threat as Mount Rainier and Pacific Volcanoes Stir - MSN",
+      "pubDate": "Thu, 17 Jul 2025 01:21:47 GMT"
     }
   ]
 }
