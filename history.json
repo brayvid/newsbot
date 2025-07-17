@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Israel and Iran strikes continue into fifth day as Trump demands \u2018complete give-up\u2019 by Tehran \u2013 latest updates - The Guardian",
-      "pubDate": "Tue, 17 Jun 2025 15:44:41 GMT"
-    },
-    {
       "title": "Live updates: Trump says the US knows where Iran's leader is hiding but won't kill him \u2014 'for now' - AP News",
       "pubDate": "Tue, 17 Jun 2025 20:48:00 GMT"
     },
@@ -125,10 +121,6 @@
   ],
   "russia": [
     {
-      "title": "Russia's deadliest attack on Kyiv for months kills 15 and wounds dozens - BBC",
-      "pubDate": "Tue, 17 Jun 2025 10:31:00 GMT"
-    },
-    {
       "title": "EU's top diplomat warns that Russia has a plan for long-term aggression against Europe - ABC News",
       "pubDate": "Wed, 18 Jun 2025 11:35:57 GMT"
     },
@@ -150,10 +142,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial intelligence may cause mass unemployment, says Geoffrey Hinton; 'Godfather of AI' reveals 'safe' jobs - Mint",
-      "pubDate": "Tue, 17 Jun 2025 14:04:12 GMT"
-    },
     {
       "title": "'Artificial intelligence is not a miracle cure': Nobel laureate raises questions about AI-generated image of black hole spinning at the heart of our galaxy - Live Science",
       "pubDate": "Tue, 17 Jun 2025 16:51:38 GMT"
@@ -237,10 +225,6 @@
   ],
   "trade_war": [
     {
-      "title": "Investor Steve Eisman says we are headed for a global recession if Trump's tariffs spark a trade war - CNBC",
-      "pubDate": "Tue, 17 Jun 2025 12:58:48 GMT"
-    },
-    {
       "title": "Trump's tariff war: Why Canada may be 'in the best position of any other country' - Yahoo",
       "pubDate": "Thu, 19 Jun 2025 11:00:54 GMT"
     },
@@ -254,10 +238,6 @@
     }
   ],
   "china": [
-    {
-      "title": "If Iran\u2019s Oil Is Cut Off, China Will Pay the Price - WSJ",
-      "pubDate": "Tue, 17 Jun 2025 09:30:00 GMT"
-    },
     {
       "title": "Partnership Short of Alliance: Military Cooperation Between Russia and China - Center for European Policy Analysis (CEPA)",
       "pubDate": "Wed, 18 Jun 2025 03:52:51 GMT"
@@ -315,14 +295,6 @@
   ],
   "us_economy": [
     {
-      "title": "Shoppers cut spending at U.S. retailers in May as trade wars drag on the economy - MarketWatch",
-      "pubDate": "Tue, 17 Jun 2025 12:40:00 GMT"
-    },
-    {
-      "title": "JPMorgan Chase CEO Jamie Dimon makes key observations on US Economy. What we know so far - financialexpress.com",
-      "pubDate": "Tue, 17 Jun 2025 15:31:32 GMT"
-    },
-    {
       "title": "McKinsey Chief Says Global Clients Are Rethinking US Market - Bloomberg.com",
       "pubDate": "Tue, 17 Jun 2025 20:33:16 GMT"
     },
@@ -378,10 +350,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Congress should be ashamed over helping Trump cut foreign aid, activists say - The Independent",
-      "pubDate": "Tue, 17 Jun 2025 12:25:00 GMT"
-    },
     {
       "title": "Obama Steps Back Into the Public Eye Amid Political and Global Unrest - The New York Times",
       "pubDate": "Tue, 17 Jun 2025 16:13:28 GMT"
@@ -739,6 +707,10 @@
     {
       "title": "AOC Calls Trump \u2018Rapist\u2019 in Brutal Epstein Files Crisis Dig - The Daily Beast",
       "pubDate": "Sat, 12 Jul 2025 06:49:00 GMT"
+    },
+    {
+      "title": "Senate Approves Trump\u2019s Bid to Cancel Foreign Aid and Funds for NPR and PBS Stations - The New York Times",
+      "pubDate": "Thu, 17 Jul 2025 14:29:55 GMT"
     }
   ],
   "Iran": [
@@ -895,10 +867,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russian drone strike kills 2, wounds 14 in Ukraine's Odesa, authorities say - Reuters",
-      "pubDate": "Sat, 28 Jun 2025 07:40:02 GMT"
-    },
-    {
       "title": "A Russian drone strike on Odesa kills a married couple and injures 17 people, Ukraine says - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 28 Jun 2025 11:42:02 GMT"
     },
@@ -1053,6 +1021,10 @@
     {
       "title": "Russia Launches Hundreds of Drones at Ukraine, Defying Trump\u2019s Peace Ultimatum - The Moscow Times",
       "pubDate": "Wed, 16 Jul 2025 16:08:00 GMT"
+    },
+    {
+      "title": "Russia must be ready to strike West if it escalates Ukraine war, Medvedev says - Reuters",
+      "pubDate": "Thu, 17 Jul 2025 11:32:51 GMT"
     }
   ],
   "Russia": [
@@ -1517,6 +1489,10 @@
     {
       "title": "China\u2019s cyber sector amplifies Beijing\u2019s hacking of U.S. targets - The Washington Post",
       "pubDate": "Wed, 16 Jul 2025 19:00:50 GMT"
+    },
+    {
+      "title": "Wells Fargo suspends China travel after employee exit ban, source says - Reuters",
+      "pubDate": "Thu, 17 Jul 2025 15:13:43 GMT"
     }
   ],
   "AI Safety": [
@@ -1611,6 +1587,10 @@
     {
       "title": "Top AI Firms Fall Short on Safety, New Studies Find - Time Magazine",
       "pubDate": "Thu, 17 Jul 2025 07:11:55 GMT"
+    },
+    {
+      "title": "AI firms \u2018unprepared\u2019 for dangers of building human-level systems, report warns - The Guardian",
+      "pubDate": "Thu, 17 Jul 2025 07:03:00 GMT"
     }
   ],
   "Data Breach": [
@@ -2269,6 +2249,10 @@
     {
       "title": "Blood tests promise to detect cancer early. How well do they work? - The Washington Post",
       "pubDate": "Tue, 15 Jul 2025 15:02:24 GMT"
+    },
+    {
+      "title": "The world is winning the war on cancer - The Economist",
+      "pubDate": "Thu, 17 Jul 2025 10:23:50 GMT"
     }
   ],
   "Climate": [
@@ -2581,6 +2565,10 @@
     {
       "title": "Scientists Just Simulated the \u201cImpossible\u201d in Quantum Computing - SciTechDaily",
       "pubDate": "Tue, 08 Jul 2025 04:07:22 GMT"
+    },
+    {
+      "title": "Scientists make 'magic state' breakthrough after 20 years \u2014 without it, quantum computers can never be truly useful - Live Science",
+      "pubDate": "Thu, 17 Jul 2025 15:00:00 GMT"
     }
   ],
   "Public Health": [
@@ -2689,6 +2677,10 @@
     {
       "title": "At least 19 Palestinians killed in stampede at Gaza food distribution site - CBS News",
       "pubDate": "Wed, 16 Jul 2025 23:02:00 GMT"
+    },
+    {
+      "title": "Israeli airstrikes continue in Gaza amid ceasefire talks with Hamas - CBS News",
+      "pubDate": "Thu, 17 Jul 2025 14:56:00 GMT"
     }
   ],
   "Cryptocurrency": [
