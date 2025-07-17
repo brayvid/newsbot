@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Israel-Iran live updates: Trump heads to Situation Room as Middle East tensions escalate, sources say - ABC News",
-      "pubDate": "Tue, 17 Jun 2025 08:25:53 GMT"
-    },
-    {
       "title": "Israel and Iran strikes continue into fifth day as Trump demands \u2018complete give-up\u2019 by Tehran \u2013 latest updates - The Guardian",
       "pubDate": "Tue, 17 Jun 2025 15:44:41 GMT"
     },
@@ -66,10 +62,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "U.S. Treasury yields slide after retail sales tumbled in May, raising recession fear - CNBC",
-      "pubDate": "Tue, 17 Jun 2025 08:13:21 GMT"
-    },
     {
       "title": "Expert dismisses recession fears: \u2018I don\u2019t see anything like that\u2019 - Fox Business",
       "pubDate": "Tue, 17 Jun 2025 16:36:53 GMT"
@@ -225,10 +217,6 @@
   ],
   "financial_markets": [
     {
-      "title": "Financial Markets Daily Report 17 June 2025 - caixabankresearch.com",
-      "pubDate": "Tue, 17 Jun 2025 07:10:21 GMT"
-    },
-    {
       "title": "The market's recovery to near-record high has been led by momentum stock 'freight train' - Yahoo Finance",
       "pubDate": "Tue, 17 Jun 2025 19:19:08 GMT"
     },
@@ -266,10 +254,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China stockpiling nuclear warheads at fastest rate globally, new research shows - The Guardian",
-      "pubDate": "Tue, 17 Jun 2025 05:11:00 GMT"
-    },
     {
       "title": "If Iran\u2019s Oil Is Cut Off, China Will Pay the Price - WSJ",
       "pubDate": "Tue, 17 Jun 2025 09:30:00 GMT"
@@ -330,10 +314,6 @@
     }
   ],
   "us_economy": [
-    {
-      "title": "US Fed Rate Decision: What to Expect on June 18 - Morningstar",
-      "pubDate": "Tue, 17 Jun 2025 07:28:00 GMT"
-    },
     {
       "title": "Shoppers cut spending at U.S. retailers in May as trade wars drag on the economy - MarketWatch",
       "pubDate": "Tue, 17 Jun 2025 12:40:00 GMT"
@@ -1127,10 +1107,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Supreme Court curbs injunctions that blocked Trump's birthright citizenship plan - NBC News",
-      "pubDate": "Fri, 27 Jun 2025 14:13:49 GMT"
-    },
-    {
       "title": "Supreme Court limits ability of judges to stop Trump - CNN",
       "pubDate": "Fri, 27 Jun 2025 19:42:00 GMT"
     },
@@ -1285,6 +1261,10 @@
     {
       "title": "Trump says Coca-Cola will swap corn syrup for cane sugar in US - 'It's just better!' - BBC",
       "pubDate": "Wed, 16 Jul 2025 23:05:05 GMT"
+    },
+    {
+      "title": "Trump Says Coca-Cola Agreed to Use Cane Sugar in Coke Made in U.S. - The New York Times",
+      "pubDate": "Thu, 17 Jul 2025 02:48:37 GMT"
     }
   ],
   "World News": [
@@ -1387,6 +1367,10 @@
     {
       "title": "That Drop in Consumer Income in May Was a False Recession Alarm - Wolf Street",
       "pubDate": "Sat, 28 Jun 2025 10:04:10 GMT"
+    },
+    {
+      "title": "Japan\u2019s exports fall for second straight month with no U.S. trade deal in sight, raising recession fears - CNBC",
+      "pubDate": "Wed, 16 Jul 2025 23:58:58 GMT"
     }
   ],
   "China": [
@@ -1623,6 +1607,10 @@
     {
       "title": "California Lawmakers Beef Up AI Safety Bill Over Tech Opposition - Bloomberg Law News",
       "pubDate": "Wed, 16 Jul 2025 19:21:00 GMT"
+    },
+    {
+      "title": "Top AI Firms Fall Short on Safety, New Studies Find - Time Magazine",
+      "pubDate": "Thu, 17 Jul 2025 07:11:55 GMT"
     }
   ],
   "Data Breach": [
@@ -1905,6 +1893,10 @@
     {
       "title": "7.3 magnitude earthquake stirs tsunami warning along parts of Alaska\u2019s southern coast - PBS",
       "pubDate": "Wed, 16 Jul 2025 21:58:36 GMT"
+    },
+    {
+      "title": "Magnitude 7.3 earthquake shakes Sand Point and triggers tsunami warning for Southwest Alaska - Alaska Public Media",
+      "pubDate": "Wed, 16 Jul 2025 21:25:00 GMT"
     }
   ],
   "Quantum Computer": [
@@ -2693,6 +2685,10 @@
     {
       "title": "At Least 20 Killed in Stampede Outside a Gaza Food Site, Aid Group Says - The New York Times",
       "pubDate": "Wed, 16 Jul 2025 22:33:46 GMT"
+    },
+    {
+      "title": "At least 19 Palestinians killed in stampede at Gaza food distribution site - CBS News",
+      "pubDate": "Wed, 16 Jul 2025 23:02:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2833,6 +2829,10 @@
     {
       "title": "Panasonic to delay production at Kansas battery plant as electric car sales decline, policies shift - KAKE",
       "pubDate": "Sat, 12 Jul 2025 21:51:05 GMT"
+    },
+    {
+      "title": "China puts new restrictions on EV battery technology in latest move to consolidate dominance - CNN",
+      "pubDate": "Thu, 17 Jul 2025 07:46:00 GMT"
     }
   ],
   "Natural History": [
@@ -2897,6 +2897,10 @@
     {
       "title": "Trial Opens Against Meta CEO Mark Zuckerberg And Other Leaders Over Facebook Privacy Violations - WBAP",
       "pubDate": "Wed, 16 Jul 2025 21:20:44 GMT"
+    },
+    {
+      "title": "Meta Shareholders Sue Mark Zuckerberg, Peter Thiel For $8 Billion Over Privacy Violations Linked To Cambridge Analytica Scandal - Benzinga",
+      "pubDate": "Thu, 17 Jul 2025 03:48:28 GMT"
     }
   ],
   "Volcanoes": [
