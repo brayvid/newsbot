@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Live updates: Trump says the US knows where Iran's leader is hiding but won't kill him \u2014 'for now' - AP News",
-      "pubDate": "Tue, 17 Jun 2025 20:48:00 GMT"
-    },
-    {
       "title": "LIVE: Israel-Iran attacks continue; Trump demands unconditional surrender - Al Jazeera",
       "pubDate": "Wed, 18 Jun 2025 07:22:28 GMT"
     },
@@ -58,10 +54,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Expert dismisses recession fears: \u2018I don\u2019t see anything like that\u2019 - Fox Business",
-      "pubDate": "Tue, 17 Jun 2025 16:36:53 GMT"
-    },
     {
       "title": "Japan\u2019s exports drop raises recession risks as U.S. tariffs bite - The Japan Times",
       "pubDate": "Wed, 18 Jun 2025 02:19:00 GMT"
@@ -143,10 +135,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "'Artificial intelligence is not a miracle cure': Nobel laureate raises questions about AI-generated image of black hole spinning at the heart of our galaxy - Live Science",
-      "pubDate": "Tue, 17 Jun 2025 16:51:38 GMT"
-    },
-    {
       "title": "Amazon CEO tells employees that AI will shrink its workforce - The Washington Post",
       "pubDate": "Wed, 18 Jun 2025 03:16:53 GMT"
     },
@@ -205,22 +193,12 @@
   ],
   "financial_markets": [
     {
-      "title": "The market's recovery to near-record high has been led by momentum stock 'freight train' - Yahoo Finance",
-      "pubDate": "Tue, 17 Jun 2025 19:19:08 GMT"
-    },
-    {
       "title": "Oil Prices Rally, Stock Futures Fall in Holiday-Thinned Trading - WSJ",
       "pubDate": "Thu, 19 Jun 2025 16:26:00 GMT"
     },
     {
       "title": "Patience is key in markets as global uncertainties test new investors: Raamdeo Agrawal - The Economic Times",
       "pubDate": "Sat, 21 Jun 2025 08:29:31 GMT"
-    }
-  ],
-  "us_foreign_policy": [
-    {
-      "title": "\u2018Not our war\u2019: bipartisan US lawmakers back resolution to block involvement in Iran - The Guardian",
-      "pubDate": "Tue, 17 Jun 2025 18:59:00 GMT"
     }
   ],
   "trade_war": [
@@ -295,10 +273,6 @@
   ],
   "us_economy": [
     {
-      "title": "McKinsey Chief Says Global Clients Are Rethinking US Market - Bloomberg.com",
-      "pubDate": "Tue, 17 Jun 2025 20:33:16 GMT"
-    },
-    {
       "title": "Stalsworth: US economy better under Democrat control - Seguin Gazette",
       "pubDate": "Tue, 17 Jun 2025 22:30:00 GMT"
     },
@@ -350,10 +324,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Obama Steps Back Into the Public Eye Amid Political and Global Unrest - The New York Times",
-      "pubDate": "Tue, 17 Jun 2025 16:13:28 GMT"
-    },
     {
       "title": "The US may be headed into another Middle East war \u2013 and no one is talking about how it ends - CNN",
       "pubDate": "Wed, 18 Jun 2025 04:00:00 GMT"
@@ -867,10 +837,6 @@
   ],
   "Ukraine": [
     {
-      "title": "A Russian drone strike on Odesa kills a married couple and injures 17 people, Ukraine says - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Sat, 28 Jun 2025 11:42:02 GMT"
-    },
-    {
       "title": "Ukrainian drones strike missile, drone arsenal in Russia's Bryansk Oblast - The Kyiv Independent",
       "pubDate": "Sat, 28 Jun 2025 17:09:09 GMT"
     },
@@ -1025,6 +991,10 @@
     {
       "title": "Russia must be ready to strike West if it escalates Ukraine war, Medvedev says - Reuters",
       "pubDate": "Thu, 17 Jul 2025 11:32:51 GMT"
+    },
+    {
+      "title": "Russia tightens its stranglehold on Ukraine battlefield as Trump gifts Putin 50-day window - CNN",
+      "pubDate": "Thu, 17 Jul 2025 19:05:00 GMT"
     }
   ],
   "Russia": [
@@ -1493,6 +1463,10 @@
     {
       "title": "Wells Fargo suspends China travel after employee exit ban, source says - Reuters",
       "pubDate": "Thu, 17 Jul 2025 15:13:43 GMT"
+    },
+    {
+      "title": "Exclusive | China Threatens to Block Panama Ports Deal Unless Its Shipping Giant Is Part of It - The Wall Street Journal",
+      "pubDate": "Thu, 17 Jul 2025 14:47:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1591,6 +1565,10 @@
     {
       "title": "AI firms \u2018unprepared\u2019 for dangers of building human-level systems, report warns - The Guardian",
       "pubDate": "Thu, 17 Jul 2025 07:03:00 GMT"
+    },
+    {
+      "title": "Researchers from OpenAI, Anthropic, Meta, and Google issue joint AI safety warning - here's why - ZDNET",
+      "pubDate": "Thu, 17 Jul 2025 14:15:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1847,6 +1825,10 @@
     {
       "title": "Scientists detect biggest ever merger of two massive black holes - The Guardian",
       "pubDate": "Sun, 13 Jul 2025 23:01:00 GMT"
+    },
+    {
+      "title": "Astronomers detect most massive black hole collision to date - CNN",
+      "pubDate": "Thu, 17 Jul 2025 15:00:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -2395,6 +2377,10 @@
     {
       "title": "Federal health agency finalizes mass layoffs after Supreme Court lifts pause - USA Today",
       "pubDate": "Tue, 15 Jul 2025 22:10:26 GMT"
+    },
+    {
+      "title": "Millions of Americans now face a devastating one-two punch on health care - Axios",
+      "pubDate": "Thu, 17 Jul 2025 10:48:19 GMT"
     }
   ],
   "Fusion Power": [
@@ -2681,6 +2667,10 @@
     {
       "title": "Israeli airstrikes continue in Gaza amid ceasefire talks with Hamas - CBS News",
       "pubDate": "Thu, 17 Jul 2025 14:56:00 GMT"
+    },
+    {
+      "title": "Israeli strikes kill 27 in Gaza, three die in church late pope often spoke to - Reuters",
+      "pubDate": "Thu, 17 Jul 2025 16:47:41 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2695,6 +2685,10 @@
     {
       "title": "House Passes Two Major Cryptocurrency Bills - AInvest",
       "pubDate": "Wed, 16 Jul 2025 17:33:29 GMT"
+    },
+    {
+      "title": "House sends bill regulating stablecoins, a type of cryptocurrency, to Trump - Star Tribune",
+      "pubDate": "Thu, 17 Jul 2025 20:26:15 GMT"
     }
   ],
   "Science": [
