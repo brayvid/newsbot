@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "LIVE: Israel-Iran attacks continue; Trump demands unconditional surrender - Al Jazeera",
-      "pubDate": "Wed, 18 Jun 2025 07:22:28 GMT"
-    },
-    {
       "title": "Trump's Latest Statement On India-Pak Ceasefire, Hours After PM Call - NDTV",
       "pubDate": "Wed, 18 Jun 2025 15:29:44 GMT"
     },
@@ -127,10 +123,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Congress Should Not Block State Action on AI - Governing",
-      "pubDate": "Wed, 18 Jun 2025 04:04:11 GMT"
-    },
-    {
       "title": "This artificial intelligence subcategory is undergoing a 'golden age,' says long-time tech analyst Dan Ives - CNBC",
       "pubDate": "Wed, 18 Jun 2025 12:43:32 GMT"
     },
@@ -204,10 +196,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China\u2019s central bank chief expects new global currency order - Financial Times",
-      "pubDate": "Wed, 18 Jun 2025 07:37:34 GMT"
-    },
     {
       "title": "Greetings from Shenyang, China, where workers sort AI data in 'Severance'-like ways - NPR",
       "pubDate": "Wed, 18 Jun 2025 14:51:30 GMT"
@@ -297,12 +285,6 @@
       "pubDate": "Sat, 21 Jun 2025 00:25:30 GMT"
     }
   ],
-  "climate": [
-    {
-      "title": "UK temperatures of 45C may be possible in current climate, Met Office says - The Guardian",
-      "pubDate": "Wed, 18 Jun 2025 07:01:00 GMT"
-    }
-  ],
   "us_politics": [
     {
       "title": "Obama: The US is dangerously close to becoming an autocracy - The Telegraph",
@@ -368,10 +350,6 @@
     }
   ],
   "Artificial Intelligence": [
-    {
-      "title": "OpenAI and Microsoft are dueling over AGI. These real-world tests will prove when AI is really better than humans. - Business Insider",
-      "pubDate": "Sun, 29 Jun 2025 09:00:00 GMT"
-    },
     {
       "title": "Is AI rewiring our minds? Scientists probe cognitive cost of chatbots. - The Washington Post",
       "pubDate": "Sun, 29 Jun 2025 17:00:00 GMT"
@@ -527,6 +505,10 @@
     {
       "title": "Zuckerberg says Meta will build data center the size of Manhattan in latest AI push - The Guardian",
       "pubDate": "Wed, 16 Jul 2025 18:07:00 GMT"
+    },
+    {
+      "title": "Meta Hires Two Key Apple AI Experts After Poaching Their Boss - Bloomberg",
+      "pubDate": "Thu, 17 Jul 2025 23:37:36 GMT"
     }
   ],
   "US Politics": [
@@ -1021,13 +1003,13 @@
     {
       "title": "Trump threatens \u2018very significant\u2019 Russia sanctions, bashes \u2018all talk\u2019 Putin - Politico",
       "pubDate": "Wed, 16 Jul 2025 00:50:00 GMT"
+    },
+    {
+      "title": "EU imposes new sanctions on Russia's oil and banks after Robert Fico lifts his veto - Euronews.com",
+      "pubDate": "Fri, 18 Jul 2025 06:36:51 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Supreme Court limits nationwide orders that have blocked Trump\u2019s birthright citizenship ban - The Washington Post",
-      "pubDate": "Sat, 28 Jun 2025 04:35:55 GMT"
-    },
     {
       "title": "Trump victorious again as US Supreme Court wraps up its term - Reuters",
       "pubDate": "Sat, 28 Jun 2025 05:06:00 GMT"
@@ -1183,6 +1165,10 @@
     {
       "title": "Trump orders production of more Epstein material after pressure - BBC",
       "pubDate": "Fri, 18 Jul 2025 02:55:35 GMT"
+    },
+    {
+      "title": "Trump diagnosed with chronic venous insufficiency following leg swelling - CNN",
+      "pubDate": "Thu, 17 Jul 2025 21:52:00 GMT"
     }
   ],
   "World News": [
@@ -2081,6 +2067,10 @@
     {
       "title": "Bitcoin hits new record above $123,000 as 'Crypto Week' kicks off on Capitol Hill: CNBC Crypto World - CNBC",
       "pubDate": "Mon, 14 Jul 2025 19:06:00 GMT"
+    },
+    {
+      "title": "Bitcoin Tops $120K on Report of Trump Approving Crypto Investments for Retirement Accounts - CoinDesk",
+      "pubDate": "Thu, 17 Jul 2025 22:26:34 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2181,6 +2171,10 @@
     {
       "title": "Trump megabill gives the oil industry everything it wants and ends key support for solar and wind - CNBC",
       "pubDate": "Thu, 03 Jul 2025 18:55:21 GMT"
+    },
+    {
+      "title": "Interior Dept. to Put Wind and Solar Projects Through Stricter Political Review - The New York Times",
+      "pubDate": "Thu, 17 Jul 2025 21:04:11 GMT"
     }
   ],
   "Cancer": [
@@ -2219,6 +2213,10 @@
     {
       "title": "The world is winning the war on cancer - The Economist",
       "pubDate": "Thu, 17 Jul 2025 10:23:50 GMT"
+    },
+    {
+      "title": "Dramatic rise in gastrointestinal cancers in people under 50 - The Independent",
+      "pubDate": "Thu, 17 Jul 2025 23:34:00 GMT"
     }
   ],
   "Climate": [
@@ -2659,6 +2657,10 @@
     {
       "title": "Israel strikes the Gaza church the pope used to call nightly, killing 3 - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 03:38:28 GMT"
+    },
+    {
+      "title": "Israel says it \u2018deeply regrets\u2019 strike on Gaza\u2019s only Catholic church, calls for investigation - CNN",
+      "pubDate": "Fri, 18 Jul 2025 00:23:00 GMT"
     }
   ],
   "Cryptocurrency": [
