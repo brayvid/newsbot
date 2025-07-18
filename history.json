@@ -47,10 +47,6 @@
   ],
   "recession": [
     {
-      "title": "'Big Short' investor warns the precarious tariff environment reminds him of WWI\u2014and a trade war would send the U.S. into a recession - Fortune",
-      "pubDate": "Wed, 18 Jun 2025 18:22:52 GMT"
-    },
-    {
       "title": "Americans Are Side Hustling Like We\u2019re in a Recession - WSJ",
       "pubDate": "Thu, 19 Jun 2025 01:00:00 GMT"
     },
@@ -104,10 +100,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "\u2018It\u2019s terrifying\u2019: WhatsApp AI helper mistakenly shares user\u2019s number - The Guardian",
-      "pubDate": "Wed, 18 Jun 2025 17:56:00 GMT"
-    },
     {
       "title": "Governments Want Artificial Intelligence, but Adoption Lags - GovTech",
       "pubDate": "Wed, 18 Jun 2025 21:36:34 GMT"
@@ -219,14 +211,6 @@
   ],
   "us_economy": [
     {
-      "title": "Tariffs hit US economy forecast but the Fed unmoved by latest Trump threats with no change to interest rates - Sky News",
-      "pubDate": "Wed, 18 Jun 2025 20:29:44 GMT"
-    },
-    {
-      "title": "Politically Driven Rate Cuts Will Erode Trust in the US Economy - Cato Institute",
-      "pubDate": "Wed, 18 Jun 2025 18:22:40 GMT"
-    },
-    {
       "title": "Top economist warns America is heading toward economic disaster the Fed can't fix - Fox Business",
       "pubDate": "Wed, 18 Jun 2025 22:25:00 GMT"
     },
@@ -307,12 +291,6 @@
     {
       "title": "LIVE: Iran ready for nuclear talks when \u2018Israeli aggression stops\u2019 - Al Jazeera",
       "pubDate": "Fri, 20 Jun 2025 20:03:45 GMT"
-    }
-  ],
-  "us_senate": [
-    {
-      "title": "Stablecoins' market cap surges to record high as US senate passes bill - Reuters",
-      "pubDate": "Wed, 18 Jun 2025 20:37:02 GMT"
     }
   ],
   "Artificial Intelligence": [
@@ -977,10 +955,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump says he will move aggressively to undo nationwide blocks on his agenda - The Washington Post",
-      "pubDate": "Sat, 28 Jun 2025 20:54:25 GMT"
-    },
-    {
       "title": "Senate begins vote to open debate on Trump\u2019s spending bill \u2014 with support still unclear - CNN",
       "pubDate": "Sun, 29 Jun 2025 00:56:00 GMT"
     },
@@ -1135,6 +1109,10 @@
     {
       "title": "Live updates: Trump orders DOJ to release Epstein grand jury testimony; PBS, NPR and foreign aid cuts clear Congress - NBC News",
       "pubDate": "Fri, 18 Jul 2025 15:41:19 GMT"
+    },
+    {
+      "title": "Trump tells Attorney General Bondi to seek release of Epstein grand jury records - CNN",
+      "pubDate": "Fri, 18 Jul 2025 19:36:00 GMT"
     }
   ],
   "World News": [
@@ -1407,6 +1385,10 @@
     {
       "title": "US-based Wells Fargo banker blocked from leaving China after arriving for work trip: report - New York Post",
       "pubDate": "Thu, 17 Jul 2025 19:30:00 GMT"
+    },
+    {
+      "title": "China imposes \"exit ban\" on Wells Fargo executive, reports say - Axios",
+      "pubDate": "Fri, 18 Jul 2025 19:21:57 GMT"
     }
   ],
   "AI Safety": [
@@ -1803,6 +1785,10 @@
     {
       "title": "A Surge of Earthquakes in Alaska Is Raising Red Flags - Gizmodo",
       "pubDate": "Thu, 17 Jul 2025 20:15:22 GMT"
+    },
+    {
+      "title": "First video of an earthquake fault cracking has revealed another surprise - Live Science",
+      "pubDate": "Fri, 18 Jul 2025 19:52:00 GMT"
     }
   ],
   "Quantum Computer": [
@@ -2067,6 +2053,10 @@
     {
       "title": "Mossad hails Israel\u2019s \u2018historic\u2019 Iran offensive, thanks CIA in rare public message - The Times of Israel",
       "pubDate": "Wed, 25 Jun 2025 22:07:30 GMT"
+    },
+    {
+      "title": "Senate Considers Ending Its Vetting of Spy Agencies\u2019 Top Lawyers - Bloomberg",
+      "pubDate": "Fri, 18 Jul 2025 17:37:05 GMT"
     }
   ],
   "NVIDIA": [
@@ -2351,6 +2341,10 @@
     {
       "title": "Google's Fusion Gamble: Betting on the Future of Clean Energy - AInvest",
       "pubDate": "Mon, 07 Jul 2025 16:01:57 GMT"
+    },
+    {
+      "title": "EU announces \u20ac200m contribution to Spanish fusion research facility - Global Construction Review",
+      "pubDate": "Fri, 18 Jul 2025 10:32:53 GMT"
     }
   ],
   "North Korea": [
@@ -2647,6 +2641,10 @@
     {
       "title": "Israel kills 35 in Gaza attacks, using \u2018drone missiles packed with nails\u2019 - Al Jazeera",
       "pubDate": "Fri, 18 Jul 2025 11:51:33 GMT"
+    },
+    {
+      "title": "Hamas says Israel rejected ceasefire deal releasing all captives in Gaza - Al Jazeera",
+      "pubDate": "Fri, 18 Jul 2025 18:37:05 GMT"
     }
   ],
   "Cryptocurrency": [
