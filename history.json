@@ -55,14 +55,6 @@
   ],
   "recession": [
     {
-      "title": "Japan\u2019s exports drop raises recession risks as U.S. tariffs bite - The Japan Times",
-      "pubDate": "Wed, 18 Jun 2025 02:19:00 GMT"
-    },
-    {
-      "title": "Managers bullish as fears about trade war, recession abate \u2014 BofA survey - Pensions & Investments",
-      "pubDate": "Tue, 17 Jun 2025 21:30:56 GMT"
-    },
-    {
       "title": "Food, Water, And Recession: What Developing Countries Worry About The Most - 24/7 Wall St.",
       "pubDate": "Wed, 18 Jun 2025 10:43:52 GMT"
     },
@@ -134,10 +126,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Amazon CEO tells employees that AI will shrink its workforce - The Washington Post",
-      "pubDate": "Wed, 18 Jun 2025 03:16:53 GMT"
-    },
     {
       "title": "Congress Should Not Block State Action on AI - Governing",
       "pubDate": "Wed, 18 Jun 2025 04:04:11 GMT"
@@ -217,10 +205,6 @@
   ],
   "china": [
     {
-      "title": "Partnership Short of Alliance: Military Cooperation Between Russia and China - Center for European Policy Analysis (CEPA)",
-      "pubDate": "Wed, 18 Jun 2025 03:52:51 GMT"
-    },
-    {
       "title": "China\u2019s central bank chief expects new global currency order - Financial Times",
       "pubDate": "Wed, 18 Jun 2025 07:37:34 GMT"
     },
@@ -273,10 +257,6 @@
   ],
   "us_economy": [
     {
-      "title": "Stalsworth: US economy better under Democrat control - Seguin Gazette",
-      "pubDate": "Tue, 17 Jun 2025 22:30:00 GMT"
-    },
-    {
       "title": "U.S. unemployment claims dip to 245,000, hovering at historically low levels - PBS",
       "pubDate": "Wed, 18 Jun 2025 13:54:18 GMT"
     },
@@ -324,10 +304,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "The US may be headed into another Middle East war \u2013 and no one is talking about how it ends - CNN",
-      "pubDate": "Wed, 18 Jun 2025 04:00:00 GMT"
-    },
     {
       "title": "Obama: The US is dangerously close to becoming an autocracy - The Telegraph",
       "pubDate": "Wed, 18 Jun 2025 14:24:00 GMT"
@@ -1049,10 +1025,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Supreme Court limits ability of judges to stop Trump - CNN",
-      "pubDate": "Fri, 27 Jun 2025 19:42:00 GMT"
-    },
-    {
       "title": "Supreme Court limits nationwide orders that have blocked Trump\u2019s birthright citizenship ban - The Washington Post",
       "pubDate": "Sat, 28 Jun 2025 04:35:55 GMT"
     },
@@ -1207,6 +1179,10 @@
     {
       "title": "Trump Says Coca-Cola Agreed to Use Cane Sugar in Coke Made in U.S. - The New York Times",
       "pubDate": "Thu, 17 Jul 2025 02:48:37 GMT"
+    },
+    {
+      "title": "Trump orders production of more Epstein material after pressure - BBC",
+      "pubDate": "Fri, 18 Jul 2025 02:55:35 GMT"
     }
   ],
   "World News": [
@@ -1467,6 +1443,10 @@
     {
       "title": "Exclusive | China Threatens to Block Panama Ports Deal Unless Its Shipping Giant Is Part of It - The Wall Street Journal",
       "pubDate": "Thu, 17 Jul 2025 14:47:00 GMT"
+    },
+    {
+      "title": "US-based Wells Fargo banker blocked from leaving China after arriving for work trip: report - New York Post",
+      "pubDate": "Thu, 17 Jul 2025 19:30:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1859,6 +1839,10 @@
     {
       "title": "Magnitude 7.3 earthquake shakes Sand Point and triggers tsunami warning for Southwest Alaska - Alaska Public Media",
       "pubDate": "Wed, 16 Jul 2025 21:25:00 GMT"
+    },
+    {
+      "title": "A Surge of Earthquakes in Alaska Is Raising Red Flags - Gizmodo",
+      "pubDate": "Thu, 17 Jul 2025 20:15:22 GMT"
     }
   ],
   "Quantum Computer": [
@@ -2671,6 +2655,10 @@
     {
       "title": "Israeli strikes kill 27 in Gaza, three die in church late pope often spoke to - Reuters",
       "pubDate": "Thu, 17 Jul 2025 16:47:41 GMT"
+    },
+    {
+      "title": "Israel strikes the Gaza church the pope used to call nightly, killing 3 - The Washington Post",
+      "pubDate": "Fri, 18 Jul 2025 03:38:28 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2689,6 +2677,10 @@
     {
       "title": "House sends bill regulating stablecoins, a type of cryptocurrency, to Trump - Star Tribune",
       "pubDate": "Thu, 17 Jul 2025 20:26:15 GMT"
+    },
+    {
+      "title": "House sends first-of-its-kind cryptocurrency legislation to Trump\u2019s desk after conservative revolt briefly delayed it - CNN",
+      "pubDate": "Thu, 17 Jul 2025 20:03:00 GMT"
     }
   ],
   "Science": [
@@ -2887,12 +2879,22 @@
     {
       "title": "Meta Shareholders Sue Mark Zuckerberg, Peter Thiel For $8 Billion Over Privacy Violations Linked To Cambridge Analytica Scandal - Benzinga",
       "pubDate": "Thu, 17 Jul 2025 03:48:28 GMT"
+    },
+    {
+      "title": "Meta settles $8bn lawsuit with Zuckerberg over Facebook privacy - BBC",
+      "pubDate": "Thu, 17 Jul 2025 20:05:28 GMT"
     }
   ],
   "Volcanoes": [
     {
       "title": "Scientists Warn of Massive Eruption Threat as Mount Rainier and Pacific Volcanoes Stir - MSN",
       "pubDate": "Thu, 17 Jul 2025 01:21:47 GMT"
+    }
+  ],
+  "Hydrogen Fuel": [
+    {
+      "title": "Stellantis scraps hydrogen fuel cell tech and abandons new car plans - MSN",
+      "pubDate": "Thu, 17 Jul 2025 19:53:35 GMT"
     }
   ]
 }
