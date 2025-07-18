@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump's Latest Statement On India-Pak Ceasefire, Hours After PM Call - NDTV",
-      "pubDate": "Wed, 18 Jun 2025 15:29:44 GMT"
-    },
-    {
       "title": "Israel, Iran Trade New Strikes As US Prepares For Possible Attack On Tehran: 10 Points - NDTV",
       "pubDate": "Thu, 19 Jun 2025 02:25:43 GMT"
     },
@@ -51,10 +47,6 @@
   ],
   "recession": [
     {
-      "title": "Food, Water, And Recession: What Developing Countries Worry About The Most - 24/7 Wall St.",
-      "pubDate": "Wed, 18 Jun 2025 10:43:52 GMT"
-    },
-    {
       "title": "'Big Short' investor warns the precarious tariff environment reminds him of WWI\u2014and a trade war would send the U.S. into a recession - Fortune",
       "pubDate": "Wed, 18 Jun 2025 18:22:52 GMT"
     },
@@ -99,16 +91,6 @@
       "pubDate": "Sat, 21 Jun 2025 11:17:00 GMT"
     }
   ],
-  "russia": [
-    {
-      "title": "EU's top diplomat warns that Russia has a plan for long-term aggression against Europe - ABC News",
-      "pubDate": "Wed, 18 Jun 2025 11:35:57 GMT"
-    },
-    {
-      "title": "Russia tells US not to strike Iran, warns of nuclear catastrophe - Reuters",
-      "pubDate": "Wed, 18 Jun 2025 13:33:56 GMT"
-    }
-  ],
   "inflation": [
     {
       "title": "Norwegian crown slides after surprise interest rate cut - Reuters",
@@ -122,10 +104,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "This artificial intelligence subcategory is undergoing a 'golden age,' says long-time tech analyst Dan Ives - CNBC",
-      "pubDate": "Wed, 18 Jun 2025 12:43:32 GMT"
-    },
     {
       "title": "\u2018It\u2019s terrifying\u2019: WhatsApp AI helper mistakenly shares user\u2019s number - The Guardian",
       "pubDate": "Wed, 18 Jun 2025 17:56:00 GMT"
@@ -197,10 +175,6 @@
   ],
   "china": [
     {
-      "title": "Greetings from Shenyang, China, where workers sort AI data in 'Severance'-like ways - NPR",
-      "pubDate": "Wed, 18 Jun 2025 14:51:30 GMT"
-    },
-    {
       "title": "China Copper Smelters Match Record as Foreign Rivals Falter - Bloomberg",
       "pubDate": "Thu, 19 Jun 2025 01:59:00 GMT"
     },
@@ -245,10 +219,6 @@
   ],
   "us_economy": [
     {
-      "title": "U.S. unemployment claims dip to 245,000, hovering at historically low levels - PBS",
-      "pubDate": "Wed, 18 Jun 2025 13:54:18 GMT"
-    },
-    {
       "title": "Tariffs hit US economy forecast but the Fed unmoved by latest Trump threats with no change to interest rates - Sky News",
       "pubDate": "Wed, 18 Jun 2025 20:29:44 GMT"
     },
@@ -286,10 +256,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Obama: The US is dangerously close to becoming an autocracy - The Telegraph",
-      "pubDate": "Wed, 18 Jun 2025 14:24:00 GMT"
-    },
     {
       "title": "Obama warns America is \u2018dangerously close\u2019 to moving away from democracy - The Independent",
       "pubDate": "Wed, 18 Jun 2025 21:26:00 GMT"
@@ -1011,10 +977,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump victorious again as US Supreme Court wraps up its term - Reuters",
-      "pubDate": "Sat, 28 Jun 2025 05:06:00 GMT"
-    },
-    {
       "title": "Trump says he will move aggressively to undo nationwide blocks on his agenda - The Washington Post",
       "pubDate": "Sat, 28 Jun 2025 20:54:25 GMT"
     },
@@ -1169,6 +1131,10 @@
     {
       "title": "Trump diagnosed with chronic venous insufficiency following leg swelling - CNN",
       "pubDate": "Thu, 17 Jul 2025 21:52:00 GMT"
+    },
+    {
+      "title": "Live updates: Trump orders DOJ to release Epstein grand jury testimony; PBS, NPR and foreign aid cuts clear Congress - NBC News",
+      "pubDate": "Fri, 18 Jul 2025 15:41:19 GMT"
     }
   ],
   "World News": [
@@ -1197,6 +1163,10 @@
     {
       "title": "The top U.S. cybersecurity agency is shrinking quickly under Trump 2.0 - Axios",
       "pubDate": "Tue, 15 Jul 2025 17:44:39 GMT"
+    },
+    {
+      "title": "China-linked scam centers target U.S., congressional commission warns - The Washington Post",
+      "pubDate": "Fri, 18 Jul 2025 14:45:08 GMT"
     }
   ],
   "US Congress": [
@@ -1207,6 +1177,10 @@
     {
       "title": "Most House Democrats vote to kill Al Green's impeachment measure - Politico",
       "pubDate": "Tue, 24 Jun 2025 18:21:15 GMT"
+    },
+    {
+      "title": "Congress passes DOGE spending cuts as Trump orders release of \u2018pertinent\u2019 Epstein files - CNN",
+      "pubDate": "Fri, 18 Jul 2025 15:23:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -2403,12 +2377,20 @@
     {
       "title": "North Korea\u2019s Kim Jong Un vows \u2018unconditional support\u2019 of Russia\u2019s war in Ukraine: \u2018Invincible fighting brotherhood\u2019 - New York Post",
       "pubDate": "Sun, 13 Jul 2025 22:52:00 GMT"
+    },
+    {
+      "title": "North Korea bars foreigners from recently unveiled \u2018world class\u2019 beach resort days after Lavrov visit - Yahoo",
+      "pubDate": "Fri, 18 Jul 2025 14:03:22 GMT"
     }
   ],
   "Tesla": [
     {
       "title": "Tesla reports record sales plunge from last year - CNN",
       "pubDate": "Wed, 02 Jul 2025 14:35:00 GMT"
+    },
+    {
+      "title": "Tesla finally launches in India, but the world\u2019s third largest car market has been a graveyard for western brands - Fortune",
+      "pubDate": "Fri, 18 Jul 2025 12:08:00 GMT"
     }
   ],
   "Microsoft": [
@@ -2661,6 +2643,10 @@
     {
       "title": "Israel says it \u2018deeply regrets\u2019 strike on Gaza\u2019s only Catholic church, calls for investigation - CNN",
       "pubDate": "Fri, 18 Jul 2025 00:23:00 GMT"
+    },
+    {
+      "title": "Israel kills 35 in Gaza attacks, using \u2018drone missiles packed with nails\u2019 - Al Jazeera",
+      "pubDate": "Fri, 18 Jul 2025 11:51:33 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2897,6 +2883,12 @@
     {
       "title": "Stellantis scraps hydrogen fuel cell tech and abandons new car plans - MSN",
       "pubDate": "Thu, 17 Jul 2025 19:53:35 GMT"
+    }
+  ],
+  "European Union": [
+    {
+      "title": "EU agrees new Russia sanctions after Slovakia drops opposition \u2013 as it happened - The Guardian",
+      "pubDate": "Fri, 18 Jul 2025 07:27:00 GMT"
     }
   ]
 }
