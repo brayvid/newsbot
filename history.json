@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump rips into 'too late' Jerome Powell after Fed holds rates steady - CNBC",
-      "pubDate": "Thu, 19 Jun 2025 15:04:14 GMT"
-    },
-    {
       "title": "How Trump, a self-proclaimed \"peacemaker,\" embraced Israel's campaign against Iran - Reuters",
       "pubDate": "Thu, 19 Jun 2025 18:12:21 GMT"
     },
@@ -39,14 +35,6 @@
   ],
   "recession": [
     {
-      "title": "Russia needs monetary policy changes to avert a recession, says economy minister - Reuters",
-      "pubDate": "Thu, 19 Jun 2025 10:28:04 GMT"
-    },
-    {
-      "title": "Russia 'on the verge' of recession, Kremlin economy minister warns - The Kyiv Independent",
-      "pubDate": "Thu, 19 Jun 2025 09:35:12 GMT"
-    },
-    {
       "title": "Russian economic minister acknowledges nation is \u2018on the brink\u2019 of \u2018recession\u2019 - Washington Examiner",
       "pubDate": "Thu, 19 Jun 2025 16:52:16 GMT"
     },
@@ -78,10 +66,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Artificial Intelligence Market Size Worth USD 3,680.47 Bn By 2034 - GlobeNewswire",
-      "pubDate": "Thu, 19 Jun 2025 15:43:12 GMT"
-    },
     {
       "title": "UN says use of artificial intelligence must comply with international human rights - JURIST Legal News",
       "pubDate": "Thu, 19 Jun 2025 23:17:06 GMT"
@@ -123,10 +107,6 @@
   ],
   "trade_war": [
     {
-      "title": "Trump's tariff war: Why Canada may be 'in the best position of any other country' - Yahoo",
-      "pubDate": "Thu, 19 Jun 2025 11:00:54 GMT"
-    },
-    {
       "title": "Trump tariffs live updates: US talks with Canada, EU take focus as deadlines loom - Yahoo Finance",
       "pubDate": "Thu, 19 Jun 2025 19:01:13 GMT"
     },
@@ -136,10 +116,6 @@
     }
   ],
   "china": [
-    {
-      "title": "China has become the most important enabler of Russia\u2019s war machine - The Economist",
-      "pubDate": "Thu, 19 Jun 2025 12:57:40 GMT"
-    },
     {
       "title": "US prepares action targeting allies\u2019 chip plants in China, WSJ reports - Reuters",
       "pubDate": "Fri, 20 Jun 2025 15:17:32 GMT"
@@ -163,23 +139,11 @@
   ],
   "elon_musk": [
     {
-      "title": "Elon Musk rips Trump personnel director Sergio Gor as \u2018a snake\u2019 - New York Post",
-      "pubDate": "Thu, 19 Jun 2025 15:39:00 GMT"
-    },
-    {
       "title": "SpaceX Starship rocket explodes in setback to Musk's Mars mission - Reuters",
       "pubDate": "Fri, 20 Jun 2025 04:16:00 GMT"
     }
   ],
   "us_economy": [
-    {
-      "title": "US economy faces reckoning as some immigrants avoid workplaces - The Christian Science Monitor",
-      "pubDate": "Thu, 19 Jun 2025 09:00:00 GMT"
-    },
-    {
-      "title": "US manufacturing giant teases 'big' investment back into the American economy - Fox Business",
-      "pubDate": "Thu, 19 Jun 2025 14:58:00 GMT"
-    },
     {
       "title": "U.S. Leading Indicators Signal Further Economic Slowdown - Barron's",
       "pubDate": "Fri, 20 Jun 2025 08:18:00 GMT"
@@ -198,14 +162,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "What happens next if Trump launches his attack on Iran - The Independent",
-      "pubDate": "Thu, 19 Jun 2025 15:32:00 GMT"
-    },
-    {
-      "title": "Justice Dept. to Cut Gun-Sale Inspectors by Two-Thirds as It Moves to Downsize A.T.F. - The New York Times",
-      "pubDate": "Thu, 19 Jun 2025 13:47:00 GMT"
-    },
     {
       "title": "Trump gives Iran \u2018two-week\u2019 reprieve as his inner circle quietly seeks exit route - The Times",
       "pubDate": "Thu, 19 Jun 2025 22:45:00 GMT"
@@ -233,10 +189,6 @@
   ],
   "iran": [
     {
-      "title": "Israel-Iran Live Updates: Trump Privately Approved of Attack Plans for Iran but Has Withheld Final Order - WSJ",
-      "pubDate": "Thu, 19 Jun 2025 15:14:00 GMT"
-    },
-    {
       "title": "Israel-Iran latest: Huge explosion rocks Haifa after Tehran launches new wave of missile attacks - The Independent",
       "pubDate": "Sat, 21 Jun 2025 03:34:28 GMT"
     }
@@ -248,10 +200,6 @@
     }
   ],
   "Artificial Intelligence": [
-    {
-      "title": "Is AI rewiring our minds? Scientists probe cognitive cost of chatbots. - The Washington Post",
-      "pubDate": "Sun, 29 Jun 2025 17:00:00 GMT"
-    },
     {
       "title": "Microsoft says AI system better than doctors at diagnosing complex health conditions - The Guardian",
       "pubDate": "Mon, 30 Jun 2025 14:29:00 GMT"
@@ -407,6 +355,10 @@
     {
       "title": "Meta Hires Two Key Apple AI Experts After Poaching Their Boss - Bloomberg",
       "pubDate": "Thu, 17 Jul 2025 23:37:36 GMT"
+    },
+    {
+      "title": "OpenAI claims a breakthrough in LLM reasoning on complex math problems - the-decoder.com",
+      "pubDate": "Sat, 19 Jul 2025 12:12:35 GMT"
     }
   ],
   "US Politics": [
@@ -537,6 +489,10 @@
     {
       "title": "Senate Approves Trump\u2019s Bid to Cancel Foreign Aid and Funds for NPR and PBS Stations - The New York Times",
       "pubDate": "Thu, 17 Jul 2025 14:29:55 GMT"
+    },
+    {
+      "title": "Trump DOJ wants Supreme Court to bring down hammer on gun rules - USA Today",
+      "pubDate": "Sat, 19 Jul 2025 09:05:21 GMT"
     }
   ],
   "Iran": [
@@ -1755,6 +1711,10 @@
     {
       "title": "First video of an earthquake fault cracking has revealed another surprise - Live Science",
       "pubDate": "Fri, 18 Jul 2025 19:52:00 GMT"
+    },
+    {
+      "title": "A Moderate Earthquake Shakes Bay Of Plenty With No Impact Felt: Latest Travel Safety Update - Travel And Tour World",
+      "pubDate": "Sat, 19 Jul 2025 08:10:50 GMT"
     }
   ],
   "Quantum Computer": [
@@ -2105,6 +2065,10 @@
     {
       "title": "Interior Dept. to Put Wind and Solar Projects Through Stricter Political Review - The New York Times",
       "pubDate": "Thu, 17 Jul 2025 21:04:11 GMT"
+    },
+    {
+      "title": "Scientists make game-changing breakthrough that could slash costs of solar panels: 'Has the potential to contribute to the energy transition' - Yahoo Home",
+      "pubDate": "Sat, 19 Jul 2025 11:00:00 GMT"
     }
   ],
   "Cancer": [
