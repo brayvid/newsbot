@@ -71,12 +71,6 @@
       "pubDate": "Sat, 21 Jun 2025 11:17:00 GMT"
     }
   ],
-  "inflation": [
-    {
-      "title": "Norwegian crown slides after surprise interest rate cut - Reuters",
-      "pubDate": "Thu, 19 Jun 2025 08:11:03 GMT"
-    }
-  ],
   "cybersecurity": [
     {
       "title": "Cybersecurity Alert: 16 billion credentials leaked in largest-ever data breach - Deccan Herald",
@@ -87,10 +81,6 @@
     {
       "title": "Artificial Intelligence Market Size Worth USD 3,680.47 Bn By 2034 - GlobeNewswire",
       "pubDate": "Thu, 19 Jun 2025 15:43:12 GMT"
-    },
-    {
-      "title": "I am an AI expert and here's why quantum artificial intelligence is the next big thing in tech - TechRadar",
-      "pubDate": "Thu, 19 Jun 2025 08:58:26 GMT"
     },
     {
       "title": "UN says use of artificial intelligence must comply with international human rights - JURIST Legal News",
@@ -146,10 +136,6 @@
     }
   ],
   "china": [
-    {
-      "title": "New Zealand halts funding for Cook Islands over China deals - BBC",
-      "pubDate": "Thu, 19 Jun 2025 05:07:01 GMT"
-    },
     {
       "title": "China has become the most important enabler of Russia\u2019s war machine - The Economist",
       "pubDate": "Thu, 19 Jun 2025 12:57:40 GMT"
@@ -711,10 +697,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukrainian drones strike missile, drone arsenal in Russia's Bryansk Oblast - The Kyiv Independent",
-      "pubDate": "Sat, 28 Jun 2025 17:09:09 GMT"
-    },
-    {
       "title": "Ukraine says drones destroyed Russia\u2019s helicopters, air defences in Crimea - Al Jazeera",
       "pubDate": "Sat, 28 Jun 2025 19:40:25 GMT"
     },
@@ -869,6 +851,10 @@
     {
       "title": "Russia tightens its stranglehold on Ukraine battlefield as Trump gifts Putin 50-day window - CNN",
       "pubDate": "Thu, 17 Jul 2025 19:05:00 GMT"
+    },
+    {
+      "title": "Ukraine attacks Moscow with drones for 3rd straight night, Russian official says - The Kyiv Independent",
+      "pubDate": "Fri, 18 Jul 2025 23:16:05 GMT"
     }
   ],
   "Russia": [
@@ -926,10 +912,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump Urges Israel-Gaza Ceasefire: 'Make the Deal' - Newsweek",
-      "pubDate": "Sun, 29 Jun 2025 06:58:34 GMT"
-    },
     {
       "title": "Senate votes to move forward on Trump\u2019s \u2018big, beautiful bill,\u2019 though measure\u2019s fate remains in question - CNN",
       "pubDate": "Sun, 29 Jun 2025 06:30:00 GMT"
@@ -1085,6 +1067,10 @@
     {
       "title": "Trump sues Murdoch for $10 billion over WSJ story on Epstein birthday letter - CNBC",
       "pubDate": "Fri, 18 Jul 2025 20:49:41 GMT"
+    },
+    {
+      "title": "Trump files libel lawsuit over Wall Street Journal report on Jeffrey Epstein\u2019s birthday letters - CNN",
+      "pubDate": "Sat, 19 Jul 2025 01:10:00 GMT"
     }
   ],
   "World News": [
@@ -1202,10 +1188,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China condemns US strikes on Iran, calls for ceasefire and talks - South China Morning Post",
-      "pubDate": "Sun, 22 Jun 2025 11:38:08 GMT"
-    },
     {
       "title": "China Says the U.S. Damaged Its Own Credibility by Striking Iran - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 07:58:38 GMT"
@@ -1361,6 +1343,10 @@
     {
       "title": "China imposes \"exit ban\" on Wells Fargo executive, reports say - Axios",
       "pubDate": "Fri, 18 Jul 2025 19:21:57 GMT"
+    },
+    {
+      "title": "Chinese scientists develop low-cost cell therapy for cancer, asthma - South China Morning Post",
+      "pubDate": "Sat, 19 Jul 2025 06:00:12 GMT"
     }
   ],
   "AI Safety": [
@@ -1463,6 +1449,10 @@
     {
       "title": "Researchers from OpenAI, Anthropic, Meta, and Google issue joint AI safety warning - here's why - ZDNET",
       "pubDate": "Thu, 17 Jul 2025 14:15:00 GMT"
+    },
+    {
+      "title": "Meta declines to abide by voluntary EU AI safety guidelines - theregister.com",
+      "pubDate": "Fri, 18 Jul 2025 22:29:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1689,6 +1679,10 @@
     {
       "title": "Inside the most dangerous asteroid hunt ever - MIT Technology Review",
       "pubDate": "Tue, 08 Jul 2025 08:30:00 GMT"
+    },
+    {
+      "title": "What happens once we spot the asteroid that will hit Earth? - Financial Times",
+      "pubDate": "Sat, 19 Jul 2025 04:39:35 GMT"
     }
   ],
   "Atlantic Ocean": [
@@ -2639,6 +2633,10 @@
     {
       "title": "House sends first-of-its-kind cryptocurrency legislation to Trump\u2019s desk after conservative revolt briefly delayed it - CNN",
       "pubDate": "Thu, 17 Jul 2025 20:03:00 GMT"
+    },
+    {
+      "title": "Trump signs new stablecoin regulations into law, a major milestone for crypto industry - AP News",
+      "pubDate": "Fri, 18 Jul 2025 21:21:00 GMT"
     }
   ],
   "Science": [
@@ -2869,6 +2867,12 @@
     {
       "title": "US rejects WHO pandemic changes to global health rules - Reuters",
       "pubDate": "Fri, 18 Jul 2025 20:42:49 GMT"
+    }
+  ],
+  "Research": [
+    {
+      "title": "EPA shutters its scientific research arm, with hundreds of scientists expected to be impacted - CBS News",
+      "pubDate": "Sat, 19 Jul 2025 03:21:23 GMT"
     }
   ]
 }
