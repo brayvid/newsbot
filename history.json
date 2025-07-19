@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Israel, Iran Trade New Strikes As US Prepares For Possible Attack On Tehran: 10 Points - NDTV",
-      "pubDate": "Thu, 19 Jun 2025 02:25:43 GMT"
-    },
-    {
-      "title": "Trump faces uproar from MAGA base over possible Iran strike - Reuters",
-      "pubDate": "Thu, 19 Jun 2025 01:09:00 GMT"
-    },
-    {
       "title": "Trump rips into 'too late' Jerome Powell after Fed holds rates steady - CNBC",
       "pubDate": "Thu, 19 Jun 2025 15:04:14 GMT"
     },
@@ -46,14 +38,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Americans Are Side Hustling Like We\u2019re in a Recession - WSJ",
-      "pubDate": "Thu, 19 Jun 2025 01:00:00 GMT"
-    },
-    {
-      "title": "New Zealand\u2019s Economic Recovery Gathers Pace as Exports Jump - Bloomberg.com",
-      "pubDate": "Wed, 18 Jun 2025 23:11:16 GMT"
-    },
     {
       "title": "Russia needs monetary policy changes to avert a recession, says economy minister - Reuters",
       "pubDate": "Thu, 19 Jun 2025 10:28:04 GMT"
@@ -100,10 +84,6 @@
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Governments Want Artificial Intelligence, but Adoption Lags - GovTech",
-      "pubDate": "Wed, 18 Jun 2025 21:36:34 GMT"
-    },
     {
       "title": "Artificial Intelligence Market Size Worth USD 3,680.47 Bn By 2034 - GlobeNewswire",
       "pubDate": "Thu, 19 Jun 2025 15:43:12 GMT"
@@ -167,10 +147,6 @@
   ],
   "china": [
     {
-      "title": "China Copper Smelters Match Record as Foreign Rivals Falter - Bloomberg",
-      "pubDate": "Thu, 19 Jun 2025 01:59:00 GMT"
-    },
-    {
       "title": "New Zealand halts funding for Cook Islands over China deals - BBC",
       "pubDate": "Thu, 19 Jun 2025 05:07:01 GMT"
     },
@@ -211,10 +187,6 @@
   ],
   "us_economy": [
     {
-      "title": "Top economist warns America is heading toward economic disaster the Fed can't fix - Fox Business",
-      "pubDate": "Wed, 18 Jun 2025 22:25:00 GMT"
-    },
-    {
       "title": "US economy faces reckoning as some immigrants avoid workplaces - The Christian Science Monitor",
       "pubDate": "Thu, 19 Jun 2025 09:00:00 GMT"
     },
@@ -240,10 +212,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Obama warns America is \u2018dangerously close\u2019 to moving away from democracy - The Independent",
-      "pubDate": "Wed, 18 Jun 2025 21:26:00 GMT"
-    },
     {
       "title": "What happens next if Trump launches his attack on Iran - The Independent",
       "pubDate": "Thu, 19 Jun 2025 15:32:00 GMT"
@@ -735,6 +703,10 @@
     {
       "title": "Israeli settlers beat U.S. citizen to death in West Bank - NPR",
       "pubDate": "Sat, 12 Jul 2025 17:19:52 GMT"
+    },
+    {
+      "title": "Israel and Syria agree ceasefire as Israel allows Syrian troops limited access to Sweida - Reuters",
+      "pubDate": "Fri, 18 Jul 2025 23:33:58 GMT"
     }
   ],
   "Ukraine": [
@@ -955,10 +927,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Senate begins vote to open debate on Trump\u2019s spending bill \u2014 with support still unclear - CNN",
-      "pubDate": "Sun, 29 Jun 2025 00:56:00 GMT"
-    },
-    {
       "title": "Trump Urges Israel-Gaza Ceasefire: 'Make the Deal' - Newsweek",
       "pubDate": "Sun, 29 Jun 2025 06:58:34 GMT"
     },
@@ -1113,6 +1081,10 @@
     {
       "title": "Trump tells Attorney General Bondi to seek release of Epstein grand jury records - CNN",
       "pubDate": "Fri, 18 Jul 2025 19:36:00 GMT"
+    },
+    {
+      "title": "Trump sues Murdoch for $10 billion over WSJ story on Epstein birthday letter - CNBC",
+      "pubDate": "Fri, 18 Jul 2025 20:49:41 GMT"
     }
   ],
   "World News": [
@@ -2849,6 +2821,10 @@
     {
       "title": "House Republicans pitch 23 percent cut to EPA - The Hill",
       "pubDate": "Tue, 15 Jul 2025 18:10:00 GMT"
+    },
+    {
+      "title": "EPA eliminates its scientific research arm - The Washington Post",
+      "pubDate": "Sat, 19 Jul 2025 03:21:00 GMT"
     }
   ],
   "Animals": [
@@ -2887,6 +2863,12 @@
     {
       "title": "EU agrees new Russia sanctions after Slovakia drops opposition \u2013 as it happened - The Guardian",
       "pubDate": "Fri, 18 Jul 2025 07:27:00 GMT"
+    }
+  ],
+  "Global Health": [
+    {
+      "title": "US rejects WHO pandemic changes to global health rules - Reuters",
+      "pubDate": "Fri, 18 Jul 2025 20:42:49 GMT"
     }
   ]
 }
