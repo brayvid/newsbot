@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "How Trump, a self-proclaimed \"peacemaker,\" embraced Israel's campaign against Iran - Reuters",
-      "pubDate": "Thu, 19 Jun 2025 18:12:21 GMT"
-    },
-    {
       "title": "Juneteenth Goes Uncelebrated at White House as Trump Complains About \u2018Too Many\u2019 Holidays - The New York Times",
       "pubDate": "Fri, 20 Jun 2025 02:40:03 GMT"
     },
@@ -34,10 +30,6 @@
     }
   ],
   "recession": [
-    {
-      "title": "Russian economic minister acknowledges nation is \u2018on the brink\u2019 of \u2018recession\u2019 - Washington Examiner",
-      "pubDate": "Thu, 19 Jun 2025 16:52:16 GMT"
-    },
     {
       "title": "Russia's economy minister: Country on brink of recession - timesdaily.com",
       "pubDate": "Fri, 20 Jun 2025 05:00:00 GMT"
@@ -97,19 +89,11 @@
   ],
   "financial_markets": [
     {
-      "title": "Oil Prices Rally, Stock Futures Fall in Holiday-Thinned Trading - WSJ",
-      "pubDate": "Thu, 19 Jun 2025 16:26:00 GMT"
-    },
-    {
       "title": "Patience is key in markets as global uncertainties test new investors: Raamdeo Agrawal - The Economic Times",
       "pubDate": "Sat, 21 Jun 2025 08:29:31 GMT"
     }
   ],
   "trade_war": [
-    {
-      "title": "Trump tariffs live updates: US talks with Canada, EU take focus as deadlines loom - Yahoo Finance",
-      "pubDate": "Thu, 19 Jun 2025 19:01:13 GMT"
-    },
     {
       "title": "Europe\u2019s central banks are all cutting rates, even as tariffs tie the Fed\u2019s hands - politico.eu",
       "pubDate": "Fri, 20 Jun 2025 03:22:00 GMT"
@@ -200,10 +184,6 @@
     }
   ],
   "Artificial Intelligence": [
-    {
-      "title": "Microsoft says AI system better than doctors at diagnosing complex health conditions - The Guardian",
-      "pubDate": "Mon, 30 Jun 2025 14:29:00 GMT"
-    },
     {
       "title": "Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors - WIRED",
       "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
@@ -359,6 +339,10 @@
     {
       "title": "OpenAI claims a breakthrough in LLM reasoning on complex math problems - the-decoder.com",
       "pubDate": "Sat, 19 Jul 2025 12:12:35 GMT"
+    },
+    {
+      "title": "AI in health care could save lives and money \u2014 but not yet - PBS",
+      "pubDate": "Sat, 19 Jul 2025 20:13:32 GMT"
     }
   ],
   "US Politics": [
@@ -653,10 +637,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine says drones destroyed Russia\u2019s helicopters, air defences in Crimea - Al Jazeera",
-      "pubDate": "Sat, 28 Jun 2025 19:40:25 GMT"
-    },
-    {
       "title": "Ukraine Reports Record Russian Missile and Drone Attack - Bloomberg.com",
       "pubDate": "Sun, 29 Jun 2025 07:13:27 GMT"
     },
@@ -811,6 +791,10 @@
     {
       "title": "Ukraine attacks Moscow with drones for 3rd straight night, Russian official says - The Kyiv Independent",
       "pubDate": "Fri, 18 Jul 2025 23:16:05 GMT"
+    },
+    {
+      "title": "Russia Deploys New Lethal Tactic Against Ukraine - Newsweek",
+      "pubDate": "Sat, 19 Jul 2025 12:38:13 GMT"
     }
   ],
   "Russia": [
@@ -1145,10 +1129,6 @@
   ],
   "China": [
     {
-      "title": "China Says the U.S. Damaged Its Own Credibility by Striking Iran - The New York Times",
-      "pubDate": "Mon, 23 Jun 2025 07:58:38 GMT"
-    },
-    {
       "title": "China says Taiwan president spreading 'heresy' with sovereignty speech - Reuters",
       "pubDate": "Mon, 23 Jun 2025 23:48:06 GMT"
     },
@@ -1303,6 +1283,10 @@
     {
       "title": "Chinese scientists develop low-cost cell therapy for cancer, asthma - South China Morning Post",
       "pubDate": "Sat, 19 Jul 2025 06:00:12 GMT"
+    },
+    {
+      "title": "China Begins Construction Of Mega-Dam On Brahmaputra River In Tibet - NDTV",
+      "pubDate": "Sat, 19 Jul 2025 18:21:36 GMT"
     }
   ],
   "AI Safety": [
@@ -1673,6 +1657,10 @@
     {
       "title": "Astronomers detect most massive black hole collision to date - CNN",
       "pubDate": "Thu, 17 Jul 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Astronomer CEO resigns after viral Coldplay incident - CNN",
+      "pubDate": "Sat, 19 Jul 2025 19:25:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -2369,6 +2357,10 @@
     {
       "title": "10 States Bracing for Trump's Energy Tax Shock (and How They Plan to Cope) - MSN",
       "pubDate": "Wed, 16 Jul 2025 15:13:29 GMT"
+    },
+    {
+      "title": "The $200 Million Plan to Rebuild Ukraine's Energy Sector - Crude Oil Prices Today | OilPrice.com",
+      "pubDate": "Sat, 19 Jul 2025 15:00:00 GMT"
     }
   ],
   "Cosmology": [
@@ -2601,6 +2593,10 @@
     {
       "title": "Trump signs new stablecoin regulations into law, a major milestone for crypto industry - AP News",
       "pubDate": "Fri, 18 Jul 2025 21:21:00 GMT"
+    },
+    {
+      "title": "Trump Signs Historic GENIUS Act: New Cryptocurrency Law Could Reshape Banking and Strengthen US Dollar - Brave New Coin",
+      "pubDate": "Sat, 19 Jul 2025 17:30:50 GMT"
     }
   ],
   "Science": [
