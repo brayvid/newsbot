@@ -1,18 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Trump Isn\u2019t Engaging In \u201cStrategic Ambiguity\u201d on Iran. It\u2019s Something Much More Dangerous. - Slate Magazine",
-      "pubDate": "Fri, 20 Jun 2025 15:00:00 GMT"
-    },
-    {
-      "title": "A judge sided with Trump. Behind the scenes, he was lobbying for a nomination. - Politico",
-      "pubDate": "Fri, 20 Jun 2025 20:23:21 GMT"
-    },
-    {
-      "title": "As Trump floats special prosecutor on 2020, he should be careful what he wishes for - MSNBC News",
-      "pubDate": "Fri, 20 Jun 2025 16:12:03 GMT"
-    },
-    {
       "title": "From \u2018evacuate Tehran\u2019 to \u2018two weeks\u2019: Behind Trump\u2019s shift on Iran - The Washington Post",
       "pubDate": "Sat, 21 Jun 2025 06:11:05 GMT"
     },
@@ -23,31 +11,11 @@
   ],
   "recession": [
     {
-      "title": "US leading indicators slip in May, triggering recession signal, Conference Board says - TradingView",
-      "pubDate": "Fri, 20 Jun 2025 14:23:21 GMT"
-    },
-    {
-      "title": "Putin says he won\u2019t allow Russia to fall into recession amid warnings - The Washington Post",
-      "pubDate": "Fri, 20 Jun 2025 20:41:42 GMT"
-    },
-    {
-      "title": "Stock Market News Review: SPY, QQQ Slip as Recession Signal Flashes, Fed Officials Split on Rate Cuts - TipRanks",
-      "pubDate": "Fri, 20 Jun 2025 20:45:39 GMT"
-    },
-    {
       "title": "Ray Dalio\u2019s \u2018worse than a recession\u2019 caution has some edgy \u2014 here\u2019s his \u2018Holy Grail\u2019 of strategies in a crisis - Yahoo Finance",
       "pubDate": "Sat, 21 Jun 2025 11:17:00 GMT"
     }
   ],
   "artificial_intelligence": [
-    {
-      "title": "Pope Leo XIV flags AI impact on kids' intellectual and spiritual development - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Fri, 20 Jun 2025 12:17:20 GMT"
-    },
-    {
-      "title": "'It's crazy': Bay Area tech's hottest job market just hit an absurd intensity - SFGATE",
-      "pubDate": "Fri, 20 Jun 2025 19:45:38 GMT"
-    },
     {
       "title": "Apple Executives Have Held Internal Talks About Buying AI Startup Perplexity - Bloomberg",
       "pubDate": "Fri, 20 Jun 2025 22:35:57 GMT"
@@ -69,14 +37,6 @@
   ],
   "china": [
     {
-      "title": "US prepares action targeting allies\u2019 chip plants in China, WSJ reports - Reuters",
-      "pubDate": "Fri, 20 Jun 2025 15:17:32 GMT"
-    },
-    {
-      "title": "China sends dozens of planes across central line in Taiwan Strait - Euronews.com",
-      "pubDate": "Fri, 20 Jun 2025 09:58:11 GMT"
-    },
-    {
       "title": "China tightens internet controls with new centralized form of virtual ID - CNN",
       "pubDate": "Fri, 20 Jun 2025 22:00:00 GMT"
     },
@@ -91,31 +51,11 @@
   ],
   "us_economy": [
     {
-      "title": "Still early to assess tariff impact on US economy, Fed report says - The Business Times",
-      "pubDate": "Fri, 20 Jun 2025 15:30:00 GMT"
-    },
-    {
-      "title": "Federal Reserve starts to split on when to begin cutting US interest rates - Financial Times",
-      "pubDate": "Fri, 20 Jun 2025 18:18:01 GMT"
-    },
-    {
       "title": "'Million dollar question' now is health of US economy, say CIO - MSN",
       "pubDate": "Sat, 21 Jun 2025 00:25:30 GMT"
     }
   ],
   "us_politics": [
-    {
-      "title": "Charlie Kirk warns Lindsey Graham and Iran war hawks: \u2018Not even the Romans could defeat Persia\u2019 - The Independent",
-      "pubDate": "Fri, 20 Jun 2025 14:33:00 GMT"
-    },
-    {
-      "title": "Trump says Gabbard and US intelligence \u2018wrong\u2019 on Iran nukes as he warns Tehran could have bomb in \u2018weeks\u2019 - The Independent",
-      "pubDate": "Fri, 20 Jun 2025 20:22:00 GMT"
-    },
-    {
-      "title": "Judge blocks Trump administration from tying transportation funds to states\u2019 cooperation with immigration efforts - CNN",
-      "pubDate": "Fri, 20 Jun 2025 16:43:00 GMT"
-    },
     {
       "title": "US law enforcement reexamining Hezbollah intel, but there\u2019s no indication of credible threats - CNN",
       "pubDate": "Fri, 20 Jun 2025 22:07:00 GMT"
@@ -129,12 +69,6 @@
     {
       "title": "Israel-Iran latest: Huge explosion rocks Haifa after Tehran launches new wave of missile attacks - The Independent",
       "pubDate": "Sat, 21 Jun 2025 03:34:28 GMT"
-    }
-  ],
-  "israel": [
-    {
-      "title": "LIVE: Iran ready for nuclear talks when \u2018Israeli aggression stops\u2019 - Al Jazeera",
-      "pubDate": "Fri, 20 Jun 2025 20:03:45 GMT"
     }
   ],
   "Artificial Intelligence": [
@@ -591,10 +525,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine Reports Record Russian Missile and Drone Attack - Bloomberg.com",
-      "pubDate": "Sun, 29 Jun 2025 07:13:27 GMT"
-    },
-    {
       "title": "Russia hits Ukraine with biggest attack of the war; F-16 pilot is killed - politico.eu",
       "pubDate": "Sun, 29 Jun 2025 10:09:00 GMT"
     },
@@ -749,6 +679,10 @@
     {
       "title": "Russia Deploys New Lethal Tactic Against Ukraine - Newsweek",
       "pubDate": "Sat, 19 Jul 2025 12:38:13 GMT"
+    },
+    {
+      "title": "Russia Could Unleash 2,000 Drones on Ukraine at Once, German General Warns - UNITED24 Media",
+      "pubDate": "Sun, 20 Jul 2025 14:51:38 GMT"
     }
   ],
   "Russia": [
@@ -814,10 +748,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Senate votes to move forward on Trump\u2019s \u2018big, beautiful bill,\u2019 though measure\u2019s fate remains in question - CNN",
-      "pubDate": "Sun, 29 Jun 2025 06:30:00 GMT"
-    },
     {
       "title": "Senate advances massive bill for Trump's agenda after GOP leaders sway holdouts - NBC News",
       "pubDate": "Sun, 29 Jun 2025 16:01:00 GMT"
@@ -973,6 +903,10 @@
     {
       "title": "Trump files libel lawsuit over Wall Street Journal report on Jeffrey Epstein\u2019s birthday letters - CNN",
       "pubDate": "Sat, 19 Jul 2025 01:10:00 GMT"
+    },
+    {
+      "title": "Trump approval rating drops in new poll; more Americans oppose immigration policies - USA Today",
+      "pubDate": "Sun, 20 Jul 2025 17:51:56 GMT"
     }
   ],
   "World News": [
@@ -1385,6 +1319,10 @@
     {
       "title": "Indian crypto exchange CoinDCX hacked, $44 million drained - Cointelegraph",
       "pubDate": "Sat, 19 Jul 2025 16:37:51 GMT"
+    },
+    {
+      "title": "Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers - The Hacker News",
+      "pubDate": "Sun, 20 Jul 2025 09:52:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1669,6 +1607,10 @@
     {
       "title": "A Moderate Earthquake Shakes Bay Of Plenty With No Impact Felt: Latest Travel Safety Update - Travel And Tour World",
       "pubDate": "Sat, 19 Jul 2025 08:10:50 GMT"
+    },
+    {
+      "title": "7.4 magnitude earthquake hits off Russian coast, prompting brief tsunami alerts in Russia, Hawaii - ABC News",
+      "pubDate": "Sun, 20 Jul 2025 10:52:30 GMT"
     }
   ],
   "Quantum Computer": [
@@ -2541,6 +2483,10 @@
     {
       "title": "Hamas says Israel rejected ceasefire deal releasing all captives in Gaza - Al Jazeera",
       "pubDate": "Fri, 18 Jul 2025 18:37:05 GMT"
+    },
+    {
+      "title": "Israel Orders Civilians Out Of Central Gaza Ahead Of New Campaign - NDTV",
+      "pubDate": "Sun, 20 Jul 2025 08:58:50 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2667,6 +2613,10 @@
     {
       "title": "Only 3 years left \u2013 new study warns the world is running out of time to avoid the worst impacts of climate change - The Conversation",
       "pubDate": "Sun, 20 Jul 2025 04:20:54 GMT"
+    },
+    {
+      "title": "This is the summer of flooding across the US, and scientists know why - CNN",
+      "pubDate": "Sun, 20 Jul 2025 11:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2803,6 +2753,10 @@
     {
       "title": "EU agrees new Russia sanctions after Slovakia drops opposition \u2013 as it happened - The Guardian",
       "pubDate": "Fri, 18 Jul 2025 07:27:00 GMT"
+    },
+    {
+      "title": "EU to Force Car-Rental Firms to Buy EVs Only From 2030: Bild - Bloomberg.com",
+      "pubDate": "Sun, 20 Jul 2025 12:39:29 GMT"
     }
   ],
   "Global Health": [
