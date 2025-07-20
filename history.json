@@ -23,10 +23,6 @@
   ],
   "recession": [
     {
-      "title": "Russia's economy minister: Country on brink of recession - timesdaily.com",
-      "pubDate": "Fri, 20 Jun 2025 05:00:00 GMT"
-    },
-    {
       "title": "US leading indicators slip in May, triggering recession signal, Conference Board says - TradingView",
       "pubDate": "Fri, 20 Jun 2025 14:23:21 GMT"
     },
@@ -43,17 +39,7 @@
       "pubDate": "Sat, 21 Jun 2025 11:17:00 GMT"
     }
   ],
-  "cybersecurity": [
-    {
-      "title": "Cybersecurity Alert: 16 billion credentials leaked in largest-ever data breach - Deccan Herald",
-      "pubDate": "Fri, 20 Jun 2025 08:10:19 GMT"
-    }
-  ],
   "artificial_intelligence": [
-    {
-      "title": "How Artificial Intelligence Is Changing Journalism: From Headlines to Deep Analysis - Modern Diplomacy",
-      "pubDate": "Fri, 20 Jun 2025 08:39:54 GMT"
-    },
     {
       "title": "Pope Leo XIV flags AI impact on kids' intellectual and spiritual development - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Fri, 20 Jun 2025 12:17:20 GMT"
@@ -103,17 +89,7 @@
       "pubDate": "Sat, 21 Jun 2025 12:02:21 GMT"
     }
   ],
-  "elon_musk": [
-    {
-      "title": "SpaceX Starship rocket explodes in setback to Musk's Mars mission - Reuters",
-      "pubDate": "Fri, 20 Jun 2025 04:16:00 GMT"
-    }
-  ],
   "us_economy": [
-    {
-      "title": "U.S. Leading Indicators Signal Further Economic Slowdown - Barron's",
-      "pubDate": "Fri, 20 Jun 2025 08:18:00 GMT"
-    },
     {
       "title": "Still early to assess tariff impact on US economy, Fed report says - The Business Times",
       "pubDate": "Fri, 20 Jun 2025 15:30:00 GMT"
@@ -162,10 +138,6 @@
     }
   ],
   "Artificial Intelligence": [
-    {
-      "title": "Microsoft Says Its New AI System Diagnosed Patients 4 Times More Accurately Than Human Doctors - WIRED",
-      "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
-    },
     {
       "title": "Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal - Bloomberg",
       "pubDate": "Mon, 30 Jun 2025 20:55:05 GMT"
@@ -321,6 +293,10 @@
     {
       "title": "AI in health care could save lives and money \u2014 but not yet - PBS",
       "pubDate": "Sat, 19 Jul 2025 20:13:32 GMT"
+    },
+    {
+      "title": "Artificial intelligence for healthcare: restrained development despite impressive applications - Infectious Diseases of Poverty",
+      "pubDate": "Sun, 20 Jul 2025 03:04:51 GMT"
     }
   ],
   "US Politics": [
@@ -831,6 +807,10 @@
     {
       "title": "After Ukraine, this country could be Putin's next target for invasion - Australian Broadcasting Corporation",
       "pubDate": "Sat, 19 Jul 2025 19:25:05 GMT"
+    },
+    {
+      "title": "Massive Drone Attack Disrupts Moscow Airports, Damages Homes and Cars - Kyiv Post",
+      "pubDate": "Sun, 20 Jul 2025 06:06:49 GMT"
     }
   ],
   "Donald Trump": [
@@ -1111,10 +1091,6 @@
   ],
   "China": [
     {
-      "title": "China says Taiwan president spreading 'heresy' with sovereignty speech - Reuters",
-      "pubDate": "Mon, 23 Jun 2025 23:48:06 GMT"
-    },
-    {
       "title": "China doubles down on promoting yuan as confidence in U.S. dollar takes a beating - CNBC",
       "pubDate": "Wed, 25 Jun 2025 00:06:00 GMT"
     },
@@ -1269,6 +1245,10 @@
     {
       "title": "China Begins Construction Of Mega-Dam On Brahmaputra River In Tibet - NDTV",
       "pubDate": "Sat, 19 Jul 2025 18:21:36 GMT"
+    },
+    {
+      "title": "Microsoft says it will no longer use engineers in China for Department of Defense work - TechCrunch",
+      "pubDate": "Sat, 19 Jul 2025 21:20:53 GMT"
     }
   ],
   "AI Safety": [
@@ -2043,6 +2023,10 @@
     {
       "title": "Scientists make game-changing breakthrough that could slash costs of solar panels: 'Has the potential to contribute to the energy transition' - Yahoo Home",
       "pubDate": "Sat, 19 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Japan sees bright future for ultra-thin, flexible solar panels - KAKE",
+      "pubDate": "Sun, 20 Jul 2025 03:05:28 GMT"
     }
   ],
   "Cancer": [
@@ -2679,6 +2663,10 @@
     {
       "title": "Revised estimates of temperature changes under net zero CO2 emissions | npj Climate and Atmospheric Science - Nature",
       "pubDate": "Sat, 19 Jul 2025 15:58:37 GMT"
+    },
+    {
+      "title": "Only 3 years left \u2013 new study warns the world is running out of time to avoid the worst impacts of climate change - The Conversation",
+      "pubDate": "Sun, 20 Jul 2025 04:20:54 GMT"
     }
   ],
   "Algorithms": [
@@ -2833,6 +2821,12 @@
     {
       "title": "Scientists discover what wiped out global ocean life 200 million years ago - The Brighter Side of News",
       "pubDate": "Sat, 19 Jul 2025 16:07:00 GMT"
+    }
+  ],
+  "Nanotechnology": [
+    {
+      "title": "Scientists twist DNA into self-building nanostructures that could transform technology - ScienceDaily",
+      "pubDate": "Sun, 20 Jul 2025 08:40:27 GMT"
     }
   ]
 }
