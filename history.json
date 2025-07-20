@@ -1,14 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "Juneteenth Goes Uncelebrated at White House as Trump Complains About \u2018Too Many\u2019 Holidays - The New York Times",
-      "pubDate": "Fri, 20 Jun 2025 02:40:03 GMT"
-    },
-    {
-      "title": "Trump\u2019s new two-week negotiating window sets off scramble to restart stalled Iran talks - CNN",
-      "pubDate": "Thu, 19 Jun 2025 23:19:00 GMT"
-    },
-    {
       "title": "Trump Isn\u2019t Engaging In \u201cStrategic Ambiguity\u201d on Iran. It\u2019s Something Much More Dangerous. - Slate Magazine",
       "pubDate": "Fri, 20 Jun 2025 15:00:00 GMT"
     },
@@ -59,10 +51,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "UN says use of artificial intelligence must comply with international human rights - JURIST Legal News",
-      "pubDate": "Thu, 19 Jun 2025 23:17:06 GMT"
-    },
-    {
       "title": "How Artificial Intelligence Is Changing Journalism: From Headlines to Deep Analysis - Modern Diplomacy",
       "pubDate": "Fri, 20 Jun 2025 08:39:54 GMT"
     },
@@ -91,12 +79,6 @@
     {
       "title": "Patience is key in markets as global uncertainties test new investors: Raamdeo Agrawal - The Economic Times",
       "pubDate": "Sat, 21 Jun 2025 08:29:31 GMT"
-    }
-  ],
-  "trade_war": [
-    {
-      "title": "Europe\u2019s central banks are all cutting rates, even as tariffs tie the Fed\u2019s hands - politico.eu",
-      "pubDate": "Fri, 20 Jun 2025 03:22:00 GMT"
     }
   ],
   "china": [
@@ -146,10 +128,6 @@
     }
   ],
   "us_politics": [
-    {
-      "title": "Trump gives Iran \u2018two-week\u2019 reprieve as his inner circle quietly seeks exit route - The Times",
-      "pubDate": "Thu, 19 Jun 2025 22:45:00 GMT"
-    },
     {
       "title": "Charlie Kirk warns Lindsey Graham and Iran war hawks: \u2018Not even the Romans could defeat Persia\u2019 - The Independent",
       "pubDate": "Fri, 20 Jun 2025 14:33:00 GMT"
@@ -849,6 +827,10 @@
     {
       "title": "EU imposes new sanctions on Russia's oil and banks after Robert Fico lifts his veto - Euronews.com",
       "pubDate": "Fri, 18 Jul 2025 06:36:51 GMT"
+    },
+    {
+      "title": "After Ukraine, this country could be Putin's next target for invasion - Australian Broadcasting Corporation",
+      "pubDate": "Sat, 19 Jul 2025 19:25:05 GMT"
     }
   ],
   "Donald Trump": [
@@ -1419,6 +1401,10 @@
     {
       "title": "5.4 million hit in major healthcare data breach \u2014 names, emails, SSNs and more exposed - Tom's Guide",
       "pubDate": "Mon, 14 Jul 2025 21:57:23 GMT"
+    },
+    {
+      "title": "Indian crypto exchange CoinDCX hacked, $44 million drained - Cointelegraph",
+      "pubDate": "Sat, 19 Jul 2025 16:37:51 GMT"
     }
   ],
   "Cybersecurity": [
@@ -2425,6 +2411,10 @@
     {
       "title": "OpenAI Faces IRS Complaint Over Alleged Tax Violations - Cointelegraph",
       "pubDate": "Fri, 11 Jul 2025 05:49:29 GMT"
+    },
+    {
+      "title": "OpenAI just won gold at the world's most prestigious math competition. Here's why that's a big deal. - Business Insider",
+      "pubDate": "Sat, 19 Jul 2025 22:25:00 GMT"
     }
   ],
   "Quantum Computing": [
@@ -2685,6 +2675,10 @@
     {
       "title": "Why flash floods like those in Texas and New York are becoming more common - Axios",
       "pubDate": "Wed, 16 Jul 2025 18:40:25 GMT"
+    },
+    {
+      "title": "Revised estimates of temperature changes under net zero CO2 emissions | npj Climate and Atmospheric Science - Nature",
+      "pubDate": "Sat, 19 Jul 2025 15:58:37 GMT"
     }
   ],
   "Algorithms": [
@@ -2833,6 +2827,12 @@
     {
       "title": "EPA shutters its scientific research arm, with hundreds of scientists expected to be impacted - CBS News",
       "pubDate": "Sat, 19 Jul 2025 03:21:23 GMT"
+    }
+  ],
+  "Oceans": [
+    {
+      "title": "Scientists discover what wiped out global ocean life 200 million years ago - The Brighter Side of News",
+      "pubDate": "Sat, 19 Jul 2025 16:07:00 GMT"
     }
   ]
 }
