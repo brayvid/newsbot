@@ -1,10 +1,6 @@
 {
   "donald_trump": [
     {
-      "title": "From \u2018evacuate Tehran\u2019 to \u2018two weeks\u2019: Behind Trump\u2019s shift on Iran - The Washington Post",
-      "pubDate": "Sat, 21 Jun 2025 06:11:05 GMT"
-    },
-    {
       "title": "Trump wants one thing from the NATO summit. Europe is going to give it to him. - Politico",
       "pubDate": "Sat, 21 Jun 2025 11:00:00 GMT"
     }
@@ -21,17 +17,7 @@
       "pubDate": "Sat, 21 Jun 2025 09:25:17 GMT"
     }
   ],
-  "financial_markets": [
-    {
-      "title": "Patience is key in markets as global uncertainties test new investors: Raamdeo Agrawal - The Economic Times",
-      "pubDate": "Sat, 21 Jun 2025 08:29:31 GMT"
-    }
-  ],
   "china": [
-    {
-      "title": "Von der Leyen's return as China hawk ends talk of diplomatic reset - Euronews.com",
-      "pubDate": "Sat, 21 Jun 2025 06:30:38 GMT"
-    },
     {
       "title": "China warns of more floods as extreme storms hit world's No.2 economy - Reuters",
       "pubDate": "Sat, 21 Jun 2025 12:02:21 GMT"
@@ -997,10 +983,6 @@
   ],
   "China": [
     {
-      "title": "China Military Unveils Mosquito-Sized Drones for 'Special Missions' - Newsweek",
-      "pubDate": "Wed, 25 Jun 2025 15:39:55 GMT"
-    },
-    {
       "title": "China breaks more records with surge in solar and wind power - The Guardian",
       "pubDate": "Thu, 26 Jun 2025 05:52:00 GMT"
     },
@@ -1155,6 +1137,10 @@
     {
       "title": "China holds key lending rates as softening consumer sentiment persists in world's second largest economy - CNBC",
       "pubDate": "Mon, 21 Jul 2025 01:06:00 GMT"
+    },
+    {
+      "title": "China embarks on world's largest hydropower dam, capital markets cheer - Reuters",
+      "pubDate": "Mon, 21 Jul 2025 06:43:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1333,6 +1319,10 @@
     {
       "title": "Microsoft Server Software Comes Under Widespread Cyberattack (MSFT) - Bloomberg",
       "pubDate": "Mon, 21 Jul 2025 03:06:00 GMT"
+    },
+    {
+      "title": "PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse - The Hacker News",
+      "pubDate": "Mon, 21 Jul 2025 06:13:00 GMT"
     }
   ],
   "US Economy": [
@@ -2249,6 +2239,10 @@
     {
       "title": "The $200 Million Plan to Rebuild Ukraine's Energy Sector - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Sat, 19 Jul 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Plan for vast solar field riles critics seeking to preserve Negev\u2019s open vistas - The Times of Israel",
+      "pubDate": "Mon, 21 Jul 2025 05:52:27 GMT"
     }
   ],
   "Cosmology": [
@@ -2343,6 +2337,10 @@
     {
       "title": "Trump threatens federal takeover of NYC if \u2018communist\u2019 Zohran Mamdani wins mayoral race - New York Post",
       "pubDate": "Tue, 08 Jul 2025 18:35:00 GMT"
+    },
+    {
+      "title": "GOP blasts \u2018fearmongering\u2019 Ocasio-Cortez for mocking Stefanik at North Country stop: \u2018AOC is beyond parody\u2019 - New York Post",
+      "pubDate": "Sun, 20 Jul 2025 22:59:00 GMT"
     }
   ],
   "Geopolitics": [
@@ -2601,6 +2599,10 @@
     {
       "title": "Exploring the impact of nature connectedness on Chinese adolescents\u2019 climate change awareness and the mediating role of geographical synthetic thinking - Nature",
       "pubDate": "Sun, 20 Jul 2025 20:52:50 GMT"
+    },
+    {
+      "title": "Climate crisis causing food price spikes around the world, scientists say - Al Jazeera",
+      "pubDate": "Mon, 21 Jul 2025 05:28:42 GMT"
     }
   ],
   "Algorithms": [
@@ -2619,6 +2621,10 @@
     {
       "title": "DOJ Warns of Potential Antitrust Risks With Pricing Algorithms - Bloomberg Law News",
       "pubDate": "Wed, 16 Jul 2025 08:30:00 GMT"
+    },
+    {
+      "title": "US and China race to set post-quantum cryptography standards - digitimes",
+      "pubDate": "Mon, 21 Jul 2025 03:48:38 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -2769,6 +2775,12 @@
     {
       "title": "Scientists twist DNA into self-building nanostructures that could transform technology - ScienceDaily",
       "pubDate": "Sun, 20 Jul 2025 08:40:27 GMT"
+    }
+  ],
+  "Amazon": [
+    {
+      "title": "Under-qualified sysadmin crashed Amazon.com for 3 hours with a typo - theregister.com",
+      "pubDate": "Mon, 21 Jul 2025 07:32:00 GMT"
     }
   ]
 }
