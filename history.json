@@ -17,14 +17,6 @@
   ],
   "artificial_intelligence": [
     {
-      "title": "Apple Executives Have Held Internal Talks About Buying AI Startup Perplexity - Bloomberg",
-      "pubDate": "Fri, 20 Jun 2025 22:35:57 GMT"
-    },
-    {
-      "title": "Apple sued by shareholders for allegedly overstating AI progress - Reuters",
-      "pubDate": "Fri, 20 Jun 2025 21:08:08 GMT"
-    },
-    {
       "title": "MAHA Initiative Analysis Highlights Role of Artificial Intelligence and Biomarkers in Drug Regulation - geneonline.com",
       "pubDate": "Sat, 21 Jun 2025 09:25:17 GMT"
     }
@@ -37,10 +29,6 @@
   ],
   "china": [
     {
-      "title": "China tightens internet controls with new centralized form of virtual ID - CNN",
-      "pubDate": "Fri, 20 Jun 2025 22:00:00 GMT"
-    },
-    {
       "title": "Von der Leyen's return as China hawk ends talk of diplomatic reset - Euronews.com",
       "pubDate": "Sat, 21 Jun 2025 06:30:38 GMT"
     },
@@ -49,26 +37,10 @@
       "pubDate": "Sat, 21 Jun 2025 12:02:21 GMT"
     }
   ],
-  "us_economy": [
-    {
-      "title": "'Million dollar question' now is health of US economy, say CIO - MSN",
-      "pubDate": "Sat, 21 Jun 2025 00:25:30 GMT"
-    }
-  ],
   "us_politics": [
-    {
-      "title": "US law enforcement reexamining Hezbollah intel, but there\u2019s no indication of credible threats - CNN",
-      "pubDate": "Fri, 20 Jun 2025 22:07:00 GMT"
-    },
     {
       "title": "Power struggles in US politics - Culture - Al-Ahram Weekly - Ahram Online",
       "pubDate": "Sat, 21 Jun 2025 09:35:54 GMT"
-    }
-  ],
-  "iran": [
-    {
-      "title": "Israel-Iran latest: Huge explosion rocks Haifa after Tehran launches new wave of missile attacks - The Independent",
-      "pubDate": "Sat, 21 Jun 2025 03:34:28 GMT"
     }
   ],
   "Artificial Intelligence": [
@@ -525,10 +497,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia hits Ukraine with biggest attack of the war; F-16 pilot is killed - politico.eu",
-      "pubDate": "Sun, 29 Jun 2025 10:09:00 GMT"
-    },
-    {
       "title": "Russia launches the biggest aerial attack since the start of the war, Ukraine says - AP News",
       "pubDate": "Sun, 29 Jun 2025 18:48:00 GMT"
     },
@@ -683,6 +651,10 @@
     {
       "title": "Russia Could Unleash 2,000 Drones on Ukraine at Once, German General Warns - UNITED24 Media",
       "pubDate": "Sun, 20 Jul 2025 14:51:38 GMT"
+    },
+    {
+      "title": "Moscow airports shutdown after Ukraine fires more than 230 drones - New York Post",
+      "pubDate": "Sun, 20 Jul 2025 21:22:00 GMT"
     }
   ],
   "Russia": [
@@ -748,10 +720,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Senate advances massive bill for Trump's agenda after GOP leaders sway holdouts - NBC News",
-      "pubDate": "Sun, 29 Jun 2025 16:01:00 GMT"
-    },
     {
       "title": "Senate Republicans seek to vote on Trump\u2019s massive tax bill Monday - The Washington Post",
       "pubDate": "Mon, 30 Jun 2025 02:43:47 GMT"
@@ -907,6 +875,10 @@
     {
       "title": "Trump approval rating drops in new poll; more Americans oppose immigration policies - USA Today",
       "pubDate": "Sun, 20 Jul 2025 17:51:56 GMT"
+    },
+    {
+      "title": "Trump threatens to derail Washington Commanders' new stadium deal over team name - NPR",
+      "pubDate": "Mon, 21 Jul 2025 01:30:45 GMT"
     }
   ],
   "World News": [
@@ -1024,10 +996,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China doubles down on promoting yuan as confidence in U.S. dollar takes a beating - CNBC",
-      "pubDate": "Wed, 25 Jun 2025 00:06:00 GMT"
-    },
     {
       "title": "China Military Unveils Mosquito-Sized Drones for 'Special Missions' - Newsweek",
       "pubDate": "Wed, 25 Jun 2025 15:39:55 GMT"
@@ -1183,6 +1151,10 @@
     {
       "title": "Microsoft says it will no longer use engineers in China for Department of Defense work - TechCrunch",
       "pubDate": "Sat, 19 Jul 2025 21:20:53 GMT"
+    },
+    {
+      "title": "China holds key lending rates as softening consumer sentiment persists in world's second largest economy - CNBC",
+      "pubDate": "Mon, 21 Jul 2025 01:06:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1357,6 +1329,10 @@
     {
       "title": "AI-driven European cybersecurity project puts patient safety first - Healthcare IT News",
       "pubDate": "Fri, 11 Jul 2025 19:37:00 GMT"
+    },
+    {
+      "title": "Microsoft Server Software Comes Under Widespread Cyberattack (MSFT) - Bloomberg",
+      "pubDate": "Mon, 21 Jul 2025 03:06:00 GMT"
     }
   ],
   "US Economy": [
@@ -2487,6 +2463,10 @@
     {
       "title": "Israel Orders Civilians Out Of Central Gaza Ahead Of New Campaign - NDTV",
       "pubDate": "Sun, 20 Jul 2025 08:58:50 GMT"
+    },
+    {
+      "title": "79 Gazans killed waiting for food after Israeli troops open fire, medics say - The Washington Post",
+      "pubDate": "Mon, 21 Jul 2025 03:51:50 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2617,6 +2597,10 @@
     {
       "title": "This is the summer of flooding across the US, and scientists know why - CNN",
       "pubDate": "Sun, 20 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Exploring the impact of nature connectedness on Chinese adolescents\u2019 climate change awareness and the mediating role of geographical synthetic thinking - Nature",
+      "pubDate": "Sun, 20 Jul 2025 20:52:50 GMT"
     }
   ],
   "Algorithms": [
@@ -2699,6 +2683,10 @@
     {
       "title": "GM Presses Ahead With New Battery Investment as EV Market Slumps - Bloomberg.com",
       "pubDate": "Mon, 14 Jul 2025 15:00:01 GMT"
+    },
+    {
+      "title": "Life Atop China\u2019s Car Market Is Starting to Look Shaky for BYD - Bloomberg",
+      "pubDate": "Mon, 21 Jul 2025 02:06:00 GMT"
     }
   ],
   "Hacking": [
