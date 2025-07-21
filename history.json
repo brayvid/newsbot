@@ -1,34 +1,4 @@
 {
-  "donald_trump": [
-    {
-      "title": "Trump wants one thing from the NATO summit. Europe is going to give it to him. - Politico",
-      "pubDate": "Sat, 21 Jun 2025 11:00:00 GMT"
-    }
-  ],
-  "recession": [
-    {
-      "title": "Ray Dalio\u2019s \u2018worse than a recession\u2019 caution has some edgy \u2014 here\u2019s his \u2018Holy Grail\u2019 of strategies in a crisis - Yahoo Finance",
-      "pubDate": "Sat, 21 Jun 2025 11:17:00 GMT"
-    }
-  ],
-  "artificial_intelligence": [
-    {
-      "title": "MAHA Initiative Analysis Highlights Role of Artificial Intelligence and Biomarkers in Drug Regulation - geneonline.com",
-      "pubDate": "Sat, 21 Jun 2025 09:25:17 GMT"
-    }
-  ],
-  "china": [
-    {
-      "title": "China warns of more floods as extreme storms hit world's No.2 economy - Reuters",
-      "pubDate": "Sat, 21 Jun 2025 12:02:21 GMT"
-    }
-  ],
-  "us_politics": [
-    {
-      "title": "Power struggles in US politics - Culture - Al-Ahram Weekly - Ahram Online",
-      "pubDate": "Sat, 21 Jun 2025 09:35:54 GMT"
-    }
-  ],
   "Artificial Intelligence": [
     {
       "title": "Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal - Bloomberg",
@@ -331,10 +301,6 @@
       "pubDate": "Sat, 21 Jun 2025 16:19:00 GMT"
     },
     {
-      "title": "Israel says it hit Iran nuclear research facility, killed top commanders as both trade strikes - The Hill",
-      "pubDate": "Sat, 21 Jun 2025 13:47:00 GMT"
-    },
-    {
       "title": "Live Updates: U.S. Enters War Against Iran, Bombing Key Nuclear Sites - The New York Times",
       "pubDate": "Sun, 22 Jun 2025 03:52:00 GMT"
     },
@@ -416,10 +382,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel-Iran live updates: Israel kills 3 Iranian generals, strikes nuclear site - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Sat, 21 Jun 2025 13:28:00 GMT"
-    },
     {
       "title": "Israeli strikes on Iran cap dramatic shift in Mideast strategic balance - The Washington Post",
       "pubDate": "Sun, 22 Jun 2025 02:51:57 GMT"
@@ -647,10 +609,6 @@
     {
       "title": "Putin Sending Dead Russian Soldiers to Ukraine To Hide Losses: Zelensky - Newsweek",
       "pubDate": "Sat, 21 Jun 2025 16:20:20 GMT"
-    },
-    {
-      "title": "Putin says 'all of Ukraine is ours' and threatens nuclear strike - Sky News",
-      "pubDate": "Sat, 21 Jun 2025 14:32:34 GMT"
     },
     {
       "title": "Russia\u2019s economy boomed after the invasion of Ukraine\u2014it\u2019s now running out of steam - Fortune",
@@ -983,10 +941,6 @@
   ],
   "China": [
     {
-      "title": "China breaks more records with surge in solar and wind power - The Guardian",
-      "pubDate": "Thu, 26 Jun 2025 05:52:00 GMT"
-    },
-    {
       "title": "China Could Turn Up the Heat on Taiwan. Iran Is Why. - Barron's",
       "pubDate": "Thu, 26 Jun 2025 14:55:00 GMT"
     },
@@ -1141,6 +1095,10 @@
     {
       "title": "China embarks on world's largest hydropower dam, capital markets cheer - Reuters",
       "pubDate": "Mon, 21 Jul 2025 06:43:00 GMT"
+    },
+    {
+      "title": "China confirms Xi meeting with EU's von der Leyen, Costa - Reuters",
+      "pubDate": "Mon, 21 Jul 2025 09:52:12 GMT"
     }
   ],
   "AI Safety": [
@@ -1323,6 +1281,10 @@
     {
       "title": "PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse - The Hacker News",
       "pubDate": "Mon, 21 Jul 2025 06:13:00 GMT"
+    },
+    {
+      "title": "Microsoft SharePoint under 'active exploitation,' Homeland Security's CISA says - ABC News",
+      "pubDate": "Mon, 21 Jul 2025 10:05:26 GMT"
     }
   ],
   "US Economy": [
@@ -1819,6 +1781,10 @@
     {
       "title": "Bitcoin Tops $120K on Report of Trump Approving Crypto Investments for Retirement Accounts - CoinDesk",
       "pubDate": "Thu, 17 Jul 2025 22:26:34 GMT"
+    },
+    {
+      "title": "Trump Media stock surges after acquiring $2 billion of bitcoin - Yahoo Finance",
+      "pubDate": "Mon, 21 Jul 2025 13:37:12 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2625,6 +2591,10 @@
     {
       "title": "US and China race to set post-quantum cryptography standards - digitimes",
       "pubDate": "Mon, 21 Jul 2025 03:48:38 GMT"
+    },
+    {
+      "title": "Musk\u2019s X refuses to share algorithm with French prosecutors, decrying \u2018politically motivated\u2019 probe - AnewZ",
+      "pubDate": "Mon, 21 Jul 2025 11:52:22 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -2649,6 +2619,10 @@
     {
       "title": "China puts new restrictions on EV battery technology in latest move to consolidate dominance - CNN",
       "pubDate": "Thu, 17 Jul 2025 07:46:00 GMT"
+    },
+    {
+      "title": "This $11,000 Chinese EV with semi-solid state batteries is about shake up the industry - Electrek",
+      "pubDate": "Mon, 21 Jul 2025 14:14:00 GMT"
     }
   ],
   "Natural History": [
