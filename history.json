@@ -163,14 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Democrats are at odds over the Israel-Iran war as Trump considers intervening - WTOP",
-      "pubDate": "Sat, 21 Jun 2025 16:52:52 GMT"
-    },
-    {
-      "title": "Senate Official Rejects Food Aid Cuts Proposed by Republicans in Megabill - The New York Times",
-      "pubDate": "Sat, 21 Jun 2025 16:24:57 GMT"
-    },
-    {
       "title": "Trump's Iran strikes meet bipartisan blowback in Congress over war powers - Axios",
       "pubDate": "Sun, 22 Jun 2025 01:29:44 GMT"
     },
@@ -296,10 +288,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "U.S. Begins Moving B-2 Bombers, as Trump Weighs Attack on Iran - WSJ",
-      "pubDate": "Sat, 21 Jun 2025 16:19:00 GMT"
-    },
     {
       "title": "Live Updates: U.S. Enters War Against Iran, Bombing Key Nuclear Sites - The New York Times",
       "pubDate": "Sun, 22 Jun 2025 03:52:00 GMT"
@@ -606,10 +594,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Putin Sending Dead Russian Soldiers to Ukraine To Hide Losses: Zelensky - Newsweek",
-      "pubDate": "Sat, 21 Jun 2025 16:20:20 GMT"
-    },
     {
       "title": "Russia\u2019s economy boomed after the invasion of Ukraine\u2014it\u2019s now running out of steam - Fortune",
       "pubDate": "Sun, 22 Jun 2025 12:08:00 GMT"
@@ -941,10 +925,6 @@
   ],
   "China": [
     {
-      "title": "China Could Turn Up the Heat on Taiwan. Iran Is Why. - Barron's",
-      "pubDate": "Thu, 26 Jun 2025 14:55:00 GMT"
-    },
-    {
       "title": "Exclusive | China Is Still Choking Exports of Rare Earths Despite Pact With U.S. - WSJ",
       "pubDate": "Thu, 26 Jun 2025 09:30:00 GMT"
     },
@@ -1099,6 +1079,10 @@
     {
       "title": "China confirms Xi meeting with EU's von der Leyen, Costa - Reuters",
       "pubDate": "Mon, 21 Jul 2025 09:52:12 GMT"
+    },
+    {
+      "title": "US Government Worker Prevented From Leaving China: What We Know - Newsweek",
+      "pubDate": "Mon, 21 Jul 2025 09:36:44 GMT"
     }
   ],
   "AI Safety": [
@@ -1239,6 +1223,10 @@
     {
       "title": "Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers - The Hacker News",
       "pubDate": "Sun, 20 Jul 2025 09:52:00 GMT"
+    },
+    {
+      "title": "Microsoft server hack hit about 100 organizations, researchers say - Reuters",
+      "pubDate": "Mon, 21 Jul 2025 18:06:10 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1687,6 +1675,10 @@
     {
       "title": "Zohran Mamdani\u2019s Winning Style - The New York Times",
       "pubDate": "Thu, 26 Jun 2025 14:50:03 GMT"
+    },
+    {
+      "title": "New York City mayor says city is joining \u2018Citizen\u2019 public safety app - StateScoop",
+      "pubDate": "Mon, 21 Jul 2025 19:52:11 GMT"
     }
   ],
   "Bitcoin": [
@@ -2183,6 +2175,10 @@
     {
       "title": "Trump Has Draft of Letter to Fire Fed Chair. He Asked Republicans if He Should Send It. - The New York Times",
       "pubDate": "Wed, 16 Jul 2025 19:51:54 GMT"
+    },
+    {
+      "title": "Treasury Secretary Bessent calls for a review of 'the entire' Federal Reserve - CNBC",
+      "pubDate": "Mon, 21 Jul 2025 12:44:05 GMT"
     }
   ],
   "Alternative Energy": [
@@ -2243,6 +2239,10 @@
     {
       "title": "Jeffrey Epstein died by suicide, justice department and FBI review confirms - The Guardian",
       "pubDate": "Mon, 07 Jul 2025 15:40:00 GMT"
+    },
+    {
+      "title": "Trump administration released FBI records on MLK Jr. despite his family\u2019s opposition - AP News",
+      "pubDate": "Mon, 21 Jul 2025 19:49:00 GMT"
     }
   ],
   "Chemistry": [
@@ -2431,6 +2431,10 @@
     {
       "title": "79 Gazans killed waiting for food after Israeli troops open fire, medics say - The Washington Post",
       "pubDate": "Mon, 21 Jul 2025 03:51:50 GMT"
+    },
+    {
+      "title": "Israel launches air and ground offensive on Deir al-Balah in central Gaza - The Guardian",
+      "pubDate": "Mon, 21 Jul 2025 11:14:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2755,6 +2759,12 @@
     {
       "title": "Under-qualified sysadmin crashed Amazon.com for 3 hours with a typo - theregister.com",
       "pubDate": "Mon, 21 Jul 2025 07:32:00 GMT"
+    }
+  ],
+  "Large Language Models": [
+    {
+      "title": "AI models learn to split up tasks, slashing wait times for complex prompts - Tech Xplore",
+      "pubDate": "Mon, 21 Jul 2025 14:00:01 GMT"
     }
   ]
 }
