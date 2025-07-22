@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump's Iran strikes meet bipartisan blowback in Congress over war powers - Axios",
-      "pubDate": "Sun, 22 Jun 2025 01:29:44 GMT"
-    },
-    {
       "title": "Republican Lawmakers Cheer Strike on Iran as Top Democrats Condemn It - The New York Times",
       "pubDate": "Sun, 22 Jun 2025 05:37:56 GMT"
     },
@@ -289,10 +285,6 @@
   ],
   "Iran": [
     {
-      "title": "Live Updates: U.S. Enters War Against Iran, Bombing Key Nuclear Sites - The New York Times",
-      "pubDate": "Sun, 22 Jun 2025 03:52:00 GMT"
-    },
-    {
       "title": "Iran Had Vowed to Retaliate. Now, It Faces Grim Choices. - The New York Times",
       "pubDate": "Sun, 22 Jun 2025 05:51:15 GMT"
     },
@@ -370,10 +362,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israeli strikes on Iran cap dramatic shift in Mideast strategic balance - The Washington Post",
-      "pubDate": "Sun, 22 Jun 2025 02:51:57 GMT"
-    },
     {
       "title": "What to know about the Iranian nuclear sites that were hit by US strikes - The Times of Israel",
       "pubDate": "Sun, 22 Jun 2025 07:49:44 GMT"
@@ -811,10 +799,6 @@
   ],
   "World News": [
     {
-      "title": "US Bombs 3 Nuclear Sites In Iran, Trump Says \"Now Is Time For Peace\" - NDTV",
-      "pubDate": "Sun, 22 Jun 2025 00:43:05 GMT"
-    },
-    {
       "title": "US strikes on Iran come at fragile moment for the global economy - The Economic Times",
       "pubDate": "Sun, 22 Jun 2025 06:39:46 GMT"
     },
@@ -824,10 +808,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "What are the national security implications of Trump's Iran attack - CBS News",
-      "pubDate": "Sun, 22 Jun 2025 01:30:00 GMT"
-    },
     {
       "title": "US on 'high alert' for Iran retaliation, says nuke program 'obliterated': Live updates - USA Today",
       "pubDate": "Sun, 22 Jun 2025 14:37:30 GMT"
@@ -843,10 +823,6 @@
   ],
   "US Congress": [
     {
-      "title": "Congress members split over US attack on Iran - Reuters",
-      "pubDate": "Sun, 22 Jun 2025 02:54:00 GMT"
-    },
-    {
       "title": "Most House Democrats vote to kill Al Green's impeachment measure - Politico",
       "pubDate": "Tue, 24 Jun 2025 18:21:15 GMT"
     },
@@ -856,10 +832,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Investors brace for oil price spike, rush to havens after US bombs Iran nuclear sites - USA Today",
-      "pubDate": "Sun, 22 Jun 2025 02:43:21 GMT"
-    },
     {
       "title": "Most Gulf markets trade up, unfazed by rising regional tensions as US strikes Iran - Reuters",
       "pubDate": "Sun, 22 Jun 2025 09:56:59 GMT"
@@ -1273,6 +1245,10 @@
     {
       "title": "Microsoft SharePoint under 'active exploitation,' Homeland Security's CISA says - ABC News",
       "pubDate": "Mon, 21 Jul 2025 10:05:26 GMT"
+    },
+    {
+      "title": "Microsoft Rushes to Stop Hackers from Wreaking Global Havoc - Bloomberg.com",
+      "pubDate": "Mon, 21 Jul 2025 21:52:51 GMT"
     }
   ],
   "US Economy": [
@@ -1559,6 +1535,10 @@
     {
       "title": "A roadmap to beat Trump? How rise of Zohran Mamdani is dividing Democrats - The Guardian",
       "pubDate": "Sun, 29 Jun 2025 19:27:00 GMT"
+    },
+    {
+      "title": "A year post-Biden's exit, the Democratic Party still struggles to find footing: Analysis - ABC News",
+      "pubDate": "Mon, 21 Jul 2025 23:50:36 GMT"
     }
   ],
   "Hamas": [
@@ -2099,6 +2079,10 @@
     {
       "title": "EU announces \u20ac200m contribution to Spanish fusion research facility - Global Construction Review",
       "pubDate": "Fri, 18 Jul 2025 10:32:53 GMT"
+    },
+    {
+      "title": "Global investment in fusion energy rises the most since 2022 - Reuters",
+      "pubDate": "Tue, 22 Jul 2025 00:03:00 GMT"
     }
   ],
   "North Korea": [
@@ -2573,6 +2557,10 @@
     {
       "title": "Climate crisis causing food price spikes around the world, scientists say - Al Jazeera",
       "pubDate": "Mon, 21 Jul 2025 05:28:42 GMT"
+    },
+    {
+      "title": "Grocery bills are rising as the planet cooks - Axios",
+      "pubDate": "Mon, 21 Jul 2025 20:25:34 GMT"
     }
   ],
   "Algorithms": [
@@ -2687,6 +2675,10 @@
     {
       "title": "EPA eliminates its scientific research arm - The Washington Post",
       "pubDate": "Sat, 19 Jul 2025 03:21:00 GMT"
+    },
+    {
+      "title": "Trump expands fossil fuel agenda while slashing science and renewable energy, potentially setting back green progress by decades - The Daily Climate",
+      "pubDate": "Mon, 21 Jul 2025 18:08:15 GMT"
     }
   ],
   "Animals": [
