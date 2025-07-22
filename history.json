@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Google signs first fusion power deal with MIT spinout Commonwealth Fusion Systems - Proactive Investors",
-      "pubDate": "Tue, 01 Jul 2025 07:34:00 GMT"
-    },
-    {
       "title": "Senate Votes 99-1 to Strip AI Provision From Trump\u2019s Tax Bill - Bloomberg",
       "pubDate": "Tue, 01 Jul 2025 11:05:16 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Researchers from top AI labs warn they may be losing the ability to understand advanced AI models - inkl",
       "pubDate": "Tue, 22 Jul 2025 12:05:30 GMT"
+    },
+    {
+      "title": "OpenAI's Sam Altman warns of AI voice fraud crisis in banking - The Detroit News",
+      "pubDate": "Tue, 22 Jul 2025 20:12:03 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Legality of Trump Iran strikes questioned by some lawmakers in both parties - NBC News",
-      "pubDate": "Sun, 22 Jun 2025 18:34:00 GMT"
-    },
     {
       "title": "Shifting Views and Misdirection: How Trump Decided to Strike Iran - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 03:43:56 GMT"
@@ -277,14 +273,6 @@
   ],
   "Iran": [
     {
-      "title": "Satellite images and decoy planes: Behind the US attacks on Iran - BBC",
-      "pubDate": "Sun, 22 Jun 2025 18:02:12 GMT"
-    },
-    {
-      "title": "U.S. strikes on Iranian nuclear sites show no sign of widespread environmental impact - NPR",
-      "pubDate": "Sun, 22 Jun 2025 16:22:39 GMT"
-    },
-    {
       "title": "Israel Pounds Tehran, Strikes Fordow Again as Khamenei Appeals to Putin - Newsweek",
       "pubDate": "Mon, 23 Jun 2025 14:39:14 GMT"
     },
@@ -343,10 +331,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel-Iran war live: Iran parliament votes to shut Hormuz strait in response to US attack raising fears of oil price shock - The Guardian",
-      "pubDate": "Sun, 22 Jun 2025 19:27:00 GMT"
-    },
-    {
       "title": "Israel-Iran live: Iran threatens US with 'decisive response' after strikes - as it sends wave of missiles at Israel - Sky News",
       "pubDate": "Mon, 23 Jun 2025 08:54:21 GMT"
     },
@@ -396,10 +380,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia launches the biggest aerial attack since the start of the war, Ukraine says - AP News",
-      "pubDate": "Sun, 29 Jun 2025 18:48:00 GMT"
-    },
     {
       "title": "Russia Pounds Ukraine With Drones and Missiles in One of War\u2019s Largest Attacks - The New York Times",
       "pubDate": "Sun, 29 Jun 2025 16:18:07 GMT"
@@ -555,6 +535,10 @@
     {
       "title": "Moscow airports shutdown after Ukraine fires more than 230 drones - New York Post",
       "pubDate": "Sun, 20 Jul 2025 21:22:00 GMT"
+    },
+    {
+      "title": "Ukraine arrests anti-corruption officials over alleged Russian ties - Eurasia Business News",
+      "pubDate": "Tue, 22 Jul 2025 17:31:33 GMT"
     }
   ],
   "Russia": [
@@ -612,10 +596,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Senate Republicans seek to vote on Trump\u2019s massive tax bill Monday - The Washington Post",
-      "pubDate": "Mon, 30 Jun 2025 02:43:47 GMT"
-    },
     {
       "title": "Trump aims to change the nation and further cement his power as deadline looms for \u2018big, beautiful bill\u2019 - CNN",
       "pubDate": "Mon, 30 Jun 2025 04:00:00 GMT"
@@ -771,6 +751,10 @@
     {
       "title": "Trump threatens to derail Washington Commanders' new stadium deal over team name - NPR",
       "pubDate": "Mon, 21 Jul 2025 01:30:45 GMT"
+    },
+    {
+      "title": "Trump accuses Obama of 'treason' in the Oval Office - ABC News",
+      "pubDate": "Tue, 22 Jul 2025 20:05:19 GMT"
     }
   ],
   "World News": [
@@ -852,10 +836,6 @@
     }
   ],
   "China": [
-    {
-      "title": "US reaches deal with China to speed up rare earth shipments, White House says, amid efforts to end trade war - The Guardian",
-      "pubDate": "Fri, 27 Jun 2025 07:21:00 GMT"
-    },
     {
       "title": "US, China formalize deal on rare earth shipments in trade breakthrough - CNN",
       "pubDate": "Fri, 27 Jun 2025 07:50:00 GMT"
@@ -1011,6 +991,10 @@
     {
       "title": "Another round of US-China trade talks will start next week in Sweden: Bessent - Yahoo Finance",
       "pubDate": "Tue, 22 Jul 2025 13:01:31 GMT"
+    },
+    {
+      "title": "China Breaks Ground on Colossal Dam Project in Asia\u2019s Grand Canyon - Yale E360",
+      "pubDate": "Tue, 22 Jul 2025 13:42:23 GMT"
     }
   ],
   "AI Safety": [
@@ -1117,10 +1101,6 @@
   ],
   "Data Breach": [
     {
-      "title": "Urgent alarm issued after \u2018mother of all data breaches\u2019 sees 16 billion passwords exposed \u2014 do this ASAP - AOL.com",
-      "pubDate": "Sun, 22 Jun 2025 19:15:51 GMT"
-    },
-    {
       "title": "Qantas confirms cyber-attack exposed records of up to 6 million customers - The Guardian",
       "pubDate": "Tue, 01 Jul 2025 23:59:00 GMT"
     },
@@ -1154,10 +1134,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "DHS expects Iran\u2019s cyber forces will target US networks after strikes on nuclear sites - Nextgov",
-      "pubDate": "Sun, 22 Jun 2025 19:39:27 GMT"
-    },
     {
       "title": "BlackBerry raises annual revenue forecast on robust demand for cybersecurity services - Reuters",
       "pubDate": "Tue, 24 Jun 2025 22:04:19 GMT"
@@ -1371,6 +1347,10 @@
     {
       "title": "What happens once we spot the asteroid that will hit Earth? - Financial Times",
       "pubDate": "Sat, 19 Jul 2025 04:39:35 GMT"
+    },
+    {
+      "title": "NASA Reports Plane-Sized Asteroid Nearing Earth - Newsweek",
+      "pubDate": "Tue, 22 Jul 2025 13:50:42 GMT"
     }
   ],
   "Atlantic Ocean": [
@@ -2525,6 +2505,10 @@
     {
       "title": "World on brink of climate breakthrough as fossil fuels \u2018run out of road\u2019, UN chief says - The Guardian",
       "pubDate": "Tue, 22 Jul 2025 13:57:00 GMT"
+    },
+    {
+      "title": "UN\u2019s Guterres declares fossil fuel era fading; presses nations for new climate plans before COP30 summit - UN News",
+      "pubDate": "Tue, 22 Jul 2025 13:43:07 GMT"
     }
   ],
   "Algorithms": [
