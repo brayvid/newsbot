@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Apple Weighs Using Anthropic or OpenAI to Power Siri in Major Reversal - Bloomberg",
-      "pubDate": "Mon, 30 Jun 2025 20:55:05 GMT"
-    },
-    {
       "title": "Google signs first fusion power deal with MIT spinout Commonwealth Fusion Systems - Proactive Investors",
       "pubDate": "Tue, 01 Jul 2025 07:34:00 GMT"
     },
@@ -159,17 +155,13 @@
     {
       "title": "Artificial intelligence for healthcare: restrained development despite impressive applications - Infectious Diseases of Poverty",
       "pubDate": "Sun, 20 Jul 2025 03:04:51 GMT"
+    },
+    {
+      "title": "Researchers from top AI labs warn they may be losing the ability to understand advanced AI models - inkl",
+      "pubDate": "Tue, 22 Jul 2025 12:05:30 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Republican Lawmakers Cheer Strike on Iran as Top Democrats Condemn It - The New York Times",
-      "pubDate": "Sun, 22 Jun 2025 05:37:56 GMT"
-    },
-    {
-      "title": "Democrats say they were left in dark about plans for US strikes on Iran - The Guardian",
-      "pubDate": "Sun, 22 Jun 2025 14:31:00 GMT"
-    },
     {
       "title": "Legality of Trump Iran strikes questioned by some lawmakers in both parties - NBC News",
       "pubDate": "Sun, 22 Jun 2025 18:34:00 GMT"
@@ -285,18 +277,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran Had Vowed to Retaliate. Now, It Faces Grim Choices. - The New York Times",
-      "pubDate": "Sun, 22 Jun 2025 05:51:15 GMT"
-    },
-    {
-      "title": "U.S. Strike on Iran Began With a Ruse - WSJ",
-      "pubDate": "Sun, 22 Jun 2025 12:28:00 GMT"
-    },
-    {
-      "title": "U.S. strikes on Iran nuclear facilities see Hamas and the Houthis vow retaliation, as world leaders react - CBS News",
-      "pubDate": "Sun, 22 Jun 2025 13:16:56 GMT"
-    },
-    {
       "title": "Satellite images and decoy planes: Behind the US attacks on Iran - BBC",
       "pubDate": "Sun, 22 Jun 2025 18:02:12 GMT"
     },
@@ -363,14 +343,6 @@
   ],
   "Israel": [
     {
-      "title": "What to know about the Iranian nuclear sites that were hit by US strikes - The Times of Israel",
-      "pubDate": "Sun, 22 Jun 2025 07:49:44 GMT"
-    },
-    {
-      "title": "Israel says 21 people wounded as Iran fires dozens of missiles following U.S. strikes on nuclear facilities - CBS News",
-      "pubDate": "Sun, 22 Jun 2025 09:44:13 GMT"
-    },
-    {
       "title": "Israel-Iran war live: Iran parliament votes to shut Hormuz strait in response to US attack raising fears of oil price shock - The Guardian",
       "pubDate": "Sun, 22 Jun 2025 19:27:00 GMT"
     },
@@ -417,6 +389,10 @@
     {
       "title": "Israel and Syria agree ceasefire as Israel allows Syrian troops limited access to Sweida - Reuters",
       "pubDate": "Fri, 18 Jul 2025 23:33:58 GMT"
+    },
+    {
+      "title": "Israel intercepts missile fired from Yemen - Reuters",
+      "pubDate": "Tue, 22 Jul 2025 06:13:21 GMT"
     }
   ],
   "Ukraine": [
@@ -583,10 +559,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia\u2019s economy boomed after the invasion of Ukraine\u2014it\u2019s now running out of steam - Fortune",
-      "pubDate": "Sun, 22 Jun 2025 12:08:00 GMT"
-    },
-    {
       "title": "Putin cannot attend BRICS summit in Brazil as he fears arrest for war crimes - Atlantic Council",
       "pubDate": "Thu, 26 Jun 2025 20:53:00 GMT"
     },
@@ -633,6 +605,10 @@
     {
       "title": "Massive Drone Attack Disrupts Moscow Airports, Damages Homes and Cars - Kyiv Post",
       "pubDate": "Sun, 20 Jul 2025 06:06:49 GMT"
+    },
+    {
+      "title": "Russia using children to design and test its military drones, investigation finds - The Guardian",
+      "pubDate": "Tue, 22 Jul 2025 14:07:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -799,19 +775,11 @@
   ],
   "World News": [
     {
-      "title": "US strikes on Iran come at fragile moment for the global economy - The Economic Times",
-      "pubDate": "Sun, 22 Jun 2025 06:39:46 GMT"
-    },
-    {
       "title": "Live updates: Iran holds state funerals and Israeli protesters demand Gaza ceasefire - CNN",
       "pubDate": "Sat, 28 Jun 2025 20:04:00 GMT"
     }
   ],
   "National Security": [
-    {
-      "title": "US on 'high alert' for Iran retaliation, says nuke program 'obliterated': Live updates - USA Today",
-      "pubDate": "Sun, 22 Jun 2025 14:37:30 GMT"
-    },
     {
       "title": "The top U.S. cybersecurity agency is shrinking quickly under Trump 2.0 - Axios",
       "pubDate": "Tue, 15 Jul 2025 17:44:39 GMT"
@@ -832,14 +800,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Most Gulf markets trade up, unfazed by rising regional tensions as US strikes Iran - Reuters",
-      "pubDate": "Sun, 22 Jun 2025 09:56:59 GMT"
-    },
-    {
-      "title": "Investors set to flock to safety as world awaits Iran\u2019s response - Yahoo Finance",
-      "pubDate": "Sun, 22 Jun 2025 14:15:01 GMT"
-    },
     {
       "title": "Global Markets Dip as Traders Gauge Fallout From U.S. Strikes on Iran - The New York Times",
       "pubDate": "Mon, 23 Jun 2025 03:03:33 GMT"
@@ -883,10 +843,6 @@
   ],
   "Recession": [
     {
-      "title": "Will This War Spark the Next Global Recession? US Strikes on Iran Rattle World Markets - Republic World",
-      "pubDate": "Sun, 22 Jun 2025 12:18:13 GMT"
-    },
-    {
       "title": "That Drop in Consumer Income in May Was a False Recession Alarm - Wolf Street",
       "pubDate": "Sat, 28 Jun 2025 10:04:10 GMT"
     },
@@ -896,10 +852,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Exclusive | China Is Still Choking Exports of Rare Earths Despite Pact With U.S. - WSJ",
-      "pubDate": "Thu, 26 Jun 2025 09:30:00 GMT"
-    },
     {
       "title": "US reaches deal with China to speed up rare earth shipments, White House says, amid efforts to end trade war - The Guardian",
       "pubDate": "Fri, 27 Jun 2025 07:21:00 GMT"
@@ -1055,13 +1007,13 @@
     {
       "title": "US Government Worker Prevented From Leaving China: What We Know - Newsweek",
       "pubDate": "Mon, 21 Jul 2025 09:36:44 GMT"
+    },
+    {
+      "title": "Another round of US-China trade talks will start next week in Sweden: Bessent - Yahoo Finance",
+      "pubDate": "Tue, 22 Jul 2025 13:01:31 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI Deception and Blackmail: Anthropic Study Reveals Widespread Risks, Urges Proactive Safeguards - Oneindia",
-      "pubDate": "Sun, 22 Jun 2025 08:57:11 GMT"
-    },
     {
       "title": "AI models exhibit harmful behaviors, posing insider threats in corporate scenarios - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Tue, 24 Jun 2025 08:35:00 GMT"
@@ -1757,6 +1709,10 @@
     {
       "title": "Trump Media stock surges after acquiring $2 billion of bitcoin - Yahoo Finance",
       "pubDate": "Mon, 21 Jul 2025 13:37:12 GMT"
+    },
+    {
+      "title": "Elon Musk\u2019s SpaceX Breaks Its Bitcoin Silence with $153M Shock Transfer - TipRanks",
+      "pubDate": "Tue, 22 Jul 2025 15:27:22 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -1915,6 +1871,10 @@
     {
       "title": "Dramatic rise in gastrointestinal cancers in people under 50 - The Independent",
       "pubDate": "Thu, 17 Jul 2025 23:34:00 GMT"
+    },
+    {
+      "title": "FDA Rejects Replimune\u2019s Skin Cancer Treatment, Shares Sink - Yahoo Finance",
+      "pubDate": "Tue, 22 Jul 2025 14:05:00 GMT"
     }
   ],
   "Climate": [
@@ -2561,6 +2521,10 @@
     {
       "title": "Grocery bills are rising as the planet cooks - Axios",
       "pubDate": "Mon, 21 Jul 2025 20:25:34 GMT"
+    },
+    {
+      "title": "World on brink of climate breakthrough as fossil fuels \u2018run out of road\u2019, UN chief says - The Guardian",
+      "pubDate": "Tue, 22 Jul 2025 13:57:00 GMT"
     }
   ],
   "Algorithms": [
