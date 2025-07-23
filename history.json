@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Senate Votes 99-1 to Strip AI Provision From Trump\u2019s Tax Bill - Bloomberg",
-      "pubDate": "Tue, 01 Jul 2025 11:05:16 GMT"
-    },
-    {
       "title": "In dramatic reversal, Senate kills AI-law moratorium - The Washington Post",
       "pubDate": "Tue, 01 Jul 2025 20:30:52 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "OpenAI's Sam Altman warns of AI voice fraud crisis in banking - The Detroit News",
       "pubDate": "Tue, 22 Jul 2025 20:12:03 GMT"
+    },
+    {
+      "title": "Analysis | Trump\u2019s \u2018Artificial Intelligence Action Plan\u2019 is already stirring debate - The Washington Post",
+      "pubDate": "Tue, 22 Jul 2025 20:07:51 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Shifting Views and Misdirection: How Trump Decided to Strike Iran - The New York Times",
-      "pubDate": "Mon, 23 Jun 2025 03:43:56 GMT"
-    },
     {
       "title": "Republican House speaker dismisses efforts to check Trump\u2019s military power against Iran \u2013 US politics live - The Guardian",
       "pubDate": "Mon, 23 Jun 2025 09:45:00 GMT"
@@ -381,10 +377,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia Pounds Ukraine With Drones and Missiles in One of War\u2019s Largest Attacks - The New York Times",
-      "pubDate": "Sun, 29 Jun 2025 16:18:07 GMT"
-    },
-    {
       "title": "Russia Masses 50,000 Troops Around Sumy, Putting Ukraine in Precarious Position - WSJ",
       "pubDate": "Mon, 30 Jun 2025 14:43:32 GMT"
     },
@@ -539,6 +531,10 @@
     {
       "title": "Ukraine arrests anti-corruption officials over alleged Russian ties - Eurasia Business News",
       "pubDate": "Tue, 22 Jul 2025 17:31:33 GMT"
+    },
+    {
+      "title": "Protests in Ukraine as Zelensky signs bill targeting anti-corruption bodies - BBC",
+      "pubDate": "Wed, 23 Jul 2025 02:05:36 GMT"
     }
   ],
   "Russia": [
@@ -784,10 +780,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Global Markets Dip as Traders Gauge Fallout From U.S. Strikes on Iran - The New York Times",
-      "pubDate": "Mon, 23 Jun 2025 03:03:33 GMT"
-    },
     {
       "title": "Stock Futures Drop, Oil Gains After Strike on Iran: Markets Wrap - Bloomberg.com",
       "pubDate": "Mon, 23 Jun 2025 07:33:22 GMT"
@@ -1177,13 +1169,13 @@
     {
       "title": "Microsoft Rushes to Stop Hackers from Wreaking Global Havoc - Bloomberg.com",
       "pubDate": "Mon, 21 Jul 2025 21:52:51 GMT"
+    },
+    {
+      "title": "China behind vast global hack involving multiple US agencies - Politico",
+      "pubDate": "Tue, 22 Jul 2025 16:05:00 GMT"
     }
   ],
   "US Economy": [
-    {
-      "title": "America\u2019s economy faces a new war shock: Surging oil prices - CNN",
-      "pubDate": "Sun, 22 Jun 2025 21:35:00 GMT"
-    },
     {
       "title": "Ford Will Keep Battery Factory Even if Republicans Ax Tax Break - The New York Times",
       "pubDate": "Tue, 24 Jun 2025 00:37:40 GMT"
@@ -1328,10 +1320,6 @@
     }
   ],
   "Asteroids": [
-    {
-      "title": "Thousands of asteroids and millions of galaxies shine in first images from the largest camera ever built - CNN",
-      "pubDate": "Mon, 23 Jun 2025 04:01:00 GMT"
-    },
     {
       "title": "Giant asteroid could crash into moon in 2032, firing debris towards Earth - The Guardian",
       "pubDate": "Tue, 24 Jun 2025 01:31:00 GMT"
@@ -1949,6 +1937,10 @@
     {
       "title": "Elon Musk says Tesla shareholders will vote on investing in xAI - Business Insider",
       "pubDate": "Mon, 14 Jul 2025 04:07:00 GMT"
+    },
+    {
+      "title": "SpaceX warns investors Elon Musk could return to US politics, Bloomberg reports - Reuters",
+      "pubDate": "Tue, 22 Jul 2025 19:14:23 GMT"
     }
   ],
   "Mars": [
@@ -2359,6 +2351,10 @@
     {
       "title": "Israel launches air and ground offensive on Deir al-Balah in central Gaza - The Guardian",
       "pubDate": "Mon, 21 Jul 2025 11:14:00 GMT"
+    },
+    {
+      "title": "Gaza hospital boss says 21 children died of malnutrition, starvation over last 3 days - CBS News",
+      "pubDate": "Wed, 23 Jul 2025 00:24:08 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2509,6 +2505,10 @@
     {
       "title": "UN\u2019s Guterres declares fossil fuel era fading; presses nations for new climate plans before COP30 summit - UN News",
       "pubDate": "Tue, 22 Jul 2025 13:43:07 GMT"
+    },
+    {
+      "title": "Record flood warnings issued in 2025 as climate change amplifies extreme weather events - KDFW",
+      "pubDate": "Tue, 22 Jul 2025 22:42:34 GMT"
     }
   ],
   "Algorithms": [
@@ -2563,6 +2563,10 @@
     {
       "title": "This $11,000 Chinese EV with semi-solid state batteries is about shake up the industry - Electrek",
       "pubDate": "Mon, 21 Jul 2025 14:14:00 GMT"
+    },
+    {
+      "title": "Tesla Vs. BYD: Tesla Stock Near Buy Point With Earnings, Robotaxis In Focus; BYD Makes Bullish Move - Investor's Business Daily",
+      "pubDate": "Tue, 22 Jul 2025 21:54:00 GMT"
     }
   ],
   "Natural History": [
