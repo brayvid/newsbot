@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "In dramatic reversal, Senate kills AI-law moratorium - The Washington Post",
-      "pubDate": "Tue, 01 Jul 2025 20:30:52 GMT"
-    },
-    {
       "title": "US Senate strikes AI regulation ban from Trump megabill - Reuters",
       "pubDate": "Tue, 01 Jul 2025 21:26:09 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Analysis | Trump\u2019s \u2018Artificial Intelligence Action Plan\u2019 is already stirring debate - The Washington Post",
       "pubDate": "Tue, 22 Jul 2025 20:07:51 GMT"
+    },
+    {
+      "title": "Amazon shuts down Shanghai AI research lab - Financial Times",
+      "pubDate": "Wed, 23 Jul 2025 05:42:35 GMT"
     }
   ],
   "US Politics": [
@@ -327,10 +327,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel-Iran live: Iran threatens US with 'decisive response' after strikes - as it sends wave of missiles at Israel - Sky News",
-      "pubDate": "Mon, 23 Jun 2025 08:54:21 GMT"
-    },
-    {
       "title": "Israel-Iran war live: Israeli government confirms it has agreed to ceasefire deal brokered by US - The Guardian",
       "pubDate": "Tue, 24 Jun 2025 07:44:07 GMT"
     },
@@ -376,10 +372,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia Masses 50,000 Troops Around Sumy, Putting Ukraine in Precarious Position - WSJ",
-      "pubDate": "Mon, 30 Jun 2025 14:43:32 GMT"
-    },
     {
       "title": "Russia unleashes new deadly \"Blueberry\" drones with 100-kilometer reach on Kharkiv - Euromaidan Press",
       "pubDate": "Mon, 30 Jun 2025 14:03:38 GMT"
@@ -535,6 +527,10 @@
     {
       "title": "Protests in Ukraine as Zelensky signs bill targeting anti-corruption bodies - BBC",
       "pubDate": "Wed, 23 Jul 2025 02:05:36 GMT"
+    },
+    {
+      "title": "Ukraine suffered its first loss of a French fighter jet after equipment failure forced its pilot to eject - Business Insider",
+      "pubDate": "Wed, 23 Jul 2025 04:14:00 GMT"
     }
   ],
   "Russia": [
@@ -781,10 +777,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "Stock Futures Drop, Oil Gains After Strike on Iran: Markets Wrap - Bloomberg.com",
-      "pubDate": "Mon, 23 Jun 2025 07:33:22 GMT"
-    },
-    {
       "title": "Stocks Rise as Oil Fades and Fed Bets Sink Yields: Markets Wrap - Bloomberg.com",
       "pubDate": "Mon, 23 Jun 2025 20:13:39 GMT"
     },
@@ -828,10 +820,6 @@
     }
   ],
   "China": [
-    {
-      "title": "US, China formalize deal on rare earth shipments in trade breakthrough - CNN",
-      "pubDate": "Fri, 27 Jun 2025 07:50:00 GMT"
-    },
     {
       "title": "China Confirms Trade Framework With U.S. to Lift Export Controls - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 11:13:49 GMT"
@@ -987,6 +975,10 @@
     {
       "title": "China Breaks Ground on Colossal Dam Project in Asia\u2019s Grand Canyon - Yale E360",
       "pubDate": "Tue, 22 Jul 2025 13:42:23 GMT"
+    },
+    {
+      "title": "Record heat in China strains power grid, stirs health fears - Reuters",
+      "pubDate": "Wed, 23 Jul 2025 07:15:09 GMT"
     }
   ],
   "AI Safety": [
@@ -1173,6 +1165,10 @@
     {
       "title": "China behind vast global hack involving multiple US agencies - Politico",
       "pubDate": "Tue, 22 Jul 2025 16:05:00 GMT"
+    },
+    {
+      "title": "US Nuclear Weapons Agency Breached in Microsoft SharePoint Hack - Bloomberg",
+      "pubDate": "Wed, 23 Jul 2025 00:09:00 GMT"
     }
   ],
   "US Economy": [
@@ -2355,6 +2351,10 @@
     {
       "title": "Gaza hospital boss says 21 children died of malnutrition, starvation over last 3 days - CBS News",
       "pubDate": "Wed, 23 Jul 2025 00:24:08 GMT"
+    },
+    {
+      "title": "More than 100 aid groups warn 'mass starvation' spreading across Gaza - France 24",
+      "pubDate": "Wed, 23 Jul 2025 00:31:11 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2509,6 +2509,10 @@
     {
       "title": "Record flood warnings issued in 2025 as climate change amplifies extreme weather events - KDFW",
       "pubDate": "Tue, 22 Jul 2025 22:42:34 GMT"
+    },
+    {
+      "title": "The UN\u2019s highest court will decide Wednesday on the climate obligations of countries - AP News",
+      "pubDate": "Wed, 23 Jul 2025 04:07:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2611,6 +2615,10 @@
     {
       "title": "Life Atop China\u2019s Car Market Is Starting to Look Shaky for BYD - Bloomberg",
       "pubDate": "Mon, 21 Jul 2025 02:06:00 GMT"
+    },
+    {
+      "title": "Tesla sales cratered in California for 7 straight quarters while rivals Toyota and Honda surge, report shows - Yahoo Finance",
+      "pubDate": "Wed, 23 Jul 2025 03:16:03 GMT"
     }
   ],
   "Hacking": [
