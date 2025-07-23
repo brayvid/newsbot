@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Republican House speaker dismisses efforts to check Trump\u2019s military power against Iran \u2013 US politics live - The Guardian",
-      "pubDate": "Mon, 23 Jun 2025 09:45:00 GMT"
-    },
-    {
       "title": "Senate GOP\u2019s tax cuts projected to cost $4.2T \u2014 with costly SALT deal pending - Politico",
       "pubDate": "Tue, 24 Jun 2025 12:55:35 GMT"
     },
@@ -269,10 +265,6 @@
   ],
   "Iran": [
     {
-      "title": "Israel Pounds Tehran, Strikes Fordow Again as Khamenei Appeals to Putin - Newsweek",
-      "pubDate": "Mon, 23 Jun 2025 14:39:14 GMT"
-    },
-    {
       "title": "US strikes: How much damage has been done to Iran's nuclear facilities? - Sky News",
       "pubDate": "Mon, 23 Jun 2025 19:49:49 GMT"
     },
@@ -372,10 +364,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia unleashes new deadly \"Blueberry\" drones with 100-kilometer reach on Kharkiv - Euromaidan Press",
-      "pubDate": "Mon, 30 Jun 2025 14:03:38 GMT"
-    },
     {
       "title": "Russia's Largest Bombardment of Ukraine - NPR",
       "pubDate": "Mon, 30 Jun 2025 20:54:08 GMT"
@@ -531,6 +519,10 @@
     {
       "title": "Ukraine suffered its first loss of a French fighter jet after equipment failure forced its pilot to eject - Business Insider",
       "pubDate": "Wed, 23 Jul 2025 04:14:00 GMT"
+    },
+    {
+      "title": "Pressure builds on Zelenskyy over corruption agency changes as protests continue - The Guardian",
+      "pubDate": "Wed, 23 Jul 2025 15:48:00 GMT"
     }
   ],
   "Russia": [
@@ -1247,10 +1239,6 @@
   ],
   "Trade War": [
     {
-      "title": "US farmers face tough outlook as China switches suppliers amid trade war - South China Morning Post",
-      "pubDate": "Mon, 23 Jun 2025 13:00:08 GMT"
-    },
-    {
       "title": "US-China trade deal is near, expert says: \u2018they are going to stabilise this\u2019 - South China Morning Post",
       "pubDate": "Thu, 26 Jun 2025 08:01:57 GMT"
     },
@@ -1335,13 +1323,13 @@
     {
       "title": "NASA Reports Plane-Sized Asteroid Nearing Earth - Newsweek",
       "pubDate": "Tue, 22 Jul 2025 13:50:42 GMT"
+    },
+    {
+      "title": "Abundant microchondrules in 162173 Ryugu suggest a turbulent origin for primitive asteroids - Nature",
+      "pubDate": "Wed, 23 Jul 2025 09:58:36 GMT"
     }
   ],
   "Atlantic Ocean": [
-    {
-      "title": "The Gulf Stream is on the verge of COLLAPSING, scientists warn - as they find the first concrete evidence of major ocean circulation system weakening - Daily Mail",
-      "pubDate": "Mon, 23 Jun 2025 10:22:51 GMT"
-    },
     {
       "title": "Scientists Discover Arctic Lifeline for Atlantic Ocean Circulation - The Daily Galaxy",
       "pubDate": "Sat, 12 Jul 2025 16:00:00 GMT"
@@ -1358,10 +1346,6 @@
     }
   ],
   "Astronomy": [
-    {
-      "title": "Vera Rubin Telescope Quickly Found 1,200 New Asteroids - The New York Times",
-      "pubDate": "Mon, 23 Jun 2025 15:30:07 GMT"
-    },
     {
       "title": "Scientists detect biggest ever merger of two massive black holes - The Guardian",
       "pubDate": "Sun, 13 Jul 2025 23:01:00 GMT"
@@ -2117,6 +2101,10 @@
     {
       "title": "Plan for vast solar field riles critics seeking to preserve Negev\u2019s open vistas - The Times of Israel",
       "pubDate": "Mon, 21 Jul 2025 05:52:27 GMT"
+    },
+    {
+      "title": "Global average solar LCOE stood at $0.043/kWh in 2024, says IRENA - pv magazine International",
+      "pubDate": "Wed, 23 Jul 2025 08:47:24 GMT"
     }
   ],
   "Cosmology": [
@@ -2385,6 +2373,10 @@
     {
       "title": "Trump Signs Historic GENIUS Act: New Cryptocurrency Law Could Reshape Banking and Strengthen US Dollar - Brave New Coin",
       "pubDate": "Sat, 19 Jul 2025 17:30:50 GMT"
+    },
+    {
+      "title": "Pastor, wife indicted for $3.4M cryptocurrency scheme - BusinessDen",
+      "pubDate": "Wed, 23 Jul 2025 11:27:47 GMT"
     }
   ],
   "Science": [
@@ -2513,6 +2505,10 @@
     {
       "title": "The UN\u2019s highest court will decide Wednesday on the climate obligations of countries - AP News",
       "pubDate": "Wed, 23 Jul 2025 04:07:00 GMT"
+    },
+    {
+      "title": "Vanuatu Wins Landmark Legal Battle Over Climate Change Impact - Bloomberg",
+      "pubDate": "Wed, 23 Jul 2025 15:28:40 GMT"
     }
   ],
   "Algorithms": [
