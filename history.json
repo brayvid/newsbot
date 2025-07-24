@@ -265,10 +265,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran fires missiles at US base in Qatar, Trump calls for peace - Reuters",
-      "pubDate": "Mon, 23 Jun 2025 21:40:41 GMT"
-    },
-    {
       "title": "Israel-Iran ceasefire appears to hold after Trump outburst at both sides - live updates - BBC",
       "pubDate": "Tue, 24 Jun 2025 10:46:30 GMT"
     },
@@ -360,10 +356,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia's Largest Bombardment of Ukraine - NPR",
-      "pubDate": "Mon, 30 Jun 2025 20:54:08 GMT"
-    },
     {
       "title": "Three killed in Ukrainian drone attack on central Russia - BBC",
       "pubDate": "Tue, 01 Jul 2025 12:00:31 GMT"
@@ -519,6 +511,10 @@
     {
       "title": "Pressure builds on Zelenskyy over corruption agency changes as protests continue - The Guardian",
       "pubDate": "Wed, 23 Jul 2025 15:48:00 GMT"
+    },
+    {
+      "title": "Exclusive: Chinese engines, shipped as 'cooling units', power Russian drones used in Ukraine - Reuters",
+      "pubDate": "Wed, 23 Jul 2025 20:49:47 GMT"
     }
   ],
   "Russia": [
@@ -764,10 +760,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "US strikes on Iran shake up financial markets - KREM",
-      "pubDate": "Mon, 23 Jun 2025 23:17:00 GMT"
-    },
     {
       "title": "US stocks leap within a decent day of their all-time high as oil prices tumble - AP News",
       "pubDate": "Tue, 24 Jun 2025 19:18:00 GMT"
@@ -1161,10 +1153,6 @@
   ],
   "US Economy": [
     {
-      "title": "Ford Will Keep Battery Factory Even if Republicans Ax Tax Break - The New York Times",
-      "pubDate": "Tue, 24 Jun 2025 00:37:40 GMT"
-    },
-    {
       "title": "Electricity prices soar as US regional grids wobble from extreme heat - MSN",
       "pubDate": "Wed, 25 Jun 2025 00:01:14 GMT"
     },
@@ -1301,10 +1289,6 @@
   ],
   "Asteroids": [
     {
-      "title": "Giant asteroid could crash into moon in 2032, firing debris towards Earth - The Guardian",
-      "pubDate": "Tue, 24 Jun 2025 01:31:00 GMT"
-    },
-    {
       "title": "New Vera Rubin Observatory discovers 2,000 unknown asteroids within 10 hours - AOL.com",
       "pubDate": "Mon, 07 Jul 2025 08:35:50 GMT"
     },
@@ -1354,10 +1338,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Magnitude 5.8 earthquake strikes off Dominican Republic coast, USGS says - Yahoo",
-      "pubDate": "Tue, 24 Jun 2025 03:00:00 GMT"
-    },
     {
       "title": "Dozens evacuate Japan islands after 1,582 earthquakes - Taipei Times",
       "pubDate": "Mon, 07 Jul 2025 16:00:00 GMT"
@@ -1817,6 +1797,10 @@
     {
       "title": "FDA Rejects Replimune\u2019s Skin Cancer Treatment, Shares Sink - Yahoo Finance",
       "pubDate": "Tue, 22 Jul 2025 14:05:00 GMT"
+    },
+    {
+      "title": "Healthy Returns: Researchers move closer to a universal cancer vaccine - CNBC",
+      "pubDate": "Wed, 23 Jul 2025 15:58:49 GMT"
     }
   ],
   "Climate": [
@@ -2069,6 +2053,10 @@
     {
       "title": "Treasury Secretary Bessent calls for a review of 'the entire' Federal Reserve - CNBC",
       "pubDate": "Mon, 21 Jul 2025 12:44:05 GMT"
+    },
+    {
+      "title": "Trump to visit Federal Reserve, escalating campaign against Chair Powell - CNBC",
+      "pubDate": "Thu, 24 Jul 2025 03:17:00 GMT"
     }
   ],
   "Alternative Energy": [
@@ -2379,6 +2367,10 @@
     {
       "title": "Pastor, wife indicted for $3.4M cryptocurrency scheme - BusinessDen",
       "pubDate": "Wed, 23 Jul 2025 11:27:47 GMT"
+    },
+    {
+      "title": "[Today's Major Economic and Cryptocurrency Schedules] US New Unemployment Claims, etc. - bloomingbit",
+      "pubDate": "Thu, 24 Jul 2025 00:08:37 GMT"
     }
   ],
   "Science": [
@@ -2515,6 +2507,10 @@
     {
       "title": "In landmark opinion, UN court says climate change an \u2018existential threat\u2019 - Al Jazeera",
       "pubDate": "Wed, 23 Jul 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Top UN court says treaties compel wealthy nations to curb global warming - Reuters",
+      "pubDate": "Wed, 23 Jul 2025 21:43:39 GMT"
     }
   ],
   "Algorithms": [
@@ -2641,6 +2637,10 @@
     {
       "title": "Trump expands fossil fuel agenda while slashing science and renewable energy, potentially setting back green progress by decades - The Daily Climate",
       "pubDate": "Mon, 21 Jul 2025 18:08:15 GMT"
+    },
+    {
+      "title": "Scientists uncover 27 million tons of nanoplastic in the Atlantic - Interesting Engineering",
+      "pubDate": "Wed, 23 Jul 2025 18:43:07 GMT"
     }
   ],
   "Animals": [
@@ -2725,6 +2725,12 @@
     {
       "title": "Russia is pouring money into its war machine \u2014 but it's still struggling to create new, advanced systems - Business Insider",
       "pubDate": "Wed, 23 Jul 2025 09:35:00 GMT"
+    }
+  ],
+  "Google": [
+    {
+      "title": "Google beats on Q2 earnings, raises capex expeditures - Yahoo Finance",
+      "pubDate": "Wed, 23 Jul 2025 20:50:39 GMT"
     }
   ]
 }
