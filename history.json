@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Meta offering OpenAI researchers up to $300 million to join its AI lab, says report; company responds, sa - Times of India",
-      "pubDate": "Wed, 02 Jul 2025 07:33:00 GMT"
-    },
-    {
       "title": "How tech\u2019s bold bid to curb AI laws fell apart - The Washington Post",
       "pubDate": "Wed, 02 Jul 2025 05:49:59 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "FDA\u2019s artificial intelligence is supposed to revolutionize drug approvals. It\u2019s making up studies - CNN",
       "pubDate": "Wed, 23 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "title": "AI summaries cause \u2018devastating\u2019 drop in audiences, online news media told - The Guardian",
+      "pubDate": "Thu, 24 Jul 2025 19:37:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Senate GOP\u2019s tax cuts projected to cost $4.2T \u2014 with costly SALT deal pending - Politico",
-      "pubDate": "Tue, 24 Jun 2025 12:55:35 GMT"
-    },
     {
       "title": "Judge blocks Trump from withholding EV charger infrastructure funds - The Hill",
       "pubDate": "Wed, 25 Jun 2025 02:34:00 GMT"
@@ -265,14 +261,6 @@
   ],
   "Iran": [
     {
-      "title": "Israel-Iran ceasefire appears to hold after Trump outburst at both sides - live updates - BBC",
-      "pubDate": "Tue, 24 Jun 2025 10:46:30 GMT"
-    },
-    {
-      "title": "Early US intel assessment finds strikes set back Iran's nuclear program only by months - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Tue, 24 Jun 2025 20:01:38 GMT"
-    },
-    {
       "title": "US strikes set Iran's nuclear program back a few months, Pentagon assessment says - USA Today",
       "pubDate": "Wed, 25 Jun 2025 01:07:30 GMT"
     },
@@ -310,10 +298,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel warns campaign against Iran is not over as ceasefire takes hold - Al Jazeera",
-      "pubDate": "Tue, 24 Jun 2025 14:55:10 GMT"
-    },
     {
       "title": "Israel says Iran's nuclear plans set back 'many years' after US report casts doubt on impact - BBC",
       "pubDate": "Wed, 25 Jun 2025 15:09:13 GMT"
@@ -751,19 +735,11 @@
   ],
   "US Congress": [
     {
-      "title": "Most House Democrats vote to kill Al Green's impeachment measure - Politico",
-      "pubDate": "Tue, 24 Jun 2025 18:21:15 GMT"
-    },
-    {
       "title": "Congress passes DOGE spending cuts as Trump orders release of \u2018pertinent\u2019 Epstein files - CNN",
       "pubDate": "Fri, 18 Jul 2025 15:23:00 GMT"
     }
   ],
   "Financial Markets": [
-    {
-      "title": "US stocks leap within a decent day of their all-time high as oil prices tumble - AP News",
-      "pubDate": "Tue, 24 Jun 2025 19:18:00 GMT"
-    },
     {
       "title": "Stocks rise, lifting S&P 500 to within inches from new record: Live updates - CNBC",
       "pubDate": "Thu, 26 Jun 2025 19:05:00 GMT"
@@ -1381,19 +1357,11 @@
   ],
   "Quantum Computer": [
     {
-      "title": "China breaks RSA encryption with a quantum computer, threatening global data security - Earth.com",
-      "pubDate": "Tue, 24 Jun 2025 13:30:29 GMT"
-    },
-    {
       "title": "Scientists just simulated the \u201cimpossible\u201d \u2014 fault-tolerant quantum code cracked at last - ScienceDaily",
       "pubDate": "Thu, 03 Jul 2025 12:18:14 GMT"
     }
   ],
   "Democratic Party": [
-    {
-      "title": "New York mayoral candidates face off in test of Democratic Party - BBC",
-      "pubDate": "Tue, 24 Jun 2025 13:51:58 GMT"
-    },
     {
       "title": "What the New York Mayoral Primary Means for Democrats - The Atlantic",
       "pubDate": "Wed, 25 Jun 2025 21:09:00 GMT"
@@ -2523,6 +2491,10 @@
     {
       "title": "U.N. court rules that nations must act on climate change - Iowa Public Radio",
       "pubDate": "Thu, 24 Jul 2025 08:17:00 GMT"
+    },
+    {
+      "title": "Trump's EPA now says greenhouse gases don't endanger people - NPR",
+      "pubDate": "Thu, 24 Jul 2025 09:00:52 GMT"
     }
   ],
   "Algorithms": [
