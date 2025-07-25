@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "How tech\u2019s bold bid to curb AI laws fell apart - The Washington Post",
-      "pubDate": "Wed, 02 Jul 2025 05:49:59 GMT"
-    },
-    {
       "title": "Scientists Use A.I. to Mimic the Mind, Warts and All - The New York Times",
       "pubDate": "Wed, 02 Jul 2025 17:24:26 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "AI summaries cause \u2018devastating\u2019 drop in audiences, online news media told - The Guardian",
       "pubDate": "Thu, 24 Jul 2025 19:37:00 GMT"
+    },
+    {
+      "title": "This industrial AI startup is winning over customers by saying it won\u2019t get acquired - TechCrunch",
+      "pubDate": "Thu, 24 Jul 2025 18:37:47 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Judge blocks Trump from withholding EV charger infrastructure funds - The Hill",
-      "pubDate": "Wed, 25 Jun 2025 02:34:00 GMT"
-    },
     {
       "title": "Zohran Mamdani shocks Democratic politics in NYC primary for mayor - USA Today",
       "pubDate": "Wed, 25 Jun 2025 05:10:18 GMT"
@@ -261,10 +257,6 @@
   ],
   "Iran": [
     {
-      "title": "US strikes set Iran's nuclear program back a few months, Pentagon assessment says - USA Today",
-      "pubDate": "Wed, 25 Jun 2025 01:07:30 GMT"
-    },
-    {
       "title": "Pentagon chief: Iran strike was a 'historically successful attack' - NPR",
       "pubDate": "Thu, 26 Jun 2025 13:57:26 GMT"
     },
@@ -336,10 +328,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Three killed in Ukrainian drone attack on central Russia - BBC",
-      "pubDate": "Tue, 01 Jul 2025 12:00:31 GMT"
-    },
     {
       "title": "US halts weapons shipments to Ukraine over fears stockpiles are too low - The Guardian",
       "pubDate": "Wed, 02 Jul 2025 01:00:00 GMT"
@@ -495,6 +483,10 @@
     {
       "title": "Exclusive: Chinese engines, shipped as 'cooling units', power Russian drones used in Ukraine - Reuters",
       "pubDate": "Wed, 23 Jul 2025 20:49:47 GMT"
+    },
+    {
+      "title": "Ukraine Releases Audio of Russian Commander Allegedly Planning Chemical Attack - UNITED24 Media",
+      "pubDate": "Thu, 24 Jul 2025 19:50:39 GMT"
     }
   ],
   "Russia": [
@@ -1067,13 +1059,13 @@
     {
       "title": "Microsoft server hack hit about 100 organizations, researchers say - Reuters",
       "pubDate": "Mon, 21 Jul 2025 18:06:10 GMT"
+    },
+    {
+      "title": "Massive T-Mobile data breach payments prove all settlements aren't created equal - Android Police",
+      "pubDate": "Thu, 24 Jul 2025 18:51:00 GMT"
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "BlackBerry raises annual revenue forecast on robust demand for cybersecurity services - Reuters",
-      "pubDate": "Tue, 24 Jun 2025 22:04:19 GMT"
-    },
     {
       "title": "FBI, cybersecurity firms say a prolific hacking crew is now targeting airlines and the transportation sector - Yahoo Finance",
       "pubDate": "Sat, 28 Jun 2025 13:30:00 GMT"
@@ -1128,10 +1120,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "Electricity prices soar as US regional grids wobble from extreme heat - MSN",
-      "pubDate": "Wed, 25 Jun 2025 00:01:14 GMT"
-    },
     {
       "title": "Tesla\u2019s EU sales slump continues; China\u2019s premier warns global trade tensions \u2018intensifying\u2019 \u2013 business live - The Guardian",
       "pubDate": "Wed, 25 Jun 2025 06:41:00 GMT"
@@ -1384,10 +1372,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "Mediator: Ceasefire-hostage deal between Israel and Hamas possible \u2018within days\u2019 - The Times of Israel",
-      "pubDate": "Wed, 25 Jun 2025 03:54:51 GMT"
-    },
     {
       "title": "Battling to survive, Hamas faces defiant clans and doubts over Iran - Reuters",
       "pubDate": "Fri, 27 Jun 2025 18:27:01 GMT"
@@ -1867,6 +1851,10 @@
     {
       "title": "SpaceX warns investors Elon Musk could return to US politics, Bloomberg reports - Reuters",
       "pubDate": "Tue, 22 Jul 2025 19:14:23 GMT"
+    },
+    {
+      "title": "Elon Musk\u2019s Starlink apologizes after leaving thousands without internet connection for hours - The Independent",
+      "pubDate": "Fri, 25 Jul 2025 00:51:00 GMT"
     }
   ],
   "Mars": [
@@ -2029,6 +2017,10 @@
     {
       "title": "Trump to visit Federal Reserve, escalating campaign against Chair Powell - CNBC",
       "pubDate": "Thu, 24 Jul 2025 03:17:00 GMT"
+    },
+    {
+      "title": "Trump visits Fed headquarters, says he will not fire Powell - Reuters",
+      "pubDate": "Thu, 24 Jul 2025 22:39:25 GMT"
     }
   ],
   "Alternative Energy": [
@@ -2309,6 +2301,10 @@
     {
       "title": "Gaza facing man-made 'mass starvation', says WHO's Tedros - Reuters",
       "pubDate": "Thu, 24 Jul 2025 01:20:56 GMT"
+    },
+    {
+      "title": "U.S. blames Hamas for crisis in ceasefire talks, eyes \"alternative\" hostage plans - Axios",
+      "pubDate": "Fri, 25 Jul 2025 00:45:20 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2719,6 +2715,12 @@
     {
       "title": "Google beats on Q2 earnings, raises capex expeditures - Yahoo Finance",
       "pubDate": "Wed, 23 Jul 2025 20:50:39 GMT"
+    }
+  ],
+  "Atmospheric Science": [
+    {
+      "title": "Scientists warn of bigger hailstorms as research funding faces cuts - NBC News",
+      "pubDate": "Thu, 24 Jul 2025 23:17:13 GMT"
     }
   ]
 }
