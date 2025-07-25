@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Zohran Mamdani's campaign was a perfect storm - Axios",
-      "pubDate": "Wed, 25 Jun 2025 19:59:22 GMT"
-    },
-    {
       "title": "Senate GOP dealt major blow on Medicaid cuts in megabill - Politico",
       "pubDate": "Thu, 26 Jun 2025 12:51:08 GMT"
     },
@@ -1109,13 +1105,13 @@
     {
       "title": "Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage - WIRED",
       "pubDate": "Wed, 23 Jul 2025 21:59:20 GMT"
+    },
+    {
+      "title": "Microsoft Used China-Based Support for Multiple U.S. Agencies, Potentially Exposing Sensitive Data - ProPublica",
+      "pubDate": "Fri, 25 Jul 2025 16:05:00 GMT"
     }
   ],
   "US Economy": [
-    {
-      "title": "JPMorgan says tariffs could still spark a 'stagflationary' recession this year - Quartz",
-      "pubDate": "Wed, 25 Jun 2025 16:25:15 GMT"
-    },
     {
       "title": "US Economy: Glass Half Full or Half Empty? - Nomura Connects",
       "pubDate": "Thu, 26 Jun 2025 02:04:11 GMT"
@@ -1333,6 +1329,10 @@
     {
       "title": "Major US city under volcano advisory rattled by earthquakes - MSN",
       "pubDate": "Fri, 25 Jul 2025 04:31:29 GMT"
+    },
+    {
+      "title": "The Mw7.7 Myanmar earthquake: a continental longest surface-rupturing supershear cascading event - Nature",
+      "pubDate": "Fri, 25 Jul 2025 09:46:39 GMT"
     }
   ],
   "Quantum Computer": [
@@ -1573,17 +1573,7 @@
       "pubDate": "Tue, 22 Jul 2025 15:27:22 GMT"
     }
   ],
-  "US Foreign Policy": [
-    {
-      "title": "CIA says intelligence indicates Iran's nuclear program severely damaged - Reuters",
-      "pubDate": "Wed, 25 Jun 2025 20:35:45 GMT"
-    }
-  ],
   "BRICS": [
-    {
-      "title": "Putin to skip BRICS summit in Brazil due to ICC arrest warrant - The Kyiv Independent",
-      "pubDate": "Wed, 25 Jun 2025 17:43:34 GMT"
-    },
     {
       "title": "Trump says countries aligning with BRICS policies will face additional 10% tariff - CNBC",
       "pubDate": "Mon, 07 Jul 2025 02:52:00 GMT"
@@ -1955,6 +1945,10 @@
     {
       "title": "US offers $15 million reward for info on North Korean nationals involved in global criminal network - CyberScoop",
       "pubDate": "Fri, 25 Jul 2025 15:03:07 GMT"
+    },
+    {
+      "title": "Arizona woman sentenced over $17 million North Korea worker fraud scheme - The Washington Post",
+      "pubDate": "Fri, 25 Jul 2025 13:45:40 GMT"
     }
   ],
   "Tesla": [
@@ -1969,6 +1963,10 @@
     {
       "title": "Tesla profits slide 16%, despite Elon Musk\u2019s pivot back to his companies - NPR",
       "pubDate": "Thu, 24 Jul 2025 00:18:10 GMT"
+    },
+    {
+      "title": "Tesla tells staff it plans to roll out its Robotaxi service in San Francisco this weekend - Business Insider",
+      "pubDate": "Fri, 25 Jul 2025 11:32:00 GMT"
     }
   ],
   "Microsoft": [
@@ -2123,6 +2121,10 @@
     {
       "title": "OpenAI just won gold at the world's most prestigious math competition. Here's why that's a big deal. - Business Insider",
       "pubDate": "Sat, 19 Jul 2025 22:25:00 GMT"
+    },
+    {
+      "title": "OpenAI's GPT-5 is coming in early August, per sources - Axios",
+      "pubDate": "Fri, 25 Jul 2025 12:32:49 GMT"
     }
   ],
   "Quantum Computing": [
@@ -2309,6 +2311,10 @@
     {
       "title": "Israeli War on Gaza Infrastructure, Trump Tariff Economic Hit, Myanmar Mining Pollution, Runaway Global Arms Race - Global Investigative Journalism Network (GIJN)",
       "pubDate": "Fri, 25 Jul 2025 07:19:50 GMT"
+    },
+    {
+      "title": "Israel will let foreign countries drop aid into Gaza, Israel army radio says - Reuters",
+      "pubDate": "Fri, 25 Jul 2025 12:14:35 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2495,6 +2501,10 @@
     {
       "title": "Trump's EPA now says greenhouse gases don't endanger people - NPR",
       "pubDate": "Thu, 24 Jul 2025 09:00:52 GMT"
+    },
+    {
+      "title": "A UN court says countries can sue each other over greenhouse gas emissions. A legal expert explains why it's \u2018absolutely remarkable\u2019 - Northeastern Global News",
+      "pubDate": "Fri, 25 Jul 2025 19:18:29 GMT"
     }
   ],
   "Algorithms": [
