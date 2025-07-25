@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Zohran Mamdani shocks Democratic politics in NYC primary for mayor - USA Today",
-      "pubDate": "Wed, 25 Jun 2025 05:10:18 GMT"
-    },
-    {
       "title": "Zohran Mamdani's campaign was a perfect storm - Axios",
       "pubDate": "Wed, 25 Jun 2025 19:59:22 GMT"
     },
@@ -329,10 +325,6 @@
   ],
   "Ukraine": [
     {
-      "title": "US halts weapons shipments to Ukraine over fears stockpiles are too low - The Guardian",
-      "pubDate": "Wed, 02 Jul 2025 01:00:00 GMT"
-    },
-    {
       "title": "US pauses some munitions shipments to Ukraine, including air defense missiles, senior White House official says - CNN",
       "pubDate": "Wed, 02 Jul 2025 15:20:00 GMT"
     },
@@ -487,6 +479,10 @@
     {
       "title": "Ukraine Releases Audio of Russian Commander Allegedly Planning Chemical Attack - UNITED24 Media",
       "pubDate": "Thu, 24 Jul 2025 19:50:39 GMT"
+    },
+    {
+      "title": "Zelensky defied senior US officials on controversial corruption law - The Telegraph",
+      "pubDate": "Fri, 25 Jul 2025 07:31:00 GMT"
     }
   ],
   "Russia": [
@@ -1121,10 +1117,6 @@
   ],
   "US Economy": [
     {
-      "title": "Tesla\u2019s EU sales slump continues; China\u2019s premier warns global trade tensions \u2018intensifying\u2019 \u2013 business live - The Guardian",
-      "pubDate": "Wed, 25 Jun 2025 06:41:00 GMT"
-    },
-    {
       "title": "JPMorgan says tariffs could still spark a 'stagflationary' recession this year - Quartz",
       "pubDate": "Wed, 25 Jun 2025 16:25:15 GMT"
     },
@@ -1341,6 +1333,10 @@
     {
       "title": "7.4 magnitude earthquake hits off Russian coast, prompting brief tsunami alerts in Russia, Hawaii - ABC News",
       "pubDate": "Sun, 20 Jul 2025 10:52:30 GMT"
+    },
+    {
+      "title": "Major US city under volcano advisory rattled by earthquakes - MSN",
+      "pubDate": "Fri, 25 Jul 2025 04:31:29 GMT"
     }
   ],
   "Quantum Computer": [
@@ -1475,10 +1471,6 @@
   ],
   "New York City": [
     {
-      "title": "Zohran Mamdani stuns Democratic establishment in New York mayor race - Financial Times",
-      "pubDate": "Wed, 25 Jun 2025 07:28:48 GMT"
-    },
-    {
       "title": "Zohran Mamdani\u2019s Winning Style - The New York Times",
       "pubDate": "Thu, 26 Jun 2025 14:50:03 GMT"
     },
@@ -1488,10 +1480,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Anthony Pompliano\u2019s crypto venture buys $386M in Bitcoin - Cointelegraph",
-      "pubDate": "Wed, 25 Jun 2025 04:53:42 GMT"
-    },
     {
       "title": "Bitcoin Surges 2% to $107,340.66 on Bullish Technical Patterns - AInvest",
       "pubDate": "Sun, 29 Jun 2025 02:00:54 GMT"
@@ -1753,6 +1741,10 @@
     {
       "title": "Healthy Returns: Researchers move closer to a universal cancer vaccine - CNBC",
       "pubDate": "Wed, 23 Jul 2025 15:58:49 GMT"
+    },
+    {
+      "title": "This Natural, Zero-Calorie Sweetener Could Be a Secret Weapon Against Cancer - ScienceAlert",
+      "pubDate": "Fri, 25 Jul 2025 02:06:49 GMT"
     }
   ],
   "Climate": [
@@ -1929,6 +1921,10 @@
     {
       "title": "Global investment in fusion energy rises the most since 2022 - Reuters",
       "pubDate": "Tue, 22 Jul 2025 00:03:00 GMT"
+    },
+    {
+      "title": "China sets up state-owned fusion energy company - China.org.cn",
+      "pubDate": "Fri, 25 Jul 2025 04:07:29 GMT"
     }
   ],
   "North Korea": [
@@ -2305,6 +2301,10 @@
     {
       "title": "U.S. blames Hamas for crisis in ceasefire talks, eyes \"alternative\" hostage plans - Axios",
       "pubDate": "Fri, 25 Jul 2025 00:45:20 GMT"
+    },
+    {
+      "title": "Israeli War on Gaza Infrastructure, Trump Tariff Economic Hit, Myanmar Mining Pollution, Runaway Global Arms Race - Global Investigative Journalism Network (GIJN)",
+      "pubDate": "Fri, 25 Jul 2025 07:19:50 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2721,6 +2721,12 @@
     {
       "title": "Scientists warn of bigger hailstorms as research funding faces cuts - NBC News",
       "pubDate": "Thu, 24 Jul 2025 23:17:13 GMT"
+    }
+  ],
+  "US Supreme Court": [
+    {
+      "title": "Trump administration asks US Supreme Court to allow NIH diversity-related cuts - Reuters",
+      "pubDate": "Thu, 24 Jul 2025 22:50:09 GMT"
     }
   ]
 }
