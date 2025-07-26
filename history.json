@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Explainable artificial intelligence for predicting medical students\u2019 performance in comprehensive assessments - Nature",
-      "pubDate": "Thu, 03 Jul 2025 12:59:52 GMT"
-    },
-    {
       "title": "Motor safety: AI-powered warning system enhances capability to uncover hidden faults - Tech Xplore",
       "pubDate": "Thu, 03 Jul 2025 17:16:03 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Meta appoints ChatGPT co-creator Shengjia Zhao as chief scientist of Superintelligence Lab - WION",
       "pubDate": "Sat, 26 Jul 2025 07:20:00 GMT"
+    },
+    {
+      "title": "China proposes global body to govern artificial intelligence - Financial Times",
+      "pubDate": "Sat, 26 Jul 2025 04:17:01 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Senate GOP dealt major blow on Medicaid cuts in megabill - Politico",
-      "pubDate": "Thu, 26 Jun 2025 12:51:08 GMT"
-    },
     {
       "title": "Senators Unconvinced of Effectiveness of U.S. Strikes on Iran - Time Magazine",
       "pubDate": "Thu, 26 Jun 2025 22:25:44 GMT"
@@ -248,10 +244,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Pentagon chief: Iran strike was a 'historically successful attack' - NPR",
-      "pubDate": "Thu, 26 Jun 2025 13:57:26 GMT"
-    },
     {
       "title": "Secrets on Iran nuclear strike spill into open as Pentagon defends bombing - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 26 Jun 2025 21:26:57 GMT"
@@ -533,13 +525,13 @@
     {
       "title": "Plane goes missing in Russia\u2019s Far East with nearly 50 aboard - CNN",
       "pubDate": "Thu, 24 Jul 2025 06:23:00 GMT"
+    },
+    {
+      "title": "Russia Deploys the Knyaz Pozharsky, a New Nuclear Submarine Built to Slip Past NATO Defenses - UNITED24 Media",
+      "pubDate": "Sat, 26 Jul 2025 11:31:18 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Live updates: Congress sprints to pass Trump\u2019s big bill before July 4 deadline - AP News",
-      "pubDate": "Mon, 30 Jun 2025 20:42:00 GMT"
-    },
     {
       "title": "Senate tries to overcome vote-a-rama, infighting to pass Trump's $3.3 trillion bill - Reuters",
       "pubDate": "Tue, 01 Jul 2025 00:50:00 GMT"
@@ -695,6 +687,10 @@
     {
       "title": "Trump insists Putin-Zelensky meeting \u2018will happen,\u2019 renews sanctions threat on Russia - washingtonpost.com",
       "pubDate": "Sat, 26 Jul 2025 05:50:42 GMT"
+    },
+    {
+      "title": "Trump ducks Maxwell pardon question as Democrats seek \u2018birthday book\u2019 from Epstein estate: Live - The Independent",
+      "pubDate": "Sat, 26 Jul 2025 14:39:07 GMT"
     }
   ],
   "World News": [
@@ -1017,6 +1013,10 @@
     {
       "title": "On AI security risks, US plan shows overlap between Trump, Biden - MLex",
       "pubDate": "Fri, 25 Jul 2025 18:59:00 GMT"
+    },
+    {
+      "title": "AI Is Learning Things It Wasn't Taught, New Study Claims - bgr.com",
+      "pubDate": "Sat, 26 Jul 2025 14:17:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1120,10 +1120,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "Trump Is Setting the US Economy Up for Another Great Financial Crisis - Truthout",
-      "pubDate": "Thu, 26 Jun 2025 13:39:04 GMT"
-    },
     {
       "title": "Biggest US banks pass Federal Reserve stress tests - Financial Times",
       "pubDate": "Fri, 27 Jun 2025 20:30:59 GMT"
@@ -1466,10 +1462,6 @@
     }
   ],
   "New York City": [
-    {
-      "title": "Zohran Mamdani\u2019s Winning Style - The New York Times",
-      "pubDate": "Thu, 26 Jun 2025 14:50:03 GMT"
-    },
     {
       "title": "New York City mayor says city is joining \u2018Citizen\u2019 public safety app - StateScoop",
       "pubDate": "Mon, 21 Jul 2025 19:52:11 GMT"
@@ -1885,6 +1877,10 @@
     {
       "title": "Millions of Americans now face a devastating one-two punch on health care - Axios",
       "pubDate": "Thu, 17 Jul 2025 10:48:19 GMT"
+    },
+    {
+      "title": "Texas Removes 1.8 Million People From Health Care Plan - Newsweek",
+      "pubDate": "Sat, 26 Jul 2025 10:00:01 GMT"
     }
   ],
   "Fusion Power": [
@@ -2757,6 +2753,12 @@
     {
       "title": "Trump administration asks US Supreme Court to allow NIH diversity-related cuts - Reuters",
       "pubDate": "Thu, 24 Jul 2025 22:50:09 GMT"
+    }
+  ],
+  "Jeff Bezos": [
+    {
+      "title": "Jeff Bezos cashes out $5.7 billion in Amazon stock ahead of earnings - Cryptopolitan",
+      "pubDate": "Sat, 26 Jul 2025 11:44:00 GMT"
     }
   ]
 }
