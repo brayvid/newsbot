@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Microsoft to cut up to 9,000 jobs as it invests in AI - BBC",
-      "pubDate": "Thu, 03 Jul 2025 03:09:37 GMT"
-    },
-    {
       "title": "Explainable artificial intelligence for predicting medical students\u2019 performance in comprehensive assessments - Nature",
       "pubDate": "Thu, 03 Jul 2025 12:59:52 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "China's Premier Li proposes global AI cooperation organisation - Reuters",
       "pubDate": "Sat, 26 Jul 2025 02:44:00 GMT"
+    },
+    {
+      "title": "Meta appoints ChatGPT co-creator Shengjia Zhao as chief scientist of Superintelligence Lab - WION",
+      "pubDate": "Sat, 26 Jul 2025 07:20:00 GMT"
     }
   ],
   "US Politics": [
@@ -537,10 +537,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Senate begins marathon vote series on Trump's \"big, beautiful bill\" as GOP eyes July 4 deadline - CBS News",
-      "pubDate": "Mon, 30 Jun 2025 14:20:20 GMT"
-    },
-    {
       "title": "Live updates: Congress sprints to pass Trump\u2019s big bill before July 4 deadline - AP News",
       "pubDate": "Mon, 30 Jun 2025 20:42:00 GMT"
     },
@@ -695,6 +691,10 @@
     {
       "title": "Trump says he's considering rebate checks for Americans based on tariff revenue - CBS News",
       "pubDate": "Fri, 25 Jul 2025 20:44:57 GMT"
+    },
+    {
+      "title": "Trump insists Putin-Zelensky meeting \u2018will happen,\u2019 renews sanctions threat on Russia - washingtonpost.com",
+      "pubDate": "Sat, 26 Jul 2025 05:50:42 GMT"
     }
   ],
   "World News": [
@@ -1055,6 +1055,10 @@
     {
       "title": "Massive T-Mobile data breach payments prove all settlements aren't created equal - Android Police",
       "pubDate": "Thu, 24 Jul 2025 18:51:00 GMT"
+    },
+    {
+      "title": "Tea App Data Breach Exposes 72,000 Users Via AI-Generated Code Security Lapse - AInvest",
+      "pubDate": "Fri, 25 Jul 2025 22:32:51 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1170,10 +1174,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "US-China trade deal is near, expert says: \u2018they are going to stabilise this\u2019 - South China Morning Post",
-      "pubDate": "Thu, 26 Jun 2025 08:01:57 GMT"
-    },
     {
       "title": "China issues fresh warning over Trump\u2019s trade war - The Independent",
       "pubDate": "Fri, 04 Jul 2025 14:13:00 GMT"
@@ -1337,6 +1337,10 @@
     {
       "title": "The Mw7.7 Myanmar earthquake: a continental longest surface-rupturing supershear cascading event - Nature",
       "pubDate": "Fri, 25 Jul 2025 09:46:39 GMT"
+    },
+    {
+      "title": "Experts warn hidden earthquake threat beneath North America could strike at any moment - MSN",
+      "pubDate": "Sat, 26 Jul 2025 02:56:02 GMT"
     }
   ],
   "Quantum Computer": [
@@ -1346,10 +1350,6 @@
     }
   ],
   "Democratic Party": [
-    {
-      "title": "Democrats\u2019 Scattered Response to Trump\u2019s Iran Strikes Highlights Party Divides - The New York Times",
-      "pubDate": "Thu, 26 Jun 2025 04:51:00 GMT"
-    },
     {
       "title": "Zohran Mamdani\u2019s upset in New York primary reignites Democratic identity debate: Analysis - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 26 Jun 2025 19:21:43 GMT"
@@ -1571,6 +1571,10 @@
     {
       "title": "Elon Musk\u2019s SpaceX Breaks Its Bitcoin Silence with $153M Shock Transfer - TipRanks",
       "pubDate": "Tue, 22 Jul 2025 15:27:22 GMT"
+    },
+    {
+      "title": "Satoshi-era Bitcoin investor cashes out 80,000 BTC for $9B via Galaxy Digital - Cointelegraph",
+      "pubDate": "Fri, 25 Jul 2025 21:36:18 GMT"
     }
   ],
   "BRICS": [
@@ -1590,10 +1594,6 @@
     }
   ],
   "NVIDIA": [
-    {
-      "title": "Nvidia Becomes World's Most Valuable Company Again Thanks to AI, Robotics - Tech Times",
-      "pubDate": "Thu, 26 Jun 2025 06:20:06 GMT"
-    },
     {
       "title": "Nvidia insiders sold over $1 billion in stock amid market surge, FT reports - Reuters",
       "pubDate": "Sun, 29 Jun 2025 13:57:39 GMT"
@@ -2163,6 +2163,10 @@
     {
       "title": "House ethics panel tells Rep. Alexandria Ocasio-Cortez to pay more for Met Gala attendance - ABC News",
       "pubDate": "Fri, 25 Jul 2025 22:07:40 GMT"
+    },
+    {
+      "title": "AOC broke ethics rules with \u2018tax the rich\u2019 Met Gala gown - The Telegraph",
+      "pubDate": "Fri, 25 Jul 2025 22:07:00 GMT"
     }
   ],
   "Geopolitics": [
@@ -2513,6 +2517,10 @@
     {
       "title": "A UN court says countries can sue each other over greenhouse gas emissions. A legal expert explains why it's \u2018absolutely remarkable\u2019 - Northeastern Global News",
       "pubDate": "Fri, 25 Jul 2025 19:18:29 GMT"
+    },
+    {
+      "title": "Companies Are Starting To Get The Big Picture On Climate Action - Time Magazine",
+      "pubDate": "Fri, 25 Jul 2025 21:05:08 GMT"
     }
   ],
   "Algorithms": [
