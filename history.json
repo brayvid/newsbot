@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Scientists Use A.I. to Mimic the Mind, Warts and All - The New York Times",
-      "pubDate": "Wed, 02 Jul 2025 17:24:26 GMT"
-    },
-    {
       "title": "Microsoft to cut up to 9,000 jobs as it invests in AI - BBC",
       "pubDate": "Thu, 03 Jul 2025 03:09:37 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "This industrial AI startup is winning over customers by saying it won\u2019t get acquired - TechCrunch",
       "pubDate": "Thu, 24 Jul 2025 18:37:47 GMT"
+    },
+    {
+      "title": "China's Premier Li proposes global AI cooperation organisation - Reuters",
+      "pubDate": "Sat, 26 Jul 2025 02:44:00 GMT"
     }
   ],
   "US Politics": [
@@ -537,10 +537,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump aims to change the nation and further cement his power as deadline looms for \u2018big, beautiful bill\u2019 - CNN",
-      "pubDate": "Mon, 30 Jun 2025 04:00:00 GMT"
-    },
-    {
       "title": "Senate begins marathon vote series on Trump's \"big, beautiful bill\" as GOP eyes July 4 deadline - CBS News",
       "pubDate": "Mon, 30 Jun 2025 14:20:20 GMT"
     },
@@ -695,6 +691,10 @@
     {
       "title": "Trump accuses Obama of 'treason' in the Oval Office - ABC News",
       "pubDate": "Tue, 22 Jul 2025 20:05:19 GMT"
+    },
+    {
+      "title": "Trump says he's considering rebate checks for Americans based on tariff revenue - CBS News",
+      "pubDate": "Fri, 25 Jul 2025 20:44:57 GMT"
     }
   ],
   "World News": [
@@ -1013,6 +1013,10 @@
     {
       "title": "Meta declines to abide by voluntary EU AI safety guidelines - theregister.com",
       "pubDate": "Fri, 18 Jul 2025 22:29:00 GMT"
+    },
+    {
+      "title": "On AI security risks, US plan shows overlap between Trump, Biden - MLex",
+      "pubDate": "Fri, 25 Jul 2025 18:59:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1112,10 +1116,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "US Economy: Glass Half Full or Half Empty? - Nomura Connects",
-      "pubDate": "Thu, 26 Jun 2025 02:04:11 GMT"
-    },
     {
       "title": "Trump Is Setting the US Economy Up for Another Great Financial Crisis - Truthout",
       "pubDate": "Thu, 26 Jun 2025 13:39:04 GMT"
@@ -1255,6 +1255,10 @@
     {
       "title": "Abundant microchondrules in 162173 Ryugu suggest a turbulent origin for primitive asteroids - Nature",
       "pubDate": "Wed, 23 Jul 2025 09:58:36 GMT"
+    },
+    {
+      "title": "NASA Alerts: 140-foot asteroid to pass Earth today at a speed of 41,157 miles per hour - Moneycontrol",
+      "pubDate": "Sat, 26 Jul 2025 01:30:37 GMT"
     }
   ],
   "Atlantic Ocean": [
@@ -1342,10 +1346,6 @@
     }
   ],
   "Democratic Party": [
-    {
-      "title": "What the New York Mayoral Primary Means for Democrats - The Atlantic",
-      "pubDate": "Wed, 25 Jun 2025 21:09:00 GMT"
-    },
     {
       "title": "Democrats\u2019 Scattered Response to Trump\u2019s Iran Strikes Highlights Party Divides - The New York Times",
       "pubDate": "Thu, 26 Jun 2025 04:51:00 GMT"
@@ -1581,12 +1581,12 @@
   ],
   "Central Intelligence Agency": [
     {
-      "title": "Mossad hails Israel\u2019s \u2018historic\u2019 Iran offensive, thanks CIA in rare public message - The Times of Israel",
-      "pubDate": "Wed, 25 Jun 2025 22:07:30 GMT"
-    },
-    {
       "title": "Senate Considers Ending Its Vetting of Spy Agencies\u2019 Top Lawyers - Bloomberg",
       "pubDate": "Fri, 18 Jul 2025 17:37:05 GMT"
+    },
+    {
+      "title": "Exclusive: Hackers breached intelligence website used by CIA - Washington Times",
+      "pubDate": "Fri, 25 Jul 2025 15:52:59 GMT"
     }
   ],
   "NVIDIA": [
@@ -2159,6 +2159,10 @@
     {
       "title": "GOP blasts \u2018fearmongering\u2019 Ocasio-Cortez for mocking Stefanik at North Country stop: \u2018AOC is beyond parody\u2019 - New York Post",
       "pubDate": "Sun, 20 Jul 2025 22:59:00 GMT"
+    },
+    {
+      "title": "House ethics panel tells Rep. Alexandria Ocasio-Cortez to pay more for Met Gala attendance - ABC News",
+      "pubDate": "Fri, 25 Jul 2025 22:07:40 GMT"
     }
   ],
   "Geopolitics": [
@@ -2315,6 +2319,10 @@
     {
       "title": "Israel will let foreign countries drop aid into Gaza, Israel army radio says - Reuters",
       "pubDate": "Fri, 25 Jul 2025 12:14:35 GMT"
+    },
+    {
+      "title": "Gaza's hunger crisis is having 'catastrophic' outcomes for mothers and babies - NBC News",
+      "pubDate": "Fri, 25 Jul 2025 19:40:04 GMT"
     }
   ],
   "Cryptocurrency": [
