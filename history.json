@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Motor safety: AI-powered warning system enhances capability to uncover hidden faults - Tech Xplore",
-      "pubDate": "Thu, 03 Jul 2025 17:16:03 GMT"
-    },
-    {
       "title": "Meta restructures AI teams to focus on superintelligence - Quartz",
       "pubDate": "Thu, 03 Jul 2025 18:04:26 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "China proposes global body to govern artificial intelligence - Financial Times",
       "pubDate": "Sat, 26 Jul 2025 04:17:01 GMT"
+    },
+    {
+      "title": "Urgent need for 'global approach' on AI regulation: UN tech chief - France 24",
+      "pubDate": "Sun, 27 Jul 2025 04:01:09 GMT"
     }
   ],
   "US Politics": [
@@ -521,6 +521,10 @@
     {
       "title": "Russia Deploys the Knyaz Pozharsky, a New Nuclear Submarine Built to Slip Past NATO Defenses - UNITED24 Media",
       "pubDate": "Sat, 26 Jul 2025 11:31:18 GMT"
+    },
+    {
+      "title": "Russia starts first Moscow-Pyongyang passenger flights in decades - Reuters",
+      "pubDate": "Sun, 27 Jul 2025 03:37:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -1709,6 +1713,10 @@
     {
       "title": "This Natural, Zero-Calorie Sweetener Could Be a Secret Weapon Against Cancer - ScienceAlert",
       "pubDate": "Fri, 25 Jul 2025 02:06:49 GMT"
+    },
+    {
+      "title": "US scientists discover new early warning sign for deadly pancreatic cancer - Times of India",
+      "pubDate": "Sun, 27 Jul 2025 01:49:00 GMT"
     }
   ],
   "Climate": [
@@ -2313,6 +2321,10 @@
     {
       "title": "Israel intercepts Gaza-bound activist boat with food aid - BBC",
       "pubDate": "Sun, 27 Jul 2025 02:17:31 GMT"
+    },
+    {
+      "title": "Food airdropped into Gaza as starvation deaths rise - The Washington Post",
+      "pubDate": "Sun, 27 Jul 2025 06:15:58 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2763,6 +2775,18 @@
     {
       "title": "Data Science Course FAANG Interview Prep 2025 - Data Scientist Jobs at Google Amazon Meta Apple Netflix Updated - Yahoo Finance",
       "pubDate": "Sat, 26 Jul 2025 16:04:00 GMT"
+    }
+  ],
+  "Energy Transition": [
+    {
+      "title": "Global Energy Transition Gains Momentum in 2025, but Security Lags Behind - BBN Times",
+      "pubDate": "Sat, 26 Jul 2025 21:44:40 GMT"
+    }
+  ],
+  "Pollution": [
+    {
+      "title": "Air quality alert for Tri-State Area extended through weekend due to Canadian wildfire smoke - ABC7 New York",
+      "pubDate": "Sun, 27 Jul 2025 00:34:36 GMT"
     }
   ]
 }
