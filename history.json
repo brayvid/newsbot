@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Senators Unconvinced of Effectiveness of U.S. Strikes on Iran - Time Magazine",
-      "pubDate": "Thu, 26 Jun 2025 22:25:44 GMT"
-    },
-    {
       "title": "Senate Blocks War Powers Resolution to Limit Trump\u2019s Ability to Strike Iran Again - The New York Times",
       "pubDate": "Fri, 27 Jun 2025 23:01:08 GMT"
     },
@@ -245,10 +241,6 @@
   ],
   "Iran": [
     {
-      "title": "Secrets on Iran nuclear strike spill into open as Pentagon defends bombing - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Thu, 26 Jun 2025 21:26:57 GMT"
-    },
-    {
       "title": "Senate Democrats question \"obliteration\" of Iran's nuclear sites after classified briefing on strikes - CBS News",
       "pubDate": "Fri, 27 Jun 2025 11:40:42 GMT"
     },
@@ -312,10 +304,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine kills Russian navy's No. 2 commander in strike, but officials worry about Trump's military aid cuts - CBS News",
-      "pubDate": "Thu, 03 Jul 2025 15:49:08 GMT"
-    },
     {
       "title": "Kyiv hit by barrage of drone strikes as Putin spurns Trump's truce bid - BBC",
       "pubDate": "Fri, 04 Jul 2025 07:12:48 GMT"
@@ -471,6 +459,10 @@
     {
       "title": "Musk ordered shutdown of Starlink satellite service as Ukraine retook territory from Russia - Reuters",
       "pubDate": "Fri, 25 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Drones hit Russian electronic warfare plant and disrupt railway and air travel - The Guardian",
+      "pubDate": "Sun, 27 Jul 2025 01:45:00 GMT"
     }
   ],
   "Russia": [
@@ -749,10 +741,6 @@
   ],
   "China": [
     {
-      "title": "US, China announce a trade agreement \u2014 again. Here\u2019s what it means - AP News",
-      "pubDate": "Sat, 28 Jun 2025 01:49:00 GMT"
-    },
-    {
       "title": "China \u2018planned car collision\u2019 during Taiwan vice-president\u2019s visit to Prague - The Guardian",
       "pubDate": "Sat, 28 Jun 2025 14:11:00 GMT"
     },
@@ -907,6 +895,10 @@
     {
       "title": "China releases AI action plan days after the U.S. as global tech race heats up - CNBC",
       "pubDate": "Sat, 26 Jul 2025 10:54:15 GMT"
+    },
+    {
+      "title": "China's industrial profits fall further in June - Reuters",
+      "pubDate": "Sun, 27 Jul 2025 02:21:07 GMT"
     }
   ],
   "AI Safety": [
@@ -1361,6 +1353,10 @@
     {
       "title": "A year post-Biden's exit, the Democratic Party still struggles to find footing: Analysis - ABC News",
       "pubDate": "Mon, 21 Jul 2025 23:50:36 GMT"
+    },
+    {
+      "title": "The Democratic Party\u2019s Brand Is Cooked - Rolling Stone",
+      "pubDate": "Sat, 26 Jul 2025 18:10:13 GMT"
     }
   ],
   "Hamas": [
@@ -1667,10 +1663,6 @@
   ],
   "Cancer": [
     {
-      "title": "People dying early of cancer costs UK economy \u00a310.3bn a year, study finds - The Guardian",
-      "pubDate": "Thu, 26 Jun 2025 23:01:00 GMT"
-    },
-    {
       "title": "Shock research reveals how types of birth can affect children's chances of getting CANCER - Daily Mail",
       "pubDate": "Thu, 03 Jul 2025 23:05:20 GMT"
     },
@@ -1720,10 +1712,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "Earth is trapping much more heat than climate models forecast \u2013 and the rate has doubled in 20 years - The Conversation",
-      "pubDate": "Fri, 27 Jun 2025 01:34:00 GMT"
-    },
     {
       "title": "California lawmakers approve last-minute, sweeping rollbacks of environmental law - CalMatters",
       "pubDate": "Tue, 01 Jul 2025 02:06:51 GMT"
@@ -2129,6 +2117,10 @@
     {
       "title": "Researchers demonstrate modular approach for building scalable quantum computers - Tech Xplore",
       "pubDate": "Wed, 23 Jul 2025 20:29:30 GMT"
+    },
+    {
+      "title": "Could a Quantum Computing Bubble Be About to Pop? History Offers a Clear Answer - Yahoo Finance",
+      "pubDate": "Sat, 26 Jul 2025 20:00:00 GMT"
     }
   ],
   "Public Health": [
@@ -2317,6 +2309,10 @@
     {
       "title": "Gaza's hunger crisis is having 'catastrophic' outcomes for mothers and babies - NBC News",
       "pubDate": "Fri, 25 Jul 2025 19:40:04 GMT"
+    },
+    {
+      "title": "Israel intercepts Gaza-bound activist boat with food aid - BBC",
+      "pubDate": "Sun, 27 Jul 2025 02:17:31 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2617,6 +2613,10 @@
     {
       "title": "Tesla sales cratered in California for 7 straight quarters while rivals Toyota and Honda surge, report shows - Yahoo Finance",
       "pubDate": "Wed, 23 Jul 2025 03:16:03 GMT"
+    },
+    {
+      "title": "This week in EV tech: California dreaming - Digital Trends",
+      "pubDate": "Sat, 26 Jul 2025 22:00:00 GMT"
     }
   ],
   "Hacking": [
@@ -2757,6 +2757,12 @@
     {
       "title": "Jeff Bezos cashes out $5.7 billion in Amazon stock ahead of earnings - Cryptopolitan",
       "pubDate": "Sat, 26 Jul 2025 11:44:00 GMT"
+    }
+  ],
+  "Data Science": [
+    {
+      "title": "Data Science Course FAANG Interview Prep 2025 - Data Scientist Jobs at Google Amazon Meta Apple Netflix Updated - Yahoo Finance",
+      "pubDate": "Sat, 26 Jul 2025 16:04:00 GMT"
     }
   ]
 }
