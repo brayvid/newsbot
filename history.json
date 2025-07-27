@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Meta restructures AI teams to focus on superintelligence - Quartz",
-      "pubDate": "Thu, 03 Jul 2025 18:04:26 GMT"
-    },
-    {
       "title": "Tesla Vs. BYD: Tesla Loses Tax Credits Amid Robotaxi Push; BYD's BEV Sales Boom - MSN",
       "pubDate": "Fri, 04 Jul 2025 11:36:29 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Urgent need for 'global approach' on AI regulation: UN tech chief - France 24",
       "pubDate": "Sun, 27 Jul 2025 04:01:09 GMT"
+    },
+    {
+      "title": "AI is driving mass layoffs in tech, but it's boosting salaries by $18,000 a year everywhere else, study says - Fortune",
+      "pubDate": "Sun, 27 Jul 2025 11:17:00 GMT"
     }
   ],
   "US Politics": [
@@ -241,10 +241,6 @@
   ],
   "Iran": [
     {
-      "title": "Senate Democrats question \"obliteration\" of Iran's nuclear sites after classified briefing on strikes - CBS News",
-      "pubDate": "Fri, 27 Jun 2025 11:40:42 GMT"
-    },
-    {
       "title": "Israel and U.S. Smashed Iran Nuclear Site That Grew After Trump Quit 2015 Accord - The New York Times",
       "pubDate": "Sat, 28 Jun 2025 15:17:45 GMT"
     },
@@ -266,10 +262,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel Suggests It Could Strike Iran Again to Counter New Threats - The New York Times",
-      "pubDate": "Fri, 27 Jun 2025 12:14:14 GMT"
-    },
     {
       "title": "Israel military strikes at Hezbollah as UN assesses Iran nuclear site damage - live - The Independent",
       "pubDate": "Sun, 29 Jun 2025 07:21:33 GMT"
@@ -304,10 +296,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Kyiv hit by barrage of drone strikes as Putin spurns Trump's truce bid - BBC",
-      "pubDate": "Fri, 04 Jul 2025 07:12:48 GMT"
-    },
     {
       "title": "Russia pounds Kyiv with largest drone attack, hours after Trump-Putin call - Reuters",
       "pubDate": "Fri, 04 Jul 2025 13:41:40 GMT"
@@ -463,13 +451,13 @@
     {
       "title": "Ukraine war briefing: Drones hit Russian electronic warfare plant and disrupt railway and air travel - The Guardian",
       "pubDate": "Sun, 27 Jul 2025 01:45:00 GMT"
+    },
+    {
+      "title": "Software group Auterion to ship 33,000 AI drone \u2018strike kits\u2019 to Ukraine - Financial Times",
+      "pubDate": "Sun, 27 Jul 2025 04:00:39 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Russia Seizes Key Lithium Field in Challenge for U.S.-Ukraine Minerals Deal - The New York Times",
-      "pubDate": "Fri, 27 Jun 2025 09:46:25 GMT"
-    },
     {
       "title": "Russia unleashes its summer offensive with an army mired in problems - The Washington Post",
       "pubDate": "Mon, 30 Jun 2025 08:31:44 GMT"
@@ -712,10 +700,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Wall Street indexes hit new peak on trade, Fed cut optimism - Reuters",
-      "pubDate": "Fri, 27 Jun 2025 14:55:20 GMT"
-    },
     {
       "title": "Stock Market on June 27, 2025: S&P 500, Nasdaq close at all-time highs; U.S. stocks shake off Trump's remarks about trade with Canada - MarketWatch",
       "pubDate": "Fri, 27 Jun 2025 20:53:00 GMT"
@@ -1577,6 +1561,10 @@
     {
       "title": "Trump says countries aligning with BRICS policies will face additional 10% tariff - CNBC",
       "pubDate": "Mon, 07 Jul 2025 02:52:00 GMT"
+    },
+    {
+      "title": "China Dumps $8.2B US Treasuries in BRICS Payback, Sells $900M Again - CryptoRank",
+      "pubDate": "Sun, 27 Jul 2025 08:18:46 GMT"
     }
   ],
   "Central Intelligence Agency": [
@@ -1763,12 +1751,12 @@
   ],
   "Hurricanes": [
     {
-      "title": "Critical Hurricane Monitoring Data Is Going Offline - The New York Times",
-      "pubDate": "Fri, 27 Jun 2025 15:54:31 GMT"
-    },
-    {
       "title": "Vital hurricane satellites to go dark weeks into Atlantic storm season\u2014 and NOAA rips media for causing panic - New York Post",
       "pubDate": "Sat, 28 Jun 2025 01:34:00 GMT"
+    },
+    {
+      "title": "Hurricane season warning signs pile up. Brace for a dangerous August. - USA Today",
+      "pubDate": "Sun, 27 Jul 2025 10:05:32 GMT"
     }
   ],
   "Elon Musk": [
@@ -2325,6 +2313,10 @@
     {
       "title": "Food airdropped into Gaza as starvation deaths rise - The Washington Post",
       "pubDate": "Sun, 27 Jul 2025 06:15:58 GMT"
+    },
+    {
+      "title": "Israel announces \u2018tactical pause\u2019 to fighting in 3 Gaza areas, aid trucks enter enclave - France 24",
+      "pubDate": "Sun, 27 Jul 2025 06:34:45 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2519,6 +2511,10 @@
     {
       "title": "Companies Are Starting To Get The Big Picture On Climate Action - Time Magazine",
       "pubDate": "Fri, 25 Jul 2025 21:05:08 GMT"
+    },
+    {
+      "title": "Ancient river landscapes under Antarctica may stabilize ice sheet - The Washington Post",
+      "pubDate": "Sun, 27 Jul 2025 14:14:48 GMT"
     }
   ],
   "Algorithms": [
@@ -2679,6 +2675,10 @@
     {
       "title": "Scientists Warn of Massive Eruption Threat as Mount Rainier and Pacific Volcanoes Stir - MSN",
       "pubDate": "Thu, 17 Jul 2025 01:21:47 GMT"
+    },
+    {
+      "title": "Researchers issue warning over troubling phenomenon that could revive dormant volcanoes: 'It's just like opening a Coca-Cola bottle' - Yahoo Home",
+      "pubDate": "Sun, 27 Jul 2025 10:15:43 GMT"
     }
   ],
   "Hydrogen Fuel": [
