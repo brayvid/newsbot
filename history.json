@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Senate Republicans release 940-page bill for Trump's agenda as they race to vote this weekend - NBC News",
-      "pubDate": "Sat, 28 Jun 2025 18:43:16 GMT"
-    },
-    {
       "title": "Senate Republicans advance Trump's 'Big Beautiful Bill' but final vote hangs in balance - BBC",
       "pubDate": "Sun, 29 Jun 2025 03:39:27 GMT"
     },
@@ -669,12 +665,6 @@
       "pubDate": "Sat, 26 Jul 2025 10:04:37 GMT"
     }
   ],
-  "World News": [
-    {
-      "title": "Live updates: Iran holds state funerals and Israeli protesters demand Gaza ceasefire - CNN",
-      "pubDate": "Sat, 28 Jun 2025 20:04:00 GMT"
-    }
-  ],
   "National Security": [
     {
       "title": "The top U.S. cybersecurity agency is shrinking quickly under Trump 2.0 - Axios",
@@ -867,6 +857,10 @@
     {
       "title": "China's industrial profits fall further in June - Reuters",
       "pubDate": "Sun, 27 Jul 2025 02:21:07 GMT"
+    },
+    {
+      "title": "China investigates Shaolin Temple\u2019s head monk on suspicion of financial and sexual misconduct - NBC News",
+      "pubDate": "Mon, 28 Jul 2025 10:42:18 GMT"
     }
   ],
   "AI Safety": [
@@ -1027,6 +1021,10 @@
     {
       "title": "Major Life Insurance Data Breach Puts Over 1 Million at Risk - Men's Journal",
       "pubDate": "Sun, 27 Jul 2025 15:12:58 GMT"
+    },
+    {
+      "title": "Allianz Life discloses massive data breach linked to supply-chain attack - Cybersecurity Dive",
+      "pubDate": "Mon, 28 Jul 2025 14:54:30 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1336,10 +1334,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "At least 81 people killed in Israeli strikes in Gaza, Hamas-run health ministry says - BBC",
-      "pubDate": "Sat, 28 Jun 2025 19:20:18 GMT"
-    },
     {
       "title": "Trump calls for a deal on Israel's war in Gaza, as signs of progress emerge - NPR",
       "pubDate": "Sun, 29 Jun 2025 09:09:24 GMT"
@@ -1689,6 +1683,10 @@
     {
       "title": "US scientists discover new early warning sign for deadly pancreatic cancer - Times of India",
       "pubDate": "Sun, 27 Jul 2025 01:49:00 GMT"
+    },
+    {
+      "title": "Deion Sanders reveals he fought bladder cancer - foxnews.com",
+      "pubDate": "Mon, 28 Jul 2025 17:11:32 GMT"
     }
   ],
   "Climate": [
@@ -1790,10 +1788,6 @@
     }
   ],
   "Mars": [
-    {
-      "title": "Confirmed\u2014a NASA robot finds biological signs on Mars, and scientists talk about the strongest evidence of extraterrestrial life to date - El Adelantado de Segovia",
-      "pubDate": "Sat, 28 Jun 2025 16:30:41 GMT"
-    },
     {
       "title": "NASA Rover Finds Unbelievable Evidence of Life\u2019s Potential on Mars \u2013 A Discovery That Changes Everything - MSN",
       "pubDate": "Sat, 05 Jul 2025 22:07:28 GMT"
@@ -2351,6 +2345,10 @@
     {
       "title": "[Today's Major Economic and Cryptocurrency Schedules] US New Unemployment Claims, etc. - bloomingbit",
       "pubDate": "Thu, 24 Jul 2025 00:08:37 GMT"
+    },
+    {
+      "title": "PayPal to Enable Businesses to Accept Bitcoin, Ethereum and Other Cryptocurrencies - Decrypt",
+      "pubDate": "Mon, 28 Jul 2025 13:44:27 GMT"
     }
   ],
   "Science": [
@@ -2515,6 +2513,10 @@
     {
       "title": "Prolonged wind droughts in a warming climate threaten global wind power security - Nature",
       "pubDate": "Mon, 28 Jul 2025 10:09:42 GMT"
+    },
+    {
+      "title": "Freshwater is disappearing from the Earth at alarming rates: Study - The Hill",
+      "pubDate": "Mon, 28 Jul 2025 16:46:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2753,6 +2755,10 @@
     {
       "title": "Russia Claims New S-500 Can Strike Stealth Fighters, Satellites, and Hypersonic Missiles - National Security Journal",
       "pubDate": "Sat, 26 Jul 2025 14:51:38 GMT"
+    },
+    {
+      "title": "Germany is said to plan massive military buildup, doubling defense budget by 2029 - Seeking Alpha",
+      "pubDate": "Mon, 28 Jul 2025 15:16:07 GMT"
     }
   ],
   "Google": [
