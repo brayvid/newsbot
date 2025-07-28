@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI CEO Sam Altman says he's 'politically homeless' in July 4 post bashing Democrats - CNBC",
-      "pubDate": "Fri, 04 Jul 2025 15:44:10 GMT"
-    },
-    {
       "title": "Why OpenAI and Anthropic Are the Best Bets in Artificial Intelligence - The Information",
       "pubDate": "Fri, 04 Jul 2025 18:00:00 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "OpenAI CEO says AI can diagnose better than many human doctors, yet people still go to doctors; I am like - The Times of India",
       "pubDate": "Sun, 27 Jul 2025 11:38:00 GMT"
+    },
+    {
+      "title": "Musk hails $16.5bn Samsung deal to supply Tesla with AI chips - The Guardian",
+      "pubDate": "Mon, 28 Jul 2025 10:36:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Senate Republicans make steep cuts to wind and solar in updated megabill text - Politico",
-      "pubDate": "Sat, 28 Jun 2025 13:39:47 GMT"
-    },
     {
       "title": "Senate Republicans release 940-page bill for Trump's agenda as they race to vote this weekend - NBC News",
       "pubDate": "Sat, 28 Jun 2025 18:43:16 GMT"
@@ -237,10 +233,6 @@
   ],
   "Iran": [
     {
-      "title": "Israel and U.S. Smashed Iran Nuclear Site That Grew After Trump Quit 2015 Accord - The New York Times",
-      "pubDate": "Sat, 28 Jun 2025 15:17:45 GMT"
-    },
-    {
       "title": "Iran-linked hackers threaten to release Trump aides' emails - Reuters",
       "pubDate": "Tue, 01 Jul 2025 03:31:00 GMT"
     },
@@ -289,6 +281,10 @@
     {
       "title": "Israeli Parliament Votes for Making Apartheid Official. Fetterman: \u201cI Haven\u2019t Been Following It.\u201d - The Intercept",
       "pubDate": "Sat, 26 Jul 2025 10:00:00 GMT"
+    },
+    {
+      "title": "For first time, two leading Israeli human rights groups accuse Israel of genocide in Gaza - CNN",
+      "pubDate": "Mon, 28 Jul 2025 11:07:00 GMT"
     }
   ],
   "Ukraine": [
@@ -711,19 +707,11 @@
   ],
   "Recession": [
     {
-      "title": "That Drop in Consumer Income in May Was a False Recession Alarm - Wolf Street",
-      "pubDate": "Sat, 28 Jun 2025 10:04:10 GMT"
-    },
-    {
       "title": "Japan\u2019s exports fall for second straight month with no U.S. trade deal in sight, raising recession fears - CNBC",
       "pubDate": "Wed, 16 Jul 2025 23:58:58 GMT"
     }
   ],
   "China": [
-    {
-      "title": "China \u2018planned car collision\u2019 during Taiwan vice-president\u2019s visit to Prague - The Guardian",
-      "pubDate": "Sat, 28 Jun 2025 14:11:00 GMT"
-    },
     {
       "title": "China warns countries not to sign US trade deals at its expense - South China Morning Post",
       "pubDate": "Sun, 29 Jun 2025 07:06:00 GMT"
@@ -1042,10 +1030,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "FBI, cybersecurity firms say a prolific hacking crew is now targeting airlines and the transportation sector - Yahoo Finance",
-      "pubDate": "Sat, 28 Jun 2025 13:30:00 GMT"
-    },
     {
       "title": "Hackers tied to Iran preparing \u2018calculated smear campaign\u2019 on Trump, cyber agency says - Politico",
       "pubDate": "Tue, 01 Jul 2025 15:56:00 GMT"
@@ -2121,6 +2105,10 @@
     {
       "title": "Could a Quantum Computing Bubble Be About to Pop? History Offers a Clear Answer - Yahoo Finance",
       "pubDate": "Sat, 26 Jul 2025 20:00:00 GMT"
+    },
+    {
+      "title": "Scientists hit quantum computer error rate of 0.000015% \u2014 a world record achievement that could lead to smaller and faster machines - Live Science",
+      "pubDate": "Mon, 28 Jul 2025 11:00:00 GMT"
     }
   ],
   "Public Health": [
@@ -2166,10 +2154,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Gaza humanitarian work at risk of shutdown, U.N. warns amid fuel blockade - The Washington Post",
-      "pubDate": "Wed, 09 Jul 2025 15:12:28 GMT"
-    },
     {
       "title": "LIVE: Israel kills 35 in Gaza as \u2018difficult\u2019 truce talks continue - Al Jazeera",
       "pubDate": "Thu, 10 Jul 2025 08:06:15 GMT"
@@ -2325,6 +2309,10 @@
     {
       "title": "Malnutrition rates reach alarming levels in Gaza, WHO warns - World Health Organization (WHO)",
       "pubDate": "Sun, 27 Jul 2025 16:03:22 GMT"
+    },
+    {
+      "title": "Trump, breaking with Netanyahu, acknowledges \u2018real starvation\u2019 in Gaza - Politico",
+      "pubDate": "Mon, 28 Jul 2025 13:46:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2523,6 +2511,10 @@
     {
       "title": "Ancient river landscapes under Antarctica may stabilize ice sheet - The Washington Post",
       "pubDate": "Sun, 27 Jul 2025 14:14:48 GMT"
+    },
+    {
+      "title": "Prolonged wind droughts in a warming climate threaten global wind power security - Nature",
+      "pubDate": "Mon, 28 Jul 2025 10:09:42 GMT"
     }
   ],
   "Algorithms": [
@@ -2747,6 +2739,10 @@
     {
       "title": "AI models learn to split up tasks, slashing wait times for complex prompts - Tech Xplore",
       "pubDate": "Mon, 21 Jul 2025 14:00:01 GMT"
+    },
+    {
+      "title": "Carnegie Mellon researchers show large language models can autonomously plan and execute cyberattacks - EdTech Innovation Hub",
+      "pubDate": "Mon, 28 Jul 2025 04:30:00 GMT"
     }
   ],
   "Military and Defense": [
