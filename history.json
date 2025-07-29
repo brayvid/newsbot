@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Why OpenAI and Anthropic Are the Best Bets in Artificial Intelligence - The Information",
-      "pubDate": "Fri, 04 Jul 2025 18:00:00 GMT"
-    },
-    {
       "title": "AI revolution: How artificial intelligence is reshaping education and jobs in America - The College Fix",
       "pubDate": "Sat, 05 Jul 2025 04:17:01 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Musk hails $16.5bn Samsung deal to supply Tesla with AI chips - The Guardian",
       "pubDate": "Mon, 28 Jul 2025 10:36:00 GMT"
+    },
+    {
+      "title": "Microsoft's AI edge under scrutiny as OpenAI turns to rivals for cloud services - Reuters",
+      "pubDate": "Tue, 29 Jul 2025 10:41:23 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Senate Version of Trump\u2019s Policy Bill Would Slash Medicaid Spending Even More - The New York Times",
-      "pubDate": "Sun, 29 Jun 2025 14:28:53 GMT"
-    },
     {
       "title": "Senate inches toward a vote on Trump\u2019s sweeping domestic policy bill - CNN",
       "pubDate": "Mon, 30 Jun 2025 19:07:00 GMT"
@@ -242,10 +238,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "LIVE: Israel\u2019s attacks on Gaza kill 45; health system \u2018obliterated\u2019 - Al Jazeera",
-      "pubDate": "Sun, 29 Jun 2025 15:16:18 GMT"
-    },
     {
       "title": "Israel\u2019s 12-day war with Iran was a test of technological dominance - The Times of Israel",
       "pubDate": "Tue, 01 Jul 2025 18:37:00 GMT"
@@ -685,6 +677,10 @@
     {
       "title": "Goldman Sachs, BNY to offer tokenized money market funds for clients - Cointelegraph",
       "pubDate": "Wed, 23 Jul 2025 12:42:47 GMT"
+    },
+    {
+      "title": "US stocks edge higher as a busy week for markets picks up momentum - WFTV",
+      "pubDate": "Tue, 29 Jul 2025 13:36:02 GMT"
     }
   ],
   "Recession": [
@@ -694,10 +690,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China resumes qualified seafood imports from some Japan regions - Reuters",
-      "pubDate": "Sun, 29 Jun 2025 14:30:41 GMT"
-    },
     {
       "title": "China manufacturing activity shrinks as trade war bites - Financial Times",
       "pubDate": "Mon, 30 Jun 2025 02:49:35 GMT"
@@ -856,10 +848,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI Gone Rogue: When Machines Lie, Scheme, and Threaten - OpenTools",
-      "pubDate": "Sun, 29 Jun 2025 13:09:33 GMT"
-    },
     {
       "title": "Disturbing Signs of AI Threatening People Spark Concern - ScienceAlert",
       "pubDate": "Mon, 30 Jun 2025 02:34:49 GMT"
@@ -1303,6 +1291,10 @@
     {
       "title": "Caught on Camera: Rare Footage Reveals How a Giant Earthquake Tore the Earth in Seconds - SciTechDaily",
       "pubDate": "Sat, 26 Jul 2025 15:56:47 GMT"
+    },
+    {
+      "title": "Mounting Pressure in the Tintina Fault Could Mean Dangerous Earthquakes - Discover Magazine",
+      "pubDate": "Tue, 29 Jul 2025 13:03:44 GMT"
     }
   ],
   "Quantum Computer": [
@@ -1326,10 +1318,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "Trump calls for a deal on Israel's war in Gaza, as signs of progress emerge - NPR",
-      "pubDate": "Sun, 29 Jun 2025 09:09:24 GMT"
-    },
     {
       "title": "LIVE: Israel bombards Gaza City after ordering Palestinians to flee - Al Jazeera",
       "pubDate": "Mon, 30 Jun 2025 15:06:18 GMT"
@@ -1548,10 +1536,6 @@
     }
   ],
   "NVIDIA": [
-    {
-      "title": "Nvidia insiders sold over $1 billion in stock amid market surge, FT reports - Reuters",
-      "pubDate": "Sun, 29 Jun 2025 13:57:39 GMT"
-    },
     {
       "title": "Nvidia stock closes at record as AI chipmaker nears being crowned most valuable company in history - Yahoo Finance",
       "pubDate": "Thu, 03 Jul 2025 17:17:43 GMT"
@@ -2137,10 +2121,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israeli attacks kill 82 amid forced displacement plans, truce talks in Gaza - Al Jazeera",
-      "pubDate": "Thu, 10 Jul 2025 19:42:41 GMT"
-    },
-    {
       "title": "Israel\u2019s Military Lawyers Raise Concerns About New Plan to Move Hundreds of Thousands of Gazans - The Wall Street Journal",
       "pubDate": "Fri, 11 Jul 2025 08:04:00 GMT"
     },
@@ -2295,6 +2275,10 @@
     {
       "title": "Gaza latest: Starmer recalls cabinet to decide on Palestine recognition as Trump calls out \u2018real starvation\u2019 - The Independent",
       "pubDate": "Tue, 29 Jul 2025 08:03:00 GMT"
+    },
+    {
+      "title": "Famine scenario unfolding in Gaza, UN-backed body says, as officials say war death toll has topped 60,000 - CNN",
+      "pubDate": "Tue, 29 Jul 2025 14:49:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2509,6 +2493,10 @@
     {
       "title": "Billion-dollar disasters: The economic toll of wildfires, severe storms and earthquakes is soaring - NBC News",
       "pubDate": "Tue, 29 Jul 2025 06:00:00 GMT"
+    },
+    {
+      "title": "EPA looks to overturn the scientific reason for climate regulations - Axios",
+      "pubDate": "Tue, 29 Jul 2025 11:48:13 GMT"
     }
   ],
   "Algorithms": [
