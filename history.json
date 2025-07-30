@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Senate inches toward a vote on Trump\u2019s sweeping domestic policy bill - CNN",
-      "pubDate": "Mon, 30 Jun 2025 19:07:00 GMT"
-    },
-    {
       "title": "Supreme Court to hear Republican challenge to campaign spending limits - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 01 Jul 2025 00:30:04 GMT"
     },
@@ -663,10 +659,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as momentum builds for Trump trade deals, tax bill - Yahoo Finance",
-      "pubDate": "Mon, 30 Jun 2025 19:40:22 GMT"
-    },
-    {
       "title": "Why out-of-favor Apple holds the key to tech stocks in the coming weeks - MarketWatch",
       "pubDate": "Tue, 01 Jul 2025 10:40:00 GMT"
     },
@@ -683,6 +675,10 @@
     {
       "title": "Japan\u2019s exports fall for second straight month with no U.S. trade deal in sight, raising recession fears - CNBC",
       "pubDate": "Wed, 16 Jul 2025 23:58:58 GMT"
+    },
+    {
+      "title": "Germany Slips Back Into Recession As DAX Defies The Trend - Finimize",
+      "pubDate": "Wed, 30 Jul 2025 17:31:35 GMT"
     }
   ],
   "China": [
@@ -1331,6 +1327,10 @@
     {
       "title": "Powerful tsunami waves travel across Pacific after 8.8-magnitude earthquake - WMUR",
       "pubDate": "Wed, 30 Jul 2025 13:33:00 GMT"
+    },
+    {
+      "title": "Massive Russian earthquake struck on 'megathrust fault' - Reuters",
+      "pubDate": "Wed, 30 Jul 2025 16:44:56 GMT"
     }
   ],
   "Quantum Computer": [
@@ -1603,10 +1603,6 @@
   ],
   "Renewable Energy": [
     {
-      "title": "Renewables Slide as Senate Bill Takes Aim at Clean Energy - Yahoo Finance",
-      "pubDate": "Mon, 30 Jun 2025 17:20:45 GMT"
-    },
-    {
       "title": "Trump megabill gives the oil industry everything it wants and ends key support for solar and wind - CNBC",
       "pubDate": "Thu, 03 Jul 2025 18:55:21 GMT"
     },
@@ -1791,10 +1787,6 @@
   ],
   "Health Care": [
     {
-      "title": "More than 300 charged in $14.6 billion health care fraud schemes takedown, Justice Department says - AP News",
-      "pubDate": "Mon, 30 Jun 2025 17:34:00 GMT"
-    },
-    {
       "title": "Inside Operation Gold Rush, largest health care fraud bust in U.S. history - The Washington Post",
       "pubDate": "Mon, 30 Jun 2025 22:15:20 GMT"
     },
@@ -1921,6 +1913,10 @@
     {
       "title": "Microsoft and Nvidia Are the Odd $4 Trillion Power Couple - WSJ",
       "pubDate": "Fri, 04 Jul 2025 09:30:00 GMT"
+    },
+    {
+      "title": "Microsoft posts strong quarter, cites broad AI and cloud growth as Azure revenue tops $75B annually - GeekWire",
+      "pubDate": "Wed, 30 Jul 2025 20:22:06 GMT"
     }
   ],
   "Health": [
@@ -2109,6 +2105,10 @@
     {
       "title": "Measles Cases Hit Record High Since U.S. Eliminated Disease - The New York Times",
       "pubDate": "Wed, 09 Jul 2025 15:47:38 GMT"
+    },
+    {
+      "title": "Senate confirms Trump nominee Susan Monarez as CDC director. Here's what to know - ABC News",
+      "pubDate": "Wed, 30 Jul 2025 18:46:10 GMT"
     }
   ],
   "Alexandria Ocasio-Cortez": [
@@ -2349,6 +2349,10 @@
     {
       "title": "SEC approves in-kind redemptions for spot Bitcoin and Ethereum ETFs, increases options limits - The Block",
       "pubDate": "Tue, 29 Jul 2025 20:42:13 GMT"
+    },
+    {
+      "title": "White House unveils crypto policy 'roadmap' meant to usher in 'golden age' - ABC News",
+      "pubDate": "Wed, 30 Jul 2025 15:53:00 GMT"
     }
   ],
   "Science": [
@@ -2541,6 +2545,10 @@
     {
       "title": "Trump EPA moves to repeal landmark 'endangerment finding' that allows climate regulation - ABC News",
       "pubDate": "Tue, 29 Jul 2025 21:22:59 GMT"
+    },
+    {
+      "title": "US government may be abandoning the global climate fight, but new leaders are filling the void \u2013 including China - The Conversation",
+      "pubDate": "Wed, 30 Jul 2025 12:34:46 GMT"
     }
   ],
   "Algorithms": [
