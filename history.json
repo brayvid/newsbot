@@ -687,10 +687,6 @@
   ],
   "China": [
     {
-      "title": "China Home Sales Slump Persists as Calls Grow for More Stimulus - Bloomberg",
-      "pubDate": "Mon, 30 Jun 2025 11:23:31 GMT"
-    },
-    {
       "title": "China Reveals Details of Dual Aircraft Carrier Operations in West Pacific - Newsweek",
       "pubDate": "Tue, 01 Jul 2025 07:20:18 GMT"
     },
@@ -1001,6 +997,10 @@
     {
       "title": "Allianz Life discloses massive data breach linked to supply-chain attack - Cybersecurity Dive",
       "pubDate": "Mon, 28 Jul 2025 14:54:30 GMT"
+    },
+    {
+      "title": "Massive data breach hits Russian authorities in occupied Crimea as Ukrainian intelligence downloads secret military files - Euromaidan Press",
+      "pubDate": "Wed, 30 Jul 2025 11:07:37 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1067,10 +1067,6 @@
   ],
   "US Economy": [
     {
-      "title": "A crucial jobs report meets a stock market at all-time highs: What to know this week - Yahoo Finance",
-      "pubDate": "Mon, 30 Jun 2025 09:14:25 GMT"
-    },
-    {
       "title": "Federal Reserve chair blames Trump\u2019s tariffs for preventing interest rates cut - The Guardian",
       "pubDate": "Tue, 01 Jul 2025 15:21:15 GMT"
     },
@@ -1117,6 +1113,10 @@
     {
       "title": "US economic growth likely rebounded in Q2, but with weak underlying details - Reuters",
       "pubDate": "Wed, 30 Jul 2025 04:04:49 GMT"
+    },
+    {
+      "title": "US economy grows at 3% in Q2, rebounding from first pullback in 3 years - Yahoo Finance",
+      "pubDate": "Wed, 30 Jul 2025 14:16:19 GMT"
     }
   ],
   "Trade War": [
@@ -1191,6 +1191,10 @@
     {
       "title": "US, China tariff truce holds for now but US says Trump has final say - Reuters",
       "pubDate": "Tue, 29 Jul 2025 21:17:48 GMT"
+    },
+    {
+      "title": "Trump imposes 25% tariff on India: Centre hits back, says 'will take all steps to secure national interest' - Times of India",
+      "pubDate": "Wed, 30 Jul 2025 15:08:00 GMT"
     }
   ],
   "Asteroids": [
@@ -1323,6 +1327,10 @@
     {
       "title": "Evacuations in Japan and US as major earthquake off Russia triggers widespread tsunami warnings - BBC",
       "pubDate": "Wed, 30 Jul 2025 01:30:13 GMT"
+    },
+    {
+      "title": "Powerful tsunami waves travel across Pacific after 8.8-magnitude earthquake - WMUR",
+      "pubDate": "Wed, 30 Jul 2025 13:33:00 GMT"
     }
   ],
   "Quantum Computer": [
@@ -1342,10 +1350,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "LIVE: Israel bombards Gaza City after ordering Palestinians to flee - Al Jazeera",
-      "pubDate": "Mon, 30 Jun 2025 15:06:18 GMT"
-    },
     {
       "title": "Israel bombs Gaza aid sites, cafe and school, killing 95 Palestinians - Al Jazeera",
       "pubDate": "Tue, 01 Jul 2025 04:23:26 GMT"
@@ -1599,10 +1603,6 @@
   ],
   "Renewable Energy": [
     {
-      "title": "US Senate bill\u2019s clean energy cuts draw backlash from labor, business - Reuters",
-      "pubDate": "Mon, 30 Jun 2025 15:18:26 GMT"
-    },
-    {
       "title": "Renewables Slide as Senate Bill Takes Aim at Clean Energy - Yahoo Finance",
       "pubDate": "Mon, 30 Jun 2025 17:20:45 GMT"
     },
@@ -1829,10 +1829,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "Google just bought 200 megawatts of fusion energy that doesn\u2019t even exist yet - CNN",
-      "pubDate": "Mon, 30 Jun 2025 13:00:00 GMT"
-    },
-    {
       "title": "Record-Breaking Results Bring Fusion Power Closer to Reality - Scientific American",
       "pubDate": "Thu, 03 Jul 2025 12:00:00 GMT"
     },
@@ -1851,6 +1847,10 @@
     {
       "title": "China sets up state-owned fusion energy company - China.org.cn",
       "pubDate": "Fri, 25 Jul 2025 04:07:29 GMT"
+    },
+    {
+      "title": "Helion Energy starts construction on nuclear fusion plant to power Microsoft data centers - Yahoo Finance",
+      "pubDate": "Wed, 30 Jul 2025 12:08:33 GMT"
     }
   ],
   "North Korea": [
