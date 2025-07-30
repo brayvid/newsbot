@@ -691,10 +691,6 @@
   ],
   "China": [
     {
-      "title": "China manufacturing activity shrinks as trade war bites - Financial Times",
-      "pubDate": "Mon, 30 Jun 2025 02:49:35 GMT"
-    },
-    {
       "title": "China Home Sales Slump Persists as Calls Grow for More Stimulus - Bloomberg",
       "pubDate": "Mon, 30 Jun 2025 11:23:31 GMT"
     },
@@ -848,10 +844,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Disturbing Signs of AI Threatening People Spark Concern - ScienceAlert",
-      "pubDate": "Mon, 30 Jun 2025 02:34:49 GMT"
-    },
     {
       "title": "Sutskever to lead Safe Superintelligence after Meta poaches CEO Gross in AI talent war - Reuters",
       "pubDate": "Thu, 03 Jul 2025 21:50:42 GMT"
@@ -1183,6 +1175,10 @@
     {
       "title": "China and US may work to extend latest tariff deadline, Chinese official says - AP News",
       "pubDate": "Tue, 29 Jul 2025 20:01:00 GMT"
+    },
+    {
+      "title": "US, China tariff truce holds for now but US says Trump has final say - Reuters",
+      "pubDate": "Tue, 29 Jul 2025 21:17:48 GMT"
     }
   ],
   "Asteroids": [
@@ -1241,6 +1237,10 @@
     {
       "title": "Scientists may have solved a chemistry mystery about Jupiter's ocean moon Europa - Space",
       "pubDate": "Wed, 23 Jul 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Scientists use cosmic dust to reconstruct Earth's atmospheric history - Phys.org",
+      "pubDate": "Tue, 29 Jul 2025 17:18:25 GMT"
     }
   ],
   "Earthquakes": [
@@ -1307,6 +1307,10 @@
     {
       "title": "Scientists Say A Major Earthquake Fault Line Is Waking Up - Time Magazine",
       "pubDate": "Tue, 29 Jul 2025 18:30:05 GMT"
+    },
+    {
+      "title": "Evacuations in Japan and US as major earthquake off Russia triggers widespread tsunami warnings - BBC",
+      "pubDate": "Wed, 30 Jul 2025 01:30:13 GMT"
     }
   ],
   "Quantum Computer": [
@@ -1423,6 +1427,10 @@
     {
       "title": "Five people, including gunman, dead in shooting at New York City high-rise - NBC News",
       "pubDate": "Tue, 29 Jul 2025 05:21:00 GMT"
+    },
+    {
+      "title": "Gunman kills 4 at NYC office building, including NYPD officer and Blackstone executive: Here's everything we know - Yahoo Home",
+      "pubDate": "Tue, 29 Jul 2025 23:16:13 GMT"
     }
   ],
   "Bitcoin": [
@@ -1582,10 +1590,6 @@
     }
   ],
   "Renewable Energy": [
-    {
-      "title": "G.O.P. Bill Adds Surprise Tax That Could Cripple Wind and Solar Power - The New York Times",
-      "pubDate": "Sun, 29 Jun 2025 22:48:17 GMT"
-    },
     {
       "title": "US Senate bill\u2019s clean energy cuts draw backlash from labor, business - Reuters",
       "pubDate": "Mon, 30 Jun 2025 15:18:26 GMT"
@@ -2129,10 +2133,6 @@
   ],
   "Gaza": [
     {
-      "title": "Gaza's largest functioning hospital facing disaster, medics warn, as Israel widens offensive - BBC",
-      "pubDate": "Fri, 11 Jul 2025 15:41:42 GMT"
-    },
-    {
       "title": "Gaza truce talks on verge of collapse, Palestinian officials say - BBC",
       "pubDate": "Sat, 12 Jul 2025 04:20:41 GMT"
     },
@@ -2287,6 +2287,10 @@
     {
       "title": "UK will recognise Palestinian state in September unless Israel agrees to Gaza ceasefire and other conditions - BBC",
       "pubDate": "Tue, 29 Jul 2025 17:44:17 GMT"
+    },
+    {
+      "title": "Gaza experiencing \u2018worst case\u2019 scenario of famine, leading aid group warns - PBS",
+      "pubDate": "Tue, 29 Jul 2025 22:55:09 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2329,6 +2333,10 @@
     {
       "title": "PayPal to Enable Businesses to Accept Bitcoin, Ethereum and Other Cryptocurrencies - Decrypt",
       "pubDate": "Mon, 28 Jul 2025 13:44:27 GMT"
+    },
+    {
+      "title": "SEC approves in-kind redemptions for spot Bitcoin and Ethereum ETFs, increases options limits - The Block",
+      "pubDate": "Tue, 29 Jul 2025 20:42:13 GMT"
     }
   ],
   "Science": [
@@ -2513,6 +2521,10 @@
     {
       "title": "Trump moves to scrap climate rule tying greenhouse gases to public health harm - The Guardian",
       "pubDate": "Tue, 29 Jul 2025 18:02:00 GMT"
+    },
+    {
+      "title": "Trump EPA proposes revoking pollution limits based in part on document authored by 5 climate contrarians - CNN",
+      "pubDate": "Tue, 29 Jul 2025 17:14:00 GMT"
     }
   ],
   "Algorithms": [
