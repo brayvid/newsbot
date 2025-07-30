@@ -431,10 +431,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia unleashes its summer offensive with an army mired in problems - The Washington Post",
-      "pubDate": "Mon, 30 Jun 2025 08:31:44 GMT"
-    },
-    {
       "title": "Ukraine fears increased Russian aggression after US halt of weapons supply - BBC",
       "pubDate": "Wed, 02 Jul 2025 19:14:18 GMT"
     },
@@ -841,6 +837,10 @@
     {
       "title": "China releases US$77 million relief fund as casualties mount in Beijing floods - South China Morning Post",
       "pubDate": "Tue, 29 Jul 2025 08:09:25 GMT"
+    },
+    {
+      "title": "China Buys Up Property in America's Hottest Housing Market - Newsweek",
+      "pubDate": "Wed, 30 Jul 2025 08:00:01 GMT"
     }
   ],
   "AI Safety": [
@@ -943,6 +943,10 @@
     {
       "title": "AI Godfather Hinton Criticizes Altman, Zuckerberg on AI Risks, Praises Hassabis - WebProNews",
       "pubDate": "Sun, 27 Jul 2025 16:28:03 GMT"
+    },
+    {
+      "title": "Canada commits funding to joint AI safety effort with the U.K. - Yahoo.co",
+      "pubDate": "Wed, 30 Jul 2025 07:00:34 GMT"
     }
   ],
   "Data Breach": [
@@ -1055,6 +1059,10 @@
     {
       "title": "Palo Alto Networks in talks to buy CyberArk in deal worth over $20 billion, WSJ reports - Reuters",
       "pubDate": "Tue, 29 Jul 2025 17:08:19 GMT"
+    },
+    {
+      "title": "Major cyberattack hits St. Paul, shuts down many services - Star Tribune",
+      "pubDate": "Tue, 29 Jul 2025 22:50:41 GMT"
     }
   ],
   "US Economy": [
@@ -1105,6 +1113,10 @@
     {
       "title": "Pressure Mounts on Fed Chief Powell in Tee Up to GDP, Jobs Data - Bloomberg.com",
       "pubDate": "Sun, 27 Jul 2025 17:39:38 GMT"
+    },
+    {
+      "title": "US economic growth likely rebounded in Q2, but with weak underlying details - Reuters",
+      "pubDate": "Wed, 30 Jul 2025 04:04:49 GMT"
     }
   ],
   "Trade War": [
@@ -1435,10 +1447,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Bitcoin Soars, Altcoins Fade in $300 Billion Crypto Shakeout - Bloomberg.com",
-      "pubDate": "Mon, 30 Jun 2025 05:00:00 GMT"
-    },
-    {
       "title": "Bitcoin Whales Wake Up From 14-Year Slumber to Move Over $2B of BTC - CoinDesk",
       "pubDate": "Fri, 04 Jul 2025 07:26:16 GMT"
     },
@@ -1671,6 +1679,10 @@
     {
       "title": "Deion Sanders reveals he fought bladder cancer - foxnews.com",
       "pubDate": "Mon, 28 Jul 2025 17:11:32 GMT"
+    },
+    {
+      "title": "New method uses exosome stiffness for lung cancer gene detection - News-Medical",
+      "pubDate": "Wed, 30 Jul 2025 06:28:00 GMT"
     }
   ],
   "Climate": [
@@ -2525,6 +2537,10 @@
     {
       "title": "Trump EPA proposes revoking pollution limits based in part on document authored by 5 climate contrarians - CNN",
       "pubDate": "Tue, 29 Jul 2025 17:14:00 GMT"
+    },
+    {
+      "title": "Trump EPA moves to repeal landmark 'endangerment finding' that allows climate regulation - ABC News",
+      "pubDate": "Tue, 29 Jul 2025 21:22:59 GMT"
     }
   ],
   "Algorithms": [
@@ -2821,6 +2837,12 @@
     {
       "title": "Most Phones Sold in US Are Now Made in India as Apple Shifts - Bloomberg",
       "pubDate": "Tue, 29 Jul 2025 01:48:00 GMT"
+    }
+  ],
+  "Space Exploration": [
+    {
+      "title": "SpaceX launches 28 Starlink satellites on a Falcon 9 rocket from Florida - Space",
+      "pubDate": "Wed, 30 Jul 2025 03:51:02 GMT"
     }
   ]
 }
