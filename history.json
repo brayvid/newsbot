@@ -213,10 +213,6 @@
   ],
   "Iran": [
     {
-      "title": "Israel\u2019s War on Iran Backfired - Foreign Policy",
-      "pubDate": "Tue, 01 Jul 2025 07:21:01 GMT"
-    },
-    {
       "title": "After US and Israeli strikes, some nuclear experts say Iran could be more dangerous - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 02 Jul 2025 23:22:38 GMT"
     },
@@ -641,6 +637,10 @@
     {
       "title": "China-linked scam centers target U.S., congressional commission warns - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 14:45:08 GMT"
+    },
+    {
+      "title": "China summons chip giant Nvidia over alleged security risks - Yahoo Finance",
+      "pubDate": "Thu, 31 Jul 2025 07:50:05 GMT"
     }
   ],
   "US Congress": [
@@ -661,6 +661,10 @@
     {
       "title": "US stocks edge higher as a busy week for markets picks up momentum - WFTV",
       "pubDate": "Tue, 29 Jul 2025 13:36:02 GMT"
+    },
+    {
+      "title": "Meta Q2 earnings recap: Stock surges 12% after hours on strong results as AI talent costs heat up - Business Insider",
+      "pubDate": "Thu, 31 Jul 2025 04:10:00 GMT"
     }
   ],
   "Recession": [
@@ -674,14 +678,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China Reveals Details of Dual Aircraft Carrier Operations in West Pacific - Newsweek",
-      "pubDate": "Tue, 01 Jul 2025 07:20:18 GMT"
-    },
-    {
-      "title": "China sanctions former Philippine senator on maritime claims - Reuters",
-      "pubDate": "Tue, 01 Jul 2025 07:37:49 GMT"
-    },
     {
       "title": "Senate votes to send 2 million US jobs to China, increase deficit, energy costs - Electrek",
       "pubDate": "Tue, 01 Jul 2025 19:21:00 GMT"
@@ -931,6 +927,10 @@
     {
       "title": "Canada commits funding to joint AI safety effort with the U.K. - Yahoo.co",
       "pubDate": "Wed, 30 Jul 2025 07:00:34 GMT"
+    },
+    {
+      "title": "Painters, nursing assistants, and more: Microsoft's top 10 most AI-safe careers - CNBC",
+      "pubDate": "Thu, 31 Jul 2025 08:08:38 GMT"
     }
   ],
   "Data Breach": [
@@ -1346,10 +1346,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "Israel bombs Gaza aid sites, cafe and school, killing 95 Palestinians - Al Jazeera",
-      "pubDate": "Tue, 01 Jul 2025 04:23:26 GMT"
-    },
     {
       "title": "Hamas says it is studying ceasefire proposal labelled 'final' by Trump - Reuters",
       "pubDate": "Wed, 02 Jul 2025 14:48:54 GMT"
@@ -1831,10 +1827,6 @@
   ],
   "North Korea": [
     {
-      "title": "Kim Jong Un publicly honors North Korean soldiers killed in Russia-Ukraine war - The Kyiv Independent",
-      "pubDate": "Tue, 01 Jul 2025 08:40:31 GMT"
-    },
-    {
       "title": "North Korean defector to sue Kim Jong Un for abuse - BBC",
       "pubDate": "Thu, 10 Jul 2025 05:11:30 GMT"
     },
@@ -2137,10 +2129,6 @@
   ],
   "Gaza": [
     {
-      "title": "Gaza truce talks on verge of collapse, Palestinian officials say - BBC",
-      "pubDate": "Sat, 12 Jul 2025 04:20:41 GMT"
-    },
-    {
       "title": "Israel-Hamas Negotiations Faltering Over IDF Withdrawal From Gaza, Sources Say - Haaretz",
       "pubDate": "Sat, 12 Jul 2025 15:21:00 GMT"
     },
@@ -2295,6 +2283,10 @@
     {
       "title": "Gaza experiencing \u2018worst case\u2019 scenario of famine, leading aid group warns - PBS",
       "pubDate": "Tue, 29 Jul 2025 22:55:09 GMT"
+    },
+    {
+      "title": "IDF gunfire kills 30 Palestinians waiting for aid, Gaza defence ministry says, as US special envoy due to visit Israel \u2013 Israel-Gaza war live - The Guardian",
+      "pubDate": "Thu, 31 Jul 2025 06:42:00 GMT"
     }
   ],
   "Cryptocurrency": [
