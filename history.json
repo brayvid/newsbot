@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Medicaid cuts in Trump's 'big beautiful' bill will leave millions uninsured, threaten rural hospitals - CNBC",
-      "pubDate": "Tue, 01 Jul 2025 19:57:47 GMT"
-    },
-    {
       "title": "Judge blocks Trump\u2019s ban on asylum at the southern US border - Al Jazeera",
       "pubDate": "Thu, 03 Jul 2025 02:04:24 GMT"
     },
@@ -219,10 +215,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel\u2019s 12-day war with Iran was a test of technological dominance - The Times of Israel",
-      "pubDate": "Tue, 01 Jul 2025 18:37:00 GMT"
-    },
-    {
       "title": "Israel\u2019s Deadly Assault on Iran Prison Incites Fury, Even Among Dissidents - The New York Times",
       "pubDate": "Sun, 06 Jul 2025 22:13:55 GMT"
     },
@@ -248,10 +240,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia Hits Ukraine With Large Air Barrage Hours After Trump-Putin Call - The New York Times",
-      "pubDate": "Fri, 04 Jul 2025 17:52:49 GMT"
-    },
     {
       "title": "Russia hits Ukraine with largest aerial attack as Trump talks to Zelenskyy and Putin - NPR",
       "pubDate": "Fri, 04 Jul 2025 17:02:17 GMT"
@@ -407,6 +395,10 @@
     {
       "title": "Russia\u2019s summer offensive is turning into an escalating crisis for Ukraine - CNN",
       "pubDate": "Thu, 31 Jul 2025 00:00:00 GMT"
+    },
+    {
+      "title": "Russia launches record 6,297 drones at Ukraine in July 2025 \u2014 a 1,378% increase from last year, OSINT analyst reports - Euromaidan Press",
+      "pubDate": "Thu, 31 Jul 2025 20:18:42 GMT"
     }
   ],
   "Russia": [
@@ -671,10 +663,6 @@
   ],
   "China": [
     {
-      "title": "Senate votes to send 2 million US jobs to China, increase deficit, energy costs - Electrek",
-      "pubDate": "Tue, 01 Jul 2025 19:21:00 GMT"
-    },
-    {
       "title": "China will invade Siberia, not Taiwan - The Hill",
       "pubDate": "Wed, 02 Jul 2025 15:30:00 GMT"
     },
@@ -813,6 +801,10 @@
     {
       "title": "China Buys Up Property in America's Hottest Housing Market - Newsweek",
       "pubDate": "Wed, 30 Jul 2025 08:00:01 GMT"
+    },
+    {
+      "title": "China uses \"dark fleet\" to buy oil from Iran and evade U.S. sanctions in international waters - CBS News",
+      "pubDate": "Thu, 31 Jul 2025 18:14:12 GMT"
     }
   ],
   "AI Safety": [
@@ -927,6 +919,10 @@
     {
       "title": "Musk's xAI to sign chapter on safety and security in EU's AI code of practice - Reuters",
       "pubDate": "Thu, 31 Jul 2025 09:08:44 GMT"
+    },
+    {
+      "title": "A Plan to Fund Independent Assessments of General-Purpose AI - Tech Policy Press",
+      "pubDate": "Thu, 31 Jul 2025 15:13:13 GMT"
     }
   ],
   "Data Breach": [
@@ -1315,6 +1311,10 @@
     {
       "title": "Massive Kamchatka Earthquake Triggers Klyuchevskoy Volcano Eruption - Orbital Today",
       "pubDate": "Wed, 30 Jul 2025 16:30:55 GMT"
+    },
+    {
+      "title": "Magnitude 4.3 earthquake near Rialto sends shaking across Southern California - Los Angeles Times",
+      "pubDate": "Thu, 31 Jul 2025 19:20:00 GMT"
     }
   ],
   "Quantum Computer": [
@@ -2353,6 +2353,10 @@
     {
       "title": "With all eyes on Apple\u2019s next earnings report, one research firm calls on Tim Cook to step aside - Fortune",
       "pubDate": "Wed, 16 Jul 2025 14:37:00 GMT"
+    },
+    {
+      "title": "Apple reports third-quarter earnings after the bell - CNBC",
+      "pubDate": "Thu, 31 Jul 2025 17:50:29 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -2653,6 +2657,10 @@
     {
       "title": "Elmo\u2019s X account posts racist and antisemitic messages after being hacked - The Guardian",
       "pubDate": "Mon, 14 Jul 2025 17:47:00 GMT"
+    },
+    {
+      "title": "The Kremlin's Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware - WIRED",
+      "pubDate": "Thu, 31 Jul 2025 16:00:00 GMT"
     }
   ],
   "Environment": [
