@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Senate prepares to take final megabill votes - Politico",
-      "pubDate": "Tue, 01 Jul 2025 14:19:15 GMT"
-    },
-    {
       "title": "Medicaid cuts in Trump's 'big beautiful' bill will leave millions uninsured, threaten rural hospitals - CNBC",
       "pubDate": "Tue, 01 Jul 2025 19:57:47 GMT"
     },
@@ -651,10 +647,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "Why out-of-favor Apple holds the key to tech stocks in the coming weeks - MarketWatch",
-      "pubDate": "Tue, 01 Jul 2025 10:40:00 GMT"
-    },
-    {
       "title": "Goldman Sachs, BNY to offer tokenized money market funds for clients - Cointelegraph",
       "pubDate": "Wed, 23 Jul 2025 12:42:47 GMT"
     },
@@ -931,6 +923,10 @@
     {
       "title": "Painters, nursing assistants, and more: Microsoft's top 10 most AI-safe careers - CNBC",
       "pubDate": "Thu, 31 Jul 2025 08:08:38 GMT"
+    },
+    {
+      "title": "Musk's xAI to sign chapter on safety and security in EU's AI code of practice - Reuters",
+      "pubDate": "Thu, 31 Jul 2025 09:08:44 GMT"
     }
   ],
   "Data Breach": [
@@ -993,10 +989,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Hackers tied to Iran preparing \u2018calculated smear campaign\u2019 on Trump, cyber agency says - Politico",
-      "pubDate": "Tue, 01 Jul 2025 15:56:00 GMT"
-    },
-    {
       "title": "Cyberattack hits major airline, up to 6M customer profiles exposed - Fox Business",
       "pubDate": "Wed, 02 Jul 2025 18:24:00 GMT"
     },
@@ -1054,14 +1046,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "Federal Reserve chair blames Trump\u2019s tariffs for preventing interest rates cut - The Guardian",
-      "pubDate": "Tue, 01 Jul 2025 15:21:15 GMT"
-    },
-    {
-      "title": "US economy sees more job openings than expected, new manufacturing data - Yahoo Finance",
-      "pubDate": "Tue, 01 Jul 2025 14:22:39 GMT"
-    },
     {
       "title": "US personal income drops for first time since 2021, raising recession concerns - KUTV",
       "pubDate": "Wed, 02 Jul 2025 02:32:03 GMT"
@@ -1183,6 +1167,10 @@
     {
       "title": "Trump imposes 25% tariff on India: Centre hits back, says 'will take all steps to secure national interest' - Times of India",
       "pubDate": "Wed, 30 Jul 2025 15:08:00 GMT"
+    },
+    {
+      "title": "China pauses US-bound company investment amid trade war - Nikkei Asia",
+      "pubDate": "Thu, 31 Jul 2025 12:30:00 GMT"
     }
   ],
   "Asteroids": [
@@ -1943,6 +1931,10 @@
     {
       "title": "The Fed is unlikely to cut rates, but this week's meeting is packed with intrigue - CNBC",
       "pubDate": "Tue, 29 Jul 2025 19:00:58 GMT"
+    },
+    {
+      "title": "Federal Reserve Votes to Hold Interest Rates Steady, with Two Rare Dissenting Votes - Democracy Now!",
+      "pubDate": "Thu, 31 Jul 2025 14:01:05 GMT"
     }
   ],
   "Alternative Energy": [
@@ -2057,6 +2049,10 @@
     {
       "title": "OpenAI Hits $12 Billion in Annualized Revenue, Breaks 700 Million ChatGPT Weekly Active Users - The Information",
       "pubDate": "Thu, 31 Jul 2025 01:42:00 GMT"
+    },
+    {
+      "title": "OpenAI spearheads one of Europe\u2019s biggest data centers with 100,000 Nvidia chips - CNBC",
+      "pubDate": "Thu, 31 Jul 2025 07:15:46 GMT"
     }
   ],
   "Quantum Computing": [
@@ -2128,10 +2124,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel-Hamas Negotiations Faltering Over IDF Withdrawal From Gaza, Sources Say - Haaretz",
-      "pubDate": "Sat, 12 Jul 2025 15:21:00 GMT"
-    },
     {
       "title": "Gaza hospital says 24 people killed near aid site as witnesses blame IDF - BBC",
       "pubDate": "Sat, 12 Jul 2025 21:49:47 GMT"
@@ -2287,6 +2279,10 @@
     {
       "title": "IDF gunfire kills 30 Palestinians waiting for aid, Gaza defence ministry says, as US special envoy due to visit Israel \u2013 Israel-Gaza war live - The Guardian",
       "pubDate": "Thu, 31 Jul 2025 06:42:00 GMT"
+    },
+    {
+      "title": "Gaza hunger reaches 'tipping point' as children suffer malnutrition - NBC News",
+      "pubDate": "Thu, 31 Jul 2025 11:55:19 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2533,6 +2529,10 @@
     {
       "title": "US government may be abandoning the global climate fight, but new leaders are filling the void \u2013 including China - The Conversation",
       "pubDate": "Wed, 30 Jul 2025 12:34:46 GMT"
+    },
+    {
+      "title": "Scientists map Antarctic seafloor canyons to help predict climate breakdown - The Guardian",
+      "pubDate": "Thu, 31 Jul 2025 13:44:00 GMT"
     }
   ],
   "Algorithms": [
