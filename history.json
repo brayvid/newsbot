@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI revolution: How artificial intelligence is reshaping education and jobs in America - The College Fix",
-      "pubDate": "Sat, 05 Jul 2025 04:17:01 GMT"
-    },
-    {
       "title": "OpenAI is betting millions on building AI talent from the ground up amid rival Meta\u2019s poaching pitch - Fortune",
       "pubDate": "Sat, 05 Jul 2025 11:54:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Microsoft's AI edge under scrutiny as OpenAI turns to rivals for cloud services - Reuters",
       "pubDate": "Tue, 29 Jul 2025 10:41:23 GMT"
+    },
+    {
+      "title": "OpenAI raises over $8 billion in latest funding round, reaching $300 billion valuation - Crypto Briefing",
+      "pubDate": "Fri, 01 Aug 2025 13:12:24 GMT"
     }
   ],
   "US Politics": [
@@ -457,14 +457,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump escalates feud with Musk, threatens Tesla, SpaceX support - Reuters",
-      "pubDate": "Tue, 01 Jul 2025 21:33:12 GMT"
-    },
-    {
-      "title": "Trump announces Vietnam trade deal, 20% tariff on its imports to U.S. - CNBC",
-      "pubDate": "Wed, 02 Jul 2025 14:31:10 GMT"
-    },
-    {
       "title": "Live updates: House in limbo on vote over Trump's sweeping tax bill package - USA Today",
       "pubDate": "Wed, 02 Jul 2025 19:53:47 GMT"
     },
@@ -662,14 +654,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China will invade Siberia, not Taiwan - The Hill",
-      "pubDate": "Wed, 02 Jul 2025 15:30:00 GMT"
-    },
-    {
-      "title": "Beijing braces for US trade deals that seek to shut out China - Jing Daily",
-      "pubDate": "Wed, 02 Jul 2025 14:53:47 GMT"
-    },
     {
       "title": "US lifts chip design software curbs against China following London trade talks - CNN",
       "pubDate": "Thu, 03 Jul 2025 07:12:00 GMT"
@@ -927,14 +911,6 @@
   ],
   "Data Breach": [
     {
-      "title": "Qantas confirms cyber-attack exposed records of up to 6 million customers - The Guardian",
-      "pubDate": "Tue, 01 Jul 2025 23:59:00 GMT"
-    },
-    {
-      "title": "Qantas Data Breach Impacts Up to 6 Million Customers - SecurityWeek",
-      "pubDate": "Wed, 02 Jul 2025 07:49:25 GMT"
-    },
-    {
       "title": "Texas agency announces critical identification leaked in breach - Chron",
       "pubDate": "Sun, 06 Jul 2025 19:36:11 GMT"
     },
@@ -1043,18 +1019,6 @@
   ],
   "US Economy": [
     {
-      "title": "US personal income drops for first time since 2021, raising recession concerns - KUTV",
-      "pubDate": "Wed, 02 Jul 2025 02:32:03 GMT"
-    },
-    {
-      "title": "Private sector lost 33,000 jobs in June, well below expectations, ADP says - Fox Business",
-      "pubDate": "Wed, 02 Jul 2025 12:25:00 GMT"
-    },
-    {
-      "title": "US private sector lost 33,000 jobs in June, missing expectations for an increase of 115,000 - CNN",
-      "pubDate": "Wed, 02 Jul 2025 14:36:00 GMT"
-    },
-    {
       "title": "Microsoft to cut about 4% of jobs amid hefty AI bets - Reuters",
       "pubDate": "Wed, 02 Jul 2025 18:08:31 GMT"
     },
@@ -1085,6 +1049,10 @@
     {
       "title": "US economy grows at 3% in Q2, rebounding from first pullback in 3 years - Yahoo Finance",
       "pubDate": "Wed, 30 Jul 2025 14:16:19 GMT"
+    },
+    {
+      "title": "US job growth stalls: Just 73,000 jobs added in July, with \u2018stunning\u2019 downward revisions to recent months - CNN",
+      "pubDate": "Fri, 01 Aug 2025 09:00:00 GMT"
     }
   ],
   "Trade War": [
@@ -1334,14 +1302,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "Hamas says it is studying ceasefire proposal labelled 'final' by Trump - Reuters",
-      "pubDate": "Wed, 02 Jul 2025 14:48:54 GMT"
-    },
-    {
-      "title": "LIVE: Israeli attacks kill 78; Hamas says considering ceasefire proposal - Al Jazeera",
-      "pubDate": "Wed, 02 Jul 2025 12:15:47 GMT"
-    },
     {
       "title": "Hamas studying new ceasefire proposals, calls for end to Gaza war - Al Jazeera",
       "pubDate": "Wed, 02 Jul 2025 17:32:16 GMT"
@@ -1663,10 +1623,6 @@
   ],
   "Climate": [
     {
-      "title": "Republican budget bill dismantles climate law passed by Democrats - AP News",
-      "pubDate": "Wed, 02 Jul 2025 02:14:00 GMT"
-    },
-    {
       "title": "Devastating flash floods slam Texas Hill Country; Tropical Storm Chantal heads for Carolinas - Yale Climate Connections",
       "pubDate": "Sat, 05 Jul 2025 18:15:13 GMT"
     },
@@ -1853,10 +1809,6 @@
   ],
   "Tesla": [
     {
-      "title": "Tesla reports record sales plunge from last year - CNN",
-      "pubDate": "Wed, 02 Jul 2025 14:35:00 GMT"
-    },
-    {
       "title": "Tesla finally launches in India, but the world\u2019s third largest car market has been a graveyard for western brands - Fortune",
       "pubDate": "Fri, 18 Jul 2025 12:08:00 GMT"
     },
@@ -1870,10 +1822,6 @@
     }
   ],
   "Microsoft": [
-    {
-      "title": "Microsoft to lay off about 9,000 employees in latest round - The Seattle Times",
-      "pubDate": "Wed, 02 Jul 2025 12:47:34 GMT"
-    },
     {
       "title": "Microsoft and Nvidia Are the Odd $4 Trillion Power Couple - WSJ",
       "pubDate": "Fri, 04 Jul 2025 09:30:00 GMT"
