@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Judge blocks Trump\u2019s ban on asylum at the southern US border - Al Jazeera",
-      "pubDate": "Thu, 03 Jul 2025 02:04:24 GMT"
-    },
-    {
       "title": "House Republicans expected to pass Trump's massive tax and policy bill by July 4 - NPR",
       "pubDate": "Thu, 03 Jul 2025 09:28:09 GMT"
     },
@@ -201,16 +197,20 @@
     {
       "title": "Trump DOJ wants Supreme Court to bring down hammer on gun rules - USA Today",
       "pubDate": "Sat, 19 Jul 2025 09:05:21 GMT"
+    },
+    {
+      "title": "Trump fires BLS head as tariffs cause stock market drop - BBC",
+      "pubDate": "Fri, 01 Aug 2025 23:31:34 GMT"
     }
   ],
   "Iran": [
     {
-      "title": "After US and Israeli strikes, some nuclear experts say Iran could be more dangerous - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Wed, 02 Jul 2025 23:22:38 GMT"
-    },
-    {
       "title": "Iran's supreme leader makes first public appearance since Iran-Israel war started - NPR",
       "pubDate": "Sun, 06 Jul 2025 05:40:20 GMT"
+    },
+    {
+      "title": "Iran says it has 'plenty of scientists' left to restart uranium enrichment, despite US, Israeli strikes - Yahoo Home",
+      "pubDate": "Fri, 01 Aug 2025 21:33:35 GMT"
     }
   ],
   "Israel": [
@@ -403,14 +403,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukraine fears increased Russian aggression after US halt of weapons supply - BBC",
-      "pubDate": "Wed, 02 Jul 2025 19:14:18 GMT"
-    },
-    {
-      "title": "North Korea to send as many as 30,000 troops to bolster Russia\u2019s forces, Ukrainian officials say - CNN",
-      "pubDate": "Wed, 02 Jul 2025 16:19:00 GMT"
-    },
-    {
       "title": "Russia seeks to involve Laos in war against Ukraine, military intelligence claims - The Kyiv Independent",
       "pubDate": "Sat, 05 Jul 2025 10:03:52 GMT"
     },
@@ -456,14 +448,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Live updates: House in limbo on vote over Trump's sweeping tax bill package - USA Today",
-      "pubDate": "Wed, 02 Jul 2025 19:53:47 GMT"
-    },
-    {
-      "title": "Live updates: House GOP leadership works to woo holdouts on Trump megabill - The Hill",
-      "pubDate": "Thu, 03 Jul 2025 02:45:00 GMT"
-    },
     {
       "title": "Trump\u2019s megabill advances in the House after GOP divisions nearly derail it - CNBC",
       "pubDate": "Thu, 03 Jul 2025 07:39:39 GMT"
@@ -961,10 +945,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Cyberattack hits major airline, up to 6M customer profiles exposed - Fox Business",
-      "pubDate": "Wed, 02 Jul 2025 18:24:00 GMT"
-    },
-    {
       "title": "Ingram Micro Issues Statement Regarding Cybersecurity Incident - Business Wire",
       "pubDate": "Sun, 06 Jul 2025 02:07:00 GMT"
     },
@@ -1018,10 +998,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "Microsoft to cut about 4% of jobs amid hefty AI bets - Reuters",
-      "pubDate": "Wed, 02 Jul 2025 18:08:31 GMT"
-    },
     {
       "title": "US economy surpasses expectations to add 147,000 jobs in June - Financial Times",
       "pubDate": "Thu, 03 Jul 2025 12:32:59 GMT"
@@ -1302,10 +1278,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "Hamas studying new ceasefire proposals, calls for end to Gaza war - Al Jazeera",
-      "pubDate": "Wed, 02 Jul 2025 17:32:16 GMT"
-    },
     {
       "title": "Israel kills more than 300 Palestinians in 48 hours as ceasefire in balance - Al Jazeera",
       "pubDate": "Thu, 03 Jul 2025 06:53:34 GMT"
@@ -1667,10 +1639,6 @@
   ],
   "Elon Musk": [
     {
-      "title": "Tesla Sales Fall as Elon Musk Focuses on Self-Driving Cars - The New York Times",
-      "pubDate": "Wed, 02 Jul 2025 17:59:24 GMT"
-    },
-    {
       "title": "Musk Announces New \u2018America Party Is Formed,\u2019 Cementing Split From Trump and Republicans - Time Magazine",
       "pubDate": "Sun, 06 Jul 2025 15:25:34 GMT"
     },
@@ -1819,6 +1787,10 @@
     {
       "title": "Tesla tells staff it plans to roll out its Robotaxi service in San Francisco this weekend - Business Insider",
       "pubDate": "Fri, 25 Jul 2025 11:32:00 GMT"
+    },
+    {
+      "title": "Tesla ordered to pay $200 million in punitive damages over fatal crash - CBS News",
+      "pubDate": "Fri, 01 Aug 2025 22:12:43 GMT"
     }
   ],
   "Microsoft": [
@@ -1836,10 +1808,6 @@
     }
   ],
   "Health": [
-    {
-      "title": "House nears finish line on health cuts - The Hill",
-      "pubDate": "Wed, 02 Jul 2025 23:01:00 GMT"
-    },
     {
       "title": "HHS carries out mass firings across health agencies after Supreme Court decision - CNN",
       "pubDate": "Tue, 15 Jul 2025 00:33:00 GMT"
