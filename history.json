@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Drivers of artificial intelligence innovation in manufacturing clusters: insights from cellular automata simulations - Nature",
-      "pubDate": "Sat, 05 Jul 2025 18:17:01 GMT"
-    },
-    {
       "title": "Bosses Are Using AI to Decide Who to Fire - Futurism",
       "pubDate": "Sun, 06 Jul 2025 13:00:42 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "OpenAI hits $300B valuation after filling $8.3B raise ahead of schedule - MSN",
       "pubDate": "Sat, 02 Aug 2025 01:24:09 GMT"
+    },
+    {
+      "title": "Big tech has spent $155bn on AI this year. It\u2019s about to spend hundreds of billions more - theguardian.com",
+      "pubDate": "Sat, 02 Aug 2025 12:01:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "House Republicans expected to pass Trump's massive tax and policy bill by July 4 - NPR",
-      "pubDate": "Thu, 03 Jul 2025 09:28:09 GMT"
-    },
     {
       "title": "Republicans muscle Trump's sweeping tax-cut and spending bill through Congress - Reuters",
       "pubDate": "Thu, 03 Jul 2025 20:11:25 GMT"
@@ -453,10 +449,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump admin live updates: Jeffries' marathon speech continues as final megabill vote looms - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Thu, 03 Jul 2025 15:03:00 GMT"
-    },
-    {
       "title": "House passes Trump megabill with $150 billion in military funding - Defense News",
       "pubDate": "Thu, 03 Jul 2025 19:24:55 GMT"
     },
@@ -591,6 +583,10 @@
     {
       "title": "Trump administration is launching a new private health tracking system with Big Tech\u2019s help - AP News",
       "pubDate": "Wed, 30 Jul 2025 22:20:00 GMT"
+    },
+    {
+      "title": "Trump orders nuclear submarines moved after Russian 'provocative statements' - Reuters",
+      "pubDate": "Sat, 02 Aug 2025 09:36:41 GMT"
     }
   ],
   "National Security": [
@@ -638,10 +634,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Trump Wants the World to Squeeze Out China. He\u2019s Starting With Vietnam. - The New York Times",
-      "pubDate": "Thu, 03 Jul 2025 12:46:29 GMT"
-    },
     {
       "title": "Exclusive | China tells EU it does not want to see Russia lose its war in Ukraine: sources - South China Morning Post",
       "pubDate": "Thu, 03 Jul 2025 17:53:54 GMT"
@@ -887,6 +879,10 @@
     {
       "title": "A Plan to Fund Independent Assessments of General-Purpose AI - Tech Policy Press",
       "pubDate": "Thu, 31 Jul 2025 15:13:13 GMT"
+    },
+    {
+      "title": "Anthropic\u2019s Persona Vectors: Steering AI Traits for Safer Alignment - WebProNews",
+      "pubDate": "Sat, 02 Aug 2025 13:12:03 GMT"
     }
   ],
   "Data Breach": [
@@ -994,10 +990,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "US economy surpasses expectations to add 147,000 jobs in June - Financial Times",
-      "pubDate": "Thu, 03 Jul 2025 12:32:59 GMT"
-    },
     {
       "title": "Solid US job numbers mask weakness underneath - Al Jazeera",
       "pubDate": "Thu, 03 Jul 2025 17:05:15 GMT"
@@ -1261,12 +1253,6 @@
       "pubDate": "Sat, 02 Aug 2025 06:30:24 GMT"
     }
   ],
-  "Quantum Computer": [
-    {
-      "title": "Scientists just simulated the \u201cimpossible\u201d \u2014 fault-tolerant quantum code cracked at last - ScienceDaily",
-      "pubDate": "Thu, 03 Jul 2025 12:18:14 GMT"
-    }
-  ],
   "Democratic Party": [
     {
       "title": "A year post-Biden's exit, the Democratic Party still struggles to find footing: Analysis - ABC News",
@@ -1278,10 +1264,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "IDF releases video of Hamas torturing Gazan civilians - The Jerusalem Post",
-      "pubDate": "Thu, 03 Jul 2025 13:43:45 GMT"
-    },
     {
       "title": "Where Do Israel-Hamas Truce Negotiations Stand? - The New York Times",
       "pubDate": "Thu, 03 Jul 2025 17:03:10 GMT"
@@ -1709,10 +1691,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "Record-Breaking Results Bring Fusion Power Closer to Reality - Scientific American",
-      "pubDate": "Thu, 03 Jul 2025 12:00:00 GMT"
-    },
-    {
       "title": "Google's Fusion Gamble: Betting on the Future of Clean Energy - AInvest",
       "pubDate": "Mon, 07 Jul 2025 16:01:57 GMT"
     },
@@ -2041,10 +2019,6 @@
   ],
   "Gaza": [
     {
-      "title": "Gaza hospital says 24 people killed near aid site as witnesses blame IDF - BBC",
-      "pubDate": "Sat, 12 Jul 2025 21:49:47 GMT"
-    },
-    {
       "title": "Israel at War Day 646 Netanyahu: 'The Hostages Are the Only Reason the War in Gaza Is Still Going On' - Haaretz",
       "pubDate": "Sun, 13 Jul 2025 08:19:00 GMT"
     },
@@ -2199,6 +2173,10 @@
     {
       "title": "Gaza hunger reaches 'tipping point' as children suffer malnutrition - NBC News",
       "pubDate": "Thu, 31 Jul 2025 11:55:19 GMT"
+    },
+    {
+      "title": "Israeli hostage families hold emergency protest after Gaza militants release videos showing emaciated captives - CNN",
+      "pubDate": "Sat, 02 Aug 2025 11:40:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2297,6 +2275,10 @@
     {
       "title": "Federal judge hears arguments in ACLU lawsuit over ICE tactics in Los Angeles - CBS News",
       "pubDate": "Fri, 11 Jul 2025 12:50:11 GMT"
+    },
+    {
+      "title": "US appeals court keeps ban on LA immigration arrests - Yahoo Home",
+      "pubDate": "Sat, 02 Aug 2025 09:48:02 GMT"
     }
   ],
   "SpaceX": [
@@ -2629,6 +2611,10 @@
     {
       "title": "Researchers issue warning over troubling phenomenon that could revive dormant volcanoes: 'It's just like opening a Coca-Cola bottle' - Yahoo Home",
       "pubDate": "Sun, 27 Jul 2025 10:15:43 GMT"
+    },
+    {
+      "title": "Indonesia\u2019s Mount Lewotobi Laki Laki erupts again, spewing giant ash plumes miles away - CNN",
+      "pubDate": "Sat, 02 Aug 2025 09:37:00 GMT"
     }
   ],
   "Hydrogen Fuel": [
