@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Republicans muscle Trump's sweeping tax-cut and spending bill through Congress - Reuters",
-      "pubDate": "Thu, 03 Jul 2025 20:11:25 GMT"
-    },
-    {
       "title": "Musk announces forming of 'America Party' in further break from Trump - Reuters",
       "pubDate": "Sat, 05 Jul 2025 23:37:28 GMT"
     },
@@ -240,10 +236,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine says it struck a Russian airbase as Russia sent hundreds of drones into Ukraine - The Hill",
-      "pubDate": "Sat, 05 Jul 2025 08:25:00 GMT"
-    },
     {
       "title": "Russia downs 120 Ukrainian drones overnight, Defence Ministry says - Reuters",
       "pubDate": "Sun, 06 Jul 2025 08:35:44 GMT"
@@ -399,6 +391,10 @@
     {
       "title": "Russia Used Very Fast Jet Drones in Devastating Kyiv Attacks - Technology Org",
       "pubDate": "Fri, 01 Aug 2025 21:00:57 GMT"
+    },
+    {
+      "title": "Ukraine says it hit Russian oil facilities, military airfield - Reuters",
+      "pubDate": "Sat, 02 Aug 2025 16:59:39 GMT"
     }
   ],
   "Russia": [
@@ -448,10 +444,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "House passes Trump megabill with $150 billion in military funding - Defense News",
-      "pubDate": "Thu, 03 Jul 2025 19:24:55 GMT"
-    },
     {
       "title": "House passes GOP's 'big, beautiful bill,' sends it to Trump - NBC News",
       "pubDate": "Fri, 04 Jul 2025 02:42:00 GMT"
@@ -587,6 +579,10 @@
     {
       "title": "Trump orders nuclear submarines moved after Russian 'provocative statements' - Reuters",
       "pubDate": "Sat, 02 Aug 2025 09:36:41 GMT"
+    },
+    {
+      "title": "Trump addresses pardon decision for Sean 'Diddy' Combs, but questions remain - USA Today",
+      "pubDate": "Sat, 02 Aug 2025 15:01:56 GMT"
     }
   ],
   "National Security": [
@@ -634,10 +630,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Exclusive | China tells EU it does not want to see Russia lose its war in Ukraine: sources - South China Morning Post",
-      "pubDate": "Thu, 03 Jul 2025 17:53:54 GMT"
-    },
     {
       "title": "China Plans Nationwide Subsidies to Boost Birthrate - Bloomberg.com",
       "pubDate": "Fri, 04 Jul 2025 04:59:00 GMT"
@@ -991,14 +983,6 @@
   ],
   "US Economy": [
     {
-      "title": "Solid US job numbers mask weakness underneath - Al Jazeera",
-      "pubDate": "Thu, 03 Jul 2025 17:05:15 GMT"
-    },
-    {
-      "title": "Solid Jobs Report Keeps Fed Rate Cuts at Bay - The New York Times",
-      "pubDate": "Thu, 03 Jul 2025 17:22:01 GMT"
-    },
-    {
       "title": "At least 43 are dead after a catastrophic Texas flood. Search continues for missing girls from summer camp. - Business Insider",
       "pubDate": "Sat, 05 Jul 2025 23:30:00 GMT"
     },
@@ -1161,6 +1145,10 @@
     {
       "title": "Scientists use cosmic dust to reconstruct Earth's atmospheric history - Phys.org",
       "pubDate": "Tue, 29 Jul 2025 17:18:25 GMT"
+    },
+    {
+      "title": "Scientists Find Planet Orbiting Backwards: A Discovery That Could Rewrite Astronomy - The Daily Galaxy",
+      "pubDate": "Sat, 02 Aug 2025 15:30:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -1264,14 +1252,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "Where Do Israel-Hamas Truce Negotiations Stand? - The New York Times",
-      "pubDate": "Thu, 03 Jul 2025 17:03:10 GMT"
-    },
-    {
-      "title": "Scores killed in Gaza as Israel intensifies strikes - CNN",
-      "pubDate": "Thu, 03 Jul 2025 20:57:00 GMT"
-    },
     {
       "title": "LIVE: Israel intensifies Gaza attacks; Hamas seeks ceasefire guarantees - Al Jazeera",
       "pubDate": "Fri, 04 Jul 2025 08:25:47 GMT"
@@ -1455,10 +1435,6 @@
   ],
   "NVIDIA": [
     {
-      "title": "Nvidia stock closes at record as AI chipmaker nears being crowned most valuable company in history - Yahoo Finance",
-      "pubDate": "Thu, 03 Jul 2025 17:17:43 GMT"
-    },
-    {
       "title": "Nvidia sets new record, leaves Apple and Microsoft behind to become first company in history to achieve t - Times of India",
       "pubDate": "Sun, 06 Jul 2025 13:44:00 GMT"
     },
@@ -1492,10 +1468,6 @@
     }
   ],
   "Renewable Energy": [
-    {
-      "title": "Trump megabill gives the oil industry everything it wants and ends key support for solar and wind - CNBC",
-      "pubDate": "Thu, 03 Jul 2025 18:55:21 GMT"
-    },
     {
       "title": "Interior Dept. to Put Wind and Solar Projects Through Stricter Political Review - The New York Times",
       "pubDate": "Thu, 17 Jul 2025 21:04:11 GMT"
@@ -1825,6 +1797,10 @@
     {
       "title": "Federal Reserve Votes to Hold Interest Rates Steady, with Two Rare Dissenting Votes - Democracy Now!",
       "pubDate": "Thu, 31 Jul 2025 14:01:05 GMT"
+    },
+    {
+      "title": "Federal Reserve governor resigns, creating vacancy for Trump - upi.com",
+      "pubDate": "Sat, 02 Aug 2025 17:56:51 GMT"
     }
   ],
   "Alternative Energy": [
@@ -1965,6 +1941,10 @@
     {
       "title": "Scientists hit quantum computer error rate of 0.000015% \u2014 a world record achievement that could lead to smaller and faster machines - Live Science",
       "pubDate": "Mon, 28 Jul 2025 11:00:00 GMT"
+    },
+    {
+      "title": "This Quantum Computing Company Just Unlocked a New AI Breakthrough - MSN",
+      "pubDate": "Sat, 02 Aug 2025 10:26:59 GMT"
     }
   ],
   "Public Health": [
@@ -2018,10 +1998,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel at War Day 646 Netanyahu: 'The Hostages Are the Only Reason the War in Gaza Is Still Going On' - Haaretz",
-      "pubDate": "Sun, 13 Jul 2025 08:19:00 GMT"
-    },
     {
       "title": "Gaza officials say children killed in strike as Israeli military admits 'error' - BBC",
       "pubDate": "Sun, 13 Jul 2025 12:17:56 GMT"
@@ -2177,6 +2153,10 @@
     {
       "title": "Israeli hostage families hold emergency protest after Gaza militants release videos showing emaciated captives - CNN",
       "pubDate": "Sat, 02 Aug 2025 11:40:00 GMT"
+    },
+    {
+      "title": "Hamas refuses to disarm until Palestinian state established - BBC",
+      "pubDate": "Sat, 02 Aug 2025 18:40:12 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2251,6 +2231,10 @@
     {
       "title": "Apple reports third-quarter earnings after the bell - CNBC",
       "pubDate": "Thu, 31 Jul 2025 17:50:29 GMT"
+    },
+    {
+      "title": "Apple\u2019s $275 Billion China Bet Is Now A Major Risk - Forbes",
+      "pubDate": "Sat, 02 Aug 2025 16:53:28 GMT"
     }
   ],
   "Artificial General Intelligence": [
