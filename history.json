@@ -237,10 +237,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia downs 120 Ukrainian drones overnight, Defence Ministry says - Reuters",
-      "pubDate": "Sun, 06 Jul 2025 08:35:44 GMT"
-    },
-    {
       "title": "Ukraine Turns to Fishing Nets to Catch Russian Drones - The New York Times",
       "pubDate": "Mon, 07 Jul 2025 09:02:40 GMT"
     },
@@ -395,6 +391,10 @@
     {
       "title": "Ukraine says it hit Russian oil facilities, military airfield - Reuters",
       "pubDate": "Sat, 02 Aug 2025 16:59:39 GMT"
+    },
+    {
+      "title": "Ukraine war live: Fire at Zaporizhzhia nuclear plant contained after explosions - The Independent",
+      "pubDate": "Sun, 03 Aug 2025 07:37:12 GMT"
     }
   ],
   "Russia": [
@@ -444,14 +444,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "House passes GOP's 'big, beautiful bill,' sends it to Trump - NBC News",
-      "pubDate": "Fri, 04 Jul 2025 02:42:00 GMT"
-    },
-    {
-      "title": "July 3, 2025 - Congress passes Trump\u2019s sweeping domestic policy bill - CNN",
-      "pubDate": "Fri, 04 Jul 2025 02:33:00 GMT"
-    },
     {
       "title": "Trump uses antisemitic slur in remarks promoting his 'big, beautiful bill' - NBC News",
       "pubDate": "Fri, 04 Jul 2025 13:24:34 GMT"
@@ -583,6 +575,10 @@
     {
       "title": "Trump addresses pardon decision for Sean 'Diddy' Combs, but questions remain - USA Today",
       "pubDate": "Sat, 02 Aug 2025 15:01:56 GMT"
+    },
+    {
+      "title": "Trump admin live updates: Trump, Schumer trade barbs over Senate nominations - ABC News",
+      "pubDate": "Sat, 02 Aug 2025 23:43:00 GMT"
     }
   ],
   "National Security": [
@@ -630,10 +626,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China Plans Nationwide Subsidies to Boost Birthrate - Bloomberg.com",
-      "pubDate": "Fri, 04 Jul 2025 04:59:00 GMT"
-    },
     {
       "title": "China tells EU it can\u2019t accept Russia losing its war against Ukraine, official says - CNN",
       "pubDate": "Fri, 04 Jul 2025 16:38:00 GMT"
@@ -756,10 +748,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Sutskever to lead Safe Superintelligence after Meta poaches CEO Gross in AI talent war - Reuters",
-      "pubDate": "Thu, 03 Jul 2025 21:50:42 GMT"
-    },
     {
       "title": "AI Security Institute targets cybercrime in hiring push - UKTN",
       "pubDate": "Fri, 04 Jul 2025 13:00:17 GMT"
@@ -1123,6 +1111,10 @@
     {
       "title": "Ancient 'lost city' found at bottom of the Atlantic Ocean holds clue to origins of life - MSN",
       "pubDate": "Sat, 26 Jul 2025 20:28:47 GMT"
+    },
+    {
+      "title": "Slowing ocean currents could dry out the tropics - Earth.com",
+      "pubDate": "Sun, 03 Aug 2025 08:27:44 GMT"
     }
   ],
   "Astronomy": [
@@ -1149,6 +1141,10 @@
     {
       "title": "Scientists Find Planet Orbiting Backwards: A Discovery That Could Rewrite Astronomy - The Daily Galaxy",
       "pubDate": "Sat, 02 Aug 2025 15:30:00 GMT"
+    },
+    {
+      "title": "Scientists have spotted the biggest explosions in the Universe since the Big Bang. - BBC Sky at Night Magazine",
+      "pubDate": "Sun, 03 Aug 2025 05:19:15 GMT"
     }
   ],
   "Earthquakes": [
@@ -1253,10 +1249,6 @@
   ],
   "Hamas": [
     {
-      "title": "LIVE: Israel intensifies Gaza attacks; Hamas seeks ceasefire guarantees - Al Jazeera",
-      "pubDate": "Fri, 04 Jul 2025 08:25:47 GMT"
-    },
-    {
       "title": "Hamas submits \u2018positive response\u2019 to ceasefire proposal in major step toward a deal - CNN",
       "pubDate": "Fri, 04 Jul 2025 21:40:00 GMT"
     },
@@ -1320,10 +1312,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin Whales Wake Up From 14-Year Slumber to Move Over $2B of BTC - CoinDesk",
-      "pubDate": "Fri, 04 Jul 2025 07:26:16 GMT"
-    },
     {
       "title": "Bitcoin to benefit from Trump\u2019s \u2018Big Beautiful Bill,\u2019 analysts predict - Cointelegraph",
       "pubDate": "Fri, 04 Jul 2025 13:15:51 GMT"
@@ -1483,10 +1471,6 @@
   ],
   "Cancer": [
     {
-      "title": "Shock research reveals how types of birth can affect children's chances of getting CANCER - Daily Mail",
-      "pubDate": "Thu, 03 Jul 2025 23:05:20 GMT"
-    },
-    {
       "title": "Actor Julian McMahon dies after private battle with cancer - KTLA",
       "pubDate": "Fri, 04 Jul 2025 22:50:54 GMT"
     },
@@ -1541,6 +1525,10 @@
     {
       "title": "New method uses exosome stiffness for lung cancer gene detection - News-Medical",
       "pubDate": "Wed, 30 Jul 2025 06:28:00 GMT"
+    },
+    {
+      "title": "Cancer cure? Russia commences human trials of revolutionary personalized cancer vaccine - The Economic Times",
+      "pubDate": "Sun, 03 Aug 2025 06:47:47 GMT"
     }
   ],
   "Climate": [
@@ -2739,6 +2727,12 @@
     {
       "title": "Public comments show opposition to proposed transmission line - Yahoo Home",
       "pubDate": "Fri, 01 Aug 2025 22:21:00 GMT"
+    }
+  ],
+  "Cloud Computing": [
+    {
+      "title": "Hiring growth in India: Global tech firms ramps up recruitment, domestic majors slow down; AI, cloud drive demand shift, say experts - Times of India",
+      "pubDate": "Sun, 03 Aug 2025 08:13:00 GMT"
     }
   ]
 }
