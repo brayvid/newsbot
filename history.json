@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Bosses Are Using AI to Decide Who to Fire - Futurism",
-      "pubDate": "Sun, 06 Jul 2025 13:00:42 GMT"
-    },
-    {
       "title": "Sam Altman\u2019s AI Empire Relies on Brutal Labor Exploitation - Jacobin",
       "pubDate": "Sun, 06 Jul 2025 17:08:41 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Big tech has spent $155bn on AI this year. It\u2019s about to spend hundreds of billions more - theguardian.com",
       "pubDate": "Sat, 02 Aug 2025 12:01:00 GMT"
+    },
+    {
+      "title": "OpenAI chairman to students: 'Studying computer science is\u2026' - Times of India",
+      "pubDate": "Sun, 03 Aug 2025 10:34:00 GMT"
     }
   ],
   "US Politics": [
@@ -233,13 +233,13 @@
     {
       "title": "For first time, two leading Israeli human rights groups accuse Israel of genocide in Gaza - CNN",
       "pubDate": "Mon, 28 Jul 2025 11:07:00 GMT"
+    },
+    {
+      "title": "Pro-Israel Democrats try breaking with Netanyahu to stop party\u2019s shift amid Gaza crisis - CNN",
+      "pubDate": "Sun, 03 Aug 2025 09:00:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine Turns to Fishing Nets to Catch Russian Drones - The New York Times",
-      "pubDate": "Mon, 07 Jul 2025 09:02:40 GMT"
-    },
     {
       "title": "1 dead, dozens injured as Russia launches 101 drones at Ukraine overnight, Zelenskyy says - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 07 Jul 2025 16:15:54 GMT"
@@ -395,6 +395,10 @@
     {
       "title": "Ukraine war live: Fire at Zaporizhzhia nuclear plant contained after explosions - The Independent",
       "pubDate": "Sun, 03 Aug 2025 07:37:12 GMT"
+    },
+    {
+      "title": "Ukraine urges Trump admin to 'strangle' Russian economy amid nuclear tensions - ABC News",
+      "pubDate": "Sun, 03 Aug 2025 09:22:30 GMT"
     }
   ],
   "Russia": [
@@ -444,10 +448,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump uses antisemitic slur in remarks promoting his 'big, beautiful bill' - NBC News",
-      "pubDate": "Fri, 04 Jul 2025 13:24:34 GMT"
-    },
     {
       "title": "Trump expected to sign tax-and-spending bill in win for administration - The Guardian",
       "pubDate": "Fri, 04 Jul 2025 20:07:00 GMT"
@@ -749,10 +749,6 @@
   ],
   "AI Safety": [
     {
-      "title": "AI Security Institute targets cybercrime in hiring push - UKTN",
-      "pubDate": "Fri, 04 Jul 2025 13:00:17 GMT"
-    },
-    {
       "title": "OpenAI Co-Founder Now Leads Safe Superintelligence Amid AI Talent Wars - CoinCentral",
       "pubDate": "Fri, 04 Jul 2025 18:23:28 GMT"
     },
@@ -992,10 +988,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "China issues fresh warning over Trump\u2019s trade war - The Independent",
-      "pubDate": "Fri, 04 Jul 2025 14:13:00 GMT"
-    },
     {
       "title": "Trump tariffs live updates: Trump set to impose tariffs of up to 70% in letter push as July 9 deadline looms - Yahoo Finance",
       "pubDate": "Sat, 05 Jul 2025 21:13:13 GMT"
@@ -1313,10 +1305,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Bitcoin to benefit from Trump\u2019s \u2018Big Beautiful Bill,\u2019 analysts predict - Cointelegraph",
-      "pubDate": "Fri, 04 Jul 2025 13:15:51 GMT"
-    },
-    {
       "title": "Mysterious Bitcoin Whale Moves $8 Billion in 'Largest Daily' Transfer of Old BTC in History - Decrypt",
       "pubDate": "Fri, 04 Jul 2025 16:12:04 GMT"
     },
@@ -1621,10 +1609,6 @@
   ],
   "Health Care": [
     {
-      "title": "How Trump\u2019s megabill will impact health care - The Hill",
-      "pubDate": "Fri, 04 Jul 2025 09:30:00 GMT"
-    },
-    {
       "title": "'Heartless' mass firings at major Bay Area health care network spark pushback - SFGATE",
       "pubDate": "Tue, 08 Jul 2025 23:50:26 GMT"
     },
@@ -1729,10 +1713,6 @@
   ],
   "Microsoft": [
     {
-      "title": "Microsoft and Nvidia Are the Odd $4 Trillion Power Couple - WSJ",
-      "pubDate": "Fri, 04 Jul 2025 09:30:00 GMT"
-    },
-    {
       "title": "Microsoft posts strong quarter, cites broad AI and cloud growth as Azure revenue tops $75B annually - GeekWire",
       "pubDate": "Wed, 30 Jul 2025 20:22:06 GMT"
     },
@@ -1745,12 +1725,6 @@
     {
       "title": "HHS carries out mass firings across health agencies after Supreme Court decision - CNN",
       "pubDate": "Tue, 15 Jul 2025 00:33:00 GMT"
-    }
-  ],
-  "Large Language Model": [
-    {
-      "title": "EU sticks with timeline for AI rules - Reuters",
-      "pubDate": "Fri, 04 Jul 2025 11:20:04 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1983,6 +1957,10 @@
     {
       "title": "US-India relations fray over Donald Trump\u2019s tariff invective and Russian oil - Financial Times",
       "pubDate": "Sat, 02 Aug 2025 04:01:27 GMT"
+    },
+    {
+      "title": "China and Russia begin joint military drills in Sea of Japan - Al Jazeera",
+      "pubDate": "Sun, 03 Aug 2025 07:36:41 GMT"
     }
   ],
   "Gaza": [
@@ -2201,6 +2179,10 @@
     {
       "title": "Scientists are holding a 'science fair' in the lobby of a congressional building to show what the U.S. stands to lose with cuts - Fast Company",
       "pubDate": "Tue, 08 Jul 2025 19:04:53 GMT"
+    },
+    {
+      "title": "Scientists just recreated the Universe\u2019s first molecule and solved a 13-billion-year-old puzzle - ScienceDaily",
+      "pubDate": "Sun, 03 Aug 2025 13:51:04 GMT"
     }
   ],
   "Apple": [
@@ -2407,6 +2389,10 @@
     {
       "title": "Scientists map Antarctic seafloor canyons to help predict climate breakdown - The Guardian",
       "pubDate": "Thu, 31 Jul 2025 13:44:00 GMT"
+    },
+    {
+      "title": "The World Court just ruled countries can be held liable for climate change damage \u2013 what does that mean for the US? - Lake County News,California",
+      "pubDate": "Sun, 03 Aug 2025 06:16:04 GMT"
     }
   ],
   "Algorithms": [
@@ -2697,6 +2683,10 @@
     {
       "title": "Global Energy Transition Gains Momentum in 2025, but Security Lags Behind - BBN Times",
       "pubDate": "Sat, 26 Jul 2025 21:44:40 GMT"
+    },
+    {
+      "title": "Powerful interview reveals overlooked impact of global energy transition: 'Every electric vehicle carries Indigenous blood in their batteries' - The Cool Down",
+      "pubDate": "Sun, 03 Aug 2025 10:30:59 GMT"
     }
   ],
   "Pollution": [
