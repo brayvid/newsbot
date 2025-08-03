@@ -449,10 +449,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump expected to sign tax-and-spending bill in win for administration - The Guardian",
-      "pubDate": "Fri, 04 Jul 2025 20:07:00 GMT"
-    },
-    {
       "title": "Trump signs his huge tax and spending bill into law - BBC",
       "pubDate": "Fri, 04 Jul 2025 22:57:37 GMT"
     },
@@ -627,10 +623,6 @@
   ],
   "China": [
     {
-      "title": "China tells EU it can\u2019t accept Russia losing its war against Ukraine, official says - CNN",
-      "pubDate": "Fri, 04 Jul 2025 16:38:00 GMT"
-    },
-    {
       "title": "China Has Paid a High Price for Its Dominance in Rare Earths - The New York Times",
       "pubDate": "Sat, 05 Jul 2025 04:01:07 GMT"
     },
@@ -748,10 +740,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "OpenAI Co-Founder Now Leads Safe Superintelligence Amid AI Talent Wars - CoinCentral",
-      "pubDate": "Fri, 04 Jul 2025 18:23:28 GMT"
-    },
     {
       "title": "Experts urge vigilance over AI's threat to global security, humanity - Xinhua",
       "pubDate": "Sun, 06 Jul 2025 02:15:16 GMT"
@@ -985,6 +973,10 @@
     {
       "title": "US job growth stalls: Just 73,000 jobs added in July, with \u2018stunning\u2019 downward revisions to recent months - CNN",
       "pubDate": "Fri, 01 Aug 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Despite Trump, the US economy remains surprisingly resilient. But for how long? | Richard Partington - The Guardian",
+      "pubDate": "Sun, 03 Aug 2025 13:35:00 GMT"
     }
   ],
   "Trade War": [
@@ -1305,10 +1297,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Mysterious Bitcoin Whale Moves $8 Billion in 'Largest Daily' Transfer of Old BTC in History - Decrypt",
-      "pubDate": "Fri, 04 Jul 2025 16:12:04 GMT"
-    },
-    {
       "title": "BlackRock Bitcoin ETF Surges 500% Faster Than Any Other ETF - AInvest",
       "pubDate": "Fri, 04 Jul 2025 22:55:47 GMT"
     },
@@ -1561,6 +1549,10 @@
     {
       "title": "Hurricane season warning signs pile up. Brace for a dangerous August. - USA Today",
       "pubDate": "Sun, 27 Jul 2025 10:05:32 GMT"
+    },
+    {
+      "title": "Hurricane Center tracking Invest 95L off North Carolina coast, tropical wave and one other system - Daytona Beach News-Journal",
+      "pubDate": "Sun, 03 Aug 2025 20:01:43 GMT"
     }
   ],
   "Elon Musk": [
@@ -2573,6 +2565,10 @@
     {
       "title": "Indonesia\u2019s Mount Lewotobi Laki Laki erupts again, spewing giant ash plumes miles away - CNN",
       "pubDate": "Sat, 02 Aug 2025 09:37:00 GMT"
+    },
+    {
+      "title": "Russia's Krasheninnikov volcano erupts for first time in 600 years \u2013 video - The Guardian",
+      "pubDate": "Sun, 03 Aug 2025 15:18:00 GMT"
     }
   ],
   "Hydrogen Fuel": [
@@ -2611,6 +2607,10 @@
     {
       "title": "Scientists discover what wiped out global ocean life 200 million years ago - The Brighter Side of News",
       "pubDate": "Sat, 19 Jul 2025 16:07:00 GMT"
+    },
+    {
+      "title": "Scientists Find New Ecosystem in Deepest Trenches of Pacific Ocean - HealthDay",
+      "pubDate": "Sun, 03 Aug 2025 13:00:00 GMT"
     }
   ],
   "Nanotechnology": [
@@ -2723,6 +2723,12 @@
     {
       "title": "Hiring growth in India: Global tech firms ramps up recruitment, domestic majors slow down; AI, cloud drive demand shift, say experts - Times of India",
       "pubDate": "Sun, 03 Aug 2025 08:13:00 GMT"
+    }
+  ],
+  "Political Corruption": [
+    {
+      "title": "Ukraine uncovers major corruption scheme in defense procurement - politico.eu",
+      "pubDate": "Sun, 03 Aug 2025 11:22:00 GMT"
     }
   ]
 }
