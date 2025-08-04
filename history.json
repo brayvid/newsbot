@@ -245,10 +245,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia-Ukraine war: Trump says Kyiv to receive more weapons a week after US pause - BBC",
-      "pubDate": "Tue, 08 Jul 2025 08:07:06 GMT"
-    },
-    {
       "title": "Trump\u2019s sudden shift on weapons for Ukraine takes the war back to square one - CNN",
       "pubDate": "Tue, 08 Jul 2025 17:54:00 GMT"
     },
@@ -403,6 +399,10 @@
     {
       "title": "Ukraine says it stole intel from the Russian Navy and found weak points in its newest nuclear missile submarine - MSN",
       "pubDate": "Mon, 04 Aug 2025 15:21:22 GMT"
+    },
+    {
+      "title": "Ukraine strikes five Russian fighter jets at the airfield in annexed Crimea - Euronews.com",
+      "pubDate": "Mon, 04 Aug 2025 13:59:49 GMT"
     }
   ],
   "Russia": [
@@ -1233,10 +1233,6 @@
   ],
   "Hamas": [
     {
-      "title": "Israel continues airstrikes on Gaza after Hamas says it is ready for ceasefire talks - The Guardian",
-      "pubDate": "Sat, 05 Jul 2025 20:22:00 GMT"
-    },
-    {
       "title": "Hamas gives \u2018positive response\u2019 to Gaza ceasefire proposal - NBC News",
       "pubDate": "Sat, 05 Jul 2025 23:17:21 GMT"
     },
@@ -1496,10 +1492,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "Devastating flash floods slam Texas Hill Country; Tropical Storm Chantal heads for Carolinas - Yale Climate Connections",
-      "pubDate": "Sat, 05 Jul 2025 18:15:13 GMT"
-    },
     {
       "title": "Southern Ocean current reverses for first time, signalling risk of climate system collapse - bne IntelliNews",
       "pubDate": "Sat, 05 Jul 2025 21:17:14 GMT"
@@ -1957,10 +1949,6 @@
   ],
   "Gaza": [
     {
-      "title": "Gaza officials say children killed in strike as Israeli military admits 'error' - BBC",
-      "pubDate": "Sun, 13 Jul 2025 12:17:56 GMT"
-    },
-    {
       "title": "Gaza violence escalates with ceasefire talks on verge of collapse - NBC News",
       "pubDate": "Sun, 13 Jul 2025 22:54:30 GMT"
     },
@@ -2115,6 +2103,10 @@
     {
       "title": "Hamas refuses to disarm until Palestinian state established - BBC",
       "pubDate": "Sat, 02 Aug 2025 18:40:12 GMT"
+    },
+    {
+      "title": "Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war - BBC",
+      "pubDate": "Mon, 04 Aug 2025 13:01:22 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2397,6 +2389,10 @@
     {
       "title": "Experts say climate change contributing to more injuries from airline turbulence - Las Vegas Sun",
       "pubDate": "Mon, 04 Aug 2025 09:01:06 GMT"
+    },
+    {
+      "title": "The ICJ Advisory Opinion on Climate Change: A Business and Human Rights Perspective - Opinio Juris",
+      "pubDate": "Mon, 04 Aug 2025 10:18:27 GMT"
     }
   ],
   "Algorithms": [
@@ -2745,6 +2741,12 @@
     {
       "title": "Ukraine uncovers major corruption scheme in defense procurement - politico.eu",
       "pubDate": "Sun, 03 Aug 2025 11:22:00 GMT"
+    }
+  ],
+  "Quantum Mechanics": [
+    {
+      "title": "Scientists produce quantum entanglement-like results without entangled particles in new experiment - Phys.org",
+      "pubDate": "Mon, 04 Aug 2025 15:30:05 GMT"
     }
   ]
 }
