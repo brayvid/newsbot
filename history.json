@@ -245,10 +245,6 @@
   ],
   "Ukraine": [
     {
-      "title": "1 dead, dozens injured as Russia launches 101 drones at Ukraine overnight, Zelenskyy says - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Mon, 07 Jul 2025 16:15:54 GMT"
-    },
-    {
       "title": "Russia-Ukraine war: Trump says Kyiv to receive more weapons a week after US pause - BBC",
       "pubDate": "Tue, 08 Jul 2025 08:07:06 GMT"
     },
@@ -403,13 +399,13 @@
     {
       "title": "Ukraine urges Trump admin to 'strangle' Russian economy amid nuclear tensions - ABC News",
       "pubDate": "Sun, 03 Aug 2025 09:22:30 GMT"
+    },
+    {
+      "title": "Ukraine says it stole intel from the Russian Navy and found weak points in its newest nuclear missile submarine - MSN",
+      "pubDate": "Mon, 04 Aug 2025 15:21:22 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Russia seeks to involve Laos in war against Ukraine, military intelligence claims - The Kyiv Independent",
-      "pubDate": "Sat, 05 Jul 2025 10:03:52 GMT"
-    },
     {
       "title": "Russia Makes 'Unprecedented' Censorship Admission - Newsweek",
       "pubDate": "Fri, 11 Jul 2025 07:44:47 GMT"
@@ -452,10 +448,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump ramps up his attacks against NYC's Zohran Mamdani as GOP seizes on new foe - NBC New York",
-      "pubDate": "Sat, 05 Jul 2025 15:42:15 GMT"
-    },
     {
       "title": "Trump Looks to Avoid Casting Blame in Texas Flood as Democrats Question Cuts - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 00:02:17 GMT"
@@ -619,10 +611,6 @@
   ],
   "China": [
     {
-      "title": "China, EU near EV tariff deal, state media says, refutes \u2018trade diversion\u2019 fears - South China Morning Post",
-      "pubDate": "Sat, 05 Jul 2025 12:03:50 GMT"
-    },
-    {
       "title": "For the first time, Xi is missing a China-backed BRICS summit. Why? - CNN",
       "pubDate": "Sat, 05 Jul 2025 23:43:00 GMT"
     },
@@ -733,6 +721,10 @@
     {
       "title": "China Reveals Details of Nuclear Missile Test - Newsweek",
       "pubDate": "Mon, 04 Aug 2025 08:43:55 GMT"
+    },
+    {
+      "title": "China to Tax Bond Interest Income After Decades of Exemption in Surprise Move - Bloomberg",
+      "pubDate": "Mon, 04 Aug 2025 05:57:00 GMT"
     }
   ],
   "AI Safety": [
@@ -843,6 +835,10 @@
     {
       "title": "Anthropic\u2019s Persona Vectors: Steering AI Traits for Safer Alignment - WebProNews",
       "pubDate": "Sat, 02 Aug 2025 13:12:03 GMT"
+    },
+    {
+      "title": "Why Testing AI Models in Isolation Misses the Real Security Risk - SC Media UK",
+      "pubDate": "Mon, 04 Aug 2025 10:55:34 GMT"
     }
   ],
   "Data Breach": [
@@ -1292,10 +1288,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin Price Watch: Calm Before the Storm\u2014Could Bitcoin Shatter the $111K Ceiling This Week? - Bitcoin.com News",
-      "pubDate": "Sat, 05 Jul 2025 11:46:57 GMT"
-    },
     {
       "title": "Bitcoin just became a path to homeownership. Here\u2019s how - USA Today",
       "pubDate": "Sun, 06 Jul 2025 19:02:06 GMT"
@@ -1799,6 +1791,10 @@
     {
       "title": "Scientists Say Earth May Be Trapped Inside a Huge, Strange Void - Futurism",
       "pubDate": "Sat, 12 Jul 2025 16:45:03 GMT"
+    },
+    {
+      "title": "The universe may start dying in just 10 billion years, alarming new model predicts - Live Science",
+      "pubDate": "Mon, 04 Aug 2025 10:55:00 GMT"
     }
   ],
   "Pacific Ocean": [
@@ -2397,6 +2393,10 @@
     {
       "title": "Is climate change a reason not to have kids? - NPR",
       "pubDate": "Sun, 03 Aug 2025 22:07:34 GMT"
+    },
+    {
+      "title": "Experts say climate change contributing to more injuries from airline turbulence - Las Vegas Sun",
+      "pubDate": "Mon, 04 Aug 2025 09:01:06 GMT"
     }
   ],
   "Algorithms": [
@@ -2543,6 +2543,10 @@
     {
       "title": "Going to waste: two years after REDcycle\u2019s collapse, Australia\u2019s soft plastics are hitting the environment hard - The Guardian",
       "pubDate": "Sat, 02 Aug 2025 06:38:00 GMT"
+    },
+    {
+      "title": "The global plastics treaty must move forward, with or without the US - Climate Home News",
+      "pubDate": "Mon, 04 Aug 2025 15:00:26 GMT"
     }
   ],
   "Animals": [
