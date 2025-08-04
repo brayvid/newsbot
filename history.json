@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Sam Altman\u2019s AI Empire Relies on Brutal Labor Exploitation - Jacobin",
-      "pubDate": "Sun, 06 Jul 2025 17:08:41 GMT"
-    },
-    {
       "title": "AI-linked job losses drive record-high unemployment among college graduates - News 9",
       "pubDate": "Sun, 06 Jul 2025 16:29:49 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "OpenAI chairman to students: 'Studying computer science is\u2026' - Times of India",
       "pubDate": "Sun, 03 Aug 2025 10:34:00 GMT"
+    },
+    {
+      "title": "Better Artificial Intelligence Stock: BigBear.ai vs. Nvidia - Nasdaq",
+      "pubDate": "Sun, 03 Aug 2025 18:15:00 GMT"
     }
   ],
   "US Politics": [
@@ -197,6 +197,10 @@
     {
       "title": "Trump fires BLS commissioner after weak jobs report - NBC News",
       "pubDate": "Fri, 01 Aug 2025 22:13:06 GMT"
+    },
+    {
+      "title": "Texas Democrats Leave the State to Block GOP Congressional Map - Democracy Docket",
+      "pubDate": "Sun, 03 Aug 2025 21:01:11 GMT"
     }
   ],
   "Iran": [
@@ -448,14 +452,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump signs his huge tax and spending bill into law - BBC",
-      "pubDate": "Fri, 04 Jul 2025 22:57:37 GMT"
-    },
-    {
-      "title": "Trump signs \"big, beautiful bill\" in July Fourth ceremony at White House - CBS News",
-      "pubDate": "Sat, 05 Jul 2025 00:01:53 GMT"
-    },
     {
       "title": "Trump ramps up his attacks against NYC's Zohran Mamdani as GOP seizes on new foe - NBC New York",
       "pubDate": "Sat, 05 Jul 2025 15:42:15 GMT"
@@ -1233,14 +1229,6 @@
   ],
   "Hamas": [
     {
-      "title": "Hamas submits \u2018positive response\u2019 to ceasefire proposal in major step toward a deal - CNN",
-      "pubDate": "Fri, 04 Jul 2025 21:40:00 GMT"
-    },
-    {
-      "title": "Hamas says it delivered 'positive response' on Gaza ceasefire plan - BBC",
-      "pubDate": "Fri, 04 Jul 2025 22:42:00 GMT"
-    },
-    {
       "title": "Israel continues airstrikes on Gaza after Hamas says it is ready for ceasefire talks - The Guardian",
       "pubDate": "Sat, 05 Jul 2025 20:22:00 GMT"
     },
@@ -1296,10 +1284,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "BlackRock Bitcoin ETF Surges 500% Faster Than Any Other ETF - AInvest",
-      "pubDate": "Fri, 04 Jul 2025 22:55:47 GMT"
-    },
     {
       "title": "Bitcoin Price Watch: Calm Before the Storm\u2014Could Bitcoin Shatter the $111K Ceiling This Week? - Bitcoin.com News",
       "pubDate": "Sat, 05 Jul 2025 11:46:57 GMT"
@@ -1443,13 +1427,13 @@
     {
       "title": "Japan sees bright future for ultra-thin, flexible solar panels - KAKE",
       "pubDate": "Sun, 20 Jul 2025 03:05:28 GMT"
+    },
+    {
+      "title": "Experts urge rethink on renewable energy and its environmental impact - Euronews.com",
+      "pubDate": "Sun, 03 Aug 2025 16:36:29 GMT"
     }
   ],
   "Cancer": [
-    {
-      "title": "Actor Julian McMahon dies after private battle with cancer - KTLA",
-      "pubDate": "Fri, 04 Jul 2025 22:50:54 GMT"
-    },
     {
       "title": "Scientists Turn Forgotten Cells Into Powerful Cancer Killers - SciTechDaily",
       "pubDate": "Sun, 06 Jul 2025 03:51:52 GMT"
@@ -1645,6 +1629,10 @@
     {
       "title": "Helion Energy starts construction on nuclear fusion plant to power Microsoft data centers - Yahoo Finance",
       "pubDate": "Wed, 30 Jul 2025 12:08:33 GMT"
+    },
+    {
+      "title": "China deploys breakthrough super steel to build nuclear fusion reactor - Interesting Engineering",
+      "pubDate": "Mon, 04 Aug 2025 00:20:00 GMT"
     }
   ],
   "North Korea": [
@@ -1755,6 +1743,10 @@
     {
       "title": "Federal Reserve governor resigns, creating vacancy for Trump - upi.com",
       "pubDate": "Sat, 02 Aug 2025 17:56:51 GMT"
+    },
+    {
+      "title": "Trump To Name New Federal Reserve Governor, Jobs Data Head In Coming Days - NDTV Profit",
+      "pubDate": "Mon, 04 Aug 2025 02:16:04 GMT"
     }
   ],
   "Alternative Energy": [
