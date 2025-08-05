@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI-linked job losses drive record-high unemployment among college graduates - News 9",
-      "pubDate": "Sun, 06 Jul 2025 16:29:49 GMT"
-    },
-    {
       "title": "OpenAI says GPT-5 will unify breakthroughs from different models - BleepingComputer",
       "pubDate": "Mon, 07 Jul 2025 00:22:40 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Better Artificial Intelligence Stock: BigBear.ai vs. Nvidia - Nasdaq",
       "pubDate": "Sun, 03 Aug 2025 18:15:00 GMT"
+    },
+    {
+      "title": "Artificial intelligence can recognize metallic glasses in vast compositional space with sparse data - Nature",
+      "pubDate": "Tue, 05 Aug 2025 18:00:30 GMT"
     }
   ],
   "US Politics": [
@@ -843,10 +843,6 @@
   ],
   "Data Breach": [
     {
-      "title": "Texas agency announces critical identification leaked in breach - Chron",
-      "pubDate": "Sun, 06 Jul 2025 19:36:11 GMT"
-    },
-    {
       "title": "Qantas says cyberattack affected 5.7 million customers - Cybersecurity Dive",
       "pubDate": "Wed, 09 Jul 2025 15:07:10 GMT"
     },
@@ -969,6 +965,10 @@
     {
       "title": "Despite Trump, the US economy remains surprisingly resilient. But for how long? | Richard Partington - The Guardian",
       "pubDate": "Sun, 03 Aug 2025 13:35:00 GMT"
+    },
+    {
+      "title": "US on 'Precipice of Recession,' Warns Leading Economist - Newsweek",
+      "pubDate": "Tue, 05 Aug 2025 13:16:37 GMT"
     }
   ],
   "Trade War": [
@@ -1211,6 +1211,10 @@
     {
       "title": "Devastating earthquake strikes Ecuador, kills over 5,000 - History.com",
       "pubDate": "Mon, 04 Aug 2025 22:18:45 GMT"
+    },
+    {
+      "title": "Russia earthquake has caused a 'parade of volcanic eruptions': Expert - ABC News",
+      "pubDate": "Tue, 05 Aug 2025 15:22:30 GMT"
     }
   ],
   "Democratic Party": [
@@ -1224,10 +1228,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "Hamas security officer says group has lost control over most of Gaza /OR/ Hamas security officer says clans filling void as group loses control of Gaza - BBC",
-      "pubDate": "Sun, 06 Jul 2025 16:13:59 GMT"
-    },
     {
       "title": "First indirect Hamas-Israel ceasefire talks ended inconclusively, Palestinian sources say - Reuters",
       "pubDate": "Sun, 06 Jul 2025 23:31:00 GMT"
@@ -1264,10 +1264,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin just became a path to homeownership. Here\u2019s how - USA Today",
-      "pubDate": "Sun, 06 Jul 2025 19:02:06 GMT"
-    },
     {
       "title": "Bitcoin price today: up at $109k ahead of \u2019crypto week\u2019; tariff jitters cap gains - Investing.com",
       "pubDate": "Mon, 07 Jul 2025 06:13:24 GMT"
@@ -1403,6 +1399,10 @@
     {
       "title": "Experts urge rethink on renewable energy and its environmental impact - Euronews.com",
       "pubDate": "Sun, 03 Aug 2025 16:36:29 GMT"
+    },
+    {
+      "title": "Germany aims to reduce reliance on China for wind power components - Reuters",
+      "pubDate": "Tue, 05 Aug 2025 10:13:43 GMT"
     }
   ],
   "Cancer": [
@@ -1468,10 +1468,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "Texas floods reveal limitations of disaster forecasting under climate crisis - The Guardian",
-      "pubDate": "Sun, 06 Jul 2025 20:31:00 GMT"
-    },
     {
       "title": "Texas tragedy foretells future for warming climate, scientists say - Axios",
       "pubDate": "Sun, 06 Jul 2025 23:48:06 GMT"
@@ -1753,12 +1749,6 @@
       "pubDate": "Tue, 05 Aug 2025 06:27:04 GMT"
     }
   ],
-  "Drones": [
-    {
-      "title": "Six Ukrainian drones headed for Moscow downed, mayor says - Reuters",
-      "pubDate": "Sun, 06 Jul 2025 17:05:47 GMT"
-    }
-  ],
   "Biology": [
     {
       "title": "Scientists create biological \u2018artificial intelligence\u2019 system - Scimex",
@@ -1906,10 +1896,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel killing Gaza civilians with commercial drones, probe finds - Al Jazeera",
-      "pubDate": "Mon, 14 Jul 2025 10:15:26 GMT"
-    },
     {
       "title": "Dozens dead as Israel pounds Gaza Strip with air strikes - Al Jazeera",
       "pubDate": "Mon, 14 Jul 2025 19:47:02 GMT"
@@ -2065,6 +2051,10 @@
     {
       "title": "A father's agony over video of his emaciated son, a hostage in Gaza, adds pressure for a ceasefire - apnews.com",
       "pubDate": "Mon, 04 Aug 2025 22:15:00 GMT"
+    },
+    {
+      "title": "Netanyahu hints at expanded war in Gaza but former Israeli military and spy chiefs object - AP News",
+      "pubDate": "Tue, 05 Aug 2025 18:01:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2115,6 +2105,10 @@
     {
       "title": "White House unveils crypto policy 'roadmap' meant to usher in 'golden age' - ABC News",
       "pubDate": "Wed, 30 Jul 2025 15:53:00 GMT"
+    },
+    {
+      "title": "SEC Exempts Liquid Stakers Like Ethereum\u2019s Lido, Solana\u2019s Jito From Securities Laws - Yahoo Finance",
+      "pubDate": "Tue, 05 Aug 2025 18:44:58 GMT"
     }
   ],
   "Science": [
@@ -2125,6 +2119,10 @@
     {
       "title": "Scientists just recreated the Universe\u2019s first molecule and solved a 13-billion-year-old puzzle - ScienceDaily",
       "pubDate": "Sun, 03 Aug 2025 13:51:04 GMT"
+    },
+    {
+      "title": "Scientists just cracked the code to editing entire chromosomes flawlessly - ScienceDaily",
+      "pubDate": "Tue, 05 Aug 2025 13:21:46 GMT"
     }
   ],
   "Apple": [
