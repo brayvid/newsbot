@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Elon Musk launches the America Party as feud with Trump escalates - Al Jazeera",
-      "pubDate": "Sun, 06 Jul 2025 05:07:10 GMT"
-    },
-    {
       "title": "Neither Democrat nor Republican: Elon Musk launches \u201cAmerica Party,\u201d a party no one was expecting - Diario AS",
       "pubDate": "Sun, 06 Jul 2025 22:44:13 GMT"
     },
@@ -200,10 +196,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran's supreme leader makes first public appearance since Iran-Israel war started - NPR",
-      "pubDate": "Sun, 06 Jul 2025 05:40:20 GMT"
-    },
     {
       "title": "Iran says it has 'plenty of scientists' left to restart uranium enrichment, despite US, Israeli strikes - Yahoo Home",
       "pubDate": "Fri, 01 Aug 2025 21:33:35 GMT"
@@ -1203,6 +1195,10 @@
     {
       "title": "Massive earthquake in eastern Russia was detected in Colorado by CSU scientists - Denver7",
       "pubDate": "Sat, 02 Aug 2025 06:30:24 GMT"
+    },
+    {
+      "title": "Devastating earthquake strikes Ecuador, kills over 5,000 - History.com",
+      "pubDate": "Mon, 04 Aug 2025 22:18:45 GMT"
     }
   ],
   "Democratic Party": [
@@ -1216,10 +1212,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "Netanyahu Heads to Washington as Trump Pushes for Israel-Hamas Cease-Fire - The New York Times",
-      "pubDate": "Sun, 06 Jul 2025 08:39:18 GMT"
-    },
     {
       "title": "Hamas security officer says group has lost control over most of Gaza /OR/ Hamas security officer says clans filling void as group loses control of Gaza - BBC",
       "pubDate": "Sun, 06 Jul 2025 16:13:59 GMT"
@@ -1461,6 +1453,10 @@
     {
       "title": "Perfectly timed cancer combo wipes out tumors by supercharging the immune system - ScienceDaily",
       "pubDate": "Mon, 04 Aug 2025 04:37:05 GMT"
+    },
+    {
+      "title": "New molecular technology targets tumors and simultaneously silences two 'undruggable' cancer genes - Medical Xpress",
+      "pubDate": "Mon, 04 Aug 2025 21:11:09 GMT"
     }
   ],
   "Climate": [
@@ -1917,10 +1913,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel bombs Gaza market, water point, as total death toll passes 58,000 - Al Jazeera",
-      "pubDate": "Mon, 14 Jul 2025 01:10:44 GMT"
-    },
-    {
       "title": "Israel killing Gaza civilians with commercial drones, probe finds - Al Jazeera",
       "pubDate": "Mon, 14 Jul 2025 10:15:26 GMT"
     },
@@ -2075,6 +2067,10 @@
     {
       "title": "Israel's PM Benjamin Netanyahu says decision made for full occupation of Gaza - Euronews.com",
       "pubDate": "Mon, 04 Aug 2025 17:32:27 GMT"
+    },
+    {
+      "title": "A father's agony over video of his emaciated son, a hostage in Gaza, adds pressure for a ceasefire - apnews.com",
+      "pubDate": "Mon, 04 Aug 2025 22:15:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2725,6 +2721,12 @@
     {
       "title": "New NIST Consortium Unveils Draft to Fortify Software Supply Chains - MeriTalk",
       "pubDate": "Mon, 04 Aug 2025 18:40:57 GMT"
+    }
+  ],
+  "Blockchain": [
+    {
+      "title": "Global Banks Invest in 345 Blockchain Projects as Digital Assets Go Mainstream - AInvest",
+      "pubDate": "Tue, 05 Aug 2025 04:37:24 GMT"
     }
   ]
 }
