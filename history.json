@@ -193,6 +193,10 @@
     {
       "title": "Texas Democrats Leave the State to Block GOP Congressional Map - Democracy Docket",
       "pubDate": "Sun, 03 Aug 2025 21:01:11 GMT"
+    },
+    {
+      "title": "Texas Governor threatens Democrats with arrest after politicians flee to block redistricting vote - Sky News",
+      "pubDate": "Tue, 05 Aug 2025 15:34:42 GMT"
     }
   ],
   "Iran": [
@@ -229,6 +233,10 @@
     {
       "title": "Pro-Israel Democrats try breaking with Netanyahu to stop party\u2019s shift amid Gaza crisis - CNN",
       "pubDate": "Sun, 03 Aug 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Israel\u2019s Gaza aid cutoff was not only immoral. It was a strategic disaster. - vox.com",
+      "pubDate": "Tue, 05 Aug 2025 10:45:00 GMT"
     }
   ],
   "Ukraine": [
@@ -555,6 +563,10 @@
     {
       "title": "Trump admin live updates: Trump, Schumer trade barbs over Senate nominations - ABC News",
       "pubDate": "Sat, 02 Aug 2025 23:43:00 GMT"
+    },
+    {
+      "title": "Trump says JPMorgan Chase, Bank of America rejected him as a customer - CNBC",
+      "pubDate": "Tue, 05 Aug 2025 12:37:08 GMT"
     }
   ],
   "National Security": [
@@ -1347,10 +1359,6 @@
   ],
   "NVIDIA": [
     {
-      "title": "Nvidia sets new record, leaves Apple and Microsoft behind to become first company in history to achieve t - Times of India",
-      "pubDate": "Sun, 06 Jul 2025 13:44:00 GMT"
-    },
-    {
       "title": "Nvidia becomes first company to surpass $4 trillion in market valuation - CBS News",
       "pubDate": "Wed, 09 Jul 2025 14:48:57 GMT"
     },
@@ -1500,10 +1508,6 @@
     }
   ],
   "Elon Musk": [
-    {
-      "title": "Musk Announces New \u2018America Party Is Formed,\u2019 Cementing Split From Trump and Republicans - Time Magazine",
-      "pubDate": "Sun, 06 Jul 2025 15:25:34 GMT"
-    },
     {
       "title": "Tesla shares drop 8% after Elon Musk says he is launching a political party - CNBC",
       "pubDate": "Mon, 07 Jul 2025 08:29:07 GMT"
@@ -1711,10 +1715,6 @@
   ],
   "Alternative Energy": [
     {
-      "title": "The resistance to renewables - Why are energy providers abandoning net-zero strategies? - AltEnergyMag",
-      "pubDate": "Sun, 06 Jul 2025 14:10:44 GMT"
-    },
-    {
       "title": "Solar power might be our best chance at avoiding climate calamity - marketplace.org",
       "pubDate": "Fri, 11 Jul 2025 20:30:00 GMT"
     },
@@ -1741,22 +1741,16 @@
   ],
   "Cosmology": [
     {
-      "title": "Confirmed by the James Webb telescope - something is wrong with the universe and scientists fear this anomaly will change physics forever - La Grada Online",
-      "pubDate": "Sun, 06 Jul 2025 10:15:59 GMT"
-    },
-    {
       "title": "Scientists Say Earth May Be Trapped Inside a Huge, Strange Void - Futurism",
       "pubDate": "Sat, 12 Jul 2025 16:45:03 GMT"
     },
     {
       "title": "The universe may start dying in just 10 billion years, alarming new model predicts - Live Science",
       "pubDate": "Mon, 04 Aug 2025 10:55:00 GMT"
-    }
-  ],
-  "Pacific Ocean": [
+    },
     {
-      "title": "Space burial ends in tragedy: Capsule with ashes of 166 people crashes into Pacific Ocean | Trending - Hindustan Times - Hindustan Times",
-      "pubDate": "Sun, 06 Jul 2025 09:40:14 GMT"
+      "title": "Scientists Reveal Universe\u2019s Lifespan Is Shorter Than Thought - The Romania Journal",
+      "pubDate": "Tue, 05 Aug 2025 06:27:04 GMT"
     }
   ],
   "Drones": [
@@ -2171,6 +2165,10 @@
     {
       "title": "Scientists use artificial intelligence to mimic the mind \u2014 warts and all - thestar.com.my",
       "pubDate": "Mon, 04 Aug 2025 02:09:46 GMT"
+    },
+    {
+      "title": "DeepMind thinks its new Genie 3 world model presents a stepping stone toward AGI - TechCrunch",
+      "pubDate": "Tue, 05 Aug 2025 14:10:14 GMT"
     }
   ],
   "American Civil Liberties Union": [
@@ -2457,6 +2455,10 @@
     {
       "title": "Scientists discover salt that makes batteries last 10x longer - ScienceDaily",
       "pubDate": "Sun, 27 Jul 2025 10:47:25 GMT"
+    },
+    {
+      "title": "AI Just Found the Future of Batteries, And It\u2019s Not Lithium - SciTechDaily",
+      "pubDate": "Tue, 05 Aug 2025 08:09:57 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -2727,6 +2729,12 @@
     {
       "title": "Global Banks Invest in 345 Blockchain Projects as Digital Assets Go Mainstream - AInvest",
       "pubDate": "Tue, 05 Aug 2025 04:37:24 GMT"
+    }
+  ],
+  "World Economy": [
+    {
+      "title": "Weak business investment threatens global growth, warns OECD - Financial Times",
+      "pubDate": "Tue, 05 Aug 2025 04:00:40 GMT"
     }
   ]
 }
