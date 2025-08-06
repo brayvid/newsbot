@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI could be about to completely change the way we do mathematics - New Scientist",
-      "pubDate": "Mon, 07 Jul 2025 09:00:33 GMT"
-    },
-    {
       "title": "How AI computer vision is redefining workplace safety - The HR Director",
       "pubDate": "Tue, 08 Jul 2025 10:44:42 GMT"
     },
@@ -225,10 +221,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Trump\u2019s sudden shift on weapons for Ukraine takes the war back to square one - CNN",
-      "pubDate": "Tue, 08 Jul 2025 17:54:00 GMT"
-    },
-    {
       "title": "Russia launches largest drone attack on Ukraine as Kyiv pushes US for air defense aid - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 09 Jul 2025 08:30:33 GMT"
     },
@@ -383,6 +375,10 @@
     {
       "title": "Ukraine strikes five Russian fighter jets at the airfield in annexed Crimea - Euronews.com",
       "pubDate": "Mon, 04 Aug 2025 13:59:49 GMT"
+    },
+    {
+      "title": "Live updates: Trump envoy Witkoff meets Putin to push for ceasefire before sanctions deadline - The Washington Post",
+      "pubDate": "Wed, 06 Aug 2025 15:22:08 GMT"
     }
   ],
   "Russia": [
@@ -881,6 +877,10 @@
     {
       "title": "WestJet cybersecurity breach to be investigated by privacy commissioner - CBC",
       "pubDate": "Tue, 05 Aug 2025 21:23:30 GMT"
+    },
+    {
+      "title": "Google suffers data breach in ongoing Salesforce data theft attacks - BleepingComputer",
+      "pubDate": "Wed, 06 Aug 2025 13:51:14 GMT"
     }
   ],
   "Cybersecurity": [
@@ -964,10 +964,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "Trump threatens extra 10% tariff on nations that side with Brics - BBC",
-      "pubDate": "Mon, 07 Jul 2025 13:16:52 GMT"
-    },
     {
       "title": "Trump announces steep tariffs on five more countries starting Aug. 1 - CNBC",
       "pubDate": "Mon, 07 Jul 2025 16:27:01 GMT"
@@ -1109,10 +1105,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Dozens evacuate Japan islands after 1,582 earthquakes - Taipei Times",
-      "pubDate": "Mon, 07 Jul 2025 16:00:00 GMT"
-    },
-    {
       "title": "Hundreds of small earthquakes detected under Mt. Rainier, scientists say no cause for alarm - KPTV",
       "pubDate": "Tue, 08 Jul 2025 19:11:00 GMT"
     },
@@ -1217,10 +1209,6 @@
   ],
   "Hamas": [
     {
-      "title": "Israel, Hamas set for Gaza ceasefire talks as Netanyahu due to meet Trump - Reuters",
-      "pubDate": "Mon, 07 Jul 2025 09:52:29 GMT"
-    },
-    {
       "title": "Experts Break Down The Biggest Roadblocks to the Israel-Hamas Cease-Fire Negotiations - Time Magazine",
       "pubDate": "Mon, 07 Jul 2025 20:03:54 GMT"
     },
@@ -1248,10 +1236,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "House Preps For Crypto Week; Core Scientific Tumbles; Bit Digital Ditches Bitcoin - Investor's Business Daily",
-      "pubDate": "Mon, 07 Jul 2025 14:53:00 GMT"
-    },
     {
       "title": "Bitcoin sets new record, briefly breaking above $112,000 as policy outlook shifts - The Block",
       "pubDate": "Wed, 09 Jul 2025 20:28:35 GMT"
@@ -1379,6 +1363,10 @@
     {
       "title": "Germany aims to reduce reliance on China for wind power components - Reuters",
       "pubDate": "Tue, 05 Aug 2025 10:13:43 GMT"
+    },
+    {
+      "title": "Trump Cancels Massive Idaho Wind Farm Amid Renewable Broadside - Bloomberg.com",
+      "pubDate": "Wed, 06 Aug 2025 14:25:25 GMT"
     }
   ],
   "Cancer": [
@@ -1501,12 +1489,6 @@
       "pubDate": "Mon, 04 Aug 2025 18:34:00 GMT"
     }
   ],
-  "Mars": [
-    {
-      "title": "Scientists Finally Reveal the Startling Reason Mars Lost Its Water - The Daily Galaxy",
-      "pubDate": "Mon, 07 Jul 2025 14:30:00 GMT"
-    }
-  ],
   "Health Care": [
     {
       "title": "'Heartless' mass firings at major Bay Area health care network spark pushback - SFGATE",
@@ -1538,10 +1520,6 @@
     }
   ],
   "Fusion Power": [
-    {
-      "title": "Google's Fusion Gamble: Betting on the Future of Clean Energy - AInvest",
-      "pubDate": "Mon, 07 Jul 2025 16:01:57 GMT"
-    },
     {
       "title": "EU announces \u20ac200m contribution to Spanish fusion research facility - Global Construction Review",
       "pubDate": "Fri, 18 Jul 2025 10:32:53 GMT"
@@ -1723,19 +1701,11 @@
   ],
   "FBI": [
     {
-      "title": "Jeffrey Epstein died by suicide, justice department and FBI review confirms - The Guardian",
-      "pubDate": "Mon, 07 Jul 2025 15:40:00 GMT"
-    },
-    {
       "title": "Trump administration released FBI records on MLK Jr. despite his family\u2019s opposition - AP News",
       "pubDate": "Mon, 21 Jul 2025 19:49:00 GMT"
     }
   ],
   "Chemistry": [
-    {
-      "title": "A new organometallic compound challenges a fundamental principle of textbook chemistry - Phys.org",
-      "pubDate": "Mon, 07 Jul 2025 13:22:04 GMT"
-    },
     {
       "title": "Scientists Create \u201cImpossible\u201d Molecule, Solving Century-Old Chemical Mystery - SciTechDaily",
       "pubDate": "Mon, 28 Jul 2025 22:27:16 GMT"
