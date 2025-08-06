@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI says GPT-5 will unify breakthroughs from different models - BleepingComputer",
-      "pubDate": "Mon, 07 Jul 2025 00:22:40 GMT"
-    },
-    {
       "title": "AI could be about to completely change the way we do mathematics - New Scientist",
       "pubDate": "Mon, 07 Jul 2025 09:00:33 GMT"
     },
@@ -163,10 +159,6 @@
   ],
   "US Politics": [
     {
-      "title": "Neither Democrat nor Republican: Elon Musk launches \u201cAmerica Party,\u201d a party no one was expecting - Diario AS",
-      "pubDate": "Sun, 06 Jul 2025 22:44:13 GMT"
-    },
-    {
       "title": "Trump calls Musk's formation of new party \"ridiculous\" and criticizes his own NASA pick - Reuters",
       "pubDate": "Mon, 07 Jul 2025 06:12:00 GMT"
     },
@@ -206,10 +198,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel\u2019s Deadly Assault on Iran Prison Incites Fury, Even Among Dissidents - The New York Times",
-      "pubDate": "Sun, 06 Jul 2025 22:13:55 GMT"
-    },
     {
       "title": "Israeli settlers beat U.S. citizen to death in West Bank - NPR",
       "pubDate": "Sat, 12 Jul 2025 17:19:52 GMT"
@@ -839,6 +827,10 @@
     {
       "title": "Six-figure AI investment drives safety innovation at Pallet-Track - NationalWorld",
       "pubDate": "Mon, 04 Aug 2025 20:52:34 GMT"
+    },
+    {
+      "title": "Polluted data poses risk to AI safety, ministry says - China Daily - Global Edition",
+      "pubDate": "Wed, 06 Aug 2025 02:59:19 GMT"
     }
   ],
   "Data Breach": [
@@ -1229,10 +1221,6 @@
   ],
   "Hamas": [
     {
-      "title": "First indirect Hamas-Israel ceasefire talks ended inconclusively, Palestinian sources say - Reuters",
-      "pubDate": "Sun, 06 Jul 2025 23:31:00 GMT"
-    },
-    {
       "title": "Israel, Hamas set for Gaza ceasefire talks as Netanyahu due to meet Trump - Reuters",
       "pubDate": "Mon, 07 Jul 2025 09:52:29 GMT"
     },
@@ -1334,10 +1322,6 @@
     }
   ],
   "BRICS": [
-    {
-      "title": "Trump says countries aligning with BRICS policies will face additional 10% tariff - CNBC",
-      "pubDate": "Mon, 07 Jul 2025 02:52:00 GMT"
-    },
     {
       "title": "China Dumps $8.2B US Treasuries in BRICS Payback, Sells $900M Again - CryptoRank",
       "pubDate": "Sun, 27 Jul 2025 08:18:46 GMT"
@@ -1468,14 +1452,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "Texas tragedy foretells future for warming climate, scientists say - Axios",
-      "pubDate": "Sun, 06 Jul 2025 23:48:06 GMT"
-    },
-    {
-      "title": "Texas flood highlights deadly climate risk from extreme weather - Los Angeles Times",
-      "pubDate": "Mon, 07 Jul 2025 01:33:55 GMT"
-    },
     {
       "title": "Trump Hires Scientists Who Doubt the Consensus on Climate Change - The New York Times",
       "pubDate": "Tue, 08 Jul 2025 14:27:54 GMT"
@@ -1707,6 +1683,10 @@
     {
       "title": "Trump To Name New Federal Reserve Governor, Jobs Data Head In Coming Days - NDTV Profit",
       "pubDate": "Mon, 04 Aug 2025 02:16:04 GMT"
+    },
+    {
+      "title": "Trump set to fill Fed board vacancy by week's end, has narrowed chair search to four - Reuters",
+      "pubDate": "Wed, 06 Aug 2025 00:01:00 GMT"
     }
   ],
   "Alternative Energy": [
@@ -1897,10 +1877,6 @@
   ],
   "Gaza": [
     {
-      "title": "Dozens dead as Israel pounds Gaza Strip with air strikes - Al Jazeera",
-      "pubDate": "Mon, 14 Jul 2025 19:47:02 GMT"
-    },
-    {
       "title": "EU foreign ministers set to weigh sanctions against Israel over Gaza war - The Times of Israel",
       "pubDate": "Tue, 15 Jul 2025 05:54:51 GMT"
     },
@@ -2055,6 +2031,10 @@
     {
       "title": "Netanyahu hints at expanded war in Gaza but former Israeli military and spy chiefs object - AP News",
       "pubDate": "Tue, 05 Aug 2025 18:01:00 GMT"
+    },
+    {
+      "title": "Israel Weighs Full Gaza Takeover Despite Concerns of Armed Forces - Bloomberg",
+      "pubDate": "Tue, 05 Aug 2025 21:51:45 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2511,6 +2491,10 @@
     {
       "title": "The global plastics treaty must move forward, with or without the US - Climate Home News",
       "pubDate": "Mon, 04 Aug 2025 15:00:26 GMT"
+    },
+    {
+      "title": "New Jersey reaches historic $2 billion environmental settlement with DuPont over 'forever chemicals' - ABC News",
+      "pubDate": "Wed, 06 Aug 2025 00:01:36 GMT"
     }
   ],
   "Animals": [
@@ -2575,6 +2559,10 @@
     {
       "title": "US rejects WHO pandemic changes to global health rules - Reuters",
       "pubDate": "Fri, 18 Jul 2025 20:42:49 GMT"
+    },
+    {
+      "title": "RFK Jr\u2019s health department to halt $500m in mRNA vaccine research - The Guardian",
+      "pubDate": "Wed, 06 Aug 2025 02:12:00 GMT"
     }
   ],
   "Research": [
@@ -2627,6 +2615,10 @@
     {
       "title": "Germany is said to plan massive military buildup, doubling defense budget by 2029 - Seeking Alpha",
       "pubDate": "Mon, 28 Jul 2025 15:16:07 GMT"
+    },
+    {
+      "title": "US Army readies to release new missile defense strategy soon - Defense News",
+      "pubDate": "Tue, 05 Aug 2025 23:35:48 GMT"
     }
   ],
   "Google": [
