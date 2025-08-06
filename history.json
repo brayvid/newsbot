@@ -159,10 +159,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump calls Musk's formation of new party \"ridiculous\" and criticizes his own NASA pick - Reuters",
-      "pubDate": "Mon, 07 Jul 2025 06:12:00 GMT"
-    },
-    {
       "title": "AOC Calls Trump \u2018Rapist\u2019 in Brutal Epstein Files Crisis Dig - The Daily Beast",
       "pubDate": "Sat, 12 Jul 2025 06:49:00 GMT"
     },
@@ -881,6 +877,10 @@
     {
       "title": "Average global data breach cost now $4.44 million - Help Net Security",
       "pubDate": "Mon, 04 Aug 2025 05:30:44 GMT"
+    },
+    {
+      "title": "WestJet cybersecurity breach to be investigated by privacy commissioner - CBC",
+      "pubDate": "Tue, 05 Aug 2025 21:23:30 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1038,10 +1038,6 @@
     }
   ],
   "Asteroids": [
-    {
-      "title": "New Vera Rubin Observatory discovers 2,000 unknown asteroids within 10 hours - AOL.com",
-      "pubDate": "Mon, 07 Jul 2025 08:35:50 GMT"
-    },
     {
       "title": "Inside the most dangerous asteroid hunt ever - MIT Technology Review",
       "pubDate": "Tue, 08 Jul 2025 08:30:00 GMT"
@@ -1252,10 +1248,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin price today: up at $109k ahead of \u2019crypto week\u2019; tariff jitters cap gains - Investing.com",
-      "pubDate": "Mon, 07 Jul 2025 06:13:24 GMT"
-    },
     {
       "title": "House Preps For Crypto Week; Core Scientific Tumbles; Bit Digital Ditches Bitcoin - Investor's Business Daily",
       "pubDate": "Mon, 07 Jul 2025 14:53:00 GMT"
@@ -1481,10 +1473,6 @@
   ],
   "Elon Musk": [
     {
-      "title": "Tesla shares drop 8% after Elon Musk says he is launching a political party - CNBC",
-      "pubDate": "Mon, 07 Jul 2025 08:29:07 GMT"
-    },
-    {
       "title": "Elon Musk Is Running Out of Road in China - WSJ",
       "pubDate": "Tue, 08 Jul 2025 01:17:44 GMT"
     },
@@ -1543,6 +1531,10 @@
     {
       "title": "Texas Removes 1.8 Million People From Health Care Plan - Newsweek",
       "pubDate": "Sat, 26 Jul 2025 10:00:01 GMT"
+    },
+    {
+      "title": "Trump is threatening health care giants with the weight of the federal government. It\u2019s working \u2014 sometimes - statnews.com",
+      "pubDate": "Wed, 06 Aug 2025 08:34:13 GMT"
     }
   ],
   "Fusion Power": [
@@ -1729,12 +1721,6 @@
       "pubDate": "Tue, 05 Aug 2025 06:27:04 GMT"
     }
   ],
-  "Biology": [
-    {
-      "title": "Scientists create biological \u2018artificial intelligence\u2019 system - Scimex",
-      "pubDate": "Mon, 07 Jul 2025 08:32:02 GMT"
-    }
-  ],
   "FBI": [
     {
       "title": "Jeffrey Epstein died by suicide, justice department and FBI review confirms - The Guardian",
@@ -1793,6 +1779,10 @@
     {
       "title": "OpenAI spearheads one of Europe\u2019s biggest data centers with 100,000 Nvidia chips - CNBC",
       "pubDate": "Thu, 31 Jul 2025 07:15:46 GMT"
+    },
+    {
+      "title": "OpenAI eyes $500 billion valuation in potential employee share sale, source says - Reuters",
+      "pubDate": "Wed, 06 Aug 2025 08:20:12 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1876,10 +1866,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "EU foreign ministers set to weigh sanctions against Israel over Gaza war - The Times of Israel",
-      "pubDate": "Tue, 15 Jul 2025 05:54:51 GMT"
-    },
     {
       "title": "LIVE: Israel kills dozens as it bombards Gaza, Lebanon and Syria - Al Jazeera",
       "pubDate": "Tue, 15 Jul 2025 15:00:00 GMT"
@@ -2035,6 +2021,10 @@
     {
       "title": "Israel Weighs Full Gaza Takeover Despite Concerns of Armed Forces - Bloomberg",
       "pubDate": "Tue, 05 Aug 2025 21:51:45 GMT"
+    },
+    {
+      "title": "UN official says Israel expanding Gaza operations would risk 'catastrophic consequences' - BBC",
+      "pubDate": "Wed, 06 Aug 2025 05:34:35 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2677,6 +2667,10 @@
     {
       "title": "Most Phones Sold in US Are Now Made in India as Apple Shifts - Bloomberg",
       "pubDate": "Tue, 29 Jul 2025 01:48:00 GMT"
+    },
+    {
+      "title": "Trump wants India to stop buying Russian oil. Why is Modi saying no? - CNN",
+      "pubDate": "Wed, 06 Aug 2025 03:42:00 GMT"
     }
   ],
   "Space Exploration": [
@@ -2725,6 +2719,12 @@
     {
       "title": "Weak business investment threatens global growth, warns OECD - Financial Times",
       "pubDate": "Tue, 05 Aug 2025 04:00:40 GMT"
+    }
+  ],
+  "Rivian": [
+    {
+      "title": "Rivian reports mixed Q2 results, widens 2025 loss projection as tariffs and loss of EV tax credit bite - Yahoo Finance",
+      "pubDate": "Wed, 06 Aug 2025 08:33:21 GMT"
     }
   ]
 }
