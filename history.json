@@ -425,13 +425,13 @@
     {
       "title": "Russia Issues Nuclear Warning Directed at US and NATO - Newsweek",
       "pubDate": "Mon, 04 Aug 2025 16:57:57 GMT"
+    },
+    {
+      "title": "Russia\u2019s Colossal Earthquake May Have Ignited Multiple Volcanoes - Gizmodo",
+      "pubDate": "Wed, 06 Aug 2025 15:55:09 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump Looks to Avoid Casting Blame in Texas Flood as Democrats Question Cuts - The New York Times",
-      "pubDate": "Tue, 08 Jul 2025 00:02:17 GMT"
-    },
     {
       "title": "Trump announces new tariffs of up to 40% on a growing number of countries - CNN",
       "pubDate": "Tue, 08 Jul 2025 06:39:00 GMT"
@@ -547,6 +547,10 @@
     {
       "title": "Trump says JPMorgan Chase, Bank of America rejected him as a customer - CNBC",
       "pubDate": "Tue, 05 Aug 2025 12:37:08 GMT"
+    },
+    {
+      "title": "Trump's \u2018100% chip tariffs\u2019 hit Japan's giants, but Samsung and TSMC rise on U.S. bets - CNBC",
+      "pubDate": "Thu, 07 Aug 2025 02:37:00 GMT"
     }
   ],
   "National Security": [
@@ -594,10 +598,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China\u2019s weaponisation of rare earths is a new kind of trade war - Financial Times",
-      "pubDate": "Tue, 08 Jul 2025 04:00:29 GMT"
-    },
     {
       "title": "China says it will retaliate on unfavorable deals after Trump warns Asia of higher tariffs - NBC News",
       "pubDate": "Tue, 08 Jul 2025 11:14:09 GMT"
@@ -709,13 +709,13 @@
     {
       "title": "China tackles chikungunya virus outbreak with wide range of measures as thousands fall ill - ABC News",
       "pubDate": "Wed, 06 Aug 2025 19:03:15 GMT"
+    },
+    {
+      "title": "China's July exports top expectations, rising over 7%; imports record biggest jump in a year - CNBC",
+      "pubDate": "Thu, 07 Aug 2025 03:16:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Expert Says AI Systems May Be Hiding Their True Capabilities to Seed Our Destruction - Futurism",
-      "pubDate": "Mon, 07 Jul 2025 21:07:58 GMT"
-    },
     {
       "title": "OpenAI Shakes Up Safety: Superalignment Team Dissolved, AI Safety Gets a New Focus - OpenTools",
       "pubDate": "Tue, 08 Jul 2025 11:31:41 GMT"
@@ -831,6 +831,10 @@
     {
       "title": "Inside the US Government's Unpublished Report on AI Safety - WIRED",
       "pubDate": "Wed, 06 Aug 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Anthropic ships automated security reviews for Claude Code as AI-generated vulnerabilities surge - VentureBeat",
+      "pubDate": "Wed, 06 Aug 2025 16:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -972,10 +976,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "Trump Revives Trade War, Threatening Steep Aug. 1 Tariffs on Allies - The New York Times",
-      "pubDate": "Mon, 07 Jul 2025 22:26:28 GMT"
-    },
     {
       "title": "Trump ramps up trade war with tariff blitz targeting 14 countries - Al Jazeera",
       "pubDate": "Tue, 08 Jul 2025 05:48:12 GMT"
@@ -1371,10 +1371,6 @@
   ],
   "Cancer": [
     {
-      "title": "New Cancer Drug Blocks Tumors Without Debilitating Side Effects - SciTechDaily",
-      "pubDate": "Mon, 07 Jul 2025 21:29:50 GMT"
-    },
-    {
       "title": "Breast cancer breakthrough raises hopes for disease eradication - The Independent",
       "pubDate": "Tue, 08 Jul 2025 15:36:00 GMT"
     },
@@ -1460,10 +1456,6 @@
     }
   ],
   "Elon Musk": [
-    {
-      "title": "Elon Musk Is Running Out of Road in China - WSJ",
-      "pubDate": "Tue, 08 Jul 2025 01:17:44 GMT"
-    },
     {
       "title": "Elon Musk Is Back at Work and Burning Through Executives - The Wall Street Journal",
       "pubDate": "Sun, 13 Jul 2025 09:30:00 GMT"
@@ -1783,10 +1775,6 @@
   ],
   "Public Health": [
     {
-      "title": "Doctors and public health organizations sue Kennedy over vaccine policy change - AP News",
-      "pubDate": "Mon, 07 Jul 2025 23:23:00 GMT"
-    },
-    {
       "title": "Measles Cases Hit Record High Since U.S. Eliminated Disease - The New York Times",
       "pubDate": "Wed, 09 Jul 2025 15:47:38 GMT"
     },
@@ -1840,10 +1828,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israeli attacks in Gaza kill at least 61 as UN warns of rising malnutrition - Al Jazeera",
-      "pubDate": "Tue, 15 Jul 2025 20:20:47 GMT"
-    },
     {
       "title": "At Least 20 Killed in Stampede Outside a Gaza Food Site, Aid Group Says - The New York Times",
       "pubDate": "Wed, 16 Jul 2025 22:33:46 GMT"
@@ -1999,6 +1983,10 @@
     {
       "title": "Trump plans to \"take over\" Gaza aid effort, U.S. officials say - Axios",
       "pubDate": "Wed, 06 Aug 2025 12:38:30 GMT"
+    },
+    {
+      "title": "Israeli military chief warns against takeover of Gaza as Netanyahu considers \u2018full conquest\u2019 of besieged territory - CNN",
+      "pubDate": "Wed, 06 Aug 2025 16:14:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2305,6 +2293,10 @@
     {
       "title": "Scientists confirm that climate change is behind California\u2019s earlier wildfire seasons - San Francisco Chronicle",
       "pubDate": "Wed, 06 Aug 2025 18:10:31 GMT"
+    },
+    {
+      "title": "One dead, 13 injured in France wildfire spanning area greater than Paris - The Washington Post",
+      "pubDate": "Thu, 07 Aug 2025 02:55:22 GMT"
     }
   ],
   "Algorithms": [
@@ -2707,6 +2699,12 @@
     {
       "title": "Rivian reports mixed Q2 results, widens 2025 loss projection as tariffs and loss of EV tax credit bite - Yahoo Finance",
       "pubDate": "Wed, 06 Aug 2025 08:33:21 GMT"
+    }
+  ],
+  "Technology": [
+    {
+      "title": "United Airlines flights resume after it resolves technology glitch - Reuters",
+      "pubDate": "Thu, 07 Aug 2025 02:41:00 GMT"
     }
   ]
 }
