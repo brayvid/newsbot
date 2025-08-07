@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "How AI computer vision is redefining workplace safety - The HR Director",
-      "pubDate": "Tue, 08 Jul 2025 10:44:42 GMT"
-    },
-    {
       "title": "Grok, Elon Musk\u2019s AI Chatbot, Shares Antisemitic Posts on X - The New York Times",
       "pubDate": "Wed, 09 Jul 2025 00:08:43 GMT"
     },
@@ -595,10 +591,6 @@
   ],
   "China": [
     {
-      "title": "China says it will retaliate on unfavorable deals after Trump warns Asia of higher tariffs - NBC News",
-      "pubDate": "Tue, 08 Jul 2025 11:14:09 GMT"
-    },
-    {
       "title": "China gives conditional nod to Synopsys-Ansys deal, removing last major hurdle - Reuters",
       "pubDate": "Mon, 14 Jul 2025 13:38:39 GMT"
     },
@@ -709,13 +701,13 @@
     {
       "title": "China's July exports top expectations, rising over 7%; imports record biggest jump in a year - CNBC",
       "pubDate": "Thu, 07 Aug 2025 03:16:00 GMT"
+    },
+    {
+      "title": "Trump demands Intel CEO Lip-Bu Tan resign over China ties - Axios",
+      "pubDate": "Thu, 07 Aug 2025 11:57:43 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "OpenAI Shakes Up Safety: Superalignment Team Dissolved, AI Safety Gets a New Focus - OpenTools",
-      "pubDate": "Tue, 08 Jul 2025 11:31:41 GMT"
-    },
     {
       "title": "Researchers Uncover Alarming AI Hack: ChatGPT And Gemini Can Be Fooled With Gibberish Prompts To Reveal Banned Content, Bypass Filters, And Break Safety Rules - Wccftech",
       "pubDate": "Tue, 08 Jul 2025 19:31:00 GMT"
@@ -831,6 +823,10 @@
     {
       "title": "Anthropic ships automated security reviews for Claude Code as AI-generated vulnerabilities surge - VentureBeat",
       "pubDate": "Wed, 06 Aug 2025 16:00:00 GMT"
+    },
+    {
+      "title": "Scientists want to prevent AI from going rogue by teaching it to be bad first - NBC News",
+      "pubDate": "Thu, 07 Aug 2025 09:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1211,12 +1207,6 @@
       "pubDate": "Sat, 26 Jul 2025 18:10:13 GMT"
     }
   ],
-  "Hamas": [
-    {
-      "title": "Hamas used sexual violence as part of 'genocidal strategy', Israeli experts say - BBC",
-      "pubDate": "Tue, 08 Jul 2025 09:46:33 GMT"
-    }
-  ],
   "New York City": [
     {
       "title": "New York City mayor says city is joining \u2018Citizen\u2019 public safety app - StateScoop",
@@ -1297,6 +1287,10 @@
     {
       "title": "China Dumps $8.2B US Treasuries in BRICS Payback, Sells $900M Again - CryptoRank",
       "pubDate": "Sun, 27 Jul 2025 08:18:46 GMT"
+    },
+    {
+      "title": "Putin Aide's Big Reveal On BRICS Vs U.S. Potential Fight Amid Trump's Tariff War | Lula | Modi | Xi - The Times of India",
+      "pubDate": "Thu, 07 Aug 2025 08:27:41 GMT"
     }
   ],
   "Central Intelligence Agency": [
@@ -1367,14 +1361,6 @@
   ],
   "Cancer": [
     {
-      "title": "Breast cancer breakthrough raises hopes for disease eradication - The Independent",
-      "pubDate": "Tue, 08 Jul 2025 15:36:00 GMT"
-    },
-    {
-      "title": "World\u2019s premier cancer institute faces crippling cuts and chaos - CNN",
-      "pubDate": "Tue, 08 Jul 2025 11:00:00 GMT"
-    },
-    {
       "title": "Blood tests promise to detect cancer early. How well do they work? - The Washington Post",
       "pubDate": "Tue, 15 Jul 2025 15:02:24 GMT"
     },
@@ -1424,10 +1410,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "Trump Hires Scientists Who Doubt the Consensus on Climate Change - The New York Times",
-      "pubDate": "Tue, 08 Jul 2025 14:27:54 GMT"
-    },
     {
       "title": "Climate breakdown tripled death toll in Europe\u2019s June heatwave, study finds - The Guardian",
       "pubDate": "Wed, 09 Jul 2025 04:00:00 GMT"
@@ -1795,10 +1777,6 @@
   ],
   "Geopolitics": [
     {
-      "title": "Exclusive: Why China's ultimatum to Myanmar rebels threatens global supply of heavy rare earths - Reuters",
-      "pubDate": "Tue, 08 Jul 2025 13:01:22 GMT"
-    },
-    {
       "title": "Trump's Tariff Threat on Copper Imports and Its Market Impact: Navigating Geopolitical Risks in Strategic Commodity Investing - AInvest",
       "pubDate": "Wed, 09 Jul 2025 00:04:27 GMT"
     },
@@ -1820,10 +1798,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "At least 19 Palestinians killed in stampede at Gaza food distribution site - CBS News",
-      "pubDate": "Wed, 16 Jul 2025 23:02:00 GMT"
-    },
     {
       "title": "Israeli airstrikes continue in Gaza amid ceasefire talks with Hamas - CBS News",
       "pubDate": "Thu, 17 Jul 2025 14:56:00 GMT"
@@ -1979,6 +1953,10 @@
     {
       "title": "Israel\u2019s actions in Gaza look \u2018very much like\u2019 genocide, says top EU official - politico.eu",
       "pubDate": "Thu, 07 Aug 2025 06:00:00 GMT"
+    },
+    {
+      "title": "Gaza: Israeli School Strikes Magnify Civilian Peril - Human Rights Watch",
+      "pubDate": "Thu, 07 Aug 2025 04:00:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2033,6 +2011,10 @@
     {
       "title": "SEC Exempts Liquid Stakers Like Ethereum\u2019s Lido, Solana\u2019s Jito From Securities Laws - Yahoo Finance",
       "pubDate": "Tue, 05 Aug 2025 18:44:58 GMT"
+    },
+    {
+      "title": "Trump to allow cryptocurrency, private equity in 401(k)s - Quartz",
+      "pubDate": "Thu, 07 Aug 2025 14:52:52 GMT"
     }
   ],
   "Science": [
@@ -2134,10 +2116,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "As Climate Change Heats Up Europe\u2019s Summers, Avignon Festival Tries to Adapt - The New York Times",
-      "pubDate": "Fri, 11 Jul 2025 13:07:16 GMT"
-    },
     {
       "title": "The State Department fires remaining employees who worked on climate change - The Washington Post",
       "pubDate": "Sat, 12 Jul 2025 02:42:43 GMT"
@@ -2293,6 +2271,10 @@
     {
       "title": "July was Earth's third-hottest on record, included a record for Turkey, EU scientists say - Reuters",
       "pubDate": "Thu, 07 Aug 2025 02:20:00 GMT"
+    },
+    {
+      "title": "Energy chief suggests Trump administration is altering previously published climate reports - CNN",
+      "pubDate": "Thu, 07 Aug 2025 14:08:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2701,6 +2683,12 @@
     {
       "title": "United Airlines flights resume after it resolves technology glitch - Reuters",
       "pubDate": "Thu, 07 Aug 2025 02:41:00 GMT"
+    }
+  ],
+  "Asia": [
+    {
+      "title": "New US tariffs cloud outlook for exporters in Asia and beyond - ABC News",
+      "pubDate": "Thu, 07 Aug 2025 05:59:58 GMT"
     }
   ]
 }
