@@ -433,10 +433,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump announces new tariffs of up to 40% on a growing number of countries - CNN",
-      "pubDate": "Tue, 08 Jul 2025 06:39:00 GMT"
-    },
-    {
       "title": "Trump threatened to 'bomb the s--- out' of Moscow to deter Putin: CNN - CNBC",
       "pubDate": "Wed, 09 Jul 2025 14:56:44 GMT"
     },
@@ -947,6 +943,10 @@
     {
       "title": "The AI Cybersecurity Arms Race: How Threat Actors Are Weaponizing GenAI and Why It Matters to Investors - AInvest",
       "pubDate": "Mon, 04 Aug 2025 07:23:14 GMT"
+    },
+    {
+      "title": "CISA, Microsoft warn about new Microsoft Exchange server vulnerability - Cybersecurity Dive",
+      "pubDate": "Thu, 07 Aug 2025 01:16:10 GMT"
     }
   ],
   "US Economy": [
@@ -973,13 +973,13 @@
     {
       "title": "US on 'Precipice of Recession,' Warns Leading Economist - Newsweek",
       "pubDate": "Tue, 05 Aug 2025 13:16:37 GMT"
+    },
+    {
+      "title": "Trump's broad tariffs go into effect, just as economic pain is surfacing - NPR",
+      "pubDate": "Thu, 07 Aug 2025 05:01:39 GMT"
     }
   ],
   "Trade War": [
-    {
-      "title": "Trump ramps up trade war with tariff blitz targeting 14 countries - Al Jazeera",
-      "pubDate": "Tue, 08 Jul 2025 05:48:12 GMT"
-    },
     {
       "title": "Trump announces tariffs of up to 30% on six more countries \u2013 live updates - The Guardian",
       "pubDate": "Wed, 09 Jul 2025 12:15:00 GMT"
@@ -1039,10 +1039,6 @@
   ],
   "Asteroids": [
     {
-      "title": "Inside the most dangerous asteroid hunt ever - MIT Technology Review",
-      "pubDate": "Tue, 08 Jul 2025 08:30:00 GMT"
-    },
-    {
       "title": "What happens once we spot the asteroid that will hit Earth? - Financial Times",
       "pubDate": "Sat, 19 Jul 2025 04:39:35 GMT"
     },
@@ -1057,6 +1053,10 @@
     {
       "title": "NASA Alerts: 140-foot asteroid to pass Earth today at a speed of 41,157 miles per hour - Moneycontrol",
       "pubDate": "Sat, 26 Jul 2025 01:30:37 GMT"
+    },
+    {
+      "title": "Massive 300-ft Asteroid Ready For Close Encounter With Earth Tomorrow: NASA Issues Warning - Times Now",
+      "pubDate": "Thu, 07 Aug 2025 02:00:00 GMT"
     }
   ],
   "Atlantic Ocean": [
@@ -1212,10 +1212,6 @@
     }
   ],
   "Hamas": [
-    {
-      "title": "5 Israeli Soldiers Killed in Gaza, Military Says - The New York Times",
-      "pubDate": "Tue, 08 Jul 2025 08:05:27 GMT"
-    },
     {
       "title": "Hamas used sexual violence as part of 'genocidal strategy', Israeli experts say - BBC",
       "pubDate": "Tue, 08 Jul 2025 09:46:33 GMT"
@@ -1715,10 +1711,6 @@
   ],
   "OpenAI": [
     {
-      "title": "OpenAI tightens the screws on security to keep away prying eyes - TechCrunch",
-      "pubDate": "Tue, 08 Jul 2025 05:44:33 GMT"
-    },
-    {
       "title": "Exclusive: OpenAI to release web browser in challenge to Google Chrome - Reuters",
       "pubDate": "Thu, 10 Jul 2025 03:16:00 GMT"
     },
@@ -1748,10 +1740,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Scientists Just Simulated the \u201cImpossible\u201d in Quantum Computing - SciTechDaily",
-      "pubDate": "Tue, 08 Jul 2025 04:07:22 GMT"
-    },
     {
       "title": "Scientists make 'magic state' breakthrough after 20 years \u2014 without it, quantum computers can never be truly useful - Live Science",
       "pubDate": "Thu, 17 Jul 2025 15:00:00 GMT"
@@ -1799,6 +1787,10 @@
     {
       "title": "AOC broke ethics rules with \u2018tax the rich\u2019 Met Gala gown - The Telegraph",
       "pubDate": "Fri, 25 Jul 2025 22:07:00 GMT"
+    },
+    {
+      "title": "Ocasio-Cortez's office vandalized amid 'multiple threats' to her life, campaign manager says - AOL.com",
+      "pubDate": "Thu, 07 Aug 2025 07:33:03 GMT"
     }
   ],
   "Geopolitics": [
@@ -1828,10 +1820,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "At Least 20 Killed in Stampede Outside a Gaza Food Site, Aid Group Says - The New York Times",
-      "pubDate": "Wed, 16 Jul 2025 22:33:46 GMT"
-    },
     {
       "title": "At least 19 Palestinians killed in stampede at Gaza food distribution site - CBS News",
       "pubDate": "Wed, 16 Jul 2025 23:02:00 GMT"
@@ -1987,6 +1975,10 @@
     {
       "title": "Israeli military chief warns against takeover of Gaza as Netanyahu considers \u2018full conquest\u2019 of besieged territory - CNN",
       "pubDate": "Wed, 06 Aug 2025 16:14:00 GMT"
+    },
+    {
+      "title": "Israel\u2019s actions in Gaza look \u2018very much like\u2019 genocide, says top EU official - politico.eu",
+      "pubDate": "Thu, 07 Aug 2025 06:00:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2099,6 +2091,10 @@
     {
       "title": "DeepMind thinks its new Genie 3 world model presents a stepping stone toward AGI - TechCrunch",
       "pubDate": "Tue, 05 Aug 2025 14:10:14 GMT"
+    },
+    {
+      "title": "Fear of super intelligent AI is driving Harvard and MIT students to drop out - Forbes Australia",
+      "pubDate": "Wed, 06 Aug 2025 22:49:47 GMT"
     }
   ],
   "American Civil Liberties Union": [
@@ -2138,10 +2134,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "How climate change made Texas flooding more violent - CNN",
-      "pubDate": "Fri, 11 Jul 2025 13:38:37 GMT"
-    },
     {
       "title": "As Climate Change Heats Up Europe\u2019s Summers, Avignon Festival Tries to Adapt - The New York Times",
       "pubDate": "Fri, 11 Jul 2025 13:07:16 GMT"
@@ -2297,6 +2289,10 @@
     {
       "title": "One dead, 13 injured in France wildfire spanning area greater than Paris - The Washington Post",
       "pubDate": "Thu, 07 Aug 2025 02:55:22 GMT"
+    },
+    {
+      "title": "July was Earth's third-hottest on record, included a record for Turkey, EU scientists say - Reuters",
+      "pubDate": "Thu, 07 Aug 2025 02:20:00 GMT"
     }
   ],
   "Algorithms": [
