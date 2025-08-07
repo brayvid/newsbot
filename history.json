@@ -177,6 +177,10 @@
     {
       "title": "Texas Governor threatens Democrats with arrest after politicians flee to block redistricting vote - Sky News",
       "pubDate": "Tue, 05 Aug 2025 15:34:42 GMT"
+    },
+    {
+      "title": "Trump orders new census excluding undocumented immigrants amid redistricting battles - ABC News",
+      "pubDate": "Thu, 07 Aug 2025 13:11:12 GMT"
     }
   ],
   "Iran": [
@@ -425,6 +429,10 @@
     {
       "title": "Russia\u2019s Colossal Earthquake May Have Ignited Multiple Volcanoes - Gizmodo",
       "pubDate": "Wed, 06 Aug 2025 15:55:09 GMT"
+    },
+    {
+      "title": "US soldier arrested for allegedly leaking tank secrets to Russia - BBC",
+      "pubDate": "Thu, 07 Aug 2025 15:20:19 GMT"
     }
   ],
   "Donald Trump": [
@@ -708,10 +716,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Researchers Uncover Alarming AI Hack: ChatGPT And Gemini Can Be Fooled With Gibberish Prompts To Reveal Banned Content, Bypass Filters, And Break Safety Rules - Wccftech",
-      "pubDate": "Tue, 08 Jul 2025 19:31:00 GMT"
-    },
     {
       "title": "California lawmaker behind SB 1047 reignites push for mandated AI safety reports - TechCrunch",
       "pubDate": "Wed, 09 Jul 2025 20:54:30 GMT"
@@ -1104,10 +1108,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Hundreds of small earthquakes detected under Mt. Rainier, scientists say no cause for alarm - KPTV",
-      "pubDate": "Tue, 08 Jul 2025 19:11:00 GMT"
-    },
     {
       "title": "Hundreds Of Earthquakes Detected At Mount Rainier In US, Officials Assess Potential Risks - NDTV",
       "pubDate": "Thu, 10 Jul 2025 18:55:04 GMT"
@@ -1755,10 +1755,6 @@
   ],
   "Alexandria Ocasio-Cortez": [
     {
-      "title": "Trump threatens federal takeover of NYC if \u2018communist\u2019 Zohran Mamdani wins mayoral race - New York Post",
-      "pubDate": "Tue, 08 Jul 2025 18:35:00 GMT"
-    },
-    {
       "title": "GOP blasts \u2018fearmongering\u2019 Ocasio-Cortez for mocking Stefanik at North Country stop: \u2018AOC is beyond parody\u2019 - New York Post",
       "pubDate": "Sun, 20 Jul 2025 22:59:00 GMT"
     },
@@ -1798,10 +1794,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israeli airstrikes continue in Gaza amid ceasefire talks with Hamas - CBS News",
-      "pubDate": "Thu, 17 Jul 2025 14:56:00 GMT"
-    },
     {
       "title": "Israeli strikes kill 27 in Gaza, three die in church late pope often spoke to - Reuters",
       "pubDate": "Thu, 17 Jul 2025 16:47:41 GMT"
@@ -1957,13 +1949,13 @@
     {
       "title": "Gaza: Israeli School Strikes Magnify Civilian Peril - Human Rights Watch",
       "pubDate": "Thu, 07 Aug 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Israel\u2019s Settler Right Is Preparing to Annex Gaza - The Atlantic",
+      "pubDate": "Thu, 07 Aug 2025 11:00:00 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "Trump Media files for \u2018Crypto Blue Chip ETF\u2019 with SEC - AP News",
-      "pubDate": "Tue, 08 Jul 2025 16:16:00 GMT"
-    },
     {
       "title": "Millions in savers\u2019 cash goes missing after crypto company collapses - The Telegraph",
       "pubDate": "Sun, 13 Jul 2025 05:30:00 GMT"
@@ -2018,10 +2010,6 @@
     }
   ],
   "Science": [
-    {
-      "title": "Scientists are holding a 'science fair' in the lobby of a congressional building to show what the U.S. stands to lose with cuts - Fast Company",
-      "pubDate": "Tue, 08 Jul 2025 19:04:53 GMT"
-    },
     {
       "title": "Scientists just recreated the Universe\u2019s first molecule and solved a 13-billion-year-old puzzle - ScienceDaily",
       "pubDate": "Sun, 03 Aug 2025 13:51:04 GMT"
@@ -2116,10 +2104,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "The State Department fires remaining employees who worked on climate change - The Washington Post",
-      "pubDate": "Sat, 12 Jul 2025 02:42:43 GMT"
-    },
     {
       "title": "Heat cuts milk output by 10% even on top Israeli dairy farms - The Jerusalem Post",
       "pubDate": "Sun, 13 Jul 2025 01:27:24 GMT"
@@ -2275,6 +2259,10 @@
     {
       "title": "Energy chief suggests Trump administration is altering previously published climate reports - CNN",
       "pubDate": "Thu, 07 Aug 2025 14:08:00 GMT"
+    },
+    {
+      "title": "Climate change brings more rapidly intensifying hurricanes; NOAA cuts makes forecasting them harder - Yale Climate Connections",
+      "pubDate": "Thu, 07 Aug 2025 11:00:00 GMT"
     }
   ],
   "Algorithms": [
