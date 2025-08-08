@@ -143,6 +143,10 @@
     {
       "title": "Artificial intelligence can recognize metallic glasses in vast compositional space with sparse data - Nature",
       "pubDate": "Tue, 05 Aug 2025 18:00:30 GMT"
+    },
+    {
+      "title": "OpenAI launches GPT-5, a potential barometer for whether AI hype is justified - AP News",
+      "pubDate": "Thu, 07 Aug 2025 21:03:00 GMT"
     }
   ],
   "US Politics": [
@@ -216,10 +220,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia launches largest drone attack on Ukraine as Kyiv pushes US for air defense aid - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Wed, 09 Jul 2025 08:30:33 GMT"
-    },
     {
       "title": "Russia launches record drone attack on Ukraine, hours after Trump criticizes Putin - CNN",
       "pubDate": "Wed, 09 Jul 2025 15:33:00 GMT"
@@ -713,6 +713,10 @@
     {
       "title": "Trump demands Intel CEO Lip-Bu Tan resign over China ties - Axios",
       "pubDate": "Thu, 07 Aug 2025 11:57:43 GMT"
+    },
+    {
+      "title": "Simulated Chinese blockade of Taiwan reveals Singapore as lifeline - Reuters",
+      "pubDate": "Fri, 08 Aug 2025 02:38:00 GMT"
     }
   ],
   "AI Safety": [
@@ -977,6 +981,10 @@
     {
       "title": "Trump's broad tariffs go into effect, just as economic pain is surfacing - NPR",
       "pubDate": "Thu, 07 Aug 2025 05:01:39 GMT"
+    },
+    {
+      "title": "US targets one-kilo gold bars with new import tariffs: Report - India Today",
+      "pubDate": "Thu, 07 Aug 2025 21:08:45 GMT"
     }
   ],
   "Trade War": [
@@ -1799,10 +1807,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israeli strikes kill 27 in Gaza, three die in church late pope often spoke to - Reuters",
-      "pubDate": "Thu, 17 Jul 2025 16:47:41 GMT"
-    },
-    {
       "title": "Israel strikes the Gaza church the pope used to call nightly, killing 3 - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 03:38:28 GMT"
     },
@@ -1957,6 +1961,10 @@
     {
       "title": "Israel\u2019s Settler Right Is Preparing to Annex Gaza - The Atlantic",
       "pubDate": "Thu, 07 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Israel's security cabinet approves Gaza City takeover as Starmer calls plan 'wrong' - live updates - BBC",
+      "pubDate": "Fri, 08 Aug 2025 08:00:54 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2011,6 +2019,10 @@
     {
       "title": "Trump to allow cryptocurrency, private equity in 401(k)s - Quartz",
       "pubDate": "Thu, 07 Aug 2025 14:52:52 GMT"
+    },
+    {
+      "title": "Trump signs order to allow crypto and real estate investments in retirement plans - The Guardian",
+      "pubDate": "Thu, 07 Aug 2025 22:15:00 GMT"
     }
   ],
   "Science": [
@@ -2108,10 +2120,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Heat cuts milk output by 10% even on top Israeli dairy farms - The Jerusalem Post",
-      "pubDate": "Sun, 13 Jul 2025 01:27:24 GMT"
-    },
     {
       "title": "Scientists transplant crossbred corals to help save Miami's reefs from climate change - Pittsburgh Post-Gazette",
       "pubDate": "Sun, 13 Jul 2025 08:00:00 GMT"
@@ -2267,6 +2275,10 @@
     {
       "title": "Climate change brings more rapidly intensifying hurricanes; NOAA cuts makes forecasting them harder - Yale Climate Connections",
       "pubDate": "Thu, 07 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "The start of California's fire season has moved up 6 weeks since 1990 thanks to climate change - Los Angeles Times",
+      "pubDate": "Fri, 08 Aug 2025 02:08:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2681,6 +2693,12 @@
     {
       "title": "New US tariffs cloud outlook for exporters in Asia and beyond - ABC News",
       "pubDate": "Thu, 07 Aug 2025 05:59:58 GMT"
+    }
+  ],
+  "Drones": [
+    {
+      "title": "Russia Has An Arsenal Of New AI Drones Built With Smuggled U.S. Chips - Forbes",
+      "pubDate": "Fri, 08 Aug 2025 08:09:12 GMT"
     }
   ]
 }
