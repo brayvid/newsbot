@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Nvidia Hits $4 Trillion Valuation Milestone on AI Demand - Bloomberg.com",
-      "pubDate": "Thu, 10 Jul 2025 08:27:26 GMT"
-    },
-    {
       "title": "Goldman Sachs is piloting its first autonomous coder in major AI milestone for Wall Street - CNBC",
       "pubDate": "Fri, 11 Jul 2025 09:30:01 GMT"
     },
@@ -217,10 +213,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia hits Kyiv with more missiles and drones, causing fires and injuring at least 10 - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Thu, 10 Jul 2025 06:11:08 GMT"
-    },
-    {
       "title": "Trump Announces \u2018Deal\u2019 to Arm Ukraine via NATO - Time Magazine",
       "pubDate": "Fri, 11 Jul 2025 09:08:50 GMT"
     },
@@ -367,6 +359,10 @@
     {
       "title": "US-Russia Peace Deal Proposed, Huge Win for Putin: Report - Newsweek",
       "pubDate": "Fri, 08 Aug 2025 15:52:42 GMT"
+    },
+    {
+      "title": "Trump and Putin to meet in Alaska next week to discuss Ukraine war - Al Jazeera",
+      "pubDate": "Sat, 09 Aug 2025 06:30:35 GMT"
     }
   ],
   "Russia": [
@@ -923,6 +919,10 @@
     {
       "title": "CISA, Microsoft warn about new Microsoft Exchange server vulnerability - Cybersecurity Dive",
       "pubDate": "Thu, 07 Aug 2025 01:16:10 GMT"
+    },
+    {
+      "title": "DARPA unveils winners of AI challenge to boost critical infrastructure cybersecurity - Nextgov/FCW",
+      "pubDate": "Fri, 08 Aug 2025 21:02:00 GMT"
     }
   ],
   "US Economy": [
@@ -960,10 +960,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "Trump tariffs goods from Brazil at 50%, citing 'witch hunt' trial against country's former president - AP News",
-      "pubDate": "Thu, 10 Jul 2025 04:36:00 GMT"
-    },
     {
       "title": "Trump announces 35% tariffs on Canada starting Aug. 1, warns of higher levies if Ottawa retaliates - CNBC",
       "pubDate": "Fri, 11 Jul 2025 00:32:00 GMT"
@@ -1371,10 +1367,6 @@
   ],
   "Climate": [
     {
-      "title": "Tibetan glacial lake drainage triggered deadly flood in Nepal, climate body says - Reuters",
-      "pubDate": "Thu, 10 Jul 2025 07:55:32 GMT"
-    },
-    {
       "title": "Turbulence is increasing. Here's how the aviation industry is trying to smooth things out - BBC",
       "pubDate": "Sun, 27 Jul 2025 09:01:27 GMT"
     }
@@ -1469,10 +1461,6 @@
   ],
   "North Korea": [
     {
-      "title": "North Korean defector to sue Kim Jong Un for abuse - BBC",
-      "pubDate": "Thu, 10 Jul 2025 05:11:30 GMT"
-    },
-    {
       "title": "North Korea sends 12M+ shells to Russia - Shafaq News - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
       "pubDate": "Sun, 13 Jul 2025 07:22:23 GMT"
     },
@@ -1503,6 +1491,10 @@
     {
       "title": "North Korea Rejects South Korean Overtures Amid New Leadership - AInvest",
       "pubDate": "Mon, 28 Jul 2025 01:20:04 GMT"
+    },
+    {
+      "title": "North Korea starts dismantling some border loudspeakers, South Korea says - Reuters",
+      "pubDate": "Sat, 09 Aug 2025 07:51:45 GMT"
     }
   ],
   "Tesla": [
@@ -1963,6 +1955,10 @@
     {
       "title": "Trump signs order to allow crypto and real estate investments in retirement plans - The Guardian",
       "pubDate": "Thu, 07 Aug 2025 22:15:00 GMT"
+    },
+    {
+      "title": "Ethereum Explodes to $4.2K, $200 Million Liquidated, Trump Rejoices - CryptoPotato",
+      "pubDate": "Sat, 09 Aug 2025 06:18:23 GMT"
     }
   ],
   "Science": [
@@ -1976,10 +1972,6 @@
     }
   ],
   "Apple": [
-    {
-      "title": "Meta Offered Apple AI Executive Over $200 Million to Leave - MacRumors",
-      "pubDate": "Thu, 10 Jul 2025 04:20:47 GMT"
-    },
     {
       "title": "With all eyes on Apple\u2019s next earnings report, one research firm calls on Tim Cook to step aside - Fortune",
       "pubDate": "Wed, 16 Jul 2025 14:37:00 GMT"
@@ -2048,10 +2040,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Scientists transplant crossbred corals to help save Miami's reefs from climate change - Pittsburgh Post-Gazette",
-      "pubDate": "Sun, 13 Jul 2025 08:00:00 GMT"
-    },
     {
       "title": "Why flash floods like those in Texas and New York are becoming more common - Axios",
       "pubDate": "Wed, 16 Jul 2025 18:40:25 GMT"
@@ -2207,6 +2195,10 @@
     {
       "title": "The start of California's fire season has moved up 6 weeks since 1990 thanks to climate change - Los Angeles Times",
       "pubDate": "Fri, 08 Aug 2025 02:08:00 GMT"
+    },
+    {
+      "title": "Oceans heating at record pace, threatening U.S. coasts and marine life - WLTX",
+      "pubDate": "Sat, 09 Aug 2025 03:25:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2369,6 +2361,10 @@
     {
       "title": "New Jersey reaches historic $2 billion environmental settlement with DuPont over 'forever chemicals' - ABC News",
       "pubDate": "Wed, 06 Aug 2025 00:01:36 GMT"
+    },
+    {
+      "title": "Brazil\u2019s President Lula vetoes parts of environmental \u2018devastation bill\u2019 - Al Jazeera",
+      "pubDate": "Sat, 09 Aug 2025 05:03:57 GMT"
     }
   ],
   "Animals": [
