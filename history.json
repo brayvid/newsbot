@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Goldman Sachs is piloting its first autonomous coder in major AI milestone for Wall Street - CNBC",
-      "pubDate": "Fri, 11 Jul 2025 09:30:01 GMT"
-    },
-    {
       "title": "OpenAI Delays Open-Source Model Release Indefinitely for Safety Testing - AInvest",
       "pubDate": "Sat, 12 Jul 2025 12:44:15 GMT"
     },
@@ -139,6 +135,10 @@
     {
       "title": "OpenAI launches GPT-5, a potential barometer for whether AI hype is justified - AP News",
       "pubDate": "Thu, 07 Aug 2025 21:03:00 GMT"
+    },
+    {
+      "title": "AI is creating new billionaires at a record pace - CNBC",
+      "pubDate": "Sun, 10 Aug 2025 12:00:01 GMT"
     }
   ],
   "US Politics": [
@@ -216,10 +216,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Trump Announces \u2018Deal\u2019 to Arm Ukraine via NATO - Time Magazine",
-      "pubDate": "Fri, 11 Jul 2025 09:08:50 GMT"
-    },
     {
       "title": "Russia's drones and missile barrage targets Ukraine's west, kills two - Reuters",
       "pubDate": "Sat, 12 Jul 2025 07:22:52 GMT"
@@ -374,10 +370,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia Makes 'Unprecedented' Censorship Admission - Newsweek",
-      "pubDate": "Fri, 11 Jul 2025 07:44:47 GMT"
-    },
     {
       "title": "Trump threatens 'very severe' tariffs against Russia if no Ukraine deal within 50 days - BBC",
       "pubDate": "Mon, 14 Jul 2025 15:50:17 GMT"
@@ -539,6 +531,10 @@
     {
       "title": "Trump tariffs live updates: US-China deadline, looming court ruling on Trump's authority in focus - Yahoo Finance",
       "pubDate": "Sat, 09 Aug 2025 16:49:08 GMT"
+    },
+    {
+      "title": "Trump promised to be a dictator on day one. We\u2019re now past day 200 - The Guardian",
+      "pubDate": "Sun, 10 Aug 2025 10:01:00 GMT"
     }
   ],
   "National Security": [
@@ -705,6 +701,10 @@
     {
       "title": "Simulated Chinese blockade of Taiwan reveals Singapore as lifeline - Reuters",
       "pubDate": "Fri, 08 Aug 2025 02:38:00 GMT"
+    },
+    {
+      "title": "Chinese diplomat Liu Jianchao taken in for questioning, WSJ reports - CNBC",
+      "pubDate": "Sun, 10 Aug 2025 05:16:47 GMT"
     }
   ],
   "AI Safety": [
@@ -815,6 +815,10 @@
     {
       "title": "GPT-5 Jailbroken in 24 Hours, Exposing AI Security Risks - WebProNews",
       "pubDate": "Sun, 10 Aug 2025 02:08:00 GMT"
+    },
+    {
+      "title": "Concerns grow as AI-generated videos spread hate, racism online: \u2018No safety rules\u2019 - Global News",
+      "pubDate": "Sun, 10 Aug 2025 15:38:49 GMT"
     }
   ],
   "Data Breach": [
@@ -876,10 +880,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "CISA orders agencies to immediately patch Citrix Bleed 2, saying bug poses \u2018unacceptable risk\u2019 - The Record from Recorded Future News",
-      "pubDate": "Fri, 11 Jul 2025 15:01:20 GMT"
-    },
     {
       "title": "AI-driven European cybersecurity project puts patient safety first - Healthcare IT News",
       "pubDate": "Fri, 11 Jul 2025 19:37:00 GMT"
@@ -980,10 +980,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "Trump threatens 35% tariffs on Canadian goods - BBC",
-      "pubDate": "Fri, 11 Jul 2025 04:36:27 GMT"
-    },
     {
       "title": "Trump intensifies trade war with 30% tariffs on EU and Mexico - Reuters",
       "pubDate": "Sat, 12 Jul 2025 14:16:36 GMT"
@@ -1218,10 +1214,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin flies to new all-time highs, briefly topping $118,000 as institutions pile into ETFs - CNBC",
-      "pubDate": "Fri, 11 Jul 2025 11:16:29 GMT"
-    },
     {
       "title": "Bitcoin Breaks Records With 100% Profitable Days And Unmatched Returns - Bitcoin Magazine",
       "pubDate": "Fri, 11 Jul 2025 19:26:02 GMT"
@@ -1657,17 +1649,7 @@
       "pubDate": "Thu, 07 Aug 2025 18:06:27 GMT"
     }
   ],
-  "Ancient History": [
-    {
-      "title": "Ancient Moon Rock Reveals Missing Chapter in Lunar History - Universe Today",
-      "pubDate": "Fri, 11 Jul 2025 06:56:00 GMT"
-    }
-  ],
   "OpenAI": [
-    {
-      "title": "OpenAI Faces IRS Complaint Over Alleged Tax Violations - Cointelegraph",
-      "pubDate": "Fri, 11 Jul 2025 05:49:29 GMT"
-    },
     {
       "title": "OpenAI just won gold at the world's most prestigious math competition. Here's why that's a big deal. - Business Insider",
       "pubDate": "Sat, 19 Jul 2025 22:25:00 GMT"
@@ -1762,10 +1744,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel kills 35 in Gaza attacks, using \u2018drone missiles packed with nails\u2019 - Al Jazeera",
-      "pubDate": "Fri, 18 Jul 2025 11:51:33 GMT"
-    },
     {
       "title": "Hamas says Israel rejected ceasefire deal releasing all captives in Gaza - Al Jazeera",
       "pubDate": "Fri, 18 Jul 2025 18:37:05 GMT"
@@ -1921,6 +1899,10 @@
     {
       "title": "Israel faces growing global condemnation over military expansion in Gaza - Politico",
       "pubDate": "Sat, 09 Aug 2025 16:38:27 GMT"
+    },
+    {
+      "title": "Netanyahu claims his Gaza City takeover plan is fastest way to end war \u2013 latest updates - The Guardian",
+      "pubDate": "Sun, 10 Aug 2025 08:18:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2011,10 +1993,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "Microsoft and OpenAI's AGI Fight Is Bigger Than a Contract - WIRED",
-      "pubDate": "Fri, 11 Jul 2025 12:11:00 GMT"
-    },
-    {
       "title": "Concerns That AGI And AI Superintelligence Might Be Dangerously Deeply Loyal To Their AI Maker - Forbes",
       "pubDate": "Tue, 15 Jul 2025 07:15:00 GMT"
     },
@@ -2033,10 +2011,6 @@
   ],
   "American Civil Liberties Union": [
     {
-      "title": "Federal judge hears arguments in ACLU lawsuit over ICE tactics in Los Angeles - CBS News",
-      "pubDate": "Fri, 11 Jul 2025 12:50:11 GMT"
-    },
-    {
       "title": "US appeals court keeps ban on LA immigration arrests - Yahoo Home",
       "pubDate": "Sat, 02 Aug 2025 09:48:02 GMT"
     }
@@ -2045,12 +2019,6 @@
     {
       "title": "SpaceX Unveils New Version of Mars-Bound Starship - Newsweek",
       "pubDate": "Tue, 29 Jul 2025 09:49:56 GMT"
-    }
-  ],
-  "War and Unrest": [
-    {
-      "title": "Russia blasts Kyiv with another missile and drone barrage, killing at least 2 - AP News",
-      "pubDate": "Fri, 11 Jul 2025 12:22:00 GMT"
     }
   ],
   "Climate Change": [
@@ -2216,10 +2184,6 @@
     }
   ],
   "Algorithms": [
-    {
-      "title": "France launches criminal investigation into Musk\u2019s X over algorithm manipulation - politico.eu",
-      "pubDate": "Fri, 11 Jul 2025 15:07:00 GMT"
-    },
     {
       "title": "France is investigating X over algorithm enabling \u2018foreign interference\u2019 - Semafor",
       "pubDate": "Fri, 11 Jul 2025 16:01:00 GMT"
