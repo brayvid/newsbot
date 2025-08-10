@@ -139,6 +139,10 @@
     {
       "title": "AI is creating new billionaires at a record pace - CNBC",
       "pubDate": "Sun, 10 Aug 2025 12:00:01 GMT"
+    },
+    {
+      "title": "Investors Flee Companies Seen as Most at Risk From Artificial Intelligence - Benzinga",
+      "pubDate": "Sun, 10 Aug 2025 15:16:24 GMT"
     }
   ],
   "US Politics": [
@@ -535,6 +539,10 @@
     {
       "title": "Trump promised to be a dictator on day one. We\u2019re now past day 200 - The Guardian",
       "pubDate": "Sun, 10 Aug 2025 10:01:00 GMT"
+    },
+    {
+      "title": "Trump warns homeless to leave Washington, D.C., \u2018immediately\u2019 - CNBC",
+      "pubDate": "Sun, 10 Aug 2025 16:24:33 GMT"
     }
   ],
   "National Security": [
@@ -579,6 +587,10 @@
     {
       "title": "Germany Slips Back Into Recession As DAX Defies The Trend - Finimize",
       "pubDate": "Wed, 30 Jul 2025 17:31:35 GMT"
+    },
+    {
+      "title": "This unprecedented shift in unemployment suggests AI could strand white-collar knowledge workers in a jobless recovery after the next recession - Fortune",
+      "pubDate": "Sun, 10 Aug 2025 20:36:00 GMT"
     }
   ],
   "China": [
@@ -708,10 +720,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "EU's Model Documentation Form makes AI providers explain their models like it's tax season - the-decoder.com",
-      "pubDate": "Fri, 11 Jul 2025 16:46:56 GMT"
-    },
     {
       "title": "OpenAI delays open model release, no timeline announced - Tech in Asia",
       "pubDate": "Sat, 12 Jul 2025 02:30:00 GMT"
@@ -881,10 +889,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "AI-driven European cybersecurity project puts patient safety first - Healthcare IT News",
-      "pubDate": "Fri, 11 Jul 2025 19:37:00 GMT"
-    },
-    {
       "title": "Microsoft Server Software Comes Under Widespread Cyberattack (MSFT) - Bloomberg",
       "pubDate": "Mon, 21 Jul 2025 03:06:00 GMT"
     },
@@ -943,6 +947,10 @@
     {
       "title": "Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems - The Hacker News",
       "pubDate": "Sat, 09 Aug 2025 15:06:00 GMT"
+    },
+    {
+      "title": "AI agents are being drafted into the cyber defense forces of corporations - CNBC",
+      "pubDate": "Sun, 10 Aug 2025 13:00:01 GMT"
     }
   ],
   "US Economy": [
@@ -1067,6 +1075,10 @@
     {
       "title": "Active Atlantic: Tracking Tropical Storm Dexter and two other tropical hot spots this week. - WXII",
       "pubDate": "Thu, 07 Aug 2025 20:46:00 GMT"
+    },
+    {
+      "title": "Hurricane forecasters eye 'significant tropical threat' in the Atlantic: What to know - USA Today",
+      "pubDate": "Sun, 10 Aug 2025 15:37:13 GMT"
     }
   ],
   "Astronomy": [
@@ -1187,6 +1199,10 @@
     {
       "title": "Magnitude 4.0 - 8 miles E of Ninilchik - Alaska Earthquake Center",
       "pubDate": "Thu, 07 Aug 2025 23:45:24 GMT"
+    },
+    {
+      "title": "Magnitude 6.1 earthquake in Turkey causes about a dozen buildings to collapse - PBS",
+      "pubDate": "Sun, 10 Aug 2025 20:14:45 GMT"
     }
   ],
   "Democratic Party": [
@@ -1214,10 +1230,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin Breaks Records With 100% Profitable Days And Unmatched Returns - Bitcoin Magazine",
-      "pubDate": "Fri, 11 Jul 2025 19:26:02 GMT"
-    },
     {
       "title": "Bitcoin jumps to all-time high due to demand from - GlobeNewswire",
       "pubDate": "Sun, 13 Jul 2025 07:19:16 GMT"
@@ -1595,10 +1607,6 @@
   ],
   "Alternative Energy": [
     {
-      "title": "Solar power might be our best chance at avoiding climate calamity - marketplace.org",
-      "pubDate": "Fri, 11 Jul 2025 20:30:00 GMT"
-    },
-    {
       "title": "California reaches new record clean energy milestone - The Mercury News",
       "pubDate": "Tue, 15 Jul 2025 05:10:39 GMT"
     },
@@ -1744,10 +1752,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Hamas says Israel rejected ceasefire deal releasing all captives in Gaza - Al Jazeera",
-      "pubDate": "Fri, 18 Jul 2025 18:37:05 GMT"
-    },
     {
       "title": "Israel Orders Civilians Out Of Central Gaza Ahead Of New Campaign - NDTV",
       "pubDate": "Sun, 20 Jul 2025 08:58:50 GMT"
@@ -1903,6 +1907,10 @@
     {
       "title": "Netanyahu claims his Gaza City takeover plan is fastest way to end war \u2013 latest updates - The Guardian",
       "pubDate": "Sun, 10 Aug 2025 08:18:00 GMT"
+    },
+    {
+      "title": "Netanyahu Doubles Down on Gaza Offensive After Global Backlash - The New York Times",
+      "pubDate": "Sun, 10 Aug 2025 18:38:20 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2184,10 +2192,6 @@
     }
   ],
   "Algorithms": [
-    {
-      "title": "France is investigating X over algorithm enabling \u2018foreign interference\u2019 - Semafor",
-      "pubDate": "Fri, 11 Jul 2025 16:01:00 GMT"
-    },
     {
       "title": "Elon Musk's X Under Criminal Probe In France For Alleged Algorithm Manipulation And Hate Speech - Benzinga",
       "pubDate": "Mon, 14 Jul 2025 07:22:16 GMT"
