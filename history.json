@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI Delays Open-Source Model Release Indefinitely for Safety Testing - AInvest",
-      "pubDate": "Sat, 12 Jul 2025 12:44:15 GMT"
-    },
-    {
       "title": "Elon Musk's artificial intelligence system, GROK, issues apology following antisemitic posts - FOX13 Memphis",
       "pubDate": "Sat, 12 Jul 2025 23:45:00 GMT"
     },
@@ -221,14 +217,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia launches hundreds of drones and cruise missiles into Ukraine, killing at least 6 - CBS News",
-      "pubDate": "Sat, 12 Jul 2025 13:45:39 GMT"
-    },
-    {
-      "title": "Russia launches hundreds of drones in mass aerial attack, Zelensky says - The Jerusalem Post",
-      "pubDate": "Sat, 12 Jul 2025 12:08:26 GMT"
-    },
-    {
       "title": "A Never-Ending Supply of Drones Has Frozen the Front Lines in Ukraine - The Wall Street Journal",
       "pubDate": "Sun, 13 Jul 2025 04:04:00 GMT"
     },
@@ -367,6 +355,10 @@
     {
       "title": "Live updates: Zelensky says Ukraine will \u2018not give up land,\u2019 ahead of Trump-Putin summit in Alaska - CNN",
       "pubDate": "Sat, 09 Aug 2025 15:11:00 GMT"
+    },
+    {
+      "title": "Ukrainian drone strikes hit defence industry facilities across Russia - Euronews.com",
+      "pubDate": "Mon, 11 Aug 2025 09:15:43 GMT"
     }
   ],
   "Russia": [
@@ -420,10 +412,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump authorizes Ice agents to protect themselves using \u2018whatever means\u2019 necessary - The Guardian",
-      "pubDate": "Sat, 12 Jul 2025 14:28:00 GMT"
-    },
     {
       "title": "Secret Service\u2019s \u2018cascade of failures\u2019 allowed Trump assassination attempt, report says - The Guardian",
       "pubDate": "Sun, 13 Jul 2025 20:16:00 GMT"
@@ -539,6 +527,10 @@
     {
       "title": "Trump sends 120 FBI agents to DC amid crime crackdown threat: Report - MSN",
       "pubDate": "Sun, 10 Aug 2025 22:52:05 GMT"
+    },
+    {
+      "title": "Trump federalizes DC police, deploys National Guard - NBC4 Washington",
+      "pubDate": "Mon, 11 Aug 2025 12:39:19 GMT"
     }
   ],
   "National Security": [
@@ -725,6 +717,10 @@
     {
       "title": "China bans Spanish poultry imports due to bird flu - Reuters",
       "pubDate": "Mon, 11 Aug 2025 08:22:25 GMT"
+    },
+    {
+      "title": "What Trump's Nvidia and AMD China deal means for the world - CNBC",
+      "pubDate": "Mon, 11 Aug 2025 12:27:06 GMT"
     }
   ],
   "AI Safety": [
@@ -997,14 +993,6 @@
   ],
   "Trade War": [
     {
-      "title": "Trump intensifies trade war with 30% tariffs on EU and Mexico - Reuters",
-      "pubDate": "Sat, 12 Jul 2025 14:16:36 GMT"
-    },
-    {
-      "title": "Trump announces 30% tariffs on European Union and Mexico - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Sat, 12 Jul 2025 14:48:45 GMT"
-    },
-    {
       "title": "Trump slaps 30% tariffs on all goods from EU and Mexico - Al Jazeera",
       "pubDate": "Sat, 12 Jul 2025 19:07:30 GMT"
     },
@@ -1064,10 +1052,6 @@
     }
   ],
   "Atlantic Ocean": [
-    {
-      "title": "Scientists Discover Arctic Lifeline for Atlantic Ocean Circulation - The Daily Galaxy",
-      "pubDate": "Sat, 12 Jul 2025 16:00:00 GMT"
-    },
     {
       "title": "Melting Arctic ice bolstering North Atlantic Ocean currents, for now - Phys.org",
       "pubDate": "Tue, 15 Jul 2025 10:40:02 GMT"
@@ -1403,6 +1387,10 @@
     {
       "title": "Scientists confirm direct link between ultra-processed foods and higher cancer rates - Earth.com",
       "pubDate": "Sat, 09 Aug 2025 14:38:41 GMT"
+    },
+    {
+      "title": "One-size-fits-all pancreatic cancer vaccine showed promise in early trial - NBC News",
+      "pubDate": "Mon, 11 Aug 2025 15:03:10 GMT"
     }
   ],
   "Climate": [
@@ -1781,10 +1769,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel Orders Civilians Out Of Central Gaza Ahead Of New Campaign - NDTV",
-      "pubDate": "Sun, 20 Jul 2025 08:58:50 GMT"
-    },
-    {
       "title": "79 Gazans killed waiting for food after Israeli troops open fire, medics say - The Washington Post",
       "pubDate": "Mon, 21 Jul 2025 03:51:50 GMT"
     },
@@ -1939,6 +1923,10 @@
     {
       "title": "Netanyahu Doubles Down on Gaza Offensive After Global Backlash - The New York Times",
       "pubDate": "Sun, 10 Aug 2025 18:38:20 GMT"
+    },
+    {
+      "title": "Israel steps up Gaza City bombing after Netanyahu vow to expand offensive - Reuters",
+      "pubDate": "Mon, 11 Aug 2025 12:27:48 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2043,6 +2031,10 @@
     {
       "title": "Fear of super intelligent AI is driving Harvard and MIT students to drop out - Forbes Australia",
       "pubDate": "Wed, 06 Aug 2025 22:49:47 GMT"
+    },
+    {
+      "title": "OpenAI's GPT-5 struggles with maps and math despite PhD-level promises - Quartz",
+      "pubDate": "Mon, 11 Aug 2025 14:39:00 GMT"
     }
   ],
   "American Civil Liberties Union": [
@@ -2245,10 +2237,6 @@
   ],
   "Battery Electric Vehicle": [
     {
-      "title": "Company unveils head-turning EV battery that can fully charge in under 20 seconds \u2014 here's how it could impact the future of cars - The Cool Down",
-      "pubDate": "Sat, 12 Jul 2025 11:00:00 GMT"
-    },
-    {
       "title": "Panasonic to delay production at Kansas battery plant as electric car sales decline, policies shift - KAKE",
       "pubDate": "Sat, 12 Jul 2025 21:51:05 GMT"
     },
@@ -2267,12 +2255,10 @@
     {
       "title": "CATL lithium mine halt signals Beijing\u2019s EV battery overcapacity concerns - South China Morning Post",
       "pubDate": "Mon, 11 Aug 2025 08:29:14 GMT"
-    }
-  ],
-  "Natural History": [
+    },
     {
-      "title": "Scientists discover a prehistoric animal that lived on Earth 259 million years ago - Earth.com",
-      "pubDate": "Sat, 12 Jul 2025 15:40:29 GMT"
+      "title": "Ford\u2019s Radical $5 Billion Plan Could Slash EV Prices in Half - autoblog.com",
+      "pubDate": "Mon, 11 Aug 2025 14:30:00 GMT"
     }
   ],
   "Machine Learning": [
