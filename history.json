@@ -147,10 +147,6 @@
   ],
   "US Politics": [
     {
-      "title": "AOC Calls Trump \u2018Rapist\u2019 in Brutal Epstein Files Crisis Dig - The Daily Beast",
-      "pubDate": "Sat, 12 Jul 2025 06:49:00 GMT"
-    },
-    {
       "title": "Senate Approves Trump\u2019s Bid to Cancel Foreign Aid and Funds for NPR and PBS Stations - The New York Times",
       "pubDate": "Thu, 17 Jul 2025 14:29:55 GMT"
     },
@@ -224,10 +220,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia's drones and missile barrage targets Ukraine's west, kills two - Reuters",
-      "pubDate": "Sat, 12 Jul 2025 07:22:52 GMT"
-    },
     {
       "title": "Russia launches hundreds of drones and cruise missiles into Ukraine, killing at least 6 - CBS News",
       "pubDate": "Sat, 12 Jul 2025 13:45:39 GMT"
@@ -729,6 +721,10 @@
     {
       "title": "Philippines Says China Ship Targeted Vessel With Water Cannon - Bloomberg.com",
       "pubDate": "Mon, 11 Aug 2025 03:15:00 GMT"
+    },
+    {
+      "title": "China bans Spanish poultry imports due to bird flu - Reuters",
+      "pubDate": "Mon, 11 Aug 2025 08:22:25 GMT"
     }
   ],
   "AI Safety": [
@@ -893,6 +889,10 @@
     {
       "title": "Google Confirms It Has Been Hacked \u2014 What User Data Has Been Stolen? - Forbes",
       "pubDate": "Sat, 09 Aug 2025 08:43:00 GMT"
+    },
+    {
+      "title": "University of Western Australia suffers major data breach, staff and students locked out - Australian Broadcasting Corporation",
+      "pubDate": "Mon, 11 Aug 2025 01:54:41 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1285,6 +1285,10 @@
     {
       "title": "Bitcoin nears $122,000, ether hits 2021 high following Trump's crypto 401k announcement - The Block",
       "pubDate": "Mon, 11 Aug 2025 03:26:34 GMT"
+    },
+    {
+      "title": "Bitcoin price today: surges to $122k, near record high on US regulatory cheer - Investing.com",
+      "pubDate": "Mon, 11 Aug 2025 05:32:07 GMT"
     }
   ],
   "BRICS": [
@@ -1769,6 +1773,10 @@
     {
       "title": "Trump Has the Upper Hand Going into His Meeting with Putin - Time Magazine",
       "pubDate": "Sat, 09 Aug 2025 10:31:45 GMT"
+    },
+    {
+      "title": "Israel PM Netanyahu thanks Trump for \u2018steadfast support\u2019 in Gaza offensive, says it'll be \u2018wider than announced\u2019 | World News - Hindustan Times - Hindustan Times",
+      "pubDate": "Mon, 11 Aug 2025 02:18:37 GMT"
     }
   ],
   "Gaza": [
@@ -2255,6 +2263,10 @@
     {
       "title": "Tesla Vs. BYD: Tesla Stock Near Buy Point With Earnings, Robotaxis In Focus; BYD Makes Bullish Move - Investor's Business Daily",
       "pubDate": "Tue, 22 Jul 2025 21:54:00 GMT"
+    },
+    {
+      "title": "CATL lithium mine halt signals Beijing\u2019s EV battery overcapacity concerns - South China Morning Post",
+      "pubDate": "Mon, 11 Aug 2025 08:29:14 GMT"
     }
   ],
   "Natural History": [
@@ -2629,6 +2641,10 @@
     {
       "title": "Russia Has An Arsenal Of New AI Drones Built With Smuggled U.S. Chips - Forbes",
       "pubDate": "Fri, 08 Aug 2025 08:09:12 GMT"
+    },
+    {
+      "title": "Russia Downs Seven Drones Targeting Capital, Moscow Mayor Says - U.S. News & World Report",
+      "pubDate": "Mon, 11 Aug 2025 07:28:00 GMT"
     }
   ]
 }
