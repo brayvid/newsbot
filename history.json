@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Elon Musk's artificial intelligence system, GROK, issues apology following antisemitic posts - FOX13 Memphis",
-      "pubDate": "Sat, 12 Jul 2025 23:45:00 GMT"
-    },
-    {
       "title": "Nvidia Just Became the World's First $4 Trillion Stock. This Artificial Intelligence (AI) Giant -- Which Is up 686,000% Since Its IPO -- Might Be Next. - Yahoo",
       "pubDate": "Mon, 14 Jul 2025 01:30:00 GMT"
     },
@@ -139,6 +135,10 @@
     {
       "title": "Investors Flee Companies Seen as Most at Risk From Artificial Intelligence - Benzinga",
       "pubDate": "Sun, 10 Aug 2025 15:16:24 GMT"
+    },
+    {
+      "title": "AI Learned to Be Evil Without Anyone Telling It To, Which Bodes Well - Popular Mechanics",
+      "pubDate": "Mon, 11 Aug 2025 19:30:00 GMT"
     }
   ],
   "US Politics": [
@@ -169,6 +169,10 @@
     {
       "title": "Trump orders new census excluding undocumented immigrants amid redistricting battles - ABC News",
       "pubDate": "Thu, 07 Aug 2025 13:11:12 GMT"
+    },
+    {
+      "title": "Trump-Appointed Judge Deals Legal Blow To The White House - Newsweek",
+      "pubDate": "Mon, 11 Aug 2025 23:50:50 GMT"
     }
   ],
   "Iran": [
@@ -178,10 +182,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israeli settlers beat U.S. citizen to death in West Bank - NPR",
-      "pubDate": "Sat, 12 Jul 2025 17:19:52 GMT"
-    },
     {
       "title": "Israel and Syria agree ceasefire as Israel allows Syrian troops limited access to Sweida - Reuters",
       "pubDate": "Fri, 18 Jul 2025 23:33:58 GMT"
@@ -725,10 +725,6 @@
   ],
   "AI Safety": [
     {
-      "title": "OpenAI Delays Launch of Open-Weight AI Model Citing Safety Concerns - thedailyjagran.com",
-      "pubDate": "Sat, 12 Jul 2025 17:22:00 GMT"
-    },
-    {
       "title": "Pentagon taps four commercial tech firms to expand military use of AI - Defense News",
       "pubDate": "Tue, 15 Jul 2025 15:20:28 GMT"
     },
@@ -992,14 +988,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "Trump slaps 30% tariffs on all goods from EU and Mexico - Al Jazeera",
-      "pubDate": "Sat, 12 Jul 2025 19:07:30 GMT"
-    },
-    {
-      "title": "Trump announces 30% tariffs against EU, Mexico to begin Aug. 1, rattling major US trading partners - AP News",
-      "pubDate": "Sat, 12 Jul 2025 21:13:00 GMT"
-    },
     {
       "title": "Trump announces trade agreement with Indonesia, including 19% tariff - CNN",
       "pubDate": "Tue, 15 Jul 2025 18:51:00 GMT"
@@ -1641,10 +1629,6 @@
   ],
   "Cosmology": [
     {
-      "title": "Scientists Say Earth May Be Trapped Inside a Huge, Strange Void - Futurism",
-      "pubDate": "Sat, 12 Jul 2025 16:45:03 GMT"
-    },
-    {
       "title": "The universe may start dying in just 10 billion years, alarming new model predicts - Live Science",
       "pubDate": "Mon, 04 Aug 2025 10:55:00 GMT"
     },
@@ -1989,6 +1973,10 @@
     {
       "title": "Ethereum Explodes to $4.2K, $200 Million Liquidated, Trump Rejoices - CryptoPotato",
       "pubDate": "Sat, 09 Aug 2025 06:18:23 GMT"
+    },
+    {
+      "title": "Ethereum surges past $4,000 as crypto market soars to all-time high over $4 trillion - Fortune",
+      "pubDate": "Mon, 11 Aug 2025 16:34:00 GMT"
     }
   ],
   "Science": [
@@ -2050,10 +2038,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "This is the summer of flooding across the US, and scientists know why - CNN",
-      "pubDate": "Sun, 20 Jul 2025 11:00:00 GMT"
-    },
     {
       "title": "Exploring the impact of nature connectedness on Chinese adolescents\u2019 climate change awareness and the mediating role of geographical synthetic thinking - Nature",
       "pubDate": "Sun, 20 Jul 2025 20:52:50 GMT"
@@ -2209,6 +2193,10 @@
     {
       "title": "Scientists identify a new mental disorder called 'solastalgia' linked to environmental distress - Earth.com",
       "pubDate": "Sat, 09 Aug 2025 19:10:58 GMT"
+    },
+    {
+      "title": "New global ruling says sovereign states are legally responsible for tackling climate change - Phys.org",
+      "pubDate": "Mon, 11 Aug 2025 19:29:13 GMT"
     }
   ],
   "Algorithms": [
@@ -2229,17 +2217,7 @@
       "pubDate": "Mon, 21 Jul 2025 11:52:22 GMT"
     }
   ],
-  "Department of Homeland Security": [
-    {
-      "title": "DHS Secretary Noem vows to ramp up deportations with funding boost from Trump\u2019s domestic policy law - CNN",
-      "pubDate": "Sat, 12 Jul 2025 20:22:00 GMT"
-    }
-  ],
   "Battery Electric Vehicle": [
-    {
-      "title": "Panasonic to delay production at Kansas battery plant as electric car sales decline, policies shift - KAKE",
-      "pubDate": "Sat, 12 Jul 2025 21:51:05 GMT"
-    },
     {
       "title": "China puts new restrictions on EV battery technology in latest move to consolidate dominance - CNN",
       "pubDate": "Thu, 17 Jul 2025 07:46:00 GMT"
@@ -2259,12 +2237,6 @@
     {
       "title": "Ford\u2019s Radical $5 Billion Plan Could Slash EV Prices in Half - autoblog.com",
       "pubDate": "Mon, 11 Aug 2025 14:30:00 GMT"
-    }
-  ],
-  "Machine Learning": [
-    {
-      "title": "A crack detection and quantification method using matched filter and photograph reconstruction - Nature",
-      "pubDate": "Sat, 12 Jul 2025 17:50:54 GMT"
     }
   ],
   "Earth": [
@@ -2631,6 +2603,10 @@
     {
       "title": "Russia Downs Seven Drones Targeting Capital, Moscow Mayor Says - U.S. News & World Report",
       "pubDate": "Mon, 11 Aug 2025 07:28:00 GMT"
+    },
+    {
+      "title": "Russia\u2019s Shahed-136 Drones Are Laying Anti-Tank Mines - The War Zone",
+      "pubDate": "Mon, 11 Aug 2025 23:41:51 GMT"
     }
   ]
 }
