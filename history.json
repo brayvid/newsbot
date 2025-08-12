@@ -173,6 +173,10 @@
     {
       "title": "Trump-Appointed Judge Deals Legal Blow To The White House - Newsweek",
       "pubDate": "Mon, 11 Aug 2025 23:50:50 GMT"
+    },
+    {
+      "title": "Trump-backed judge rules administration\u2019s withholding of funds illegal - Politico",
+      "pubDate": "Tue, 12 Aug 2025 00:58:49 GMT"
     }
   ],
   "Iran": [
@@ -216,10 +220,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "A Never-Ending Supply of Drones Has Frozen the Front Lines in Ukraine - The Wall Street Journal",
-      "pubDate": "Sun, 13 Jul 2025 04:04:00 GMT"
-    },
     {
       "title": "Trump sending weapons to Ukraine, threatens 'severe tariffs' against Russia if ceasefire deal not reached in 50 days - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Mon, 14 Jul 2025 13:38:31 GMT"
@@ -721,6 +721,10 @@
     {
       "title": "What Trump's Nvidia and AMD China deal means for the world - CNBC",
       "pubDate": "Mon, 11 Aug 2025 12:27:06 GMT"
+    },
+    {
+      "title": "China, Brazil can be models of \u2018self-reliance\u2019 for Global South, Xi says - Al Jazeera",
+      "pubDate": "Tue, 12 Aug 2025 07:30:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1215,10 +1219,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Bitcoin jumps to all-time high due to demand from - GlobeNewswire",
-      "pubDate": "Sun, 13 Jul 2025 07:19:16 GMT"
-    },
-    {
       "title": "Bitcoin Surges 100% to $119,376 as Institutional Interest Soars - AInvest",
       "pubDate": "Sun, 13 Jul 2025 15:00:18 GMT"
     },
@@ -1379,6 +1379,10 @@
     {
       "title": "One-size-fits-all pancreatic cancer vaccine showed promise in early trial - NBC News",
       "pubDate": "Mon, 11 Aug 2025 15:03:10 GMT"
+    },
+    {
+      "title": "Bayer to Pay $1.3 Billion for Kumquat Cancer Drug in Pharma Push - Bloomberg.com",
+      "pubDate": "Tue, 12 Aug 2025 07:28:11 GMT"
     }
   ],
   "Climate": [
@@ -1476,10 +1480,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea sends 12M+ shells to Russia - Shafaq News - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
-      "pubDate": "Sun, 13 Jul 2025 07:22:23 GMT"
-    },
     {
       "title": "North Korea sent Russia over 12 million artillery shells - Defence Blog",
       "pubDate": "Sun, 13 Jul 2025 09:21:59 GMT"
@@ -1753,10 +1753,6 @@
   ],
   "Gaza": [
     {
-      "title": "79 Gazans killed waiting for food after Israeli troops open fire, medics say - The Washington Post",
-      "pubDate": "Mon, 21 Jul 2025 03:51:50 GMT"
-    },
-    {
       "title": "Israel launches air and ground offensive on Deir al-Balah in central Gaza - The Guardian",
       "pubDate": "Mon, 21 Jul 2025 11:14:00 GMT"
     },
@@ -1911,13 +1907,13 @@
     {
       "title": "Israel steps up Gaza City bombing after Netanyahu vow to expand offensive - Reuters",
       "pubDate": "Mon, 11 Aug 2025 12:27:48 GMT"
+    },
+    {
+      "title": "Israeli strikes kill journalists and aid-seekers as Australia backs Palestinian statehood - AP News",
+      "pubDate": "Tue, 12 Aug 2025 01:36:00 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "Millions in savers\u2019 cash goes missing after crypto company collapses - The Telegraph",
-      "pubDate": "Sun, 13 Jul 2025 05:30:00 GMT"
-    },
     {
       "title": "House Passes Two Major Cryptocurrency Bills - AInvest",
       "pubDate": "Wed, 16 Jul 2025 17:33:29 GMT"
@@ -2001,6 +1997,10 @@
     {
       "title": "Apple\u2019s $275 Billion China Bet Is Now A Major Risk - Forbes",
       "pubDate": "Sat, 02 Aug 2025 16:53:28 GMT"
+    },
+    {
+      "title": "Musk threatens 'immediate' legal action against Apple over alleged antitrust violations - CNBC",
+      "pubDate": "Tue, 12 Aug 2025 01:39:00 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -2607,6 +2607,18 @@
     {
       "title": "Russia\u2019s Shahed-136 Drones Are Laying Anti-Tank Mines - The War Zone",
       "pubDate": "Mon, 11 Aug 2025 23:41:51 GMT"
+    }
+  ],
+  "Business": [
+    {
+      "title": "At least 2 dead in Pennsylvania US Steel plant explosion, dozens injured - Fox Business",
+      "pubDate": "Tue, 12 Aug 2025 01:26:31 GMT"
+    }
+  ],
+  "Physics": [
+    {
+      "title": "Room-Temperature Quantum Breakthrough Stuns Physicists - SciTechDaily",
+      "pubDate": "Tue, 12 Aug 2025 05:01:15 GMT"
     }
   ]
 }
