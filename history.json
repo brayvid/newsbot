@@ -417,10 +417,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Secret Service\u2019s \u2018cascade of failures\u2019 allowed Trump assassination attempt, report says - The Guardian",
-      "pubDate": "Sun, 13 Jul 2025 20:16:00 GMT"
-    },
-    {
       "title": "Trump threatens 100% secondary tariffs on Russia; Supreme Court allows mass layoffs at Education Department - NBC News",
       "pubDate": "Tue, 15 Jul 2025 01:58:00 GMT"
     },
@@ -729,6 +725,10 @@
     {
       "title": "China, Brazil can be models of \u2018self-reliance\u2019 for Global South, Xi says - Al Jazeera",
       "pubDate": "Tue, 12 Aug 2025 07:30:00 GMT"
+    },
+    {
+      "title": "Philippine coast guard video shows Chinese ships collide while chasing Philippine boat in disputed waters - CBS News",
+      "pubDate": "Tue, 12 Aug 2025 16:55:19 GMT"
     }
   ],
   "AI Safety": [
@@ -1071,6 +1071,10 @@
     {
       "title": "Hurricane forecasters eye 'significant tropical threat' in the Atlantic: What to know - USA Today",
       "pubDate": "Sun, 10 Aug 2025 15:37:13 GMT"
+    },
+    {
+      "title": "Tropical Storm Erin could become first hurricane in Atlantic Ocean this season - CBS News",
+      "pubDate": "Tue, 12 Aug 2025 17:38:35 GMT"
     }
   ],
   "Astronomy": [
@@ -1420,10 +1424,6 @@
     }
   ],
   "Health Care": [
-    {
-      "title": "Hospitals across nation brace for Medicaid cuts under \u2018big, beautiful\u2019 law - The Hill",
-      "pubDate": "Sun, 13 Jul 2025 18:00:00 GMT"
-    },
     {
       "title": "Federal health agency finalizes mass layoffs after Supreme Court lifts pause - USA Today",
       "pubDate": "Tue, 15 Jul 2025 22:10:26 GMT"
@@ -1961,6 +1961,10 @@
     {
       "title": "Ethereum surges past $4,000 as crypto market soars to all-time high over $4 trillion - Fortune",
       "pubDate": "Mon, 11 Aug 2025 16:34:00 GMT"
+    },
+    {
+      "title": "Do Kwon, Crypto Founder Who Caused 2022 Market Crash, Pleads Guilty to Fraud - The New York Times",
+      "pubDate": "Tue, 12 Aug 2025 18:02:30 GMT"
     }
   ],
   "Science": [
@@ -2015,6 +2019,10 @@
     {
       "title": "OpenAI's GPT-5 struggles with maps and math despite PhD-level promises - Quartz",
       "pubDate": "Mon, 11 Aug 2025 14:39:00 GMT"
+    },
+    {
+      "title": "Meta AI takes first step to superintelligence \u2014 and Zuckerberg will no longer release the most powerful systems to the public - Live Science",
+      "pubDate": "Tue, 12 Aug 2025 11:00:00 GMT"
     }
   ],
   "American Civil Liberties Union": [
@@ -2030,10 +2038,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Exploring the impact of nature connectedness on Chinese adolescents\u2019 climate change awareness and the mediating role of geographical synthetic thinking - Nature",
-      "pubDate": "Sun, 20 Jul 2025 20:52:50 GMT"
-    },
     {
       "title": "Climate crisis causing food price spikes around the world, scientists say - Al Jazeera",
       "pubDate": "Mon, 21 Jul 2025 05:28:42 GMT"
@@ -2189,6 +2193,10 @@
     {
       "title": "New global ruling says sovereign states are legally responsible for tackling climate change - Phys.org",
       "pubDate": "Mon, 11 Aug 2025 19:29:13 GMT"
+    },
+    {
+      "title": "US Dept. of Energy secretary assembled climate skeptics to shape report challenging science - ehn.org",
+      "pubDate": "Tue, 12 Aug 2025 11:34:22 GMT"
     }
   ],
   "Algorithms": [
@@ -2603,12 +2611,20 @@
     {
       "title": "Russia\u2019s Shahed-136 Drones Are Laying Anti-Tank Mines - The War Zone",
       "pubDate": "Mon, 11 Aug 2025 23:41:51 GMT"
+    },
+    {
+      "title": "Pentagon to Launch \u201cAmazon for Drones\u201d Inspired by Ukraine\u2019s Battlefield Tech Hub - UNITED24 Media",
+      "pubDate": "Tue, 12 Aug 2025 10:28:30 GMT"
     }
   ],
   "Business": [
     {
       "title": "At least 2 dead in Pennsylvania US Steel plant explosion, dozens injured - Fox Business",
       "pubDate": "Tue, 12 Aug 2025 01:26:31 GMT"
+    },
+    {
+      "title": "Kodak cautions there's 'substantial doubt' about its ability to stay in business - ABC News",
+      "pubDate": "Tue, 12 Aug 2025 14:33:41 GMT"
     }
   ],
   "Physics": [
