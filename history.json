@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Meta\u2019s New Superintelligence Lab Is Discussing Major A.I. Strategy Changes - The New York Times",
-      "pubDate": "Mon, 14 Jul 2025 18:28:20 GMT"
-    },
-    {
       "title": "Nvidia Says U.S. Has Lifted Restrictions on A.I. Chip Sales to China - The New York Times",
       "pubDate": "Tue, 15 Jul 2025 04:24:00 GMT"
     },
@@ -217,10 +213,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Trump sending weapons to Ukraine, threatens 'severe tariffs' against Russia if ceasefire deal not reached in 50 days - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Mon, 14 Jul 2025 13:38:31 GMT"
-    },
-    {
       "title": "Trump announces novel plan to send weapons to Ukraine and gives Russia new deadline to make peace - CNN",
       "pubDate": "Tue, 15 Jul 2025 08:27:00 GMT"
     },
@@ -366,10 +358,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Trump threatens 'very severe' tariffs against Russia if no Ukraine deal within 50 days - BBC",
-      "pubDate": "Mon, 14 Jul 2025 15:50:17 GMT"
-    },
     {
       "title": "Trump threatens \u2018very significant\u2019 Russia sanctions, bashes \u2018all talk\u2019 Putin - Politico",
       "pubDate": "Wed, 16 Jul 2025 00:50:00 GMT"
@@ -587,10 +575,6 @@
   ],
   "China": [
     {
-      "title": "China gives conditional nod to Synopsys-Ansys deal, removing last major hurdle - Reuters",
-      "pubDate": "Mon, 14 Jul 2025 13:38:39 GMT"
-    },
-    {
       "title": "China posts better-than-expected Q2 growth in face of Trump tariffs - CNN",
       "pubDate": "Tue, 15 Jul 2025 07:50:00 GMT"
     },
@@ -729,6 +713,10 @@
     {
       "title": "Philippine coast guard video shows Chinese ships collide while chasing Philippine boat in disputed waters - CBS News",
       "pubDate": "Tue, 12 Aug 2025 16:55:19 GMT"
+    },
+    {
+      "title": "China Sanctions Two EU Banks, Hitting Back at Europe\u2019s Moves - Bloomberg.com",
+      "pubDate": "Wed, 13 Aug 2025 12:01:39 GMT"
     }
   ],
   "AI Safety": [
@@ -1113,13 +1101,13 @@
     {
       "title": "Scientists have spotted the biggest explosions in the Universe since the Big Bang. - BBC Sky at Night Magazine",
       "pubDate": "Sun, 03 Aug 2025 05:19:15 GMT"
+    },
+    {
+      "title": "AI helps astronomers make a potentially major find \u2014 an exploding star being attacked by a black hole - Space",
+      "pubDate": "Wed, 13 Aug 2025 17:00:00 GMT"
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Magnitude 6.8 earthquake hits Indonesia\u2019s Tanimbar Islands region - The Independent",
-      "pubDate": "Mon, 14 Jul 2025 11:34:00 GMT"
-    },
     {
       "title": "7.3 magnitude earthquake stirs tsunami warning along parts of Alaska\u2019s southern coast - PBS",
       "pubDate": "Wed, 16 Jul 2025 21:58:36 GMT"
@@ -1211,6 +1199,10 @@
     {
       "title": "Powerful earthquake rocks Turkey, killing 1 and destroying multiple buildings - USA Today",
       "pubDate": "Sun, 10 Aug 2025 22:29:27 GMT"
+    },
+    {
+      "title": "Massive landslide in Alaska triggers damaging tsunami with 10-15 foot waves - FOX Weather",
+      "pubDate": "Wed, 13 Aug 2025 15:27:47 GMT"
     }
   ],
   "Democratic Party": [
@@ -1238,14 +1230,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin Price Soars Past $120,000 at Outset of House\u2019s \u2018Crypto Week\u2019 - The New York Times",
-      "pubDate": "Mon, 14 Jul 2025 13:44:24 GMT"
-    },
-    {
-      "title": "Bitcoin hits new record above $123,000 as 'Crypto Week' kicks off on Capitol Hill: CNBC Crypto World - CNBC",
-      "pubDate": "Mon, 14 Jul 2025 19:06:00 GMT"
-    },
     {
       "title": "Bitcoin Tops $120K on Report of Trump Approving Crypto Investments for Retirement Accounts - CoinDesk",
       "pubDate": "Thu, 17 Jul 2025 22:26:34 GMT"
@@ -1395,6 +1379,10 @@
     {
       "title": "Bayer to Pay $1.3 Billion for Kumquat Cancer Drug in Pharma Push - Bloomberg.com",
       "pubDate": "Tue, 12 Aug 2025 07:28:11 GMT"
+    },
+    {
+      "title": "New treatment eliminates bladder cancer in 82% of patients - Keck Medicine of USC",
+      "pubDate": "Wed, 13 Aug 2025 14:00:00 GMT"
     }
   ],
   "Climate": [
@@ -2031,6 +2019,10 @@
     {
       "title": "Meta AI takes first step to superintelligence \u2014 and Zuckerberg will no longer release the most powerful systems to the public - Live Science",
       "pubDate": "Tue, 12 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "OpenAI Rival Sentient Unveils Open-Source AGI Network, The GRID - Yahoo! Tech",
+      "pubDate": "Wed, 13 Aug 2025 13:00:00 GMT"
     }
   ],
   "American Civil Liberties Union": [
@@ -2245,19 +2237,11 @@
   ],
   "Defense Intelligence Agency": [
     {
-      "title": "Trump accuses Democrats of leaking intel assessment of Iran strikes: \u2018They should be prosecuted!\u2019 - AOL.com",
-      "pubDate": "Mon, 14 Jul 2025 14:55:46 GMT"
-    },
-    {
       "title": "Ukraine hackers infiltrate Russia's deadliest nuclear submarine inb intelligence coup - Daily Express US",
       "pubDate": "Wed, 06 Aug 2025 10:07:03 GMT"
     }
   ],
   "Battery Technology": [
-    {
-      "title": "GM to produce lower-cost battery cells at Tennessee plant - Reuters",
-      "pubDate": "Mon, 14 Jul 2025 15:05:17 GMT"
-    },
     {
       "title": "China Adds Export Controls to Protect EV Battery Technology - The Wall Street Journal",
       "pubDate": "Tue, 15 Jul 2025 14:37:00 GMT"
@@ -2273,10 +2257,6 @@
   ],
   "Electric Vehicle": [
     {
-      "title": "GM Presses Ahead With New Battery Investment as EV Market Slumps - Bloomberg.com",
-      "pubDate": "Mon, 14 Jul 2025 15:00:01 GMT"
-    },
-    {
       "title": "Life Atop China\u2019s Car Market Is Starting to Look Shaky for BYD - Bloomberg",
       "pubDate": "Mon, 21 Jul 2025 02:06:00 GMT"
     },
@@ -2287,13 +2267,13 @@
     {
       "title": "This week in EV tech: California dreaming - Digital Trends",
       "pubDate": "Sat, 26 Jul 2025 22:00:00 GMT"
+    },
+    {
+      "title": "Global EV sales up 21% year-on-year - Electric Cars Report",
+      "pubDate": "Wed, 13 Aug 2025 08:57:52 GMT"
     }
   ],
   "Hacking": [
-    {
-      "title": "Elmo\u2019s X account posts racist and antisemitic messages after being hacked - The Guardian",
-      "pubDate": "Mon, 14 Jul 2025 17:47:00 GMT"
-    },
     {
       "title": "The Kremlin's Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware - WIRED",
       "pubDate": "Thu, 31 Jul 2025 16:00:00 GMT"
@@ -2641,6 +2621,12 @@
     {
       "title": "India markets regulator proposes to add algo trading into stock broker regulations - Reuters",
       "pubDate": "Wed, 13 Aug 2025 08:20:10 GMT"
+    }
+  ],
+  "Net Zero Emissions": [
+    {
+      "title": "US Rejects IMO Net-Zero Emissions Plan, Warns Of Retaliation Against Supporters - Marine Insight",
+      "pubDate": "Wed, 13 Aug 2025 13:09:43 GMT"
     }
   ]
 }
