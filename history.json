@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Nvidia Just Became the World's First $4 Trillion Stock. This Artificial Intelligence (AI) Giant -- Which Is up 686,000% Since Its IPO -- Might Be Next. - Yahoo",
-      "pubDate": "Mon, 14 Jul 2025 01:30:00 GMT"
-    },
-    {
       "title": "Meta\u2019s New Superintelligence Lab Is Discussing Major A.I. Strategy Changes - The New York Times",
       "pubDate": "Mon, 14 Jul 2025 18:28:20 GMT"
     },
@@ -363,6 +359,10 @@
     {
       "title": "Russian Military Makes Surprise Push in Ukraine Ahead of Trump Talks - The Wall Street Journal",
       "pubDate": "Tue, 12 Aug 2025 11:26:00 GMT"
+    },
+    {
+      "title": "Russia seeks full Ukrainian withdrawal from Donetsk in east: Zelenskyy - Al Jazeera",
+      "pubDate": "Tue, 12 Aug 2025 18:20:17 GMT"
     }
   ],
   "Russia": [
@@ -997,6 +997,10 @@
     {
       "title": "US targets one-kilo gold bars with new import tariffs: Report - India Today",
       "pubDate": "Thu, 07 Aug 2025 21:08:45 GMT"
+    },
+    {
+      "title": "US national debt reaches a record $37 trillion, the Treasury Department reports - The Sun Chronicle",
+      "pubDate": "Tue, 12 Aug 2025 20:29:13 GMT"
     }
   ],
   "Trade War": [
@@ -1078,10 +1082,6 @@
     }
   ],
   "Astronomy": [
-    {
-      "title": "Scientists detect biggest ever merger of two massive black holes - The Guardian",
-      "pubDate": "Sun, 13 Jul 2025 23:01:00 GMT"
-    },
     {
       "title": "Astronomers detect most massive black hole collision to date - CNN",
       "pubDate": "Thu, 17 Jul 2025 15:00:00 GMT"
@@ -1321,6 +1321,10 @@
     {
       "title": "Trump Cancels Massive Idaho Wind Farm Amid Renewable Broadside - Bloomberg.com",
       "pubDate": "Wed, 06 Aug 2025 14:25:25 GMT"
+    },
+    {
+      "title": "Black metal could give a heavy boost to solar power generation - University of Rochester",
+      "pubDate": "Tue, 12 Aug 2025 18:30:27 GMT"
     }
   ],
   "Cancer": [
@@ -1472,10 +1476,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea\u2019s Kim Jong Un vows \u2018unconditional support\u2019 of Russia\u2019s war in Ukraine: \u2018Invincible fighting brotherhood\u2019 - New York Post",
-      "pubDate": "Sun, 13 Jul 2025 22:52:00 GMT"
-    },
     {
       "title": "North Korea bars foreigners from recently unveiled \u2018world class\u2019 beach resort days after Lavrov visit - Yahoo",
       "pubDate": "Fri, 18 Jul 2025 14:03:22 GMT"
@@ -1741,10 +1741,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel launches air and ground offensive on Deir al-Balah in central Gaza - The Guardian",
-      "pubDate": "Mon, 21 Jul 2025 11:14:00 GMT"
-    },
-    {
       "title": "Gaza hospital boss says 21 children died of malnutrition, starvation over last 3 days - CBS News",
       "pubDate": "Wed, 23 Jul 2025 00:24:08 GMT"
     },
@@ -1899,6 +1895,10 @@
     {
       "title": "Israeli strikes kill journalists and aid-seekers as Australia backs Palestinian statehood - AP News",
       "pubDate": "Tue, 12 Aug 2025 01:36:00 GMT"
+    },
+    {
+      "title": "Israel Conducts Deadly Strike Against 'Fake' Aid Workers in Gaza - Newsweek",
+      "pubDate": "Tue, 12 Aug 2025 16:27:16 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2631,6 +2631,12 @@
     {
       "title": "Room-Temperature Quantum Breakthrough Stuns Physicists - SciTechDaily",
       "pubDate": "Tue, 12 Aug 2025 05:01:15 GMT"
+    }
+  ],
+  "World Politics": [
+    {
+      "title": "Trump-Putin summit location: Joint Base Elmendorf-Richardson in Anchorage - NBC News",
+      "pubDate": "Wed, 13 Aug 2025 01:17:00 GMT"
     }
   ]
 }
