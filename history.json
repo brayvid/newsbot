@@ -835,6 +835,10 @@
     {
       "title": "Illinois Researchers Create AI Safety Testing Methods - Mirage News",
       "pubDate": "Tue, 12 Aug 2025 14:32:00 GMT"
+    },
+    {
+      "title": "AI Safety, The Human Line Project: LLMs Sycophancy or They Know Too Much? - WorldHealth.net",
+      "pubDate": "Wed, 13 Aug 2025 07:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -897,6 +901,10 @@
     {
       "title": "University of Western Australia suffers major data breach, staff and students locked out - Australian Broadcasting Corporation",
       "pubDate": "Mon, 11 Aug 2025 01:54:41 GMT"
+    },
+    {
+      "title": "Data breach: Russian link suspected in US federal court hack; sensitive information compromised in yearlo - Times of India",
+      "pubDate": "Wed, 13 Aug 2025 03:48:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1411,10 +1419,6 @@
   ],
   "Elon Musk": [
     {
-      "title": "Elon Musk says Tesla shareholders will vote on investing in xAI - Business Insider",
-      "pubDate": "Mon, 14 Jul 2025 04:07:00 GMT"
-    },
-    {
       "title": "SpaceX warns investors Elon Musk could return to US politics, Bloomberg reports - Reuters",
       "pubDate": "Tue, 22 Jul 2025 19:14:23 GMT"
     },
@@ -1495,6 +1499,10 @@
     {
       "title": "North Korea starts dismantling some border loudspeakers, South Korea says - Reuters",
       "pubDate": "Sat, 09 Aug 2025 07:51:45 GMT"
+    },
+    {
+      "title": "Putin holds call with North Korea's Kim, discusses US-Russia talks, Kremlin says - Reuters",
+      "pubDate": "Tue, 12 Aug 2025 23:07:43 GMT"
     }
   ],
   "Tesla": [
@@ -1741,10 +1749,6 @@
   ],
   "Gaza": [
     {
-      "title": "Gaza hospital boss says 21 children died of malnutrition, starvation over last 3 days - CBS News",
-      "pubDate": "Wed, 23 Jul 2025 00:24:08 GMT"
-    },
-    {
       "title": "More than 100 aid groups warn 'mass starvation' spreading across Gaza - France 24",
       "pubDate": "Wed, 23 Jul 2025 00:31:11 GMT"
     },
@@ -1899,6 +1903,10 @@
     {
       "title": "Israel Conducts Deadly Strike Against 'Fake' Aid Workers in Gaza - Newsweek",
       "pubDate": "Tue, 12 Aug 2025 16:27:16 GMT"
+    },
+    {
+      "title": "Israel intensifies bombing of Gaza, killing 89 Palestinians in 24 hours - The Guardian",
+      "pubDate": "Wed, 13 Aug 2025 01:30:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2038,10 +2046,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Climate crisis causing food price spikes around the world, scientists say - Al Jazeera",
-      "pubDate": "Mon, 21 Jul 2025 05:28:42 GMT"
-    },
     {
       "title": "Grocery bills are rising as the planet cooks - Axios",
       "pubDate": "Mon, 21 Jul 2025 20:25:34 GMT"
@@ -2197,13 +2201,13 @@
     {
       "title": "US Dept. of Energy secretary assembled climate skeptics to shape report challenging science - ehn.org",
       "pubDate": "Tue, 12 Aug 2025 11:34:22 GMT"
+    },
+    {
+      "title": "The health risks from climate change that almost no one talks about - vox.com",
+      "pubDate": "Wed, 13 Aug 2025 08:30:00 GMT"
     }
   ],
   "Algorithms": [
-    {
-      "title": "Elon Musk's X Under Criminal Probe In France For Alleged Algorithm Manipulation And Hate Speech - Benzinga",
-      "pubDate": "Mon, 14 Jul 2025 07:22:16 GMT"
-    },
     {
       "title": "DOJ Warns of Potential Antitrust Risks With Pricing Algorithms - Bloomberg Law News",
       "pubDate": "Wed, 16 Jul 2025 08:30:00 GMT"
@@ -2237,12 +2241,6 @@
     {
       "title": "Ford\u2019s Radical $5 Billion Plan Could Slash EV Prices in Half - autoblog.com",
       "pubDate": "Mon, 11 Aug 2025 14:30:00 GMT"
-    }
-  ],
-  "Earth": [
-    {
-      "title": "Mysterious Blobs Deep Inside Earth May Fuel Deadly Volcanic Eruptions - ScienceAlert",
-      "pubDate": "Mon, 14 Jul 2025 04:49:01 GMT"
     }
   ],
   "Defense Intelligence Agency": [
@@ -2637,6 +2635,12 @@
     {
       "title": "Trump-Putin summit location: Joint Base Elmendorf-Richardson in Anchorage - NBC News",
       "pubDate": "Wed, 13 Aug 2025 01:17:00 GMT"
+    }
+  ],
+  "Algorithmic Trading": [
+    {
+      "title": "India markets regulator proposes to add algo trading into stock broker regulations - Reuters",
+      "pubDate": "Wed, 13 Aug 2025 08:20:10 GMT"
     }
   ]
 }
