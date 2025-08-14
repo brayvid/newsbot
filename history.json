@@ -519,10 +519,6 @@
   ],
   "National Security": [
     {
-      "title": "The top U.S. cybersecurity agency is shrinking quickly under Trump 2.0 - Axios",
-      "pubDate": "Tue, 15 Jul 2025 17:44:39 GMT"
-    },
-    {
       "title": "China-linked scam centers target U.S., congressional commission warns - The Washington Post",
       "pubDate": "Fri, 18 Jul 2025 14:45:08 GMT"
     },
@@ -993,10 +989,6 @@
   ],
   "Trade War": [
     {
-      "title": "Trump announces trade agreement with Indonesia, including 19% tariff - CNN",
-      "pubDate": "Tue, 15 Jul 2025 18:51:00 GMT"
-    },
-    {
       "title": "US-EU Strike 15% Tariff Deal, 750B Energy Purchases Avert Trade War - AInvest",
       "pubDate": "Mon, 28 Jul 2025 01:03:10 GMT"
     },
@@ -1377,6 +1369,10 @@
     {
       "title": "Cowboys owner Jerry Jones reveals cancer diagnosis and credits experimental drug - AP News",
       "pubDate": "Wed, 13 Aug 2025 21:58:00 GMT"
+    },
+    {
+      "title": "Nike co-founder Phil Knight to donate $2 billion to OHSU's Knight Cancer Institute - CNBC",
+      "pubDate": "Thu, 14 Aug 2025 17:00:01 GMT"
     }
   ],
   "Climate": [
@@ -1717,6 +1713,10 @@
     {
       "title": "Israel PM Netanyahu thanks Trump for \u2018steadfast support\u2019 in Gaza offensive, says it'll be \u2018wider than announced\u2019 | World News - Hindustan Times - Hindustan Times",
       "pubDate": "Mon, 11 Aug 2025 02:18:37 GMT"
+    },
+    {
+      "title": "Israel announces a settlement project that critics say will effectively cut the West Bank in two - AP News",
+      "pubDate": "Thu, 14 Aug 2025 17:34:00 GMT"
     }
   ],
   "Gaza": [
@@ -1945,6 +1945,10 @@
     {
       "title": "Do Kwon, Crypto Founder Who Caused 2022 Market Crash, Pleads Guilty to Fraud - The New York Times",
       "pubDate": "Tue, 12 Aug 2025 18:02:30 GMT"
+    },
+    {
+      "title": "Bitcoin drops below $119K after US Treasury secretary rules out new BTC buys - Cointelegraph",
+      "pubDate": "Thu, 14 Aug 2025 13:45:09 GMT"
     }
   ],
   "Science": [
@@ -2261,10 +2265,6 @@
   ],
   "Environment": [
     {
-      "title": "House Republicans pitch 23 percent cut to EPA - The Hill",
-      "pubDate": "Tue, 15 Jul 2025 18:10:00 GMT"
-    },
-    {
       "title": "EPA eliminates its scientific research arm - The Washington Post",
       "pubDate": "Sat, 19 Jul 2025 03:21:00 GMT"
     },
@@ -2415,6 +2415,10 @@
     {
       "title": "US Army readies to release new missile defense strategy soon - Defense News",
       "pubDate": "Tue, 05 Aug 2025 23:35:48 GMT"
+    },
+    {
+      "title": "Russia Wants to Build 79,000 \u2018Kamikaze\u2019 Drones - National Security Journal",
+      "pubDate": "Thu, 14 Aug 2025 15:51:00 GMT"
     }
   ],
   "Google": [
@@ -2629,6 +2633,12 @@
     {
       "title": "Russia restricts calls on WhatsApp, Telegram as internet control tightens - Al Jazeera",
       "pubDate": "Thu, 14 Aug 2025 04:09:28 GMT"
+    }
+  ],
+  "World News": [
+    {
+      "title": "Brutal heat plagues parts of Europe, Asia and the Middle East - The Washington Post",
+      "pubDate": "Thu, 14 Aug 2025 20:33:29 GMT"
     }
   ]
 }
