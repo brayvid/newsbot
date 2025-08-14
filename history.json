@@ -127,6 +127,10 @@
     {
       "title": "AI Learned to Be Evil Without Anyone Telling It To, Which Bodes Well - Popular Mechanics",
       "pubDate": "Mon, 11 Aug 2025 19:30:00 GMT"
+    },
+    {
+      "title": "Using generative AI, researchers design compounds that can kill drug-resistant bacteria - MIT News",
+      "pubDate": "Thu, 14 Aug 2025 15:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -208,10 +212,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Trump asked Zelenskiy if Ukraine could hit Moscow, FT reports - Reuters",
-      "pubDate": "Tue, 15 Jul 2025 09:57:31 GMT"
-    },
     {
       "title": "Russia rejects Trump's demand for a Ukraine war ceasefire in 50 days as unacceptable - CBS News",
       "pubDate": "Wed, 16 Jul 2025 00:22:36 GMT"
@@ -709,13 +709,13 @@
     {
       "title": "China Sanctions Two EU Banks, Hitting Back at Europe\u2019s Moves - Bloomberg.com",
       "pubDate": "Wed, 13 Aug 2025 12:01:39 GMT"
+    },
+    {
+      "title": "China to Send Top Envoy to India as Ties Warm After US Tariffs - Bloomberg.com",
+      "pubDate": "Thu, 14 Aug 2025 07:22:33 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Pentagon taps four commercial tech firms to expand military use of AI - Defense News",
-      "pubDate": "Tue, 15 Jul 2025 15:20:28 GMT"
-    },
     {
       "title": "AI Leaders Unite to Enhance Transparency in AI Models - AInvest",
       "pubDate": "Wed, 16 Jul 2025 07:27:33 GMT"
@@ -819,6 +819,10 @@
     {
       "title": "AI Safety, The Human Line Project: LLMs Sycophancy or They Know Too Much? - WorldHealth.net",
       "pubDate": "Wed, 13 Aug 2025 07:00:00 GMT"
+    },
+    {
+      "title": "AI security governance converts disorder into deliberate innovation - Help Net Security",
+      "pubDate": "Thu, 14 Aug 2025 06:00:01 GMT"
     }
   ],
   "Data Breach": [
@@ -1041,10 +1045,6 @@
   ],
   "Atlantic Ocean": [
     {
-      "title": "Melting Arctic ice bolstering North Atlantic Ocean currents, for now - Phys.org",
-      "pubDate": "Tue, 15 Jul 2025 10:40:02 GMT"
-    },
-    {
       "title": "Ancient 'lost city' found at bottom of the Atlantic Ocean holds clue to origins of life - MSN",
       "pubDate": "Sat, 26 Jul 2025 20:28:47 GMT"
     },
@@ -1257,6 +1257,10 @@
     {
       "title": "Bitcoin Prices Reach Fresh, All-Time High Above $124,000 - Forbes",
       "pubDate": "Thu, 14 Aug 2025 00:40:54 GMT"
+    },
+    {
+      "title": "Bitcoin touches record high as crypto rally rages on amid bullish 'fundamental changes' - Yahoo Finance",
+      "pubDate": "Thu, 14 Aug 2025 07:31:46 GMT"
     }
   ],
   "BRICS": [
@@ -1277,12 +1281,6 @@
     {
       "title": "Exclusive: Hackers breached intelligence website used by CIA - Washington Times",
       "pubDate": "Fri, 25 Jul 2025 15:52:59 GMT"
-    }
-  ],
-  "NVIDIA": [
-    {
-      "title": "Nvidia says it has Trump administration green light to sell China its advanced H20 computer chips used for AI - CBS News",
-      "pubDate": "Tue, 15 Jul 2025 11:55:34 GMT"
     }
   ],
   "Renewable Energy": [
@@ -1316,10 +1314,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "Blood tests promise to detect cancer early. How well do they work? - The Washington Post",
-      "pubDate": "Tue, 15 Jul 2025 15:02:24 GMT"
-    },
     {
       "title": "The world is winning the war on cancer - The Economist",
       "pubDate": "Thu, 17 Jul 2025 10:23:50 GMT"
@@ -2029,10 +2023,6 @@
   ],
   "Climate Change": [
     {
-      "title": "World on brink of climate breakthrough as fossil fuels \u2018run out of road\u2019, UN chief says - The Guardian",
-      "pubDate": "Tue, 22 Jul 2025 13:57:00 GMT"
-    },
-    {
       "title": "UN\u2019s Guterres declares fossil fuel era fading; presses nations for new climate plans before COP30 summit - UN News",
       "pubDate": "Tue, 22 Jul 2025 13:43:07 GMT"
     },
@@ -2187,6 +2177,10 @@
     {
       "title": "Climate change made Nordic heatwave at least 10 times more likely - Euronews.com",
       "pubDate": "Thu, 14 Aug 2025 06:02:11 GMT"
+    },
+    {
+      "title": "\u2018No country is safe\u2019: deadly Nordic heatwave supercharged by climate crisis, scientists say - The Guardian",
+      "pubDate": "Thu, 14 Aug 2025 08:24:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2232,10 +2226,6 @@
     }
   ],
   "Battery Technology": [
-    {
-      "title": "China Adds Export Controls to Protect EV Battery Technology - The Wall Street Journal",
-      "pubDate": "Tue, 15 Jul 2025 14:37:00 GMT"
-    },
     {
       "title": "Scientists discover salt that makes batteries last 10x longer - ScienceDaily",
       "pubDate": "Sun, 27 Jul 2025 10:47:25 GMT"
@@ -2517,6 +2507,10 @@
     {
       "title": "Hiring growth in India: Global tech firms ramps up recruitment, domestic majors slow down; AI, cloud drive demand shift, say experts - Times of India",
       "pubDate": "Sun, 03 Aug 2025 08:13:00 GMT"
+    },
+    {
+      "title": "Oracle, Google cloud units strike deal for Oracle to sell Gemini models - Reuters",
+      "pubDate": "Thu, 14 Aug 2025 12:01:19 GMT"
     }
   ],
   "Political Corruption": [
@@ -2619,6 +2613,10 @@
     {
       "title": "India markets regulator proposes to add algo trading into stock broker regulations - Reuters",
       "pubDate": "Wed, 13 Aug 2025 08:20:10 GMT"
+    },
+    {
+      "title": "Former Peel Hunt electronic trading head joins Berenberg to bolster algorithmic offering - The TRADE",
+      "pubDate": "Thu, 14 Aug 2025 11:13:03 GMT"
     }
   ],
   "Net Zero Emissions": [
