@@ -355,6 +355,10 @@
     {
       "title": "Russia seeks full Ukrainian withdrawal from Donetsk in east: Zelenskyy - Al Jazeera",
       "pubDate": "Tue, 12 Aug 2025 18:20:17 GMT"
+    },
+    {
+      "title": "August 13, 2025 \u2013 Trump warns Russia of \u2018severe consequences\u2019 if Putin doesn\u2019t agree to end Ukraine war - CNN",
+      "pubDate": "Thu, 14 Aug 2025 00:59:00 GMT"
     }
   ],
   "Russia": [
@@ -404,10 +408,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump threatens 100% secondary tariffs on Russia; Supreme Court allows mass layoffs at Education Department - NBC News",
-      "pubDate": "Tue, 15 Jul 2025 01:58:00 GMT"
-    },
     {
       "title": "Trump says Coca-Cola will swap corn syrup for cane sugar in US - 'It's just better!' - BBC",
       "pubDate": "Wed, 16 Jul 2025 23:05:05 GMT"
@@ -519,6 +519,10 @@
     {
       "title": "Trump federalizes DC police, deploys National Guard - NBC4 Washington",
       "pubDate": "Mon, 11 Aug 2025 12:39:19 GMT"
+    },
+    {
+      "title": "Trump names Gaynor, Kiss, Sylvester Stallone as Kennedy Center Honors picks - Al Jazeera",
+      "pubDate": "Wed, 13 Aug 2025 20:03:45 GMT"
     }
   ],
   "National Security": [
@@ -830,10 +834,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "5.4 million hit in major healthcare data breach \u2014 names, emails, SSNs and more exposed - Tom's Guide",
-      "pubDate": "Mon, 14 Jul 2025 21:57:23 GMT"
-    },
     {
       "title": "Indian crypto exchange CoinDCX hacked, $44 million drained - Cointelegraph",
       "pubDate": "Sat, 19 Jul 2025 16:37:51 GMT"
@@ -1257,6 +1257,10 @@
     {
       "title": "Bitcoin price today: surges to $122k, near record high on US regulatory cheer - Investing.com",
       "pubDate": "Mon, 11 Aug 2025 05:32:07 GMT"
+    },
+    {
+      "title": "Bitcoin hits fresh record as Fed easing bets add to tailwinds - Reuters",
+      "pubDate": "Thu, 14 Aug 2025 00:29:46 GMT"
     }
   ],
   "BRICS": [
@@ -1280,10 +1284,6 @@
     }
   ],
   "NVIDIA": [
-    {
-      "title": "Nvidia says U.S. government will allow it to resume H20 AI chip sales to China - CNBC",
-      "pubDate": "Tue, 15 Jul 2025 02:28:00 GMT"
-    },
     {
       "title": "Nvidia says it has Trump administration green light to sell China its advanced H20 computer chips used for AI - CBS News",
       "pubDate": "Tue, 15 Jul 2025 11:55:34 GMT"
@@ -1383,6 +1383,10 @@
     {
       "title": "New treatment eliminates bladder cancer in 82% of patients - Keck Medicine of USC",
       "pubDate": "Wed, 13 Aug 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Cowboys owner Jerry Jones reveals cancer diagnosis and credits experimental drug - AP News",
+      "pubDate": "Wed, 13 Aug 2025 21:58:00 GMT"
     }
   ],
   "Climate": [
@@ -1531,12 +1535,6 @@
     {
       "title": "Microsoft profits soar almost 25% on boom in cloud computing - Financial Times",
       "pubDate": "Wed, 30 Jul 2025 20:21:02 GMT"
-    }
-  ],
-  "Health": [
-    {
-      "title": "HHS carries out mass firings across health agencies after Supreme Court decision - CNN",
-      "pubDate": "Tue, 15 Jul 2025 00:33:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1737,10 +1735,6 @@
   ],
   "Gaza": [
     {
-      "title": "More than 100 aid groups warn 'mass starvation' spreading across Gaza - France 24",
-      "pubDate": "Wed, 23 Jul 2025 00:31:11 GMT"
-    },
-    {
       "title": "Israel Waging \u201cFastest Starvation Campaign\u201d in Modern History in Gaza: U.N. Special Rapporteur on Food - Democracy Now!",
       "pubDate": "Wed, 23 Jul 2025 12:00:00 GMT"
     },
@@ -1895,6 +1889,10 @@
     {
       "title": "Israel intensifies bombing of Gaza, killing 89 Palestinians in 24 hours - The Guardian",
       "pubDate": "Wed, 13 Aug 2025 01:30:00 GMT"
+    },
+    {
+      "title": "Why Arab rulers aren't more vocal about Gaza as global outcry grows - NBC News",
+      "pubDate": "Wed, 13 Aug 2025 19:16:12 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2485,6 +2483,10 @@
     {
       "title": "Momentum sagging at UN plastic pollution treaty talks - yahoo.com",
       "pubDate": "Sat, 09 Aug 2025 19:05:55 GMT"
+    },
+    {
+      "title": "Talks stall on world\u2019s first plastic pollution treaty one day before deadline - The Guardian",
+      "pubDate": "Wed, 13 Aug 2025 22:11:00 GMT"
     }
   ],
   "Terrorism": [
@@ -2593,6 +2595,10 @@
     {
       "title": "Pentagon to Launch \u201cAmazon for Drones\u201d Inspired by Ukraine\u2019s Battlefield Tech Hub - UNITED24 Media",
       "pubDate": "Tue, 12 Aug 2025 10:28:30 GMT"
+    },
+    {
+      "title": "New proposed FAA rule announced that could change the way Drones are flown - KXII",
+      "pubDate": "Wed, 13 Aug 2025 23:00:00 GMT"
     }
   ],
   "Business": [
