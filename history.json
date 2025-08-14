@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Nvidia Says U.S. Has Lifted Restrictions on A.I. Chip Sales to China - The New York Times",
-      "pubDate": "Tue, 15 Jul 2025 04:24:00 GMT"
-    },
-    {
       "title": "China Is Spending Billions to Become an A.I. Superpower - The New York Times",
       "pubDate": "Wed, 16 Jul 2025 04:00:06 GMT"
     },
@@ -212,10 +208,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Trump announces novel plan to send weapons to Ukraine and gives Russia new deadline to make peace - CNN",
-      "pubDate": "Tue, 15 Jul 2025 08:27:00 GMT"
-    },
     {
       "title": "Trump asked Zelenskiy if Ukraine could hit Moscow, FT reports - Reuters",
       "pubDate": "Tue, 15 Jul 2025 09:57:31 GMT"
@@ -578,10 +570,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China posts better-than-expected Q2 growth in face of Trump tariffs - CNN",
-      "pubDate": "Tue, 15 Jul 2025 07:50:00 GMT"
-    },
     {
       "title": "Nvidia says Trump administration lifts ban on AI chip sales to China - The Washington Post",
       "pubDate": "Wed, 16 Jul 2025 02:17:11 GMT"
@@ -1203,6 +1191,10 @@
     {
       "title": "Massive landslide in Alaska triggers damaging tsunami with 10-15 foot waves - FOX Weather",
       "pubDate": "Wed, 13 Aug 2025 15:27:47 GMT"
+    },
+    {
+      "title": "Scientists issue chilling warning about 'The Big One' earthquake predicted to be one of history's most devastating - LADbible",
+      "pubDate": "Thu, 14 Aug 2025 07:19:47 GMT"
     }
   ],
   "Democratic Party": [
@@ -1261,6 +1253,10 @@
     {
       "title": "Bitcoin hits fresh record as Fed easing bets add to tailwinds - Reuters",
       "pubDate": "Thu, 14 Aug 2025 00:29:46 GMT"
+    },
+    {
+      "title": "Bitcoin Prices Reach Fresh, All-Time High Above $124,000 - Forbes",
+      "pubDate": "Thu, 14 Aug 2025 00:40:54 GMT"
     }
   ],
   "BRICS": [
@@ -1589,10 +1585,6 @@
   ],
   "Alternative Energy": [
     {
-      "title": "California reaches new record clean energy milestone - The Mercury News",
-      "pubDate": "Tue, 15 Jul 2025 05:10:39 GMT"
-    },
-    {
       "title": "10 States Bracing for Trump's Energy Tax Shock (and How They Plan to Cope) - MSN",
       "pubDate": "Wed, 16 Jul 2025 15:13:29 GMT"
     },
@@ -1734,10 +1726,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel Waging \u201cFastest Starvation Campaign\u201d in Modern History in Gaza: U.N. Special Rapporteur on Food - Democracy Now!",
-      "pubDate": "Wed, 23 Jul 2025 12:00:00 GMT"
-    },
     {
       "title": "Gaza facing man-made 'mass starvation', says WHO's Tedros - Reuters",
       "pubDate": "Thu, 24 Jul 2025 01:20:56 GMT"
@@ -1893,6 +1881,10 @@
     {
       "title": "Why Arab rulers aren't more vocal about Gaza as global outcry grows - NBC News",
       "pubDate": "Wed, 13 Aug 2025 19:16:12 GMT"
+    },
+    {
+      "title": "LIVE: Israel keeps pummeling Gaza as four more Palestinians starve to death - Al Jazeera",
+      "pubDate": "Thu, 14 Aug 2025 08:19:56 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1995,10 +1987,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "Concerns That AGI And AI Superintelligence Might Be Dangerously Deeply Loyal To Their AI Maker - Forbes",
-      "pubDate": "Tue, 15 Jul 2025 07:15:00 GMT"
-    },
-    {
       "title": "Scientists use artificial intelligence to mimic the mind \u2014 warts and all - thestar.com.my",
       "pubDate": "Mon, 04 Aug 2025 02:09:46 GMT"
     },
@@ -2033,13 +2021,13 @@
     {
       "title": "SpaceX Unveils New Version of Mars-Bound Starship - Newsweek",
       "pubDate": "Tue, 29 Jul 2025 09:49:56 GMT"
+    },
+    {
+      "title": "Trump orders space regulations eased in win for Musk - KTEN",
+      "pubDate": "Thu, 14 Aug 2025 01:52:08 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "Grocery bills are rising as the planet cooks - Axios",
-      "pubDate": "Mon, 21 Jul 2025 20:25:34 GMT"
-    },
     {
       "title": "World on brink of climate breakthrough as fossil fuels \u2018run out of road\u2019, UN chief says - The Guardian",
       "pubDate": "Tue, 22 Jul 2025 13:57:00 GMT"
@@ -2195,6 +2183,10 @@
     {
       "title": "The health risks from climate change that almost no one talks about - vox.com",
       "pubDate": "Wed, 13 Aug 2025 08:30:00 GMT"
+    },
+    {
+      "title": "Climate change made Nordic heatwave at least 10 times more likely - Euronews.com",
+      "pubDate": "Thu, 14 Aug 2025 06:02:11 GMT"
     }
   ],
   "Algorithms": [
@@ -2633,6 +2625,12 @@
     {
       "title": "US Rejects IMO Net-Zero Emissions Plan, Warns Of Retaliation Against Supporters - Marine Insight",
       "pubDate": "Wed, 13 Aug 2025 13:09:43 GMT"
+    }
+  ],
+  "Internet": [
+    {
+      "title": "Russia restricts calls on WhatsApp, Telegram as internet control tightens - Al Jazeera",
+      "pubDate": "Thu, 14 Aug 2025 04:09:28 GMT"
     }
   ]
 }
