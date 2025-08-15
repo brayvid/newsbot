@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "WeTransfer says user content will not be used to train AI after backlash - The Guardian",
-      "pubDate": "Wed, 16 Jul 2025 15:06:00 GMT"
-    },
-    {
-      "title": "Zuckerberg says Meta will build data center the size of Manhattan in latest AI push - The Guardian",
-      "pubDate": "Wed, 16 Jul 2025 18:07:00 GMT"
-    },
-    {
       "title": "Meta Hires Two Key Apple AI Experts After Poaching Their Boss - Bloomberg",
       "pubDate": "Thu, 17 Jul 2025 23:37:36 GMT"
     },
@@ -169,6 +161,10 @@
     {
       "title": "Trump-backed judge rules administration\u2019s withholding of funds illegal - Politico",
       "pubDate": "Tue, 12 Aug 2025 00:58:49 GMT"
+    },
+    {
+      "title": "White House defends DC takeover of police after city alleges \u2018brazen usurpation\u2019 in lawsuit against Trump administration \u2013 live - The Guardian",
+      "pubDate": "Fri, 15 Aug 2025 09:38:00 GMT"
     }
   ],
   "Iran": [
@@ -212,14 +208,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia attacks Ukraine with hundreds of drones, energy infrastructure hit - Reuters",
-      "pubDate": "Wed, 16 Jul 2025 16:28:03 GMT"
-    },
-    {
-      "title": "Russia Launches Hundreds of Drones at Ukraine, Defying Trump\u2019s Peace Ultimatum - The Moscow Times",
-      "pubDate": "Wed, 16 Jul 2025 16:08:00 GMT"
-    },
     {
       "title": "Russia must be ready to strike West if it escalates Ukraine war, Medvedev says - Reuters",
       "pubDate": "Thu, 17 Jul 2025 11:32:51 GMT"
@@ -563,10 +551,6 @@
   ],
   "China": [
     {
-      "title": "China\u2019s cyber sector amplifies Beijing\u2019s hacking of U.S. targets - The Washington Post",
-      "pubDate": "Wed, 16 Jul 2025 19:00:50 GMT"
-    },
-    {
       "title": "Wells Fargo suspends China travel after employee exit ban, source says - Reuters",
       "pubDate": "Thu, 17 Jul 2025 15:13:43 GMT"
     },
@@ -708,18 +692,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Top tech companies are sounding another alarm on AI - Quartz",
-      "pubDate": "Wed, 16 Jul 2025 14:52:07 GMT"
-    },
-    {
-      "title": "OpenAI and Anthropic researchers decry \u2018reckless\u2019 safety culture at Elon Musk\u2019s xAI - TechCrunch",
-      "pubDate": "Wed, 16 Jul 2025 18:11:20 GMT"
-    },
-    {
-      "title": "California Lawmakers Beef Up AI Safety Bill Over Tech Opposition - Bloomberg Law News",
-      "pubDate": "Wed, 16 Jul 2025 19:21:00 GMT"
-    },
     {
       "title": "Top AI Firms Fall Short on Safety, New Studies Find - Time Magazine",
       "pubDate": "Thu, 17 Jul 2025 07:11:55 GMT"
@@ -1499,6 +1471,10 @@
     {
       "title": "Elon Musk confirms Tesla AI6 chip is Project Dojo\u2019s successor - Teslarati",
       "pubDate": "Sat, 09 Aug 2025 15:31:06 GMT"
+    },
+    {
+      "title": "Tesla, Rivian, and others see billions in revenue disappear as US officially end emission credits - Electrek",
+      "pubDate": "Fri, 15 Aug 2025 15:54:00 GMT"
     }
   ],
   "Microsoft": [
@@ -1512,10 +1488,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "Trump Has Draft of Letter to Fire Fed Chair. He Asked Republicans if He Should Send It. - The New York Times",
-      "pubDate": "Wed, 16 Jul 2025 19:51:54 GMT"
-    },
     {
       "title": "Treasury Secretary Bessent calls for a review of 'the entire' Federal Reserve - CNBC",
       "pubDate": "Mon, 21 Jul 2025 12:44:05 GMT"
@@ -1562,10 +1534,6 @@
     }
   ],
   "Alternative Energy": [
-    {
-      "title": "10 States Bracing for Trump's Energy Tax Shock (and How They Plan to Cope) - MSN",
-      "pubDate": "Wed, 16 Jul 2025 15:13:29 GMT"
-    },
     {
       "title": "The $200 Million Plan to Rebuild Ukraine's Energy Sector - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Sat, 19 Jul 2025 15:00:00 GMT"
@@ -1625,6 +1593,10 @@
     {
       "title": "OpenAI eyes $500 billion valuation in potential employee share sale, source says - Reuters",
       "pubDate": "Wed, 06 Aug 2025 08:20:12 GMT"
+    },
+    {
+      "title": "OpenAI\u2019s Sam Altman Expects to Spend \u2018Trillions\u2019 on Infrastructure - Bloomberg.com",
+      "pubDate": "Fri, 15 Aug 2025 16:21:10 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1871,10 +1843,6 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "House Passes Two Major Cryptocurrency Bills - AInvest",
-      "pubDate": "Wed, 16 Jul 2025 17:33:29 GMT"
-    },
-    {
       "title": "House sends bill regulating stablecoins, a type of cryptocurrency, to Trump - Star Tribune",
       "pubDate": "Thu, 17 Jul 2025 20:26:15 GMT"
     },
@@ -1947,13 +1915,13 @@
     {
       "title": "Scientists just cracked the code to editing entire chromosomes flawlessly - ScienceDaily",
       "pubDate": "Tue, 05 Aug 2025 13:21:46 GMT"
+    },
+    {
+      "title": "Scientists capture first footage of human embryo implanting in a uterus - The Guardian",
+      "pubDate": "Fri, 15 Aug 2025 18:01:00 GMT"
     }
   ],
   "Apple": [
-    {
-      "title": "With all eyes on Apple\u2019s next earnings report, one research firm calls on Tim Cook to step aside - Fortune",
-      "pubDate": "Wed, 16 Jul 2025 14:37:00 GMT"
-    },
     {
       "title": "Apple reports third-quarter earnings after the bell - CNBC",
       "pubDate": "Thu, 31 Jul 2025 17:50:29 GMT"
@@ -2018,10 +1986,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Record flood warnings issued in 2025 as climate change amplifies extreme weather events - KDFW",
-      "pubDate": "Tue, 22 Jul 2025 22:42:34 GMT"
-    },
     {
       "title": "The UN\u2019s highest court will decide Wednesday on the climate obligations of countries - AP News",
       "pubDate": "Wed, 23 Jul 2025 04:07:00 GMT"
@@ -2177,6 +2141,10 @@
     {
       "title": "US Guts Criticism of Indigenous Rights Abuses, Mentions of Climate Change From Annual Human Rights Reports - Inside Climate News",
       "pubDate": "Thu, 14 Aug 2025 21:56:11 GMT"
+    },
+    {
+      "title": "Environmental groups sue Trump administration over \"secret report\" by \"known climate contrarians\" - CBS News",
+      "pubDate": "Fri, 15 Aug 2025 16:59:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2279,12 +2247,6 @@
     {
       "title": "Brazil\u2019s President Lula vetoes parts of environmental \u2018devastation bill\u2019 - Al Jazeera",
       "pubDate": "Sat, 09 Aug 2025 05:03:57 GMT"
-    }
-  ],
-  "Animals": [
-    {
-      "title": "NIH under fire for funding dog tests despite vow to cut animal research - The Guardian",
-      "pubDate": "Wed, 16 Jul 2025 14:02:00 GMT"
     }
   ],
   "Mark Zuckerberg": [
@@ -2631,6 +2593,12 @@
     {
       "title": "Brutal heat plagues parts of Europe, Asia and the Middle East - The Washington Post",
       "pubDate": "Thu, 14 Aug 2025 20:33:29 GMT"
+    }
+  ],
+  "Military Intelligence": [
+    {
+      "title": "Russia readying nuclear-powered cruise missile test, Ukrainian military intelligence says - Reuters",
+      "pubDate": "Fri, 15 Aug 2025 19:39:20 GMT"
     }
   ]
 }
