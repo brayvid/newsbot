@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "China Is Spending Billions to Become an A.I. Superpower - The New York Times",
-      "pubDate": "Wed, 16 Jul 2025 04:00:06 GMT"
-    },
-    {
       "title": "WeTransfer says user content will not be used to train AI after backlash - The Guardian",
       "pubDate": "Wed, 16 Jul 2025 15:06:00 GMT"
     },
@@ -131,6 +127,10 @@
     {
       "title": "Using generative AI, researchers design compounds that can kill drug-resistant bacteria - MIT News",
       "pubDate": "Thu, 14 Aug 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Australian lawyer apologizes for AI-generated errors in murder case - The Washington Post",
+      "pubDate": "Fri, 15 Aug 2025 07:12:34 GMT"
     }
   ],
   "US Politics": [
@@ -212,10 +212,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia rejects Trump's demand for a Ukraine war ceasefire in 50 days as unacceptable - CBS News",
-      "pubDate": "Wed, 16 Jul 2025 00:22:36 GMT"
-    },
     {
       "title": "Russia attacks Ukraine with hundreds of drones, energy infrastructure hit - Reuters",
       "pubDate": "Wed, 16 Jul 2025 16:28:03 GMT"
@@ -351,13 +347,13 @@
     {
       "title": "August 13, 2025 \u2013 Trump warns Russia of \u2018severe consequences\u2019 if Putin doesn\u2019t agree to end Ukraine war - CNN",
       "pubDate": "Thu, 14 Aug 2025 00:59:00 GMT"
+    },
+    {
+      "title": "Putin hails \u2018heroic\u2019 North Korean troops fighting against Ukraine in letter to Kim Jong-un - The Guardian",
+      "pubDate": "Fri, 15 Aug 2025 04:15:00 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Trump threatens \u2018very significant\u2019 Russia sanctions, bashes \u2018all talk\u2019 Putin - Politico",
-      "pubDate": "Wed, 16 Jul 2025 00:50:00 GMT"
-    },
     {
       "title": "EU imposes new sanctions on Russia's oil and banks after Robert Fico lifts his veto - Euronews.com",
       "pubDate": "Fri, 18 Jul 2025 06:36:51 GMT"
@@ -567,10 +563,6 @@
   ],
   "China": [
     {
-      "title": "Nvidia says Trump administration lifts ban on AI chip sales to China - The Washington Post",
-      "pubDate": "Wed, 16 Jul 2025 02:17:11 GMT"
-    },
-    {
       "title": "China\u2019s cyber sector amplifies Beijing\u2019s hacking of U.S. targets - The Washington Post",
       "pubDate": "Wed, 16 Jul 2025 19:00:50 GMT"
     },
@@ -709,13 +701,13 @@
     {
       "title": "China to Send Top Envoy to India as Ties Warm After US Tariffs - Bloomberg.com",
       "pubDate": "Thu, 14 Aug 2025 07:22:33 GMT"
+    },
+    {
+      "title": "China\u2019s economy loses momentum as trade pressures weigh - Financial Times",
+      "pubDate": "Fri, 15 Aug 2025 04:19:47 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI Leaders Unite to Enhance Transparency in AI Models - AInvest",
-      "pubDate": "Wed, 16 Jul 2025 07:27:33 GMT"
-    },
     {
       "title": "Top tech companies are sounding another alarm on AI - Quartz",
       "pubDate": "Wed, 16 Jul 2025 14:52:07 GMT"
@@ -1411,10 +1403,6 @@
   ],
   "Health Care": [
     {
-      "title": "Federal health agency finalizes mass layoffs after Supreme Court lifts pause - USA Today",
-      "pubDate": "Tue, 15 Jul 2025 22:10:26 GMT"
-    },
-    {
       "title": "Millions of Americans now face a devastating one-two punch on health care - Axios",
       "pubDate": "Thu, 17 Jul 2025 10:48:19 GMT"
     },
@@ -1721,10 +1709,6 @@
   ],
   "Gaza": [
     {
-      "title": "Gaza facing man-made 'mass starvation', says WHO's Tedros - Reuters",
-      "pubDate": "Thu, 24 Jul 2025 01:20:56 GMT"
-    },
-    {
       "title": "U.S. blames Hamas for crisis in ceasefire talks, eyes \"alternative\" hostage plans - Axios",
       "pubDate": "Fri, 25 Jul 2025 00:45:20 GMT"
     },
@@ -1879,6 +1863,10 @@
     {
       "title": "LIVE: Israel keeps pummeling Gaza as four more Palestinians starve to death - Al Jazeera",
       "pubDate": "Thu, 14 Aug 2025 08:19:56 GMT"
+    },
+    {
+      "title": "Hezbollah Chief Says 'No Life' in Lebanon if Gov't Confronts Group, Pursues Disarmament - Haaretz",
+      "pubDate": "Fri, 15 Aug 2025 07:48:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2007,6 +1995,10 @@
     {
       "title": "OpenAI Rival Sentient Unveils Open-Source AGI Network, The GRID - Yahoo! Tech",
       "pubDate": "Wed, 13 Aug 2025 13:00:00 GMT"
+    },
+    {
+      "title": "MIT Student Drops Out Because She Says AGI Will Kill Everyone Before She Can Graduate - Futurism",
+      "pubDate": "Thu, 14 Aug 2025 20:53:38 GMT"
     }
   ],
   "American Civil Liberties Union": [
@@ -2026,10 +2018,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "UN\u2019s Guterres declares fossil fuel era fading; presses nations for new climate plans before COP30 summit - UN News",
-      "pubDate": "Tue, 22 Jul 2025 13:43:07 GMT"
-    },
     {
       "title": "Record flood warnings issued in 2025 as climate change amplifies extreme weather events - KDFW",
       "pubDate": "Tue, 22 Jul 2025 22:42:34 GMT"
@@ -2185,13 +2173,13 @@
     {
       "title": "\u2018No country is safe\u2019: deadly Nordic heatwave supercharged by climate crisis, scientists say - The Guardian",
       "pubDate": "Thu, 14 Aug 2025 08:24:00 GMT"
+    },
+    {
+      "title": "US Guts Criticism of Indigenous Rights Abuses, Mentions of Climate Change From Annual Human Rights Reports - Inside Climate News",
+      "pubDate": "Thu, 14 Aug 2025 21:56:11 GMT"
     }
   ],
   "Algorithms": [
-    {
-      "title": "DOJ Warns of Potential Antitrust Risks With Pricing Algorithms - Bloomberg Law News",
-      "pubDate": "Wed, 16 Jul 2025 08:30:00 GMT"
-    },
     {
       "title": "US and China race to set post-quantum cryptography standards - digitimes",
       "pubDate": "Mon, 21 Jul 2025 03:48:38 GMT"
@@ -2589,6 +2577,10 @@
     {
       "title": "New proposed FAA rule announced that could change the way Drones are flown - KXII",
       "pubDate": "Wed, 13 Aug 2025 23:00:00 GMT"
+    },
+    {
+      "title": "Oak Brook Police Department launches fully autonomous drone as first responder; some concerned over privacy rights - ABC7 Chicago",
+      "pubDate": "Fri, 15 Aug 2025 00:47:59 GMT"
     }
   ],
   "Business": [
