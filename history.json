@@ -123,6 +123,10 @@
     {
       "title": "Australian lawyer apologizes for AI-generated errors in murder case - The Washington Post",
       "pubDate": "Fri, 15 Aug 2025 07:12:34 GMT"
+    },
+    {
+      "title": "Class-action suit claims Otter AI secretly records private work conversations - NPR",
+      "pubDate": "Sat, 16 Aug 2025 00:44:21 GMT"
     }
   ],
   "US Politics": [
@@ -385,14 +389,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump says Coca-Cola will swap corn syrup for cane sugar in US - 'It's just better!' - BBC",
-      "pubDate": "Wed, 16 Jul 2025 23:05:05 GMT"
-    },
-    {
-      "title": "Trump Says Coca-Cola Agreed to Use Cane Sugar in Coke Made in U.S. - The New York Times",
-      "pubDate": "Thu, 17 Jul 2025 02:48:37 GMT"
-    },
-    {
       "title": "Trump orders production of more Epstein material after pressure - BBC",
       "pubDate": "Fri, 18 Jul 2025 02:55:35 GMT"
     },
@@ -532,10 +528,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "Japan\u2019s exports fall for second straight month with no U.S. trade deal in sight, raising recession fears - CNBC",
-      "pubDate": "Wed, 16 Jul 2025 23:58:58 GMT"
-    },
     {
       "title": "Germany Slips Back Into Recession As DAX Defies The Trend - Finimize",
       "pubDate": "Wed, 30 Jul 2025 17:31:35 GMT"
@@ -845,6 +837,10 @@
     {
       "title": "Data breach: Russian link suspected in US federal court hack; sensitive information compromised in yearlo - Times of India",
       "pubDate": "Wed, 13 Aug 2025 03:48:00 GMT"
+    },
+    {
+      "title": "Health information sent on postcards in Michigan Medicine privacy breach - MLive.com",
+      "pubDate": "Fri, 15 Aug 2025 21:15:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1052,14 +1048,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "7.3 magnitude earthquake stirs tsunami warning along parts of Alaska\u2019s southern coast - PBS",
-      "pubDate": "Wed, 16 Jul 2025 21:58:36 GMT"
-    },
-    {
-      "title": "Magnitude 7.3 earthquake shakes Sand Point and triggers tsunami warning for Southwest Alaska - Alaska Public Media",
-      "pubDate": "Wed, 16 Jul 2025 21:25:00 GMT"
-    },
     {
       "title": "A Surge of Earthquakes in Alaska Is Raising Red Flags - Gizmodo",
       "pubDate": "Thu, 17 Jul 2025 20:15:22 GMT"
@@ -1677,13 +1665,13 @@
     {
       "title": "Israel announces a settlement project that critics say will effectively cut the West Bank in two - AP News",
       "pubDate": "Thu, 14 Aug 2025 17:34:00 GMT"
+    },
+    {
+      "title": "Trump-Putin summit ends without concrete deal - CNN",
+      "pubDate": "Sat, 16 Aug 2025 03:52:00 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "U.S. blames Hamas for crisis in ceasefire talks, eyes \"alternative\" hostage plans - Axios",
-      "pubDate": "Fri, 25 Jul 2025 00:45:20 GMT"
-    },
     {
       "title": "Israeli War on Gaza Infrastructure, Trump Tariff Economic Hit, Myanmar Mining Pollution, Runaway Global Arms Race - Global Investigative Journalism Network (GIJN)",
       "pubDate": "Fri, 25 Jul 2025 07:19:50 GMT"
@@ -1839,6 +1827,10 @@
     {
       "title": "Hezbollah Chief Says 'No Life' in Lebanon if Gov't Confronts Group, Pursues Disarmament - Haaretz",
       "pubDate": "Fri, 15 Aug 2025 07:48:00 GMT"
+    },
+    {
+      "title": "Israeli unit tasked with smearing Gaza journalists as Hamas fighters \u2013 report - The Guardian",
+      "pubDate": "Fri, 15 Aug 2025 20:00:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1967,6 +1959,10 @@
     {
       "title": "MIT Student Drops Out Because She Says AGI Will Kill Everyone Before She Can Graduate - Futurism",
       "pubDate": "Thu, 14 Aug 2025 20:53:38 GMT"
+    },
+    {
+      "title": "Why an MIT student quit college over AGI fear, and are we really next? - Interesting Engineering",
+      "pubDate": "Fri, 15 Aug 2025 20:36:00 GMT"
     }
   ],
   "American Civil Liberties Union": [
@@ -1986,10 +1982,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "The UN\u2019s highest court will decide Wednesday on the climate obligations of countries - AP News",
-      "pubDate": "Wed, 23 Jul 2025 04:07:00 GMT"
-    },
     {
       "title": "Vanuatu Wins Landmark Legal Battle Over Climate Change Impact - Bloomberg",
       "pubDate": "Wed, 23 Jul 2025 15:28:40 GMT"
@@ -2145,6 +2137,10 @@
     {
       "title": "Environmental groups sue Trump administration over \"secret report\" by \"known climate contrarians\" - CBS News",
       "pubDate": "Fri, 15 Aug 2025 16:59:00 GMT"
+    },
+    {
+      "title": "Sudan\u2019s Cholera Outbreak Has Sickened Thousands\u2014Here\u2019s What\u2019s Driving It - Scientific American",
+      "pubDate": "Fri, 15 Aug 2025 21:30:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2251,23 +2247,11 @@
   ],
   "Mark Zuckerberg": [
     {
-      "title": "Trial Opens Against Meta CEO Mark Zuckerberg And Other Leaders Over Facebook Privacy Violations - WBAP",
-      "pubDate": "Wed, 16 Jul 2025 21:20:44 GMT"
-    },
-    {
-      "title": "Meta Shareholders Sue Mark Zuckerberg, Peter Thiel For $8 Billion Over Privacy Violations Linked To Cambridge Analytica Scandal - Benzinga",
-      "pubDate": "Thu, 17 Jul 2025 03:48:28 GMT"
-    },
-    {
       "title": "Meta settles $8bn lawsuit with Zuckerberg over Facebook privacy - BBC",
       "pubDate": "Thu, 17 Jul 2025 20:05:28 GMT"
     }
   ],
   "Volcanoes": [
-    {
-      "title": "Scientists Warn of Massive Eruption Threat as Mount Rainier and Pacific Volcanoes Stir - MSN",
-      "pubDate": "Thu, 17 Jul 2025 01:21:47 GMT"
-    },
     {
       "title": "Researchers issue warning over troubling phenomenon that could revive dormant volcanoes: 'It's just like opening a Coca-Cola bottle' - Yahoo Home",
       "pubDate": "Sun, 27 Jul 2025 10:15:43 GMT"
@@ -2599,6 +2583,12 @@
     {
       "title": "Russia readying nuclear-powered cruise missile test, Ukrainian military intelligence says - Reuters",
       "pubDate": "Fri, 15 Aug 2025 19:39:20 GMT"
+    }
+  ],
+  "Infrastructure": [
+    {
+      "title": "More outages, aging infrastructure, and bicoastal dysfunction: BofA warns America\u2019s grid is 30% to 46% \u2018beyond its useful life\u2019 - Fortune",
+      "pubDate": "Fri, 15 Aug 2025 16:22:00 GMT"
     }
   ]
 }
