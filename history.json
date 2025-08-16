@@ -135,10 +135,6 @@
   ],
   "US Politics": [
     {
-      "title": "Senate Approves Trump\u2019s Bid to Cancel Foreign Aid and Funds for NPR and PBS Stations - The New York Times",
-      "pubDate": "Thu, 17 Jul 2025 14:29:55 GMT"
-    },
-    {
       "title": "Trump DOJ wants Supreme Court to bring down hammer on gun rules - USA Today",
       "pubDate": "Sat, 19 Jul 2025 09:05:21 GMT"
     },
@@ -213,13 +209,13 @@
     {
       "title": "Israel kills five Al Jazeera staff in Gaza City, including Anas al-Sharif - Al Jazeera",
       "pubDate": "Mon, 11 Aug 2025 00:53:59 GMT"
+    },
+    {
+      "title": "Israel Cyber Directorate employee arrested in America - The Jerusalem Post",
+      "pubDate": "Sat, 16 Aug 2025 12:31:23 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia must be ready to strike West if it escalates Ukraine war, Medvedev says - Reuters",
-      "pubDate": "Thu, 17 Jul 2025 11:32:51 GMT"
-    },
     {
       "title": "Russia tightens its stranglehold on Ukraine battlefield as Trump gifts Putin 50-day window - CNN",
       "pubDate": "Thu, 17 Jul 2025 19:05:00 GMT"
@@ -555,14 +551,6 @@
   ],
   "China": [
     {
-      "title": "Wells Fargo suspends China travel after employee exit ban, source says - Reuters",
-      "pubDate": "Thu, 17 Jul 2025 15:13:43 GMT"
-    },
-    {
-      "title": "Exclusive | China Threatens to Block Panama Ports Deal Unless Its Shipping Giant Is Part of It - The Wall Street Journal",
-      "pubDate": "Thu, 17 Jul 2025 14:47:00 GMT"
-    },
-    {
       "title": "US-based Wells Fargo banker blocked from leaving China after arriving for work trip: report - New York Post",
       "pubDate": "Thu, 17 Jul 2025 19:30:00 GMT"
     },
@@ -693,13 +681,13 @@
     {
       "title": "China\u2019s economy loses momentum as trade pressures weigh - Financial Times",
       "pubDate": "Fri, 15 Aug 2025 04:19:47 GMT"
+    },
+    {
+      "title": "China's catastrophic South China Sea crash shows how dangerous high-risk moves at sea can be - Business Insider",
+      "pubDate": "Sat, 16 Aug 2025 12:39:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Researchers from OpenAI, Anthropic, Meta, and Google issue joint AI safety warning - here's why - ZDNET",
-      "pubDate": "Thu, 17 Jul 2025 14:15:00 GMT"
-    },
     {
       "title": "Meta declines to abide by voluntary EU AI safety guidelines - theregister.com",
       "pubDate": "Fri, 18 Jul 2025 22:29:00 GMT"
@@ -779,6 +767,10 @@
     {
       "title": "AI security governance converts disorder into deliberate innovation - Help Net Security",
       "pubDate": "Thu, 14 Aug 2025 06:00:01 GMT"
+    },
+    {
+      "title": "Anthropic bans nuclear, chemical weapons chats with Claude AI - Moneycontrol",
+      "pubDate": "Sat, 16 Aug 2025 11:21:20 GMT"
     }
   ],
   "Data Breach": [
@@ -1019,13 +1011,13 @@
     {
       "title": "Tropical Storm Erin could become first hurricane in Atlantic Ocean this season - CBS News",
       "pubDate": "Tue, 12 Aug 2025 17:38:35 GMT"
+    },
+    {
+      "title": "Hurricane Erin explodes in strength to a Category 5 storm in the Caribbean - ABC7 Chicago",
+      "pubDate": "Sat, 16 Aug 2025 15:32:48 GMT"
     }
   ],
   "Astronomy": [
-    {
-      "title": "Astronomers detect most massive black hole collision to date - CNN",
-      "pubDate": "Thu, 17 Jul 2025 15:00:00 GMT"
-    },
     {
       "title": "Astronomer CEO resigns after viral Coldplay incident - CNN",
       "pubDate": "Sat, 19 Jul 2025 19:25:00 GMT"
@@ -1263,10 +1255,6 @@
   ],
   "Cancer": [
     {
-      "title": "The world is winning the war on cancer - The Economist",
-      "pubDate": "Thu, 17 Jul 2025 10:23:50 GMT"
-    },
-    {
       "title": "Dramatic rise in gastrointestinal cancers in people under 50 - The Independent",
       "pubDate": "Thu, 17 Jul 2025 23:34:00 GMT"
     },
@@ -1367,10 +1355,6 @@
   ],
   "Health Care": [
     {
-      "title": "Millions of Americans now face a devastating one-two punch on health care - Axios",
-      "pubDate": "Thu, 17 Jul 2025 10:48:19 GMT"
-    },
-    {
       "title": "Texas Removes 1.8 Million People From Health Care Plan - Newsweek",
       "pubDate": "Sat, 26 Jul 2025 10:00:01 GMT"
     },
@@ -1407,6 +1391,10 @@
     {
       "title": "China\u2019s Fusion Reactor Stuns Scientists As \"100 Million Feels Like The Start\" In World-First Artificial Sun Energy Milestone - Energy Reporters",
       "pubDate": "Tue, 12 Aug 2025 12:47:50 GMT"
+    },
+    {
+      "title": "Russia Warns as \"Light Exploded Without Fire\" When American Fusion Breakthrough Edged Toward 350 MW, Threatening Global Power Balance - Energy Reporters",
+      "pubDate": "Sat, 16 Aug 2025 09:56:06 GMT"
     }
   ],
   "North Korea": [
@@ -1596,10 +1584,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Scientists make 'magic state' breakthrough after 20 years \u2014 without it, quantum computers can never be truly useful - Live Science",
-      "pubDate": "Thu, 17 Jul 2025 15:00:00 GMT"
-    },
     {
       "title": "Researchers demonstrate modular approach for building scalable quantum computers - Tech Xplore",
       "pubDate": "Wed, 23 Jul 2025 20:29:30 GMT"
@@ -2385,6 +2369,10 @@
     {
       "title": "Jeff Bezos cashes out $5.7 billion in Amazon stock ahead of earnings - Cryptopolitan",
       "pubDate": "Sat, 26 Jul 2025 11:44:00 GMT"
+    },
+    {
+      "title": "Jeff Bezos' Biological Father Didn't Know He Was A Billionaire Until 2012 - NDTV",
+      "pubDate": "Sat, 16 Aug 2025 13:54:02 GMT"
     }
   ],
   "Data Science": [
@@ -2539,6 +2527,10 @@
     {
       "title": "Oak Brook Police Department launches fully autonomous drone as first responder; some concerned over privacy rights - ABC7 Chicago",
       "pubDate": "Fri, 15 Aug 2025 00:47:59 GMT"
+    },
+    {
+      "title": "Hours After Alaska Meet, Russia Fired 85 Drones, 1 Missile On Ukraine: Kyiv - NDTV",
+      "pubDate": "Sat, 16 Aug 2025 13:20:48 GMT"
     }
   ],
   "Business": [
