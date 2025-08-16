@@ -131,6 +131,10 @@
     {
       "title": "Meta plans fourth restructuring of AI efforts in six months, The Information reports - Reuters",
       "pubDate": "Fri, 15 Aug 2025 22:34:04 GMT"
+    },
+    {
+      "title": "Is AI Truly Creative? Here Is the Ultimate Test - mindmatters.ai",
+      "pubDate": "Sat, 16 Aug 2025 16:06:50 GMT"
     }
   ],
   "US Politics": [
@@ -216,10 +220,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia tightens its stranglehold on Ukraine battlefield as Trump gifts Putin 50-day window - CNN",
-      "pubDate": "Thu, 17 Jul 2025 19:05:00 GMT"
-    },
     {
       "title": "Ukraine attacks Moscow with drones for 3rd straight night, Russian official says - The Kyiv Independent",
       "pubDate": "Fri, 18 Jul 2025 23:16:05 GMT"
@@ -550,10 +550,6 @@
     }
   ],
   "China": [
-    {
-      "title": "US-based Wells Fargo banker blocked from leaving China after arriving for work trip: report - New York Post",
-      "pubDate": "Thu, 17 Jul 2025 19:30:00 GMT"
-    },
     {
       "title": "China imposes \"exit ban\" on Wells Fargo executive, reports say - Axios",
       "pubDate": "Fri, 18 Jul 2025 19:21:57 GMT"
@@ -941,6 +937,10 @@
     {
       "title": "US national debt reaches a record $37 trillion, the Treasury Department reports - The Sun Chronicle",
       "pubDate": "Tue, 12 Aug 2025 20:29:13 GMT"
+    },
+    {
+      "title": "US will dodge recession, but Trump's policies will slow economic growth: Report - USA Today",
+      "pubDate": "Sat, 16 Aug 2025 09:07:13 GMT"
     }
   ],
   "Trade War": [
@@ -1044,10 +1044,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "A Surge of Earthquakes in Alaska Is Raising Red Flags - Gizmodo",
-      "pubDate": "Thu, 17 Jul 2025 20:15:22 GMT"
-    },
     {
       "title": "First video of an earthquake fault cracking has revealed another surprise - Live Science",
       "pubDate": "Fri, 18 Jul 2025 19:52:00 GMT"
@@ -1555,6 +1551,10 @@
     {
       "title": "Scientists synthesized elusive 'super alcohol' \u2014 a 'seed of life molecule' that marks a step toward finding alien life - Live Science",
       "pubDate": "Thu, 07 Aug 2025 18:06:27 GMT"
+    },
+    {
+      "title": "Scientists transform 'forever chemicals' in water into fluoride with new process - Live Science",
+      "pubDate": "Sat, 16 Aug 2025 18:02:00 GMT"
     }
   ],
   "OpenAI": [
@@ -1661,13 +1661,13 @@
     {
       "title": "Trump-Putin summit ends without concrete deal - CNN",
       "pubDate": "Sat, 16 Aug 2025 03:52:00 GMT"
+    },
+    {
+      "title": "Trump-Putin Summit and Oil Market Volatility: Geopolitics vs. Structural Oversupply - AInvest",
+      "pubDate": "Sat, 16 Aug 2025 18:16:16 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "Israeli War on Gaza Infrastructure, Trump Tariff Economic Hit, Myanmar Mining Pollution, Runaway Global Arms Race - Global Investigative Journalism Network (GIJN)",
-      "pubDate": "Fri, 25 Jul 2025 07:19:50 GMT"
-    },
     {
       "title": "Israel will let foreign countries drop aid into Gaza, Israel army radio says - Reuters",
       "pubDate": "Fri, 25 Jul 2025 12:14:35 GMT"
@@ -1823,17 +1823,13 @@
     {
       "title": "Israeli unit tasked with smearing Gaza journalists as Hamas fighters \u2013 report - The Guardian",
       "pubDate": "Fri, 15 Aug 2025 20:00:00 GMT"
+    },
+    {
+      "title": "Israel prepares to move Palestinians to southern Gaza as Israelis urge mass protest over war - Colorado Springs Gazette",
+      "pubDate": "Sat, 16 Aug 2025 18:20:10 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "House sends bill regulating stablecoins, a type of cryptocurrency, to Trump - Star Tribune",
-      "pubDate": "Thu, 17 Jul 2025 20:26:15 GMT"
-    },
-    {
-      "title": "House sends first-of-its-kind cryptocurrency legislation to Trump\u2019s desk after conservative revolt briefly delayed it - CNN",
-      "pubDate": "Thu, 17 Jul 2025 20:03:00 GMT"
-    },
     {
       "title": "Trump signs new stablecoin regulations into law, a major milestone for crypto industry - AP News",
       "pubDate": "Fri, 18 Jul 2025 21:21:00 GMT"
@@ -2237,12 +2233,6 @@
       "pubDate": "Sat, 09 Aug 2025 05:03:57 GMT"
     }
   ],
-  "Mark Zuckerberg": [
-    {
-      "title": "Meta settles $8bn lawsuit with Zuckerberg over Facebook privacy - BBC",
-      "pubDate": "Thu, 17 Jul 2025 20:05:28 GMT"
-    }
-  ],
   "Volcanoes": [
     {
       "title": "Researchers issue warning over troubling phenomenon that could revive dormant volcanoes: 'It's just like opening a Coca-Cola bottle' - Yahoo Home",
@@ -2255,12 +2245,6 @@
     {
       "title": "Russia's Krasheninnikov volcano erupts for first time in 600 years \u2013 video - The Guardian",
       "pubDate": "Sun, 03 Aug 2025 15:18:00 GMT"
-    }
-  ],
-  "Hydrogen Fuel": [
-    {
-      "title": "Stellantis scraps hydrogen fuel cell tech and abandons new car plans - MSN",
-      "pubDate": "Thu, 17 Jul 2025 19:53:35 GMT"
     }
   ],
   "European Union": [
@@ -2379,6 +2363,10 @@
     {
       "title": "Data Science Course FAANG Interview Prep 2025 - Data Scientist Jobs at Google Amazon Meta Apple Netflix Updated - Yahoo Finance",
       "pubDate": "Sat, 26 Jul 2025 16:04:00 GMT"
+    },
+    {
+      "title": "This AI stock-picking tool uses data science to predict winners, now $56 for life - Popular Science",
+      "pubDate": "Sat, 16 Aug 2025 11:00:00 GMT"
     }
   ],
   "Energy Transition": [
