@@ -351,13 +351,13 @@
     {
       "title": "Trump reportedly to back ceding of Ukrainian territory to Russia as part of peace deal - The Guardian",
       "pubDate": "Sun, 17 Aug 2025 00:29:00 GMT"
+    },
+    {
+      "title": "Trump tells Zelenskiy that Putin wants more of Ukraine, urges Kyiv make a deal - Reuters",
+      "pubDate": "Sat, 16 Aug 2025 22:05:06 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "EU imposes new sanctions on Russia's oil and banks after Robert Fico lifts his veto - Euronews.com",
-      "pubDate": "Fri, 18 Jul 2025 06:36:51 GMT"
-    },
     {
       "title": "After Ukraine, this country could be Putin's next target for invasion - Australian Broadcasting Corporation",
       "pubDate": "Sat, 19 Jul 2025 19:25:05 GMT"
@@ -677,6 +677,10 @@
     {
       "title": "China's catastrophic South China Sea crash shows how dangerous high-risk moves at sea can be - Business Insider",
       "pubDate": "Sat, 16 Aug 2025 12:39:00 GMT"
+    },
+    {
+      "title": "China steps up tax crackdown on overseas investments - Financial Times",
+      "pubDate": "Sun, 17 Aug 2025 04:00:21 GMT"
     }
   ],
   "AI Safety": [
@@ -1135,6 +1139,10 @@
     {
       "title": "Magnitude-6 earthquake strikes Indonesian island of Sulawesi - Australian Broadcasting Corporation",
       "pubDate": "Sat, 16 Aug 2025 23:39:07 GMT"
+    },
+    {
+      "title": "Powerful earthquake strikes Indonesia leaving dozens injured and two critical - The Independent",
+      "pubDate": "Sun, 17 Aug 2025 06:01:00 GMT"
     }
   ],
   "Democratic Party": [
@@ -1329,6 +1337,10 @@
     {
       "title": "Hurricane Erin strengthens significantly, will impact on Maryland's rip current - WBAL-TV",
       "pubDate": "Sun, 17 Aug 2025 01:30:00 GMT"
+    },
+    {
+      "title": "Hurricane Erin weakens but maintains major hurricane status - Gulf Coast News and Weather",
+      "pubDate": "Sun, 17 Aug 2025 03:35:00 GMT"
     }
   ],
   "Elon Musk": [
@@ -1665,10 +1677,6 @@
   ],
   "Gaza": [
     {
-      "title": "Gaza's hunger crisis is having 'catastrophic' outcomes for mothers and babies - NBC News",
-      "pubDate": "Fri, 25 Jul 2025 19:40:04 GMT"
-    },
-    {
       "title": "Israel intercepts Gaza-bound activist boat with food aid - BBC",
       "pubDate": "Sun, 27 Jul 2025 02:17:31 GMT"
     },
@@ -1823,6 +1831,10 @@
     {
       "title": "US halts visitor visas from Gaza used for medical trips - BBC",
       "pubDate": "Sat, 16 Aug 2025 23:55:38 GMT"
+    },
+    {
+      "title": "Gaza aid dropped into Israeli-designated danger zone, BBC Verify finds - BBC",
+      "pubDate": "Sat, 16 Aug 2025 23:04:22 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1951,6 +1963,10 @@
     {
       "title": "Why an MIT student quit college over AGI fear, and are we really next? - Interesting Engineering",
       "pubDate": "Fri, 15 Aug 2025 20:36:00 GMT"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman flags deflationary shock from AGI; here is what he predicts for the future world economy - Fortune India",
+      "pubDate": "Sun, 17 Aug 2025 06:07:47 GMT"
     }
   ],
   "American Civil Liberties Union": [
@@ -2248,10 +2264,6 @@
     }
   ],
   "European Union": [
-    {
-      "title": "EU agrees new Russia sanctions after Slovakia drops opposition \u2013 as it happened - The Guardian",
-      "pubDate": "Fri, 18 Jul 2025 07:27:00 GMT"
-    },
     {
       "title": "EU to Force Car-Rental Firms to Buy EVs Only From 2030: Bild - Bloomberg.com",
       "pubDate": "Sun, 20 Jul 2025 12:39:29 GMT"
@@ -2581,6 +2593,12 @@
     {
       "title": "More outages, aging infrastructure, and bicoastal dysfunction: BofA warns America\u2019s grid is 30% to 46% \u2018beyond its useful life\u2019 - Fortune",
       "pubDate": "Fri, 15 Aug 2025 16:22:00 GMT"
+    }
+  ],
+  "Hydrogen Fuel": [
+    {
+      "title": "US Officials Admit \"Cranes Blot Out the Sun\" as Europe\u2019s Hydrogen Megaproject Surges Ahead to Become Largest Construction Zone on the Planet - Sustainability Times",
+      "pubDate": "Sun, 17 Aug 2025 01:07:51 GMT"
     }
   ]
 }
