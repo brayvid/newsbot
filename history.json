@@ -397,10 +397,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Live updates: Trump orders DOJ to release Epstein grand jury testimony; PBS, NPR and foreign aid cuts clear Congress - NBC News",
-      "pubDate": "Fri, 18 Jul 2025 15:41:19 GMT"
-    },
-    {
       "title": "Trump tells Attorney General Bondi to seek release of Epstein grand jury records - CNN",
       "pubDate": "Fri, 18 Jul 2025 19:36:00 GMT"
     },
@@ -499,19 +495,11 @@
   ],
   "National Security": [
     {
-      "title": "China-linked scam centers target U.S., congressional commission warns - The Washington Post",
-      "pubDate": "Fri, 18 Jul 2025 14:45:08 GMT"
-    },
-    {
       "title": "China summons chip giant Nvidia over alleged security risks - Yahoo Finance",
       "pubDate": "Thu, 31 Jul 2025 07:50:05 GMT"
     }
   ],
   "US Congress": [
-    {
-      "title": "Congress passes DOGE spending cuts as Trump orders release of \u2018pertinent\u2019 Epstein files - CNN",
-      "pubDate": "Fri, 18 Jul 2025 15:23:00 GMT"
-    },
     {
       "title": "California releases first draft of redrawn congressional district maps - ABC7 Los Angeles",
       "pubDate": "Sat, 16 Aug 2025 02:26:15 GMT"
@@ -771,6 +759,10 @@
     {
       "title": "Regulatory Crossroads: How AI Safety Scrutiny Reshapes Tech Investment Landscapes - AInvest",
       "pubDate": "Sat, 16 Aug 2025 21:35:16 GMT"
+    },
+    {
+      "title": "Igor Babuschkin Resigns from xAI Amid Ethical AI Disputes - AInvest",
+      "pubDate": "Sun, 17 Aug 2025 10:37:34 GMT"
     }
   ],
   "Data Breach": [
@@ -1019,6 +1011,10 @@
     {
       "title": "Hurricane Erin explodes in strength to a Category 5 storm in the Caribbean - ABC7 Chicago",
       "pubDate": "Sat, 16 Aug 2025 15:32:48 GMT"
+    },
+    {
+      "title": "Powerful Hurricane Erin could mimic damage from earlier hurricanes that stayed offshore - USA Today",
+      "pubDate": "Sun, 17 Aug 2025 09:07:12 GMT"
     }
   ],
   "Astronomy": [
@@ -1369,10 +1365,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "EU announces \u20ac200m contribution to Spanish fusion research facility - Global Construction Review",
-      "pubDate": "Fri, 18 Jul 2025 10:32:53 GMT"
-    },
-    {
       "title": "Global investment in fusion energy rises the most since 2022 - Reuters",
       "pubDate": "Tue, 22 Jul 2025 00:03:00 GMT"
     },
@@ -1403,10 +1395,6 @@
   ],
   "North Korea": [
     {
-      "title": "North Korea bars foreigners from recently unveiled \u2018world class\u2019 beach resort days after Lavrov visit - Yahoo",
-      "pubDate": "Fri, 18 Jul 2025 14:03:22 GMT"
-    },
-    {
       "title": "US offers $15 million reward for info on North Korean nationals involved in global criminal network - CyberScoop",
       "pubDate": "Fri, 25 Jul 2025 15:03:07 GMT"
     },
@@ -1428,10 +1416,6 @@
     }
   ],
   "Tesla": [
-    {
-      "title": "Tesla finally launches in India, but the world\u2019s third largest car market has been a graveyard for western brands - Fortune",
-      "pubDate": "Fri, 18 Jul 2025 12:08:00 GMT"
-    },
     {
       "title": "Tesla profits slide 16%, despite Elon Musk\u2019s pivot back to his companies - NPR",
       "pubDate": "Thu, 24 Jul 2025 00:18:10 GMT"
@@ -1533,6 +1517,10 @@
     {
       "title": "Global average solar LCOE stood at $0.043/kWh in 2024, says IRENA - pv magazine International",
       "pubDate": "Wed, 23 Jul 2025 08:47:24 GMT"
+    },
+    {
+      "title": "Victoria\u2019s green energy build almost doubles in price - AFR",
+      "pubDate": "Sun, 17 Aug 2025 09:51:00 GMT"
     }
   ],
   "Cosmology": [
@@ -1631,6 +1619,10 @@
     {
       "title": "Ocasio-Cortez's office vandalized amid 'multiple threats' to her life, campaign manager says - AOL.com",
       "pubDate": "Thu, 07 Aug 2025 07:33:03 GMT"
+    },
+    {
+      "title": "Former AOC Staffer Arrested For Trying To Incite Attack On Jewish School - AOL.com",
+      "pubDate": "Sun, 17 Aug 2025 12:27:26 GMT"
     }
   ],
   "Geopolitics": [
@@ -2159,6 +2151,10 @@
     {
       "title": "Musk\u2019s X refuses to share algorithm with French prosecutors, decrying \u2018politically motivated\u2019 probe - AnewZ",
       "pubDate": "Mon, 21 Jul 2025 11:52:22 GMT"
+    },
+    {
+      "title": "The algorithm vs. the bureaucrat: Israeli startups turn red tape into opportunity - Ynetnews",
+      "pubDate": "Sun, 17 Aug 2025 06:09:02 GMT"
     }
   ],
   "Battery Electric Vehicle": [
@@ -2309,6 +2305,10 @@
     {
       "title": "Under-qualified sysadmin crashed Amazon.com for 3 hours with a typo - theregister.com",
       "pubDate": "Mon, 21 Jul 2025 07:32:00 GMT"
+    },
+    {
+      "title": "Amazon's expansion of grocery delivery isn't the death knell for these stocks. Here's why - CNBC",
+      "pubDate": "Sun, 17 Aug 2025 14:35:44 GMT"
     }
   ],
   "Large Language Models": [
@@ -2563,6 +2563,10 @@
     {
       "title": "Former Peel Hunt electronic trading head joins Berenberg to bolster algorithmic offering - The TRADE",
       "pubDate": "Thu, 14 Aug 2025 11:13:03 GMT"
+    },
+    {
+      "title": "The Hidden Costs of Algorithmic Trading: How Governance Failures Erode Shareholder Value - AInvest",
+      "pubDate": "Sun, 17 Aug 2025 10:28:25 GMT"
     }
   ],
   "Net Zero Emissions": [
