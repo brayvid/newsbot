@@ -217,6 +217,10 @@
     {
       "title": "Israel Cyber Directorate employee arrested in America - The Jerusalem Post",
       "pubDate": "Sat, 16 Aug 2025 12:31:23 GMT"
+    },
+    {
+      "title": "Israel says it targeted energy infrastructure site used by Houthis near Yemeni capital - Reuters",
+      "pubDate": "Sun, 17 Aug 2025 13:13:48 GMT"
     }
   ],
   "Ukraine": [
@@ -397,14 +401,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump tells Attorney General Bondi to seek release of Epstein grand jury records - CNN",
-      "pubDate": "Fri, 18 Jul 2025 19:36:00 GMT"
-    },
-    {
-      "title": "Trump sues Murdoch for $10 billion over WSJ story on Epstein birthday letter - CNBC",
-      "pubDate": "Fri, 18 Jul 2025 20:49:41 GMT"
-    },
-    {
       "title": "Trump files libel lawsuit over Wall Street Journal report on Jeffrey Epstein\u2019s birthday letters - CNN",
       "pubDate": "Sat, 19 Jul 2025 01:10:00 GMT"
     },
@@ -534,10 +530,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China imposes \"exit ban\" on Wells Fargo executive, reports say - Axios",
-      "pubDate": "Fri, 18 Jul 2025 19:21:57 GMT"
-    },
     {
       "title": "Chinese scientists develop low-cost cell therapy for cancer, asthma - South China Morning Post",
       "pubDate": "Sat, 19 Jul 2025 06:00:12 GMT"
@@ -669,6 +661,10 @@
     {
       "title": "China steps up tax crackdown on overseas investments - Financial Times",
       "pubDate": "Sun, 17 Aug 2025 04:00:21 GMT"
+    },
+    {
+      "title": "China to upgrade 300,000 km of rural roads by 2027 to boost economic growth - TV BRICS",
+      "pubDate": "Sun, 17 Aug 2025 13:03:27 GMT"
     }
   ],
   "AI Safety": [
@@ -763,6 +759,10 @@
     {
       "title": "Igor Babuschkin Resigns from xAI Amid Ethical AI Disputes - AInvest",
       "pubDate": "Sun, 17 Aug 2025 10:37:34 GMT"
+    },
+    {
+      "title": "Alternate Approaches To AI Safeguards: Meta Versus Anthropic - Forbes",
+      "pubDate": "Sun, 17 Aug 2025 12:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1045,10 +1045,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "First video of an earthquake fault cracking has revealed another surprise - Live Science",
-      "pubDate": "Fri, 18 Jul 2025 19:52:00 GMT"
-    },
-    {
       "title": "A Moderate Earthquake Shakes Bay Of Plenty With No Impact Felt: Latest Travel Safety Update - Travel And Tour World",
       "pubDate": "Sat, 19 Jul 2025 08:10:50 GMT"
     },
@@ -1201,6 +1197,10 @@
     {
       "title": "Bitcoin touches record high as crypto rally rages on amid bullish 'fundamental changes' - Yahoo Finance",
       "pubDate": "Thu, 14 Aug 2025 07:31:46 GMT"
+    },
+    {
+      "title": "Bitcoin (BTC) Forecast: Price Could Drop to $108K\u2013$112K, Warns Crypto Analyst Lark Davis - CoinDesk",
+      "pubDate": "Sun, 17 Aug 2025 19:52:30 GMT"
     }
   ],
   "BRICS": [
@@ -1214,10 +1214,6 @@
     }
   ],
   "Central Intelligence Agency": [
-    {
-      "title": "Senate Considers Ending Its Vetting of Spy Agencies\u2019 Top Lawyers - Bloomberg",
-      "pubDate": "Fri, 18 Jul 2025 17:37:05 GMT"
-    },
     {
       "title": "Exclusive: Hackers breached intelligence website used by CIA - Washington Times",
       "pubDate": "Fri, 25 Jul 2025 15:52:59 GMT"
@@ -1551,6 +1547,10 @@
     {
       "title": "Scientists transform 'forever chemicals' in water into fluoride with new process - Live Science",
       "pubDate": "Sat, 16 Aug 2025 18:02:00 GMT"
+    },
+    {
+      "title": "Scientists finally tame the impossible 48-atom carbon ring - ScienceDaily",
+      "pubDate": "Sun, 17 Aug 2025 13:57:32 GMT"
     }
   ],
   "OpenAI": [
@@ -2173,6 +2173,10 @@
     {
       "title": "Ford\u2019s Radical $5 Billion Plan Could Slash EV Prices in Half - autoblog.com",
       "pubDate": "Mon, 11 Aug 2025 14:30:00 GMT"
+    },
+    {
+      "title": "Record number of EVs registered in western Europe across last quarter - The Guardian",
+      "pubDate": "Sun, 17 Aug 2025 16:19:00 GMT"
     }
   ],
   "Defense Intelligence Agency": [
@@ -2270,10 +2274,6 @@
     }
   ],
   "Global Health": [
-    {
-      "title": "US rejects WHO pandemic changes to global health rules - Reuters",
-      "pubDate": "Fri, 18 Jul 2025 20:42:49 GMT"
-    },
     {
       "title": "RFK Jr\u2019s health department to halt $500m in mRNA vaccine research - The Guardian",
       "pubDate": "Wed, 06 Aug 2025 02:12:00 GMT"
@@ -2531,6 +2531,10 @@
     {
       "title": "Hours After Alaska Meet, Russia Fired 85 Drones, 1 Missile On Ukraine: Kyiv - NDTV",
       "pubDate": "Sat, 16 Aug 2025 13:20:48 GMT"
+    },
+    {
+      "title": "High-tech drones turn Ukraine's front line into a deadly kill zone, complicating evacuations - ABC News",
+      "pubDate": "Sun, 17 Aug 2025 09:18:43 GMT"
     }
   ],
   "Business": [
