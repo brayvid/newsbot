@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Meta Hires Two Key Apple AI Experts After Poaching Their Boss - Bloomberg",
-      "pubDate": "Thu, 17 Jul 2025 23:37:36 GMT"
-    },
-    {
       "title": "OpenAI claims a breakthrough in LLM reasoning on complex math problems - the-decoder.com",
       "pubDate": "Sat, 19 Jul 2025 12:12:35 GMT"
     },
@@ -135,6 +131,10 @@
     {
       "title": "Is AI Truly Creative? Here Is the Ultimate Test - mindmatters.ai",
       "pubDate": "Sat, 16 Aug 2025 16:06:50 GMT"
+    },
+    {
+      "title": "AI-generated models shake up the fashion industry and raise concerns - PBS",
+      "pubDate": "Sat, 16 Aug 2025 21:35:05 GMT"
     }
   ],
   "US Politics": [
@@ -347,6 +347,10 @@
     {
       "title": "Ukraine scrambles to roll back Russian eastern advance as summit takes place - The Washington Post",
       "pubDate": "Fri, 15 Aug 2025 22:03:05 GMT"
+    },
+    {
+      "title": "Trump reportedly to back ceding of Ukrainian territory to Russia as part of peace deal - The Guardian",
+      "pubDate": "Sun, 17 Aug 2025 00:29:00 GMT"
     }
   ],
   "Russia": [
@@ -392,14 +396,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump orders production of more Epstein material after pressure - BBC",
-      "pubDate": "Fri, 18 Jul 2025 02:55:35 GMT"
-    },
-    {
-      "title": "Trump diagnosed with chronic venous insufficiency following leg swelling - CNN",
-      "pubDate": "Thu, 17 Jul 2025 21:52:00 GMT"
-    },
     {
       "title": "Live updates: Trump orders DOJ to release Epstein grand jury testimony; PBS, NPR and foreign aid cuts clear Congress - NBC News",
       "pubDate": "Fri, 18 Jul 2025 15:41:19 GMT"
@@ -767,6 +763,10 @@
     {
       "title": "Anthropic bans nuclear, chemical weapons chats with Claude AI - Moneycontrol",
       "pubDate": "Sat, 16 Aug 2025 11:21:20 GMT"
+    },
+    {
+      "title": "Regulatory Crossroads: How AI Safety Scrutiny Reshapes Tech Investment Landscapes - AInvest",
+      "pubDate": "Sat, 16 Aug 2025 21:35:16 GMT"
     }
   ],
   "Data Breach": [
@@ -1131,6 +1131,10 @@
     {
       "title": "Scientists issue chilling warning about 'The Big One' earthquake predicted to be one of history's most devastating - LADbible",
       "pubDate": "Thu, 14 Aug 2025 07:19:47 GMT"
+    },
+    {
+      "title": "Magnitude-6 earthquake strikes Indonesian island of Sulawesi - Australian Broadcasting Corporation",
+      "pubDate": "Sat, 16 Aug 2025 23:39:07 GMT"
     }
   ],
   "Democratic Party": [
@@ -1158,10 +1162,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin Tops $120K on Report of Trump Approving Crypto Investments for Retirement Accounts - CoinDesk",
-      "pubDate": "Thu, 17 Jul 2025 22:26:34 GMT"
-    },
     {
       "title": "Trump Media stock surges after acquiring $2 billion of bitcoin - Yahoo Finance",
       "pubDate": "Mon, 21 Jul 2025 13:37:12 GMT"
@@ -1221,10 +1221,6 @@
   ],
   "Renewable Energy": [
     {
-      "title": "Interior Dept. to Put Wind and Solar Projects Through Stricter Political Review - The New York Times",
-      "pubDate": "Thu, 17 Jul 2025 21:04:11 GMT"
-    },
-    {
       "title": "Scientists make game-changing breakthrough that could slash costs of solar panels: 'Has the potential to contribute to the energy transition' - Yahoo Home",
       "pubDate": "Sat, 19 Jul 2025 11:00:00 GMT"
     },
@@ -1250,10 +1246,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "Dramatic rise in gastrointestinal cancers in people under 50 - The Independent",
-      "pubDate": "Thu, 17 Jul 2025 23:34:00 GMT"
-    },
     {
       "title": "FDA Rejects Replimune\u2019s Skin Cancer Treatment, Shares Sink - Yahoo Finance",
       "pubDate": "Tue, 22 Jul 2025 14:05:00 GMT"
@@ -1333,6 +1325,10 @@
     {
       "title": "First Atlantic hurricane of the 2025 season may form around mid-August - AccuWeather",
       "pubDate": "Sun, 10 Aug 2025 17:02:18 GMT"
+    },
+    {
+      "title": "Hurricane Erin strengthens significantly, will impact on Maryland's rip current - WBAL-TV",
+      "pubDate": "Sun, 17 Aug 2025 01:30:00 GMT"
     }
   ],
   "Elon Musk": [
@@ -1669,10 +1665,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel will let foreign countries drop aid into Gaza, Israel army radio says - Reuters",
-      "pubDate": "Fri, 25 Jul 2025 12:14:35 GMT"
-    },
-    {
       "title": "Gaza's hunger crisis is having 'catastrophic' outcomes for mothers and babies - NBC News",
       "pubDate": "Fri, 25 Jul 2025 19:40:04 GMT"
     },
@@ -1827,6 +1819,10 @@
     {
       "title": "Israel prepares to move Palestinians to southern Gaza as Israelis urge mass protest over war - Colorado Springs Gazette",
       "pubDate": "Sat, 16 Aug 2025 18:20:10 GMT"
+    },
+    {
+      "title": "US halts visitor visas from Gaza used for medical trips - BBC",
+      "pubDate": "Sat, 16 Aug 2025 23:55:38 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1899,6 +1895,10 @@
     {
       "title": "Scientists capture first footage of human embryo implanting in a uterus - The Guardian",
       "pubDate": "Fri, 15 Aug 2025 18:01:00 GMT"
+    },
+    {
+      "title": "Scientists have finally made an elusive meteorite diamond, predicted to be 50% harder than Earth diamonds - MSN",
+      "pubDate": "Sat, 16 Aug 2025 20:06:23 GMT"
     }
   ],
   "Apple": [
