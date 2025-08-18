@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI claims a breakthrough in LLM reasoning on complex math problems - the-decoder.com",
-      "pubDate": "Sat, 19 Jul 2025 12:12:35 GMT"
-    },
-    {
       "title": "AI in health care could save lives and money \u2014 but not yet - PBS",
       "pubDate": "Sat, 19 Jul 2025 20:13:32 GMT"
     },
@@ -135,13 +131,13 @@
     {
       "title": "AI-generated models shake up the fashion industry and raise concerns - PBS",
       "pubDate": "Sat, 16 Aug 2025 21:35:05 GMT"
+    },
+    {
+      "title": "AI could spark a $16 trillion boom for stocks, Morgan Stanley says - Business Insider",
+      "pubDate": "Mon, 18 Aug 2025 15:40:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump DOJ wants Supreme Court to bring down hammer on gun rules - USA Today",
-      "pubDate": "Sat, 19 Jul 2025 09:05:21 GMT"
-    },
     {
       "title": "Trump fires BLS head as tariffs cause stock market drop - BBC",
       "pubDate": "Fri, 01 Aug 2025 23:31:34 GMT"
@@ -220,10 +216,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia Deploys New Lethal Tactic Against Ukraine - Newsweek",
-      "pubDate": "Sat, 19 Jul 2025 12:38:13 GMT"
-    },
     {
       "title": "Russia Could Unleash 2,000 Drones on Ukraine at Once, German General Warns - UNITED24 Media",
       "pubDate": "Sun, 20 Jul 2025 14:51:38 GMT"
@@ -359,6 +351,10 @@
     {
       "title": "Russia strikes on Kharkiv kill three, injure 17, Ukraine says - Reuters",
       "pubDate": "Mon, 18 Aug 2025 08:23:18 GMT"
+    },
+    {
+      "title": "Trump pressures Ukraine to cede Crimea, drop campaign for NATO ahead of Zelenskyy meeting - NBC News",
+      "pubDate": "Mon, 18 Aug 2025 13:31:51 GMT"
     }
   ],
   "Russia": [
@@ -825,6 +821,10 @@
     {
       "title": "Online Gaming Provider Bragg Gaming Confirms Limited Internal Data Breach with No Impact on Operations - Stock Titan",
       "pubDate": "Mon, 18 Aug 2025 02:08:12 GMT"
+    },
+    {
+      "title": "Workday Data Breach Bears Signs of Widespread Salesforce Hack - SecurityWeek",
+      "pubDate": "Mon, 18 Aug 2025 11:59:25 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1007,6 +1007,10 @@
     {
       "title": "Powerful Hurricane Erin could mimic damage from earlier hurricanes that stayed offshore - USA Today",
       "pubDate": "Sun, 17 Aug 2025 09:07:12 GMT"
+    },
+    {
+      "title": "Hurricane Erin likely to bring \"life-threatening surf and rip currents\" to East Coast. Maps show its path and forecast. - CBS News",
+      "pubDate": "Mon, 18 Aug 2025 15:03:38 GMT"
     }
   ],
   "Astronomy": [
@@ -1212,10 +1216,6 @@
     }
   ],
   "Renewable Energy": [
-    {
-      "title": "Scientists make game-changing breakthrough that could slash costs of solar panels: 'Has the potential to contribute to the energy transition' - Yahoo Home",
-      "pubDate": "Sat, 19 Jul 2025 11:00:00 GMT"
-    },
     {
       "title": "Japan sees bright future for ultra-thin, flexible solar panels - KAKE",
       "pubDate": "Sun, 20 Jul 2025 03:05:28 GMT"
@@ -1503,10 +1503,6 @@
   ],
   "Alternative Energy": [
     {
-      "title": "The $200 Million Plan to Rebuild Ukraine's Energy Sector - Crude Oil Prices Today | OilPrice.com",
-      "pubDate": "Sat, 19 Jul 2025 15:00:00 GMT"
-    },
-    {
       "title": "Plan for vast solar field riles critics seeking to preserve Negev\u2019s open vistas - The Times of Israel",
       "pubDate": "Mon, 21 Jul 2025 05:52:27 GMT"
     },
@@ -1669,10 +1665,6 @@
   ],
   "Gaza": [
     {
-      "title": "Food airdropped into Gaza as starvation deaths rise - The Washington Post",
-      "pubDate": "Sun, 27 Jul 2025 06:15:58 GMT"
-    },
-    {
       "title": "Israel announces \u2018tactical pause\u2019 to fighting in 3 Gaza areas, aid trucks enter enclave - France 24",
       "pubDate": "Sun, 27 Jul 2025 06:34:45 GMT"
     },
@@ -1827,6 +1819,10 @@
     {
       "title": "Newly obtained video shows Israeli missile hitting Palestinian girl in Gaza - Al Jazeera",
       "pubDate": "Sun, 17 Aug 2025 16:14:47 GMT"
+    },
+    {
+      "title": "Leaked recording reveals ex-Israeli military intelligence chief calling 50,000 deaths in Gaza \u2018necessary\u2019 - CNN",
+      "pubDate": "Mon, 18 Aug 2025 09:29:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2193,6 +2189,10 @@
     {
       "title": "AI Just Found the Future of Batteries, And It\u2019s Not Lithium - SciTechDaily",
       "pubDate": "Tue, 05 Aug 2025 08:09:57 GMT"
+    },
+    {
+      "title": "Chinese scientists make lithium battery breakthrough, doubling energy density - The Independent",
+      "pubDate": "Mon, 18 Aug 2025 09:51:00 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -2607,6 +2607,12 @@
     {
       "title": "Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs\u2014combined - MSN",
       "pubDate": "Mon, 18 Aug 2025 08:35:52 GMT"
+    }
+  ],
+  "Biology": [
+    {
+      "title": "Scientists urge shift in medicine to target the biology of aging - news-medical.net",
+      "pubDate": "Mon, 18 Aug 2025 13:08:00 GMT"
     }
   ]
 }
