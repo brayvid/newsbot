@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI in health care could save lives and money \u2014 but not yet - PBS",
-      "pubDate": "Sat, 19 Jul 2025 20:13:32 GMT"
-    },
-    {
       "title": "Artificial intelligence for healthcare: restrained development despite impressive applications - Infectious Diseases of Poverty",
       "pubDate": "Sun, 20 Jul 2025 03:04:51 GMT"
     },
@@ -355,13 +351,13 @@
     {
       "title": "Trump pressures Ukraine to cede Crimea, drop campaign for NATO ahead of Zelenskyy meeting - NBC News",
       "pubDate": "Mon, 18 Aug 2025 13:31:51 GMT"
+    },
+    {
+      "title": "Russia pounds Ukraine, kills more civilians before White House meeting - Al Jazeera",
+      "pubDate": "Mon, 18 Aug 2025 15:25:52 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "After Ukraine, this country could be Putin's next target for invasion - Australian Broadcasting Corporation",
-      "pubDate": "Sat, 19 Jul 2025 19:25:05 GMT"
-    },
     {
       "title": "Massive Drone Attack Disrupts Moscow Airports, Damages Homes and Cars - Kyiv Post",
       "pubDate": "Sun, 20 Jul 2025 06:06:49 GMT"
@@ -479,6 +475,10 @@
     {
       "title": "Trump names Gaynor, Kiss, Sylvester Stallone as Kennedy Center Honors picks - Al Jazeera",
       "pubDate": "Wed, 13 Aug 2025 20:03:45 GMT"
+    },
+    {
+      "title": "Trump-Zelenskyy meeting live updates as leaders hold Ukraine talks at White House - CBS News",
+      "pubDate": "Mon, 18 Aug 2025 19:27:00 GMT"
     }
   ],
   "National Security": [
@@ -522,10 +522,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China Begins Construction Of Mega-Dam On Brahmaputra River In Tibet - NDTV",
-      "pubDate": "Sat, 19 Jul 2025 18:21:36 GMT"
-    },
     {
       "title": "Microsoft says it will no longer use engineers in China for Department of Defense work - TechCrunch",
       "pubDate": "Sat, 19 Jul 2025 21:20:53 GMT"
@@ -754,10 +750,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Indian crypto exchange CoinDCX hacked, $44 million drained - Cointelegraph",
-      "pubDate": "Sat, 19 Jul 2025 16:37:51 GMT"
-    },
     {
       "title": "Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers - The Hacker News",
       "pubDate": "Sun, 20 Jul 2025 09:52:00 GMT"
@@ -1014,10 +1006,6 @@
     }
   ],
   "Astronomy": [
-    {
-      "title": "Astronomer CEO resigns after viral Coldplay incident - CNN",
-      "pubDate": "Sat, 19 Jul 2025 19:25:00 GMT"
-    },
     {
       "title": "Scientists may have solved a chemistry mystery about Jupiter's ocean moon Europa - Space",
       "pubDate": "Wed, 23 Jul 2025 18:00:00 GMT"
@@ -1665,10 +1653,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel announces \u2018tactical pause\u2019 to fighting in 3 Gaza areas, aid trucks enter enclave - France 24",
-      "pubDate": "Sun, 27 Jul 2025 06:34:45 GMT"
-    },
-    {
       "title": "Malnutrition rates reach alarming levels in Gaza, WHO warns - World Health Organization (WHO)",
       "pubDate": "Sun, 27 Jul 2025 16:03:22 GMT"
     },
@@ -1823,13 +1807,13 @@
     {
       "title": "Leaked recording reveals ex-Israeli military intelligence chief calling 50,000 deaths in Gaza \u2018necessary\u2019 - CNN",
       "pubDate": "Mon, 18 Aug 2025 09:29:00 GMT"
+    },
+    {
+      "title": "Hamas accepts latest Gaza ceasefire and hostage deal proposal - Axios",
+      "pubDate": "Mon, 18 Aug 2025 15:36:14 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "Trump Signs Historic GENIUS Act: New Cryptocurrency Law Could Reshape Banking and Strengthen US Dollar - Brave New Coin",
-      "pubDate": "Sat, 19 Jul 2025 17:30:50 GMT"
-    },
     {
       "title": "Pastor, wife indicted for $3.4M cryptocurrency scheme - BusinessDen",
       "pubDate": "Wed, 23 Jul 2025 11:27:47 GMT"
@@ -2276,10 +2260,6 @@
     }
   ],
   "Oceans": [
-    {
-      "title": "Scientists discover what wiped out global ocean life 200 million years ago - The Brighter Side of News",
-      "pubDate": "Sat, 19 Jul 2025 16:07:00 GMT"
-    },
     {
       "title": "Scientists Find New Ecosystem in Deepest Trenches of Pacific Ocean - HealthDay",
       "pubDate": "Sun, 03 Aug 2025 13:00:00 GMT"
