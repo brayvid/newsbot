@@ -355,6 +355,10 @@
     {
       "title": "Trump tells Zelensky to give up Crimea and agree to never join NATO - CNN",
       "pubDate": "Mon, 18 Aug 2025 02:28:00 GMT"
+    },
+    {
+      "title": "Russia strikes on Kharkiv kill three, injure 17, Ukraine says - Reuters",
+      "pubDate": "Mon, 18 Aug 2025 08:23:18 GMT"
     }
   ],
   "Russia": [
@@ -522,10 +526,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Chinese scientists develop low-cost cell therapy for cancer, asthma - South China Morning Post",
-      "pubDate": "Sat, 19 Jul 2025 06:00:12 GMT"
-    },
     {
       "title": "China Begins Construction Of Mega-Dam On Brahmaputra River In Tibet - NDTV",
       "pubDate": "Sat, 19 Jul 2025 18:21:36 GMT"
@@ -959,10 +959,6 @@
   ],
   "Asteroids": [
     {
-      "title": "What happens once we spot the asteroid that will hit Earth? - Financial Times",
-      "pubDate": "Sat, 19 Jul 2025 04:39:35 GMT"
-    },
-    {
       "title": "NASA Reports Plane-Sized Asteroid Nearing Earth - Newsweek",
       "pubDate": "Tue, 22 Jul 2025 13:50:42 GMT"
     },
@@ -1040,10 +1036,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "A Moderate Earthquake Shakes Bay Of Plenty With No Impact Felt: Latest Travel Safety Update - Travel And Tour World",
-      "pubDate": "Sat, 19 Jul 2025 08:10:50 GMT"
-    },
     {
       "title": "7.4 magnitude earthquake hits off Russian coast, prompting brief tsunami alerts in Russia, Hawaii - ABC News",
       "pubDate": "Sun, 20 Jul 2025 10:52:30 GMT"
@@ -1197,6 +1189,10 @@
     {
       "title": "Bitcoin (BTC) Forecast: Price Could Drop to $108K\u2013$112K, Warns Crypto Analyst Lark Davis - CoinDesk",
       "pubDate": "Sun, 17 Aug 2025 19:52:30 GMT"
+    },
+    {
+      "title": "Bitcoin slides to $115,500 as macro data continues to dampen market sentiment - The Block",
+      "pubDate": "Mon, 18 Aug 2025 05:04:20 GMT"
     }
   ],
   "BRICS": [
@@ -1329,6 +1325,10 @@
     {
       "title": "Hurricane Erin weakens but maintains major hurricane status - Gulf Coast News and Weather",
       "pubDate": "Sun, 17 Aug 2025 03:35:00 GMT"
+    },
+    {
+      "title": "Hurricane Erin regains Cat 4 strength as it pounds Puerto Rico - upi.com",
+      "pubDate": "Mon, 18 Aug 2025 07:26:38 GMT"
     }
   ],
   "Elon Musk": [
@@ -2151,6 +2151,10 @@
     {
       "title": "The algorithm vs. the bureaucrat: Israeli startups turn red tape into opportunity - Ynetnews",
       "pubDate": "Sun, 17 Aug 2025 06:09:02 GMT"
+    },
+    {
+      "title": "New algorithms enable efficient machine learning with symmetric data - Technology Org",
+      "pubDate": "Mon, 18 Aug 2025 07:30:00 GMT"
     }
   ],
   "Battery Electric Vehicle": [
@@ -2413,6 +2417,10 @@
     {
       "title": "India shot down six Pakistani military aircraft in May, air force chief says - Reuters",
       "pubDate": "Sat, 09 Aug 2025 17:07:31 GMT"
+    },
+    {
+      "title": "India tax cut plan boosts shares; Nifty set for best day in 3 months - Reuters",
+      "pubDate": "Mon, 18 Aug 2025 06:03:00 GMT"
     }
   ],
   "Space Exploration": [
@@ -2593,6 +2601,12 @@
     {
       "title": "US Officials Admit \"Cranes Blot Out the Sun\" as Europe\u2019s Hydrogen Megaproject Surges Ahead to Become Largest Construction Zone on the Planet - Sustainability Times",
       "pubDate": "Sun, 17 Aug 2025 01:07:51 GMT"
+    }
+  ],
+  "Social Media": [
+    {
+      "title": "Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs\u2014combined - MSN",
+      "pubDate": "Mon, 18 Aug 2025 08:35:52 GMT"
     }
   ]
 }
