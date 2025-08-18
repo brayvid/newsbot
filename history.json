@@ -183,10 +183,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel and Syria agree ceasefire as Israel allows Syrian troops limited access to Sweida - Reuters",
-      "pubDate": "Fri, 18 Jul 2025 23:33:58 GMT"
-    },
-    {
       "title": "Israel intercepts missile fired from Yemen - Reuters",
       "pubDate": "Tue, 22 Jul 2025 06:13:21 GMT"
     },
@@ -224,10 +220,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine attacks Moscow with drones for 3rd straight night, Russian official says - The Kyiv Independent",
-      "pubDate": "Fri, 18 Jul 2025 23:16:05 GMT"
-    },
     {
       "title": "Russia Deploys New Lethal Tactic Against Ukraine - Newsweek",
       "pubDate": "Sat, 19 Jul 2025 12:38:13 GMT"
@@ -359,6 +351,10 @@
     {
       "title": "Trump tells Zelenskiy that Putin wants more of Ukraine, urges Kyiv make a deal - Reuters",
       "pubDate": "Sat, 16 Aug 2025 22:05:06 GMT"
+    },
+    {
+      "title": "Trump tells Zelensky to give up Crimea and agree to never join NATO - CNN",
+      "pubDate": "Mon, 18 Aug 2025 02:28:00 GMT"
     }
   ],
   "Russia": [
@@ -400,10 +396,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump files libel lawsuit over Wall Street Journal report on Jeffrey Epstein\u2019s birthday letters - CNN",
-      "pubDate": "Sat, 19 Jul 2025 01:10:00 GMT"
-    },
     {
       "title": "Trump approval rating drops in new poll; more Americans oppose immigration policies - USA Today",
       "pubDate": "Sun, 20 Jul 2025 17:51:56 GMT"
@@ -665,13 +657,13 @@
     {
       "title": "China to upgrade 300,000 km of rural roads by 2027 to boost economic growth - TV BRICS",
       "pubDate": "Sun, 17 Aug 2025 13:03:27 GMT"
+    },
+    {
+      "title": "China\u2019s Capital Outflow Accelerates After Liberalization Efforts - Bloomberg",
+      "pubDate": "Mon, 18 Aug 2025 02:50:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Meta declines to abide by voluntary EU AI safety guidelines - theregister.com",
-      "pubDate": "Fri, 18 Jul 2025 22:29:00 GMT"
-    },
     {
       "title": "On AI security risks, US plan shows overlap between Trump, Biden - MLex",
       "pubDate": "Fri, 25 Jul 2025 18:59:00 GMT"
@@ -829,6 +821,10 @@
     {
       "title": "Health information sent on postcards in Michigan Medicine privacy breach - MLive.com",
       "pubDate": "Fri, 15 Aug 2025 21:15:00 GMT"
+    },
+    {
+      "title": "Online Gaming Provider Bragg Gaming Confirms Limited Internal Data Breach with No Impact on Operations - Stock Titan",
+      "pubDate": "Mon, 18 Aug 2025 02:08:12 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1499,6 +1495,10 @@
     {
       "title": "Federal Reserve Ends Special Crypto Oversight Program, Moves Digital Asset Supervision Back to Standard Process - Brave New Coin",
       "pubDate": "Fri, 15 Aug 2025 23:15:56 GMT"
+    },
+    {
+      "title": "Fed Chair Jerome Powell may seriously disappoint Wall Street at Jackson Hole - Fortune",
+      "pubDate": "Sun, 17 Aug 2025 20:44:00 GMT"
     }
   ],
   "Alternative Energy": [
@@ -1669,10 +1669,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel intercepts Gaza-bound activist boat with food aid - BBC",
-      "pubDate": "Sun, 27 Jul 2025 02:17:31 GMT"
-    },
-    {
       "title": "Food airdropped into Gaza as starvation deaths rise - The Washington Post",
       "pubDate": "Sun, 27 Jul 2025 06:15:58 GMT"
     },
@@ -1827,13 +1823,13 @@
     {
       "title": "Gaza aid dropped into Israeli-designated danger zone, BBC Verify finds - BBC",
       "pubDate": "Sat, 16 Aug 2025 23:04:22 GMT"
+    },
+    {
+      "title": "Newly obtained video shows Israeli missile hitting Palestinian girl in Gaza - Al Jazeera",
+      "pubDate": "Sun, 17 Aug 2025 16:14:47 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "Trump signs new stablecoin regulations into law, a major milestone for crypto industry - AP News",
-      "pubDate": "Fri, 18 Jul 2025 21:21:00 GMT"
-    },
     {
       "title": "Trump Signs Historic GENIUS Act: New Cryptocurrency Law Could Reshape Banking and Strengthen US Dollar - Brave New Coin",
       "pubDate": "Sat, 19 Jul 2025 17:30:50 GMT"
@@ -2221,10 +2217,6 @@
   ],
   "Environment": [
     {
-      "title": "EPA eliminates its scientific research arm - The Washington Post",
-      "pubDate": "Sat, 19 Jul 2025 03:21:00 GMT"
-    },
-    {
       "title": "Trump expands fossil fuel agenda while slashing science and renewable energy, potentially setting back green progress by decades - The Daily Climate",
       "pubDate": "Mon, 21 Jul 2025 18:08:15 GMT"
     },
@@ -2277,12 +2269,6 @@
     {
       "title": "RFK Jr\u2019s health department to halt $500m in mRNA vaccine research - The Guardian",
       "pubDate": "Wed, 06 Aug 2025 02:12:00 GMT"
-    }
-  ],
-  "Research": [
-    {
-      "title": "EPA shutters its scientific research arm, with hundreds of scientists expected to be impacted - CBS News",
-      "pubDate": "Sat, 19 Jul 2025 03:21:23 GMT"
     }
   ],
   "Oceans": [
