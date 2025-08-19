@@ -359,6 +359,10 @@
     {
       "title": "Trump Hosts Major Ukraine-Europe Summit on Russia-Ukraine War - Foreign Policy",
       "pubDate": "Mon, 18 Aug 2025 21:57:58 GMT"
+    },
+    {
+      "title": "Russia bombards Ukrainian city hours after Washington summit - Reuters",
+      "pubDate": "Tue, 19 Aug 2025 14:28:48 GMT"
     }
   ],
   "Russia": [
@@ -392,10 +396,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump approval rating drops in new poll; more Americans oppose immigration policies - USA Today",
-      "pubDate": "Sun, 20 Jul 2025 17:51:56 GMT"
-    },
     {
       "title": "Trump threatens to derail Washington Commanders' new stadium deal over team name - NPR",
       "pubDate": "Mon, 21 Jul 2025 01:30:45 GMT"
@@ -887,6 +887,10 @@
     {
       "title": "Businesses focus on AI, cloud, despite cyber defense oversights - Cybersecurity Dive",
       "pubDate": "Tue, 19 Aug 2025 14:50:48 GMT"
+    },
+    {
+      "title": "Palo Alto Networks\u2019 earnings beat sparks investor confidence in the cybersecurity industry - MarketWatch",
+      "pubDate": "Tue, 19 Aug 2025 15:07:00 GMT"
     }
   ],
   "US Economy": [
@@ -929,6 +933,10 @@
     {
       "title": "US will dodge recession, but Trump's policies will slow economic growth: Report - USA Today",
       "pubDate": "Sat, 16 Aug 2025 09:07:13 GMT"
+    },
+    {
+      "title": "Economic Data Has Taken a Dark Turn. That Doesn\u2019t Mean a Crash Is Near. - The New York Times",
+      "pubDate": "Tue, 19 Aug 2025 16:26:30 GMT"
     }
   ],
   "Trade War": [
@@ -1321,6 +1329,10 @@
     {
       "title": "Hurricane Erin: Dangerous seas forecast for US East Coast as storm grows - BBC",
       "pubDate": "Tue, 19 Aug 2025 10:37:27 GMT"
+    },
+    {
+      "title": "Hurricane Erin expected to grow as it moves across Atlantic - NBC News",
+      "pubDate": "Tue, 19 Aug 2025 17:13:50 GMT"
     }
   ],
   "Elon Musk": [
@@ -1401,6 +1413,10 @@
     {
       "title": "North Korea Threatens Rapid Nuclear Growth Amid US War Games - Bloomberg.com",
       "pubDate": "Tue, 19 Aug 2025 00:24:00 GMT"
+    },
+    {
+      "title": "Kim Jong Un pledges to speed up nuclear build-up over US-South Korea drills - Al Jazeera",
+      "pubDate": "Tue, 19 Aug 2025 09:57:05 GMT"
     }
   ],
   "Tesla": [
@@ -1657,10 +1673,6 @@
   ],
   "Gaza": [
     {
-      "title": "Malnutrition rates reach alarming levels in Gaza, WHO warns - World Health Organization (WHO)",
-      "pubDate": "Sun, 27 Jul 2025 16:03:22 GMT"
-    },
-    {
       "title": "Trump, breaking with Netanyahu, acknowledges \u2018real starvation\u2019 in Gaza - Politico",
       "pubDate": "Mon, 28 Jul 2025 13:46:00 GMT"
     },
@@ -1815,6 +1827,10 @@
     {
       "title": "Hamas accepts latest Gaza ceasefire and hostage deal proposal - Axios",
       "pubDate": "Mon, 18 Aug 2025 15:36:14 GMT"
+    },
+    {
+      "title": "Gaza: Aid insufficient to avert \u2018widespread starvation\u2019 as Israeli military ramp-up forces more people to flee - UN News",
+      "pubDate": "Tue, 19 Aug 2025 14:35:35 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2599,6 +2615,12 @@
     {
       "title": "US spy chief Gabbard says UK agreed to drop 'backdoor' mandate for Apple - Reuters",
       "pubDate": "Tue, 19 Aug 2025 07:30:49 GMT"
+    }
+  ],
+  "Mars": [
+    {
+      "title": "Scientists Prepare to Study Mars Rock With Signs of Ancient Life - extremetech.com",
+      "pubDate": "Tue, 19 Aug 2025 11:00:00 GMT"
     }
   ]
 }
