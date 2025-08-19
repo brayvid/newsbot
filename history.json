@@ -131,6 +131,10 @@
     {
       "title": "Exclusive: Nvidia working on new AI chip for China that outperforms the H20, sources say - Reuters",
       "pubDate": "Tue, 19 Aug 2025 06:54:00 GMT"
+    },
+    {
+      "title": "Why our values will determine humanity\u2019s future. - Psychology Today",
+      "pubDate": "Tue, 19 Aug 2025 15:09:52 GMT"
     }
   ],
   "US Politics": [
@@ -212,10 +216,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia Could Unleash 2,000 Drones on Ukraine at Once, German General Warns - UNITED24 Media",
-      "pubDate": "Sun, 20 Jul 2025 14:51:38 GMT"
-    },
     {
       "title": "Moscow airports shutdown after Ukraine fires more than 230 drones - New York Post",
       "pubDate": "Sun, 20 Jul 2025 21:22:00 GMT"
@@ -649,6 +649,10 @@
     {
       "title": "China\u2019s Capital Outflow Accelerates After Liberalization Efforts - Bloomberg",
       "pubDate": "Mon, 18 Aug 2025 02:50:00 GMT"
+    },
+    {
+      "title": "China pledges to address India's rare earth needs, Indian source says - Reuters",
+      "pubDate": "Tue, 19 Aug 2025 11:36:11 GMT"
     }
   ],
   "AI Safety": [
@@ -750,10 +754,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Critical Unpatched SharePoint Zero-Day Actively Exploited, Breaches 75+ Company Servers - The Hacker News",
-      "pubDate": "Sun, 20 Jul 2025 09:52:00 GMT"
-    },
     {
       "title": "Microsoft server hack hit about 100 organizations, researchers say - Reuters",
       "pubDate": "Mon, 21 Jul 2025 18:06:10 GMT"
@@ -883,6 +883,10 @@
     {
       "title": "AI agents are being drafted into the cyber defense forces of corporations - CNBC",
       "pubDate": "Sun, 10 Aug 2025 13:00:01 GMT"
+    },
+    {
+      "title": "Businesses focus on AI, cloud, despite cyber defense oversights - Cybersecurity Dive",
+      "pubDate": "Tue, 19 Aug 2025 14:50:48 GMT"
     }
   ],
   "US Economy": [
@@ -1028,10 +1032,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "7.4 magnitude earthquake hits off Russian coast, prompting brief tsunami alerts in Russia, Hawaii - ABC News",
-      "pubDate": "Sun, 20 Jul 2025 10:52:30 GMT"
-    },
     {
       "title": "Major US city under volcano advisory rattled by earthquakes - MSN",
       "pubDate": "Fri, 25 Jul 2025 04:31:29 GMT"
@@ -1281,6 +1281,10 @@
     {
       "title": "Nike co-founder Phil Knight to donate $2 billion to OHSU's Knight Cancer Institute - CNBC",
       "pubDate": "Thu, 14 Aug 2025 17:00:01 GMT"
+    },
+    {
+      "title": "Exploring the metabolic signaling network of GFPT in cancer - Nature",
+      "pubDate": "Tue, 19 Aug 2025 15:11:04 GMT"
     }
   ],
   "Climate": [
@@ -1313,6 +1317,10 @@
     {
       "title": "Hurricane Erin regains Cat 4 strength as it pounds Puerto Rico - upi.com",
       "pubDate": "Mon, 18 Aug 2025 07:26:38 GMT"
+    },
+    {
+      "title": "Hurricane Erin: Dangerous seas forecast for US East Coast as storm grows - BBC",
+      "pubDate": "Tue, 19 Aug 2025 10:37:27 GMT"
     }
   ],
   "Elon Musk": [
@@ -2241,10 +2249,6 @@
   ],
   "European Union": [
     {
-      "title": "EU to Force Car-Rental Firms to Buy EVs Only From 2030: Bild - Bloomberg.com",
-      "pubDate": "Sun, 20 Jul 2025 12:39:29 GMT"
-    },
-    {
       "title": "EU-China summit kicks off under shadow of fraught ties - BBC",
       "pubDate": "Thu, 24 Jul 2025 03:45:26 GMT"
     }
@@ -2583,6 +2587,18 @@
     {
       "title": "Scientists urge shift in medicine to target the biology of aging - news-medical.net",
       "pubDate": "Mon, 18 Aug 2025 13:08:00 GMT"
+    }
+  ],
+  "Finance": [
+    {
+      "title": "Federal banking regulators issue statement on banks\u2019 crypto-asset activities - Consumer Finance Monitor",
+      "pubDate": "Tue, 19 Aug 2025 15:14:45 GMT"
+    }
+  ],
+  "Privacy": [
+    {
+      "title": "US spy chief Gabbard says UK agreed to drop 'backdoor' mandate for Apple - Reuters",
+      "pubDate": "Tue, 19 Aug 2025 07:30:49 GMT"
     }
   ]
 }
