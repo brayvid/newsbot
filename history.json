@@ -169,6 +169,10 @@
     {
       "title": "White House defends DC takeover of police after city alleges \u2018brazen usurpation\u2019 in lawsuit against Trump administration \u2013 live - The Guardian",
       "pubDate": "Fri, 15 Aug 2025 09:38:00 GMT"
+    },
+    {
+      "title": "Trump escalates attacks against Smithsonian museums, says there\u2019s too much focus on \u2018how bad slavery was\u2019 - CNN",
+      "pubDate": "Tue, 19 Aug 2025 19:50:00 GMT"
     }
   ],
   "Iran": [
@@ -216,10 +220,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Moscow airports shutdown after Ukraine fires more than 230 drones - New York Post",
-      "pubDate": "Sun, 20 Jul 2025 21:22:00 GMT"
-    },
     {
       "title": "Ukraine arrests anti-corruption officials over alleged Russian ties - Eurasia Business News",
       "pubDate": "Tue, 22 Jul 2025 17:31:33 GMT"
@@ -363,6 +363,10 @@
     {
       "title": "Russia bombards Ukrainian city hours after Washington summit - Reuters",
       "pubDate": "Tue, 19 Aug 2025 14:28:48 GMT"
+    },
+    {
+      "title": "Why Ukraine won\u2019t just give up its territory - vox.com",
+      "pubDate": "Tue, 19 Aug 2025 17:40:00 GMT"
     }
   ],
   "Russia": [
@@ -396,10 +400,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump threatens to derail Washington Commanders' new stadium deal over team name - NPR",
-      "pubDate": "Mon, 21 Jul 2025 01:30:45 GMT"
-    },
     {
       "title": "Trump accuses Obama of 'treason' in the Oval Office - ABC News",
       "pubDate": "Tue, 22 Jul 2025 20:05:19 GMT"
@@ -522,10 +522,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China holds key lending rates as softening consumer sentiment persists in world's second largest economy - CNBC",
-      "pubDate": "Mon, 21 Jul 2025 01:06:00 GMT"
-    },
     {
       "title": "China embarks on world's largest hydropower dam, capital markets cheer - Reuters",
       "pubDate": "Mon, 21 Jul 2025 06:43:00 GMT"
@@ -820,10 +816,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Microsoft Server Software Comes Under Widespread Cyberattack (MSFT) - Bloomberg",
-      "pubDate": "Mon, 21 Jul 2025 03:06:00 GMT"
-    },
     {
       "title": "PoisonSeed Hackers Bypass FIDO Keys Using QR Phishing and Cross-Device Sign-In Abuse - The Hacker News",
       "pubDate": "Mon, 21 Jul 2025 06:13:00 GMT"
@@ -1333,6 +1325,10 @@
     {
       "title": "Hurricane Erin expected to grow as it moves across Atlantic - NBC News",
       "pubDate": "Tue, 19 Aug 2025 17:13:50 GMT"
+    },
+    {
+      "title": "Hurricane Erin begins battering Long Island, with widespread coastal erosion to come this week - Newsday",
+      "pubDate": "Tue, 19 Aug 2025 23:07:32 GMT"
     }
   ],
   "Elon Musk": [
@@ -1581,6 +1577,10 @@
     {
       "title": "OpenAI\u2019s Sam Altman Expects to Spend \u2018Trillions\u2019 on Infrastructure - Bloomberg.com",
       "pubDate": "Fri, 15 Aug 2025 16:21:10 GMT"
+    },
+    {
+      "title": "OpenAI makes GPT-5 \u2018friendlier\u2019 after widespread user backlash - PCWorld",
+      "pubDate": "Tue, 19 Aug 2025 16:38:00 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1608,10 +1608,6 @@
     }
   ],
   "Alexandria Ocasio-Cortez": [
-    {
-      "title": "GOP blasts \u2018fearmongering\u2019 Ocasio-Cortez for mocking Stefanik at North Country stop: \u2018AOC is beyond parody\u2019 - New York Post",
-      "pubDate": "Sun, 20 Jul 2025 22:59:00 GMT"
-    },
     {
       "title": "House ethics panel tells Rep. Alexandria Ocasio-Cortez to pay more for Met Gala attendance - ABC News",
       "pubDate": "Fri, 25 Jul 2025 22:07:40 GMT"
@@ -2141,10 +2137,6 @@
   ],
   "Algorithms": [
     {
-      "title": "US and China race to set post-quantum cryptography standards - digitimes",
-      "pubDate": "Mon, 21 Jul 2025 03:48:38 GMT"
-    },
-    {
       "title": "Musk\u2019s X refuses to share algorithm with French prosecutors, decrying \u2018politically motivated\u2019 probe - AnewZ",
       "pubDate": "Mon, 21 Jul 2025 11:52:22 GMT"
     },
@@ -2200,10 +2192,6 @@
     }
   ],
   "Electric Vehicle": [
-    {
-      "title": "Life Atop China\u2019s Car Market Is Starting to Look Shaky for BYD - Bloomberg",
-      "pubDate": "Mon, 21 Jul 2025 02:06:00 GMT"
-    },
     {
       "title": "Tesla sales cratered in California for 7 straight quarters while rivals Toyota and Honda surge, report shows - Yahoo Finance",
       "pubDate": "Wed, 23 Jul 2025 03:16:03 GMT"
@@ -2621,6 +2609,18 @@
     {
       "title": "Scientists Prepare to Study Mars Rock With Signs of Ancient Life - extremetech.com",
       "pubDate": "Tue, 19 Aug 2025 11:00:00 GMT"
+    }
+  ],
+  "Protest": [
+    {
+      "title": "Microsoft Workers Protesting Israel Ties Say They\u2019ve Occupied HQ - Bloomberg",
+      "pubDate": "Tue, 19 Aug 2025 20:45:24 GMT"
+    }
+  ],
+  "NVIDIA": [
+    {
+      "title": "Nvidia's $32.93 Billion Trading Volume Surpasses All in 2025 as Stock Dips 3.5% Amid China Strategy Uncertainties and New B30A Chip Plans - AInvest",
+      "pubDate": "Wed, 20 Aug 2025 01:15:10 GMT"
     }
   ]
 }
