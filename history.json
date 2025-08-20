@@ -139,6 +139,10 @@
     {
       "title": "Meta's AI Shake-Up Ignites Talent War in Quest for Superintelligence - AInvest",
       "pubDate": "Tue, 19 Aug 2025 22:36:34 GMT"
+    },
+    {
+      "title": "Microsoft boss troubled by rise in reports of 'AI psychosis' - BBC",
+      "pubDate": "Wed, 20 Aug 2025 16:36:03 GMT"
     }
   ],
   "US Politics": [
@@ -401,6 +405,10 @@
     {
       "title": "US soldier arrested for allegedly leaking tank secrets to Russia - BBC",
       "pubDate": "Thu, 07 Aug 2025 15:20:19 GMT"
+    },
+    {
+      "title": "Russia, under war spending pressure, set for more austerity, tax hikes - Reuters",
+      "pubDate": "Wed, 20 Aug 2025 10:51:08 GMT"
     }
   ],
   "Donald Trump": [
@@ -746,10 +754,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Microsoft server hack hit about 100 organizations, researchers say - Reuters",
-      "pubDate": "Mon, 21 Jul 2025 18:06:10 GMT"
-    },
     {
       "title": "Massive T-Mobile data breach payments prove all settlements aren't created equal - Android Police",
       "pubDate": "Thu, 24 Jul 2025 18:51:00 GMT"
@@ -1120,10 +1124,6 @@
     }
   ],
   "New York City": [
-    {
-      "title": "New York City mayor says city is joining \u2018Citizen\u2019 public safety app - StateScoop",
-      "pubDate": "Mon, 21 Jul 2025 19:52:11 GMT"
-    },
     {
       "title": "Five people, including gunman, dead in shooting at New York City high-rise - NBC News",
       "pubDate": "Tue, 29 Jul 2025 05:21:00 GMT"
@@ -1533,12 +1533,6 @@
       "pubDate": "Tue, 05 Aug 2025 06:27:04 GMT"
     }
   ],
-  "FBI": [
-    {
-      "title": "Trump administration released FBI records on MLK Jr. despite his family\u2019s opposition - AP News",
-      "pubDate": "Mon, 21 Jul 2025 19:49:00 GMT"
-    }
-  ],
   "Chemistry": [
     {
       "title": "Scientists Create \u201cImpossible\u201d Molecule, Solving Century-Old Chemical Mystery - SciTechDaily",
@@ -1585,6 +1579,10 @@
     {
       "title": "OpenAI logged its first $1 billion month but is still 'constantly under compute,' CFO says - CNBC",
       "pubDate": "Wed, 20 Aug 2025 14:57:19 GMT"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman Concedes GPT-5 Was a Misfire, Bets on GPT-6 - Yahoo Finance",
+      "pubDate": "Wed, 20 Aug 2025 17:18:05 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1680,10 +1678,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Famine scenario unfolding in Gaza, UN-backed body says, as officials say war death toll has topped 60,000 - CNN",
-      "pubDate": "Tue, 29 Jul 2025 14:49:00 GMT"
-    },
     {
       "title": "UK will recognise Palestinian state in September unless Israel agrees to Gaza ceasefire and other conditions - BBC",
       "pubDate": "Tue, 29 Jul 2025 17:44:17 GMT"
@@ -1839,6 +1833,10 @@
     {
       "title": "Israel to Double Army Reservists in Gaza to Boost Campaign - Bloomberg.com",
       "pubDate": "Wed, 20 Aug 2025 11:00:13 GMT"
+    },
+    {
+      "title": "Israel enters first stage of planned assault on Gaza City - NBC News",
+      "pubDate": "Wed, 20 Aug 2025 17:40:33 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2216,10 +2214,6 @@
     }
   ],
   "Environment": [
-    {
-      "title": "Trump expands fossil fuel agenda while slashing science and renewable energy, potentially setting back green progress by decades - The Daily Climate",
-      "pubDate": "Mon, 21 Jul 2025 18:08:15 GMT"
-    },
     {
       "title": "Scientists uncover 27 million tons of nanoplastic in the Atlantic - Interesting Engineering",
       "pubDate": "Wed, 23 Jul 2025 18:43:07 GMT"
@@ -2617,6 +2611,18 @@
     {
       "title": "Nvidia's $32.93 Billion Trading Volume Surpasses All in 2025 as Stock Dips 3.5% Amid China Strategy Uncertainties and New B30A Chip Plans - AInvest",
       "pubDate": "Wed, 20 Aug 2025 01:15:10 GMT"
+    }
+  ],
+  "NASA": [
+    {
+      "title": "Acting NASA administrator Sean Duffy says the agency will 'move aside' from climate sciences to focus on exploring moon and Mars - Space",
+      "pubDate": "Wed, 20 Aug 2025 16:00:00 GMT"
+    }
+  ],
+  "Energy Storage": [
+    {
+      "title": "US EPA issues \u2018comprehensive\u2019 full lifecycle BESS safety guidance - Energy-Storage.News",
+      "pubDate": "Wed, 20 Aug 2025 12:58:26 GMT"
     }
   ]
 }
