@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI's Sam Altman warns of AI voice fraud crisis in banking - The Detroit News",
-      "pubDate": "Tue, 22 Jul 2025 20:12:03 GMT"
-    },
-    {
-      "title": "Analysis | Trump\u2019s \u2018Artificial Intelligence Action Plan\u2019 is already stirring debate - The Washington Post",
-      "pubDate": "Tue, 22 Jul 2025 20:07:51 GMT"
-    },
-    {
       "title": "Amazon shuts down Shanghai AI research lab - Financial Times",
       "pubDate": "Wed, 23 Jul 2025 05:42:35 GMT"
     },
@@ -139,6 +131,10 @@
     {
       "title": "Microsoft boss troubled by rise in reports of 'AI psychosis' - BBC",
       "pubDate": "Wed, 20 Aug 2025 16:36:03 GMT"
+    },
+    {
+      "title": "Mass. educators get new guidance for age of AI - NBC Boston",
+      "pubDate": "Thu, 21 Aug 2025 18:59:38 GMT"
     }
   ],
   "US Politics": [
@@ -224,10 +220,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine arrests anti-corruption officials over alleged Russian ties - Eurasia Business News",
-      "pubDate": "Tue, 22 Jul 2025 17:31:33 GMT"
-    },
     {
       "title": "Protests in Ukraine as Zelensky signs bill targeting anti-corruption bodies - BBC",
       "pubDate": "Wed, 23 Jul 2025 02:05:36 GMT"
@@ -408,10 +400,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump accuses Obama of 'treason' in the Oval Office - ABC News",
-      "pubDate": "Tue, 22 Jul 2025 20:05:19 GMT"
-    },
     {
       "title": "Trump says he's considering rebate checks for Americans based on tariff revenue - CBS News",
       "pubDate": "Fri, 25 Jul 2025 20:44:57 GMT"
@@ -759,6 +747,10 @@
     {
       "title": "Logit-Gap Steering: A New Frontier in Understanding and Probing LLM Safety - Unit 42",
       "pubDate": "Wed, 20 Aug 2025 23:09:55 GMT"
+    },
+    {
+      "title": "Biden-era AI safety promises aren\u2019t holding up, and Apple\u2019s the weakest link - Fast Company",
+      "pubDate": "Thu, 21 Aug 2025 09:12:40 GMT"
     }
   ],
   "Data Breach": [
@@ -824,10 +816,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "China behind vast global hack involving multiple US agencies - Politico",
-      "pubDate": "Tue, 22 Jul 2025 16:05:00 GMT"
-    },
     {
       "title": "US Nuclear Weapons Agency Breached in Microsoft SharePoint Hack - Bloomberg",
       "pubDate": "Wed, 23 Jul 2025 00:09:00 GMT"
@@ -1025,6 +1013,10 @@
     {
       "title": "AI helps astronomers make a potentially major find \u2014 an exploding star being attacked by a black hole - Space",
       "pubDate": "Wed, 13 Aug 2025 17:00:00 GMT"
+    },
+    {
+      "title": "Astronomers trace massive cosmic explosion back 12 billion years. 'This is the most distant event where we can directly see light escaping from around stars' - Space",
+      "pubDate": "Thu, 21 Aug 2025 15:00:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -1325,10 +1317,6 @@
   ],
   "Elon Musk": [
     {
-      "title": "SpaceX warns investors Elon Musk could return to US politics, Bloomberg reports - Reuters",
-      "pubDate": "Tue, 22 Jul 2025 19:14:23 GMT"
-    },
-    {
       "title": "Elon Musk\u2019s Starlink apologizes after leaving thousands without internet connection for hours - The Independent",
       "pubDate": "Fri, 25 Jul 2025 00:51:00 GMT"
     },
@@ -1513,6 +1501,10 @@
     {
       "title": "Analysis: Record solar growth keeps China\u2019s CO2 falling in first half of 2025 - Carbon Brief",
       "pubDate": "Wed, 20 Aug 2025 23:12:24 GMT"
+    },
+    {
+      "title": "China\u2019s Decarbonization Is So Fast Even New Coal Plants Aren\u2019t Stopping It - Foreign Policy",
+      "pubDate": "Thu, 21 Aug 2025 13:33:06 GMT"
     }
   ],
   "Cosmology": [
@@ -1919,6 +1911,10 @@
     {
       "title": "Apple\u2019s AI Ambitions Leave Big Questions Over Its Climate Goals - WIRED",
       "pubDate": "Tue, 12 Aug 2025 10:30:00 GMT"
+    },
+    {
+      "title": "Apple Patches Zero-Day Exploited in Targeted Attacks - SecurityWeek",
+      "pubDate": "Thu, 21 Aug 2025 08:51:34 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -2471,6 +2467,10 @@
     {
       "title": "New US tariffs cloud outlook for exporters in Asia and beyond - ABC News",
       "pubDate": "Thu, 07 Aug 2025 05:59:58 GMT"
+    },
+    {
+      "title": "Cloudbursts have killed over 400 people in South Asia. What are they? - NBC News",
+      "pubDate": "Thu, 21 Aug 2025 09:00:40 GMT"
     }
   ],
   "Drones": [
@@ -2541,6 +2541,10 @@
     {
       "title": "The Hidden Costs of Algorithmic Trading: How Governance Failures Erode Shareholder Value - AInvest",
       "pubDate": "Sun, 17 Aug 2025 10:28:25 GMT"
+    },
+    {
+      "title": "FCA Warns Firms Of Failings In Algorithmic Trading Controls - Law360",
+      "pubDate": "Thu, 21 Aug 2025 14:34:00 GMT"
     }
   ],
   "Net Zero Emissions": [
