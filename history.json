@@ -191,10 +191,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel intercepts missile fired from Yemen - Reuters",
-      "pubDate": "Tue, 22 Jul 2025 06:13:21 GMT"
-    },
-    {
       "title": "Israeli Parliament Votes for Making Apartheid Official. Fetterman: \u201cI Haven\u2019t Been Following It.\u201d - The Intercept",
       "pubDate": "Sat, 26 Jul 2025 10:00:00 GMT"
     },
@@ -225,6 +221,10 @@
     {
       "title": "Israel says it targeted energy infrastructure site used by Houthis near Yemeni capital - Reuters",
       "pubDate": "Sun, 17 Aug 2025 13:13:48 GMT"
+    },
+    {
+      "title": "State Dept. fires official after internal debates over Israel-Gaza - The Washington Post",
+      "pubDate": "Thu, 21 Aug 2025 04:35:00 GMT"
     }
   ],
   "Ukraine": [
@@ -375,6 +375,10 @@
     {
       "title": "Why Ukraine won\u2019t just give up its territory - vox.com",
       "pubDate": "Tue, 19 Aug 2025 17:40:00 GMT"
+    },
+    {
+      "title": "Russia launches hundreds of drones and missiles at Ukraine in largest attack in weeks - France 24",
+      "pubDate": "Thu, 21 Aug 2025 06:43:55 GMT"
     }
   ],
   "Russia": [
@@ -657,6 +661,10 @@
     {
       "title": "Saving China's finless porpoise from the brink of extinction - BBC",
       "pubDate": "Wed, 20 Aug 2025 22:01:43 GMT"
+    },
+    {
+      "title": "China turns against Nvidia\u2019s AI chip after \u2018insulting\u2019 Howard Lutnick remarks - Financial Times",
+      "pubDate": "Thu, 21 Aug 2025 04:18:45 GMT"
     }
   ],
   "AI Safety": [
@@ -1329,6 +1337,10 @@
     {
       "title": "Hurricane Erin lashes Carolina coasts on course into open seas - Houston Chronicle",
       "pubDate": "Wed, 20 Aug 2025 15:14:59 GMT"
+    },
+    {
+      "title": "Hurricane Erin stirs up strong winds, floods part of main highway as it creeps along the East Coast - ABC News",
+      "pubDate": "Thu, 21 Aug 2025 05:56:10 GMT"
     }
   ],
   "Elon Musk": [
@@ -1583,6 +1595,10 @@
     {
       "title": "OpenAI CEO Sam Altman Concedes GPT-5 Was a Misfire, Bets on GPT-6 - Yahoo Finance",
       "pubDate": "Wed, 20 Aug 2025 17:18:05 GMT"
+    },
+    {
+      "title": "OpenAI CFO Sarah Friar Says AI Boom \u2018Just Getting Started\u2019 - PYMNTS.com",
+      "pubDate": "Wed, 20 Aug 2025 22:43:23 GMT"
     }
   ],
   "Quantum Computing": [
@@ -2637,6 +2653,12 @@
     {
       "title": "Want to understand the history of European culture? Start with the Minoans, not the Ancient Greeks - The Conversation",
       "pubDate": "Wed, 20 Aug 2025 16:12:07 GMT"
+    }
+  ],
+  "Health": [
+    {
+      "title": "US health workers implore RFK Jr to \u2018stop spreading inaccurate\u2019 information - Al Jazeera",
+      "pubDate": "Thu, 21 Aug 2025 04:21:14 GMT"
     }
   ]
 }
