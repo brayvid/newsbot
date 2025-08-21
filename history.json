@@ -653,6 +653,10 @@
     {
       "title": "China to unveil advanced weapons at huge military parade to mark WWII end - Al Jazeera",
       "pubDate": "Wed, 20 Aug 2025 04:13:08 GMT"
+    },
+    {
+      "title": "Saving China's finless porpoise from the brink of extinction - BBC",
+      "pubDate": "Wed, 20 Aug 2025 22:01:43 GMT"
     }
   ],
   "AI Safety": [
@@ -751,6 +755,10 @@
     {
       "title": "AI Under Siege : How Hackers Are Exploiting Vulnerable AI Systems - Geeky Gadgets",
       "pubDate": "Tue, 19 Aug 2025 07:10:10 GMT"
+    },
+    {
+      "title": "Logit-Gap Steering: A New Frontier in Understanding and Probing LLM Safety - Unit 42",
+      "pubDate": "Wed, 20 Aug 2025 23:09:55 GMT"
     }
   ],
   "Data Breach": [
@@ -816,10 +824,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Microsoft Rushes to Stop Hackers from Wreaking Global Havoc - Bloomberg.com",
-      "pubDate": "Mon, 21 Jul 2025 21:52:51 GMT"
-    },
     {
       "title": "China behind vast global hack involving multiple US agencies - Politico",
       "pubDate": "Tue, 22 Jul 2025 16:05:00 GMT"
@@ -1115,10 +1119,6 @@
   ],
   "Democratic Party": [
     {
-      "title": "A year post-Biden's exit, the Democratic Party still struggles to find footing: Analysis - ABC News",
-      "pubDate": "Mon, 21 Jul 2025 23:50:36 GMT"
-    },
-    {
       "title": "The Democratic Party\u2019s Brand Is Cooked - Rolling Stone",
       "pubDate": "Sat, 26 Jul 2025 18:10:13 GMT"
     }
@@ -1357,10 +1357,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "Global investment in fusion energy rises the most since 2022 - Reuters",
-      "pubDate": "Tue, 22 Jul 2025 00:03:00 GMT"
-    },
-    {
       "title": "China sets up state-owned fusion energy company - China.org.cn",
       "pubDate": "Fri, 25 Jul 2025 04:07:29 GMT"
     },
@@ -1521,6 +1517,10 @@
     {
       "title": "Victoria\u2019s green energy build almost doubles in price - AFR",
       "pubDate": "Sun, 17 Aug 2025 09:51:00 GMT"
+    },
+    {
+      "title": "Analysis: Record solar growth keeps China\u2019s CO2 falling in first half of 2025 - Carbon Brief",
+      "pubDate": "Wed, 20 Aug 2025 23:12:24 GMT"
     }
   ],
   "Cosmology": [
@@ -1967,6 +1967,10 @@
     {
       "title": "US appeals court keeps ban on LA immigration arrests - Yahoo Home",
       "pubDate": "Sat, 02 Aug 2025 09:48:02 GMT"
+    },
+    {
+      "title": "Texas can't require display of the Ten Commandments in certain school districts' classrooms, judge says - ABC11",
+      "pubDate": "Wed, 20 Aug 2025 23:18:14 GMT"
     }
   ],
   "SpaceX": [
@@ -1984,10 +1988,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Top UN court says treaties compel wealthy nations to curb global warming - Reuters",
-      "pubDate": "Wed, 23 Jul 2025 21:43:39 GMT"
-    },
     {
       "title": "U.N. court rules that nations must act on climate change - Iowa Public Radio",
       "pubDate": "Thu, 24 Jul 2025 08:17:00 GMT"
@@ -2143,6 +2143,10 @@
     {
       "title": "Why Trump's new climate report has scientists worried - Context News",
       "pubDate": "Wed, 20 Aug 2025 07:42:07 GMT"
+    },
+    {
+      "title": "Abrupt Antarctic climate shifts could lead to \"catastrophic consequences for generations,\" experts warn - CBS News",
+      "pubDate": "Wed, 20 Aug 2025 19:34:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2271,6 +2275,10 @@
     {
       "title": "Amazon's expansion of grocery delivery isn't the death knell for these stocks. Here's why - CNBC",
       "pubDate": "Sun, 17 Aug 2025 14:35:44 GMT"
+    },
+    {
+      "title": "Don't click on that text from 'Amazon.' Federal Trade Commission warning about scammers - ABC7 Los Angeles",
+      "pubDate": "Wed, 20 Aug 2025 16:05:11 GMT"
     }
   ],
   "Large Language Models": [
@@ -2623,6 +2631,12 @@
     {
       "title": "US EPA issues \u2018comprehensive\u2019 full lifecycle BESS safety guidance - Energy-Storage.News",
       "pubDate": "Wed, 20 Aug 2025 12:58:26 GMT"
+    }
+  ],
+  "Ancient History": [
+    {
+      "title": "Want to understand the history of European culture? Start with the Minoans, not the Ancient Greeks - The Conversation",
+      "pubDate": "Wed, 20 Aug 2025 16:12:07 GMT"
     }
   ]
 }
