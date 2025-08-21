@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Researchers from top AI labs warn they may be losing the ability to understand advanced AI models - inkl",
-      "pubDate": "Tue, 22 Jul 2025 12:05:30 GMT"
-    },
-    {
       "title": "OpenAI's Sam Altman warns of AI voice fraud crisis in banking - The Detroit News",
       "pubDate": "Tue, 22 Jul 2025 20:12:03 GMT"
     },
@@ -383,10 +379,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia using children to design and test its military drones, investigation finds - The Guardian",
-      "pubDate": "Tue, 22 Jul 2025 14:07:00 GMT"
-    },
-    {
       "title": "Plane goes missing in Russia\u2019s Far East with nearly 50 aboard - CNN",
       "pubDate": "Thu, 24 Jul 2025 06:23:00 GMT"
     },
@@ -495,12 +487,20 @@
     {
       "title": "Trump-Zelenskyy meeting live updates as leaders hold Ukraine talks at White House - CBS News",
       "pubDate": "Mon, 18 Aug 2025 19:27:00 GMT"
+    },
+    {
+      "title": "Appeals court throws out Trump's $454 million civil fraud judgment - ABC News",
+      "pubDate": "Thu, 21 Aug 2025 13:17:13 GMT"
     }
   ],
   "National Security": [
     {
       "title": "China summons chip giant Nvidia over alleged security risks - Yahoo Finance",
       "pubDate": "Thu, 31 Jul 2025 07:50:05 GMT"
+    },
+    {
+      "title": "US opens national security probe into imported wind turbines, components - Reuters",
+      "pubDate": "Thu, 21 Aug 2025 15:30:41 GMT"
     }
   ],
   "US Congress": [
@@ -538,14 +538,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Another round of US-China trade talks will start next week in Sweden: Bessent - Yahoo Finance",
-      "pubDate": "Tue, 22 Jul 2025 13:01:31 GMT"
-    },
-    {
-      "title": "China Breaks Ground on Colossal Dam Project in Asia\u2019s Grand Canyon - Yale E360",
-      "pubDate": "Tue, 22 Jul 2025 13:42:23 GMT"
-    },
     {
       "title": "Record heat in China strains power grid, stirs health fears - Reuters",
       "pubDate": "Wed, 23 Jul 2025 07:15:09 GMT"
@@ -963,10 +955,6 @@
   ],
   "Asteroids": [
     {
-      "title": "NASA Reports Plane-Sized Asteroid Nearing Earth - Newsweek",
-      "pubDate": "Tue, 22 Jul 2025 13:50:42 GMT"
-    },
-    {
       "title": "Abundant microchondrules in 162173 Ryugu suggest a turbulent origin for primitive asteroids - Nature",
       "pubDate": "Wed, 23 Jul 2025 09:58:36 GMT"
     },
@@ -1143,10 +1131,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Elon Musk\u2019s SpaceX Breaks Its Bitcoin Silence with $153M Shock Transfer - TipRanks",
-      "pubDate": "Tue, 22 Jul 2025 15:27:22 GMT"
-    },
-    {
       "title": "Satoshi-era Bitcoin investor cashes out 80,000 BTC for $9B via Galaxy Digital - Cointelegraph",
       "pubDate": "Fri, 25 Jul 2025 21:36:18 GMT"
     },
@@ -1226,10 +1210,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "FDA Rejects Replimune\u2019s Skin Cancer Treatment, Shares Sink - Yahoo Finance",
-      "pubDate": "Tue, 22 Jul 2025 14:05:00 GMT"
-    },
     {
       "title": "Healthy Returns: Researchers move closer to a universal cancer vaccine - CNBC",
       "pubDate": "Wed, 23 Jul 2025 15:58:49 GMT"
@@ -2469,6 +2449,10 @@
     {
       "title": "Weak business investment threatens global growth, warns OECD - Financial Times",
       "pubDate": "Tue, 05 Aug 2025 04:00:40 GMT"
+    },
+    {
+      "title": "China remains the key engine of world economic growth - News.MN",
+      "pubDate": "Thu, 21 Aug 2025 08:44:24 GMT"
     }
   ],
   "Rivian": [
