@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "FDA\u2019s artificial intelligence is supposed to revolutionize drug approvals. It\u2019s making up studies - CNN",
-      "pubDate": "Wed, 23 Jul 2025 10:00:00 GMT"
-    },
-    {
       "title": "AI summaries cause \u2018devastating\u2019 drop in audiences, online news media told - The Guardian",
       "pubDate": "Thu, 24 Jul 2025 19:37:00 GMT"
     },
@@ -220,10 +216,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Pressure builds on Zelenskyy over corruption agency changes as protests continue - The Guardian",
-      "pubDate": "Wed, 23 Jul 2025 15:48:00 GMT"
-    },
     {
       "title": "Exclusive: Chinese engines, shipped as 'cooling units', power Russian drones used in Ukraine - Reuters",
       "pubDate": "Wed, 23 Jul 2025 20:49:47 GMT"
@@ -498,10 +490,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Goldman Sachs, BNY to offer tokenized money market funds for clients - Cointelegraph",
-      "pubDate": "Wed, 23 Jul 2025 12:42:47 GMT"
-    },
     {
       "title": "US stocks edge higher as a busy week for markets picks up momentum - WFTV",
       "pubDate": "Tue, 29 Jul 2025 13:36:02 GMT"
@@ -935,10 +923,6 @@
   ],
   "Asteroids": [
     {
-      "title": "Abundant microchondrules in 162173 Ryugu suggest a turbulent origin for primitive asteroids - Nature",
-      "pubDate": "Wed, 23 Jul 2025 09:58:36 GMT"
-    },
-    {
       "title": "NASA Alerts: 140-foot asteroid to pass Earth today at a speed of 41,157 miles per hour - Moneycontrol",
       "pubDate": "Sat, 26 Jul 2025 01:30:37 GMT"
     },
@@ -949,6 +933,10 @@
     {
       "title": "Meteorite older than Earth smashes house roof in Georgia; scientists trace rock to asteroid belt - video - Times of India",
       "pubDate": "Sun, 10 Aug 2025 02:55:00 GMT"
+    },
+    {
+      "title": "Plane-Size Asteroid Approaching Earth, NASA Reports - Newsweek",
+      "pubDate": "Fri, 22 Aug 2025 14:25:51 GMT"
     }
   ],
   "Atlantic Ocean": [
@@ -1199,10 +1187,6 @@
   ],
   "Cancer": [
     {
-      "title": "Healthy Returns: Researchers move closer to a universal cancer vaccine - CNBC",
-      "pubDate": "Wed, 23 Jul 2025 15:58:49 GMT"
-    },
-    {
       "title": "This Natural, Zero-Calorie Sweetener Could Be a Secret Weapon Against Cancer - ScienceAlert",
       "pubDate": "Fri, 25 Jul 2025 02:06:49 GMT"
     },
@@ -1389,6 +1373,10 @@
     {
       "title": "Kim Jong Un pledges to speed up nuclear build-up over US-South Korea drills - Al Jazeera",
       "pubDate": "Tue, 19 Aug 2025 09:57:05 GMT"
+    },
+    {
+      "title": "\u200bNorth Korea Honors Its Soldiers Who Fought in Ukraine War - The New York Times",
+      "pubDate": "Fri, 22 Aug 2025 11:12:35 GMT"
     }
   ],
   "Tesla": [
@@ -1483,6 +1471,10 @@
     {
       "title": "Trump Demands a Fed Governor Resign, Escalating Campaign to Remake Central Bank - The New York Times",
       "pubDate": "Wed, 20 Aug 2025 15:35:50 GMT"
+    },
+    {
+      "title": "Fed's Powell signals likely September interest rate cut, citing 'downside risks' to jobs - USA Today",
+      "pubDate": "Fri, 22 Aug 2025 14:55:07 GMT"
     }
   ],
   "Alternative Energy": [
@@ -1585,6 +1577,10 @@
     {
       "title": "Scientists May Have Just Cracked Quantum Computing\u2019s Biggest Problem - SciTechDaily",
       "pubDate": "Wed, 20 Aug 2025 08:27:31 GMT"
+    },
+    {
+      "title": "Another quantum computer reached quantum advantage \u2013 does it matter? - New Scientist",
+      "pubDate": "Fri, 22 Aug 2025 11:00:44 GMT"
     }
   ],
   "Public Health": [
@@ -1658,10 +1654,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Gaza experiencing \u2018worst case\u2019 scenario of famine, leading aid group warns - PBS",
-      "pubDate": "Tue, 29 Jul 2025 22:55:09 GMT"
-    },
     {
       "title": "IDF gunfire kills 30 Palestinians waiting for aid, Gaza defence ministry says, as US special envoy due to visit Israel \u2013 Israel-Gaza war live - The Guardian",
       "pubDate": "Thu, 31 Jul 2025 06:42:00 GMT"
@@ -1817,13 +1809,13 @@
     {
       "title": "Hamas has one top strategy: End the war and survive - NPR",
       "pubDate": "Thu, 21 Aug 2025 20:06:04 GMT"
+    },
+    {
+      "title": "Famine has struck Gaza, will likely spread, says global hunger monitor - USA Today",
+      "pubDate": "Fri, 22 Aug 2025 09:50:48 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "Pastor, wife indicted for $3.4M cryptocurrency scheme - BusinessDen",
-      "pubDate": "Wed, 23 Jul 2025 11:27:47 GMT"
-    },
     {
       "title": "[Today's Major Economic and Cryptocurrency Schedules] US New Unemployment Claims, etc. - bloomingbit",
       "pubDate": "Thu, 24 Jul 2025 00:08:37 GMT"
@@ -2265,10 +2257,6 @@
   ],
   "Military and Defense": [
     {
-      "title": "Russia is pouring money into its war machine \u2014 but it's still struggling to create new, advanced systems - Business Insider",
-      "pubDate": "Wed, 23 Jul 2025 09:35:00 GMT"
-    },
-    {
       "title": "Russia Claims New S-500 Can Strike Stealth Fighters, Satellites, and Hypersonic Missiles - National Security Journal",
       "pubDate": "Sat, 26 Jul 2025 14:51:38 GMT"
     },
@@ -2639,6 +2627,18 @@
     {
       "title": "US health workers implore RFK Jr to \u2018stop spreading inaccurate\u2019 information - Al Jazeera",
       "pubDate": "Thu, 21 Aug 2025 04:21:14 GMT"
+    }
+  ],
+  "FBI": [
+    {
+      "title": "FBI raids home of John Bolton, former Trump national security advisor - CNBC",
+      "pubDate": "Fri, 22 Aug 2025 11:48:16 GMT"
+    }
+  ],
+  "Cybersecurity and Infrastructure Security Agency": [
+    {
+      "title": "CISA Warns of Actively Exploited 0-Day Vulnerability in Apple iOS, iPadOS, and macOS - GBHackers News",
+      "pubDate": "Fri, 22 Aug 2025 12:33:59 GMT"
     }
   ]
 }
