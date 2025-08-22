@@ -173,6 +173,10 @@
     {
       "title": "Trump escalates attacks against Smithsonian museums, says there\u2019s too much focus on \u2018how bad slavery was\u2019 - CNN",
       "pubDate": "Tue, 19 Aug 2025 19:50:00 GMT"
+    },
+    {
+      "title": "US government reviewing 55 million visas - Cairns Post",
+      "pubDate": "Fri, 22 Aug 2025 03:41:57 GMT"
     }
   ],
   "Iran": [
@@ -220,10 +224,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Protests in Ukraine as Zelensky signs bill targeting anti-corruption bodies - BBC",
-      "pubDate": "Wed, 23 Jul 2025 02:05:36 GMT"
-    },
     {
       "title": "Ukraine suffered its first loss of a French fighter jet after equipment failure forced its pilot to eject - Business Insider",
       "pubDate": "Wed, 23 Jul 2025 04:14:00 GMT"
@@ -367,6 +367,10 @@
     {
       "title": "Russia launches hundreds of drones and missiles at Ukraine in largest attack in weeks - France 24",
       "pubDate": "Thu, 21 Aug 2025 06:43:55 GMT"
+    },
+    {
+      "title": "Major Russian Attack on Western Ukraine Hits an American Factory During US-Led Push for Peace - Military.com",
+      "pubDate": "Thu, 21 Aug 2025 17:50:54 GMT"
     }
   ],
   "Russia": [
@@ -816,10 +820,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "US Nuclear Weapons Agency Breached in Microsoft SharePoint Hack - Bloomberg",
-      "pubDate": "Wed, 23 Jul 2025 00:09:00 GMT"
-    },
     {
       "title": "Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage - WIRED",
       "pubDate": "Wed, 23 Jul 2025 21:59:20 GMT"
@@ -1667,10 +1667,6 @@
   ],
   "Gaza": [
     {
-      "title": "UK will recognise Palestinian state in September unless Israel agrees to Gaza ceasefire and other conditions - BBC",
-      "pubDate": "Tue, 29 Jul 2025 17:44:17 GMT"
-    },
-    {
       "title": "Gaza experiencing \u2018worst case\u2019 scenario of famine, leading aid group warns - PBS",
       "pubDate": "Tue, 29 Jul 2025 22:55:09 GMT"
     },
@@ -1825,6 +1821,10 @@
     {
       "title": "Israel enters first stage of planned assault on Gaza City - NBC News",
       "pubDate": "Wed, 20 Aug 2025 17:40:33 GMT"
+    },
+    {
+      "title": "Hamas has one top strategy: End the war and survive - NPR",
+      "pubDate": "Thu, 21 Aug 2025 20:06:04 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2153,10 +2153,6 @@
   ],
   "Battery Electric Vehicle": [
     {
-      "title": "Tesla Vs. BYD: Tesla Stock Near Buy Point With Earnings, Robotaxis In Focus; BYD Makes Bullish Move - Investor's Business Daily",
-      "pubDate": "Tue, 22 Jul 2025 21:54:00 GMT"
-    },
-    {
       "title": "CATL lithium mine halt signals Beijing\u2019s EV battery overcapacity concerns - South China Morning Post",
       "pubDate": "Mon, 11 Aug 2025 08:29:14 GMT"
     },
@@ -2190,10 +2186,6 @@
     }
   ],
   "Electric Vehicle": [
-    {
-      "title": "Tesla sales cratered in California for 7 straight quarters while rivals Toyota and Honda surge, report shows - Yahoo Finance",
-      "pubDate": "Wed, 23 Jul 2025 03:16:03 GMT"
-    },
     {
       "title": "This week in EV tech: California dreaming - Digital Trends",
       "pubDate": "Sat, 26 Jul 2025 22:00:00 GMT"
@@ -2411,6 +2403,10 @@
     {
       "title": "Oracle, Google cloud units strike deal for Oracle to sell Gemini models - Reuters",
       "pubDate": "Thu, 14 Aug 2025 12:01:19 GMT"
+    },
+    {
+      "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race - Bloomberg.com",
+      "pubDate": "Fri, 22 Aug 2025 00:21:00 GMT"
     }
   ],
   "Political Corruption": [
@@ -2623,6 +2619,10 @@
     {
       "title": "Nvidia's $32.93 Billion Trading Volume Surpasses All in 2025 as Stock Dips 3.5% Amid China Strategy Uncertainties and New B30A Chip Plans - AInvest",
       "pubDate": "Wed, 20 Aug 2025 01:15:10 GMT"
+    },
+    {
+      "title": "Nvidia Orders Halt to H20 Production After China Directive Against Purchases - The Information",
+      "pubDate": "Thu, 21 Aug 2025 23:59:00 GMT"
     }
   ],
   "NASA": [
