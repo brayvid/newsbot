@@ -217,10 +217,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Exclusive: Chinese engines, shipped as 'cooling units', power Russian drones used in Ukraine - Reuters",
-      "pubDate": "Wed, 23 Jul 2025 20:49:47 GMT"
-    },
-    {
       "title": "Ukraine Releases Audio of Russian Commander Allegedly Planning Chemical Attack - UNITED24 Media",
       "pubDate": "Thu, 24 Jul 2025 19:50:39 GMT"
     },
@@ -629,6 +625,10 @@
     {
       "title": "China turns against Nvidia\u2019s AI chip after \u2018insulting\u2019 Howard Lutnick remarks - Financial Times",
       "pubDate": "Thu, 21 Aug 2025 04:18:45 GMT"
+    },
+    {
+      "title": "China could host at least four Formula E races, says Agag - Reuters",
+      "pubDate": "Fri, 22 Aug 2025 18:58:47 GMT"
     }
   ],
   "AI Safety": [
@@ -975,10 +975,6 @@
   ],
   "Astronomy": [
     {
-      "title": "Scientists may have solved a chemistry mystery about Jupiter's ocean moon Europa - Space",
-      "pubDate": "Wed, 23 Jul 2025 18:00:00 GMT"
-    },
-    {
       "title": "Scientists use cosmic dust to reconstruct Earth's atmospheric history - Phys.org",
       "pubDate": "Tue, 29 Jul 2025 17:18:25 GMT"
     },
@@ -997,6 +993,10 @@
     {
       "title": "Astronomers trace massive cosmic explosion back 12 billion years. 'This is the most distant event where we can directly see light escaping from around stars' - Space",
       "pubDate": "Thu, 21 Aug 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Scientists May Have Found Evidence of Life Beyond Earth. Read That Again. - Popular Mechanics",
+      "pubDate": "Fri, 22 Aug 2025 16:16:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -1145,6 +1145,10 @@
     {
       "title": "Bitcoin (BTC) Day Ahead: Fears of $400B in Liquidity Drain, Not Jackson Hole, Are Driving BTC and Stocks Lower - CoinDesk",
       "pubDate": "Wed, 20 Aug 2025 05:55:26 GMT"
+    },
+    {
+      "title": "Bitcoin-Volatility Collapse Forces Risk-Loving Traders Elsewhere - Bloomberg.com",
+      "pubDate": "Fri, 22 Aug 2025 16:58:32 GMT"
     }
   ],
   "BRICS": [
@@ -1559,10 +1563,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "Researchers demonstrate modular approach for building scalable quantum computers - Tech Xplore",
-      "pubDate": "Wed, 23 Jul 2025 20:29:30 GMT"
-    },
-    {
       "title": "Could a Quantum Computing Bubble Be About to Pop? History Offers a Clear Answer - Yahoo Finance",
       "pubDate": "Sat, 26 Jul 2025 20:00:00 GMT"
     },
@@ -1654,10 +1654,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "IDF gunfire kills 30 Palestinians waiting for aid, Gaza defence ministry says, as US special envoy due to visit Israel \u2013 Israel-Gaza war live - The Guardian",
-      "pubDate": "Thu, 31 Jul 2025 06:42:00 GMT"
-    },
     {
       "title": "Gaza hunger reaches 'tipping point' as children suffer malnutrition - NBC News",
       "pubDate": "Thu, 31 Jul 2025 11:55:19 GMT"
@@ -1813,6 +1809,10 @@
     {
       "title": "Famine has struck Gaza, will likely spread, says global hunger monitor - USA Today",
       "pubDate": "Fri, 22 Aug 2025 09:50:48 GMT"
+    },
+    {
+      "title": "UN-backed experts declare famine in and around Gaza City - The Guardian",
+      "pubDate": "Fri, 22 Aug 2025 10:08:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1899,6 +1899,10 @@
     {
       "title": "Apple Patches Zero-Day Exploited in Targeted Attacks - SecurityWeek",
       "pubDate": "Thu, 21 Aug 2025 08:51:34 GMT"
+    },
+    {
+      "title": "Apple Explores Using Google Gemini AI to Power Revamped Siri - Bloomberg.com",
+      "pubDate": "Fri, 22 Aug 2025 17:18:30 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -2153,6 +2157,10 @@
     {
       "title": "Ukraine hackers infiltrate Russia's deadliest nuclear submarine inb intelligence coup - Daily Express US",
       "pubDate": "Wed, 06 Aug 2025 10:07:03 GMT"
+    },
+    {
+      "title": "Hegseth fires head of Defense Intelligence Agency, Lt. Gen. Jeffrey Kruse - The Washington Post",
+      "pubDate": "Fri, 22 Aug 2025 20:54:16 GMT"
     }
   ],
   "Battery Technology": [
@@ -2186,10 +2194,6 @@
     }
   ],
   "Environment": [
-    {
-      "title": "Scientists uncover 27 million tons of nanoplastic in the Atlantic - Interesting Engineering",
-      "pubDate": "Wed, 23 Jul 2025 18:43:07 GMT"
-    },
     {
       "title": "Going to waste: two years after REDcycle\u2019s collapse, Australia\u2019s soft plastics are hitting the environment hard - The Guardian",
       "pubDate": "Sat, 02 Aug 2025 06:38:00 GMT"
@@ -2273,12 +2277,6 @@
       "pubDate": "Thu, 14 Aug 2025 15:51:00 GMT"
     }
   ],
-  "Google": [
-    {
-      "title": "Google beats on Q2 earnings, raises capex expeditures - Yahoo Finance",
-      "pubDate": "Wed, 23 Jul 2025 20:50:39 GMT"
-    }
-  ],
   "Atmospheric Science": [
     {
       "title": "Scientists warn of bigger hailstorms as research funding faces cuts - NBC News",
@@ -2337,6 +2335,10 @@
     {
       "title": "Global talks to end plastic pollution crisis fail again - CBS News",
       "pubDate": "Fri, 15 Aug 2025 22:23:00 GMT"
+    },
+    {
+      "title": "US oil and gas air pollution is causing unequal health impacts: Study - The Hill",
+      "pubDate": "Fri, 22 Aug 2025 18:32:00 GMT"
     }
   ],
   "Terrorism": [
