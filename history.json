@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Amazon shuts down Shanghai AI research lab - Financial Times",
-      "pubDate": "Wed, 23 Jul 2025 05:42:35 GMT"
-    },
-    {
       "title": "FDA\u2019s artificial intelligence is supposed to revolutionize drug approvals. It\u2019s making up studies - CNN",
       "pubDate": "Wed, 23 Jul 2025 10:00:00 GMT"
     },
@@ -225,10 +221,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine suffered its first loss of a French fighter jet after equipment failure forced its pilot to eject - Business Insider",
-      "pubDate": "Wed, 23 Jul 2025 04:14:00 GMT"
-    },
-    {
       "title": "Pressure builds on Zelenskyy over corruption agency changes as protests continue - The Guardian",
       "pubDate": "Wed, 23 Jul 2025 15:48:00 GMT"
     },
@@ -371,6 +363,10 @@
     {
       "title": "Major Russian Attack on Western Ukraine Hits an American Factory During US-Led Push for Peace - Military.com",
       "pubDate": "Thu, 21 Aug 2025 17:50:54 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy reveals huge Flamingo cruise missile as no peace in sight - The Guardian",
+      "pubDate": "Fri, 22 Aug 2025 02:49:00 GMT"
     }
   ],
   "Russia": [
@@ -530,10 +526,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Record heat in China strains power grid, stirs health fears - Reuters",
-      "pubDate": "Wed, 23 Jul 2025 07:15:09 GMT"
-    },
     {
       "title": "China releases AI action plan days after the U.S. as global tech race heats up - CNBC",
       "pubDate": "Sat, 26 Jul 2025 10:54:15 GMT"
@@ -1103,6 +1095,10 @@
     {
       "title": "Powerful earthquake strikes Indonesia leaving dozens injured and two critical - The Independent",
       "pubDate": "Sun, 17 Aug 2025 06:01:00 GMT"
+    },
+    {
+      "title": "Major earthquake rocks the South Atlantic Ocean far off the coast of Argentina - ABC News",
+      "pubDate": "Fri, 22 Aug 2025 06:39:18 GMT"
     }
   ],
   "Democratic Party": [
@@ -1490,10 +1486,6 @@
     }
   ],
   "Alternative Energy": [
-    {
-      "title": "Global average solar LCOE stood at $0.043/kWh in 2024, says IRENA - pv magazine International",
-      "pubDate": "Wed, 23 Jul 2025 08:47:24 GMT"
-    },
     {
       "title": "Victoria\u2019s green energy build almost doubles in price - AFR",
       "pubDate": "Sun, 17 Aug 2025 09:51:00 GMT"
@@ -1981,10 +1973,6 @@
   ],
   "Climate Change": [
     {
-      "title": "U.N. court rules that nations must act on climate change - Iowa Public Radio",
-      "pubDate": "Thu, 24 Jul 2025 08:17:00 GMT"
-    },
-    {
       "title": "Trump's EPA now says greenhouse gases don't endanger people - NPR",
       "pubDate": "Thu, 24 Jul 2025 09:00:52 GMT"
     },
@@ -2139,6 +2127,10 @@
     {
       "title": "Abrupt Antarctic climate shifts could lead to \"catastrophic consequences for generations,\" experts warn - CBS News",
       "pubDate": "Wed, 20 Aug 2025 19:34:00 GMT"
+    },
+    {
+      "title": "Ozone recovery could trigger 40% more global warming than predicted - ScienceDaily",
+      "pubDate": "Fri, 22 Aug 2025 08:04:54 GMT"
     }
   ],
   "Algorithms": [
