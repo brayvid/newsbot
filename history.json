@@ -127,6 +127,10 @@
     {
       "title": "Mass. educators get new guidance for age of AI - NBC Boston",
       "pubDate": "Thu, 21 Aug 2025 18:59:38 GMT"
+    },
+    {
+      "title": "AI model can help extend life and increase safety of electric vehicle batteries - Tech Xplore",
+      "pubDate": "Fri, 22 Aug 2025 17:11:19 GMT"
     }
   ],
   "US Politics": [
@@ -629,6 +633,10 @@
     {
       "title": "China could host at least four Formula E races, says Agag - Reuters",
       "pubDate": "Fri, 22 Aug 2025 18:58:47 GMT"
+    },
+    {
+      "title": "China builds bridges on uneven ground in Central Asia - East Asia Forum",
+      "pubDate": "Sat, 23 Aug 2025 00:00:00 GMT"
     }
   ],
   "AI Safety": [
@@ -801,10 +809,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage - WIRED",
-      "pubDate": "Wed, 23 Jul 2025 21:59:20 GMT"
-    },
-    {
       "title": "Microsoft Used China-Based Support for Multiple U.S. Agencies, Potentially Exposing Sensitive Data - ProPublica",
       "pubDate": "Fri, 25 Jul 2025 16:05:00 GMT"
     },
@@ -851,6 +855,10 @@
     {
       "title": "Russia-linked European attacks renew concerns over water cybersecurity - csoonline.com",
       "pubDate": "Wed, 20 Aug 2025 07:01:45 GMT"
+    },
+    {
+      "title": "Cybersecurity firm Netskope files to go public on the Nasdaq - CNBC",
+      "pubDate": "Fri, 22 Aug 2025 20:36:41 GMT"
     }
   ],
   "US Economy": [
@@ -997,6 +1005,10 @@
     {
       "title": "Scientists May Have Found Evidence of Life Beyond Earth. Read That Again. - Popular Mechanics",
       "pubDate": "Fri, 22 Aug 2025 16:16:00 GMT"
+    },
+    {
+      "title": "New type of supernova \u2018looks like nothing anyone has ever seen before,\u2019 astronomer says - CNN",
+      "pubDate": "Fri, 22 Aug 2025 19:00:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -1149,6 +1161,10 @@
     {
       "title": "Bitcoin-Volatility Collapse Forces Risk-Loving Traders Elsewhere - Bloomberg.com",
       "pubDate": "Fri, 22 Aug 2025 16:58:32 GMT"
+    },
+    {
+      "title": "Bitcoin has hit several new all-time highs this year \u2014 and each drawdown is getting shallower - CNBC",
+      "pubDate": "Fri, 22 Aug 2025 18:26:31 GMT"
     }
   ],
   "BRICS": [
@@ -1245,6 +1261,10 @@
     {
       "title": "Exploring the metabolic signaling network of GFPT in cancer - Nature",
       "pubDate": "Tue, 19 Aug 2025 15:11:04 GMT"
+    },
+    {
+      "title": "Researchers identify molecular mechanism behind tamoxifen-related uterine cancer - News-Medical",
+      "pubDate": "Sat, 23 Aug 2025 01:39:00 GMT"
     }
   ],
   "Climate": [
@@ -1385,10 +1405,6 @@
   ],
   "Tesla": [
     {
-      "title": "Tesla profits slide 16%, despite Elon Musk\u2019s pivot back to his companies - NPR",
-      "pubDate": "Thu, 24 Jul 2025 00:18:10 GMT"
-    },
-    {
       "title": "Tesla tells staff it plans to roll out its Robotaxi service in San Francisco this weekend - Business Insider",
       "pubDate": "Fri, 25 Jul 2025 11:32:00 GMT"
     },
@@ -1424,10 +1440,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "Trump to visit Federal Reserve, escalating campaign against Chair Powell - CNBC",
-      "pubDate": "Thu, 24 Jul 2025 03:17:00 GMT"
-    },
     {
       "title": "Trump visits Fed headquarters, says he will not fire Powell - Reuters",
       "pubDate": "Thu, 24 Jul 2025 22:39:25 GMT"
@@ -1816,10 +1828,6 @@
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "[Today's Major Economic and Cryptocurrency Schedules] US New Unemployment Claims, etc. - bloomingbit",
-      "pubDate": "Thu, 24 Jul 2025 00:08:37 GMT"
-    },
     {
       "title": "PayPal to Enable Businesses to Accept Bitcoin, Ethereum and Other Cryptocurrencies - Decrypt",
       "pubDate": "Mon, 28 Jul 2025 13:44:27 GMT"
@@ -2223,12 +2231,6 @@
     {
       "title": "Russia's Krasheninnikov volcano erupts for first time in 600 years \u2013 video - The Guardian",
       "pubDate": "Sun, 03 Aug 2025 15:18:00 GMT"
-    }
-  ],
-  "European Union": [
-    {
-      "title": "EU-China summit kicks off under shadow of fraught ties - BBC",
-      "pubDate": "Thu, 24 Jul 2025 03:45:26 GMT"
     }
   ],
   "Global Health": [
@@ -2641,6 +2643,12 @@
     {
       "title": "CISA Warns of Actively Exploited 0-Day Vulnerability in Apple iOS, iPadOS, and macOS - GBHackers News",
       "pubDate": "Fri, 22 Aug 2025 12:33:59 GMT"
+    }
+  ],
+  "Earth Science": [
+    {
+      "title": "Scientists discover that North America is 'dripping' underneath, down into Earth's mantle - Earth.com",
+      "pubDate": "Fri, 22 Aug 2025 23:40:42 GMT"
     }
   ]
 }
