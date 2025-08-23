@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI summaries cause \u2018devastating\u2019 drop in audiences, online news media told - The Guardian",
-      "pubDate": "Thu, 24 Jul 2025 19:37:00 GMT"
-    },
-    {
-      "title": "This industrial AI startup is winning over customers by saying it won\u2019t get acquired - TechCrunch",
-      "pubDate": "Thu, 24 Jul 2025 18:37:47 GMT"
-    },
-    {
       "title": "China's Premier Li proposes global AI cooperation organisation - Reuters",
       "pubDate": "Sat, 26 Jul 2025 02:44:00 GMT"
     },
@@ -224,10 +216,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine Releases Audio of Russian Commander Allegedly Planning Chemical Attack - UNITED24 Media",
-      "pubDate": "Thu, 24 Jul 2025 19:50:39 GMT"
-    },
     {
       "title": "Zelensky defied senior US officials on controversial corruption law - The Telegraph",
       "pubDate": "Fri, 25 Jul 2025 07:31:00 GMT"
@@ -645,6 +633,10 @@
     {
       "title": "Chinese bridge collapse kills at least 12 construction workers - ABC News",
       "pubDate": "Sat, 23 Aug 2025 08:56:53 GMT"
+    },
+    {
+      "title": "Multiple workers dead after 'tensioning operation' causes bridge in China to collapse - Sky News",
+      "pubDate": "Sat, 23 Aug 2025 10:04:22 GMT"
     }
   ],
   "AI Safety": [
@@ -759,13 +751,13 @@
     {
       "title": "ChatGPT-5 Downgrade Attack Allows Hackers to Evade AI Defenses With Minimal Prompts - GBHackers News",
       "pubDate": "Sat, 23 Aug 2025 15:25:27 GMT"
+    },
+    {
+      "title": "Experts question AI therapy's limits and data safety - Mitrade",
+      "pubDate": "Sat, 23 Aug 2025 16:02:53 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "Massive T-Mobile data breach payments prove all settlements aren't created equal - Android Police",
-      "pubDate": "Thu, 24 Jul 2025 18:51:00 GMT"
-    },
     {
       "title": "Tea App Data Breach Exposes 72,000 Users Via AI-Generated Code Security Lapse - AInvest",
       "pubDate": "Fri, 25 Jul 2025 22:32:51 GMT"
