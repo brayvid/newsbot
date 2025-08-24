@@ -1211,13 +1211,13 @@
     {
       "title": "Black metal could give a heavy boost to solar power generation - University of Rochester",
       "pubDate": "Tue, 12 Aug 2025 18:30:27 GMT"
+    },
+    {
+      "title": "Trump halts work on New England offshore wind project that's nearly complete - ABC News",
+      "pubDate": "Sat, 23 Aug 2025 17:28:13 GMT"
     }
   ],
   "Cancer": [
-    {
-      "title": "This Natural, Zero-Calorie Sweetener Could Be a Secret Weapon Against Cancer - ScienceAlert",
-      "pubDate": "Fri, 25 Jul 2025 02:06:49 GMT"
-    },
     {
       "title": "US scientists discover new early warning sign for deadly pancreatic cancer - Times of India",
       "pubDate": "Sun, 27 Jul 2025 01:49:00 GMT"
@@ -1332,10 +1332,6 @@
     }
   ],
   "Elon Musk": [
-    {
-      "title": "Elon Musk\u2019s Starlink apologizes after leaving thousands without internet connection for hours - The Independent",
-      "pubDate": "Fri, 25 Jul 2025 00:51:00 GMT"
-    },
     {
       "title": "Tesla awards CEO Musk millions of shares valued at about $29 billion - AP News",
       "pubDate": "Mon, 04 Aug 2025 18:34:00 GMT"
@@ -1452,10 +1448,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "Trump visits Fed headquarters, says he will not fire Powell - Reuters",
-      "pubDate": "Thu, 24 Jul 2025 22:39:25 GMT"
-    },
     {
       "title": "Trump suggests Fed may be ready to lower interest rates - Reuters",
       "pubDate": "Fri, 25 Jul 2025 14:58:38 GMT"
@@ -2303,18 +2295,6 @@
       "pubDate": "Thu, 14 Aug 2025 15:51:00 GMT"
     }
   ],
-  "Atmospheric Science": [
-    {
-      "title": "Scientists warn of bigger hailstorms as research funding faces cuts - NBC News",
-      "pubDate": "Thu, 24 Jul 2025 23:17:13 GMT"
-    }
-  ],
-  "US Supreme Court": [
-    {
-      "title": "Trump administration asks US Supreme Court to allow NIH diversity-related cuts - Reuters",
-      "pubDate": "Thu, 24 Jul 2025 22:50:09 GMT"
-    }
-  ],
   "Jeff Bezos": [
     {
       "title": "Jeff Bezos cashes out $5.7 billion in Amazon stock ahead of earnings - Cryptopolitan",
@@ -2577,6 +2557,10 @@
     {
       "title": "US general whose report on Iran nuclear sites angered Trump fired - Al Jazeera",
       "pubDate": "Sat, 23 Aug 2025 03:22:30 GMT"
+    },
+    {
+      "title": "Pentagon fires intelligence chief after Iran attack assessment - BBC",
+      "pubDate": "Sat, 23 Aug 2025 16:24:47 GMT"
     }
   ],
   "Infrastructure": [
