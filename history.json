@@ -217,10 +217,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Musk ordered shutdown of Starlink satellite service as Ukraine retook territory from Russia - Reuters",
-      "pubDate": "Fri, 25 Jul 2025 11:00:00 GMT"
-    },
-    {
       "title": "Ukraine war briefing: Drones hit Russian electronic warfare plant and disrupt railway and air travel - The Guardian",
       "pubDate": "Sun, 27 Jul 2025 01:45:00 GMT"
     },
@@ -381,10 +377,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump says he's considering rebate checks for Americans based on tariff revenue - CBS News",
-      "pubDate": "Fri, 25 Jul 2025 20:44:57 GMT"
-    },
-    {
       "title": "Trump insists Putin-Zelensky meeting \u2018will happen,\u2019 renews sanctions threat on Russia - washingtonpost.com",
       "pubDate": "Sat, 26 Jul 2025 05:50:42 GMT"
     },
@@ -459,6 +451,10 @@
     {
       "title": "Appeals court throws out Trump's $454 million civil fraud judgment - ABC News",
       "pubDate": "Thu, 21 Aug 2025 13:17:13 GMT"
+    },
+    {
+      "title": "Trump threatens to send the military to Baltimore to 'clean up' crime - NBC News",
+      "pubDate": "Sun, 24 Aug 2025 19:34:20 GMT"
     }
   ],
   "National Security": [
@@ -645,10 +641,6 @@
   ],
   "AI Safety": [
     {
-      "title": "On AI security risks, US plan shows overlap between Trump, Biden - MLex",
-      "pubDate": "Fri, 25 Jul 2025 18:59:00 GMT"
-    },
-    {
       "title": "AI Is Learning Things It Wasn't Taught, New Study Claims - bgr.com",
       "pubDate": "Sat, 26 Jul 2025 14:17:00 GMT"
     },
@@ -820,10 +812,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Microsoft Used China-Based Support for Multiple U.S. Agencies, Potentially Exposing Sensitive Data - ProPublica",
-      "pubDate": "Fri, 25 Jul 2025 16:05:00 GMT"
-    },
     {
       "title": "Palo Alto Networks in talks to buy CyberArk in deal worth over $20 billion, WSJ reports - Reuters",
       "pubDate": "Tue, 29 Jul 2025 17:08:19 GMT"
@@ -1029,10 +1017,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "The Mw7.7 Myanmar earthquake: a continental longest surface-rupturing supershear cascading event - Nature",
-      "pubDate": "Fri, 25 Jul 2025 09:46:39 GMT"
-    },
-    {
       "title": "Experts warn hidden earthquake threat beneath North America could strike at any moment - MSN",
       "pubDate": "Sat, 26 Jul 2025 02:56:02 GMT"
     },
@@ -1181,6 +1165,10 @@
     {
       "title": "Federal Reserve Rate Cuts Might Ignite Bitcoin's Ascent - OneSafe",
       "pubDate": "Sun, 24 Aug 2025 07:10:14 GMT"
+    },
+    {
+      "title": "Bitcoin goes below $113,000 in sudden market drop - BNO News",
+      "pubDate": "Sun, 24 Aug 2025 20:09:56 GMT"
     }
   ],
   "BRICS": [
@@ -1195,12 +1183,6 @@
     {
       "title": "Russia pushes back against US 'sanctions' against India, says our market open for Indian goods, calls BRICS a stabilising force - WION",
       "pubDate": "Wed, 20 Aug 2025 06:48:00 GMT"
-    }
-  ],
-  "Central Intelligence Agency": [
-    {
-      "title": "Exclusive: Hackers breached intelligence website used by CIA - Washington Times",
-      "pubDate": "Fri, 25 Jul 2025 15:52:59 GMT"
     }
   ],
   "Renewable Energy": [
@@ -1289,6 +1271,10 @@
     {
       "title": "Surprising Study Finds Meat May Protect Against Cancer Risk - SciTechDaily",
       "pubDate": "Sat, 23 Aug 2025 22:55:03 GMT"
+    },
+    {
+      "title": "Scientists Strip Cancer of Its \u201cSuperpower\u201d To Outsmart Drugs - SciTechDaily",
+      "pubDate": "Sun, 24 Aug 2025 15:33:51 GMT"
     }
   ],
   "Climate": [
@@ -1387,14 +1373,6 @@
   ],
   "North Korea": [
     {
-      "title": "US offers $15 million reward for info on North Korean nationals involved in global criminal network - CyberScoop",
-      "pubDate": "Fri, 25 Jul 2025 15:03:07 GMT"
-    },
-    {
-      "title": "Arizona woman sentenced over $17 million North Korea worker fraud scheme - The Washington Post",
-      "pubDate": "Fri, 25 Jul 2025 13:45:40 GMT"
-    },
-    {
       "title": "North Korea Rejects South Korean Overtures Amid New Leadership - AInvest",
       "pubDate": "Mon, 28 Jul 2025 01:20:04 GMT"
     },
@@ -1420,10 +1398,6 @@
     }
   ],
   "Tesla": [
-    {
-      "title": "Tesla tells staff it plans to roll out its Robotaxi service in San Francisco this weekend - Business Insider",
-      "pubDate": "Fri, 25 Jul 2025 11:32:00 GMT"
-    },
     {
       "title": "Tesla ordered to pay $200 million in punitive damages over fatal crash - CBS News",
       "pubDate": "Fri, 01 Aug 2025 22:12:43 GMT"
@@ -1456,10 +1430,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "Trump suggests Fed may be ready to lower interest rates - Reuters",
-      "pubDate": "Fri, 25 Jul 2025 14:58:38 GMT"
-    },
     {
       "title": "The Fed is unlikely to cut rates, but this week's meeting is packed with intrigue - CNBC",
       "pubDate": "Tue, 29 Jul 2025 19:00:58 GMT"
@@ -1556,10 +1526,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI's GPT-5 is coming in early August, per sources - Axios",
-      "pubDate": "Fri, 25 Jul 2025 12:32:49 GMT"
-    },
     {
       "title": "OpenAI Hits $12 Billion in Annualized Revenue, Breaks 700 Million ChatGPT Weekly Active Users - The Information",
       "pubDate": "Thu, 31 Jul 2025 01:42:00 GMT"
@@ -1686,10 +1652,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israeli hostage families hold emergency protest after Gaza militants release videos showing emaciated captives - CNN",
-      "pubDate": "Sat, 02 Aug 2025 11:40:00 GMT"
-    },
     {
       "title": "Hamas refuses to disarm until Palestinian state established - BBC",
       "pubDate": "Sat, 02 Aug 2025 18:40:12 GMT"
@@ -1845,6 +1807,10 @@
     {
       "title": "Airdropped Aid Is Crushing Starving People in Gaza - The Intercept",
       "pubDate": "Fri, 22 Aug 2025 21:54:39 GMT"
+    },
+    {
+      "title": "Israeli forces open fire on crowd of aid-seekers near Gaza City, killing four - The Globe and Mail",
+      "pubDate": "Sun, 24 Aug 2025 11:50:40 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2000,10 +1966,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "A UN court says countries can sue each other over greenhouse gas emissions. A legal expert explains why it's \u2018absolutely remarkable\u2019 - Northeastern Global News",
-      "pubDate": "Fri, 25 Jul 2025 19:18:29 GMT"
-    },
     {
       "title": "Companies Are Starting To Get The Big Picture On Climate Action - Time Magazine",
       "pubDate": "Fri, 25 Jul 2025 21:05:08 GMT"
@@ -2207,6 +2169,10 @@
     {
       "title": "Scientists unveil self-healing battery that could be a game changer for EVs - supercarblondie.com",
       "pubDate": "Fri, 22 Aug 2025 22:19:00 GMT"
+    },
+    {
+      "title": "AI Revolutionizes Battery Tech: EV Efficiency and $19.4B Market - WebProNews",
+      "pubDate": "Sun, 24 Aug 2025 11:31:02 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -2501,6 +2467,10 @@
     {
       "title": "High-tech drones turn Ukraine's front line into a deadly kill zone, complicating evacuations - ABC News",
       "pubDate": "Sun, 17 Aug 2025 09:18:43 GMT"
+    },
+    {
+      "title": "How Ukraine\u2019s naval drones hold Russia\u2019s warships at bay - The Economist",
+      "pubDate": "Sun, 24 Aug 2025 18:40:34 GMT"
     }
   ],
   "Business": [
@@ -2631,6 +2601,10 @@
     {
       "title": "Nvidia Orders Halt to H20 Production After China Directive Against Purchases - The Information",
       "pubDate": "Thu, 21 Aug 2025 23:59:00 GMT"
+    },
+    {
+      "title": "Nvidia Earnings Are the Stock Market Risk Event After Fed Rally - Bloomberg.com",
+      "pubDate": "Sun, 24 Aug 2025 13:00:07 GMT"
     }
   ],
   "NASA": [
