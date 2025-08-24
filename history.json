@@ -217,10 +217,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Zelensky defied senior US officials on controversial corruption law - The Telegraph",
-      "pubDate": "Fri, 25 Jul 2025 07:31:00 GMT"
-    },
-    {
       "title": "Musk ordered shutdown of Starlink satellite service as Ukraine retook territory from Russia - Reuters",
       "pubDate": "Fri, 25 Jul 2025 11:00:00 GMT"
     },
@@ -351,6 +347,10 @@
     {
       "title": "Ukraine war briefing: Zelenskyy reveals huge Flamingo cruise missile as no peace in sight - The Guardian",
       "pubDate": "Fri, 22 Aug 2025 02:49:00 GMT"
+    },
+    {
+      "title": "Pentagon restricts Ukraine's use of US missiles against Russia, WSJ reports - Reuters",
+      "pubDate": "Sat, 23 Aug 2025 22:23:46 GMT"
     }
   ],
   "Russia": [
@@ -637,6 +637,10 @@
     {
       "title": "Multiple workers dead after 'tensioning operation' causes bridge in China to collapse - Sky News",
       "pubDate": "Sat, 23 Aug 2025 10:04:22 GMT"
+    },
+    {
+      "title": "Bubble Risks Grow as China\u2019s Stock Bull Run Defies Economy Angst - Bloomberg.com",
+      "pubDate": "Sun, 24 Aug 2025 00:00:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1017,13 +1021,13 @@
     {
       "title": "New type of supernova \u2018looks like nothing anyone has ever seen before,\u2019 astronomer says - CNN",
       "pubDate": "Fri, 22 Aug 2025 19:00:00 GMT"
+    },
+    {
+      "title": "Scientists discover 300 odd galaxies that shouldn\u2019t exist - The Brighter Side of News",
+      "pubDate": "Sat, 23 Aug 2025 23:07:00 GMT"
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Major US city under volcano advisory rattled by earthquakes - MSN",
-      "pubDate": "Fri, 25 Jul 2025 04:31:29 GMT"
-    },
     {
       "title": "The Mw7.7 Myanmar earthquake: a continental longest surface-rupturing supershear cascading event - Nature",
       "pubDate": "Fri, 25 Jul 2025 09:46:39 GMT"
@@ -1173,6 +1177,10 @@
     {
       "title": "Bitcoin has hit several new all-time highs this year \u2014 and each drawdown is getting shallower - CNBC",
       "pubDate": "Fri, 22 Aug 2025 18:26:31 GMT"
+    },
+    {
+      "title": "Federal Reserve Rate Cuts Might Ignite Bitcoin's Ascent - OneSafe",
+      "pubDate": "Sun, 24 Aug 2025 07:10:14 GMT"
     }
   ],
   "BRICS": [
@@ -1277,6 +1285,10 @@
     {
       "title": "Ordinary differential equation model of cancer-associated fibroblast heterogeneity predicts treatment outcomes - Nature",
       "pubDate": "Sat, 23 Aug 2025 07:02:57 GMT"
+    },
+    {
+      "title": "Surprising Study Finds Meat May Protect Against Cancer Risk - SciTechDaily",
+      "pubDate": "Sat, 23 Aug 2025 22:55:03 GMT"
     }
   ],
   "Climate": [
@@ -1348,10 +1360,6 @@
     }
   ],
   "Fusion Power": [
-    {
-      "title": "China sets up state-owned fusion energy company - China.org.cn",
-      "pubDate": "Fri, 25 Jul 2025 04:07:29 GMT"
-    },
     {
       "title": "Helion Energy starts construction on nuclear fusion plant to power Microsoft data centers - Yahoo Finance",
       "pubDate": "Wed, 30 Jul 2025 12:08:33 GMT"
@@ -1985,6 +1993,10 @@
     {
       "title": "SpaceX aims to launch Starship Flight 10 test flight on Aug. 24 - Space",
       "pubDate": "Fri, 15 Aug 2025 21:55:16 GMT"
+    },
+    {
+      "title": "Elon Musk\u2019s Starship under pressure: Previous failures haunt SpaceX; Sunday launch could decide future - Times of India",
+      "pubDate": "Sun, 24 Aug 2025 02:41:00 GMT"
     }
   ],
   "Climate Change": [
