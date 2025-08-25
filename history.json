@@ -1,18 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "China's Premier Li proposes global AI cooperation organisation - Reuters",
-      "pubDate": "Sat, 26 Jul 2025 02:44:00 GMT"
-    },
-    {
-      "title": "Meta appoints ChatGPT co-creator Shengjia Zhao as chief scientist of Superintelligence Lab - WION",
-      "pubDate": "Sat, 26 Jul 2025 07:20:00 GMT"
-    },
-    {
-      "title": "China proposes global body to govern artificial intelligence - Financial Times",
-      "pubDate": "Sat, 26 Jul 2025 04:17:01 GMT"
-    },
-    {
       "title": "Urgent need for 'global approach' on AI regulation: UN tech chief - France 24",
       "pubDate": "Sun, 27 Jul 2025 04:01:09 GMT"
     },
@@ -377,10 +365,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump insists Putin-Zelensky meeting \u2018will happen,\u2019 renews sanctions threat on Russia - washingtonpost.com",
-      "pubDate": "Sat, 26 Jul 2025 05:50:42 GMT"
-    },
-    {
       "title": "Trump ducks Maxwell pardon question as Democrats seek \u2018birthday book\u2019 from Epstein estate: Live - The Independent",
       "pubDate": "Sat, 26 Jul 2025 14:39:07 GMT"
     },
@@ -455,6 +439,10 @@
     {
       "title": "Trump threatens to send the military to Baltimore to 'clean up' crime - NBC News",
       "pubDate": "Sun, 24 Aug 2025 19:34:20 GMT"
+    },
+    {
+      "title": "Trump expands targets for possible military deployment to more Democratic-led cities - PBS",
+      "pubDate": "Sun, 24 Aug 2025 22:20:14 GMT"
     }
   ],
   "National Security": [
@@ -637,6 +625,10 @@
     {
       "title": "Bubble Risks Grow as China\u2019s Stock Bull Run Defies Economy Angst - Bloomberg.com",
       "pubDate": "Sun, 24 Aug 2025 00:00:00 GMT"
+    },
+    {
+      "title": "China Evergrande Delisted From Hong Kong Stock Exchange - The New York Times",
+      "pubDate": "Mon, 25 Aug 2025 04:27:00 GMT"
     }
   ],
   "AI Safety": [
@@ -754,10 +746,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Tea App Data Breach Exposes 72,000 Users Via AI-Generated Code Security Lapse - AInvest",
-      "pubDate": "Fri, 25 Jul 2025 22:32:51 GMT"
-    },
     {
       "title": "Allianz Life: Insurance giant says most US customer data stolen in cyber-attack - BBC",
       "pubDate": "Sat, 26 Jul 2025 16:45:51 GMT"
@@ -931,10 +919,6 @@
   ],
   "Asteroids": [
     {
-      "title": "NASA Alerts: 140-foot asteroid to pass Earth today at a speed of 41,157 miles per hour - Moneycontrol",
-      "pubDate": "Sat, 26 Jul 2025 01:30:37 GMT"
-    },
-    {
       "title": "Massive 300-ft Asteroid Ready For Close Encounter With Earth Tomorrow: NASA Issues Warning - Times Now",
       "pubDate": "Thu, 07 Aug 2025 02:00:00 GMT"
     },
@@ -1016,10 +1000,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Experts warn hidden earthquake threat beneath North America could strike at any moment - MSN",
-      "pubDate": "Sat, 26 Jul 2025 02:56:02 GMT"
-    },
     {
       "title": "Caught on Camera: Rare Footage Reveals How a Giant Earthquake Tore the Earth in Seconds - SciTechDaily",
       "pubDate": "Sat, 26 Jul 2025 15:56:47 GMT"
@@ -1115,10 +1095,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Satoshi-era Bitcoin investor cashes out 80,000 BTC for $9B via Galaxy Digital - Cointelegraph",
-      "pubDate": "Fri, 25 Jul 2025 21:36:18 GMT"
-    },
-    {
       "title": "These three catalysts will help Bitcoin break $122K - Cointelegraph",
       "pubDate": "Sat, 09 Aug 2025 10:09:56 GMT"
     },
@@ -1169,6 +1145,10 @@
     {
       "title": "Bitcoin goes below $113,000 in sudden market drop - BNO News",
       "pubDate": "Sun, 24 Aug 2025 20:09:56 GMT"
+    },
+    {
+      "title": "Bitcoin Flash Crash Triggers $550M in Sunday Liquidations as Ether Rotation Builds - CoinDesk",
+      "pubDate": "Mon, 25 Aug 2025 07:00:12 GMT"
     }
   ],
   "BRICS": [
@@ -1589,14 +1569,6 @@
   ],
   "Alexandria Ocasio-Cortez": [
     {
-      "title": "House ethics panel tells Rep. Alexandria Ocasio-Cortez to pay more for Met Gala attendance - ABC News",
-      "pubDate": "Fri, 25 Jul 2025 22:07:40 GMT"
-    },
-    {
-      "title": "AOC broke ethics rules with \u2018tax the rich\u2019 Met Gala gown - The Telegraph",
-      "pubDate": "Fri, 25 Jul 2025 22:07:00 GMT"
-    },
-    {
       "title": "Ocasio-Cortez's office vandalized amid 'multiple threats' to her life, campaign manager says - AOL.com",
       "pubDate": "Thu, 07 Aug 2025 07:33:03 GMT"
     },
@@ -1652,10 +1624,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Hamas refuses to disarm until Palestinian state established - BBC",
-      "pubDate": "Sat, 02 Aug 2025 18:40:12 GMT"
-    },
     {
       "title": "Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war - BBC",
       "pubDate": "Mon, 04 Aug 2025 13:01:22 GMT"
@@ -1811,6 +1779,10 @@
     {
       "title": "Israeli forces open fire on crowd of aid-seekers near Gaza City, killing four - The Globe and Mail",
       "pubDate": "Sun, 24 Aug 2025 11:50:40 GMT"
+    },
+    {
+      "title": "Israel must take hostage deal, its military chief reportedly says - BBC",
+      "pubDate": "Mon, 25 Aug 2025 06:55:18 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1966,10 +1938,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Companies Are Starting To Get The Big Picture On Climate Action - Time Magazine",
-      "pubDate": "Fri, 25 Jul 2025 21:05:08 GMT"
-    },
     {
       "title": "Ancient river landscapes under Antarctica may stabilize ice sheet - The Washington Post",
       "pubDate": "Sun, 27 Jul 2025 14:14:48 GMT"
