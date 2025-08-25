@@ -111,6 +111,10 @@
     {
       "title": "AI model can help extend life and increase safety of electric vehicle batteries - Tech Xplore",
       "pubDate": "Fri, 22 Aug 2025 17:11:19 GMT"
+    },
+    {
+      "title": "Senate committee gives green (well, maybe yellow) light to artificial intelligence bill - Colorado Politics",
+      "pubDate": "Mon, 25 Aug 2025 15:10:53 GMT"
     }
   ],
   "US Politics": [
@@ -162,10 +166,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israeli Parliament Votes for Making Apartheid Official. Fetterman: \u201cI Haven\u2019t Been Following It.\u201d - The Intercept",
-      "pubDate": "Sat, 26 Jul 2025 10:00:00 GMT"
-    },
     {
       "title": "For first time, two leading Israeli human rights groups accuse Israel of genocide in Gaza - CNN",
       "pubDate": "Mon, 28 Jul 2025 11:07:00 GMT"
@@ -339,10 +339,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia Deploys the Knyaz Pozharsky, a New Nuclear Submarine Built to Slip Past NATO Defenses - UNITED24 Media",
-      "pubDate": "Sat, 26 Jul 2025 11:31:18 GMT"
-    },
-    {
       "title": "Russia starts first Moscow-Pyongyang passenger flights in decades - Reuters",
       "pubDate": "Sun, 27 Jul 2025 03:37:00 GMT"
     },
@@ -364,14 +360,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump ducks Maxwell pardon question as Democrats seek \u2018birthday book\u2019 from Epstein estate: Live - The Independent",
-      "pubDate": "Sat, 26 Jul 2025 14:39:07 GMT"
-    },
-    {
-      "title": "Trump's distraction methods fall flat against Epstein uproar - Reuters",
-      "pubDate": "Sat, 26 Jul 2025 10:04:37 GMT"
-    },
     {
       "title": "Trump discusses trade and Gaza with U.K. Prime Minister Keir Starmer during Scotland visit - NBC News",
       "pubDate": "Mon, 28 Jul 2025 23:51:35 GMT"
@@ -483,13 +471,13 @@
     {
       "title": "Over 53% of US Industries Shed Jobs as Recession Fears Rise - AInvest",
       "pubDate": "Sun, 10 Aug 2025 23:04:50 GMT"
+    },
+    {
+      "title": "A third of the U.S. economy is already in a recession or at high risk, and another third is stagnating, Zandi warns - Fortune",
+      "pubDate": "Mon, 25 Aug 2025 07:02:00 GMT"
     }
   ],
   "China": [
-    {
-      "title": "China releases AI action plan days after the U.S. as global tech race heats up - CNBC",
-      "pubDate": "Sat, 26 Jul 2025 10:54:15 GMT"
-    },
     {
       "title": "China's industrial profits fall further in June - Reuters",
       "pubDate": "Sun, 27 Jul 2025 02:21:07 GMT"
@@ -629,13 +617,13 @@
     {
       "title": "China Evergrande Delisted From Hong Kong Stock Exchange - The New York Times",
       "pubDate": "Mon, 25 Aug 2025 04:27:00 GMT"
+    },
+    {
+      "title": "China goes electric - Quartz",
+      "pubDate": "Mon, 25 Aug 2025 10:01:15 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI Is Learning Things It Wasn't Taught, New Study Claims - bgr.com",
-      "pubDate": "Sat, 26 Jul 2025 14:17:00 GMT"
-    },
     {
       "title": "AI Godfather Hinton Criticizes Altman, Zuckerberg on AI Risks, Praises Hassabis - WebProNews",
       "pubDate": "Sun, 27 Jul 2025 16:28:03 GMT"
@@ -1001,10 +989,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Caught on Camera: Rare Footage Reveals How a Giant Earthquake Tore the Earth in Seconds - SciTechDaily",
-      "pubDate": "Sat, 26 Jul 2025 15:56:47 GMT"
-    },
-    {
       "title": "Mounting Pressure in the Tintina Fault Could Mean Dangerous Earthquakes - Discover Magazine",
       "pubDate": "Tue, 29 Jul 2025 13:03:44 GMT"
     },
@@ -1317,10 +1301,6 @@
   ],
   "Health Care": [
     {
-      "title": "Texas Removes 1.8 Million People From Health Care Plan - Newsweek",
-      "pubDate": "Sat, 26 Jul 2025 10:00:01 GMT"
-    },
-    {
       "title": "Trump is threatening health care giants with the weight of the federal government. It\u2019s working \u2014 sometimes - statnews.com",
       "pubDate": "Wed, 06 Aug 2025 08:34:13 GMT"
     }
@@ -1625,10 +1605,6 @@
   ],
   "Gaza": [
     {
-      "title": "Hundreds of Israeli ex-officials appeal to Trump to help end Gaza war - BBC",
-      "pubDate": "Mon, 04 Aug 2025 13:01:22 GMT"
-    },
-    {
       "title": "Israel's PM Benjamin Netanyahu says decision made for full occupation of Gaza - Euronews.com",
       "pubDate": "Mon, 04 Aug 2025 17:32:27 GMT"
     },
@@ -1783,6 +1759,10 @@
     {
       "title": "Israel must take hostage deal, its military chief reportedly says - BBC",
       "pubDate": "Mon, 25 Aug 2025 06:55:18 GMT"
+    },
+    {
+      "title": "Israeli strike on Gaza's Nasser Hospital kills 15, including 4 journalists, health officials say - CBS News",
+      "pubDate": "Mon, 25 Aug 2025 09:54:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1935,6 +1915,10 @@
     {
       "title": "Elon Musk\u2019s Starship under pressure: Previous failures haunt SpaceX; Sunday launch could decide future - Times of India",
       "pubDate": "Sun, 24 Aug 2025 02:41:00 GMT"
+    },
+    {
+      "title": "SpaceX calls off Starship launch in latest setback for Elon Musk - Al Jazeera",
+      "pubDate": "Mon, 25 Aug 2025 04:10:53 GMT"
     }
   ],
   "Climate Change": [
@@ -2141,6 +2125,10 @@
     {
       "title": "AI Revolutionizes Battery Tech: EV Efficiency and $19.4B Market - WebProNews",
       "pubDate": "Sun, 24 Aug 2025 11:31:02 GMT"
+    },
+    {
+      "title": "Competing battery technologies shape the EV industry - Reuters",
+      "pubDate": "Mon, 25 Aug 2025 06:03:00 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -2225,10 +2213,6 @@
   ],
   "Military and Defense": [
     {
-      "title": "Russia Claims New S-500 Can Strike Stealth Fighters, Satellites, and Hypersonic Missiles - National Security Journal",
-      "pubDate": "Sat, 26 Jul 2025 14:51:38 GMT"
-    },
-    {
       "title": "Germany is said to plan massive military buildup, doubling defense budget by 2029 - Seeking Alpha",
       "pubDate": "Mon, 28 Jul 2025 15:16:07 GMT"
     },
@@ -2242,10 +2226,6 @@
     }
   ],
   "Jeff Bezos": [
-    {
-      "title": "Jeff Bezos cashes out $5.7 billion in Amazon stock ahead of earnings - Cryptopolitan",
-      "pubDate": "Sat, 26 Jul 2025 11:44:00 GMT"
-    },
     {
       "title": "Jeff Bezos' Biological Father Didn't Know He Was A Billionaire Until 2012 - NDTV",
       "pubDate": "Sat, 16 Aug 2025 13:54:02 GMT"
@@ -2573,6 +2553,10 @@
     {
       "title": "Nvidia Earnings Are the Stock Market Risk Event After Fed Rally - Bloomberg.com",
       "pubDate": "Sun, 24 Aug 2025 13:00:07 GMT"
+    },
+    {
+      "title": "Nvidia earnings set to test AI trade with stocks near record highs: What to watch this week - Yahoo Finance",
+      "pubDate": "Mon, 25 Aug 2025 07:31:55 GMT"
     }
   ],
   "NASA": [
