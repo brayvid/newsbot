@@ -1,18 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Urgent need for 'global approach' on AI regulation: UN tech chief - France 24",
-      "pubDate": "Sun, 27 Jul 2025 04:01:09 GMT"
-    },
-    {
-      "title": "AI is driving mass layoffs in tech, but it's boosting salaries by $18,000 a year everywhere else, study says - Fortune",
-      "pubDate": "Sun, 27 Jul 2025 11:17:00 GMT"
-    },
-    {
-      "title": "OpenAI CEO says AI can diagnose better than many human doctors, yet people still go to doctors; I am like - The Times of India",
-      "pubDate": "Sun, 27 Jul 2025 11:38:00 GMT"
-    },
-    {
       "title": "Musk hails $16.5bn Samsung deal to supply Tesla with AI chips - The Guardian",
       "pubDate": "Mon, 28 Jul 2025 10:36:00 GMT"
     },
@@ -205,14 +193,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war briefing: Drones hit Russian electronic warfare plant and disrupt railway and air travel - The Guardian",
-      "pubDate": "Sun, 27 Jul 2025 01:45:00 GMT"
-    },
-    {
-      "title": "Software group Auterion to ship 33,000 AI drone \u2018strike kits\u2019 to Ukraine - Financial Times",
-      "pubDate": "Sun, 27 Jul 2025 04:00:39 GMT"
-    },
-    {
       "title": "Russia\u2019s summer offensive is turning into an escalating crisis for Ukraine - CNN",
       "pubDate": "Thu, 31 Jul 2025 00:00:00 GMT"
     },
@@ -338,10 +318,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia starts first Moscow-Pyongyang passenger flights in decades - Reuters",
-      "pubDate": "Sun, 27 Jul 2025 03:37:00 GMT"
-    },
     {
       "title": "Russia Issues Nuclear Warning Directed at US and NATO - Newsweek",
       "pubDate": "Mon, 04 Aug 2025 16:57:57 GMT"
@@ -478,10 +454,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China's industrial profits fall further in June - Reuters",
-      "pubDate": "Sun, 27 Jul 2025 02:21:07 GMT"
-    },
     {
       "title": "China investigates Shaolin Temple\u2019s head monk on suspicion of financial and sexual misconduct - NBC News",
       "pubDate": "Mon, 28 Jul 2025 10:42:18 GMT"
@@ -735,14 +707,6 @@
   ],
   "Data Breach": [
     {
-      "title": "Allianz Life: Insurance giant says most US customer data stolen in cyber-attack - BBC",
-      "pubDate": "Sat, 26 Jul 2025 16:45:51 GMT"
-    },
-    {
-      "title": "Major Life Insurance Data Breach Puts Over 1 Million at Risk - Men's Journal",
-      "pubDate": "Sun, 27 Jul 2025 15:12:58 GMT"
-    },
-    {
       "title": "Allianz Life discloses massive data breach linked to supply-chain attack - Cybersecurity Dive",
       "pubDate": "Mon, 28 Jul 2025 14:54:30 GMT"
     },
@@ -921,10 +885,6 @@
   ],
   "Atlantic Ocean": [
     {
-      "title": "Ancient 'lost city' found at bottom of the Atlantic Ocean holds clue to origins of life - MSN",
-      "pubDate": "Sat, 26 Jul 2025 20:28:47 GMT"
-    },
-    {
       "title": "Slowing ocean currents could dry out the tropics - Earth.com",
       "pubDate": "Sun, 03 Aug 2025 08:27:44 GMT"
     },
@@ -1061,12 +1021,6 @@
       "pubDate": "Fri, 22 Aug 2025 06:39:18 GMT"
     }
   ],
-  "Democratic Party": [
-    {
-      "title": "The Democratic Party\u2019s Brand Is Cooked - Rolling Stone",
-      "pubDate": "Sat, 26 Jul 2025 18:10:13 GMT"
-    }
-  ],
   "New York City": [
     {
       "title": "Five people, including gunman, dead in shooting at New York City high-rise - NBC News",
@@ -1137,10 +1091,6 @@
   ],
   "BRICS": [
     {
-      "title": "China Dumps $8.2B US Treasuries in BRICS Payback, Sells $900M Again - CryptoRank",
-      "pubDate": "Sun, 27 Jul 2025 08:18:46 GMT"
-    },
-    {
       "title": "Putin Aide's Big Reveal On BRICS Vs U.S. Potential Fight Amid Trump's Tariff War | Lula | Modi | Xi - The Times of India",
       "pubDate": "Thu, 07 Aug 2025 08:27:41 GMT"
     },
@@ -1172,10 +1122,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "US scientists discover new early warning sign for deadly pancreatic cancer - Times of India",
-      "pubDate": "Sun, 27 Jul 2025 01:49:00 GMT"
-    },
     {
       "title": "Deion Sanders reveals he fought bladder cancer - foxnews.com",
       "pubDate": "Mon, 28 Jul 2025 17:11:32 GMT"
@@ -1241,17 +1187,7 @@
       "pubDate": "Sun, 24 Aug 2025 15:33:51 GMT"
     }
   ],
-  "Climate": [
-    {
-      "title": "Turbulence is increasing. Here's how the aviation industry is trying to smooth things out - BBC",
-      "pubDate": "Sun, 27 Jul 2025 09:01:27 GMT"
-    }
-  ],
   "Hurricanes": [
-    {
-      "title": "Hurricane season warning signs pile up. Brace for a dangerous August. - USA Today",
-      "pubDate": "Sun, 27 Jul 2025 10:05:32 GMT"
-    },
     {
       "title": "Hurricane Center tracking Invest 95L off North Carolina coast, tropical wave and one other system - Daytona Beach News-Journal",
       "pubDate": "Sun, 03 Aug 2025 20:01:43 GMT"
@@ -1433,6 +1369,10 @@
     {
       "title": "Fed's Powell signals likely September interest rate cut, citing 'downside risks' to jobs - USA Today",
       "pubDate": "Fri, 22 Aug 2025 14:55:07 GMT"
+    },
+    {
+      "title": "Trump says he's removing Federal Reserve Gov. Lisa Cook, citing his administration\u2019s allegations of mortgage fraud - NBC News",
+      "pubDate": "Tue, 26 Aug 2025 15:24:00 GMT"
     }
   ],
   "Alternative Energy": [
@@ -1517,13 +1457,13 @@
     {
       "title": "OpenAI CFO Sarah Friar Says AI Boom \u2018Just Getting Started\u2019 - PYMNTS.com",
       "pubDate": "Wed, 20 Aug 2025 22:43:23 GMT"
+    },
+    {
+      "title": "The family of teenager who died by suicide alleges OpenAI's ChatGPT is to blame - NBC News",
+      "pubDate": "Tue, 26 Aug 2025 11:40:40 GMT"
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Could a Quantum Computing Bubble Be About to Pop? History Offers a Clear Answer - Yahoo Finance",
-      "pubDate": "Sat, 26 Jul 2025 20:00:00 GMT"
-    },
     {
       "title": "Scientists hit quantum computer error rate of 0.000015% \u2014 a world record achievement that could lead to smaller and faster machines - Live Science",
       "pubDate": "Mon, 28 Jul 2025 11:00:00 GMT"
@@ -1539,6 +1479,10 @@
     {
       "title": "Another quantum computer reached quantum advantage \u2013 does it matter? - New Scientist",
       "pubDate": "Fri, 22 Aug 2025 11:00:44 GMT"
+    },
+    {
+      "title": "Japan launches its first homegrown quantum computer - Live Science",
+      "pubDate": "Tue, 26 Aug 2025 12:14:41 GMT"
     }
   ],
   "Public Health": [
@@ -1604,10 +1548,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel's PM Benjamin Netanyahu says decision made for full occupation of Gaza - Euronews.com",
-      "pubDate": "Mon, 04 Aug 2025 17:32:27 GMT"
-    },
     {
       "title": "A father's agony over video of his emaciated son, a hostage in Gaza, adds pressure for a ceasefire - apnews.com",
       "pubDate": "Mon, 04 Aug 2025 22:15:00 GMT"
@@ -1763,6 +1703,10 @@
     {
       "title": "Israeli strike on Gaza's Nasser Hospital kills 15, including 4 journalists, health officials say - CBS News",
       "pubDate": "Mon, 25 Aug 2025 09:54:00 GMT"
+    },
+    {
+      "title": "Israeli protesters hold \u2018day of disruption\u2019 to demand Gaza hostage deal: Live updates - CNN",
+      "pubDate": "Tue, 26 Aug 2025 14:33:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1922,10 +1866,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Ancient river landscapes under Antarctica may stabilize ice sheet - The Washington Post",
-      "pubDate": "Sun, 27 Jul 2025 14:14:48 GMT"
-    },
     {
       "title": "Prolonged wind droughts in a warming climate threaten global wind power security - Nature",
       "pubDate": "Mon, 28 Jul 2025 10:09:42 GMT"
@@ -2107,10 +2047,6 @@
   ],
   "Battery Technology": [
     {
-      "title": "Scientists discover salt that makes batteries last 10x longer - ScienceDaily",
-      "pubDate": "Sun, 27 Jul 2025 10:47:25 GMT"
-    },
-    {
       "title": "AI Just Found the Future of Batteries, And It\u2019s Not Lithium - SciTechDaily",
       "pubDate": "Tue, 05 Aug 2025 08:09:57 GMT"
     },
@@ -2133,12 +2069,12 @@
   ],
   "Electric Vehicle": [
     {
-      "title": "This week in EV tech: California dreaming - Digital Trends",
-      "pubDate": "Sat, 26 Jul 2025 22:00:00 GMT"
-    },
-    {
       "title": "Global EV sales up 21% year-on-year - Electric Cars Report",
       "pubDate": "Wed, 13 Aug 2025 08:57:52 GMT"
+    },
+    {
+      "title": "In China, EVs are now cheaper than gas cars. In the U.S., the Big Three still haven\u2019t closed a premium that\u2019s $14,000 per vehicle - Fortune",
+      "pubDate": "Tue, 26 Aug 2025 08:38:27 GMT"
     }
   ],
   "Hacking": [
@@ -2166,10 +2102,6 @@
     }
   ],
   "Volcanoes": [
-    {
-      "title": "Researchers issue warning over troubling phenomenon that could revive dormant volcanoes: 'It's just like opening a Coca-Cola bottle' - Yahoo Home",
-      "pubDate": "Sun, 27 Jul 2025 10:15:43 GMT"
-    },
     {
       "title": "Indonesia\u2019s Mount Lewotobi Laki Laki erupts again, spewing giant ash plumes miles away - CNN",
       "pubDate": "Sat, 02 Aug 2025 09:37:00 GMT"
@@ -2233,29 +2165,17 @@
   ],
   "Data Science": [
     {
-      "title": "Data Science Course FAANG Interview Prep 2025 - Data Scientist Jobs at Google Amazon Meta Apple Netflix Updated - Yahoo Finance",
-      "pubDate": "Sat, 26 Jul 2025 16:04:00 GMT"
-    },
-    {
       "title": "This AI stock-picking tool uses data science to predict winners, now $56 for life - Popular Science",
       "pubDate": "Sat, 16 Aug 2025 11:00:00 GMT"
     }
   ],
   "Energy Transition": [
     {
-      "title": "Global Energy Transition Gains Momentum in 2025, but Security Lags Behind - BBN Times",
-      "pubDate": "Sat, 26 Jul 2025 21:44:40 GMT"
-    },
-    {
       "title": "Powerful interview reveals overlooked impact of global energy transition: 'Every electric vehicle carries Indigenous blood in their batteries' - The Cool Down",
       "pubDate": "Sun, 03 Aug 2025 10:30:59 GMT"
     }
   ],
   "Pollution": [
-    {
-      "title": "Air quality alert for Tri-State Area extended through weekend due to Canadian wildfire smoke - ABC7 New York",
-      "pubDate": "Sun, 27 Jul 2025 00:34:36 GMT"
-    },
     {
       "title": "Momentum sagging at UN plastic pollution treaty talks - yahoo.com",
       "pubDate": "Sat, 09 Aug 2025 19:05:55 GMT"
@@ -2599,6 +2519,16 @@
     {
       "title": "Scientists discover that North America is 'dripping' underneath, down into Earth's mantle - Earth.com",
       "pubDate": "Fri, 22 Aug 2025 23:40:42 GMT"
+    },
+    {
+      "title": "Scientists Detected Signs of a Structure Hiding Inside Earth's Core - ScienceAlert",
+      "pubDate": "Tue, 26 Aug 2025 13:01:32 GMT"
+    }
+  ],
+  "Earth": [
+    {
+      "title": "Rare earth prices hit two-year peak after MP Materials stops China shipments - Reuters",
+      "pubDate": "Tue, 26 Aug 2025 12:18:23 GMT"
     }
   ]
 }
