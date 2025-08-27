@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Musk hails $16.5bn Samsung deal to supply Tesla with AI chips - The Guardian",
-      "pubDate": "Mon, 28 Jul 2025 10:36:00 GMT"
-    },
-    {
       "title": "Microsoft's AI edge under scrutiny as OpenAI turns to rivals for cloud services - Reuters",
       "pubDate": "Tue, 29 Jul 2025 10:41:23 GMT"
     },
@@ -103,6 +99,10 @@
     {
       "title": "Senate committee gives green (well, maybe yellow) light to artificial intelligence bill - Colorado Politics",
       "pubDate": "Mon, 25 Aug 2025 15:10:53 GMT"
+    },
+    {
+      "title": "Scientists just developed a new AI modeled on the human brain \u2014 it's outperforming LLMs like ChatGPT at reasoning tasks - Live Science",
+      "pubDate": "Wed, 27 Aug 2025 12:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -158,10 +158,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "For first time, two leading Israeli human rights groups accuse Israel of genocide in Gaza - CNN",
-      "pubDate": "Mon, 28 Jul 2025 11:07:00 GMT"
-    },
     {
       "title": "Pro-Israel Democrats try breaking with Netanyahu to stop party\u2019s shift amid Gaza crisis - CNN",
       "pubDate": "Sun, 03 Aug 2025 09:00:00 GMT"
@@ -323,6 +319,10 @@
     {
       "title": "Ukraine admits Russia has entered key region of Dnipropetrovsk - BBC",
       "pubDate": "Tue, 26 Aug 2025 18:08:25 GMT"
+    },
+    {
+      "title": "Russia convicts more than 300 Ukrainian soldiers of terrorism following Kursk Oblast Incursion - The Kyiv Independent",
+      "pubDate": "Wed, 27 Aug 2025 14:01:06 GMT"
     }
   ],
   "Russia": [
@@ -419,6 +419,10 @@
     {
       "title": "Trump administration pushes law enforcement crackdown as president fires Fed governor - CNN",
       "pubDate": "Tue, 26 Aug 2025 19:34:00 GMT"
+    },
+    {
+      "title": "Trump threatens charges for George Soros, frequent target of far-right ire - Al Jazeera",
+      "pubDate": "Wed, 27 Aug 2025 15:00:00 GMT"
     }
   ],
   "National Security": [
@@ -466,10 +470,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China investigates Shaolin Temple\u2019s head monk on suspicion of financial and sexual misconduct - NBC News",
-      "pubDate": "Mon, 28 Jul 2025 10:42:18 GMT"
-    },
     {
       "title": "China releases US$77 million relief fund as casualties mount in Beijing floods - South China Morning Post",
       "pubDate": "Tue, 29 Jul 2025 08:09:25 GMT"
@@ -726,10 +726,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Allianz Life discloses massive data breach linked to supply-chain attack - Cybersecurity Dive",
-      "pubDate": "Mon, 28 Jul 2025 14:54:30 GMT"
-    },
     {
       "title": "Massive data breach hits Russian authorities in occupied Crimea as Ukrainian intelligence downloads secret military files - Euromaidan Press",
       "pubDate": "Wed, 30 Jul 2025 11:07:37 GMT"
@@ -1485,10 +1481,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "Scientists hit quantum computer error rate of 0.000015% \u2014 a world record achievement that could lead to smaller and faster machines - Live Science",
-      "pubDate": "Mon, 28 Jul 2025 11:00:00 GMT"
-    },
-    {
       "title": "This Quantum Computing Company Just Unlocked a New AI Breakthrough - MSN",
       "pubDate": "Sat, 02 Aug 2025 10:26:59 GMT"
     },
@@ -1564,10 +1556,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Netanyahu hints at expanded war in Gaza but former Israeli military and spy chiefs object - AP News",
-      "pubDate": "Tue, 05 Aug 2025 18:01:00 GMT"
-    },
     {
       "title": "Israel Weighs Full Gaza Takeover Despite Concerns of Armed Forces - Bloomberg",
       "pubDate": "Tue, 05 Aug 2025 21:51:45 GMT"
@@ -1723,13 +1711,13 @@
     {
       "title": "Gaza hospital attack: UN demands justice over Israeli double strike that killed 20 - BBC",
       "pubDate": "Tue, 26 Aug 2025 19:10:21 GMT"
+    },
+    {
+      "title": "Gaza City evacuation inevitable, Israeli army warns Palestinians - BBC",
+      "pubDate": "Wed, 27 Aug 2025 15:02:18 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "PayPal to Enable Businesses to Accept Bitcoin, Ethereum and Other Cryptocurrencies - Decrypt",
-      "pubDate": "Mon, 28 Jul 2025 13:44:27 GMT"
-    },
     {
       "title": "SEC approves in-kind redemptions for spot Bitcoin and Ethereum ETFs, increases options limits - The Block",
       "pubDate": "Tue, 29 Jul 2025 20:42:13 GMT"
@@ -1890,10 +1878,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Prolonged wind droughts in a warming climate threaten global wind power security - Nature",
-      "pubDate": "Mon, 28 Jul 2025 10:09:42 GMT"
-    },
     {
       "title": "Freshwater is disappearing from the Earth at alarming rates: Study - The Hill",
       "pubDate": "Mon, 28 Jul 2025 16:46:00 GMT"
@@ -2151,6 +2135,10 @@
     {
       "title": "RFK Jr\u2019s health department to halt $500m in mRNA vaccine research - The Guardian",
       "pubDate": "Wed, 06 Aug 2025 02:12:00 GMT"
+    },
+    {
+      "title": "Botswana declares public health emergency over medical shortages as Trump aid cuts hit - The Independent",
+      "pubDate": "Wed, 27 Aug 2025 14:17:00 GMT"
     }
   ],
   "Oceans": [
@@ -2170,10 +2158,6 @@
     }
   ],
   "Military and Defense": [
-    {
-      "title": "Germany is said to plan massive military buildup, doubling defense budget by 2029 - Seeking Alpha",
-      "pubDate": "Mon, 28 Jul 2025 15:16:07 GMT"
-    },
     {
       "title": "US Army readies to release new missile defense strategy soon - Defense News",
       "pubDate": "Tue, 05 Aug 2025 23:35:48 GMT"
@@ -2505,6 +2489,10 @@
     {
       "title": "Nvidia earnings set to test AI trade with stocks near record highs: What to watch this week - Yahoo Finance",
       "pubDate": "Mon, 25 Aug 2025 07:31:55 GMT"
+    },
+    {
+      "title": "Nvidia Earnings: Stock Slips As Investors Hold Their Breath (Live Coverage) - Investor's Business Daily",
+      "pubDate": "Wed, 27 Aug 2025 13:49:00 GMT"
     }
   ],
   "NASA": [
