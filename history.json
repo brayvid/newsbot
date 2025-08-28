@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Microsoft's AI edge under scrutiny as OpenAI turns to rivals for cloud services - Reuters",
-      "pubDate": "Tue, 29 Jul 2025 10:41:23 GMT"
-    },
-    {
       "title": "OpenAI raises over $8 billion in latest funding round, reaching $300 billion valuation - Crypto Briefing",
       "pubDate": "Fri, 01 Aug 2025 13:12:24 GMT"
     },
@@ -335,6 +331,10 @@
     {
       "title": "Russia and Ukraine target each other\u2019s energy infrastructure as war persists - PBS",
       "pubDate": "Wed, 27 Aug 2025 22:30:31 GMT"
+    },
+    {
+      "title": "Russia launches second-biggest air assault of Ukraine war, killing 18 and damaging EU building - CNN",
+      "pubDate": "Thu, 28 Aug 2025 05:48:00 GMT"
     }
   ],
   "Russia": [
@@ -431,6 +431,10 @@
     {
       "title": "Trump threatens charges for George Soros, frequent target of far-right ire - Al Jazeera",
       "pubDate": "Wed, 27 Aug 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Trump administration asks military base outside Chicago for support on immigration operations - AP News",
+      "pubDate": "Thu, 28 Aug 2025 14:12:00 GMT"
     }
   ],
   "National Security": [
@@ -450,10 +454,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "US stocks edge higher as a busy week for markets picks up momentum - WFTV",
-      "pubDate": "Tue, 29 Jul 2025 13:36:02 GMT"
-    },
     {
       "title": "Meta Q2 earnings recap: Stock surges 12% after hours on strong results as AI talent costs heat up - Business Insider",
       "pubDate": "Thu, 31 Jul 2025 04:10:00 GMT"
@@ -743,6 +743,10 @@
     {
       "title": "OpenAI co-founder warns of dystopian future as AI safety tests reveal troubling flaws - India Today",
       "pubDate": "Thu, 28 Aug 2025 04:58:14 GMT"
+    },
+    {
+      "title": "OpenAI and Anthropic conduct cross-company AI safety evaluations - Tech Edition",
+      "pubDate": "Thu, 28 Aug 2025 13:21:27 GMT"
     }
   ],
   "Data Breach": [
@@ -992,10 +996,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Mounting Pressure in the Tintina Fault Could Mean Dangerous Earthquakes - Discover Magazine",
-      "pubDate": "Tue, 29 Jul 2025 13:03:44 GMT"
-    },
     {
       "title": "Scientists Say A Major Earthquake Fault Line Is Waking Up - Time Magazine",
       "pubDate": "Tue, 29 Jul 2025 18:30:05 GMT"
@@ -1301,6 +1301,10 @@
     {
       "title": "New AI model advances fusion power research by predicting the success of experiments - Phys.org",
       "pubDate": "Wed, 20 Aug 2025 15:30:07 GMT"
+    },
+    {
+      "title": "Commonwealth Fusion Systems Raises $863 Million Series B2 Round to Accelerate the Commercialization of Fusion Energy - Yahoo Finance",
+      "pubDate": "Thu, 28 Aug 2025 10:00:00 GMT"
     }
   ],
   "North Korea": [
@@ -1885,10 +1889,6 @@
   ],
   "SpaceX": [
     {
-      "title": "SpaceX Unveils New Version of Mars-Bound Starship - Newsweek",
-      "pubDate": "Tue, 29 Jul 2025 09:49:56 GMT"
-    },
-    {
       "title": "Trump orders space regulations eased in win for Musk - KTEN",
       "pubDate": "Thu, 14 Aug 2025 01:52:08 GMT"
     },
@@ -1906,10 +1906,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "EPA looks to overturn the scientific reason for climate regulations - Axios",
-      "pubDate": "Tue, 29 Jul 2025 11:48:13 GMT"
-    },
     {
       "title": "Trump moves to scrap climate rule tying greenhouse gases to public health harm - The Guardian",
       "pubDate": "Tue, 29 Jul 2025 18:02:00 GMT"
@@ -2049,6 +2045,10 @@
     {
       "title": "Climate change made deadly wildfires in Turkey, Greece and Cyprus more fierce, study finds - The Washington Post",
       "pubDate": "Thu, 28 Aug 2025 03:49:24 GMT"
+    },
+    {
+      "title": "Businesses can use climate science to boost the bottom line - The World Economic Forum",
+      "pubDate": "Thu, 28 Aug 2025 11:00:00 GMT"
     }
   ],
   "Algorithms": [
