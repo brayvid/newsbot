@@ -331,6 +331,10 @@
     {
       "title": "Russia convicts more than 300 Ukrainian soldiers of terrorism following Kursk Oblast Incursion - The Kyiv Independent",
       "pubDate": "Wed, 27 Aug 2025 14:01:06 GMT"
+    },
+    {
+      "title": "Russia and Ukraine target each other\u2019s energy infrastructure as war persists - PBS",
+      "pubDate": "Wed, 27 Aug 2025 22:30:31 GMT"
     }
   ],
   "Russia": [
@@ -453,6 +457,10 @@
     {
       "title": "Meta Q2 earnings recap: Stock surges 12% after hours on strong results as AI talent costs heat up - Business Insider",
       "pubDate": "Thu, 31 Jul 2025 04:10:00 GMT"
+    },
+    {
+      "title": "Nvidia still growing, but China uncertainty clouds outlook - Reuters",
+      "pubDate": "Thu, 28 Aug 2025 05:55:00 GMT"
     }
   ],
   "Recession": [
@@ -474,10 +482,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China releases US$77 million relief fund as casualties mount in Beijing floods - South China Morning Post",
-      "pubDate": "Tue, 29 Jul 2025 08:09:25 GMT"
-    },
     {
       "title": "China Buys Up Property in America's Hottest Housing Market - Newsweek",
       "pubDate": "Wed, 30 Jul 2025 08:00:01 GMT"
@@ -735,6 +739,10 @@
     {
       "title": "Concerns over AI safety grow after lawsuit against OpenAI - 10TV",
       "pubDate": "Wed, 27 Aug 2025 22:19:00 GMT"
+    },
+    {
+      "title": "OpenAI co-founder warns of dystopian future as AI safety tests reveal troubling flaws - India Today",
+      "pubDate": "Thu, 28 Aug 2025 04:58:14 GMT"
     }
   ],
   "Data Breach": [
@@ -1058,10 +1066,6 @@
     }
   ],
   "New York City": [
-    {
-      "title": "Five people, including gunman, dead in shooting at New York City high-rise - NBC News",
-      "pubDate": "Tue, 29 Jul 2025 05:21:00 GMT"
-    },
     {
       "title": "Gunman kills 4 at NYC office building, including NYPD officer and Blackstone executive: Here's everything we know - Yahoo Home",
       "pubDate": "Tue, 29 Jul 2025 23:16:13 GMT"
@@ -1517,6 +1521,10 @@
     {
       "title": "Senate confirms Trump nominee Susan Monarez as CDC director. Here's what to know - ABC News",
       "pubDate": "Wed, 30 Jul 2025 18:46:10 GMT"
+    },
+    {
+      "title": "White House fires CDC director as other officials resign - BBC",
+      "pubDate": "Thu, 28 Aug 2025 02:23:52 GMT"
     }
   ],
   "Alexandria Ocasio-Cortez": [
@@ -1569,13 +1577,13 @@
     {
       "title": "Russia expects India to keep buying its oil and seeks China-India-Russia talks - Reuters",
       "pubDate": "Wed, 20 Aug 2025 15:06:44 GMT"
+    },
+    {
+      "title": "Kim and Putin top Xi\u2019s guest list for China\u2019s huge military parade in defiant show of unity - CNN",
+      "pubDate": "Thu, 28 Aug 2025 02:47:00 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel Weighs Full Gaza Takeover Despite Concerns of Armed Forces - Bloomberg",
-      "pubDate": "Tue, 05 Aug 2025 21:51:45 GMT"
-    },
     {
       "title": "UN official says Israel expanding Gaza operations would risk 'catastrophic consequences' - BBC",
       "pubDate": "Wed, 06 Aug 2025 05:34:35 GMT"
@@ -1731,6 +1739,10 @@
     {
       "title": "Gaza City evacuation inevitable, Israeli army warns Palestinians - BBC",
       "pubDate": "Wed, 27 Aug 2025 15:02:18 GMT"
+    },
+    {
+      "title": "UN says Gaza famine expanding, 10 more die from hunger amid Israeli siege - Al Jazeera",
+      "pubDate": "Thu, 28 Aug 2025 04:41:15 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1894,10 +1906,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Billion-dollar disasters: The economic toll of wildfires, severe storms and earthquakes is soaring - NBC News",
-      "pubDate": "Tue, 29 Jul 2025 06:00:00 GMT"
-    },
     {
       "title": "EPA looks to overturn the scientific reason for climate regulations - Axios",
       "pubDate": "Tue, 29 Jul 2025 11:48:13 GMT"
@@ -2601,6 +2609,12 @@
     {
       "title": "Adoptable Animals at ACC Animal Services - Flagpole",
       "pubDate": "Wed, 27 Aug 2025 04:28:26 GMT"
+    }
+  ],
+  "Earth's Atmosphere": [
+    {
+      "title": "Scientists reveal 2-billion-year oxygen rise in Earth\u2019s atmosphere - Latest news from Azerbaijan",
+      "pubDate": "Thu, 28 Aug 2025 07:37:21 GMT"
     }
   ]
 }
