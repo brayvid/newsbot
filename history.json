@@ -107,6 +107,10 @@
     {
       "title": "Nvidia revenue soars, but China chip sales screech to a halt - Axios",
       "pubDate": "Wed, 27 Aug 2025 22:26:45 GMT"
+    },
+    {
+      "title": "Nvidia CEO says AI boom far from over after tepid sales forecast - Reuters",
+      "pubDate": "Thu, 28 Aug 2025 15:04:02 GMT"
     }
   ],
   "US Politics": [
@@ -797,10 +801,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Palo Alto Networks in talks to buy CyberArk in deal worth over $20 billion, WSJ reports - Reuters",
-      "pubDate": "Tue, 29 Jul 2025 17:08:19 GMT"
-    },
-    {
       "title": "Major cyberattack hits St. Paul, shuts down many services - Star Tribune",
       "pubDate": "Tue, 29 Jul 2025 22:50:41 GMT"
     },
@@ -889,13 +889,13 @@
     {
       "title": "Economic Data Has Taken a Dark Turn. That Doesn\u2019t Mean a Crash Is Near. - The New York Times",
       "pubDate": "Tue, 19 Aug 2025 16:26:30 GMT"
+    },
+    {
+      "title": "US second-quarter GDP revised higher as businesses boost investment in AI - Reuters",
+      "pubDate": "Thu, 28 Aug 2025 18:14:23 GMT"
     }
   ],
   "Trade War": [
-    {
-      "title": "China and US may work to extend latest tariff deadline, Chinese official says - AP News",
-      "pubDate": "Tue, 29 Jul 2025 20:01:00 GMT"
-    },
     {
       "title": "US, China tariff truce holds for now but US says Trump has final say - Reuters",
       "pubDate": "Tue, 29 Jul 2025 21:17:48 GMT"
@@ -963,10 +963,6 @@
   ],
   "Astronomy": [
     {
-      "title": "Scientists use cosmic dust to reconstruct Earth's atmospheric history - Phys.org",
-      "pubDate": "Tue, 29 Jul 2025 17:18:25 GMT"
-    },
-    {
       "title": "Scientists Find Planet Orbiting Backwards: A Discovery That Could Rewrite Astronomy - The Daily Galaxy",
       "pubDate": "Sat, 02 Aug 2025 15:30:00 GMT"
     },
@@ -996,10 +992,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Scientists Say A Major Earthquake Fault Line Is Waking Up - Time Magazine",
-      "pubDate": "Tue, 29 Jul 2025 18:30:05 GMT"
-    },
     {
       "title": "Evacuations in Japan and US as major earthquake off Russia triggers widespread tsunami warnings - BBC",
       "pubDate": "Wed, 30 Jul 2025 01:30:13 GMT"
@@ -1127,6 +1119,10 @@
     {
       "title": "Bitcoin Flash Crash Triggers $550M in Sunday Liquidations as Ether Rotation Builds - CoinDesk",
       "pubDate": "Mon, 25 Aug 2025 07:00:12 GMT"
+    },
+    {
+      "title": "American Bitcoin, backed by Trump sons, aims to start trading in September - CNN",
+      "pubDate": "Thu, 28 Aug 2025 11:13:00 GMT"
     }
   ],
   "BRICS": [
@@ -1362,10 +1358,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "The Fed is unlikely to cut rates, but this week's meeting is packed with intrigue - CNBC",
-      "pubDate": "Tue, 29 Jul 2025 19:00:58 GMT"
-    },
     {
       "title": "Federal Reserve Votes to Hold Interest Rates Steady, with Two Rare Dissenting Votes - Democracy Now!",
       "pubDate": "Thu, 31 Jul 2025 14:01:05 GMT"
@@ -1751,10 +1743,6 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "SEC approves in-kind redemptions for spot Bitcoin and Ethereum ETFs, increases options limits - The Block",
-      "pubDate": "Tue, 29 Jul 2025 20:42:13 GMT"
-    },
-    {
       "title": "White House unveils crypto policy 'roadmap' meant to usher in 'golden age' - ABC News",
       "pubDate": "Wed, 30 Jul 2025 15:53:00 GMT"
     },
@@ -1907,14 +1895,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Trump moves to scrap climate rule tying greenhouse gases to public health harm - The Guardian",
-      "pubDate": "Tue, 29 Jul 2025 18:02:00 GMT"
-    },
-    {
-      "title": "Trump EPA proposes revoking pollution limits based in part on document authored by 5 climate contrarians - CNN",
-      "pubDate": "Tue, 29 Jul 2025 17:14:00 GMT"
-    },
-    {
       "title": "Trump EPA moves to repeal landmark 'endangerment finding' that allows climate regulation - ABC News",
       "pubDate": "Tue, 29 Jul 2025 21:22:59 GMT"
     },
@@ -2049,6 +2029,10 @@
     {
       "title": "Businesses can use climate science to boost the bottom line - The World Economic Forum",
       "pubDate": "Thu, 28 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Collapse of critical Atlantic current is no longer low-likelihood, study finds - The Guardian",
+      "pubDate": "Thu, 28 Aug 2025 16:44:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2581,6 +2565,10 @@
     {
       "title": "CISA Warns of Actively Exploited 0-Day Vulnerability in Apple iOS, iPadOS, and macOS - GBHackers News",
       "pubDate": "Fri, 22 Aug 2025 12:33:59 GMT"
+    },
+    {
+      "title": "CISA steps in to help Nevada state government recover from cyberattack - The Record from Recorded Future News",
+      "pubDate": "Thu, 28 Aug 2025 13:11:04 GMT"
     }
   ],
   "Earth Science": [
@@ -2615,6 +2603,12 @@
     {
       "title": "Scientists reveal 2-billion-year oxygen rise in Earth\u2019s atmosphere - Latest news from Azerbaijan",
       "pubDate": "Thu, 28 Aug 2025 07:37:21 GMT"
+    }
+  ],
+  "European Union": [
+    {
+      "title": "European Union to remove tariffs on U.S. industrial goods, triggering cuts for EU autos - CNBC",
+      "pubDate": "Thu, 28 Aug 2025 16:32:59 GMT"
     }
   ]
 }
