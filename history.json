@@ -115,6 +115,10 @@
     {
       "title": "China warns against \u2018disorderly competition\u2019 in booming AI race - Fortune",
       "pubDate": "Fri, 29 Aug 2025 08:13:24 GMT"
+    },
+    {
+      "title": "Microsoft Launches Public Testing of First In-House Foundation Model - PYMNTS.com",
+      "pubDate": "Fri, 29 Aug 2025 10:41:15 GMT"
     }
   ],
   "US Politics": [
@@ -205,6 +209,10 @@
     {
       "title": "Israel dismisses honorary Dutch consul after criticism of Gaza war - Ynetnews",
       "pubDate": "Sat, 23 Aug 2025 13:04:15 GMT"
+    },
+    {
+      "title": "Israel says body of hostage returned as military begins Gaza City offensive - The Independent",
+      "pubDate": "Fri, 29 Aug 2025 11:31:00 GMT"
     }
   ],
   "Ukraine": [
@@ -351,6 +359,10 @@
     {
       "title": "European Commission summons Russia's top diplomat in Brussels over attack that damaged European Union building in Kyiv - ABC News",
       "pubDate": "Fri, 29 Aug 2025 04:39:47 GMT"
+    },
+    {
+      "title": "All but one EU states demand Russia \u2018stop the killing\u2019 in Ukraine as Zelenskyy urges Monday deadline for Putin meeting \u2013 Europe live - The Guardian",
+      "pubDate": "Fri, 29 Aug 2025 07:38:00 GMT"
     }
   ],
   "Russia": [
@@ -481,6 +493,10 @@
     {
       "title": "Stock market today: S&P 500 crosses 6,500, Dow hits record after Nvidia earnings, surprise GDP jump - Yahoo Finance",
       "pubDate": "Thu, 28 Aug 2025 21:21:16 GMT"
+    },
+    {
+      "title": "Asian shares are mixed after stocks add a bit to their records on Wall Street - The Independent",
+      "pubDate": "Fri, 29 Aug 2025 05:39:00 GMT"
     }
   ],
   "Recession": [
@@ -759,13 +775,13 @@
     {
       "title": "OpenAI and Anthropic conduct cross-company AI safety evaluations - Tech Edition",
       "pubDate": "Thu, 28 Aug 2025 13:21:27 GMT"
+    },
+    {
+      "title": "Exclusive: 60 U.K. Lawmakers Accuse Google of Breaking AI Safety Pledge - Time Magazine",
+      "pubDate": "Fri, 29 Aug 2025 13:06:27 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "Massive data breach hits Russian authorities in occupied Crimea as Ukrainian intelligence downloads secret military files - Euromaidan Press",
-      "pubDate": "Wed, 30 Jul 2025 11:07:37 GMT"
-    },
     {
       "title": "Average global data breach cost now $4.44 million - Help Net Security",
       "pubDate": "Mon, 04 Aug 2025 05:30:44 GMT"
@@ -859,10 +875,6 @@
   ],
   "US Economy": [
     {
-      "title": "US economy grows at 3% in Q2, rebounding from first pullback in 3 years - Yahoo Finance",
-      "pubDate": "Wed, 30 Jul 2025 14:16:19 GMT"
-    },
-    {
       "title": "US job growth stalls: Just 73,000 jobs added in July, with \u2018stunning\u2019 downward revisions to recent months - CNN",
       "pubDate": "Fri, 01 Aug 2025 09:00:00 GMT"
     },
@@ -900,10 +912,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "Trump imposes 25% tariff on India: Centre hits back, says 'will take all steps to secure national interest' - Times of India",
-      "pubDate": "Wed, 30 Jul 2025 15:08:00 GMT"
-    },
     {
       "title": "China pauses US-bound company investment amid trade war - Nikkei Asia",
       "pubDate": "Thu, 31 Jul 2025 12:30:00 GMT"
@@ -992,10 +1000,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Powerful tsunami waves travel across Pacific after 8.8-magnitude earthquake - WMUR",
-      "pubDate": "Wed, 30 Jul 2025 13:33:00 GMT"
-    },
     {
       "title": "Massive Russian earthquake struck on 'megathrust fault' - Reuters",
       "pubDate": "Wed, 30 Jul 2025 16:44:56 GMT"
@@ -1261,10 +1265,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "Helion Energy starts construction on nuclear fusion plant to power Microsoft data centers - Yahoo Finance",
-      "pubDate": "Wed, 30 Jul 2025 12:08:33 GMT"
-    },
-    {
       "title": "China deploys breakthrough super steel to build nuclear fusion reactor - Interesting Engineering",
       "pubDate": "Mon, 04 Aug 2025 00:20:00 GMT"
     },
@@ -1497,6 +1497,10 @@
     {
       "title": "Japan launches its first homegrown quantum computer - Live Science",
       "pubDate": "Tue, 26 Aug 2025 12:14:41 GMT"
+    },
+    {
+      "title": "Ethereum scientist warns 20% chance quantum computers could break crypto - TheStreet",
+      "pubDate": "Fri, 29 Aug 2025 11:58:57 GMT"
     }
   ],
   "Public Health": [
@@ -1729,10 +1733,6 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "White House unveils crypto policy 'roadmap' meant to usher in 'golden age' - ABC News",
-      "pubDate": "Wed, 30 Jul 2025 15:53:00 GMT"
-    },
-    {
       "title": "SEC Exempts Liquid Stakers Like Ethereum\u2019s Lido, Solana\u2019s Jito From Securities Laws - Yahoo Finance",
       "pubDate": "Tue, 05 Aug 2025 18:44:58 GMT"
     },
@@ -1881,10 +1881,6 @@
   ],
   "Climate Change": [
     {
-      "title": "US government may be abandoning the global climate fight, but new leaders are filling the void \u2013 including China - The Conversation",
-      "pubDate": "Wed, 30 Jul 2025 12:34:46 GMT"
-    },
-    {
       "title": "Scientists map Antarctic seafloor canyons to help predict climate breakdown - The Guardian",
       "pubDate": "Thu, 31 Jul 2025 13:44:00 GMT"
     },
@@ -2019,6 +2015,10 @@
     {
       "title": "Only 3 Years Left: Scientists Warn Earth\u2019s 1.5\u00b0C Carbon Budget Is Almost Gone - SciTechDaily",
       "pubDate": "Thu, 28 Aug 2025 22:11:41 GMT"
+    },
+    {
+      "title": "Imminent Risk of Atlantic Ocean Circulation Collapse Demands Urgent Emission Cuts - mezha.net",
+      "pubDate": "Fri, 29 Aug 2025 05:19:39 GMT"
     }
   ],
   "Algorithms": [
