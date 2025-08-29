@@ -213,6 +213,10 @@
     {
       "title": "Israel says body of hostage returned as military begins Gaza City offensive - The Independent",
       "pubDate": "Fri, 29 Aug 2025 11:31:00 GMT"
+    },
+    {
+      "title": "Israel declares Gaza\u2019s largest city a combat zone as death toll surpasses 63,000 - AP News",
+      "pubDate": "Fri, 29 Aug 2025 19:34:00 GMT"
     }
   ],
   "Ukraine": [
@@ -363,6 +367,10 @@
     {
       "title": "All but one EU states demand Russia \u2018stop the killing\u2019 in Ukraine as Zelenskyy urges Monday deadline for Putin meeting \u2013 Europe live - The Guardian",
       "pubDate": "Fri, 29 Aug 2025 07:38:00 GMT"
+    },
+    {
+      "title": "Ukraine blows up two key Russian bridges using Moscow\u2019s own mines and $600 drones - CNN",
+      "pubDate": "Fri, 29 Aug 2025 14:03:00 GMT"
     }
   ],
   "Russia": [
@@ -500,10 +508,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "Germany Slips Back Into Recession As DAX Defies The Trend - Finimize",
-      "pubDate": "Wed, 30 Jul 2025 17:31:35 GMT"
-    },
     {
       "title": "This unprecedented shift in unemployment suggests AI could strand white-collar knowledge workers in a jobless recovery after the next recession - Fortune",
       "pubDate": "Sun, 10 Aug 2025 20:36:00 GMT"
@@ -779,6 +783,10 @@
     {
       "title": "Exclusive: 60 U.K. Lawmakers Accuse Google of Breaking AI Safety Pledge - Time Magazine",
       "pubDate": "Fri, 29 Aug 2025 13:06:27 GMT"
+    },
+    {
+      "title": "Google violated AI safety commitments British lawmakers say in an open letter - Fortune",
+      "pubDate": "Fri, 29 Aug 2025 17:28:00 GMT"
     }
   ],
   "Data Breach": [
@@ -871,6 +879,10 @@
     {
       "title": "SentinelOne raises annual revenue forecast on strong cybersecurity demand - Reuters",
       "pubDate": "Thu, 28 Aug 2025 22:23:12 GMT"
+    },
+    {
+      "title": "CISA, FBI, NSA Warn of Chinese 'Global Espionage System' - Dark Reading",
+      "pubDate": "Fri, 29 Aug 2025 09:36:12 GMT"
     }
   ],
   "US Economy": [
@@ -1000,14 +1012,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Massive Russian earthquake struck on 'megathrust fault' - Reuters",
-      "pubDate": "Wed, 30 Jul 2025 16:44:56 GMT"
-    },
-    {
-      "title": "Massive Kamchatka Earthquake Triggers Klyuchevskoy Volcano Eruption - Orbital Today",
-      "pubDate": "Wed, 30 Jul 2025 16:30:55 GMT"
-    },
     {
       "title": "Magnitude 4.3 earthquake near Rialto sends shaking across Southern California - Los Angeles Times",
       "pubDate": "Thu, 31 Jul 2025 19:20:00 GMT"
@@ -1287,6 +1291,10 @@
     {
       "title": "Commonwealth Fusion Systems Raises $863 Million Series B2 Round to Accelerate the Commercialization of Fusion Energy - Yahoo Finance",
       "pubDate": "Thu, 28 Aug 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Commonwealth Fusion Raises Almost $1 Billion In Bid To Win Race For Commercial Nuclear Fusion Power - NucNet",
+      "pubDate": "Fri, 29 Aug 2025 11:06:21 GMT"
     }
   ],
   "North Korea": [
@@ -1331,16 +1339,6 @@
     {
       "title": "Tesla, Rivian, and others see billions in revenue disappear as US officially end emission credits - Electrek",
       "pubDate": "Fri, 15 Aug 2025 15:54:00 GMT"
-    }
-  ],
-  "Microsoft": [
-    {
-      "title": "Microsoft posts strong quarter, cites broad AI and cloud growth as Azure revenue tops $75B annually - GeekWire",
-      "pubDate": "Wed, 30 Jul 2025 20:22:06 GMT"
-    },
-    {
-      "title": "Microsoft profits soar almost 25% on boom in cloud computing - Financial Times",
-      "pubDate": "Wed, 30 Jul 2025 20:21:02 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1504,10 +1502,6 @@
     }
   ],
   "Public Health": [
-    {
-      "title": "Senate confirms Trump nominee Susan Monarez as CDC director. Here's what to know - ABC News",
-      "pubDate": "Wed, 30 Jul 2025 18:46:10 GMT"
-    },
     {
       "title": "White House fires CDC director as other officials resign - BBC",
       "pubDate": "Thu, 28 Aug 2025 02:23:52 GMT"
@@ -2019,6 +2013,10 @@
     {
       "title": "Imminent Risk of Atlantic Ocean Circulation Collapse Demands Urgent Emission Cuts - mezha.net",
       "pubDate": "Fri, 29 Aug 2025 05:19:39 GMT"
+    },
+    {
+      "title": "Florida\u2019s once-pristine springs threatened by pollution, development and climate change - AP News",
+      "pubDate": "Fri, 29 Aug 2025 13:05:00 GMT"
     }
   ],
   "Algorithms": [
