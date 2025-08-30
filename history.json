@@ -123,6 +123,10 @@
     {
       "title": "AI is ummasking ICE officers. Can Washington do anything about it? - Politico",
       "pubDate": "Fri, 29 Aug 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Physicians Lose Cancer Detection Skills After Reliance On Artificial Intelligence - Forbes",
+      "pubDate": "Sat, 30 Aug 2025 15:16:15 GMT"
     }
   ],
   "US Politics": [
@@ -487,6 +491,10 @@
     {
       "title": "Trump administration asks military base outside Chicago for support on immigration operations - AP News",
       "pubDate": "Thu, 28 Aug 2025 14:12:00 GMT"
+    },
+    {
+      "title": "Trump tariffs: What happens next after court rules them illegal? - BBC",
+      "pubDate": "Sat, 30 Aug 2025 15:13:05 GMT"
     }
   ],
   "National Security": [
@@ -676,14 +684,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Musk's xAI to sign chapter on safety and security in EU's AI code of practice - Reuters",
-      "pubDate": "Thu, 31 Jul 2025 09:08:44 GMT"
-    },
-    {
-      "title": "A Plan to Fund Independent Assessments of General-Purpose AI - Tech Policy Press",
-      "pubDate": "Thu, 31 Jul 2025 15:13:13 GMT"
-    },
     {
       "title": "Anthropic\u2019s Persona Vectors: Steering AI Traits for Safer Alignment - WebProNews",
       "pubDate": "Sat, 02 Aug 2025 13:12:03 GMT"
@@ -945,10 +945,6 @@
   ],
   "Trade War": [
     {
-      "title": "China pauses US-bound company investment amid trade war - Nikkei Asia",
-      "pubDate": "Thu, 31 Jul 2025 12:30:00 GMT"
-    },
-    {
       "title": "Trump threatens tariffs on countries that \u2018discriminate\u2019 against US tech | Trump tariffs - The Guardian",
       "pubDate": "Wed, 27 Aug 2025 01:31:00 GMT"
     }
@@ -1141,6 +1137,10 @@
     {
       "title": "American Bitcoin, backed by Trump sons, aims to start trading in September - CNN",
       "pubDate": "Thu, 28 Aug 2025 11:13:00 GMT"
+    },
+    {
+      "title": "Bitcoin price loses key multiyear support trendline: A classic BTC fakeout? - Cointelegraph",
+      "pubDate": "Sat, 30 Aug 2025 12:50:11 GMT"
     }
   ],
   "BRICS": [
@@ -1363,10 +1363,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "Federal Reserve Votes to Hold Interest Rates Steady, with Two Rare Dissenting Votes - Democracy Now!",
-      "pubDate": "Thu, 31 Jul 2025 14:01:05 GMT"
-    },
-    {
       "title": "Federal Reserve governor resigns, creating vacancy for Trump - upi.com",
       "pubDate": "Sat, 02 Aug 2025 17:56:51 GMT"
     },
@@ -1515,6 +1511,10 @@
     {
       "title": "Quantum Computing News: IBM and AMD Partner on Hybrid Systems, Q-CTRL Wins DARPA Contracts, Quantinuum Valued at $10 Billion - TipRanks",
       "pubDate": "Sat, 30 Aug 2025 07:25:36 GMT"
+    },
+    {
+      "title": "El Salvador splits $678M Bitcoin across 14 wallets to reduce quantum risk - Cointelegraph",
+      "pubDate": "Sat, 30 Aug 2025 04:34:23 GMT"
     }
   ],
   "Public Health": [
@@ -1891,10 +1891,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Scientists map Antarctic seafloor canyons to help predict climate breakdown - The Guardian",
-      "pubDate": "Thu, 31 Jul 2025 13:44:00 GMT"
-    },
-    {
       "title": "The World Court just ruled countries can be held liable for climate change damage \u2013 what does that mean for the US? - Lake County News,California",
       "pubDate": "Sun, 03 Aug 2025 06:16:04 GMT"
     },
@@ -2041,6 +2037,10 @@
     {
       "title": "Europe faces stormy future as climate change increases supercell risk - Euronews.com",
       "pubDate": "Sat, 30 Aug 2025 06:03:47 GMT"
+    },
+    {
+      "title": "Antarctica Is Changing Rapidly. The Consequences Could Be Dire - WIRED",
+      "pubDate": "Sat, 30 Aug 2025 11:00:00 GMT"
     }
   ],
   "Algorithms": [
