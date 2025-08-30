@@ -173,6 +173,10 @@
     {
       "title": "Appeals court says Trump overstepped with tariffs; White House revokes former VP Harris' Secret Service protection - NBC News",
       "pubDate": "Fri, 29 Aug 2025 23:59:51 GMT"
+    },
+    {
+      "title": "Appeals court says Trump unlawfully leaned on emergency powers to impose tariffs - CNN",
+      "pubDate": "Fri, 29 Aug 2025 22:37:04 GMT"
     }
   ],
   "Iran": [
@@ -229,6 +233,10 @@
     {
       "title": "Gaza famine likely to worsen as Israel ends pauses for aid deliveries - The Guardian",
       "pubDate": "Fri, 29 Aug 2025 18:06:00 GMT"
+    },
+    {
+      "title": "Israeli soldier killed, 11 wounded in intense fighting near Gaza City as 4 remain missing: Report - Anadolu Ajans\u0131",
+      "pubDate": "Sat, 30 Aug 2025 05:05:50 GMT"
     }
   ],
   "Ukraine": [
@@ -483,10 +491,6 @@
   ],
   "National Security": [
     {
-      "title": "China summons chip giant Nvidia over alleged security risks - Yahoo Finance",
-      "pubDate": "Thu, 31 Jul 2025 07:50:05 GMT"
-    },
-    {
       "title": "US opens national security probe into imported wind turbines, components - Reuters",
       "pubDate": "Thu, 21 Aug 2025 15:30:41 GMT"
     }
@@ -498,10 +502,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Meta Q2 earnings recap: Stock surges 12% after hours on strong results as AI talent costs heat up - Business Insider",
-      "pubDate": "Thu, 31 Jul 2025 04:10:00 GMT"
-    },
     {
       "title": "Nvidia still growing, but China uncertainty clouds outlook - Reuters",
       "pubDate": "Thu, 28 Aug 2025 05:55:00 GMT"
@@ -669,13 +669,13 @@
     {
       "title": "US Removes China Waivers for Intel, Samsung and SK Hynix - Bloomberg.com",
       "pubDate": "Fri, 29 Aug 2025 23:40:13 GMT"
+    },
+    {
+      "title": "Xi Jinping to host Vladimir Putin and Narendra Modi as China presents rival front to US - Financial Times",
+      "pubDate": "Sat, 30 Aug 2025 00:00:05 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Painters, nursing assistants, and more: Microsoft's top 10 most AI-safe careers - CNBC",
-      "pubDate": "Thu, 31 Jul 2025 08:08:38 GMT"
-    },
     {
       "title": "Musk's xAI to sign chapter on safety and security in EU's AI code of practice - Reuters",
       "pubDate": "Thu, 31 Jul 2025 09:08:44 GMT"
@@ -799,6 +799,10 @@
     {
       "title": "Google violated AI safety commitments British lawmakers say in an open letter - Fortune",
       "pubDate": "Fri, 29 Aug 2025 17:28:00 GMT"
+    },
+    {
+      "title": "Meta Overhauls Teen AI Safety Rules Amid Criticism - WinBuzzer",
+      "pubDate": "Fri, 29 Aug 2025 20:58:51 GMT"
     }
   ],
   "Data Breach": [
@@ -1459,10 +1463,6 @@
   ],
   "OpenAI": [
     {
-      "title": "OpenAI spearheads one of Europe\u2019s biggest data centers with 100,000 Nvidia chips - CNBC",
-      "pubDate": "Thu, 31 Jul 2025 07:15:46 GMT"
-    },
-    {
       "title": "OpenAI eyes $500 billion valuation in potential employee share sale, source says - Reuters",
       "pubDate": "Wed, 06 Aug 2025 08:20:12 GMT"
     },
@@ -1511,6 +1511,10 @@
     {
       "title": "Ethereum scientist warns 20% chance quantum computers could break crypto - TheStreet",
       "pubDate": "Fri, 29 Aug 2025 11:58:57 GMT"
+    },
+    {
+      "title": "Quantum Computing News: IBM and AMD Partner on Hybrid Systems, Q-CTRL Wins DARPA Contracts, Quantinuum Valued at $10 Billion - TipRanks",
+      "pubDate": "Sat, 30 Aug 2025 07:25:36 GMT"
     }
   ],
   "Public Health": [
@@ -1576,10 +1580,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Trump plans to \"take over\" Gaza aid effort, U.S. officials say - Axios",
-      "pubDate": "Wed, 06 Aug 2025 12:38:30 GMT"
-    },
     {
       "title": "Israeli military chief warns against takeover of Gaza as Netanyahu considers \u2018full conquest\u2019 of besieged territory - CNN",
       "pubDate": "Wed, 06 Aug 2025 16:14:00 GMT"
@@ -1735,6 +1735,10 @@
     {
       "title": "Israel struck Gaza's Nasser Hospital four times, analysis finds - BBC",
       "pubDate": "Fri, 29 Aug 2025 00:25:37 GMT"
+    },
+    {
+      "title": "Newborns share incubator at Gaza hospital overwhelmed by famine - Al Jazeera",
+      "pubDate": "Sat, 30 Aug 2025 06:15:58 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2033,6 +2037,10 @@
     {
       "title": "How Katrina became 'the storm that told us what was to come' for climate and insurance - USA Today",
       "pubDate": "Fri, 29 Aug 2025 23:52:09 GMT"
+    },
+    {
+      "title": "Europe faces stormy future as climate change increases supercell risk - Euronews.com",
+      "pubDate": "Sat, 30 Aug 2025 06:03:47 GMT"
     }
   ],
   "Algorithms": [
