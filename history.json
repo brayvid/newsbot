@@ -119,6 +119,10 @@
     {
       "title": "Microsoft Launches Public Testing of First In-House Foundation Model - PYMNTS.com",
       "pubDate": "Fri, 29 Aug 2025 10:41:15 GMT"
+    },
+    {
+      "title": "AI is ummasking ICE officers. Can Washington do anything about it? - Politico",
+      "pubDate": "Fri, 29 Aug 2025 18:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -165,6 +169,10 @@
     {
       "title": "Trump fires Democratic Surface Transportation Board member before huge rail merger decision - PBS",
       "pubDate": "Thu, 28 Aug 2025 22:47:09 GMT"
+    },
+    {
+      "title": "Appeals court says Trump overstepped with tariffs; White House revokes former VP Harris' Secret Service protection - NBC News",
+      "pubDate": "Fri, 29 Aug 2025 23:59:51 GMT"
     }
   ],
   "Iran": [
@@ -217,13 +225,13 @@
     {
       "title": "Israel declares Gaza\u2019s largest city a combat zone as death toll surpasses 63,000 - AP News",
       "pubDate": "Fri, 29 Aug 2025 19:34:00 GMT"
+    },
+    {
+      "title": "Gaza famine likely to worsen as Israel ends pauses for aid deliveries - The Guardian",
+      "pubDate": "Fri, 29 Aug 2025 18:06:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia\u2019s summer offensive is turning into an escalating crisis for Ukraine - CNN",
-      "pubDate": "Thu, 31 Jul 2025 00:00:00 GMT"
-    },
     {
       "title": "Russia launches record 6,297 drones at Ukraine in July 2025 \u2014 a 1,378% increase from last year, OSINT analyst reports - Euromaidan Press",
       "pubDate": "Thu, 31 Jul 2025 20:18:42 GMT"
@@ -389,13 +397,13 @@
     {
       "title": "Russia, under war spending pressure, set for more austerity, tax hikes - Reuters",
       "pubDate": "Wed, 20 Aug 2025 10:51:08 GMT"
+    },
+    {
+      "title": "Ukraine war: Volodymyr Zelensky rejects proposals for buffer zone to end fighting - BBC",
+      "pubDate": "Fri, 29 Aug 2025 17:49:18 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump administration is launching a new private health tracking system with Big Tech\u2019s help - AP News",
-      "pubDate": "Wed, 30 Jul 2025 22:20:00 GMT"
-    },
     {
       "title": "Trump orders nuclear submarines moved after Russian 'provocative statements' - Reuters",
       "pubDate": "Sat, 02 Aug 2025 09:36:41 GMT"
@@ -657,6 +665,10 @@
     {
       "title": "China tests meltdown-proof tech for nuclear waste-recycling fast reactor - South China Morning Post",
       "pubDate": "Wed, 27 Aug 2025 06:00:15 GMT"
+    },
+    {
+      "title": "US Removes China Waivers for Intel, Samsung and SK Hynix - Bloomberg.com",
+      "pubDate": "Fri, 29 Aug 2025 23:40:13 GMT"
     }
   ],
   "AI Safety": [
@@ -883,6 +895,10 @@
     {
       "title": "CISA, FBI, NSA Warn of Chinese 'Global Espionage System' - Dark Reading",
       "pubDate": "Fri, 29 Aug 2025 09:36:12 GMT"
+    },
+    {
+      "title": "Noem fires two dozen FEMA employees over alleged cybersecurity gaps - CNN",
+      "pubDate": "Fri, 29 Aug 2025 23:13:00 GMT"
     }
   ],
   "US Economy": [
@@ -1442,10 +1458,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI Hits $12 Billion in Annualized Revenue, Breaks 700 Million ChatGPT Weekly Active Users - The Information",
-      "pubDate": "Thu, 31 Jul 2025 01:42:00 GMT"
-    },
     {
       "title": "OpenAI spearheads one of Europe\u2019s biggest data centers with 100,000 Nvidia chips - CNBC",
       "pubDate": "Thu, 31 Jul 2025 07:15:46 GMT"
@@ -2017,6 +2029,10 @@
     {
       "title": "Florida\u2019s once-pristine springs threatened by pollution, development and climate change - AP News",
       "pubDate": "Fri, 29 Aug 2025 13:05:00 GMT"
+    },
+    {
+      "title": "How Katrina became 'the storm that told us what was to come' for climate and insurance - USA Today",
+      "pubDate": "Fri, 29 Aug 2025 23:52:09 GMT"
     }
   ],
   "Algorithms": [
