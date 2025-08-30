@@ -127,6 +127,10 @@
     {
       "title": "Physicians Lose Cancer Detection Skills After Reliance On Artificial Intelligence - Forbes",
       "pubDate": "Sat, 30 Aug 2025 15:16:15 GMT"
+    },
+    {
+      "title": "Doctors develop AI stethoscope that can detect major heart conditions in 15 seconds - The Guardian",
+      "pubDate": "Sat, 30 Aug 2025 10:03:00 GMT"
     }
   ],
   "US Politics": [
@@ -241,13 +245,13 @@
     {
       "title": "Israeli soldier killed, 11 wounded in intense fighting near Gaza City as 4 remain missing: Report - Anadolu Ajans\u0131",
       "pubDate": "Sat, 30 Aug 2025 05:05:50 GMT"
+    },
+    {
+      "title": "Targeting Iran\u2019s Leaders, Israel Found a Weak Link: Their Bodyguards - The New York Times",
+      "pubDate": "Sat, 30 Aug 2025 09:00:41 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia launches record 6,297 drones at Ukraine in July 2025 \u2014 a 1,378% increase from last year, OSINT analyst reports - Euromaidan Press",
-      "pubDate": "Thu, 31 Jul 2025 20:18:42 GMT"
-    },
     {
       "title": "Russia Used Very Fast Jet Drones in Devastating Kyiv Attacks - Technology Org",
       "pubDate": "Fri, 01 Aug 2025 21:00:57 GMT"
@@ -391,6 +395,10 @@
     {
       "title": "Ukraine blows up two key Russian bridges using Moscow\u2019s own mines and $600 drones - CNN",
       "pubDate": "Fri, 29 Aug 2025 14:03:00 GMT"
+    },
+    {
+      "title": "Prominent Ukrainian politician Andriy Parubiy shot dead in Lviv - BBC",
+      "pubDate": "Sat, 30 Aug 2025 16:41:58 GMT"
     }
   ],
   "Russia": [
@@ -495,6 +503,10 @@
     {
       "title": "Trump tariffs: What happens next after court rules them illegal? - BBC",
       "pubDate": "Sat, 30 Aug 2025 15:13:05 GMT"
+    },
+    {
+      "title": "As drug deaths hit a 5-year low, Trump continues to cite fentanyl as major threat - NPR",
+      "pubDate": "Sat, 30 Aug 2025 09:15:00 GMT"
     }
   ],
   "National Security": [
@@ -538,10 +550,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China uses \"dark fleet\" to buy oil from Iran and evade U.S. sanctions in international waters - CBS News",
-      "pubDate": "Thu, 31 Jul 2025 18:14:12 GMT"
-    },
     {
       "title": "China Reveals Details of Nuclear Missile Test - Newsweek",
       "pubDate": "Mon, 04 Aug 2025 08:43:55 GMT"
@@ -1029,10 +1037,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Magnitude 4.3 earthquake near Rialto sends shaking across Southern California - Los Angeles Times",
-      "pubDate": "Thu, 31 Jul 2025 19:20:00 GMT"
-    },
-    {
       "title": "Massive earthquake in eastern Russia was detected in Colorado by CSU scientists - Denver7",
       "pubDate": "Sat, 02 Aug 2025 06:30:24 GMT"
     },
@@ -1515,6 +1519,10 @@
     {
       "title": "El Salvador splits $678M Bitcoin across 14 wallets to reduce quantum risk - Cointelegraph",
       "pubDate": "Sat, 30 Aug 2025 04:34:23 GMT"
+    },
+    {
+      "title": "Researchers develop web-tool to estimate when quantum computers outperform classical systems - Quantum Zeitgeist",
+      "pubDate": "Sat, 30 Aug 2025 10:22:56 GMT"
     }
   ],
   "Public Health": [
@@ -1773,6 +1781,10 @@
     {
       "title": "Trump Media, Crypto.com launch new crypto treasury firm via SPAC deal - Reuters",
       "pubDate": "Tue, 26 Aug 2025 17:41:37 GMT"
+    },
+    {
+      "title": "Bitcoin Is Braced For A Massive September Shock After Sudden Plunge Sparked Ethereum, XRP And Crypto Crash Fears - Forbes",
+      "pubDate": "Sat, 30 Aug 2025 11:07:20 GMT"
     }
   ],
   "Science": [
@@ -1794,10 +1806,6 @@
     }
   ],
   "Apple": [
-    {
-      "title": "Apple reports third-quarter earnings after the bell - CNBC",
-      "pubDate": "Thu, 31 Jul 2025 17:50:29 GMT"
-    },
     {
       "title": "Apple\u2019s $275 Billion China Bet Is Now A Major Risk - Forbes",
       "pubDate": "Sat, 02 Aug 2025 16:53:28 GMT"
@@ -2041,6 +2049,10 @@
     {
       "title": "Antarctica Is Changing Rapidly. The Consequences Could Be Dire - WIRED",
       "pubDate": "Sat, 30 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Former UN climate chief urges Australia to set \u2018prosperity\u2019 target of cutting emissions by 75% by 2035 - The Guardian",
+      "pubDate": "Sat, 30 Aug 2025 20:01:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2115,12 +2127,6 @@
     {
       "title": "In China, EVs are now cheaper than gas cars. In the U.S., the Big Three still haven\u2019t closed a premium that\u2019s $14,000 per vehicle - Fortune",
       "pubDate": "Tue, 26 Aug 2025 08:38:27 GMT"
-    }
-  ],
-  "Hacking": [
-    {
-      "title": "The Kremlin's Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware - WIRED",
-      "pubDate": "Thu, 31 Jul 2025 16:00:00 GMT"
     }
   ],
   "Environment": [
