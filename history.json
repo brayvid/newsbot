@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI raises over $8 billion in latest funding round, reaching $300 billion valuation - Crypto Briefing",
-      "pubDate": "Fri, 01 Aug 2025 13:12:24 GMT"
-    },
-    {
       "title": "OpenAI hits $300B valuation after filling $8.3B raise ahead of schedule - MSN",
       "pubDate": "Sat, 02 Aug 2025 01:24:09 GMT"
     },
@@ -131,6 +127,10 @@
     {
       "title": "Doctors develop AI stethoscope that can detect major heart conditions in 15 seconds - The Guardian",
       "pubDate": "Sat, 30 Aug 2025 10:03:00 GMT"
+    },
+    {
+      "title": "There are 32 different ways AI can go rogue, scientists say \u2014 from hallucinating answers to a complete misalignment with humanity - Live Science",
+      "pubDate": "Sun, 31 Aug 2025 10:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -253,6 +253,10 @@
     {
       "title": "Israeli strike killed Houthi prime minister Ahmad al-Rahawi, group says - The Washington Post",
       "pubDate": "Sun, 31 Aug 2025 03:23:26 GMT"
+    },
+    {
+      "title": "Israel targeted Hamas armed wing spokesperson in military operation, Netanyahu says - Reuters",
+      "pubDate": "Sun, 31 Aug 2025 11:14:04 GMT"
     }
   ],
   "Ukraine": [
@@ -407,6 +411,10 @@
     {
       "title": "Russia notes non-stop offensive on front line, Ukraine military points to own successes - Reuters",
       "pubDate": "Sat, 30 Aug 2025 21:13:40 GMT"
+    },
+    {
+      "title": "Russia\u2019s 2025 Summer Offensive Ends in Heavy Losses, No Victories, Ukraine Says - UNITED24 Media",
+      "pubDate": "Sun, 31 Aug 2025 09:44:51 GMT"
     }
   ],
   "Russia": [
@@ -515,6 +523,10 @@
     {
       "title": "As drug deaths hit a 5-year low, Trump continues to cite fentanyl as major threat - NPR",
       "pubDate": "Sat, 30 Aug 2025 09:15:00 GMT"
+    },
+    {
+      "title": "Trump Says He Will Sign Executive Order Mandating Voter I.D. - The New York Times",
+      "pubDate": "Sun, 31 Aug 2025 04:10:21 GMT"
     }
   ],
   "National Security": [
@@ -701,6 +713,10 @@
     {
       "title": "Putin and Modi in China for summit overshadowed by trade wars with US - BBC",
       "pubDate": "Sun, 31 Aug 2025 06:49:04 GMT"
+    },
+    {
+      "title": "China and India pledge to be 'partners not rivals' at security summit - BBC",
+      "pubDate": "Sun, 31 Aug 2025 09:14:19 GMT"
     }
   ],
   "AI Safety": [
@@ -930,10 +946,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "US job growth stalls: Just 73,000 jobs added in July, with \u2018stunning\u2019 downward revisions to recent months - CNN",
-      "pubDate": "Fri, 01 Aug 2025 09:00:00 GMT"
-    },
     {
       "title": "Despite Trump, the US economy remains surprisingly resilient. But for how long? | Richard Partington - The Guardian",
       "pubDate": "Sun, 03 Aug 2025 13:35:00 GMT"
@@ -1613,10 +1625,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israeli military chief warns against takeover of Gaza as Netanyahu considers \u2018full conquest\u2019 of besieged territory - CNN",
-      "pubDate": "Wed, 06 Aug 2025 16:14:00 GMT"
-    },
-    {
       "title": "Israel\u2019s actions in Gaza look \u2018very much like\u2019 genocide, says top EU official - politico.eu",
       "pubDate": "Thu, 07 Aug 2025 06:00:00 GMT"
     },
@@ -1771,6 +1779,10 @@
     {
       "title": "Newborns share incubator at Gaza hospital overwhelmed by famine - Al Jazeera",
       "pubDate": "Sat, 30 Aug 2025 06:15:58 GMT"
+    },
+    {
+      "title": "Gaza postwar plan envisions \u2018voluntary\u2019 relocation of entire population - The Washington Post",
+      "pubDate": "Sun, 31 Aug 2025 15:30:04 GMT"
     }
   ],
   "Cryptocurrency": [
