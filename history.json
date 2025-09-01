@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI hits $300B valuation after filling $8.3B raise ahead of schedule - MSN",
-      "pubDate": "Sat, 02 Aug 2025 01:24:09 GMT"
-    },
-    {
       "title": "Big tech has spent $155bn on AI this year. It\u2019s about to spend hundreds of billions more - theguardian.com",
       "pubDate": "Sat, 02 Aug 2025 12:01:00 GMT"
     },
@@ -135,17 +131,13 @@
     {
       "title": "AI can't solve these puzzles that take humans only seconds - Live Science",
       "pubDate": "Sun, 31 Aug 2025 16:33:00 GMT"
+    },
+    {
+      "title": "CFOs Triple Down on Gen AI ROI, Fueling Chip-to-Server Surge - PYMNTS.com",
+      "pubDate": "Mon, 01 Sep 2025 08:05:32 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump fires BLS head as tariffs cause stock market drop - BBC",
-      "pubDate": "Fri, 01 Aug 2025 23:31:34 GMT"
-    },
-    {
-      "title": "Trump fires BLS commissioner after weak jobs report - NBC News",
-      "pubDate": "Fri, 01 Aug 2025 22:13:06 GMT"
-    },
     {
       "title": "Texas Democrats Leave the State to Block GOP Congressional Map - Democracy Docket",
       "pubDate": "Sun, 03 Aug 2025 21:01:11 GMT"
@@ -192,10 +184,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran says it has 'plenty of scientists' left to restart uranium enrichment, despite US, Israeli strikes - Yahoo Home",
-      "pubDate": "Fri, 01 Aug 2025 21:33:35 GMT"
-    },
     {
       "title": "Australia blames Iran for antisemitic arson attacks, expels envoy - Reuters",
       "pubDate": "Tue, 26 Aug 2025 15:27:47 GMT"
@@ -265,13 +253,13 @@
     {
       "title": "Houthis storm UN buildings in Yemeni capital after Israel killed PM and other ministers - CNN",
       "pubDate": "Sun, 31 Aug 2025 14:33:00 GMT"
+    },
+    {
+      "title": "Report: Internal IDF Document Concludes Months-long Gaza Offensive Failed - Haaretz",
+      "pubDate": "Sun, 31 Aug 2025 23:24:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia Used Very Fast Jet Drones in Devastating Kyiv Attacks - Technology Org",
-      "pubDate": "Fri, 01 Aug 2025 21:00:57 GMT"
-    },
     {
       "title": "Ukraine says it hit Russian oil facilities, military airfield - Reuters",
       "pubDate": "Sat, 02 Aug 2025 16:59:39 GMT"
@@ -729,6 +717,10 @@
     {
       "title": "China and India pledge to be 'partners not rivals' at security summit - BBC",
       "pubDate": "Sun, 31 Aug 2025 09:14:19 GMT"
+    },
+    {
+      "title": "China's August factory activity beats estimates, expanding at fastest pace in five months: private survey - CNBC",
+      "pubDate": "Mon, 01 Sep 2025 02:12:00 GMT"
     }
   ],
   "AI Safety": [
@@ -855,6 +847,10 @@
     {
       "title": "AI Can Be \u2018Sweet-Talked\u2019 Into Breaking Its Own Rules, New Study Finds - WinBuzzer",
       "pubDate": "Sun, 31 Aug 2025 08:17:40 GMT"
+    },
+    {
+      "title": "Meta implements new rules for its AI after disturbing child safety report: 'We\u2019re adding more guardrails as an extra precaution' - PC Gamer",
+      "pubDate": "Sun, 31 Aug 2025 22:40:15 GMT"
     }
   ],
   "Data Breach": [
@@ -1077,10 +1073,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Massive earthquake in eastern Russia was detected in Colorado by CSU scientists - Denver7",
-      "pubDate": "Sat, 02 Aug 2025 06:30:24 GMT"
-    },
-    {
       "title": "Devastating earthquake strikes Ecuador, kills over 5,000 - History.com",
       "pubDate": "Mon, 04 Aug 2025 22:18:45 GMT"
     },
@@ -1119,6 +1111,10 @@
     {
       "title": "Major earthquake rocks the South Atlantic Ocean far off the coast of Argentina - ABC News",
       "pubDate": "Fri, 22 Aug 2025 06:39:18 GMT"
+    },
+    {
+      "title": "Afghanistan Earthquake Death Toll Soars to 800: Live Updates - Newsweek",
+      "pubDate": "Mon, 01 Sep 2025 08:29:13 GMT"
     }
   ],
   "Bitcoin": [
@@ -1393,10 +1389,6 @@
   ],
   "Tesla": [
     {
-      "title": "Tesla ordered to pay $200 million in punitive damages over fatal crash - CBS News",
-      "pubDate": "Fri, 01 Aug 2025 22:12:43 GMT"
-    },
-    {
       "title": "Tesla Autopilot verdict sends a chill across the industry - Axios",
       "pubDate": "Wed, 06 Aug 2025 16:00:52 GMT"
     },
@@ -1594,10 +1586,6 @@
     }
   ],
   "Geopolitics": [
-    {
-      "title": "US-India relations fray over Donald Trump\u2019s tariff invective and Russian oil - Financial Times",
-      "pubDate": "Sat, 02 Aug 2025 04:01:27 GMT"
-    },
     {
       "title": "China and Russia begin joint military drills in Sea of Japan - Al Jazeera",
       "pubDate": "Sun, 03 Aug 2025 07:36:41 GMT"
@@ -1837,6 +1825,10 @@
     {
       "title": "Bitcoin Is Braced For A Massive September Shock After Sudden Plunge Sparked Ethereum, XRP And Crypto Crash Fears - Forbes",
       "pubDate": "Sat, 30 Aug 2025 11:07:20 GMT"
+    },
+    {
+      "title": "Bitcoin slides to $107K as whales offload $4B over weekend - Mitrade",
+      "pubDate": "Mon, 01 Sep 2025 08:44:55 GMT"
     }
   ],
   "Science": [
@@ -1950,10 +1942,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Is climate change a reason not to have kids? - NPR",
-      "pubDate": "Sun, 03 Aug 2025 22:07:34 GMT"
-    },
     {
       "title": "Experts say climate change contributing to more injuries from airline turbulence - Las Vegas Sun",
       "pubDate": "Mon, 04 Aug 2025 09:01:06 GMT"
@@ -2109,6 +2097,10 @@
     {
       "title": "Climate Change Worsens Half-Century of Drinking Water Problems for Maine Native Reservation - Inside Climate News",
       "pubDate": "Sun, 31 Aug 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Climate triples heat deaths in Europe - The Ecologist",
+      "pubDate": "Mon, 01 Sep 2025 06:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2186,10 +2178,6 @@
     }
   ],
   "Environment": [
-    {
-      "title": "Going to waste: two years after REDcycle\u2019s collapse, Australia\u2019s soft plastics are hitting the environment hard - The Guardian",
-      "pubDate": "Sat, 02 Aug 2025 06:38:00 GMT"
-    },
     {
       "title": "The global plastics treaty must move forward, with or without the US - Climate Home News",
       "pubDate": "Mon, 04 Aug 2025 15:00:26 GMT"
@@ -2301,12 +2289,6 @@
     {
       "title": "India tax cut plan boosts shares; Nifty set for best day in 3 months - Reuters",
       "pubDate": "Mon, 18 Aug 2025 06:03:00 GMT"
-    }
-  ],
-  "Electric Power Transmission": [
-    {
-      "title": "Public comments show opposition to proposed transmission line - Yahoo Home",
-      "pubDate": "Fri, 01 Aug 2025 22:21:00 GMT"
     }
   ],
   "Cloud Computing": [
