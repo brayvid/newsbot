@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Big tech has spent $155bn on AI this year. It\u2019s about to spend hundreds of billions more - theguardian.com",
-      "pubDate": "Sat, 02 Aug 2025 12:01:00 GMT"
-    },
-    {
       "title": "OpenAI chairman to students: 'Studying computer science is\u2026' - Times of India",
       "pubDate": "Sun, 03 Aug 2025 10:34:00 GMT"
     },
@@ -135,6 +131,10 @@
     {
       "title": "CFOs Triple Down on Gen AI ROI, Fueling Chip-to-Server Surge - PYMNTS.com",
       "pubDate": "Mon, 01 Sep 2025 08:05:32 GMT"
+    },
+    {
+      "title": "Our AI Fears Run Long and Deep - The Atlantic",
+      "pubDate": "Mon, 01 Sep 2025 11:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -411,6 +411,10 @@
     {
       "title": "Russia\u2019s 2025 Summer Offensive Ends in Heavy Losses, No Victories, Ukraine Says - UNITED24 Media",
       "pubDate": "Sun, 31 Aug 2025 09:44:51 GMT"
+    },
+    {
+      "title": "Ukraine war: Vladimir Putin says he reached 'understandings' with Donald Trump over war's end - BBC",
+      "pubDate": "Mon, 01 Sep 2025 08:32:33 GMT"
     }
   ],
   "Russia": [
@@ -440,14 +444,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump orders nuclear submarines moved after Russian 'provocative statements' - Reuters",
-      "pubDate": "Sat, 02 Aug 2025 09:36:41 GMT"
-    },
-    {
-      "title": "Trump addresses pardon decision for Sean 'Diddy' Combs, but questions remain - USA Today",
-      "pubDate": "Sat, 02 Aug 2025 15:01:56 GMT"
-    },
     {
       "title": "Trump admin live updates: Trump, Schumer trade barbs over Senate nominations - ABC News",
       "pubDate": "Sat, 02 Aug 2025 23:43:00 GMT"
@@ -527,6 +523,10 @@
     {
       "title": "Trump Says He Will Sign Executive Order Mandating Voter I.D. - The New York Times",
       "pubDate": "Sun, 31 Aug 2025 04:10:21 GMT"
+    },
+    {
+      "title": "Trump keeps threatening to punish Putin. Here's what's holding him back - CNBC",
+      "pubDate": "Mon, 01 Sep 2025 09:36:57 GMT"
     }
   ],
   "National Security": [
@@ -724,10 +724,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Anthropic\u2019s Persona Vectors: Steering AI Traits for Safer Alignment - WebProNews",
-      "pubDate": "Sat, 02 Aug 2025 13:12:03 GMT"
-    },
     {
       "title": "Why Testing AI Models in Isolation Misses the Real Security Risk - SC Media UK",
       "pubDate": "Mon, 04 Aug 2025 10:55:34 GMT"
@@ -1043,10 +1039,6 @@
   ],
   "Astronomy": [
     {
-      "title": "Scientists Find Planet Orbiting Backwards: A Discovery That Could Rewrite Astronomy - The Daily Galaxy",
-      "pubDate": "Sat, 02 Aug 2025 15:30:00 GMT"
-    },
-    {
       "title": "Scientists have spotted the biggest explosions in the Universe since the Big Bang. - BBC Sky at Night Magazine",
       "pubDate": "Sun, 03 Aug 2025 05:19:15 GMT"
     },
@@ -1115,6 +1107,10 @@
     {
       "title": "Afghanistan Earthquake Death Toll Soars to 800: Live Updates - Newsweek",
       "pubDate": "Mon, 01 Sep 2025 08:29:13 GMT"
+    },
+    {
+      "title": "Afghanistan earthquake kills 800, injures 2,800, Taliban asks world for help - Reuters",
+      "pubDate": "Mon, 01 Sep 2025 13:55:20 GMT"
     }
   ],
   "Bitcoin": [
@@ -1533,10 +1529,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "This Quantum Computing Company Just Unlocked a New AI Breakthrough - MSN",
-      "pubDate": "Sat, 02 Aug 2025 10:26:59 GMT"
-    },
-    {
       "title": "Scientists May Have Just Cracked Quantum Computing\u2019s Biggest Problem - SciTechDaily",
       "pubDate": "Wed, 20 Aug 2025 08:27:31 GMT"
     },
@@ -1628,10 +1620,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Gaza: Israeli School Strikes Magnify Civilian Peril - Human Rights Watch",
-      "pubDate": "Thu, 07 Aug 2025 04:00:00 GMT"
-    },
     {
       "title": "Israel\u2019s Settler Right Is Preparing to Annex Gaza - The Atlantic",
       "pubDate": "Thu, 07 Aug 2025 11:00:00 GMT"
@@ -1787,6 +1775,10 @@
     {
       "title": "Post-war plan sees US administering Gaza for at least a decade: Washington Post - Reuters",
       "pubDate": "Sun, 31 Aug 2025 17:52:15 GMT"
+    },
+    {
+      "title": "Media outlets demand Israel grant access to Gaza, halt attacks on journalists there - NPR",
+      "pubDate": "Mon, 01 Sep 2025 08:58:57 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1829,6 +1821,10 @@
     {
       "title": "Bitcoin slides to $107K as whales offload $4B over weekend - Mitrade",
       "pubDate": "Mon, 01 Sep 2025 08:44:55 GMT"
+    },
+    {
+      "title": "Bitcoin is getting boring. That could open more doors for the crypto asset on Wall Street. - Yahoo Finance",
+      "pubDate": "Mon, 01 Sep 2025 09:12:31 GMT"
     }
   ],
   "Science": [
@@ -1915,10 +1911,6 @@
   ],
   "American Civil Liberties Union": [
     {
-      "title": "US appeals court keeps ban on LA immigration arrests - Yahoo Home",
-      "pubDate": "Sat, 02 Aug 2025 09:48:02 GMT"
-    },
-    {
       "title": "Texas can't require display of the Ten Commandments in certain school districts' classrooms, judge says - ABC11",
       "pubDate": "Wed, 20 Aug 2025 23:18:14 GMT"
     }
@@ -1942,10 +1934,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Experts say climate change contributing to more injuries from airline turbulence - Las Vegas Sun",
-      "pubDate": "Mon, 04 Aug 2025 09:01:06 GMT"
-    },
     {
       "title": "The ICJ Advisory Opinion on Climate Change: A Business and Human Rights Perspective - Opinio Juris",
       "pubDate": "Mon, 04 Aug 2025 10:18:27 GMT"
@@ -2101,6 +2089,10 @@
     {
       "title": "Climate triples heat deaths in Europe - The Ecologist",
       "pubDate": "Mon, 01 Sep 2025 06:00:00 GMT"
+    },
+    {
+      "title": "How scientists unmask climate change\u2019s role in extreme weather - Mongabay",
+      "pubDate": "Mon, 01 Sep 2025 11:28:49 GMT"
     }
   ],
   "Algorithms": [
@@ -2192,10 +2184,6 @@
     }
   ],
   "Volcanoes": [
-    {
-      "title": "Indonesia\u2019s Mount Lewotobi Laki Laki erupts again, spewing giant ash plumes miles away - CNN",
-      "pubDate": "Sat, 02 Aug 2025 09:37:00 GMT"
-    },
     {
       "title": "Russia's Krasheninnikov volcano erupts for first time in 600 years \u2013 video - The Guardian",
       "pubDate": "Sun, 03 Aug 2025 15:18:00 GMT"
