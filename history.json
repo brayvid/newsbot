@@ -257,13 +257,13 @@
     {
       "title": "Report: Internal IDF Document Concludes Months-long Gaza Offensive Failed - Haaretz",
       "pubDate": "Sun, 31 Aug 2025 23:24:00 GMT"
+    },
+    {
+      "title": "Israel committing genocide in Gaza, say scholars - Financial Times",
+      "pubDate": "Mon, 01 Sep 2025 14:24:19 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine says it hit Russian oil facilities, military airfield - Reuters",
-      "pubDate": "Sat, 02 Aug 2025 16:59:39 GMT"
-    },
     {
       "title": "Ukraine war live: Fire at Zaporizhzhia nuclear plant contained after explosions - The Independent",
       "pubDate": "Sun, 03 Aug 2025 07:37:12 GMT"
@@ -415,6 +415,10 @@
     {
       "title": "Ukraine war: Vladimir Putin says he reached 'understandings' with Donald Trump over war's end - BBC",
       "pubDate": "Mon, 01 Sep 2025 08:32:33 GMT"
+    },
+    {
+      "title": "Ukraine war latest: EU boss told she should 'know better' over comments on post-war troops - Sky News",
+      "pubDate": "Mon, 01 Sep 2025 20:26:57 GMT"
     }
   ],
   "Russia": [
@@ -1181,6 +1185,10 @@
     {
       "title": "Bitcoin Post-Halving Top? Analyst Says BTC Demand Outpacing Supply Over 6x in 2025 - CoinDesk",
       "pubDate": "Sun, 31 Aug 2025 19:52:30 GMT"
+    },
+    {
+      "title": "BTC's Realized Cap Climbs to $1.05T Despite Price Pullback - CoinDesk",
+      "pubDate": "Mon, 01 Sep 2025 19:11:53 GMT"
     }
   ],
   "BRICS": [
@@ -1403,10 +1411,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "Federal Reserve governor resigns, creating vacancy for Trump - upi.com",
-      "pubDate": "Sat, 02 Aug 2025 17:56:51 GMT"
-    },
-    {
       "title": "Trump To Name New Federal Reserve Governor, Jobs Data Head In Coming Days - NDTV Profit",
       "pubDate": "Mon, 04 Aug 2025 02:16:04 GMT"
     },
@@ -1559,6 +1563,10 @@
     {
       "title": "Researchers convert fermionic and spin models into QUBOs, validating accuracy with 1D and 2D Ising tests - Quantum Zeitgeist",
       "pubDate": "Sun, 31 Aug 2025 07:06:09 GMT"
+    },
+    {
+      "title": "Researchers Achieve 90% Fidelity in Measurement-based Quantum Computation with 4-qubit Clusters - Quantum Zeitgeist",
+      "pubDate": "Mon, 01 Sep 2025 11:07:02 GMT"
     }
   ],
   "Public Health": [
@@ -1847,10 +1855,6 @@
   ],
   "Apple": [
     {
-      "title": "Apple\u2019s $275 Billion China Bet Is Now A Major Risk - Forbes",
-      "pubDate": "Sat, 02 Aug 2025 16:53:28 GMT"
-    },
-    {
       "title": "Musk threatens 'immediate' legal action against Apple over alleged antitrust violations - CNBC",
       "pubDate": "Tue, 12 Aug 2025 01:39:00 GMT"
     },
@@ -1934,10 +1938,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "The ICJ Advisory Opinion on Climate Change: A Business and Human Rights Perspective - Opinio Juris",
-      "pubDate": "Mon, 04 Aug 2025 10:18:27 GMT"
-    },
     {
       "title": "Trump Is Making Climate Change Denialism Federal Policy - Foreign Policy",
       "pubDate": "Mon, 04 Aug 2025 21:28:09 GMT"
@@ -2093,6 +2093,10 @@
     {
       "title": "How scientists unmask climate change\u2019s role in extreme weather - Mongabay",
       "pubDate": "Mon, 01 Sep 2025 11:28:49 GMT"
+    },
+    {
+      "title": "Climate Change Triggered European Revolutions That Changed the Course of History - ZME Science",
+      "pubDate": "Mon, 01 Sep 2025 18:36:21 GMT"
     }
   ],
   "Algorithms": [
