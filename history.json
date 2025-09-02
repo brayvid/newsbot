@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI chairman to students: 'Studying computer science is\u2026' - Times of India",
-      "pubDate": "Sun, 03 Aug 2025 10:34:00 GMT"
-    },
-    {
       "title": "Better Artificial Intelligence Stock: BigBear.ai vs. Nvidia - Nasdaq",
       "pubDate": "Sun, 03 Aug 2025 18:15:00 GMT"
     },
@@ -193,6 +189,10 @@
     {
       "title": "Trump raises fresh questions about Covid-19 vaccines that he says have \u2018ripped apart\u2019 CDC - CNN",
       "pubDate": "Mon, 01 Sep 2025 21:08:00 GMT"
+    },
+    {
+      "title": "Live updates: Judge says Trump's deployment of troops to L.A. violated the law; Congress faces shutdown fight - NBC News",
+      "pubDate": "Tue, 02 Sep 2025 15:28:57 GMT"
     }
   ],
   "Iran": [
@@ -202,10 +202,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Pro-Israel Democrats try breaking with Netanyahu to stop party\u2019s shift amid Gaza crisis - CNN",
-      "pubDate": "Sun, 03 Aug 2025 09:00:00 GMT"
-    },
     {
       "title": "Israel\u2019s Gaza aid cutoff was not only immoral. It was a strategic disaster. - vox.com",
       "pubDate": "Tue, 05 Aug 2025 10:45:00 GMT"
@@ -277,13 +273,13 @@
     {
       "title": "Thousands attend funeral of Houthi leaders killed by Israeli strike, vow revenge - Reuters",
       "pubDate": "Mon, 01 Sep 2025 16:35:06 GMT"
+    },
+    {
+      "title": "Israel kills dozens of terrorist across Gaza as IDF ramps up airstrikes, ground op. - yahoo.com",
+      "pubDate": "Tue, 02 Sep 2025 11:08:02 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine urges Trump admin to 'strangle' Russian economy amid nuclear tensions - ABC News",
-      "pubDate": "Sun, 03 Aug 2025 09:22:30 GMT"
-    },
     {
       "title": "Ukraine says it stole intel from the Russian Navy and found weak points in its newest nuclear missile submarine - MSN",
       "pubDate": "Mon, 04 Aug 2025 15:21:22 GMT"
@@ -439,6 +435,10 @@
     {
       "title": "Europe live: US treasury secretary indicates growing frustration with Putin over Ukraine - The Guardian",
       "pubDate": "Tue, 02 Sep 2025 07:54:11 GMT"
+    },
+    {
+      "title": "Exclusive | AI-Powered Drone Swarms Have Now Entered the Battlefield - The Wall Street Journal",
+      "pubDate": "Tue, 02 Sep 2025 09:36:00 GMT"
     }
   ],
   "Russia": [
@@ -465,6 +465,10 @@
     {
       "title": "Russia Is Waging War on European Critical Infrastructure - The National Interest",
       "pubDate": "Sun, 31 Aug 2025 16:00:51 GMT"
+    },
+    {
+      "title": "Russia signs up to vast new China pipeline but price unclear - Reuters",
+      "pubDate": "Tue, 02 Sep 2025 09:59:37 GMT"
     }
   ],
   "Donald Trump": [
@@ -875,6 +879,10 @@
     {
       "title": "Meta implements new rules for its AI after disturbing child safety report: 'We\u2019re adding more guardrails as an extra precaution' - PC Gamer",
       "pubDate": "Sun, 31 Aug 2025 22:40:15 GMT"
+    },
+    {
+      "title": "AI safety and the potential apocalypse: What people can do now to prevent it - Straight Arrow News",
+      "pubDate": "Tue, 02 Sep 2025 12:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -978,10 +986,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "Despite Trump, the US economy remains surprisingly resilient. But for how long? | Richard Partington - The Guardian",
-      "pubDate": "Sun, 03 Aug 2025 13:35:00 GMT"
-    },
     {
       "title": "US on 'Precipice of Recession,' Warns Leading Economist - Newsweek",
       "pubDate": "Tue, 05 Aug 2025 13:16:37 GMT"
@@ -1591,6 +1595,10 @@
     {
       "title": "Researchers Unlock Efficient Block Encoding of Sparse Matrices, Overcoming Key Obstacles to Quantum Algorithms - Quantum Zeitgeist",
       "pubDate": "Mon, 01 Sep 2025 21:33:45 GMT"
+    },
+    {
+      "title": "New Mexico to invest $315 million in quantum computing drive - Reuters",
+      "pubDate": "Tue, 02 Sep 2025 15:40:15 GMT"
     }
   ],
   "Public Health": [
@@ -1857,10 +1865,6 @@
   ],
   "Science": [
     {
-      "title": "Scientists just recreated the Universe\u2019s first molecule and solved a 13-billion-year-old puzzle - ScienceDaily",
-      "pubDate": "Sun, 03 Aug 2025 13:51:04 GMT"
-    },
-    {
       "title": "Scientists just cracked the code to editing entire chromosomes flawlessly - ScienceDaily",
       "pubDate": "Tue, 05 Aug 2025 13:21:46 GMT"
     },
@@ -1958,10 +1962,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "One dead, 13 injured in France wildfire spanning area greater than Paris - The Washington Post",
-      "pubDate": "Thu, 07 Aug 2025 02:55:22 GMT"
-    },
     {
       "title": "July was Earth's third-hottest on record, included a record for Turkey, EU scientists say - Reuters",
       "pubDate": "Thu, 07 Aug 2025 02:20:00 GMT"
@@ -2117,6 +2117,10 @@
     {
       "title": "Global temperatures to remain above average despite return of La Ni\u00f1a, says UN - The Guardian",
       "pubDate": "Tue, 02 Sep 2025 08:28:00 GMT"
+    },
+    {
+      "title": "Unexpected decline in the ocean carbon sink under record-high sea surface temperatures in 2023 - Nature",
+      "pubDate": "Tue, 02 Sep 2025 09:26:10 GMT"
     }
   ],
   "Algorithms": [
@@ -2209,10 +2213,6 @@
   ],
   "Volcanoes": [
     {
-      "title": "Russia's Krasheninnikov volcano erupts for first time in 600 years \u2013 video - The Guardian",
-      "pubDate": "Sun, 03 Aug 2025 15:18:00 GMT"
-    },
-    {
       "title": "Lava erupts from Mount Kilauea volcano in Hawaii - Sky News",
       "pubDate": "Sat, 23 Aug 2025 11:32:33 GMT"
     }
@@ -2225,12 +2225,6 @@
     {
       "title": "Botswana declares public health emergency over medical shortages as Trump aid cuts hit - The Independent",
       "pubDate": "Wed, 27 Aug 2025 14:17:00 GMT"
-    }
-  ],
-  "Oceans": [
-    {
-      "title": "Scientists Find New Ecosystem in Deepest Trenches of Pacific Ocean - HealthDay",
-      "pubDate": "Sun, 03 Aug 2025 13:00:00 GMT"
     }
   ],
   "Amazon": [
@@ -2263,12 +2257,6 @@
     {
       "title": "This AI stock-picking tool uses data science to predict winners, now $56 for life - Popular Science",
       "pubDate": "Sat, 16 Aug 2025 11:00:00 GMT"
-    }
-  ],
-  "Energy Transition": [
-    {
-      "title": "Powerful interview reveals overlooked impact of global energy transition: 'Every electric vehicle carries Indigenous blood in their batteries' - The Cool Down",
-      "pubDate": "Sun, 03 Aug 2025 10:30:59 GMT"
     }
   ],
   "Pollution": [
@@ -2311,12 +2299,6 @@
     {
       "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race - Bloomberg.com",
       "pubDate": "Fri, 22 Aug 2025 00:21:00 GMT"
-    }
-  ],
-  "Political Corruption": [
-    {
-      "title": "Ukraine uncovers major corruption scheme in defense procurement - politico.eu",
-      "pubDate": "Sun, 03 Aug 2025 11:22:00 GMT"
     }
   ],
   "Quantum Mechanics": [
