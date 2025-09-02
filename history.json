@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Better Artificial Intelligence Stock: BigBear.ai vs. Nvidia - Nasdaq",
-      "pubDate": "Sun, 03 Aug 2025 18:15:00 GMT"
-    },
-    {
       "title": "Artificial intelligence can recognize metallic glasses in vast compositional space with sparse data - Nature",
       "pubDate": "Tue, 05 Aug 2025 18:00:30 GMT"
     },
@@ -142,10 +138,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Texas Democrats Leave the State to Block GOP Congressional Map - Democracy Docket",
-      "pubDate": "Sun, 03 Aug 2025 21:01:11 GMT"
-    },
     {
       "title": "Texas Governor threatens Democrats with arrest after politicians flee to block redistricting vote - Sky News",
       "pubDate": "Tue, 05 Aug 2025 15:34:42 GMT"
@@ -1231,10 +1223,6 @@
   ],
   "Renewable Energy": [
     {
-      "title": "Experts urge rethink on renewable energy and its environmental impact - Euronews.com",
-      "pubDate": "Sun, 03 Aug 2025 16:36:29 GMT"
-    },
-    {
       "title": "Germany aims to reduce reliance on China for wind power components - Reuters",
       "pubDate": "Tue, 05 Aug 2025 10:13:43 GMT"
     },
@@ -1310,10 +1298,6 @@
     }
   ],
   "Hurricanes": [
-    {
-      "title": "Hurricane Center tracking Invest 95L off North Carolina coast, tropical wave and one other system - Daytona Beach News-Journal",
-      "pubDate": "Sun, 03 Aug 2025 20:01:43 GMT"
-    },
     {
       "title": "First Atlantic hurricane of the 2025 season may form around mid-August - AccuWeather",
       "pubDate": "Sun, 10 Aug 2025 17:02:18 GMT"
@@ -1963,10 +1947,6 @@
   ],
   "Climate Change": [
     {
-      "title": "July was Earth's third-hottest on record, included a record for Turkey, EU scientists say - Reuters",
-      "pubDate": "Thu, 07 Aug 2025 02:20:00 GMT"
-    },
-    {
       "title": "Energy chief suggests Trump administration is altering previously published climate reports - CNN",
       "pubDate": "Thu, 07 Aug 2025 14:08:00 GMT"
     },
@@ -2121,6 +2101,10 @@
     {
       "title": "Unexpected decline in the ocean carbon sink under record-high sea surface temperatures in 2023 - Nature",
       "pubDate": "Tue, 02 Sep 2025 09:26:10 GMT"
+    },
+    {
+      "title": "Climate scientists file a public, point-by-point rebuttal of Trump admin report casting doubt on climate change - CNN",
+      "pubDate": "Tue, 02 Sep 2025 13:00:00 GMT"
     }
   ],
   "Algorithms": [
