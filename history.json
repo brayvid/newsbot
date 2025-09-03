@@ -147,6 +147,10 @@
     {
       "title": "An AI Pioneer Worries Big Tech Is Blinding Itself to New Breakthroughs - Bloomberg.com",
       "pubDate": "Wed, 03 Sep 2025 09:00:21 GMT"
+    },
+    {
+      "title": "The Tech Industry Has a Dirty Secret: The More People Learn About AI, the Less They Trust It - Futurism",
+      "pubDate": "Wed, 03 Sep 2025 17:04:04 GMT"
     }
   ],
   "US Politics": [
@@ -209,6 +213,10 @@
     {
       "title": "Republican US House committee releases thousands of Epstein files - Reuters",
       "pubDate": "Wed, 03 Sep 2025 06:01:00 GMT"
+    },
+    {
+      "title": "Democrats blast state department for lack of \u2018basic oversight\u2019 of controversial Gaza food organization - The Guardian",
+      "pubDate": "Wed, 03 Sep 2025 15:57:00 GMT"
     }
   ],
   "Iran": [
@@ -466,10 +474,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia Issues Nuclear Warning Directed at US and NATO - Newsweek",
-      "pubDate": "Mon, 04 Aug 2025 16:57:57 GMT"
-    },
     {
       "title": "Russia\u2019s Colossal Earthquake May Have Ignited Multiple Volcanoes - Gizmodo",
       "pubDate": "Wed, 06 Aug 2025 15:55:09 GMT"
@@ -780,10 +784,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Six-figure AI investment drives safety innovation at Pallet-Track - NationalWorld",
-      "pubDate": "Mon, 04 Aug 2025 20:52:34 GMT"
-    },
     {
       "title": "Polluted data poses risk to AI safety, ministry says - China Daily - Global Edition",
       "pubDate": "Wed, 06 Aug 2025 02:59:19 GMT"
@@ -1359,12 +1359,6 @@
       "pubDate": "Thu, 21 Aug 2025 05:56:10 GMT"
     }
   ],
-  "Elon Musk": [
-    {
-      "title": "Tesla awards CEO Musk millions of shares valued at about $29 billion - AP News",
-      "pubDate": "Mon, 04 Aug 2025 18:34:00 GMT"
-    }
-  ],
   "Health Care": [
     {
       "title": "Trump is threatening health care giants with the weight of the federal government. It\u2019s working \u2014 sometimes - statnews.com",
@@ -1595,6 +1589,10 @@
     {
       "title": "Quantum computing startup IQM raises $320 million as investors pile into the tech - CNBC",
       "pubDate": "Wed, 03 Sep 2025 12:00:01 GMT"
+    },
+    {
+      "title": "Andhra Pradesh and IBM Partner to Establish Quantum Computing Hub in Amaravati with 133-Qubit System - Quantum Computing Report",
+      "pubDate": "Wed, 03 Sep 2025 16:44:49 GMT"
     }
   ],
   "Public Health": [
@@ -1861,6 +1859,10 @@
     {
       "title": "Trump family profits from launch of World Liberty Financial crypto token - ABC News",
       "pubDate": "Tue, 02 Sep 2025 17:28:00 GMT"
+    },
+    {
+      "title": "US Bancorp revives institutional bitcoin custody service - Reuters",
+      "pubDate": "Wed, 03 Sep 2025 12:14:08 GMT"
     }
   ],
   "Science": [
@@ -1958,10 +1960,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Oceans heating at record pace, threatening U.S. coasts and marine life - WLTX",
-      "pubDate": "Sat, 09 Aug 2025 03:25:00 GMT"
-    },
     {
       "title": "Why Donald Trump\u2019s environmental data purge is so much worse this time - The Verge",
       "pubDate": "Sat, 09 Aug 2025 13:00:00 GMT"
@@ -2117,6 +2115,10 @@
     {
       "title": "Scientists warn on safe carbon capture limits to address climate change - Financial Times",
       "pubDate": "Wed, 03 Sep 2025 15:00:01 GMT"
+    },
+    {
+      "title": "Childhood Heat Risk is Rising - Climate Central",
+      "pubDate": "Wed, 03 Sep 2025 16:06:11 GMT"
     }
   ],
   "Algorithms": [
@@ -2291,12 +2293,6 @@
     {
       "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race - Bloomberg.com",
       "pubDate": "Fri, 22 Aug 2025 00:21:00 GMT"
-    }
-  ],
-  "National Institute of Standards and Technology": [
-    {
-      "title": "New NIST Consortium Unveils Draft to Fortify Software Supply Chains - MeriTalk",
-      "pubDate": "Mon, 04 Aug 2025 18:40:57 GMT"
     }
   ],
   "Blockchain": [
@@ -2631,6 +2627,12 @@
     {
       "title": "European Union to remove tariffs on U.S. industrial goods, triggering cuts for EU autos - CNBC",
       "pubDate": "Thu, 28 Aug 2025 16:32:59 GMT"
+    }
+  ],
+  "Nuclear Weapons": [
+    {
+      "title": "Iran increased stockpile of near weapons-grade uranium before Israeli attack, UN agency says - Star Tribune",
+      "pubDate": "Wed, 03 Sep 2025 15:46:40 GMT"
     }
   ]
 }
