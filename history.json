@@ -143,6 +143,10 @@
     {
       "title": "The professions trying to get ahead with AI are those most likely to lose their jobs to it, St Louis Fed says - Fortune",
       "pubDate": "Wed, 03 Sep 2025 07:42:00 GMT"
+    },
+    {
+      "title": "An AI Pioneer Worries Big Tech Is Blinding Itself to New Breakthroughs - Bloomberg.com",
+      "pubDate": "Wed, 03 Sep 2025 09:00:21 GMT"
     }
   ],
   "US Politics": [
@@ -201,6 +205,10 @@
     {
       "title": "Trump addresses speculation about his health - Axios",
       "pubDate": "Tue, 02 Sep 2025 21:11:15 GMT"
+    },
+    {
+      "title": "Republican US House committee releases thousands of Epstein files - Reuters",
+      "pubDate": "Wed, 03 Sep 2025 06:01:00 GMT"
     }
   ],
   "Iran": [
@@ -296,10 +304,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine strikes five Russian fighter jets at the airfield in annexed Crimea - Euronews.com",
-      "pubDate": "Mon, 04 Aug 2025 13:59:49 GMT"
-    },
     {
       "title": "Live updates: Trump envoy Witkoff meets Putin to push for ceasefire before sanctions deadline - The Washington Post",
       "pubDate": "Wed, 06 Aug 2025 15:22:08 GMT"
@@ -455,6 +459,10 @@
     {
       "title": "Russian Offensive Campaign Assessment, September 2, 2025 - Institute for the Study of War",
       "pubDate": "Tue, 02 Sep 2025 23:34:04 GMT"
+    },
+    {
+      "title": "Putin tells Ukraine: end war via talks or I will end it by force - Reuters",
+      "pubDate": "Wed, 03 Sep 2025 14:57:48 GMT"
     }
   ],
   "Russia": [
@@ -571,6 +579,10 @@
     {
       "title": "Trump calls India-U.S. trade relationship 'a totally one sided disaster' after Modi visits China - CNBC",
       "pubDate": "Tue, 02 Sep 2025 01:19:00 GMT"
+    },
+    {
+      "title": "Trump says 11 killed in US strike on drug-carrying vessel from Venezuela - BBC",
+      "pubDate": "Wed, 03 Sep 2025 09:10:59 GMT"
     }
   ],
   "National Security": [
@@ -768,10 +780,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Why Testing AI Models in Isolation Misses the Real Security Risk - SC Media UK",
-      "pubDate": "Mon, 04 Aug 2025 10:55:34 GMT"
-    },
     {
       "title": "Six-figure AI investment drives safety innovation at Pallet-Track - NationalWorld",
       "pubDate": "Mon, 04 Aug 2025 20:52:34 GMT"
@@ -1487,10 +1495,6 @@
   ],
   "Cosmology": [
     {
-      "title": "The universe may start dying in just 10 billion years, alarming new model predicts - Live Science",
-      "pubDate": "Mon, 04 Aug 2025 10:55:00 GMT"
-    },
-    {
       "title": "Scientists Reveal Universe\u2019s Lifespan Is Shorter Than Thought - The Romania Journal",
       "pubDate": "Tue, 05 Aug 2025 06:27:04 GMT"
     },
@@ -1587,6 +1591,10 @@
     {
       "title": "New Mexico to invest $315 million in quantum computing drive - Reuters",
       "pubDate": "Tue, 02 Sep 2025 15:40:15 GMT"
+    },
+    {
+      "title": "Quantum computing startup IQM raises $320 million as investors pile into the tech - CNBC",
+      "pubDate": "Wed, 03 Sep 2025 12:00:01 GMT"
     }
   ],
   "Public Health": [
@@ -1644,10 +1652,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel's security cabinet approves Gaza City takeover as Starmer calls plan 'wrong' - live updates - BBC",
-      "pubDate": "Fri, 08 Aug 2025 08:00:54 GMT"
-    },
     {
       "title": "Trump gives Israel tacit green light on Gaza takeover - The Hill",
       "pubDate": "Sat, 09 Aug 2025 10:00:00 GMT"
@@ -1803,6 +1807,10 @@
     {
       "title": "Belgium to recognise Palestinian state at UN and sanction Israel \u2013 Middle East crisis live - The Guardian",
       "pubDate": "Tue, 02 Sep 2025 07:13:00 GMT"
+    },
+    {
+      "title": "Children killed by Israeli strike while getting water in area Palestinians were told to go - NBC News",
+      "pubDate": "Wed, 03 Sep 2025 15:00:41 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1950,10 +1958,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "The start of California's fire season has moved up 6 weeks since 1990 thanks to climate change - Los Angeles Times",
-      "pubDate": "Fri, 08 Aug 2025 02:08:00 GMT"
-    },
     {
       "title": "Oceans heating at record pace, threatening U.S. coasts and marine life - WLTX",
       "pubDate": "Sat, 09 Aug 2025 03:25:00 GMT"
@@ -2109,6 +2113,10 @@
     {
       "title": "This was the hottest summer on record. If it happens again next year, Britain\u2019s ecosystems won\u2019t cope | Lucy Jones - The Guardian",
       "pubDate": "Wed, 03 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "Scientists warn on safe carbon capture limits to address climate change - Financial Times",
+      "pubDate": "Wed, 03 Sep 2025 15:00:01 GMT"
     }
   ],
   "Algorithms": [
@@ -2186,10 +2194,6 @@
     }
   ],
   "Environment": [
-    {
-      "title": "The global plastics treaty must move forward, with or without the US - Climate Home News",
-      "pubDate": "Mon, 04 Aug 2025 15:00:26 GMT"
-    },
     {
       "title": "New Jersey reaches historic $2 billion environmental settlement with DuPont over 'forever chemicals' - ABC News",
       "pubDate": "Wed, 06 Aug 2025 00:01:36 GMT"
@@ -2287,12 +2291,6 @@
     {
       "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race - Bloomberg.com",
       "pubDate": "Fri, 22 Aug 2025 00:21:00 GMT"
-    }
-  ],
-  "Quantum Mechanics": [
-    {
-      "title": "Scientists produce quantum entanglement-like results without entangled particles in new experiment - Phys.org",
-      "pubDate": "Mon, 04 Aug 2025 15:30:05 GMT"
     }
   ],
   "National Institute of Standards and Technology": [
