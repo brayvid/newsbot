@@ -139,6 +139,10 @@
     {
       "title": "'Extremely alarming': ChatGPT and Gemini respond to high-risk questions about suicide \u2014 including details around methods - Live Science",
       "pubDate": "Tue, 02 Sep 2025 17:35:36 GMT"
+    },
+    {
+      "title": "The professions trying to get ahead with AI are those most likely to lose their jobs to it, St Louis Fed says - Fortune",
+      "pubDate": "Wed, 03 Sep 2025 07:42:00 GMT"
     }
   ],
   "US Politics": [
@@ -193,6 +197,10 @@
     {
       "title": "Trump to move Space Command headquarters to Alabama from Colorado - Reuters",
       "pubDate": "Tue, 02 Sep 2025 19:46:55 GMT"
+    },
+    {
+      "title": "Trump addresses speculation about his health - Axios",
+      "pubDate": "Tue, 02 Sep 2025 21:11:15 GMT"
     }
   ],
   "Iran": [
@@ -281,13 +289,13 @@
     {
       "title": "Hundreds of IDF reservists oppose Gaza City takeover, say they won't report to duty - Haaretz",
       "pubDate": "Tue, 02 Sep 2025 17:47:00 GMT"
+    },
+    {
+      "title": "UNIFIL says Israeli drones drop grenades close to peacekeepers in Lebanon - Al Jazeera",
+      "pubDate": "Wed, 03 Sep 2025 08:03:45 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine says it stole intel from the Russian Navy and found weak points in its newest nuclear missile submarine - MSN",
-      "pubDate": "Mon, 04 Aug 2025 15:21:22 GMT"
-    },
     {
       "title": "Ukraine strikes five Russian fighter jets at the airfield in annexed Crimea - Euronews.com",
       "pubDate": "Mon, 04 Aug 2025 13:59:49 GMT"
@@ -443,6 +451,10 @@
     {
       "title": "Exclusive | AI-Powered Drone Swarms Have Now Entered the Battlefield - The Wall Street Journal",
       "pubDate": "Tue, 02 Sep 2025 09:36:00 GMT"
+    },
+    {
+      "title": "Russian Offensive Campaign Assessment, September 2, 2025 - Institute for the Study of War",
+      "pubDate": "Tue, 02 Sep 2025 23:34:04 GMT"
     }
   ],
   "Russia": [
@@ -603,14 +615,6 @@
   ],
   "China": [
     {
-      "title": "China Reveals Details of Nuclear Missile Test - Newsweek",
-      "pubDate": "Mon, 04 Aug 2025 08:43:55 GMT"
-    },
-    {
-      "title": "China to Tax Bond Interest Income After Decades of Exemption in Surprise Move - Bloomberg",
-      "pubDate": "Mon, 04 Aug 2025 05:57:00 GMT"
-    },
-    {
       "title": "China tackles chikungunya virus outbreak with wide range of measures as thousands fall ill - ABC News",
       "pubDate": "Wed, 06 Aug 2025 19:03:15 GMT"
     },
@@ -757,6 +761,10 @@
     {
       "title": "China: Beijing prepares for grand military parade - BBC",
       "pubDate": "Tue, 02 Sep 2025 06:37:27 GMT"
+    },
+    {
+      "title": "China parades new weapons in show of \u2018strategic ace\u2019 deterrence \u2013 as it happened - South China Morning Post",
+      "pubDate": "Wed, 03 Sep 2025 06:59:22 GMT"
     }
   ],
   "AI Safety": [
@@ -891,10 +899,6 @@
   ],
   "Data Breach": [
     {
-      "title": "Average global data breach cost now $4.44 million - Help Net Security",
-      "pubDate": "Mon, 04 Aug 2025 05:30:44 GMT"
-    },
-    {
       "title": "WestJet cybersecurity breach to be investigated by privacy commissioner - CBC",
       "pubDate": "Tue, 05 Aug 2025 21:23:30 GMT"
     },
@@ -929,13 +933,13 @@
     {
       "title": "Google issues warning to billions of Gmail users over password hack - The Independent",
       "pubDate": "Tue, 26 Aug 2025 14:30:00 GMT"
+    },
+    {
+      "title": "Government unable to calculate Afghan data breach cost, watchdog says - BBC",
+      "pubDate": "Tue, 02 Sep 2025 23:56:06 GMT"
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "The AI Cybersecurity Arms Race: How Threat Actors Are Weaponizing GenAI and Why It Matters to Investors - AInvest",
-      "pubDate": "Mon, 04 Aug 2025 07:23:14 GMT"
-    },
     {
       "title": "CISA, Microsoft warn about new Microsoft Exchange server vulnerability - Cybersecurity Dive",
       "pubDate": "Thu, 07 Aug 2025 01:16:10 GMT"
@@ -1256,10 +1260,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "Perfectly timed cancer combo wipes out tumors by supercharging the immune system - ScienceDaily",
-      "pubDate": "Mon, 04 Aug 2025 04:37:05 GMT"
-    },
     {
       "title": "New molecular technology targets tumors and simultaneously silences two 'undruggable' cancer genes - Medical Xpress",
       "pubDate": "Mon, 04 Aug 2025 21:11:09 GMT"
@@ -1951,10 +1951,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Climate change brings more rapidly intensifying hurricanes; NOAA cuts makes forecasting them harder - Yale Climate Connections",
-      "pubDate": "Thu, 07 Aug 2025 11:00:00 GMT"
-    },
-    {
       "title": "The start of California's fire season has moved up 6 weeks since 1990 thanks to climate change - Los Angeles Times",
       "pubDate": "Fri, 08 Aug 2025 02:08:00 GMT"
     },
@@ -2109,6 +2105,10 @@
     {
       "title": "Appeals court allows EPA to end $20B \u2018climate bank\u2019 for projects - The Independent",
       "pubDate": "Tue, 02 Sep 2025 21:28:00 GMT"
+    },
+    {
+      "title": "This was the hottest summer on record. If it happens again next year, Britain\u2019s ecosystems won\u2019t cope | Lucy Jones - The Guardian",
+      "pubDate": "Wed, 03 Sep 2025 07:00:00 GMT"
     }
   ],
   "Algorithms": [
