@@ -317,13 +317,13 @@
     {
       "title": "UNIFIL says Israeli drones drop grenades close to peacekeepers in Lebanon - Al Jazeera",
       "pubDate": "Wed, 03 Sep 2025 08:03:45 GMT"
+    },
+    {
+      "title": "UAE warns White House that Israeli annexations could unravel Abraham Accords - Axios",
+      "pubDate": "Wed, 03 Sep 2025 23:59:44 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "US-Russia Peace Deal Proposed, Huge Win for Putin: Report - Newsweek",
-      "pubDate": "Fri, 08 Aug 2025 15:52:42 GMT"
-    },
     {
       "title": "Trump and Putin to meet in Alaska next week to discuss Ukraine war - Al Jazeera",
       "pubDate": "Sat, 09 Aug 2025 06:30:35 GMT"
@@ -479,6 +479,10 @@
     {
       "title": "Putin says Russia will achieve all aims militarily if Ukraine does not agree deal - BBC",
       "pubDate": "Wed, 03 Sep 2025 20:15:02 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv offers retort to Putin for \u2018messing around\u2019 by demanding Moscow talks - The Guardian",
+      "pubDate": "Thu, 04 Sep 2025 04:54:00 GMT"
     }
   ],
   "Russia": [
@@ -599,6 +603,10 @@
     {
       "title": "Trump calls Epstein files 'irrelevant' as Massie petition picks up steam - ABC News",
       "pubDate": "Wed, 03 Sep 2025 23:35:24 GMT"
+    },
+    {
+      "title": "Trump says US may have to 'unwind' trade deals and will 'suffer greatly' if it loses tariff case - Reuters",
+      "pubDate": "Thu, 04 Sep 2025 04:39:00 GMT"
     }
   ],
   "National Security": [
@@ -793,6 +801,10 @@
     {
       "title": "China parades new weapons in show of \u2018strategic ace\u2019 deterrence \u2013 as it happened - South China Morning Post",
       "pubDate": "Wed, 03 Sep 2025 06:59:22 GMT"
+    },
+    {
+      "title": "China Unveils Large Unmanned Stealth Fighter Design During Military Parade - The War Zone",
+      "pubDate": "Wed, 03 Sep 2025 21:10:34 GMT"
     }
   ],
   "AI Safety": [
@@ -915,6 +927,10 @@
     {
       "title": "AI safety and the potential apocalypse: What people can do now to prevent it - Straight Arrow News",
       "pubDate": "Tue, 02 Sep 2025 12:00:00 GMT"
+    },
+    {
+      "title": "AI developers face backlash over chatbots encouraging suicide, safety measures inadequate - CHOSUNBIZ - Chosun Biz",
+      "pubDate": "Thu, 04 Sep 2025 07:59:00 GMT"
     }
   ],
   "Data Breach": [
@@ -957,6 +973,10 @@
     {
       "title": "Government unable to calculate Afghan data breach cost, watchdog says - BBC",
       "pubDate": "Tue, 02 Sep 2025 23:56:06 GMT"
+    },
+    {
+      "title": "250 Million Personal Identities Published In \u2018Massive Data Leak\u2019 - Forbes",
+      "pubDate": "Thu, 04 Sep 2025 06:10:02 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1497,10 +1517,6 @@
   ],
   "Cosmology": [
     {
-      "title": "Scientists Reveal Universe\u2019s Lifespan Is Shorter Than Thought - The Romania Journal",
-      "pubDate": "Tue, 05 Aug 2025 06:27:04 GMT"
-    },
-    {
       "title": "New cosmological model supports the evolution of dark energy - ASU News",
       "pubDate": "Fri, 22 Aug 2025 21:13:25 GMT"
     }
@@ -1969,10 +1985,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Faced with rising seas and falling aid, Fijian villages move uphill - The Washington Post",
-      "pubDate": "Sat, 09 Aug 2025 16:00:00 GMT"
-    },
-    {
       "title": "Scientists identify a new mental disorder called 'solastalgia' linked to environmental distress - Earth.com",
       "pubDate": "Sat, 09 Aug 2025 19:10:58 GMT"
     },
@@ -2127,6 +2139,10 @@
     {
       "title": "Dozens of scientists push back on 'fundamentally flawed' Department of Energy climate report - ABC News",
       "pubDate": "Wed, 03 Sep 2025 16:10:15 GMT"
+    },
+    {
+      "title": "Climate change driving conditions for Iberian wildfires: Study - Al Jazeera",
+      "pubDate": "Thu, 04 Sep 2025 08:26:15 GMT"
     }
   ],
   "Algorithms": [
@@ -2172,10 +2188,6 @@
     }
   ],
   "Battery Technology": [
-    {
-      "title": "AI Just Found the Future of Batteries, And It\u2019s Not Lithium - SciTechDaily",
-      "pubDate": "Tue, 05 Aug 2025 08:09:57 GMT"
-    },
     {
       "title": "Chinese scientists make lithium battery breakthrough, doubling energy density - The Independent",
       "pubDate": "Mon, 18 Aug 2025 09:51:00 GMT"
@@ -2304,10 +2316,6 @@
     }
   ],
   "Blockchain": [
-    {
-      "title": "Global Banks Invest in 345 Blockchain Projects as Digital Assets Go Mainstream - AInvest",
-      "pubDate": "Tue, 05 Aug 2025 04:37:24 GMT"
-    },
     {
       "title": "USDC issuer Circle to launch new layer-1 Arc blockchain this year - Cointelegraph",
       "pubDate": "Tue, 12 Aug 2025 11:24:43 GMT"
