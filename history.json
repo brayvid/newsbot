@@ -159,10 +159,6 @@
   ],
   "US Politics": [
     {
-      "title": "Texas Governor threatens Democrats with arrest after politicians flee to block redistricting vote - Sky News",
-      "pubDate": "Tue, 05 Aug 2025 15:34:42 GMT"
-    },
-    {
       "title": "Trump orders new census excluding undocumented immigrants amid redistricting battles - ABC News",
       "pubDate": "Thu, 07 Aug 2025 13:11:12 GMT"
     },
@@ -225,6 +221,10 @@
     {
       "title": "Mamdani calls reports of White House meddling in NYC mayor's race an 'affront to our democracy' - ABC News",
       "pubDate": "Thu, 04 Sep 2025 00:56:15 GMT"
+    },
+    {
+      "title": "RFK Jr defends chaos at federal health agencies as Democratic senators attack his \u2018disaster\u2019 tenure \u2013 live updates - The Guardian",
+      "pubDate": "Thu, 04 Sep 2025 15:48:38 GMT"
     }
   ],
   "Iran": [
@@ -234,10 +234,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel\u2019s Gaza aid cutoff was not only immoral. It was a strategic disaster. - vox.com",
-      "pubDate": "Tue, 05 Aug 2025 10:45:00 GMT"
-    },
     {
       "title": "Israel is committing war crimes \u2013 and its legal heads remain silent - The Times of Israel",
       "pubDate": "Sat, 09 Aug 2025 10:23:28 GMT"
@@ -321,13 +317,13 @@
     {
       "title": "UAE warns White House that Israeli annexations could unravel Abraham Accords - Axios",
       "pubDate": "Wed, 03 Sep 2025 23:59:44 GMT"
+    },
+    {
+      "title": "Suspect to remain in custody over fires started near PM\u2019s home during hostage protest - The Times of Israel",
+      "pubDate": "Thu, 04 Sep 2025 13:30:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Trump and Putin to meet in Alaska next week to discuss Ukraine war - Al Jazeera",
-      "pubDate": "Sat, 09 Aug 2025 06:30:35 GMT"
-    },
     {
       "title": "Live updates: Zelensky says Ukraine will \u2018not give up land,\u2019 ahead of Trump-Putin summit in Alaska - CNN",
       "pubDate": "Sat, 09 Aug 2025 15:11:00 GMT"
@@ -483,6 +479,10 @@
     {
       "title": "Ukraine war briefing: Kyiv offers retort to Putin for \u2018messing around\u2019 by demanding Moscow talks - The Guardian",
       "pubDate": "Thu, 04 Sep 2025 04:54:00 GMT"
+    },
+    {
+      "title": "Macron says \u2018Coalition of the Willing\u2019 will finalise \u2018robust\u2019 Ukrainian security guarantees \u2013 Europe live - The Guardian",
+      "pubDate": "Thu, 04 Sep 2025 07:38:00 GMT"
     }
   ],
   "Russia": [
@@ -512,10 +512,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump says JPMorgan Chase, Bank of America rejected him as a customer - CNBC",
-      "pubDate": "Tue, 05 Aug 2025 12:37:08 GMT"
-    },
     {
       "title": "Trump's \u2018100% chip tariffs\u2019 hit Japan's giants, but Samsung and TSMC rise on U.S. bets - CNBC",
       "pubDate": "Thu, 07 Aug 2025 02:37:00 GMT"
@@ -931,6 +927,10 @@
     {
       "title": "AI developers face backlash over chatbots encouraging suicide, safety measures inadequate - CHOSUNBIZ - Chosun Biz",
       "pubDate": "Thu, 04 Sep 2025 07:59:00 GMT"
+    },
+    {
+      "title": "An AI safety pioneer says it could leave 99% of workers unemployed by 2030 \u2014 even coders and prompt engineers - MSN",
+      "pubDate": "Thu, 04 Sep 2025 13:14:04 GMT"
     }
   ],
   "Data Breach": [
@@ -1035,10 +1035,6 @@
   ],
   "US Economy": [
     {
-      "title": "US on 'Precipice of Recession,' Warns Leading Economist - Newsweek",
-      "pubDate": "Tue, 05 Aug 2025 13:16:37 GMT"
-    },
-    {
       "title": "Trump's broad tariffs go into effect, just as economic pain is surfacing - NPR",
       "pubDate": "Thu, 07 Aug 2025 05:01:39 GMT"
     },
@@ -1136,10 +1132,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Russia earthquake has caused a 'parade of volcanic eruptions': Expert - ABC News",
-      "pubDate": "Tue, 05 Aug 2025 15:22:30 GMT"
-    },
     {
       "title": "Magnitude 4.0 - 8 miles E of Ninilchik - Alaska Earthquake Center",
       "pubDate": "Thu, 07 Aug 2025 23:45:24 GMT"
@@ -1282,10 +1274,6 @@
     }
   ],
   "Renewable Energy": [
-    {
-      "title": "Germany aims to reduce reliance on China for wind power components - Reuters",
-      "pubDate": "Tue, 05 Aug 2025 10:13:43 GMT"
-    },
     {
       "title": "Trump Cancels Massive Idaho Wind Farm Amid Renewable Broadside - Bloomberg.com",
       "pubDate": "Wed, 06 Aug 2025 14:25:25 GMT"
@@ -1891,10 +1879,6 @@
   ],
   "Science": [
     {
-      "title": "Scientists just cracked the code to editing entire chromosomes flawlessly - ScienceDaily",
-      "pubDate": "Tue, 05 Aug 2025 13:21:46 GMT"
-    },
-    {
       "title": "Scientists capture first footage of human embryo implanting in a uterus - The Guardian",
       "pubDate": "Fri, 15 Aug 2025 18:01:00 GMT"
     },
@@ -1926,10 +1910,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "DeepMind thinks its new Genie 3 world model presents a stepping stone toward AGI - TechCrunch",
-      "pubDate": "Tue, 05 Aug 2025 14:10:14 GMT"
-    },
     {
       "title": "Fear of super intelligent AI is driving Harvard and MIT students to drop out - Forbes Australia",
       "pubDate": "Wed, 06 Aug 2025 22:49:47 GMT"
@@ -1984,10 +1964,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Scientists identify a new mental disorder called 'solastalgia' linked to environmental distress - Earth.com",
-      "pubDate": "Sat, 09 Aug 2025 19:10:58 GMT"
-    },
     {
       "title": "New global ruling says sovereign states are legally responsible for tackling climate change - Phys.org",
       "pubDate": "Mon, 11 Aug 2025 19:29:13 GMT"
@@ -2143,6 +2119,10 @@
     {
       "title": "Climate change driving conditions for Iberian wildfires: Study - Al Jazeera",
       "pubDate": "Thu, 04 Sep 2025 08:26:15 GMT"
+    },
+    {
+      "title": "Powerful rain and floods devastate northern India as experts blame climate change - WTOP",
+      "pubDate": "Thu, 04 Sep 2025 10:04:55 GMT"
     }
   ],
   "Algorithms": [
