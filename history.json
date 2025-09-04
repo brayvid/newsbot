@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Artificial intelligence can recognize metallic glasses in vast compositional space with sparse data - Nature",
-      "pubDate": "Tue, 05 Aug 2025 18:00:30 GMT"
-    },
-    {
       "title": "OpenAI launches GPT-5, a potential barometer for whether AI hype is justified - AP News",
       "pubDate": "Thu, 07 Aug 2025 21:03:00 GMT"
     },
@@ -155,6 +151,10 @@
     {
       "title": "How the next wave of workers will adapt as artificial intelligence reshapes jobs - PBS",
       "pubDate": "Wed, 03 Sep 2025 22:25:54 GMT"
+    },
+    {
+      "title": "What if artificial intelligence is just a \u201cnormal\u201d technology? - The Economist",
+      "pubDate": "Thu, 04 Sep 2025 09:22:04 GMT"
     }
   ],
   "US Politics": [
@@ -225,6 +225,10 @@
     {
       "title": "RFK Jr defends chaos at federal health agencies as Democratic senators attack his \u2018disaster\u2019 tenure \u2013 live updates - The Guardian",
       "pubDate": "Thu, 04 Sep 2025 15:48:38 GMT"
+    },
+    {
+      "title": "Trump Is Trying to Blackmail the Supreme Court - Politico",
+      "pubDate": "Thu, 04 Sep 2025 09:00:00 GMT"
     }
   ],
   "Iran": [
@@ -324,10 +328,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Live updates: Zelensky says Ukraine will \u2018not give up land,\u2019 ahead of Trump-Putin summit in Alaska - CNN",
-      "pubDate": "Sat, 09 Aug 2025 15:11:00 GMT"
-    },
     {
       "title": "Ukrainian drone strikes hit defence industry facilities across Russia - Euronews.com",
       "pubDate": "Mon, 11 Aug 2025 09:15:43 GMT"
@@ -483,6 +483,10 @@
     {
       "title": "Macron says \u2018Coalition of the Willing\u2019 will finalise \u2018robust\u2019 Ukrainian security guarantees \u2013 Europe live - The Guardian",
       "pubDate": "Thu, 04 Sep 2025 07:38:00 GMT"
+    },
+    {
+      "title": "Macron says 26 countries ready to send troops for Ukraine ceasefire - BBC",
+      "pubDate": "Thu, 04 Sep 2025 17:26:57 GMT"
     }
   ],
   "Russia": [
@@ -629,6 +633,10 @@
     {
       "title": "Asian shares are mixed after stocks add a bit to their records on Wall Street - The Independent",
       "pubDate": "Fri, 29 Aug 2025 05:39:00 GMT"
+    },
+    {
+      "title": "Markets brace for volatility amid Trump's Fed maneuvers - Reuters",
+      "pubDate": "Thu, 04 Sep 2025 17:33:40 GMT"
     }
   ],
   "Recession": [
@@ -1663,10 +1671,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel faces growing global condemnation over military expansion in Gaza - Politico",
-      "pubDate": "Sat, 09 Aug 2025 16:38:27 GMT"
-    },
-    {
       "title": "Netanyahu claims his Gaza City takeover plan is fastest way to end war \u2013 latest updates - The Guardian",
       "pubDate": "Sun, 10 Aug 2025 08:18:00 GMT"
     },
@@ -1821,13 +1825,13 @@
     {
       "title": "Attacks across Gaza intensify amid fear and hunger: \u2018Leave me here,\u2019 injured girl told fleeing family - UN News",
       "pubDate": "Wed, 03 Sep 2025 16:55:59 GMT"
+    },
+    {
+      "title": "Gaza principal slams Hamas, calls them 'murderers' - The Jerusalem Post",
+      "pubDate": "Thu, 04 Sep 2025 10:35:30 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "SEC Exempts Liquid Stakers Like Ethereum\u2019s Lido, Solana\u2019s Jito From Securities Laws - Yahoo Finance",
-      "pubDate": "Tue, 05 Aug 2025 18:44:58 GMT"
-    },
     {
       "title": "Trump to allow cryptocurrency, private equity in 401(k)s - Quartz",
       "pubDate": "Thu, 07 Aug 2025 14:52:52 GMT"
@@ -1875,6 +1879,10 @@
     {
       "title": "US Bancorp revives institutional bitcoin custody service - Reuters",
       "pubDate": "Wed, 03 Sep 2025 12:14:08 GMT"
+    },
+    {
+      "title": "Exclusive: How North Korean hackers are using fake job offers to steal cryptocurrency - Reuters",
+      "pubDate": "Thu, 04 Sep 2025 12:55:04 GMT"
     }
   ],
   "Science": [
@@ -1964,10 +1972,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "New global ruling says sovereign states are legally responsible for tackling climate change - Phys.org",
-      "pubDate": "Mon, 11 Aug 2025 19:29:13 GMT"
-    },
     {
       "title": "US Dept. of Energy secretary assembled climate skeptics to shape report challenging science - ehn.org",
       "pubDate": "Tue, 12 Aug 2025 11:34:22 GMT"
@@ -2123,6 +2127,10 @@
     {
       "title": "Powerful rain and floods devastate northern India as experts blame climate change - WTOP",
       "pubDate": "Thu, 04 Sep 2025 10:04:55 GMT"
+    },
+    {
+      "title": "Joe Rogan claims study shows Earth cooling \u2013 but report\u2019s authors say he\u2019s wrong - The Guardian",
+      "pubDate": "Thu, 04 Sep 2025 12:04:00 GMT"
     }
   ],
   "Algorithms": [
