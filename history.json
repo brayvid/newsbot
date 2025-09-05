@@ -333,13 +333,13 @@
     {
       "title": "Suspect to remain in custody over fires started near PM\u2019s home during hostage protest - The Times of Israel",
       "pubDate": "Thu, 04 Sep 2025 13:30:00 GMT"
+    },
+    {
+      "title": "US sanctions Palestinian rights groups who asked top court for Israel war crimes investigation - CNN",
+      "pubDate": "Fri, 05 Sep 2025 03:52:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukrainian drone strikes hit defence industry facilities across Russia - Euronews.com",
-      "pubDate": "Mon, 11 Aug 2025 09:15:43 GMT"
-    },
     {
       "title": "Russian Military Makes Surprise Push in Ukraine Ahead of Trump Talks - The Wall Street Journal",
       "pubDate": "Tue, 12 Aug 2025 11:26:00 GMT"
@@ -495,6 +495,10 @@
     {
       "title": "Macron says 26 countries ready to send troops for Ukraine ceasefire - BBC",
       "pubDate": "Thu, 04 Sep 2025 17:26:57 GMT"
+    },
+    {
+      "title": "Putin rejects Western security in Ukraine, warning troops would be target - BBC",
+      "pubDate": "Fri, 05 Sep 2025 08:04:44 GMT"
     }
   ],
   "Russia": [
@@ -615,6 +619,10 @@
     {
       "title": "Trump says US may have to 'unwind' trade deals and will 'suffer greatly' if it loses tariff case - Reuters",
       "pubDate": "Thu, 04 Sep 2025 04:39:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s second presidency is \u2018most dangerous period\u2019 since second world war, Mitch McConnell says - The Guardian",
+      "pubDate": "Fri, 05 Sep 2025 01:45:00 GMT"
     }
   ],
   "National Security": [
@@ -1383,12 +1391,6 @@
       "pubDate": "Thu, 21 Aug 2025 05:56:10 GMT"
     }
   ],
-  "Health Care": [
-    {
-      "title": "Trump is threatening health care giants with the weight of the federal government. It\u2019s working \u2014 sometimes - statnews.com",
-      "pubDate": "Wed, 06 Aug 2025 08:34:13 GMT"
-    }
-  ],
   "Fusion Power": [
     {
       "title": "China\u2019s Fusion Reactor Stuns Scientists As \"100 Million Feels Like The Start\" In World-First Artificial Sun Energy Milestone - Energy Reporters",
@@ -1529,10 +1531,6 @@
   ],
   "OpenAI": [
     {
-      "title": "OpenAI eyes $500 billion valuation in potential employee share sale, source says - Reuters",
-      "pubDate": "Wed, 06 Aug 2025 08:20:12 GMT"
-    },
-    {
       "title": "OpenAI\u2019s Sam Altman Expects to Spend \u2018Trillions\u2019 on Infrastructure - Bloomberg.com",
       "pubDate": "Fri, 15 Aug 2025 16:21:10 GMT"
     },
@@ -1609,6 +1607,10 @@
     {
       "title": "Andhra Pradesh and IBM Partner to Establish Quantum Computing Hub in Amaravati with 133-Qubit System - Quantum Computing Report",
       "pubDate": "Wed, 03 Sep 2025 16:44:49 GMT"
+    },
+    {
+      "title": "Quantum computer developer Quantinuum\u2019s $600m raise values it at $10bn - Silicon Republic",
+      "pubDate": "Fri, 05 Sep 2025 07:01:12 GMT"
     }
   ],
   "Public Health": [
@@ -1969,10 +1971,6 @@
   ],
   "Climate Change": [
     {
-      "title": "US Dept. of Energy secretary assembled climate skeptics to shape report challenging science - ehn.org",
-      "pubDate": "Tue, 12 Aug 2025 11:34:22 GMT"
-    },
-    {
       "title": "The health risks from climate change that almost no one talks about - vox.com",
       "pubDate": "Wed, 13 Aug 2025 08:30:00 GMT"
     },
@@ -2127,6 +2125,10 @@
     {
       "title": "Joe Rogan claims study shows Earth cooling \u2013 but report\u2019s authors say he\u2019s wrong - The Guardian",
       "pubDate": "Thu, 04 Sep 2025 12:04:00 GMT"
+    },
+    {
+      "title": "Wildfires are fuelling air pollution, UN weather body says - Reuters",
+      "pubDate": "Fri, 05 Sep 2025 04:04:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2297,12 +2299,6 @@
     {
       "title": "China remains the key engine of world economic growth - News.MN",
       "pubDate": "Thu, 21 Aug 2025 08:44:24 GMT"
-    }
-  ],
-  "Rivian": [
-    {
-      "title": "Rivian reports mixed Q2 results, widens 2025 loss projection as tariffs and loss of EV tax credit bite - Yahoo Finance",
-      "pubDate": "Wed, 06 Aug 2025 08:33:21 GMT"
     }
   ],
   "Technology": [
