@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI launches GPT-5, a potential barometer for whether AI hype is justified - AP News",
-      "pubDate": "Thu, 07 Aug 2025 21:03:00 GMT"
-    },
-    {
       "title": "AI is creating new billionaires at a record pace - CNBC",
       "pubDate": "Sun, 10 Aug 2025 12:00:01 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "OpenAI teams up with Walmart to train millions of workers in artificial intelligence - Fox Business",
       "pubDate": "Thu, 04 Sep 2025 23:46:00 GMT"
+    },
+    {
+      "title": "The human thinking behind artificial intelligence - cosmosmagazine.com",
+      "pubDate": "Sat, 06 Sep 2025 01:51:00 GMT"
     }
   ],
   "US Politics": [
@@ -241,6 +241,10 @@
     {
       "title": "Live updates: Anemic jobs report spurs concerns about economy; Trump says 'real numbers' coming next year - The Hill",
       "pubDate": "Fri, 05 Sep 2025 12:53:00 GMT"
+    },
+    {
+      "title": "Trump signs executive order creating \u2018state sponsor of wrongful detention\u2019 designation - CNN",
+      "pubDate": "Fri, 05 Sep 2025 20:48:00 GMT"
     }
   ],
   "Iran": [
@@ -348,10 +352,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russian Military Makes Surprise Push in Ukraine Ahead of Trump Talks - The Wall Street Journal",
-      "pubDate": "Tue, 12 Aug 2025 11:26:00 GMT"
-    },
     {
       "title": "Russia seeks full Ukrainian withdrawal from Donetsk in east: Zelenskyy - Al Jazeera",
       "pubDate": "Tue, 12 Aug 2025 18:20:17 GMT"
@@ -507,6 +507,10 @@
     {
       "title": "Putin rejects Western security in Ukraine, warning troops would be target - BBC",
       "pubDate": "Fri, 05 Sep 2025 08:04:44 GMT"
+    },
+    {
+      "title": "Zelenskiy meets Slovakia's Fico, says Ukraine will respond to Russia's energy attacks - Reuters",
+      "pubDate": "Fri, 05 Sep 2025 16:37:19 GMT"
     }
   ],
   "Russia": [
@@ -536,10 +540,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump's \u2018100% chip tariffs\u2019 hit Japan's giants, but Samsung and TSMC rise on U.S. bets - CNBC",
-      "pubDate": "Thu, 07 Aug 2025 02:37:00 GMT"
-    },
     {
       "title": "Trump slams WSJ amid Epstein lawsuit, claiming it\u2019s \u2018China centric\u2019 - The Hill",
       "pubDate": "Fri, 08 Aug 2025 01:14:00 GMT"
@@ -678,14 +678,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China tackles chikungunya virus outbreak with wide range of measures as thousands fall ill - ABC News",
-      "pubDate": "Wed, 06 Aug 2025 19:03:15 GMT"
-    },
-    {
-      "title": "China's July exports top expectations, rising over 7%; imports record biggest jump in a year - CNBC",
-      "pubDate": "Thu, 07 Aug 2025 03:16:00 GMT"
-    },
     {
       "title": "Trump demands Intel CEO Lip-Bu Tan resign over China ties - Axios",
       "pubDate": "Thu, 07 Aug 2025 11:57:43 GMT"
@@ -837,10 +829,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Inside the US Government's Unpublished Report on AI Safety - WIRED",
-      "pubDate": "Wed, 06 Aug 2025 18:00:00 GMT"
-    },
-    {
       "title": "Scientists want to prevent AI from going rogue by teaching it to be bad first - NBC News",
       "pubDate": "Thu, 07 Aug 2025 09:00:00 GMT"
     },
@@ -959,6 +947,10 @@
     {
       "title": "AI expert issues worrying prediction for 2045 after revealing the only jobs that will still exist in the next five years - LADbible",
       "pubDate": "Fri, 05 Sep 2025 09:31:25 GMT"
+    },
+    {
+      "title": "OpenAI reorg at risk as Attorneys General push AI safety - theregister.com",
+      "pubDate": "Fri, 05 Sep 2025 23:18:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1000,10 +992,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "CISA, Microsoft warn about new Microsoft Exchange server vulnerability - Cybersecurity Dive",
-      "pubDate": "Thu, 07 Aug 2025 01:16:10 GMT"
-    },
     {
       "title": "DARPA unveils winners of AI challenge to boost critical infrastructure cybersecurity - Nextgov/FCW",
       "pubDate": "Fri, 08 Aug 2025 21:02:00 GMT"
@@ -1077,6 +1065,10 @@
     {
       "title": "US second-quarter GDP revised higher as businesses boost investment in AI - Reuters",
       "pubDate": "Thu, 28 Aug 2025 18:14:23 GMT"
+    },
+    {
+      "title": "America\u2019s job market flashes yet another warning sign about the economy - CNN",
+      "pubDate": "Fri, 05 Sep 2025 18:41:00 GMT"
     }
   ],
   "Trade War": [
@@ -1086,10 +1078,6 @@
     }
   ],
   "Asteroids": [
-    {
-      "title": "Massive 300-ft Asteroid Ready For Close Encounter With Earth Tomorrow: NASA Issues Warning - Times Now",
-      "pubDate": "Thu, 07 Aug 2025 02:00:00 GMT"
-    },
     {
       "title": "Meteorite older than Earth smashes house roof in Georgia; scientists trace rock to asteroid belt - video - Times of India",
       "pubDate": "Sun, 10 Aug 2025 02:55:00 GMT"
@@ -1665,10 +1653,6 @@
   ],
   "Gaza": [
     {
-      "title": "Netanyahu Doubles Down on Gaza Offensive After Global Backlash - The New York Times",
-      "pubDate": "Sun, 10 Aug 2025 18:38:20 GMT"
-    },
-    {
       "title": "Israel steps up Gaza City bombing after Netanyahu vow to expand offensive - Reuters",
       "pubDate": "Mon, 11 Aug 2025 12:27:48 GMT"
     },
@@ -1823,6 +1807,10 @@
     {
       "title": "Palestinian death toll in Gaza passes 64,000, officials say, after ceasefire talks break down - PBS",
       "pubDate": "Thu, 04 Sep 2025 18:52:11 GMT"
+    },
+    {
+      "title": "Israel levels Gaza high-rise tower near Palestinian civilian encampment - ABC News",
+      "pubDate": "Fri, 05 Sep 2025 17:19:35 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1913,10 +1901,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "Fear of super intelligent AI is driving Harvard and MIT students to drop out - Forbes Australia",
-      "pubDate": "Wed, 06 Aug 2025 22:49:47 GMT"
-    },
-    {
       "title": "OpenAI's GPT-5 struggles with maps and math despite PhD-level promises - Quartz",
       "pubDate": "Mon, 11 Aug 2025 14:39:00 GMT"
     },
@@ -1966,10 +1950,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Climate change made Nordic heatwave at least 10 times more likely - Euronews.com",
-      "pubDate": "Thu, 14 Aug 2025 06:02:11 GMT"
-    },
     {
       "title": "\u2018No country is safe\u2019: deadly Nordic heatwave supercharged by climate crisis, scientists say - The Guardian",
       "pubDate": "Thu, 14 Aug 2025 08:24:00 GMT"
@@ -2125,6 +2105,10 @@
     {
       "title": "Physics-based indicator predicts tipping point for collapse of Atlantic current system in next 50 years - Phys.org",
       "pubDate": "Fri, 05 Sep 2025 15:45:40 GMT"
+    },
+    {
+      "title": "The Climate Change Playbook No Longer Works. What Can Activists Do? - The New York Times",
+      "pubDate": "Fri, 05 Sep 2025 18:45:50 GMT"
     }
   ],
   "Algorithms": [
@@ -2295,12 +2279,6 @@
     {
       "title": "China remains the key engine of world economic growth - News.MN",
       "pubDate": "Thu, 21 Aug 2025 08:44:24 GMT"
-    }
-  ],
-  "Technology": [
-    {
-      "title": "United Airlines flights resume after it resolves technology glitch - Reuters",
-      "pubDate": "Thu, 07 Aug 2025 02:41:00 GMT"
     }
   ],
   "Asia": [
