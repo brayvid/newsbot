@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Investors Flee Companies Seen as Most at Risk From Artificial Intelligence - Benzinga",
-      "pubDate": "Sun, 10 Aug 2025 15:16:24 GMT"
-    },
-    {
       "title": "AI Learned to Be Evil Without Anyone Telling It To, Which Bodes Well - Popular Mechanics",
       "pubDate": "Mon, 11 Aug 2025 19:30:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Anthropic Agrees to Pay $1.5 Billion to Settle Lawsuit With Book Authors - The New York Times",
       "pubDate": "Fri, 05 Sep 2025 22:38:29 GMT"
+    },
+    {
+      "title": "'Godfather of AI' says the technology will create massive unemployment and send profits soaring \u2014 'that is the capitalist system' - Fortune",
+      "pubDate": "Sat, 06 Sep 2025 19:27:00 GMT"
     }
   ],
   "US Politics": [
@@ -245,6 +245,10 @@
     {
       "title": "Trump threatens more tariffs after EU fines Google \u20ac2.95B - Politico",
       "pubDate": "Fri, 05 Sep 2025 22:26:43 GMT"
+    },
+    {
+      "title": "Trump seeking ways to take over 9/11 memorial in NYC - Politico",
+      "pubDate": "Sat, 06 Sep 2025 15:41:32 GMT"
     }
   ],
   "Iran": [
@@ -349,13 +353,13 @@
     {
       "title": "Israel strikes Gaza City high-rise building, Hamas releases another hostage video - France 24",
       "pubDate": "Fri, 05 Sep 2025 09:42:10 GMT"
+    },
+    {
+      "title": "Police Detain Nine anti-Gaza War Protesters in Israeli Arab City for 'Incitement' - Haaretz",
+      "pubDate": "Sat, 06 Sep 2025 19:01:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Putin hails \u2018heroic\u2019 North Korean troops fighting against Ukraine in letter to Kim Jong-un - The Guardian",
-      "pubDate": "Fri, 15 Aug 2025 04:15:00 GMT"
-    },
     {
       "title": "Ukraine scrambles to roll back Russian eastern advance as summit takes place - The Washington Post",
       "pubDate": "Fri, 15 Aug 2025 22:03:05 GMT"
@@ -511,6 +515,10 @@
     {
       "title": "Nearly 700,000 Russian military personnel deployed in Ukraine, intelligence says - The Kyiv Independent",
       "pubDate": "Sat, 06 Sep 2025 08:36:59 GMT"
+    },
+    {
+      "title": "Ukrainian Strikes on Russian Refineries Causing Crisis for Putin - Kyiv Post",
+      "pubDate": "Sat, 06 Sep 2025 15:41:15 GMT"
     }
   ],
   "Russia": [
@@ -833,6 +841,10 @@
     {
       "title": "China condemns sailing of Canadian, Australian warships in Taiwan Strait - Reuters",
       "pubDate": "Sat, 06 Sep 2025 14:05:05 GMT"
+    },
+    {
+      "title": "China Shows the World It\u2019s Ready to Shake Things Up - Bloomberg.com",
+      "pubDate": "Sat, 06 Sep 2025 12:00:20 GMT"
     }
   ],
   "AI Safety": [
@@ -1092,10 +1104,6 @@
     }
   ],
   "Atlantic Ocean": [
-    {
-      "title": "Active Atlantic: Tracking Tropical Storm Dexter and two other tropical hot spots this week. - WXII",
-      "pubDate": "Thu, 07 Aug 2025 20:46:00 GMT"
-    },
     {
       "title": "Hurricane forecasters eye 'significant tropical threat' in the Atlantic: What to know - USA Today",
       "pubDate": "Sun, 10 Aug 2025 15:37:13 GMT"
@@ -1501,10 +1509,6 @@
   ],
   "Chemistry": [
     {
-      "title": "Scientists synthesized elusive 'super alcohol' \u2014 a 'seed of life molecule' that marks a step toward finding alien life - Live Science",
-      "pubDate": "Thu, 07 Aug 2025 18:06:27 GMT"
-    },
-    {
       "title": "Scientists transform 'forever chemicals' in water into fluoride with new process - Live Science",
       "pubDate": "Sat, 16 Aug 2025 18:02:00 GMT"
     },
@@ -1599,6 +1603,10 @@
     {
       "title": "Nvidia\u2019s $600 Million Quantum Computing Bet: Time to Buy Rigetti, IonQ, or D-Wave? - 24/7 Wall St.",
       "pubDate": "Fri, 05 Sep 2025 15:12:23 GMT"
+    },
+    {
+      "title": "University of Sydney scientists solve quantum computing challenge using a single atom - WION",
+      "pubDate": "Sat, 06 Sep 2025 09:11:00 GMT"
     }
   ],
   "Public Health": [
@@ -1943,10 +1951,6 @@
   ],
   "Climate Change": [
     {
-      "title": "US Guts Criticism of Indigenous Rights Abuses, Mentions of Climate Change From Annual Human Rights Reports - Inside Climate News",
-      "pubDate": "Thu, 14 Aug 2025 21:56:11 GMT"
-    },
-    {
       "title": "Environmental groups sue Trump administration over \"secret report\" by \"known climate contrarians\" - CBS News",
       "pubDate": "Fri, 15 Aug 2025 16:59:00 GMT"
     },
@@ -2101,6 +2105,10 @@
     {
       "title": "These are science\u2019s boldest ideas to cool our heating planet - BBC Science Focus Magazine",
       "pubDate": "Sat, 06 Sep 2025 14:40:00 GMT"
+    },
+    {
+      "title": "Study: There is less room to store carbon dioxide, driver of climate change, than previously thought - Phys.org",
+      "pubDate": "Sat, 06 Sep 2025 16:30:03 GMT"
     }
   ],
   "Algorithms": [
