@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump orders new census excluding undocumented immigrants amid redistricting battles - ABC News",
-      "pubDate": "Thu, 07 Aug 2025 13:11:12 GMT"
-    },
-    {
       "title": "Trump-Appointed Judge Deals Legal Blow To The White House - Newsweek",
       "pubDate": "Mon, 11 Aug 2025 23:50:50 GMT"
     },
@@ -357,10 +353,6 @@
   ],
   "Ukraine": [
     {
-      "title": "August 13, 2025 \u2013 Trump warns Russia of \u2018severe consequences\u2019 if Putin doesn\u2019t agree to end Ukraine war - CNN",
-      "pubDate": "Thu, 14 Aug 2025 00:59:00 GMT"
-    },
-    {
       "title": "Putin hails \u2018heroic\u2019 North Korean troops fighting against Ukraine in letter to Kim Jong-un - The Guardian",
       "pubDate": "Fri, 15 Aug 2025 04:15:00 GMT"
     },
@@ -515,13 +507,13 @@
     {
       "title": "Zelenskyy rejects Putin invitation: 'He can come to Kyiv' - ABC News",
       "pubDate": "Fri, 05 Sep 2025 22:18:45 GMT"
+    },
+    {
+      "title": "Nearly 700,000 Russian military personnel deployed in Ukraine, intelligence says - The Kyiv Independent",
+      "pubDate": "Sat, 06 Sep 2025 08:36:59 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "US soldier arrested for allegedly leaking tank secrets to Russia - BBC",
-      "pubDate": "Thu, 07 Aug 2025 15:20:19 GMT"
-    },
     {
       "title": "Russia, under war spending pressure, set for more austerity, tax hikes - Reuters",
       "pubDate": "Wed, 20 Aug 2025 10:51:08 GMT"
@@ -669,6 +661,10 @@
     {
       "title": "Stock Market News, Sept. 5, 2025: Weak Jobs Data Boosts Rate-Cut Bets; Dow Falls - The Wall Street Journal",
       "pubDate": "Fri, 05 Sep 2025 23:42:00 GMT"
+    },
+    {
+      "title": "Major Regulatory Shift in Financial Markets: Embracing 24/7 Trading - OneSafe",
+      "pubDate": "Sat, 06 Sep 2025 06:14:03 GMT"
     }
   ],
   "Recession": [
@@ -686,10 +682,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Trump demands Intel CEO Lip-Bu Tan resign over China ties - Axios",
-      "pubDate": "Thu, 07 Aug 2025 11:57:43 GMT"
-    },
     {
       "title": "Simulated Chinese blockade of Taiwan reveals Singapore as lifeline - Reuters",
       "pubDate": "Fri, 08 Aug 2025 02:38:00 GMT"
@@ -837,13 +829,13 @@
     {
       "title": "China launches experimental Shiyan-29 to GEO, commercial Ceres-1 carries 3 satellites - SpaceNews",
       "pubDate": "Fri, 05 Sep 2025 21:26:07 GMT"
+    },
+    {
+      "title": "China condemns sailing of Canadian, Australian warships in Taiwan Strait - Reuters",
+      "pubDate": "Sat, 06 Sep 2025 14:05:05 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Scientists want to prevent AI from going rogue by teaching it to be bad first - NBC News",
-      "pubDate": "Thu, 07 Aug 2025 09:00:00 GMT"
-    },
     {
       "title": "GPT-5 Jailbroken in 24 Hours, Exposing AI Security Risks - WebProNews",
       "pubDate": "Sun, 10 Aug 2025 02:08:00 GMT"
@@ -963,6 +955,10 @@
     {
       "title": "OpenAI reorg at risk as Attorneys General push AI safety - theregister.com",
       "pubDate": "Fri, 05 Sep 2025 23:18:00 GMT"
+    },
+    {
+      "title": "Google Gemini flagged as \u2018inappropriate and unsafe\u2019 for kids in new AI safety study - The Indian Express",
+      "pubDate": "Sat, 06 Sep 2025 07:20:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1653,10 +1649,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israeli strikes kill journalists and aid-seekers as Australia backs Palestinian statehood - AP News",
-      "pubDate": "Tue, 12 Aug 2025 01:36:00 GMT"
-    },
-    {
       "title": "Israel Conducts Deadly Strike Against 'Fake' Aid Workers in Gaza - Newsweek",
       "pubDate": "Tue, 12 Aug 2025 16:27:16 GMT"
     },
@@ -1811,13 +1803,13 @@
     {
       "title": "Tel Aviv protesters unveil huge SOS sign demanding ceasefire in Gaza - Al Jazeera",
       "pubDate": "Sat, 06 Sep 2025 04:54:08 GMT"
+    },
+    {
+      "title": "Israel expands operations in Gaza City; tells famine-stricken residents to move to safe zone - CBS News",
+      "pubDate": "Sat, 06 Sep 2025 11:56:27 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "Trump to allow cryptocurrency, private equity in 401(k)s - Quartz",
-      "pubDate": "Thu, 07 Aug 2025 14:52:52 GMT"
-    },
     {
       "title": "Trump signs order to allow crypto and real estate investments in retirement plans - The Guardian",
       "pubDate": "Thu, 07 Aug 2025 22:15:00 GMT"
@@ -1950,10 +1942,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "\u2018No country is safe\u2019: deadly Nordic heatwave supercharged by climate crisis, scientists say - The Guardian",
-      "pubDate": "Thu, 14 Aug 2025 08:24:00 GMT"
-    },
     {
       "title": "US Guts Criticism of Indigenous Rights Abuses, Mentions of Climate Change From Annual Human Rights Reports - Inside Climate News",
       "pubDate": "Thu, 14 Aug 2025 21:56:11 GMT"
@@ -2109,6 +2097,10 @@
     {
       "title": "The Climate Change Playbook No Longer Works. What Can Activists Do? - The New York Times",
       "pubDate": "Fri, 05 Sep 2025 18:45:50 GMT"
+    },
+    {
+      "title": "These are science\u2019s boldest ideas to cool our heating planet - BBC Science Focus Magazine",
+      "pubDate": "Sat, 06 Sep 2025 14:40:00 GMT"
     }
   ],
   "Algorithms": [
