@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI is creating new billionaires at a record pace - CNBC",
-      "pubDate": "Sun, 10 Aug 2025 12:00:01 GMT"
-    },
-    {
       "title": "Investors Flee Companies Seen as Most at Risk From Artificial Intelligence - Benzinga",
       "pubDate": "Sun, 10 Aug 2025 15:16:24 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "The human thinking behind artificial intelligence - cosmosmagazine.com",
       "pubDate": "Sat, 06 Sep 2025 01:51:00 GMT"
+    },
+    {
+      "title": "Anthropic Agrees to Pay $1.5 Billion to Settle Lawsuit With Book Authors - The New York Times",
+      "pubDate": "Fri, 05 Sep 2025 22:38:29 GMT"
     }
   ],
   "US Politics": [
@@ -245,6 +245,10 @@
     {
       "title": "Trump signs executive order creating \u2018state sponsor of wrongful detention\u2019 designation - CNN",
       "pubDate": "Fri, 05 Sep 2025 20:48:00 GMT"
+    },
+    {
+      "title": "Trump threatens more tariffs after EU fines Google \u20ac2.95B - Politico",
+      "pubDate": "Fri, 05 Sep 2025 22:26:43 GMT"
     }
   ],
   "Iran": [
@@ -352,10 +356,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia seeks full Ukrainian withdrawal from Donetsk in east: Zelenskyy - Al Jazeera",
-      "pubDate": "Tue, 12 Aug 2025 18:20:17 GMT"
-    },
     {
       "title": "August 13, 2025 \u2013 Trump warns Russia of \u2018severe consequences\u2019 if Putin doesn\u2019t agree to end Ukraine war - CNN",
       "pubDate": "Thu, 14 Aug 2025 00:59:00 GMT"
@@ -511,6 +511,10 @@
     {
       "title": "Zelenskiy meets Slovakia's Fico, says Ukraine will respond to Russia's energy attacks - Reuters",
       "pubDate": "Fri, 05 Sep 2025 16:37:19 GMT"
+    },
+    {
+      "title": "Zelenskyy rejects Putin invitation: 'He can come to Kyiv' - ABC News",
+      "pubDate": "Fri, 05 Sep 2025 22:18:45 GMT"
     }
   ],
   "Russia": [
@@ -661,6 +665,10 @@
     {
       "title": "Markets brace for volatility amid Trump's Fed maneuvers - Reuters",
       "pubDate": "Thu, 04 Sep 2025 17:33:40 GMT"
+    },
+    {
+      "title": "Stock Market News, Sept. 5, 2025: Weak Jobs Data Boosts Rate-Cut Bets; Dow Falls - The Wall Street Journal",
+      "pubDate": "Fri, 05 Sep 2025 23:42:00 GMT"
     }
   ],
   "Recession": [
@@ -825,6 +833,10 @@
     {
       "title": "China Unveils Large Unmanned Stealth Fighter Design During Military Parade - The War Zone",
       "pubDate": "Wed, 03 Sep 2025 21:10:34 GMT"
+    },
+    {
+      "title": "China launches experimental Shiyan-29 to GEO, commercial Ceres-1 carries 3 satellites - SpaceNews",
+      "pubDate": "Fri, 05 Sep 2025 21:26:07 GMT"
     }
   ],
   "AI Safety": [
@@ -1042,10 +1054,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "Trump's broad tariffs go into effect, just as economic pain is surfacing - NPR",
-      "pubDate": "Thu, 07 Aug 2025 05:01:39 GMT"
-    },
     {
       "title": "US targets one-kilo gold bars with new import tariffs: Report - India Today",
       "pubDate": "Thu, 07 Aug 2025 21:08:45 GMT"
@@ -1272,10 +1280,6 @@
     }
   ],
   "BRICS": [
-    {
-      "title": "Putin Aide's Big Reveal On BRICS Vs U.S. Potential Fight Amid Trump's Tariff War | Lula | Modi | Xi - The Times of India",
-      "pubDate": "Thu, 07 Aug 2025 08:27:41 GMT"
-    },
     {
       "title": "Russia pushes back against US 'sanctions' against India, says our market open for Indian goods, calls BRICS a stabilising force - WION",
       "pubDate": "Wed, 20 Aug 2025 06:48:00 GMT"
@@ -1609,10 +1613,6 @@
   ],
   "Alexandria Ocasio-Cortez": [
     {
-      "title": "Ocasio-Cortez's office vandalized amid 'multiple threats' to her life, campaign manager says - AOL.com",
-      "pubDate": "Thu, 07 Aug 2025 07:33:03 GMT"
-    },
-    {
       "title": "Former AOC Staffer Arrested For Trying To Incite Attack On Jewish School - AOL.com",
       "pubDate": "Sun, 17 Aug 2025 12:27:26 GMT"
     }
@@ -1652,10 +1652,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel steps up Gaza City bombing after Netanyahu vow to expand offensive - Reuters",
-      "pubDate": "Mon, 11 Aug 2025 12:27:48 GMT"
-    },
     {
       "title": "Israeli strikes kill journalists and aid-seekers as Australia backs Palestinian statehood - AP News",
       "pubDate": "Tue, 12 Aug 2025 01:36:00 GMT"
@@ -1811,6 +1807,10 @@
     {
       "title": "Israel levels Gaza high-rise tower near Palestinian civilian encampment - ABC News",
       "pubDate": "Fri, 05 Sep 2025 17:19:35 GMT"
+    },
+    {
+      "title": "Tel Aviv protesters unveil huge SOS sign demanding ceasefire in Gaza - Al Jazeera",
+      "pubDate": "Sat, 06 Sep 2025 04:54:08 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2282,10 +2282,6 @@
     }
   ],
   "Asia": [
-    {
-      "title": "New US tariffs cloud outlook for exporters in Asia and beyond - ABC News",
-      "pubDate": "Thu, 07 Aug 2025 05:59:58 GMT"
-    },
     {
       "title": "Cloudbursts have killed over 400 people in South Asia. What are they? - NBC News",
       "pubDate": "Thu, 21 Aug 2025 09:00:40 GMT"
