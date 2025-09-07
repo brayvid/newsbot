@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Australian lawyer apologizes for AI-generated errors in murder case - The Washington Post",
-      "pubDate": "Fri, 15 Aug 2025 07:12:34 GMT"
-    },
-    {
       "title": "Class-action suit claims Otter AI secretly records private work conversations - NPR",
       "pubDate": "Sat, 16 Aug 2025 00:44:21 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Why AI Chatbots Still Hallucinate: Researchers Trace Errors to Training Data Gaps and Misaligned Benchmarks - Digital Information World",
       "pubDate": "Sun, 07 Sep 2025 08:00:00 GMT"
+    },
+    {
+      "title": "The negative social and environmental long-term effects of artificial intelligence make it not worth using - North Texas Daily",
+      "pubDate": "Sun, 07 Sep 2025 20:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -365,10 +365,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Trump tells Zelenskiy that Putin wants more of Ukraine, urges Kyiv make a deal - Reuters",
-      "pubDate": "Sat, 16 Aug 2025 22:05:06 GMT"
-    },
-    {
       "title": "Trump tells Zelensky to give up Crimea and agree to never join NATO - CNN",
       "pubDate": "Mon, 18 Aug 2025 02:28:00 GMT"
     },
@@ -523,6 +519,10 @@
     {
       "title": "Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says - ABC News",
       "pubDate": "Sun, 07 Sep 2025 10:18:45 GMT"
+    },
+    {
+      "title": "Russia\u2019s largest-ever air attack on Ukraine burns Kyiv government building - The Washington Post",
+      "pubDate": "Sun, 07 Sep 2025 20:03:45 GMT"
     }
   ],
   "Russia": [
@@ -1281,6 +1281,10 @@
     {
       "title": "Bitcoin Long-Term Holders Move 97K BTC In Biggest One-Day Spend Of 2025 - BlockchainReporter",
       "pubDate": "Tue, 02 Sep 2025 01:04:07 GMT"
+    },
+    {
+      "title": "Bitcoin taps $111.3K as forecast says 10% dip \u2018worst case scenario\u2019 - Cointelegraph",
+      "pubDate": "Sun, 07 Sep 2025 12:12:39 GMT"
     }
   ],
   "BRICS": [
@@ -1653,10 +1657,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel intensifies bombing of Gaza, killing 89 Palestinians in 24 hours - The Guardian",
-      "pubDate": "Wed, 13 Aug 2025 01:30:00 GMT"
-    },
-    {
       "title": "Why Arab rulers aren't more vocal about Gaza as global outcry grows - NBC News",
       "pubDate": "Wed, 13 Aug 2025 19:16:12 GMT"
     },
@@ -1811,6 +1811,10 @@
     {
       "title": "More than 7,000 under-fives in Gaza put in malnutrition recovery in two-week period - The Guardian",
       "pubDate": "Sat, 06 Sep 2025 21:27:00 GMT"
+    },
+    {
+      "title": "US puts forward new Mideast ceasefire principles that call for immediate release of all hostages, negotiations - CNN",
+      "pubDate": "Sun, 07 Sep 2025 19:03:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1942,10 +1946,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "ICJ ruling sets precedent for suing over climate change emissions - Nation Thailand",
-      "pubDate": "Tue, 19 Aug 2025 08:07:00 GMT"
-    },
     {
       "title": "Why Trump's new climate report has scientists worried - Context News",
       "pubDate": "Wed, 20 Aug 2025 07:42:07 GMT"
@@ -2101,6 +2101,10 @@
     {
       "title": "Where will climate change hit hardest? Global index reveals vulnerability - Earth.com",
       "pubDate": "Sun, 07 Sep 2025 15:25:27 GMT"
+    },
+    {
+      "title": "New research indicates caribou populations could decline 80 per cent by 2100 - The Conversation",
+      "pubDate": "Sun, 07 Sep 2025 12:28:47 GMT"
     }
   ],
   "Algorithms": [
