@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI Learned to Be Evil Without Anyone Telling It To, Which Bodes Well - Popular Mechanics",
-      "pubDate": "Mon, 11 Aug 2025 19:30:00 GMT"
-    },
-    {
       "title": "Using generative AI, researchers design compounds that can kill drug-resistant bacteria - MIT News",
       "pubDate": "Thu, 14 Aug 2025 15:00:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "'Godfather of AI' says the technology will create massive unemployment and send profits soaring \u2014 'that is the capitalist system' - Fortune",
       "pubDate": "Sat, 06 Sep 2025 19:27:00 GMT"
+    },
+    {
+      "title": "OpenAI expects business to burn $115 billion through 2029, The Information reports - CNBC",
+      "pubDate": "Sat, 06 Sep 2025 21:19:05 GMT"
     }
   ],
   "US Politics": [
@@ -361,10 +361,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine scrambles to roll back Russian eastern advance as summit takes place - The Washington Post",
-      "pubDate": "Fri, 15 Aug 2025 22:03:05 GMT"
-    },
-    {
       "title": "Trump reportedly to back ceding of Ukrainian territory to Russia as part of peace deal - The Guardian",
       "pubDate": "Sun, 17 Aug 2025 00:29:00 GMT"
     },
@@ -519,6 +515,10 @@
     {
       "title": "Ukrainian Strikes on Russian Refineries Causing Crisis for Putin - Kyiv Post",
       "pubDate": "Sat, 06 Sep 2025 15:41:15 GMT"
+    },
+    {
+      "title": "'NO ESCAPE': Ukraine Faces Its Darkest Hour As '7 Lakh Russian Troops Surround' Donetsk And Pokrovsk - Times of India",
+      "pubDate": "Sun, 07 Sep 2025 02:35:59 GMT"
     }
   ],
   "Russia": [
@@ -544,10 +544,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump slams WSJ amid Epstein lawsuit, claiming it\u2019s \u2018China centric\u2019 - The Hill",
-      "pubDate": "Fri, 08 Aug 2025 01:14:00 GMT"
-    },
     {
       "title": "Trump tariffs live updates: US-China deadline, looming court ruling on Trump's authority in focus - Yahoo Finance",
       "pubDate": "Sat, 09 Aug 2025 16:49:08 GMT"
@@ -635,6 +631,10 @@
     {
       "title": "Trump\u2019s second presidency is \u2018most dangerous period\u2019 since second world war, Mitch McConnell says - The Guardian",
       "pubDate": "Fri, 05 Sep 2025 01:45:00 GMT"
+    },
+    {
+      "title": "Illinois officials decry Trump post threatening Chicago with deportations: \u2018Disgusting\u2019 - FOX 32 Chicago",
+      "pubDate": "Sat, 06 Sep 2025 17:18:50 GMT"
     }
   ],
   "National Security": [
@@ -690,10 +690,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Simulated Chinese blockade of Taiwan reveals Singapore as lifeline - Reuters",
-      "pubDate": "Fri, 08 Aug 2025 02:38:00 GMT"
-    },
     {
       "title": "Chinese diplomat Liu Jianchao taken in for questioning, WSJ reports - CNBC",
       "pubDate": "Sun, 10 Aug 2025 05:16:47 GMT"
@@ -1063,10 +1059,6 @@
   ],
   "US Economy": [
     {
-      "title": "US targets one-kilo gold bars with new import tariffs: Report - India Today",
-      "pubDate": "Thu, 07 Aug 2025 21:08:45 GMT"
-    },
-    {
       "title": "US national debt reaches a record $37 trillion, the Treasury Department reports - The Sun Chronicle",
       "pubDate": "Tue, 12 Aug 2025 20:29:13 GMT"
     },
@@ -1152,10 +1144,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Magnitude 4.0 - 8 miles E of Ninilchik - Alaska Earthquake Center",
-      "pubDate": "Thu, 07 Aug 2025 23:45:24 GMT"
-    },
     {
       "title": "Magnitude 6.1 earthquake in Turkey causes about a dozen buildings to collapse - PBS",
       "pubDate": "Sun, 10 Aug 2025 20:14:45 GMT"
@@ -1433,10 +1421,6 @@
   ],
   "Tesla": [
     {
-      "title": "Tesla shuts down Dojo, the AI training supercomputer that Musk said would be key to full self-driving - TechCrunch",
-      "pubDate": "Thu, 07 Aug 2025 22:19:50 GMT"
-    },
-    {
       "title": "Elon Musk confirms Tesla AI6 chip is Project Dojo\u2019s successor - Teslarati",
       "pubDate": "Sat, 09 Aug 2025 15:31:06 GMT"
     },
@@ -1657,10 +1641,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel Conducts Deadly Strike Against 'Fake' Aid Workers in Gaza - Newsweek",
-      "pubDate": "Tue, 12 Aug 2025 16:27:16 GMT"
-    },
-    {
       "title": "Israel intensifies bombing of Gaza, killing 89 Palestinians in 24 hours - The Guardian",
       "pubDate": "Wed, 13 Aug 2025 01:30:00 GMT"
     },
@@ -1815,13 +1795,13 @@
     {
       "title": "Israel expands operations in Gaza City; tells famine-stricken residents to move to safe zone - CBS News",
       "pubDate": "Sat, 06 Sep 2025 11:56:27 GMT"
+    },
+    {
+      "title": "More than 7,000 under-fives in Gaza put in malnutrition recovery in two-week period - The Guardian",
+      "pubDate": "Sat, 06 Sep 2025 21:27:00 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "Trump signs order to allow crypto and real estate investments in retirement plans - The Guardian",
-      "pubDate": "Thu, 07 Aug 2025 22:15:00 GMT"
-    },
     {
       "title": "Ethereum Explodes to $4.2K, $200 Million Liquidated, Trump Rejoices - CryptoPotato",
       "pubDate": "Sat, 09 Aug 2025 06:18:23 GMT"
@@ -1950,10 +1930,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Environmental groups sue Trump administration over \"secret report\" by \"known climate contrarians\" - CBS News",
-      "pubDate": "Fri, 15 Aug 2025 16:59:00 GMT"
-    },
     {
       "title": "Sudan\u2019s Cholera Outbreak Has Sickened Thousands\u2014Here\u2019s What\u2019s Driving It - Scientific American",
       "pubDate": "Fri, 15 Aug 2025 21:30:00 GMT"
@@ -2109,6 +2085,10 @@
     {
       "title": "Study: There is less room to store carbon dioxide, driver of climate change, than previously thought - Phys.org",
       "pubDate": "Sat, 06 Sep 2025 16:30:03 GMT"
+    },
+    {
+      "title": "Opening Remarks of Mr. Omar Faruk Osman, President of the Federation of African Journalists (FAJ) at the Pre-Summit Forum on \u201cMedia as a Catalyst for Africa\u2019s Climate Change, Peace and Security Agenda: Driving Just Transition and Climate Justice\u201d - peaceau.org",
+      "pubDate": "Sat, 06 Sep 2025 16:27:20 GMT"
     }
   ],
   "Algorithms": [
