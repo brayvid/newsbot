@@ -361,13 +361,13 @@
     {
       "title": "Houthi drone hits Eilat's Ramon Airport, IDF says no sirens - The Jerusalem Post",
       "pubDate": "Sun, 07 Sep 2025 12:12:24 GMT"
+    },
+    {
+      "title": "Israel steps up Gaza City attacks while Houthi drone strikes an Israeli airport in rare hit - PBS",
+      "pubDate": "Sun, 07 Sep 2025 18:28:47 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Trump tells Zelensky to give up Crimea and agree to never join NATO - CNN",
-      "pubDate": "Mon, 18 Aug 2025 02:28:00 GMT"
-    },
     {
       "title": "Russia strikes on Kharkiv kill three, injure 17, Ukraine says - Reuters",
       "pubDate": "Mon, 18 Aug 2025 08:23:18 GMT"
@@ -523,6 +523,10 @@
     {
       "title": "Russia\u2019s largest-ever air attack on Ukraine burns Kyiv government building - The Washington Post",
       "pubDate": "Sun, 07 Sep 2025 20:03:45 GMT"
+    },
+    {
+      "title": "UN provides urgent support after \u2018massive\u2019 Russian attack across Ukraine - UN News",
+      "pubDate": "Sun, 07 Sep 2025 20:30:41 GMT"
     }
   ],
   "Russia": [
@@ -1020,10 +1024,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "DARPA unveils winners of AI challenge to boost critical infrastructure cybersecurity - Nextgov/FCW",
-      "pubDate": "Fri, 08 Aug 2025 21:02:00 GMT"
-    },
     {
       "title": "In pitch to hacker community, Trump\u2019s NSC cyber lead says AI key to future of cyberdefense - Nextgov/FCW",
       "pubDate": "Sat, 09 Aug 2025 12:29:50 GMT"
@@ -1623,10 +1623,6 @@
   ],
   "Geopolitics": [
     {
-      "title": "Trump announces peace agreement between Azerbaijan and Armenia - Reuters",
-      "pubDate": "Fri, 08 Aug 2025 23:49:07 GMT"
-    },
-    {
       "title": "Trump Has the Upper Hand Going into His Meeting with Putin - Time Magazine",
       "pubDate": "Sat, 09 Aug 2025 10:31:45 GMT"
     },
@@ -1947,10 +1943,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Why Trump's new climate report has scientists worried - Context News",
-      "pubDate": "Wed, 20 Aug 2025 07:42:07 GMT"
-    },
-    {
       "title": "Abrupt Antarctic climate shifts could lead to \"catastrophic consequences for generations,\" experts warn - CBS News",
       "pubDate": "Wed, 20 Aug 2025 19:34:00 GMT"
     },
@@ -2105,6 +2097,10 @@
     {
       "title": "New research indicates caribou populations could decline 80 per cent by 2100 - The Conversation",
       "pubDate": "Sun, 07 Sep 2025 12:28:47 GMT"
+    },
+    {
+      "title": "Giant Amazon Trees Can Help Scientists Tackle Climate Change - Eurasia Review",
+      "pubDate": "Sun, 07 Sep 2025 22:29:55 GMT"
     }
   ],
   "Algorithms": [
