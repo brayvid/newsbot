@@ -249,6 +249,10 @@
     {
       "title": "Trump seeking ways to take over 9/11 memorial in NYC - Politico",
       "pubDate": "Sat, 06 Sep 2025 15:41:32 GMT"
+    },
+    {
+      "title": "Trump tells foreign firms to \u2018respect\u2019 immigration laws after Hyundai raid \u2013 US politics live - The Guardian",
+      "pubDate": "Mon, 08 Sep 2025 10:14:00 GMT"
     }
   ],
   "Iran": [
@@ -258,10 +262,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel is committing war crimes \u2013 and its legal heads remain silent - The Times of Israel",
-      "pubDate": "Sat, 09 Aug 2025 10:23:28 GMT"
-    },
     {
       "title": "Israel kills five Al Jazeera staff in Gaza City, including Anas al-Sharif - Al Jazeera",
       "pubDate": "Mon, 11 Aug 2025 00:53:59 GMT"
@@ -365,13 +365,13 @@
     {
       "title": "Israel steps up Gaza City attacks while Houthi drone strikes an Israeli airport in rare hit - PBS",
       "pubDate": "Sun, 07 Sep 2025 18:28:47 GMT"
+    },
+    {
+      "title": "At least 5 people killed in Jerusalem shooting: Live updates - CNN",
+      "pubDate": "Mon, 08 Sep 2025 14:22:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia strikes on Kharkiv kill three, injure 17, Ukraine says - Reuters",
-      "pubDate": "Mon, 18 Aug 2025 08:23:18 GMT"
-    },
     {
       "title": "Trump pressures Ukraine to cede Crimea, drop campaign for NATO ahead of Zelenskyy meeting - NBC News",
       "pubDate": "Mon, 18 Aug 2025 13:31:51 GMT"
@@ -527,6 +527,10 @@
     {
       "title": "UN provides urgent support after \u2018massive\u2019 Russian attack across Ukraine - UN News",
       "pubDate": "Sun, 07 Sep 2025 20:30:41 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Kremlin responds after Trump threatens new sanctions on Moscow - The Independent",
+      "pubDate": "Mon, 08 Sep 2025 15:37:27 GMT"
     }
   ],
   "Russia": [
@@ -685,6 +689,10 @@
     {
       "title": "Major Regulatory Shift in Financial Markets: Embracing 24/7 Trading - OneSafe",
       "pubDate": "Sat, 06 Sep 2025 06:14:03 GMT"
+    },
+    {
+      "title": "Stocks rise on rate cut bets, political upheaval unsettles currencies globally - Reuters",
+      "pubDate": "Mon, 08 Sep 2025 15:23:17 GMT"
     }
   ],
   "Recession": [
@@ -857,6 +865,10 @@
     {
       "title": "Exclusive | Chinese Hackers Pretended to Be a Top U.S. Lawmaker During Trade Talks - The Wall Street Journal",
       "pubDate": "Sun, 07 Sep 2025 15:14:26 GMT"
+    },
+    {
+      "title": "China Sends Navy Ship to America's Doorstep - Newsweek",
+      "pubDate": "Mon, 08 Sep 2025 07:37:32 GMT"
     }
   ],
   "AI Safety": [
@@ -983,13 +995,13 @@
     {
       "title": "Google Gemini flagged as \u2018inappropriate and unsafe\u2019 for kids in new AI safety study - The Indian Express",
       "pubDate": "Sat, 06 Sep 2025 07:20:00 GMT"
+    },
+    {
+      "title": "I'm on a hunger strike outside DeepMind's office in London. Here's what I fear most about AI. - Business Insider",
+      "pubDate": "Mon, 08 Sep 2025 09:15:00 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "Google Confirms It Has Been Hacked \u2014 What User Data Has Been Stolen? - Forbes",
-      "pubDate": "Sat, 09 Aug 2025 08:43:00 GMT"
-    },
     {
       "title": "University of Western Australia suffers major data breach, staff and students locked out - Australian Broadcasting Corporation",
       "pubDate": "Mon, 11 Aug 2025 01:54:41 GMT"
@@ -1024,14 +1036,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "In pitch to hacker community, Trump\u2019s NSC cyber lead says AI key to future of cyberdefense - Nextgov/FCW",
-      "pubDate": "Sat, 09 Aug 2025 12:29:50 GMT"
-    },
-    {
-      "title": "Researchers Uncover GPT-5 Jailbreak and Zero-Click AI Agent Attacks Exposing Cloud and IoT Systems - The Hacker News",
-      "pubDate": "Sat, 09 Aug 2025 15:06:00 GMT"
-    },
     {
       "title": "AI agents are being drafted into the cyber defense forces of corporations - CNBC",
       "pubDate": "Sun, 10 Aug 2025 13:00:01 GMT"
@@ -1207,10 +1211,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "These three catalysts will help Bitcoin break $122K - Cointelegraph",
-      "pubDate": "Sat, 09 Aug 2025 10:09:56 GMT"
-    },
-    {
       "title": "Bitcoin nears $122,000, ether hits 2021 high following Trump's crypto 401k announcement - The Block",
       "pubDate": "Mon, 11 Aug 2025 03:26:34 GMT"
     },
@@ -1304,10 +1304,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "Scientists confirm direct link between ultra-processed foods and higher cancer rates - Earth.com",
-      "pubDate": "Sat, 09 Aug 2025 14:38:41 GMT"
-    },
     {
       "title": "One-size-fits-all pancreatic cancer vaccine showed promise in early trial - NBC News",
       "pubDate": "Mon, 11 Aug 2025 15:03:10 GMT"
@@ -1415,10 +1411,6 @@
   ],
   "North Korea": [
     {
-      "title": "North Korea starts dismantling some border loudspeakers, South Korea says - Reuters",
-      "pubDate": "Sat, 09 Aug 2025 07:51:45 GMT"
-    },
-    {
       "title": "Putin holds call with North Korea's Kim, discusses US-Russia talks, Kremlin says - Reuters",
       "pubDate": "Tue, 12 Aug 2025 23:07:43 GMT"
     },
@@ -1436,10 +1428,6 @@
     }
   ],
   "Tesla": [
-    {
-      "title": "Elon Musk confirms Tesla AI6 chip is Project Dojo\u2019s successor - Teslarati",
-      "pubDate": "Sat, 09 Aug 2025 15:31:06 GMT"
-    },
     {
       "title": "Tesla, Rivian, and others see billions in revenue disappear as US officially end emission credits - Electrek",
       "pubDate": "Fri, 15 Aug 2025 15:54:00 GMT"
@@ -1622,10 +1610,6 @@
     }
   ],
   "Geopolitics": [
-    {
-      "title": "Trump Has the Upper Hand Going into His Meeting with Putin - Time Magazine",
-      "pubDate": "Sat, 09 Aug 2025 10:31:45 GMT"
-    },
     {
       "title": "Israel PM Netanyahu thanks Trump for \u2018steadfast support\u2019 in Gaza offensive, says it'll be \u2018wider than announced\u2019 | World News - Hindustan Times - Hindustan Times",
       "pubDate": "Mon, 11 Aug 2025 02:18:37 GMT"
@@ -1815,10 +1799,6 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "Ethereum Explodes to $4.2K, $200 Million Liquidated, Trump Rejoices - CryptoPotato",
-      "pubDate": "Sat, 09 Aug 2025 06:18:23 GMT"
-    },
-    {
       "title": "Ethereum surges past $4,000 as crypto market soars to all-time high over $4 trillion - Fortune",
       "pubDate": "Mon, 11 Aug 2025 16:34:00 GMT"
     },
@@ -1942,10 +1922,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Abrupt Antarctic climate shifts could lead to \"catastrophic consequences for generations,\" experts warn - CBS News",
-      "pubDate": "Wed, 20 Aug 2025 19:34:00 GMT"
-    },
     {
       "title": "Ozone recovery could trigger 40% more global warming than predicted - ScienceDaily",
       "pubDate": "Fri, 22 Aug 2025 08:04:54 GMT"
@@ -2101,6 +2077,10 @@
     {
       "title": "Giant Amazon Trees Can Help Scientists Tackle Climate Change - Eurasia Review",
       "pubDate": "Sun, 07 Sep 2025 22:29:55 GMT"
+    },
+    {
+      "title": "Scientists find a surprising reason why people are eating more sugar - CNN",
+      "pubDate": "Mon, 08 Sep 2025 15:32:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2171,12 +2151,6 @@
     {
       "title": "Tesla offers Elon Musk pay package worth $1 trillion \u2014 with conditions - The Washington Post",
       "pubDate": "Fri, 05 Sep 2025 15:38:01 GMT"
-    }
-  ],
-  "Environment": [
-    {
-      "title": "Brazil\u2019s President Lula vetoes parts of environmental \u2018devastation bill\u2019 - Al Jazeera",
-      "pubDate": "Sat, 09 Aug 2025 05:03:57 GMT"
     }
   ],
   "Volcanoes": [
