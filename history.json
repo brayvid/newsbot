@@ -377,13 +377,13 @@
     {
       "title": "Actors, entertainers pledge to boycott Israeli film institutions over Gaza - Reuters",
       "pubDate": "Mon, 08 Sep 2025 22:09:01 GMT"
+    },
+    {
+      "title": "Israel Attacks Hamas Senior Leadership in Doha, Qatar - The Wall Street Journal",
+      "pubDate": "Tue, 09 Sep 2025 15:05:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia pounds Ukraine, kills more civilians before White House meeting - Al Jazeera",
-      "pubDate": "Mon, 18 Aug 2025 15:25:52 GMT"
-    },
     {
       "title": "Trump Hosts Major Ukraine-Europe Summit on Russia-Ukraine War - Foreign Policy",
       "pubDate": "Mon, 18 Aug 2025 21:57:58 GMT"
@@ -539,6 +539,10 @@
     {
       "title": "Deadly stabbing of Ukrainian refugee on Charlotte light rail raises questions about public safety - CBS News",
       "pubDate": "Mon, 08 Sep 2025 23:47:00 GMT"
+    },
+    {
+      "title": "Russian Glide Bomb Kills at Least 23, Mostly Elderly, in Eastern Ukraine - The Wall Street Journal",
+      "pubDate": "Tue, 09 Sep 2025 15:17:00 GMT"
     }
   ],
   "Russia": [
@@ -568,10 +572,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump promised to be a dictator on day one. We\u2019re now past day 200 - The Guardian",
-      "pubDate": "Sun, 10 Aug 2025 10:01:00 GMT"
-    },
     {
       "title": "Trump warns homeless to leave Washington, D.C., \u2018immediately\u2019 - CNBC",
       "pubDate": "Sun, 10 Aug 2025 16:24:33 GMT"
@@ -718,10 +718,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Philippines Says China Ship Targeted Vessel With Water Cannon - Bloomberg.com",
-      "pubDate": "Mon, 11 Aug 2025 03:15:00 GMT"
-    },
     {
       "title": "China bans Spanish poultry imports due to bird flu - Reuters",
       "pubDate": "Mon, 11 Aug 2025 08:22:25 GMT"
@@ -877,13 +873,13 @@
     {
       "title": "China detains banker son of ex-regulator facing corruption probe - Financial Times",
       "pubDate": "Tue, 09 Sep 2025 04:14:21 GMT"
+    },
+    {
+      "title": "China leads clean energy revolution, but also CO2 pollution, says report - Al Jazeera",
+      "pubDate": "Tue, 09 Sep 2025 12:45:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Concerns grow as AI-generated videos spread hate, racism online: \u2018No safety rules\u2019 - Global News",
-      "pubDate": "Sun, 10 Aug 2025 15:38:49 GMT"
-    },
     {
       "title": "Illinois Researchers Create AI Safety Testing Methods - Mirage News",
       "pubDate": "Tue, 12 Aug 2025 14:32:00 GMT"
@@ -1011,6 +1007,10 @@
     {
       "title": "Concerns raised over Meta's AI chatbots - NBC Bay Area",
       "pubDate": "Tue, 09 Sep 2025 00:17:03 GMT"
+    },
+    {
+      "title": "\"They Can Make Bombs After Being Stripped Down\": AI Safety Researchers Expose Dangerous Efficiency Tradeoffs in Open Source Models - Rude Baguette",
+      "pubDate": "Tue, 09 Sep 2025 12:10:38 GMT"
     }
   ],
   "Data Breach": [
@@ -1052,10 +1052,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "AI agents are being drafted into the cyber defense forces of corporations - CNBC",
-      "pubDate": "Sun, 10 Aug 2025 13:00:01 GMT"
-    },
     {
       "title": "Businesses focus on AI, cloud, despite cyber defense oversights - Cybersecurity Dive",
       "pubDate": "Tue, 19 Aug 2025 14:50:48 GMT"
@@ -1109,6 +1105,10 @@
     {
       "title": "America\u2019s job market flashes yet another warning sign about the economy - CNN",
       "pubDate": "Fri, 05 Sep 2025 18:41:00 GMT"
+    },
+    {
+      "title": "US economy added 911,000 fewer jobs than previously reported in largest-ever revision - ABC News",
+      "pubDate": "Tue, 09 Sep 2025 14:15:00 GMT"
     }
   ],
   "Trade War": [
@@ -1124,10 +1124,6 @@
     }
   ],
   "Atlantic Ocean": [
-    {
-      "title": "Hurricane forecasters eye 'significant tropical threat' in the Atlantic: What to know - USA Today",
-      "pubDate": "Sun, 10 Aug 2025 15:37:13 GMT"
-    },
     {
       "title": "Tropical Storm Erin could become first hurricane in Atlantic Ocean this season - CBS News",
       "pubDate": "Tue, 12 Aug 2025 17:38:35 GMT"
@@ -1603,6 +1599,10 @@
     {
       "title": "University of Sydney scientists solve quantum computing challenge using a single atom - WION",
       "pubDate": "Sat, 06 Sep 2025 09:11:00 GMT"
+    },
+    {
+      "title": "Scientists build quantum computers that snap together like LEGO bricks - ScienceDaily",
+      "pubDate": "Tue, 09 Sep 2025 04:10:00 GMT"
     }
   ],
   "Public Health": [
@@ -1931,10 +1931,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Scientists warn ocean-based climate fixes lack rules and oversight - Mongabay",
-      "pubDate": "Wed, 27 Aug 2025 19:39:34 GMT"
-    },
-    {
       "title": "Climate change made deadly wildfires in Turkey, Greece and Cyprus more fierce, study finds - The Washington Post",
       "pubDate": "Thu, 28 Aug 2025 03:49:24 GMT"
     },
@@ -2089,6 +2085,10 @@
     {
       "title": "North Pacific and north Atlantic seas show record heat in August - Financial Times",
       "pubDate": "Tue, 09 Sep 2025 02:01:04 GMT"
+    },
+    {
+      "title": "Geoengineering Won\u2019t Save Us From Global Warming, New Study Says - Inside Climate News",
+      "pubDate": "Tue, 09 Sep 2025 09:00:00 GMT"
     }
   ],
   "Algorithms": [
