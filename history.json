@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Class-action suit claims Otter AI secretly records private work conversations - NPR",
-      "pubDate": "Sat, 16 Aug 2025 00:44:21 GMT"
-    },
-    {
       "title": "Meta plans fourth restructuring of AI efforts in six months, The Information reports - Reuters",
       "pubDate": "Fri, 15 Aug 2025 22:34:04 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "The negative social and environmental long-term effects of artificial intelligence make it not worth using - North Texas Daily",
       "pubDate": "Sun, 07 Sep 2025 20:00:00 GMT"
+    },
+    {
+      "title": "Google Cloud Leaning On Artificial Intelligence To Gain Market Share, CEO Says - Investor's Business Daily",
+      "pubDate": "Tue, 09 Sep 2025 18:40:00 GMT"
     }
   ],
   "US Politics": [
@@ -253,6 +253,10 @@
     {
       "title": "Trump tells foreign firms to \u2018respect\u2019 immigration laws after Hyundai raid \u2013 US politics live - The Guardian",
       "pubDate": "Mon, 08 Sep 2025 10:14:00 GMT"
+    },
+    {
+      "title": "White House denies that Trump wrote Epstein letter and calls investigation a Democrat \u2018hoax\u2019 \u2013 live - The Guardian",
+      "pubDate": "Tue, 09 Sep 2025 09:37:00 GMT"
     }
   ],
   "Iran": [
@@ -381,6 +385,10 @@
     {
       "title": "Israel Attacks Hamas Senior Leadership in Doha, Qatar - The Wall Street Journal",
       "pubDate": "Tue, 09 Sep 2025 15:05:00 GMT"
+    },
+    {
+      "title": "Israeli Strike on Qatar Upends Gaza Truce Talks, Gulf Arab Ties - Bloomberg.com",
+      "pubDate": "Tue, 09 Sep 2025 17:58:32 GMT"
     }
   ],
   "Ukraine": [
@@ -569,13 +577,13 @@
     {
       "title": "Russia Issues Stern Response to Trump\u2019s Sanctions Threat - Time Magazine",
       "pubDate": "Mon, 08 Sep 2025 13:06:06 GMT"
+    },
+    {
+      "title": "Poland to close Belarus border due to Russia-led military exercises, PM says - Reuters",
+      "pubDate": "Tue, 09 Sep 2025 17:17:50 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump warns homeless to leave Washington, D.C., \u2018immediately\u2019 - CNBC",
-      "pubDate": "Sun, 10 Aug 2025 16:24:33 GMT"
-    },
     {
       "title": "Trump sends 120 FBI agents to DC amid crime crackdown threat: Report - MSN",
       "pubDate": "Sun, 10 Aug 2025 22:52:05 GMT"
@@ -704,10 +712,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "This unprecedented shift in unemployment suggests AI could strand white-collar knowledge workers in a jobless recovery after the next recession - Fortune",
-      "pubDate": "Sun, 10 Aug 2025 20:36:00 GMT"
-    },
     {
       "title": "Over 53% of US Industries Shed Jobs as Recession Fears Rise - AInvest",
       "pubDate": "Sun, 10 Aug 2025 23:04:50 GMT"
@@ -1011,6 +1015,10 @@
     {
       "title": "\"They Can Make Bombs After Being Stripped Down\": AI Safety Researchers Expose Dangerous Efficiency Tradeoffs in Open Source Models - Rude Baguette",
       "pubDate": "Tue, 09 Sep 2025 12:10:38 GMT"
+    },
+    {
+      "title": "Anthropic's Claude Code runs code to test if it is safe \u2013 which might be a big mistake - theregister.com",
+      "pubDate": "Tue, 09 Sep 2025 09:30:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1083,6 +1091,10 @@
     {
       "title": "Noem fires two dozen FEMA employees over alleged cybersecurity gaps - CNN",
       "pubDate": "Fri, 29 Aug 2025 23:13:00 GMT"
+    },
+    {
+      "title": "CrowdStrike CEO: AI is unleashing more adversaries for cybersecurity companies to defeat - Yahoo Finance",
+      "pubDate": "Tue, 09 Sep 2025 16:02:25 GMT"
     }
   ],
   "US Economy": [
@@ -1168,10 +1180,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Magnitude 6.1 earthquake in Turkey causes about a dozen buildings to collapse - PBS",
-      "pubDate": "Sun, 10 Aug 2025 20:14:45 GMT"
-    },
     {
       "title": "Powerful earthquake rocks Turkey, killing 1 and destroying multiple buildings - USA Today",
       "pubDate": "Sun, 10 Aug 2025 22:29:27 GMT"
@@ -1358,10 +1366,6 @@
     }
   ],
   "Hurricanes": [
-    {
-      "title": "First Atlantic hurricane of the 2025 season may form around mid-August - AccuWeather",
-      "pubDate": "Sun, 10 Aug 2025 17:02:18 GMT"
-    },
     {
       "title": "Hurricane Erin strengthens significantly, will impact on Maryland's rip current - WBAL-TV",
       "pubDate": "Sun, 17 Aug 2025 01:30:00 GMT"
@@ -1931,10 +1935,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Climate change made deadly wildfires in Turkey, Greece and Cyprus more fierce, study finds - The Washington Post",
-      "pubDate": "Thu, 28 Aug 2025 03:49:24 GMT"
-    },
-    {
       "title": "Businesses can use climate science to boost the bottom line - The World Economic Forum",
       "pubDate": "Thu, 28 Aug 2025 11:00:00 GMT"
     },
@@ -2089,6 +2089,10 @@
     {
       "title": "Geoengineering Won\u2019t Save Us From Global Warming, New Study Says - Inside Climate News",
       "pubDate": "Tue, 09 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Scientists \"Shocked\" At New Forecasts On Tipping Point For Key Atlantic Current - Afloat",
+      "pubDate": "Tue, 09 Sep 2025 10:50:44 GMT"
     }
   ],
   "Algorithms": [
