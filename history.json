@@ -373,13 +373,13 @@
     {
       "title": "Israel warns of 'mighty hurricane' in Gaza if Hamas does not surrender - Reuters",
       "pubDate": "Mon, 08 Sep 2025 17:59:42 GMT"
+    },
+    {
+      "title": "Actors, entertainers pledge to boycott Israeli film institutions over Gaza - Reuters",
+      "pubDate": "Mon, 08 Sep 2025 22:09:01 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Trump pressures Ukraine to cede Crimea, drop campaign for NATO ahead of Zelenskyy meeting - NBC News",
-      "pubDate": "Mon, 18 Aug 2025 13:31:51 GMT"
-    },
     {
       "title": "Russia pounds Ukraine, kills more civilians before White House meeting - Al Jazeera",
       "pubDate": "Mon, 18 Aug 2025 15:25:52 GMT"
@@ -535,6 +535,10 @@
     {
       "title": "Ukraine war latest: Kremlin responds after Trump threatens new sanctions on Moscow - The Independent",
       "pubDate": "Mon, 08 Sep 2025 15:37:27 GMT"
+    },
+    {
+      "title": "Deadly stabbing of Ukrainian refugee on Charlotte light rail raises questions about public safety - CBS News",
+      "pubDate": "Mon, 08 Sep 2025 23:47:00 GMT"
     }
   ],
   "Russia": [
@@ -715,10 +719,6 @@
   ],
   "China": [
     {
-      "title": "Chinese diplomat Liu Jianchao taken in for questioning, WSJ reports - CNBC",
-      "pubDate": "Sun, 10 Aug 2025 05:16:47 GMT"
-    },
-    {
       "title": "Philippines Says China Ship Targeted Vessel With Water Cannon - Bloomberg.com",
       "pubDate": "Mon, 11 Aug 2025 03:15:00 GMT"
     },
@@ -873,13 +873,13 @@
     {
       "title": "China Sends Navy Ship to America's Doorstep - Newsweek",
       "pubDate": "Mon, 08 Sep 2025 07:37:32 GMT"
+    },
+    {
+      "title": "China detains banker son of ex-regulator facing corruption probe - Financial Times",
+      "pubDate": "Tue, 09 Sep 2025 04:14:21 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "GPT-5 Jailbroken in 24 Hours, Exposing AI Security Risks - WebProNews",
-      "pubDate": "Sun, 10 Aug 2025 02:08:00 GMT"
-    },
     {
       "title": "Concerns grow as AI-generated videos spread hate, racism online: \u2018No safety rules\u2019 - Global News",
       "pubDate": "Sun, 10 Aug 2025 15:38:49 GMT"
@@ -1007,6 +1007,10 @@
     {
       "title": "Anthropic is endorsing SB 53 - Anthropic",
       "pubDate": "Mon, 08 Sep 2025 12:28:13 GMT"
+    },
+    {
+      "title": "Concerns raised over Meta's AI chatbots - NBC Bay Area",
+      "pubDate": "Tue, 09 Sep 2025 00:17:03 GMT"
     }
   ],
   "Data Breach": [
@@ -1114,10 +1118,6 @@
     }
   ],
   "Asteroids": [
-    {
-      "title": "Meteorite older than Earth smashes house roof in Georgia; scientists trace rock to asteroid belt - video - Times of India",
-      "pubDate": "Sun, 10 Aug 2025 02:55:00 GMT"
-    },
     {
       "title": "Plane-Size Asteroid Approaching Earth, NASA Reports - Newsweek",
       "pubDate": "Fri, 22 Aug 2025 14:25:51 GMT"
@@ -1931,10 +1931,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Scientists give harsh grades to Trump administration work aimed at undoing a key climate finding - The Boston Globe",
-      "pubDate": "Tue, 26 Aug 2025 17:27:39 GMT"
-    },
-    {
       "title": "Scientists warn ocean-based climate fixes lack rules and oversight - Mongabay",
       "pubDate": "Wed, 27 Aug 2025 19:39:34 GMT"
     },
@@ -2089,6 +2085,10 @@
     {
       "title": "Mosquitos at the US southern border reveal a frightening reality about climate change - vox.com",
       "pubDate": "Mon, 08 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "North Pacific and north Atlantic seas show record heat in August - Financial Times",
+      "pubDate": "Tue, 09 Sep 2025 02:01:04 GMT"
     }
   ],
   "Algorithms": [
