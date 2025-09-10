@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Meta plans fourth restructuring of AI efforts in six months, The Information reports - Reuters",
-      "pubDate": "Fri, 15 Aug 2025 22:34:04 GMT"
-    },
-    {
       "title": "Is AI Truly Creative? Here Is the Ultimate Test - mindmatters.ai",
       "pubDate": "Sat, 16 Aug 2025 16:06:50 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Google Cloud Leaning On Artificial Intelligence To Gain Market Share, CEO Says - Investor's Business Daily",
       "pubDate": "Tue, 09 Sep 2025 18:40:00 GMT"
+    },
+    {
+      "title": "Meet the Artificial Intelligence (AI) Stock That Is Crushing Nvidia and Palantir on the Market - Nasdaq",
+      "pubDate": "Wed, 10 Sep 2025 09:25:00 GMT"
     }
   ],
   "US Politics": [
@@ -261,6 +261,10 @@
     {
       "title": "House Democrats probe Trump official Bill Pulte for targeting Lisa Cook and Adam Schiff - Axios",
       "pubDate": "Tue, 09 Sep 2025 23:16:10 GMT"
+    },
+    {
+      "title": "Kamala Harris calls Joe Biden\u2019s choice to run for 2024 re-election \u2018reckless\u2019 in new book \u2013 live updates - The Guardian",
+      "pubDate": "Wed, 10 Sep 2025 09:58:00 GMT"
     }
   ],
   "Iran": [
@@ -389,6 +393,10 @@
     {
       "title": "Israeli Strike on Qatar Upends Gaza Truce Talks, Gulf Arab Ties - Bloomberg.com",
       "pubDate": "Tue, 09 Sep 2025 17:58:32 GMT"
+    },
+    {
+      "title": "Israel attacks Yemen\u2019s capital, Sanaa, a day after bombing Qatar\u2019s Doha - Al Jazeera",
+      "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT"
     }
   ],
   "Ukraine": [
@@ -581,13 +589,13 @@
     {
       "title": "Poland to close Belarus border due to Russia-led military exercises, PM says - Reuters",
       "pubDate": "Tue, 09 Sep 2025 17:17:50 GMT"
+    },
+    {
+      "title": "NATO Says It Scrambled Fighter Jets to Shoot Down Russian Drones Over Poland - The New York Times",
+      "pubDate": "Wed, 10 Sep 2025 15:12:27 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump federalizes DC police, deploys National Guard - NBC4 Washington",
-      "pubDate": "Mon, 11 Aug 2025 12:39:19 GMT"
-    },
     {
       "title": "Trump names Gaynor, Kiss, Sylvester Stallone as Kennedy Center Honors picks - Al Jazeera",
       "pubDate": "Wed, 13 Aug 2025 20:03:45 GMT"
@@ -714,10 +722,6 @@
     }
   ],
   "China": [
-    {
-      "title": "What Trump's Nvidia and AMD China deal means for the world - CNBC",
-      "pubDate": "Mon, 11 Aug 2025 12:27:06 GMT"
-    },
     {
       "title": "China, Brazil can be models of \u2018self-reliance\u2019 for Global South, Xi says - Al Jazeera",
       "pubDate": "Tue, 12 Aug 2025 07:30:00 GMT"
@@ -1007,6 +1011,10 @@
     {
       "title": "Anthropic's Claude Code runs code to test if it is safe \u2013 which might be a big mistake - theregister.com",
       "pubDate": "Tue, 09 Sep 2025 09:30:00 GMT"
+    },
+    {
+      "title": "AI\u2019s national\u2011security risks are falling through the gaps - The Strategist | ASPI's analysis and commentary site",
+      "pubDate": "Wed, 10 Sep 2025 05:32:22 GMT"
     }
   ],
   "Data Breach": [
@@ -1292,10 +1300,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "One-size-fits-all pancreatic cancer vaccine showed promise in early trial - NBC News",
-      "pubDate": "Mon, 11 Aug 2025 15:03:10 GMT"
-    },
     {
       "title": "Bayer to Pay $1.3 Billion for Kumquat Cancer Drug in Pharma Push - Bloomberg.com",
       "pubDate": "Tue, 12 Aug 2025 07:28:11 GMT"
@@ -1861,10 +1865,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "OpenAI's GPT-5 struggles with maps and math despite PhD-level promises - Quartz",
-      "pubDate": "Mon, 11 Aug 2025 14:39:00 GMT"
-    },
-    {
       "title": "Meta AI takes first step to superintelligence \u2014 and Zuckerberg will no longer release the most powerful systems to the public - Live Science",
       "pubDate": "Tue, 12 Aug 2025 11:00:00 GMT"
     },
@@ -1910,10 +1910,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Collapse of critical Atlantic current is no longer low-likelihood, study finds - The Guardian",
-      "pubDate": "Thu, 28 Aug 2025 16:44:00 GMT"
-    },
     {
       "title": "Only 3 Years Left: Scientists Warn Earth\u2019s 1.5\u00b0C Carbon Budget Is Almost Gone - SciTechDaily",
       "pubDate": "Thu, 28 Aug 2025 22:11:41 GMT"
@@ -2069,6 +2065,10 @@
     {
       "title": "Why climate change could ramp up our sugar intake - The Washington Post",
       "pubDate": "Wed, 10 Sep 2025 02:50:26 GMT"
+    },
+    {
+      "title": "Scientists trace heat waves back to individual fossil fuel companies, with potentially sweeping courtroom implications - CNN",
+      "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2086,10 +2086,6 @@
     }
   ],
   "Battery Electric Vehicle": [
-    {
-      "title": "Ford\u2019s Radical $5 Billion Plan Could Slash EV Prices in Half - autoblog.com",
-      "pubDate": "Mon, 11 Aug 2025 14:30:00 GMT"
-    },
     {
       "title": "Record number of EVs registered in western Europe across last quarter - The Guardian",
       "pubDate": "Sun, 17 Aug 2025 16:19:00 GMT"
