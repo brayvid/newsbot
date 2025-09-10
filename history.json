@@ -267,10 +267,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel kills five Al Jazeera staff in Gaza City, including Anas al-Sharif - Al Jazeera",
-      "pubDate": "Mon, 11 Aug 2025 00:53:59 GMT"
-    },
-    {
       "title": "Israel Cyber Directorate employee arrested in America - The Jerusalem Post",
       "pubDate": "Sat, 16 Aug 2025 12:31:23 GMT"
     },
@@ -392,10 +388,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Trump Hosts Major Ukraine-Europe Summit on Russia-Ukraine War - Foreign Policy",
-      "pubDate": "Mon, 18 Aug 2025 21:57:58 GMT"
-    },
     {
       "title": "Russia bombards Ukrainian city hours after Washington summit - Reuters",
       "pubDate": "Tue, 19 Aug 2025 14:28:48 GMT"
@@ -551,6 +543,10 @@
     {
       "title": "Russian Glide Bomb Kills at Least 23, Mostly Elderly, in Eastern Ukraine - The Wall Street Journal",
       "pubDate": "Tue, 09 Sep 2025 15:17:00 GMT"
+    },
+    {
+      "title": "Poland says its airspace was \u2018repeatedly violated\u2019 during Russian strikes on Ukraine - The Hill",
+      "pubDate": "Wed, 10 Sep 2025 03:34:00 GMT"
     }
   ],
   "Russia": [
@@ -584,10 +580,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump sends 120 FBI agents to DC amid crime crackdown threat: Report - MSN",
-      "pubDate": "Sun, 10 Aug 2025 22:52:05 GMT"
-    },
     {
       "title": "Trump federalizes DC police, deploys National Guard - NBC4 Washington",
       "pubDate": "Mon, 11 Aug 2025 12:39:19 GMT"
@@ -712,10 +704,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "Over 53% of US Industries Shed Jobs as Recession Fears Rise - AInvest",
-      "pubDate": "Sun, 10 Aug 2025 23:04:50 GMT"
-    },
     {
       "title": "A third of the U.S. economy is already in a recession or at high risk, and another third is stagnating, Zandi warns - Fortune",
       "pubDate": "Mon, 25 Aug 2025 07:02:00 GMT"
@@ -1023,10 +1011,6 @@
   ],
   "Data Breach": [
     {
-      "title": "University of Western Australia suffers major data breach, staff and students locked out - Australian Broadcasting Corporation",
-      "pubDate": "Mon, 11 Aug 2025 01:54:41 GMT"
-    },
-    {
       "title": "Data breach: Russian link suspected in US federal court hack; sensitive information compromised in yearlo - Times of India",
       "pubDate": "Wed, 13 Aug 2025 03:48:00 GMT"
     },
@@ -1181,10 +1165,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Powerful earthquake rocks Turkey, killing 1 and destroying multiple buildings - USA Today",
-      "pubDate": "Sun, 10 Aug 2025 22:29:27 GMT"
-    },
-    {
       "title": "Massive landslide in Alaska triggers damaging tsunami with 10-15 foot waves - FOX Weather",
       "pubDate": "Wed, 13 Aug 2025 15:27:47 GMT"
     },
@@ -1226,10 +1206,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin nears $122,000, ether hits 2021 high following Trump's crypto 401k announcement - The Block",
-      "pubDate": "Mon, 11 Aug 2025 03:26:34 GMT"
-    },
     {
       "title": "Bitcoin price today: surges to $122k, near record high on US regulatory cheer - Investing.com",
       "pubDate": "Mon, 11 Aug 2025 05:32:07 GMT"
@@ -1622,10 +1598,6 @@
     }
   ],
   "Geopolitics": [
-    {
-      "title": "Israel PM Netanyahu thanks Trump for \u2018steadfast support\u2019 in Gaza offensive, says it'll be \u2018wider than announced\u2019 | World News - Hindustan Times - Hindustan Times",
-      "pubDate": "Mon, 11 Aug 2025 02:18:37 GMT"
-    },
     {
       "title": "Israel announces a settlement project that critics say will effectively cut the West Bank in two - AP News",
       "pubDate": "Thu, 14 Aug 2025 17:34:00 GMT"
