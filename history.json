@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Exclusive: Nvidia working on new AI chip for China that outperforms the H20, sources say - Reuters",
-      "pubDate": "Tue, 19 Aug 2025 06:54:00 GMT"
-    },
-    {
       "title": "Why our values will determine humanity\u2019s future. - Psychology Today",
       "pubDate": "Tue, 19 Aug 2025 15:09:52 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "OpenAI CEO Sam Altman fears ChatGPT could be used to create a COVID-style pandemic | Hindustan Times - Hindustan Times",
       "pubDate": "Thu, 11 Sep 2025 13:00:32 GMT"
+    },
+    {
+      "title": "Albania appoints AI bot as minister to tackle corruption - Reuters",
+      "pubDate": "Thu, 11 Sep 2025 14:40:48 GMT"
     }
   ],
   "US Politics": [
@@ -413,13 +413,13 @@
     {
       "title": "\u2018Whoever Attacks Us, We Will Reach Them\u2019: After Qatar, Israel Fires on Yemen - The New York Times",
       "pubDate": "Wed, 10 Sep 2025 19:25:18 GMT"
+    },
+    {
+      "title": "Satellite images show Israel has totally destroyed areas of Gaza City - Al Jazeera",
+      "pubDate": "Thu, 11 Sep 2025 17:56:16 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Why Ukraine won\u2019t just give up its territory - vox.com",
-      "pubDate": "Tue, 19 Aug 2025 17:40:00 GMT"
-    },
     {
       "title": "Russia launches hundreds of drones and missiles at Ukraine in largest attack in weeks - France 24",
       "pubDate": "Thu, 21 Aug 2025 06:43:55 GMT"
@@ -575,6 +575,10 @@
     {
       "title": "IMF Sees Up to $20 Billion Hole in Ukraine Funding Through 2027 - Bloomberg.com",
       "pubDate": "Thu, 11 Sep 2025 11:16:42 GMT"
+    },
+    {
+      "title": "Ukraine Launches Remote Military Medical Commissions and Unified Health Standards for Defense Forces - \u0411\u0443\u043a\u0432\u0438",
+      "pubDate": "Thu, 11 Sep 2025 14:09:49 GMT"
     }
   ],
   "Russia": [
@@ -617,6 +621,10 @@
     {
       "title": "Experts react: Poland just shot down Russian drones over its territory. Is Putin ramping up his war on Europe? - Atlantic Council",
       "pubDate": "Wed, 10 Sep 2025 17:53:00 GMT"
+    },
+    {
+      "title": "Emergency UN security council meeting convened after Russian drone incursion into Poland - The Guardian",
+      "pubDate": "Thu, 11 Sep 2025 15:26:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -695,6 +703,10 @@
     {
       "title": "Trump's Artificial Intelligence Policy: The Dangerous Gamble of Unregulated AI - Tolerance.ca",
       "pubDate": "Sun, 07 Sep 2025 10:09:20 GMT"
+    },
+    {
+      "title": "Trump admin escalates space race with China, banning visa-holding scientists from working at NASA - CNN",
+      "pubDate": "Thu, 11 Sep 2025 19:48:00 GMT"
     }
   ],
   "National Security": [
@@ -746,10 +758,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Philippine coast guard video shows Chinese ships collide while chasing Philippine boat in disputed waters - CBS News",
-      "pubDate": "Tue, 12 Aug 2025 16:55:19 GMT"
-    },
     {
       "title": "China Sanctions Two EU Banks, Hitting Back at Europe\u2019s Moves - Bloomberg.com",
       "pubDate": "Wed, 13 Aug 2025 12:01:39 GMT"
@@ -893,6 +901,10 @@
     {
       "title": "China leads clean energy revolution, but also CO2 pollution, says report - Al Jazeera",
       "pubDate": "Tue, 09 Sep 2025 12:45:00 GMT"
+    },
+    {
+      "title": "Nasa bans Chinese nationals from working on its space programmes - BBC",
+      "pubDate": "Thu, 11 Sep 2025 10:34:01 GMT"
     }
   ],
   "AI Safety": [
@@ -1115,10 +1127,6 @@
   ],
   "US Economy": [
     {
-      "title": "US national debt reaches a record $37 trillion, the Treasury Department reports - The Sun Chronicle",
-      "pubDate": "Tue, 12 Aug 2025 20:29:13 GMT"
-    },
-    {
       "title": "US will dodge recession, but Trump's policies will slow economic growth: Report - USA Today",
       "pubDate": "Sat, 16 Aug 2025 09:07:13 GMT"
     },
@@ -1152,10 +1160,6 @@
     }
   ],
   "Atlantic Ocean": [
-    {
-      "title": "Tropical Storm Erin could become first hurricane in Atlantic Ocean this season - CBS News",
-      "pubDate": "Tue, 12 Aug 2025 17:38:35 GMT"
-    },
     {
       "title": "Hurricane Erin explodes in strength to a Category 5 storm in the Caribbean - ABC7 Chicago",
       "pubDate": "Sat, 16 Aug 2025 15:32:48 GMT"
@@ -1314,10 +1318,6 @@
     }
   ],
   "Renewable Energy": [
-    {
-      "title": "Black metal could give a heavy boost to solar power generation - University of Rochester",
-      "pubDate": "Tue, 12 Aug 2025 18:30:27 GMT"
-    },
     {
       "title": "Trump halts work on New England offshore wind project that's nearly complete - ABC News",
       "pubDate": "Sat, 23 Aug 2025 17:28:13 GMT"
@@ -1807,10 +1807,6 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "Do Kwon, Crypto Founder Who Caused 2022 Market Crash, Pleads Guilty to Fraud - The New York Times",
-      "pubDate": "Tue, 12 Aug 2025 18:02:30 GMT"
-    },
-    {
       "title": "Bitcoin drops below $119K after US Treasury secretary rules out new BTC buys - Cointelegraph",
       "pubDate": "Thu, 14 Aug 2025 13:45:09 GMT"
     },
@@ -1914,10 +1910,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Florida\u2019s once-pristine springs threatened by pollution, development and climate change - AP News",
-      "pubDate": "Fri, 29 Aug 2025 13:05:00 GMT"
-    },
     {
       "title": "How Katrina became 'the storm that told us what was to come' for climate and insurance - USA Today",
       "pubDate": "Fri, 29 Aug 2025 23:52:09 GMT"
@@ -2073,6 +2065,10 @@
     {
       "title": "Systematic attribution of heatwaves to the emissions of carbon majors - Nature",
       "pubDate": "Wed, 10 Sep 2025 16:09:13 GMT"
+    },
+    {
+      "title": "UK Rejects Proposals to Block Out Sun to Curb Climate Change - Bloomberg.com",
+      "pubDate": "Thu, 11 Sep 2025 13:03:38 GMT"
     }
   ],
   "Algorithms": [
