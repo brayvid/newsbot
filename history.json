@@ -163,14 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump-Appointed Judge Deals Legal Blow To The White House - Newsweek",
-      "pubDate": "Mon, 11 Aug 2025 23:50:50 GMT"
-    },
-    {
-      "title": "Trump-backed judge rules administration\u2019s withholding of funds illegal - Politico",
-      "pubDate": "Tue, 12 Aug 2025 00:58:49 GMT"
-    },
-    {
       "title": "White House defends DC takeover of police after city alleges \u2018brazen usurpation\u2019 in lawsuit against Trump administration \u2013 live - The Guardian",
       "pubDate": "Fri, 15 Aug 2025 09:38:00 GMT"
     },
@@ -269,6 +261,10 @@
     {
       "title": "Conservative activist Charlie Kirk shot at Utah college event - WHYY",
       "pubDate": "Wed, 10 Sep 2025 20:45:46 GMT"
+    },
+    {
+      "title": "Trump blames rhetoric from the left for political violence after Charlie Kirk murder - NPR",
+      "pubDate": "Thu, 11 Sep 2025 02:47:44 GMT"
     }
   ],
   "Iran": [
@@ -405,6 +401,10 @@
     {
       "title": "Israel's strike in Qatar draws rare U.S. criticism and the Supreme Court agrees to an expedited hearing on tariffs: Morning Rundown - NBC News",
       "pubDate": "Wed, 10 Sep 2025 11:16:29 GMT"
+    },
+    {
+      "title": "\u2018Whoever Attacks Us, We Will Reach Them\u2019: After Qatar, Israel Fires on Yemen - The New York Times",
+      "pubDate": "Wed, 10 Sep 2025 19:25:18 GMT"
     }
   ],
   "Ukraine": [
@@ -605,6 +605,10 @@
     {
       "title": "Poland dismisses Russia\u2019s claim drone incursion was unintentional as Ukraine calls for joint European air defence system \u2013 as it happened - The Guardian",
       "pubDate": "Wed, 10 Sep 2025 19:31:00 GMT"
+    },
+    {
+      "title": "Experts react: Poland just shot down Russian drones over its territory. Is Putin ramping up his war on Europe? - Atlantic Council",
+      "pubDate": "Wed, 10 Sep 2025 17:53:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -1031,6 +1035,10 @@
     {
       "title": "A False Confidence in the EU AI Act: Epistemic Gaps and Bureaucratic Traps - Tech Policy Press",
       "pubDate": "Wed, 10 Sep 2025 13:16:10 GMT"
+    },
+    {
+      "title": "Key GOP Senator Opens AI Regulation Debate Urging a Light Touch - Bloomberg.com",
+      "pubDate": "Wed, 10 Sep 2025 17:26:56 GMT"
     }
   ],
   "Data Breach": [
@@ -1607,6 +1615,10 @@
     {
       "title": "PsiQuantum raises $1 billion to build quantum computers - Cryptopolitan",
       "pubDate": "Wed, 10 Sep 2025 15:30:00 GMT"
+    },
+    {
+      "title": "Nvidia Just Placed a $1 Billion Quantum Bet--Here's What's Coming Next - Yahoo Finance",
+      "pubDate": "Wed, 10 Sep 2025 18:50:05 GMT"
     }
   ],
   "Public Health": [
@@ -1859,10 +1871,6 @@
   ],
   "Apple": [
     {
-      "title": "Musk threatens 'immediate' legal action against Apple over alleged antitrust violations - CNBC",
-      "pubDate": "Tue, 12 Aug 2025 01:39:00 GMT"
-    },
-    {
       "title": "Apple\u2019s AI Ambitions Leave Big Questions Over Its Climate Goals - WIRED",
       "pubDate": "Tue, 12 Aug 2025 10:30:00 GMT"
     },
@@ -1926,10 +1934,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Imminent Risk of Atlantic Ocean Circulation Collapse Demands Urgent Emission Cuts - mezha.net",
-      "pubDate": "Fri, 29 Aug 2025 05:19:39 GMT"
-    },
     {
       "title": "Florida\u2019s once-pristine springs threatened by pollution, development and climate change - AP News",
       "pubDate": "Fri, 29 Aug 2025 13:05:00 GMT"
@@ -2085,6 +2089,10 @@
     {
       "title": "One in four heatwaves impossible without climate change, study finds - The Independent",
       "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Systematic attribution of heatwaves to the emissions of carbon majors - Nature",
+      "pubDate": "Wed, 10 Sep 2025 16:09:13 GMT"
     }
   ],
   "Algorithms": [
@@ -2263,10 +2271,6 @@
   ],
   "Drones": [
     {
-      "title": "Russia\u2019s Shahed-136 Drones Are Laying Anti-Tank Mines - The War Zone",
-      "pubDate": "Mon, 11 Aug 2025 23:41:51 GMT"
-    },
-    {
       "title": "Pentagon to Launch \u201cAmazon for Drones\u201d Inspired by Ukraine\u2019s Battlefield Tech Hub - UNITED24 Media",
       "pubDate": "Tue, 12 Aug 2025 10:28:30 GMT"
     },
@@ -2292,10 +2296,6 @@
     }
   ],
   "Business": [
-    {
-      "title": "At least 2 dead in Pennsylvania US Steel plant explosion, dozens injured - Fox Business",
-      "pubDate": "Tue, 12 Aug 2025 01:26:31 GMT"
-    },
     {
       "title": "Kodak cautions there's 'substantial doubt' about its ability to stay in business - ABC News",
       "pubDate": "Tue, 12 Aug 2025 14:33:41 GMT"
@@ -2411,6 +2411,10 @@
     {
       "title": "Scientists Prepare to Study Mars Rock With Signs of Ancient Life - extremetech.com",
       "pubDate": "Tue, 19 Aug 2025 11:00:00 GMT"
+    },
+    {
+      "title": "'Incredibly exciting': NASA claims it's found the 'clearest sign' yet of past life on Mars - Live Science",
+      "pubDate": "Wed, 10 Sep 2025 18:11:00 GMT"
     }
   ],
   "Protest": [
