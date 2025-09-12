@@ -425,6 +425,10 @@
     {
       "title": "UN Security Council members condemn Israel over deadly strike on Qatar - Al Jazeera",
       "pubDate": "Thu, 11 Sep 2025 23:32:10 GMT"
+    },
+    {
+      "title": "Israel\u2019s Netanyahu says \u2018there will be no Palestinian state\u2019 - Al Jazeera",
+      "pubDate": "Thu, 11 Sep 2025 21:18:54 GMT"
     }
   ],
   "Ukraine": [
@@ -633,6 +637,10 @@
     {
       "title": "Emergency UN security council meeting convened after Russian drone incursion into Poland - The Guardian",
       "pubDate": "Thu, 11 Sep 2025 15:26:00 GMT"
+    },
+    {
+      "title": "NATO isn\u2019t ready for Russia\u2019s drones - politico.eu",
+      "pubDate": "Fri, 12 Sep 2025 03:20:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -715,6 +723,10 @@
     {
       "title": "Trump admin escalates space race with China, banning visa-holding scientists from working at NASA - CNN",
       "pubDate": "Thu, 11 Sep 2025 19:48:00 GMT"
+    },
+    {
+      "title": "Trump stands by as Putin and Netanyahu cross new lines - Axios",
+      "pubDate": "Fri, 12 Sep 2025 08:33:56 GMT"
     }
   ],
   "National Security": [
@@ -913,13 +925,13 @@
     {
       "title": "Nasa bans Chinese nationals from working on its space programmes - BBC",
       "pubDate": "Thu, 11 Sep 2025 10:34:01 GMT"
+    },
+    {
+      "title": "China warns Mexico to 'think twice' before raising tariffs, threatens countermeasures - CNBC",
+      "pubDate": "Fri, 12 Sep 2025 01:36:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI Safety, The Human Line Project: LLMs Sycophancy or They Know Too Much? - WorldHealth.net",
-      "pubDate": "Wed, 13 Aug 2025 07:00:00 GMT"
-    },
     {
       "title": "AI security governance converts disorder into deliberate innovation - Help Net Security",
       "pubDate": "Thu, 14 Aug 2025 06:00:01 GMT"
@@ -1063,6 +1075,10 @@
     {
       "title": "FTC opens inquiry into how AI chatbots impact child safety, privacy - The Record from Recorded Future News",
       "pubDate": "Thu, 11 Sep 2025 17:22:54 GMT"
+    },
+    {
+      "title": "Growing use of AI brings increased contractual, insurance and regulatory risks - Offshore Magazine",
+      "pubDate": "Fri, 12 Sep 2025 00:09:19 GMT"
     }
   ],
   "Data Breach": [
@@ -1853,6 +1869,10 @@
     {
       "title": "Gemini IPO Prices High After Winklevoss Crypto Exchange Raised Expected Range - Investor's Business Daily",
       "pubDate": "Thu, 11 Sep 2025 22:54:00 GMT"
+    },
+    {
+      "title": "Bitcoin price today: rises to $115k on rate cut cheer, but caution remains - Investing.com",
+      "pubDate": "Fri, 12 Sep 2025 06:33:56 GMT"
     }
   ],
   "Science": [
@@ -1922,10 +1942,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "How Katrina became 'the storm that told us what was to come' for climate and insurance - USA Today",
-      "pubDate": "Fri, 29 Aug 2025 23:52:09 GMT"
-    },
     {
       "title": "Europe faces stormy future as climate change increases supercell risk - Euronews.com",
       "pubDate": "Sat, 30 Aug 2025 06:03:47 GMT"
@@ -2081,6 +2097,10 @@
     {
       "title": "UK Rejects Proposals to Block Out Sun to Curb Climate Change - Bloomberg.com",
       "pubDate": "Thu, 11 Sep 2025 13:03:38 GMT"
+    },
+    {
+      "title": "This year\u2019s fires are only the beginning \u2013 Economy and ecology - ips-journal.eu",
+      "pubDate": "Fri, 12 Sep 2025 07:27:08 GMT"
     }
   ],
   "Algorithms": [
@@ -2136,10 +2156,6 @@
     }
   ],
   "Electric Vehicle": [
-    {
-      "title": "Global EV sales up 21% year-on-year - Electric Cars Report",
-      "pubDate": "Wed, 13 Aug 2025 08:57:52 GMT"
-    },
     {
       "title": "In China, EVs are now cheaper than gas cars. In the U.S., the Big Three still haven\u2019t closed a premium that\u2019s $14,000 per vehicle - Fortune",
       "pubDate": "Tue, 26 Aug 2025 08:38:27 GMT"
@@ -2276,10 +2292,6 @@
     }
   ],
   "Algorithmic Trading": [
-    {
-      "title": "India markets regulator proposes to add algo trading into stock broker regulations - Reuters",
-      "pubDate": "Wed, 13 Aug 2025 08:20:10 GMT"
-    },
     {
       "title": "Former Peel Hunt electronic trading head joins Berenberg to bolster algorithmic offering - The TRADE",
       "pubDate": "Thu, 14 Aug 2025 11:13:03 GMT"
