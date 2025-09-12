@@ -277,6 +277,10 @@
     {
       "title": "Why the U.S. is experiencing heightened political violence - PBS",
       "pubDate": "Thu, 11 Sep 2025 22:45:31 GMT"
+    },
+    {
+      "title": "Utah Gov. Spencer Cox Asks for Offramp on Political Violence - The Wall Street Journal",
+      "pubDate": "Fri, 12 Sep 2025 14:32:33 GMT"
     }
   ],
   "Iran": [
@@ -429,6 +433,10 @@
     {
       "title": "Israel\u2019s Netanyahu says \u2018there will be no Palestinian state\u2019 - Al Jazeera",
       "pubDate": "Thu, 11 Sep 2025 21:18:54 GMT"
+    },
+    {
+      "title": "UN overwhelmingly endorses declaration on two-state solution for Israel, Palestinians - Reuters",
+      "pubDate": "Fri, 12 Sep 2025 15:12:34 GMT"
     }
   ],
   "Ukraine": [
@@ -641,6 +649,10 @@
     {
       "title": "NATO isn\u2019t ready for Russia\u2019s drones - politico.eu",
       "pubDate": "Fri, 12 Sep 2025 03:20:00 GMT"
+    },
+    {
+      "title": "Russia just said what Ukraine has been trying to tell Trump for months: Peace talks are going nowhere fast - CNN",
+      "pubDate": "Fri, 12 Sep 2025 14:52:12 GMT"
     }
   ],
   "Donald Trump": [
@@ -727,6 +739,10 @@
     {
       "title": "Trump stands by as Putin and Netanyahu cross new lines - Axios",
       "pubDate": "Fri, 12 Sep 2025 08:33:56 GMT"
+    },
+    {
+      "title": "Trump says Memphis is next target for National Guard crime crackdown - Politico",
+      "pubDate": "Fri, 12 Sep 2025 14:12:07 GMT"
     }
   ],
   "National Security": [
@@ -778,10 +794,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China Sanctions Two EU Banks, Hitting Back at Europe\u2019s Moves - Bloomberg.com",
-      "pubDate": "Wed, 13 Aug 2025 12:01:39 GMT"
-    },
     {
       "title": "China to Send Top Envoy to India as Ties Warm After US Tariffs - Bloomberg.com",
       "pubDate": "Thu, 14 Aug 2025 07:22:33 GMT"
@@ -1079,6 +1091,10 @@
     {
       "title": "Growing use of AI brings increased contractual, insurance and regulatory risks - Offshore Magazine",
       "pubDate": "Fri, 12 Sep 2025 00:09:19 GMT"
+    },
+    {
+      "title": "The new AI policy rulebook - Axios",
+      "pubDate": "Fri, 12 Sep 2025 09:01:50 GMT"
     }
   ],
   "Data Breach": [
@@ -1147,6 +1163,10 @@
     {
       "title": "CrowdStrike CEO: AI is unleashing more adversaries for cybersecurity companies to defeat - Yahoo Finance",
       "pubDate": "Tue, 09 Sep 2025 16:02:25 GMT"
+    },
+    {
+      "title": "AI for ATO: Pentagon seeks AI to streamline cumbersome cybersecurity processes - Breaking Defense",
+      "pubDate": "Fri, 12 Sep 2025 13:51:53 GMT"
     }
   ],
   "US Economy": [
@@ -1224,10 +1244,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Massive landslide in Alaska triggers damaging tsunami with 10-15 foot waves - FOX Weather",
-      "pubDate": "Wed, 13 Aug 2025 15:27:47 GMT"
-    },
     {
       "title": "Scientists issue chilling warning about 'The Big One' earthquake predicted to be one of history's most devastating - LADbible",
       "pubDate": "Thu, 14 Aug 2025 07:19:47 GMT"
@@ -1348,10 +1364,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "New treatment eliminates bladder cancer in 82% of patients - Keck Medicine of USC",
-      "pubDate": "Wed, 13 Aug 2025 14:00:00 GMT"
-    },
     {
       "title": "Cowboys owner Jerry Jones reveals cancer diagnosis and credits experimental drug - AP News",
       "pubDate": "Wed, 13 Aug 2025 21:58:00 GMT"
@@ -1901,10 +1913,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "OpenAI Rival Sentient Unveils Open-Source AGI Network, The GRID - Yahoo! Tech",
-      "pubDate": "Wed, 13 Aug 2025 13:00:00 GMT"
-    },
-    {
       "title": "MIT Student Drops Out Because She Says AGI Will Kill Everyone Before She Can Graduate - Futurism",
       "pubDate": "Thu, 14 Aug 2025 20:53:38 GMT"
     },
@@ -1942,10 +1950,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Europe faces stormy future as climate change increases supercell risk - Euronews.com",
-      "pubDate": "Sat, 30 Aug 2025 06:03:47 GMT"
-    },
     {
       "title": "Antarctica Is Changing Rapidly. The Consequences Could Be Dire - WIRED",
       "pubDate": "Sat, 30 Aug 2025 11:00:00 GMT"
@@ -2101,6 +2105,10 @@
     {
       "title": "This year\u2019s fires are only the beginning \u2013 Economy and ecology - ips-journal.eu",
       "pubDate": "Fri, 12 Sep 2025 07:27:08 GMT"
+    },
+    {
+      "title": "Feeling the Heat? These fossil fuel giants are to blame, new study says - USA Today",
+      "pubDate": "Fri, 12 Sep 2025 10:04:48 GMT"
     }
   ],
   "Algorithms": [
@@ -2311,12 +2319,6 @@
     {
       "title": "Australian watchdog reviews rule book amid fears of market meltdown caused by AI - Finextra Research",
       "pubDate": "Thu, 28 Aug 2025 00:01:00 GMT"
-    }
-  ],
-  "Net Zero Emissions": [
-    {
-      "title": "US Rejects IMO Net-Zero Emissions Plan, Warns Of Retaliation Against Supporters - Marine Insight",
-      "pubDate": "Wed, 13 Aug 2025 13:09:43 GMT"
     }
   ],
   "Internet": [
