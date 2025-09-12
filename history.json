@@ -273,6 +273,10 @@
     {
       "title": "Can America unwind its Gordian knot of political violence? - Politico",
       "pubDate": "Thu, 11 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Why the U.S. is experiencing heightened political violence - PBS",
+      "pubDate": "Thu, 11 Sep 2025 22:45:31 GMT"
     }
   ],
   "Iran": [
@@ -417,13 +421,13 @@
     {
       "title": "Satellite images show Israel has totally destroyed areas of Gaza City - Al Jazeera",
       "pubDate": "Thu, 11 Sep 2025 17:56:16 GMT"
+    },
+    {
+      "title": "UN Security Council members condemn Israel over deadly strike on Qatar - Al Jazeera",
+      "pubDate": "Thu, 11 Sep 2025 23:32:10 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia launches hundreds of drones and missiles at Ukraine in largest attack in weeks - France 24",
-      "pubDate": "Thu, 21 Aug 2025 06:43:55 GMT"
-    },
     {
       "title": "Major Russian Attack on Western Ukraine Hits an American Factory During US-Led Push for Peace - Military.com",
       "pubDate": "Thu, 21 Aug 2025 17:50:54 GMT"
@@ -579,6 +583,10 @@
     {
       "title": "Ukraine Launches Remote Military Medical Commissions and Unified Health Standards for Defense Forces - \u0411\u0443\u043a\u0432\u0438",
       "pubDate": "Thu, 11 Sep 2025 14:09:49 GMT"
+    },
+    {
+      "title": "Ukraine's strikingly cost-efficient drones are getting the $7 billion boost they need for mass production - Business Insider",
+      "pubDate": "Fri, 12 Sep 2025 01:57:00 GMT"
     }
   ],
   "Russia": [
@@ -1051,13 +1059,13 @@
     {
       "title": "Key GOP Senator Opens AI Regulation Debate Urging a Light Touch - Bloomberg.com",
       "pubDate": "Wed, 10 Sep 2025 17:26:56 GMT"
+    },
+    {
+      "title": "FTC opens inquiry into how AI chatbots impact child safety, privacy - The Record from Recorded Future News",
+      "pubDate": "Thu, 11 Sep 2025 17:22:54 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "Data breach: Russian link suspected in US federal court hack; sensitive information compromised in yearlo - Times of India",
-      "pubDate": "Wed, 13 Aug 2025 03:48:00 GMT"
-    },
     {
       "title": "Health information sent on postcards in Michigan Medicine privacy breach - MLive.com",
       "pubDate": "Fri, 15 Aug 2025 21:15:00 GMT"
@@ -1415,10 +1423,6 @@
   ],
   "North Korea": [
     {
-      "title": "Putin holds call with North Korea's Kim, discusses US-Russia talks, Kremlin says - Reuters",
-      "pubDate": "Tue, 12 Aug 2025 23:07:43 GMT"
-    },
-    {
       "title": "North Korea Threatens Rapid Nuclear Growth Amid US War Games - Bloomberg.com",
       "pubDate": "Tue, 19 Aug 2025 00:24:00 GMT"
     },
@@ -1607,6 +1611,10 @@
     {
       "title": "Nvidia Just Placed a $1 Billion Quantum Bet--Here's What's Coming Next - Yahoo Finance",
       "pubDate": "Wed, 10 Sep 2025 18:50:05 GMT"
+    },
+    {
+      "title": "QuEra Boston Raises $230 Million With NVIDIA, Boosting Quantum Computing - Quantum Zeitgeist",
+      "pubDate": "Thu, 11 Sep 2025 16:25:59 GMT"
     }
   ],
   "Public Health": [
@@ -1841,6 +1849,10 @@
     {
       "title": "Bitcoin must hit $104K to repeat past bull market dips: Research - Cointelegraph",
       "pubDate": "Wed, 10 Sep 2025 07:57:39 GMT"
+    },
+    {
+      "title": "Gemini IPO Prices High After Winklevoss Crypto Exchange Raised Expected Range - Investor's Business Daily",
+      "pubDate": "Thu, 11 Sep 2025 22:54:00 GMT"
     }
   ],
   "Science": [
@@ -2261,12 +2273,6 @@
     {
       "title": "How Ukraine\u2019s naval drones hold Russia\u2019s warships at bay - The Economist",
       "pubDate": "Sun, 24 Aug 2025 18:40:34 GMT"
-    }
-  ],
-  "World Politics": [
-    {
-      "title": "Trump-Putin summit location: Joint Base Elmendorf-Richardson in Anchorage - NBC News",
-      "pubDate": "Wed, 13 Aug 2025 01:17:00 GMT"
     }
   ],
   "Algorithmic Trading": [
