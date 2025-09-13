@@ -457,10 +457,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Major Russian Attack on Western Ukraine Hits an American Factory During US-Led Push for Peace - Military.com",
-      "pubDate": "Thu, 21 Aug 2025 17:50:54 GMT"
-    },
-    {
       "title": "Ukraine war briefing: Zelenskyy reveals huge Flamingo cruise missile as no peace in sight - The Guardian",
       "pubDate": "Fri, 22 Aug 2025 02:49:00 GMT"
     },
@@ -615,6 +611,10 @@
     {
       "title": "Ukraine's strikingly cost-efficient drones are getting the $7 billion boost they need for mass production - Business Insider",
       "pubDate": "Fri, 12 Sep 2025 01:57:00 GMT"
+    },
+    {
+      "title": "Russian military casualties rise by 950 in war against Ukraine - Ukrinform",
+      "pubDate": "Sat, 13 Sep 2025 06:28:00 GMT"
     }
   ],
   "Russia": [
@@ -1123,6 +1123,10 @@
     {
       "title": "California lawmakers pass landmark bill that will test Gavin Newsom on AI - Politico",
       "pubDate": "Sat, 13 Sep 2025 08:44:43 GMT"
+    },
+    {
+      "title": "AI Safety Disclosure Legislation Sent to California Governor - Bloomberg Government News",
+      "pubDate": "Sat, 13 Sep 2025 08:31:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1851,10 +1855,6 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "Bitcoin drops below $119K after US Treasury secretary rules out new BTC buys - Cointelegraph",
-      "pubDate": "Thu, 14 Aug 2025 13:45:09 GMT"
-    },
-    {
       "title": "Trump Media, Crypto.com launch new crypto treasury firm via SPAC deal - Reuters",
       "pubDate": "Tue, 26 Aug 2025 17:41:37 GMT"
     },
@@ -2215,12 +2215,6 @@
       "pubDate": "Wed, 20 Aug 2025 16:05:11 GMT"
     }
   ],
-  "Military and Defense": [
-    {
-      "title": "Russia Wants to Build 79,000 \u2018Kamikaze\u2019 Drones - National Security Journal",
-      "pubDate": "Thu, 14 Aug 2025 15:51:00 GMT"
-    }
-  ],
   "Jeff Bezos": [
     {
       "title": "Jeff Bezos' Biological Father Didn't Know He Was A Billionaire Until 2012 - NDTV",
@@ -2250,10 +2244,6 @@
     }
   ],
   "Cloud Computing": [
-    {
-      "title": "Oracle, Google cloud units strike deal for Oracle to sell Gemini models - Reuters",
-      "pubDate": "Thu, 14 Aug 2025 12:01:19 GMT"
-    },
     {
       "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race - Bloomberg.com",
       "pubDate": "Fri, 22 Aug 2025 00:21:00 GMT"
@@ -2308,10 +2298,6 @@
     }
   ],
   "Algorithmic Trading": [
-    {
-      "title": "Former Peel Hunt electronic trading head joins Berenberg to bolster algorithmic offering - The TRADE",
-      "pubDate": "Thu, 14 Aug 2025 11:13:03 GMT"
-    },
     {
       "title": "The Hidden Costs of Algorithmic Trading: How Governance Failures Erode Shareholder Value - AInvest",
       "pubDate": "Sun, 17 Aug 2025 10:28:25 GMT"
