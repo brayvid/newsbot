@@ -293,6 +293,10 @@
     {
       "title": "U.C. Berkeley Gives Names of Students and Faculty to Government for Antisemitism Probe - The New York Times",
       "pubDate": "Sat, 13 Sep 2025 08:13:14 GMT"
+    },
+    {
+      "title": "Trump gave vastly different responses to Charlie Kirk's and Melissa Hortman's assassinations - MSNBC News",
+      "pubDate": "Sat, 13 Sep 2025 11:59:07 GMT"
     }
   ],
   "Iran": [
@@ -453,6 +457,10 @@
     {
       "title": "'We Took the Gloves Off': Former Israeli Military Chief Admits 220,000 Gaza Casualties - Common Dreams",
       "pubDate": "Sat, 13 Sep 2025 00:00:00 GMT"
+    },
+    {
+      "title": "Israel ramps up strikes on Gaza City and hospital says at least 32 are dead - NPR",
+      "pubDate": "Sat, 13 Sep 2025 19:26:44 GMT"
     }
   ],
   "Ukraine": [
@@ -681,6 +689,10 @@
     {
       "title": "Ukraine-Russia war live: US to defend \u2018every inch\u2019 as Russian drones enter Poland - The Independent",
       "pubDate": "Sat, 13 Sep 2025 07:48:07 GMT"
+    },
+    {
+      "title": "Trump tells NATO members they must move first on Russia sanctions over Ukraine - NPR",
+      "pubDate": "Sat, 13 Sep 2025 14:05:36 GMT"
     }
   ],
   "Donald Trump": [
@@ -1127,6 +1139,10 @@
     {
       "title": "AI Safety Disclosure Legislation Sent to California Governor - Bloomberg Government News",
       "pubDate": "Sat, 13 Sep 2025 08:31:00 GMT"
+    },
+    {
+      "title": "California\u2019s SB 53 AI Safety Bill Awaits Newsom\u2019s Crucial Decision - WebProNews",
+      "pubDate": "Sat, 13 Sep 2025 17:01:31 GMT"
     }
   ],
   "Data Breach": [
@@ -1381,10 +1397,6 @@
   ],
   "Cancer": [
     {
-      "title": "Nike co-founder Phil Knight to donate $2 billion to OHSU's Knight Cancer Institute - CNBC",
-      "pubDate": "Thu, 14 Aug 2025 17:00:01 GMT"
-    },
-    {
       "title": "Exploring the metabolic signaling network of GFPT in cancer - Nature",
       "pubDate": "Tue, 19 Aug 2025 15:11:04 GMT"
     },
@@ -1569,6 +1581,10 @@
     {
       "title": "The family of teenager who died by suicide alleges OpenAI's ChatGPT is to blame - NBC News",
       "pubDate": "Tue, 26 Aug 2025 11:40:40 GMT"
+    },
+    {
+      "title": "OpenAI Inks $300B Oracle Deal for 4.5GW AI Data Centers - WebProNews",
+      "pubDate": "Sat, 13 Sep 2025 12:46:03 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1655,6 +1671,10 @@
     {
       "title": "QuEra Boston Raises $230 Million With NVIDIA, Boosting Quantum Computing - Quantum Zeitgeist",
       "pubDate": "Thu, 11 Sep 2025 16:25:59 GMT"
+    },
+    {
+      "title": "Quantum Computing Risk Could Force Bitcoin's Satoshi To Make A Comeback, Ethereum Treasury Co-CEO Says - Yahoo Finance",
+      "pubDate": "Sat, 13 Sep 2025 14:00:54 GMT"
     }
   ],
   "Public Health": [
@@ -1670,10 +1690,6 @@
     }
   ],
   "Geopolitics": [
-    {
-      "title": "Israel announces a settlement project that critics say will effectively cut the West Bank in two - AP News",
-      "pubDate": "Thu, 14 Aug 2025 17:34:00 GMT"
-    },
     {
       "title": "Trump-Putin summit ends without concrete deal - CNN",
       "pubDate": "Sat, 16 Aug 2025 03:52:00 GMT"
@@ -1929,10 +1945,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "MIT Student Drops Out Because She Says AGI Will Kill Everyone Before She Can Graduate - Futurism",
-      "pubDate": "Thu, 14 Aug 2025 20:53:38 GMT"
-    },
-    {
       "title": "Why an MIT student quit college over AGI fear, and are we really next? - Interesting Engineering",
       "pubDate": "Fri, 15 Aug 2025 20:36:00 GMT"
     },
@@ -1962,10 +1974,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Climate Change Worsens Half-Century of Drinking Water Problems for Maine Native Reservation - Inside Climate News",
-      "pubDate": "Sun, 31 Aug 2025 09:00:00 GMT"
-    },
     {
       "title": "Climate triples heat deaths in Europe - The Ecologist",
       "pubDate": "Mon, 01 Sep 2025 06:00:00 GMT"
@@ -2121,6 +2129,10 @@
     {
       "title": "Climate Change-Driven Floods Continue to Displace Millions in Pakistan - Inside Climate News",
       "pubDate": "Fri, 12 Sep 2025 22:05:11 GMT"
+    },
+    {
+      "title": "Panama Canal Droughts Threaten Global Trade Amid Climate Change - WebProNews",
+      "pubDate": "Sat, 13 Sep 2025 18:26:44 GMT"
     }
   ],
   "Algorithms": [
@@ -2313,12 +2325,6 @@
     {
       "title": "Australian watchdog reviews rule book amid fears of market meltdown caused by AI - Finextra Research",
       "pubDate": "Thu, 28 Aug 2025 00:01:00 GMT"
-    }
-  ],
-  "World News": [
-    {
-      "title": "Brutal heat plagues parts of Europe, Asia and the Middle East - The Washington Post",
-      "pubDate": "Thu, 14 Aug 2025 20:33:29 GMT"
     }
   ],
   "Military Intelligence": [
