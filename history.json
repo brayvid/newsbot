@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Meta's AI Shake-Up Ignites Talent War in Quest for Superintelligence - AInvest",
-      "pubDate": "Tue, 19 Aug 2025 22:36:34 GMT"
-    },
-    {
       "title": "Microsoft boss troubled by rise in reports of 'AI psychosis' - BBC",
       "pubDate": "Wed, 20 Aug 2025 16:36:03 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "FTC probes OpenAI, Google, Meta and others on risks, safety and money behind AI chatbots - India Today",
       "pubDate": "Fri, 12 Sep 2025 11:01:41 GMT"
+    },
+    {
+      "title": "AI fuels false claims after Charlie Kirk's death, CBS News analysis reveals - CBS News",
+      "pubDate": "Sat, 13 Sep 2025 00:15:10 GMT"
     }
   ],
   "US Politics": [
@@ -285,6 +285,10 @@
     {
       "title": "Lawmakers Reassess Security After Charlie Kirk Shooting - NBC Palm Springs",
       "pubDate": "Fri, 12 Sep 2025 20:00:00 GMT"
+    },
+    {
+      "title": "Trump news at a glance: president urges death penalty in Charlie Kirk killing, as widow says: \u2018we\u2019ll never surrender\u2019 - The Guardian",
+      "pubDate": "Sat, 13 Sep 2025 02:46:01 GMT"
     }
   ],
   "Iran": [
@@ -661,6 +665,10 @@
     {
       "title": "Ukrainian long-range drones struck a major Russian oil port, causing a fire and disrupting key shipments - Business Insider",
       "pubDate": "Fri, 12 Sep 2025 20:37:00 GMT"
+    },
+    {
+      "title": "Magnitude 7.1 earthquake strikes near east coast of Russia's Kamchatka region, GFZ says - Reuters",
+      "pubDate": "Sat, 13 Sep 2025 02:58:49 GMT"
     }
   ],
   "Donald Trump": [
@@ -789,6 +797,10 @@
     {
       "title": "Stocks rise on rate cut bets, political upheaval unsettles currencies globally - Reuters",
       "pubDate": "Mon, 08 Sep 2025 15:23:17 GMT"
+    },
+    {
+      "title": "Nasdaq closes at record high, S&P 500 notches winning week as Fed decision looms - CNBC",
+      "pubDate": "Fri, 12 Sep 2025 20:15:00 GMT"
     }
   ],
   "Recession": [
@@ -1283,14 +1295,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Bitcoin hits fresh record as Fed easing bets add to tailwinds - Reuters",
-      "pubDate": "Thu, 14 Aug 2025 00:29:46 GMT"
-    },
-    {
-      "title": "Bitcoin Prices Reach Fresh, All-Time High Above $124,000 - Forbes",
-      "pubDate": "Thu, 14 Aug 2025 00:40:54 GMT"
-    },
-    {
       "title": "Bitcoin touches record high as crypto rally rages on amid bullish 'fundamental changes' - Yahoo Finance",
       "pubDate": "Thu, 14 Aug 2025 07:31:46 GMT"
     },
@@ -1364,10 +1368,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "Cowboys owner Jerry Jones reveals cancer diagnosis and credits experimental drug - AP News",
-      "pubDate": "Wed, 13 Aug 2025 21:58:00 GMT"
-    },
     {
       "title": "Nike co-founder Phil Knight to donate $2 billion to OHSU's Knight Cancer Institute - CNBC",
       "pubDate": "Thu, 14 Aug 2025 17:00:01 GMT"
@@ -1681,10 +1681,6 @@
   ],
   "Gaza": [
     {
-      "title": "LIVE: Israel keeps pummeling Gaza as four more Palestinians starve to death - Al Jazeera",
-      "pubDate": "Thu, 14 Aug 2025 08:19:56 GMT"
-    },
-    {
       "title": "Hezbollah Chief Says 'No Life' in Lebanon if Gov't Confronts Group, Pursues Disarmament - Haaretz",
       "pubDate": "Fri, 15 Aug 2025 07:48:00 GMT"
     },
@@ -1839,6 +1835,10 @@
     {
       "title": "Israel intensifies Gaza City strikes as many residents refuse evacuation - Reuters",
       "pubDate": "Fri, 12 Sep 2025 14:46:52 GMT"
+    },
+    {
+      "title": "Ex-IDF chief reveals Gaza casualties crossed the 200,000 mark, confirms no legal advice was sought during ops - Firstpost",
+      "pubDate": "Sat, 13 Sep 2025 01:30:44 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1889,6 +1889,10 @@
     {
       "title": "Bitcoin, Ethereum, XRP, Dogecoin Shine On Friday As Traders Fancy Weekend Altcoin Surge - uk.finance.yahoo.com",
       "pubDate": "Fri, 12 Sep 2025 19:37:03 GMT"
+    },
+    {
+      "title": "Institutional Tsunami: Billions Pour into Bitcoin as Spot ETFs Ignite a New Era for Cryptocurrency - FinancialContent",
+      "pubDate": "Fri, 12 Sep 2025 23:16:00 GMT"
     }
   ],
   "Science": [
@@ -1937,10 +1941,6 @@
   ],
   "SpaceX": [
     {
-      "title": "Trump orders space regulations eased in win for Musk - KTEN",
-      "pubDate": "Thu, 14 Aug 2025 01:52:08 GMT"
-    },
-    {
       "title": "SpaceX aims to launch Starship Flight 10 test flight on Aug. 24 - Space",
       "pubDate": "Fri, 15 Aug 2025 21:55:16 GMT"
     },
@@ -1954,10 +1954,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Former UN climate chief urges Australia to set \u2018prosperity\u2019 target of cutting emissions by 75% by 2035 - The Guardian",
-      "pubDate": "Sat, 30 Aug 2025 20:01:00 GMT"
-    },
     {
       "title": "Indonesian islanders taking Swiss concrete giant to court over climate - RFI",
       "pubDate": "Sun, 31 Aug 2025 04:12:13 GMT"
@@ -2113,6 +2109,10 @@
     {
       "title": "EPA proposes to ax requirement for companies to report their planet-warming emissions - The Hill",
       "pubDate": "Fri, 12 Sep 2025 20:21:00 GMT"
+    },
+    {
+      "title": "Ancient DNA reveals deeply complex Mastodon family and repeated migrations driven by climate change - Phys.org",
+      "pubDate": "Fri, 12 Sep 2025 18:00:02 GMT"
     }
   ],
   "Algorithms": [
@@ -2227,10 +2227,6 @@
   ],
   "Pollution": [
     {
-      "title": "Talks stall on world\u2019s first plastic pollution treaty one day before deadline - The Guardian",
-      "pubDate": "Wed, 13 Aug 2025 22:11:00 GMT"
-    },
-    {
       "title": "Global talks to end plastic pollution crisis fail again - CBS News",
       "pubDate": "Fri, 15 Aug 2025 22:23:00 GMT"
     },
@@ -2286,10 +2282,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "New proposed FAA rule announced that could change the way Drones are flown - KXII",
-      "pubDate": "Wed, 13 Aug 2025 23:00:00 GMT"
-    },
     {
       "title": "Oak Brook Police Department launches fully autonomous drone as first responder; some concerned over privacy rights - ABC7 Chicago",
       "pubDate": "Fri, 15 Aug 2025 00:47:59 GMT"
