@@ -289,6 +289,10 @@
     {
       "title": "Trump news at a glance: president urges death penalty in Charlie Kirk killing, as widow says: \u2018we\u2019ll never surrender\u2019 - The Guardian",
       "pubDate": "Sat, 13 Sep 2025 02:46:01 GMT"
+    },
+    {
+      "title": "U.C. Berkeley Gives Names of Students and Faculty to Government for Antisemitism Probe - The New York Times",
+      "pubDate": "Sat, 13 Sep 2025 08:13:14 GMT"
     }
   ],
   "Iran": [
@@ -445,6 +449,10 @@
     {
       "title": "UN overwhelmingly endorses declaration on two-state solution for Israel, Palestinians - Reuters",
       "pubDate": "Fri, 12 Sep 2025 15:12:34 GMT"
+    },
+    {
+      "title": "'We Took the Gloves Off': Former Israeli Military Chief Admits 220,000 Gaza Casualties - Common Dreams",
+      "pubDate": "Sat, 13 Sep 2025 00:00:00 GMT"
     }
   ],
   "Ukraine": [
@@ -669,6 +677,10 @@
     {
       "title": "Magnitude 7.1 earthquake strikes near east coast of Russia's Kamchatka region, GFZ says - Reuters",
       "pubDate": "Sat, 13 Sep 2025 02:58:49 GMT"
+    },
+    {
+      "title": "Ukraine-Russia war live: US to defend \u2018every inch\u2019 as Russian drones enter Poland - The Independent",
+      "pubDate": "Sat, 13 Sep 2025 07:48:07 GMT"
     }
   ],
   "Donald Trump": [
@@ -755,6 +767,10 @@
     {
       "title": "Trump says Memphis is next target for National Guard crime crackdown - Politico",
       "pubDate": "Fri, 12 Sep 2025 14:12:07 GMT"
+    },
+    {
+      "title": "Trump shelves Chicago crackdown plans for now as advisers warn of legal headaches - CNN",
+      "pubDate": "Fri, 12 Sep 2025 22:45:18 GMT"
     }
   ],
   "National Security": [
@@ -810,10 +826,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China to Send Top Envoy to India as Ties Warm After US Tariffs - Bloomberg.com",
-      "pubDate": "Thu, 14 Aug 2025 07:22:33 GMT"
-    },
     {
       "title": "China\u2019s economy loses momentum as trade pressures weigh - Financial Times",
       "pubDate": "Fri, 15 Aug 2025 04:19:47 GMT"
@@ -961,10 +973,6 @@
   ],
   "AI Safety": [
     {
-      "title": "AI security governance converts disorder into deliberate innovation - Help Net Security",
-      "pubDate": "Thu, 14 Aug 2025 06:00:01 GMT"
-    },
-    {
       "title": "Anthropic bans nuclear, chemical weapons chats with Claude AI - Moneycontrol",
       "pubDate": "Sat, 16 Aug 2025 11:21:20 GMT"
     },
@@ -1111,6 +1119,10 @@
     {
       "title": "The new AI policy rulebook - Axios",
       "pubDate": "Fri, 12 Sep 2025 09:01:50 GMT"
+    },
+    {
+      "title": "California lawmakers pass landmark bill that will test Gavin Newsom on AI - Politico",
+      "pubDate": "Sat, 13 Sep 2025 08:44:43 GMT"
     }
   ],
   "Data Breach": [
@@ -1257,10 +1269,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Scientists issue chilling warning about 'The Big One' earthquake predicted to be one of history's most devastating - LADbible",
-      "pubDate": "Thu, 14 Aug 2025 07:19:47 GMT"
-    },
-    {
       "title": "Magnitude-6 earthquake strikes Indonesian island of Sulawesi - Australian Broadcasting Corporation",
       "pubDate": "Sat, 16 Aug 2025 23:39:07 GMT"
     },
@@ -1294,10 +1302,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin touches record high as crypto rally rages on amid bullish 'fundamental changes' - Yahoo Finance",
-      "pubDate": "Thu, 14 Aug 2025 07:31:46 GMT"
-    },
     {
       "title": "Bitcoin (BTC) Forecast: Price Could Drop to $108K\u2013$112K, Warns Crypto Analyst Lark Davis - CoinDesk",
       "pubDate": "Sun, 17 Aug 2025 19:52:30 GMT"
@@ -1353,6 +1357,10 @@
     {
       "title": "Bitcoin taps $111.3K as forecast says 10% dip \u2018worst case scenario\u2019 - Cointelegraph",
       "pubDate": "Sun, 07 Sep 2025 12:12:39 GMT"
+    },
+    {
+      "title": "Spot BTC ETFs attract $642M, ETH adds $406M amid \u2018rising confidence\u2019 - Cointelegraph",
+      "pubDate": "Sat, 13 Sep 2025 07:46:26 GMT"
     }
   ],
   "BRICS": [
@@ -1955,10 +1963,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Indonesian islanders taking Swiss concrete giant to court over climate - RFI",
-      "pubDate": "Sun, 31 Aug 2025 04:12:13 GMT"
-    },
-    {
       "title": "Climate Change Worsens Half-Century of Drinking Water Problems for Maine Native Reservation - Inside Climate News",
       "pubDate": "Sun, 31 Aug 2025 09:00:00 GMT"
     },
@@ -2113,6 +2117,10 @@
     {
       "title": "Ancient DNA reveals deeply complex Mastodon family and repeated migrations driven by climate change - Phys.org",
       "pubDate": "Fri, 12 Sep 2025 18:00:02 GMT"
+    },
+    {
+      "title": "Climate Change-Driven Floods Continue to Displace Millions in Pakistan - Inside Climate News",
+      "pubDate": "Fri, 12 Sep 2025 22:05:11 GMT"
     }
   ],
   "Algorithms": [
@@ -2319,12 +2327,6 @@
     {
       "title": "Australian watchdog reviews rule book amid fears of market meltdown caused by AI - Finextra Research",
       "pubDate": "Thu, 28 Aug 2025 00:01:00 GMT"
-    }
-  ],
-  "Internet": [
-    {
-      "title": "Russia restricts calls on WhatsApp, Telegram as internet control tightens - Al Jazeera",
-      "pubDate": "Thu, 14 Aug 2025 04:09:28 GMT"
     }
   ],
   "World News": [
