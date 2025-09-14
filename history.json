@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Mass. educators get new guidance for age of AI - NBC Boston",
-      "pubDate": "Thu, 21 Aug 2025 18:59:38 GMT"
-    },
-    {
       "title": "AI model can help extend life and increase safety of electric vehicle batteries - Tech Xplore",
       "pubDate": "Fri, 22 Aug 2025 17:11:19 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Study shakes Silicon Valley: Researchers break AI - The Jerusalem Post",
       "pubDate": "Sun, 14 Sep 2025 06:13:03 GMT"
+    },
+    {
+      "title": "Elon Musk\u2019s xAI lays off 500 jobs amid strategy shift to Specialist AI tutors: Report - Mint",
+      "pubDate": "Sun, 14 Sep 2025 07:33:34 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "White House defends DC takeover of police after city alleges \u2018brazen usurpation\u2019 in lawsuit against Trump administration \u2013 live - The Guardian",
-      "pubDate": "Fri, 15 Aug 2025 09:38:00 GMT"
-    },
     {
       "title": "Trump escalates attacks against Smithsonian museums, says there\u2019s too much focus on \u2018how bad slavery was\u2019 - CNN",
       "pubDate": "Tue, 19 Aug 2025 19:50:00 GMT"
@@ -310,10 +306,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel Cyber Directorate employee arrested in America - The Jerusalem Post",
-      "pubDate": "Sat, 16 Aug 2025 12:31:23 GMT"
-    },
     {
       "title": "Israel says it targeted energy infrastructure site used by Houthis near Yemeni capital - Reuters",
       "pubDate": "Sun, 17 Aug 2025 13:13:48 GMT"
@@ -469,13 +461,13 @@
     {
       "title": "Netanyahu says killing Hamas leaders is route to ending Gaza war - Le Monde.fr",
       "pubDate": "Sat, 13 Sep 2025 22:47:00 GMT"
+    },
+    {
+      "title": "Ahead of holidays, Israel warns of Iran-backed terror threats to Israelis and Jews abroad - The Times of Israel",
+      "pubDate": "Sun, 14 Sep 2025 11:09:05 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Pentagon restricts Ukraine's use of US missiles against Russia, WSJ reports - Reuters",
-      "pubDate": "Sat, 23 Aug 2025 22:23:46 GMT"
-    },
     {
       "title": "Ukraine admits Russia has entered key region of Dnipropetrovsk - BBC",
       "pubDate": "Tue, 26 Aug 2025 18:08:25 GMT"
@@ -631,6 +623,10 @@
     {
       "title": "Ukraine hits one of Russia's largest oil refining complexes with explosive drone attack - France 24",
       "pubDate": "Sat, 13 Sep 2025 17:04:43 GMT"
+    },
+    {
+      "title": "Ukraine considers limiting mobile service to counter Russian drones - Reuters",
+      "pubDate": "Sun, 14 Sep 2025 10:04:51 GMT"
     }
   ],
   "Russia": [
@@ -1507,12 +1503,6 @@
       "pubDate": "Fri, 22 Aug 2025 11:12:35 GMT"
     }
   ],
-  "Tesla": [
-    {
-      "title": "Tesla, Rivian, and others see billions in revenue disappear as US officially end emission credits - Electrek",
-      "pubDate": "Fri, 15 Aug 2025 15:54:00 GMT"
-    }
-  ],
   "Federal Reserve": [
     {
       "title": "Federal Reserve Ends Special Crypto Oversight Program, Moves Digital Asset Supervision Back to Standard Process - Brave New Coin",
@@ -1999,10 +1989,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Climate Change Triggered European Revolutions That Changed the Course of History - ZME Science",
-      "pubDate": "Mon, 01 Sep 2025 18:36:21 GMT"
-    },
-    {
       "title": "Climate change could be causing sharks to lose their bite - Yahoo News UK",
       "pubDate": "Mon, 01 Sep 2025 22:00:00 GMT"
     },
@@ -2157,6 +2143,10 @@
     {
       "title": "The Arctic is heating up quickly, but scientists say polar geoengineering is 'unrealistic' and 'dangerous' - CBC",
       "pubDate": "Sun, 14 Sep 2025 08:00:00 GMT"
+    },
+    {
+      "title": "How animals are helping boost climate change awareness in Europe - Euronews.com",
+      "pubDate": "Sun, 14 Sep 2025 06:08:12 GMT"
     }
   ],
   "Algorithms": [
@@ -2527,6 +2517,12 @@
     {
       "title": "Iran increased stockpile of near weapons-grade uranium before Israeli attack, UN agency says - Star Tribune",
       "pubDate": "Wed, 03 Sep 2025 15:46:40 GMT"
+    }
+  ],
+  "United States": [
+    {
+      "title": "Trump is making a state visit to the U.K., the homeland of his immigrant mother - npr.org",
+      "pubDate": "Sun, 14 Sep 2025 09:03:00 GMT"
     }
   ]
 }
