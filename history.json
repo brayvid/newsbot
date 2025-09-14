@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Microsoft boss troubled by rise in reports of 'AI psychosis' - BBC",
-      "pubDate": "Wed, 20 Aug 2025 16:36:03 GMT"
-    },
-    {
       "title": "Mass. educators get new guidance for age of AI - NBC Boston",
       "pubDate": "Thu, 21 Aug 2025 18:59:38 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "AI fuels false claims after Charlie Kirk's death, CBS News analysis reveals - CBS News",
       "pubDate": "Sat, 13 Sep 2025 00:15:10 GMT"
+    },
+    {
+      "title": "Study shakes Silicon Valley: Researchers break AI - The Jerusalem Post",
+      "pubDate": "Sun, 14 Sep 2025 06:13:03 GMT"
     }
   ],
   "US Politics": [
@@ -701,6 +701,10 @@
     {
       "title": "Trump tells NATO members they must move first on Russia sanctions over Ukraine - NPR",
       "pubDate": "Sat, 13 Sep 2025 14:05:36 GMT"
+    },
+    {
+      "title": "Drones Strike Russia\u2019s Major Export-Oriented Oil Refinery - Bloomberg.com",
+      "pubDate": "Sun, 14 Sep 2025 08:26:24 GMT"
     }
   ],
   "Donald Trump": [
@@ -791,6 +795,10 @@
     {
       "title": "Trump shelves Chicago crackdown plans for now as advisers warn of legal headaches - CNN",
       "pubDate": "Fri, 12 Sep 2025 22:45:18 GMT"
+    },
+    {
+      "title": "Trump urges NATO countries stop buying Russian oil before US sanctions - Al Jazeera",
+      "pubDate": "Sat, 13 Sep 2025 22:52:30 GMT"
     }
   ],
   "National Security": [
@@ -850,10 +858,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China\u2019s economy loses momentum as trade pressures weigh - Financial Times",
-      "pubDate": "Fri, 15 Aug 2025 04:19:47 GMT"
-    },
     {
       "title": "China's catastrophic South China Sea crash shows how dangerous high-risk moves at sea can be - Business Insider",
       "pubDate": "Sat, 16 Aug 2025 12:39:00 GMT"
@@ -1393,6 +1397,10 @@
     {
       "title": "Spot BTC ETFs attract $642M, ETH adds $406M amid \u2018rising confidence\u2019 - Cointelegraph",
       "pubDate": "Sat, 13 Sep 2025 07:46:26 GMT"
+    },
+    {
+      "title": "Gemini Stock ($GEMI) Surges 14% on IPO Debut; Winklevoss Brothers Predict $1M Bitcoin - CoinDesk",
+      "pubDate": "Sat, 13 Sep 2025 23:20:00 GMT"
     }
   ],
   "BRICS": [
@@ -1725,10 +1733,6 @@
   ],
   "Gaza": [
     {
-      "title": "Hezbollah Chief Says 'No Life' in Lebanon if Gov't Confronts Group, Pursues Disarmament - Haaretz",
-      "pubDate": "Fri, 15 Aug 2025 07:48:00 GMT"
-    },
-    {
       "title": "Israeli unit tasked with smearing Gaza journalists as Hamas fighters \u2013 report - The Guardian",
       "pubDate": "Fri, 15 Aug 2025 20:00:00 GMT"
     },
@@ -1883,6 +1887,10 @@
     {
       "title": "Ex-IDF chief reveals Gaza casualties crossed the 200,000 mark, confirms no legal advice was sought during ops - Firstpost",
       "pubDate": "Sat, 13 Sep 2025 01:30:44 GMT"
+    },
+    {
+      "title": "U.S. senators accuse Israel of ethnic cleansing in Gaza after Middle East visit - WBFF",
+      "pubDate": "Sat, 13 Sep 2025 22:06:10 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1990,10 +1998,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "How scientists unmask climate change\u2019s role in extreme weather - Mongabay",
-      "pubDate": "Mon, 01 Sep 2025 11:28:49 GMT"
-    },
     {
       "title": "Climate Change Triggered European Revolutions That Changed the Course of History - ZME Science",
       "pubDate": "Mon, 01 Sep 2025 18:36:21 GMT"
@@ -2149,6 +2153,10 @@
     {
       "title": "Heatwaves are becoming more intense and frequent due to human-caused climate change, yet only six percent of Italy's schools have air conditioning - IslanderNews.com",
       "pubDate": "Sat, 13 Sep 2025 22:02:32 GMT"
+    },
+    {
+      "title": "The Arctic is heating up quickly, but scientists say polar geoengineering is 'unrealistic' and 'dangerous' - CBC",
+      "pubDate": "Sun, 14 Sep 2025 08:00:00 GMT"
     }
   ],
   "Algorithms": [
