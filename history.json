@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Senate committee gives green (well, maybe yellow) light to artificial intelligence bill - Colorado Politics",
-      "pubDate": "Mon, 25 Aug 2025 15:10:53 GMT"
-    },
-    {
       "title": "Scientists just developed a new AI modeled on the human brain \u2014 it's outperforming LLMs like ChatGPT at reasoning tasks - Live Science",
       "pubDate": "Wed, 27 Aug 2025 12:00:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "AI Activists Hunger Strike at Anthropic, DeepMind for Development Pause - WebProNews",
       "pubDate": "Sun, 14 Sep 2025 19:44:43 GMT"
+    },
+    {
+      "title": "Politicians hoping AI can fix Australia\u2019s housing crisis are risking another Robodebt | Ehsan Nabavi - The Guardian",
+      "pubDate": "Mon, 15 Sep 2025 02:18:00 GMT"
     }
   ],
   "US Politics": [
@@ -297,6 +297,10 @@
     {
       "title": "People are getting fired for allegedly celebrating Charlie Kirk\u2019s murder. It looks like a coordinated effort - CNN",
       "pubDate": "Sat, 13 Sep 2025 19:39:45 GMT"
+    },
+    {
+      "title": "Utah governor blames social media for fomenting US political violence - Financial Times",
+      "pubDate": "Sun, 14 Sep 2025 17:13:12 GMT"
     }
   ],
   "Iran": [
@@ -306,10 +310,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel says it targeted energy infrastructure site used by Houthis near Yemeni capital - Reuters",
-      "pubDate": "Sun, 17 Aug 2025 13:13:48 GMT"
-    },
     {
       "title": "State Dept. fires official after internal debates over Israel-Gaza - The Washington Post",
       "pubDate": "Thu, 21 Aug 2025 04:35:00 GMT"
@@ -465,6 +465,10 @@
     {
       "title": "Ahead of holidays, Israel warns of Iran-backed terror threats to Israelis and Jews abroad - The Times of Israel",
       "pubDate": "Sun, 14 Sep 2025 11:09:05 GMT"
+    },
+    {
+      "title": "Javier Bardem Calls for \u201cIsrael to Stop This Genocide\u201d at 2025 Emmys - The Hollywood Reporter",
+      "pubDate": "Mon, 15 Sep 2025 02:03:45 GMT"
     }
   ],
   "Ukraine": [
@@ -701,6 +705,10 @@
     {
       "title": "Drones Strike Russia\u2019s Major Export-Oriented Oil Refinery - Bloomberg.com",
       "pubDate": "Sun, 14 Sep 2025 08:26:24 GMT"
+    },
+    {
+      "title": "Russia Test Fires Hypersonic Missile on NATO's Arctic Doorstep - Newsweek",
+      "pubDate": "Sun, 14 Sep 2025 16:11:19 GMT"
     }
   ],
   "Donald Trump": [
@@ -805,12 +813,6 @@
     {
       "title": "US opens national security probe into imported wind turbines, components - Reuters",
       "pubDate": "Thu, 21 Aug 2025 15:30:41 GMT"
-    }
-  ],
-  "US Congress": [
-    {
-      "title": "California releases first draft of redrawn congressional district maps - ABC7 Los Angeles",
-      "pubDate": "Sat, 16 Aug 2025 02:26:15 GMT"
     }
   ],
   "Financial Markets": [
@@ -997,6 +999,10 @@
     {
       "title": "China warns Mexico to 'think twice' before raising tariffs, threatens countermeasures - CNBC",
       "pubDate": "Fri, 12 Sep 2025 01:36:00 GMT"
+    },
+    {
+      "title": "China's economy slowdown deepens in August with retail sales, industrial output missing expectations - CNBC",
+      "pubDate": "Mon, 15 Sep 2025 02:12:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1162,10 +1168,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Health information sent on postcards in Michigan Medicine privacy breach - MLive.com",
-      "pubDate": "Fri, 15 Aug 2025 21:15:00 GMT"
-    },
     {
       "title": "Online Gaming Provider Bragg Gaming Confirms Limited Internal Data Breach with No Impact on Operations - Stock Titan",
       "pubDate": "Mon, 18 Aug 2025 02:08:12 GMT"
@@ -1509,10 +1511,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "Federal Reserve Ends Special Crypto Oversight Program, Moves Digital Asset Supervision Back to Standard Process - Brave New Coin",
-      "pubDate": "Fri, 15 Aug 2025 23:15:56 GMT"
-    },
-    {
       "title": "Fed Chair Jerome Powell may seriously disappoint Wall Street at Jackson Hole - Fortune",
       "pubDate": "Sun, 17 Aug 2025 20:44:00 GMT"
     },
@@ -1689,6 +1687,10 @@
     {
       "title": "Rigetti sees quantum computers joining data centers within five years - digitimes",
       "pubDate": "Sun, 14 Sep 2025 02:56:06 GMT"
+    },
+    {
+      "title": "UK start-up builds first quantum computer using standard chips - The Times",
+      "pubDate": "Sun, 14 Sep 2025 23:01:00 GMT"
     }
   ],
   "Public Health": [
@@ -1704,10 +1706,6 @@
     }
   ],
   "Geopolitics": [
-    {
-      "title": "Trump-Putin summit ends without concrete deal - CNN",
-      "pubDate": "Sat, 16 Aug 2025 03:52:00 GMT"
-    },
     {
       "title": "Trump-Putin Summit and Oil Market Volatility: Geopolitics vs. Structural Oversupply - AInvest",
       "pubDate": "Sat, 16 Aug 2025 18:16:16 GMT"
@@ -1963,10 +1961,6 @@
   ],
   "SpaceX": [
     {
-      "title": "SpaceX aims to launch Starship Flight 10 test flight on Aug. 24 - Space",
-      "pubDate": "Fri, 15 Aug 2025 21:55:16 GMT"
-    },
-    {
       "title": "Elon Musk\u2019s Starship under pressure: Previous failures haunt SpaceX; Sunday launch could decide future - Times of India",
       "pubDate": "Sun, 24 Aug 2025 02:41:00 GMT"
     },
@@ -1976,10 +1970,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Climate change could be causing sharks to lose their bite - Yahoo News UK",
-      "pubDate": "Mon, 01 Sep 2025 22:00:00 GMT"
-    },
     {
       "title": "Global temperatures to remain above average despite return of La Ni\u00f1a, says UN - The Guardian",
       "pubDate": "Tue, 02 Sep 2025 08:28:00 GMT"
@@ -2135,6 +2125,10 @@
     {
       "title": "How animals are helping boost climate change awareness in Europe - Euronews.com",
       "pubDate": "Sun, 14 Sep 2025 06:08:12 GMT"
+    },
+    {
+      "title": "Millions of Australians at risk from rising sea levels and heat deaths could soar, landmark climate report warns - The Guardian",
+      "pubDate": "Mon, 15 Sep 2025 00:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2242,10 +2236,6 @@
     }
   ],
   "Pollution": [
-    {
-      "title": "Global talks to end plastic pollution crisis fail again - CBS News",
-      "pubDate": "Fri, 15 Aug 2025 22:23:00 GMT"
-    },
     {
       "title": "US oil and gas air pollution is causing unequal health impacts: Study - The Hill",
       "pubDate": "Fri, 22 Aug 2025 18:32:00 GMT"
