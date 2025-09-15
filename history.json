@@ -473,10 +473,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia convicts more than 300 Ukrainian soldiers of terrorism following Kursk Oblast Incursion - The Kyiv Independent",
-      "pubDate": "Wed, 27 Aug 2025 14:01:06 GMT"
-    },
-    {
       "title": "Russia and Ukraine target each other\u2019s energy infrastructure as war persists - PBS",
       "pubDate": "Wed, 27 Aug 2025 22:30:31 GMT"
     },
@@ -631,6 +627,10 @@
     {
       "title": "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile - Al Jazeera",
       "pubDate": "Sun, 14 Sep 2025 13:47:01 GMT"
+    },
+    {
+      "title": "Ukraine plans 2026 budget with 18.4% deficit, PM says - Reuters",
+      "pubDate": "Mon, 15 Sep 2025 15:42:42 GMT"
     }
   ],
   "Russia": [
@@ -861,10 +861,6 @@
   ],
   "China": [
     {
-      "title": "China's catastrophic South China Sea crash shows how dangerous high-risk moves at sea can be - Business Insider",
-      "pubDate": "Sat, 16 Aug 2025 12:39:00 GMT"
-    },
-    {
       "title": "China steps up tax crackdown on overseas investments - Financial Times",
       "pubDate": "Sun, 17 Aug 2025 04:00:21 GMT"
     },
@@ -1003,13 +999,13 @@
     {
       "title": "China's economy slowdown deepens in August with retail sales, industrial output missing expectations - CNBC",
       "pubDate": "Mon, 15 Sep 2025 02:12:00 GMT"
+    },
+    {
+      "title": "China says Nvidia violated anti-monopoly laws, significantly escalating trade tensions with US - CNN",
+      "pubDate": "Mon, 15 Sep 2025 09:27:34 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Regulatory Crossroads: How AI Safety Scrutiny Reshapes Tech Investment Landscapes - AInvest",
-      "pubDate": "Sat, 16 Aug 2025 21:35:16 GMT"
-    },
     {
       "title": "Igor Babuschkin Resigns from xAI Amid Ethical AI Disputes - AInvest",
       "pubDate": "Sun, 17 Aug 2025 10:37:34 GMT"
@@ -1165,6 +1161,10 @@
     {
       "title": "This California bill will require transparency from AI companies. But will it actually prevent major disasters? - vox.com",
       "pubDate": "Sat, 13 Sep 2025 15:55:00 GMT"
+    },
+    {
+      "title": "New AI safety governance framework unveiled - China Daily - Global Edition",
+      "pubDate": "Mon, 15 Sep 2025 12:17:04 GMT"
     }
   ],
   "Data Breach": [
@@ -1237,10 +1237,6 @@
   ],
   "US Economy": [
     {
-      "title": "US will dodge recession, but Trump's policies will slow economic growth: Report - USA Today",
-      "pubDate": "Sat, 16 Aug 2025 09:07:13 GMT"
-    },
-    {
       "title": "Economic Data Has Taken a Dark Turn. That Doesn\u2019t Mean a Crash Is Near. - The New York Times",
       "pubDate": "Tue, 19 Aug 2025 16:26:30 GMT"
     },
@@ -1270,10 +1266,6 @@
     }
   ],
   "Atlantic Ocean": [
-    {
-      "title": "Hurricane Erin explodes in strength to a Category 5 storm in the Caribbean - ABC7 Chicago",
-      "pubDate": "Sat, 16 Aug 2025 15:32:48 GMT"
-    },
     {
       "title": "Powerful Hurricane Erin could mimic damage from earlier hurricanes that stayed offshore - USA Today",
       "pubDate": "Sun, 17 Aug 2025 09:07:12 GMT"
@@ -1478,10 +1470,6 @@
     }
   ],
   "Fusion Power": [
-    {
-      "title": "Russia Warns as \"Light Exploded Without Fire\" When American Fusion Breakthrough Edged Toward 350 MW, Threatening Global Power Balance - Energy Reporters",
-      "pubDate": "Sat, 16 Aug 2025 09:56:06 GMT"
-    },
     {
       "title": "New AI model advances fusion power research by predicting the success of experiments - Phys.org",
       "pubDate": "Wed, 20 Aug 2025 15:30:07 GMT"
@@ -2223,18 +2211,6 @@
       "pubDate": "Wed, 20 Aug 2025 16:05:11 GMT"
     }
   ],
-  "Jeff Bezos": [
-    {
-      "title": "Jeff Bezos' Biological Father Didn't Know He Was A Billionaire Until 2012 - NDTV",
-      "pubDate": "Sat, 16 Aug 2025 13:54:02 GMT"
-    }
-  ],
-  "Data Science": [
-    {
-      "title": "This AI stock-picking tool uses data science to predict winners, now $56 for life - Popular Science",
-      "pubDate": "Sat, 16 Aug 2025 11:00:00 GMT"
-    }
-  ],
   "Pollution": [
     {
       "title": "US oil and gas air pollution is causing unequal health impacts: Study - The Hill",
@@ -2284,10 +2260,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Hours After Alaska Meet, Russia Fired 85 Drones, 1 Missile On Ukraine: Kyiv - NDTV",
-      "pubDate": "Sat, 16 Aug 2025 13:20:48 GMT"
-    },
     {
       "title": "High-tech drones turn Ukraine's front line into a deadly kill zone, complicating evacuations - ABC News",
       "pubDate": "Sun, 17 Aug 2025 09:18:43 GMT"
