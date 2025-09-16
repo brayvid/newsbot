@@ -305,6 +305,10 @@
     {
       "title": "Trump vows national emergency in Washington, DC over ICE dispute - Reuters",
       "pubDate": "Mon, 15 Sep 2025 17:40:13 GMT"
+    },
+    {
+      "title": "Trump\u2019s cherry-picked claims on political violence ignore his own rhetoric - CNN",
+      "pubDate": "Mon, 15 Sep 2025 20:52:52 GMT"
     }
   ],
   "Iran": [
@@ -314,10 +318,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel dismisses honorary Dutch consul after criticism of Gaza war - Ynetnews",
-      "pubDate": "Sat, 23 Aug 2025 13:04:15 GMT"
-    },
     {
       "title": "Israel says body of hostage returned as military begins Gaza City offensive - The Independent",
       "pubDate": "Fri, 29 Aug 2025 11:31:00 GMT"
@@ -473,13 +473,13 @@
     {
       "title": "Spain cancels major arms deal with Israel amid Gaza backlash - The Times of Israel",
       "pubDate": "Mon, 15 Sep 2025 19:41:15 GMT"
+    },
+    {
+      "title": "Netanyahu admits Israel faces prolonged \u2018isolation\u2019 over war in Gaza - CNN",
+      "pubDate": "Mon, 15 Sep 2025 16:50:55 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia and Ukraine target each other\u2019s energy infrastructure as war persists - PBS",
-      "pubDate": "Wed, 27 Aug 2025 22:30:31 GMT"
-    },
     {
       "title": "Russia launches second-biggest air assault of Ukraine war, killing 18 and damaging EU building - CNN",
       "pubDate": "Thu, 28 Aug 2025 05:48:00 GMT"
@@ -635,6 +635,10 @@
     {
       "title": "Ukraine plans 2026 budget with 18.4% deficit, PM says - Reuters",
       "pubDate": "Mon, 15 Sep 2025 15:42:42 GMT"
+    },
+    {
+      "title": "Russian occupiers brought death and intimidation to Kherson: Ukrainian teen - Al Jazeera",
+      "pubDate": "Tue, 16 Sep 2025 00:33:45 GMT"
     }
   ],
   "Russia": [
@@ -863,6 +867,10 @@
     {
       "title": "Fed meeting: What could come after interest rate cuts this week - Axios",
       "pubDate": "Mon, 15 Sep 2025 16:14:07 GMT"
+    },
+    {
+      "title": "RBC Capital raises year-end S&P 500 target, but sees \u2018choppy\u2019 action after big rally - CNBC",
+      "pubDate": "Mon, 15 Sep 2025 17:19:16 GMT"
     }
   ],
   "Recession": [
@@ -872,10 +880,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China steps up tax crackdown on overseas investments - Financial Times",
-      "pubDate": "Sun, 17 Aug 2025 04:00:21 GMT"
-    },
     {
       "title": "China to upgrade 300,000 km of rural roads by 2027 to boost economic growth - TV BRICS",
       "pubDate": "Sun, 17 Aug 2025 13:03:27 GMT"
@@ -1018,10 +1022,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Alternate Approaches To AI Safeguards: Meta Versus Anthropic - Forbes",
-      "pubDate": "Sun, 17 Aug 2025 12:00:00 GMT"
-    },
     {
       "title": "AI Under Siege : How Hackers Are Exploiting Vulnerable AI Systems - Geeky Gadgets",
       "pubDate": "Tue, 19 Aug 2025 07:10:10 GMT"
@@ -1177,6 +1177,10 @@
     {
       "title": "Top AI companies have spent months working with US, UK governments on model safety - CyberScoop",
       "pubDate": "Mon, 15 Sep 2025 20:40:01 GMT"
+    },
+    {
+      "title": "Study finds safety features weaken when AI models are cut down for efficiency - TechRadar",
+      "pubDate": "Mon, 15 Sep 2025 23:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1311,10 +1315,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Magnitude-6 earthquake strikes Indonesian island of Sulawesi - Australian Broadcasting Corporation",
-      "pubDate": "Sat, 16 Aug 2025 23:39:07 GMT"
-    },
-    {
       "title": "Powerful earthquake strikes Indonesia leaving dozens injured and two critical - The Independent",
       "pubDate": "Sun, 17 Aug 2025 06:01:00 GMT"
     },
@@ -1448,14 +1448,6 @@
     }
   ],
   "Hurricanes": [
-    {
-      "title": "Hurricane Erin strengthens significantly, will impact on Maryland's rip current - WBAL-TV",
-      "pubDate": "Sun, 17 Aug 2025 01:30:00 GMT"
-    },
-    {
-      "title": "Hurricane Erin weakens but maintains major hurricane status - Gulf Coast News and Weather",
-      "pubDate": "Sun, 17 Aug 2025 03:35:00 GMT"
-    },
     {
       "title": "Hurricane Erin regains Cat 4 strength as it pounds Puerto Rico - upi.com",
       "pubDate": "Mon, 18 Aug 2025 07:26:38 GMT"
@@ -1717,14 +1709,6 @@
   ],
   "Gaza": [
     {
-      "title": "US halts visitor visas from Gaza used for medical trips - BBC",
-      "pubDate": "Sat, 16 Aug 2025 23:55:38 GMT"
-    },
-    {
-      "title": "Gaza aid dropped into Israeli-designated danger zone, BBC Verify finds - BBC",
-      "pubDate": "Sat, 16 Aug 2025 23:04:22 GMT"
-    },
-    {
       "title": "Newly obtained video shows Israeli missile hitting Palestinian girl in Gaza - Al Jazeera",
       "pubDate": "Sun, 17 Aug 2025 16:14:47 GMT"
     },
@@ -1957,10 +1941,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Unexpected decline in the ocean carbon sink under record-high sea surface temperatures in 2023 - Nature",
-      "pubDate": "Tue, 02 Sep 2025 09:26:10 GMT"
-    },
-    {
       "title": "Climate scientists file a public, point-by-point rebuttal of Trump admin report casting doubt on climate change - CNN",
       "pubDate": "Tue, 02 Sep 2025 13:00:00 GMT"
     },
@@ -2115,6 +2095,10 @@
     {
       "title": "Climate change is fast shrinking the world\u2019s largest inland sea - The Conversation",
       "pubDate": "Mon, 15 Sep 2025 17:06:03 GMT"
+    },
+    {
+      "title": "Environmental groups are suing to silence scientists who wrote a report questioning climate change alarmism - Reason Magazine",
+      "pubDate": "Mon, 15 Sep 2025 19:53:40 GMT"
     }
   ],
   "Algorithms": [
@@ -2295,12 +2279,6 @@
       "pubDate": "Sat, 23 Aug 2025 16:24:47 GMT"
     }
   ],
-  "Hydrogen Fuel": [
-    {
-      "title": "US Officials Admit \"Cranes Blot Out the Sun\" as Europe\u2019s Hydrogen Megaproject Surges Ahead to Become Largest Construction Zone on the Planet - Sustainability Times",
-      "pubDate": "Sun, 17 Aug 2025 01:07:51 GMT"
-    }
-  ],
   "Social Media": [
     {
       "title": "Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs\u2014combined - MSN",
@@ -2461,6 +2439,12 @@
     {
       "title": "Trump is making a state visit to the U.K., the homeland of his immigrant mother - npr.org",
       "pubDate": "Sun, 14 Sep 2025 09:03:00 GMT"
+    }
+  ],
+  "Technology": [
+    {
+      "title": "Google releases VaultGemma, its first privacy-preserving LLM - Ars Technica",
+      "pubDate": "Mon, 15 Sep 2025 21:04:04 GMT"
     }
   ]
 }
