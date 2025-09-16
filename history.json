@@ -309,6 +309,10 @@
     {
       "title": "Trump\u2019s cherry-picked claims on political violence ignore his own rhetoric - CNN",
       "pubDate": "Mon, 15 Sep 2025 20:52:52 GMT"
+    },
+    {
+      "title": "Americans believe harsh political rhetoric is fueling violence, Reuters/Ipsos poll finds - Reuters",
+      "pubDate": "Tue, 16 Sep 2025 10:17:40 GMT"
     }
   ],
   "Iran": [
@@ -318,10 +322,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel says body of hostage returned as military begins Gaza City offensive - The Independent",
-      "pubDate": "Fri, 29 Aug 2025 11:31:00 GMT"
-    },
     {
       "title": "Israel declares Gaza\u2019s largest city a combat zone as death toll surpasses 63,000 - AP News",
       "pubDate": "Fri, 29 Aug 2025 19:34:00 GMT"
@@ -477,6 +477,10 @@
     {
       "title": "Netanyahu admits Israel faces prolonged \u2018isolation\u2019 over war in Gaza - CNN",
       "pubDate": "Mon, 15 Sep 2025 16:50:55 GMT"
+    },
+    {
+      "title": "UN inquiry finds top Israeli officials incited genocide in Gaza - Reuters",
+      "pubDate": "Tue, 16 Sep 2025 12:48:20 GMT"
     }
   ],
   "Ukraine": [
@@ -721,6 +725,10 @@
     {
       "title": "Russia holds major war games in Belarus amid NATO tensions - ABC News",
       "pubDate": "Mon, 15 Sep 2025 13:52:30 GMT"
+    },
+    {
+      "title": "Ukrainian children have been taken to more than 200 facilities in Russia, new report finds - NBC News",
+      "pubDate": "Tue, 16 Sep 2025 04:01:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -881,10 +889,6 @@
   ],
   "China": [
     {
-      "title": "China to upgrade 300,000 km of rural roads by 2027 to boost economic growth - TV BRICS",
-      "pubDate": "Sun, 17 Aug 2025 13:03:27 GMT"
-    },
-    {
       "title": "China\u2019s Capital Outflow Accelerates After Liberalization Efforts - Bloomberg",
       "pubDate": "Mon, 18 Aug 2025 02:50:00 GMT"
     },
@@ -1022,10 +1026,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI Under Siege : How Hackers Are Exploiting Vulnerable AI Systems - Geeky Gadgets",
-      "pubDate": "Tue, 19 Aug 2025 07:10:10 GMT"
-    },
     {
       "title": "Logit-Gap Steering: A New Frontier in Understanding and Probing LLM Safety - Unit 42",
       "pubDate": "Wed, 20 Aug 2025 23:09:55 GMT"
@@ -1181,6 +1181,10 @@
     {
       "title": "Study finds safety features weaken when AI models are cut down for efficiency - TechRadar",
       "pubDate": "Mon, 15 Sep 2025 23:00:00 GMT"
+    },
+    {
+      "title": "AI Pruning Triggers Safety Forgetting, Risks Harm in Devices - WebProNews",
+      "pubDate": "Tue, 16 Sep 2025 12:46:14 GMT"
     }
   ],
   "Data Breach": [
@@ -1282,10 +1286,6 @@
     }
   ],
   "Atlantic Ocean": [
-    {
-      "title": "Powerful Hurricane Erin could mimic damage from earlier hurricanes that stayed offshore - USA Today",
-      "pubDate": "Sun, 17 Aug 2025 09:07:12 GMT"
-    },
     {
       "title": "Hurricane Erin likely to bring \"life-threatening surf and rip currents\" to East Coast. Maps show its path and forecast. - CBS News",
       "pubDate": "Mon, 18 Aug 2025 15:03:38 GMT"
@@ -1517,10 +1517,6 @@
   ],
   "Alternative Energy": [
     {
-      "title": "Victoria\u2019s green energy build almost doubles in price - AFR",
-      "pubDate": "Sun, 17 Aug 2025 09:51:00 GMT"
-    },
-    {
       "title": "Analysis: Record solar growth keeps China\u2019s CO2 falling in first half of 2025 - Carbon Brief",
       "pubDate": "Wed, 20 Aug 2025 23:12:24 GMT"
     },
@@ -1545,12 +1541,6 @@
     {
       "title": "New cosmological model supports the evolution of dark energy - ASU News",
       "pubDate": "Fri, 22 Aug 2025 21:13:25 GMT"
-    }
-  ],
-  "Chemistry": [
-    {
-      "title": "Scientists finally tame the impossible 48-atom carbon ring - ScienceDaily",
-      "pubDate": "Sun, 17 Aug 2025 13:57:32 GMT"
     }
   ],
   "OpenAI": [
@@ -1685,12 +1675,6 @@
     {
       "title": "White House fires CDC director as other officials resign - BBC",
       "pubDate": "Thu, 28 Aug 2025 02:23:52 GMT"
-    }
-  ],
-  "Alexandria Ocasio-Cortez": [
-    {
-      "title": "Former AOC Staffer Arrested For Trying To Incite Attack On Jewish School - AOL.com",
-      "pubDate": "Sun, 17 Aug 2025 12:27:26 GMT"
     }
   ],
   "Geopolitics": [
@@ -1931,10 +1915,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Climate scientists file a public, point-by-point rebuttal of Trump admin report casting doubt on climate change - CNN",
-      "pubDate": "Tue, 02 Sep 2025 13:00:00 GMT"
-    },
-    {
       "title": "Appeals court allows EPA to end $20B \u2018climate bank\u2019 for projects - The Independent",
       "pubDate": "Tue, 02 Sep 2025 21:28:00 GMT"
     },
@@ -2089,6 +2069,10 @@
     {
       "title": "Environmental groups are suing to silence scientists who wrote a report questioning climate change alarmism - Reason Magazine",
       "pubDate": "Mon, 15 Sep 2025 19:53:40 GMT"
+    },
+    {
+      "title": "Tropical rainforest soil may fuel climate change as Earth warms, accelerating global warming - Phys.org",
+      "pubDate": "Tue, 16 Sep 2025 15:46:04 GMT"
     }
   ],
   "Algorithms": [
@@ -2171,10 +2155,6 @@
   ],
   "Amazon": [
     {
-      "title": "Amazon's expansion of grocery delivery isn't the death knell for these stocks. Here's why - CNBC",
-      "pubDate": "Sun, 17 Aug 2025 14:35:44 GMT"
-    },
-    {
       "title": "Don't click on that text from 'Amazon.' Federal Trade Commission warning about scammers - ABC7 Los Angeles",
       "pubDate": "Wed, 20 Aug 2025 16:05:11 GMT"
     }
@@ -2229,19 +2209,11 @@
   ],
   "Drones": [
     {
-      "title": "High-tech drones turn Ukraine's front line into a deadly kill zone, complicating evacuations - ABC News",
-      "pubDate": "Sun, 17 Aug 2025 09:18:43 GMT"
-    },
-    {
       "title": "How Ukraine\u2019s naval drones hold Russia\u2019s warships at bay - The Economist",
       "pubDate": "Sun, 24 Aug 2025 18:40:34 GMT"
     }
   ],
   "Algorithmic Trading": [
-    {
-      "title": "The Hidden Costs of Algorithmic Trading: How Governance Failures Erode Shareholder Value - AInvest",
-      "pubDate": "Sun, 17 Aug 2025 10:28:25 GMT"
-    },
     {
       "title": "FCA Warns Firms Of Failings In Algorithmic Trading Controls - Law360",
       "pubDate": "Thu, 21 Aug 2025 14:34:00 GMT"
