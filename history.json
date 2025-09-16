@@ -323,10 +323,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel declares Gaza\u2019s largest city a combat zone as death toll surpasses 63,000 - AP News",
-      "pubDate": "Fri, 29 Aug 2025 19:34:00 GMT"
-    },
-    {
       "title": "Gaza famine likely to worsen as Israel ends pauses for aid deliveries - The Guardian",
       "pubDate": "Fri, 29 Aug 2025 18:06:00 GMT"
     },
@@ -481,6 +477,10 @@
     {
       "title": "UN inquiry finds top Israeli officials incited genocide in Gaza - Reuters",
       "pubDate": "Tue, 16 Sep 2025 12:48:20 GMT"
+    },
+    {
+      "title": "Scoop: Israel presented Syria with proposal for new security agreement - Axios",
+      "pubDate": "Tue, 16 Sep 2025 19:53:40 GMT"
     }
   ],
   "Ukraine": [
@@ -729,6 +729,10 @@
     {
       "title": "Ukrainian children have been taken to more than 200 facilities in Russia, new report finds - NBC News",
       "pubDate": "Tue, 16 Sep 2025 04:01:00 GMT"
+    },
+    {
+      "title": "Russia launches cruise missiles in Zapad 2025 military drills with Belarus - Al Jazeera",
+      "pubDate": "Tue, 16 Sep 2025 12:56:15 GMT"
     }
   ],
   "Donald Trump": [
@@ -1027,10 +1031,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Logit-Gap Steering: A New Frontier in Understanding and Probing LLM Safety - Unit 42",
-      "pubDate": "Wed, 20 Aug 2025 23:09:55 GMT"
-    },
-    {
       "title": "Biden-era AI safety promises aren\u2019t holding up, and Apple\u2019s the weakest link - Fast Company",
       "pubDate": "Thu, 21 Aug 2025 09:12:40 GMT"
     },
@@ -1185,6 +1185,10 @@
     {
       "title": "AI Pruning Triggers Safety Forgetting, Risks Harm in Devices - WebProNews",
       "pubDate": "Tue, 16 Sep 2025 12:46:14 GMT"
+    },
+    {
+      "title": "AI Titans at War: Inside OpenAI, Google, Meta and the Race to Build AGI - ts2.tech",
+      "pubDate": "Tue, 16 Sep 2025 15:38:32 GMT"
     }
   ],
   "Data Breach": [
@@ -1341,10 +1345,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Bitcoin (BTC) Forecast: Price Could Drop to $108K\u2013$112K, Warns Crypto Analyst Lark Davis - CoinDesk",
-      "pubDate": "Sun, 17 Aug 2025 19:52:30 GMT"
-    },
-    {
       "title": "Bitcoin slides to $115,500 as macro data continues to dampen market sentiment - The Block",
       "pubDate": "Mon, 18 Aug 2025 05:04:20 GMT"
     },
@@ -1498,10 +1498,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "Fed Chair Jerome Powell may seriously disappoint Wall Street at Jackson Hole - Fortune",
-      "pubDate": "Sun, 17 Aug 2025 20:44:00 GMT"
-    },
     {
       "title": "Trump Demands a Fed Governor Resign, Escalating Campaign to Remake Central Bank - The New York Times",
       "pubDate": "Wed, 20 Aug 2025 15:35:50 GMT"
@@ -1688,10 +1684,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Newly obtained video shows Israeli missile hitting Palestinian girl in Gaza - Al Jazeera",
-      "pubDate": "Sun, 17 Aug 2025 16:14:47 GMT"
-    },
     {
       "title": "Leaked recording reveals ex-Israeli military intelligence chief calling 50,000 deaths in Gaza \u2018necessary\u2019 - CNN",
       "pubDate": "Mon, 18 Aug 2025 09:29:00 GMT"
@@ -1915,10 +1907,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Appeals court allows EPA to end $20B \u2018climate bank\u2019 for projects - The Independent",
-      "pubDate": "Tue, 02 Sep 2025 21:28:00 GMT"
-    },
-    {
       "title": "This was the hottest summer on record. If it happens again next year, Britain\u2019s ecosystems won\u2019t cope | Lucy Jones - The Guardian",
       "pubDate": "Wed, 03 Sep 2025 07:00:00 GMT"
     },
@@ -2073,6 +2061,10 @@
     {
       "title": "Tropical rainforest soil may fuel climate change as Earth warms, accelerating global warming - Phys.org",
       "pubDate": "Tue, 16 Sep 2025 15:46:04 GMT"
+    },
+    {
+      "title": "It\u2019s Not Just Flooding\u2014Climate Change Means More Landslide Risk, Too - Scientific American",
+      "pubDate": "Tue, 16 Sep 2025 10:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2086,10 +2078,6 @@
     }
   ],
   "Battery Electric Vehicle": [
-    {
-      "title": "Record number of EVs registered in western Europe across last quarter - The Guardian",
-      "pubDate": "Sun, 17 Aug 2025 16:19:00 GMT"
-    },
     {
       "title": "Porsche axes plans to build electric car batteries as demand collapses - The Telegraph",
       "pubDate": "Tue, 26 Aug 2025 13:43:00 GMT"
