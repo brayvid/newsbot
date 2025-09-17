@@ -327,10 +327,6 @@
   ],
   "Israel": [
     {
-      "title": "Israeli soldier killed, 11 wounded in intense fighting near Gaza City as 4 remain missing: Report - Anadolu Ajans\u0131",
-      "pubDate": "Sat, 30 Aug 2025 05:05:50 GMT"
-    },
-    {
       "title": "Targeting Iran\u2019s Leaders, Israel Found a Weak Link: Their Bodyguards - The New York Times",
       "pubDate": "Sat, 30 Aug 2025 09:00:41 GMT"
     },
@@ -485,6 +481,10 @@
     {
       "title": "Crisis engulfs Eurovision over Israel and Gaza - politico.eu",
       "pubDate": "Wed, 17 Sep 2025 02:06:42 GMT"
+    },
+    {
+      "title": "Gaza City\u2019s communications cut amid widening Israeli ground invasion - The Washington Post",
+      "pubDate": "Wed, 17 Sep 2025 15:48:42 GMT"
     }
   ],
   "Ukraine": [
@@ -741,6 +741,10 @@
     {
       "title": "Russia is ready to deepen discussions with the U.S. on Sakhalin 1 project, RIA reports - Reuters",
       "pubDate": "Wed, 17 Sep 2025 07:35:47 GMT"
+    },
+    {
+      "title": "Russia Planning Two More Major Offensives, Zelensky Warns - Newsweek",
+      "pubDate": "Wed, 17 Sep 2025 09:16:28 GMT"
     }
   ],
   "Donald Trump": [
@@ -1035,10 +1039,6 @@
   ],
   "AI Safety": [
     {
-      "title": "AI experts not saving for retirement because they expect the machines to kill us - KRON4",
-      "pubDate": "Fri, 22 Aug 2025 21:22:11 GMT"
-    },
-    {
       "title": "ChatGPT-5 Downgrade Attack Allows Hackers to Evade AI Defenses With Minimal Prompts - GBHackers News",
       "pubDate": "Sat, 23 Aug 2025 15:25:27 GMT"
     },
@@ -1193,13 +1193,13 @@
     {
       "title": "Guardrails for Responsible AI: Balancing Safety and Academic Discourse - Clarivate",
       "pubDate": "Wed, 17 Sep 2025 07:41:15 GMT"
+    },
+    {
+      "title": "Anthropic Clashes With White House Over AI Use in Law Enforcement, Citing Surveillance Policy - WinBuzzer",
+      "pubDate": "Wed, 17 Sep 2025 13:28:48 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "Workday Data Breach Bears Signs of Widespread Salesforce Hack - SecurityWeek",
-      "pubDate": "Mon, 18 Aug 2025 11:59:25 GMT"
-    },
     {
       "title": "Google issues warning to billions of Gmail users over password hack - The Independent",
       "pubDate": "Tue, 26 Aug 2025 14:30:00 GMT"
@@ -1290,10 +1290,6 @@
     }
   ],
   "Atlantic Ocean": [
-    {
-      "title": "Hurricane Erin likely to bring \"life-threatening surf and rip currents\" to East Coast. Maps show its path and forecast. - CBS News",
-      "pubDate": "Mon, 18 Aug 2025 15:03:38 GMT"
-    },
     {
       "title": "Powerful Tropical Storms Juliette And Fernand Cause Oceanic Disruptions And Travel Delays - Travel And Tour World",
       "pubDate": "Wed, 27 Aug 2025 01:14:19 GMT"
@@ -1677,14 +1673,6 @@
   ],
   "Gaza": [
     {
-      "title": "Leaked recording reveals ex-Israeli military intelligence chief calling 50,000 deaths in Gaza \u2018necessary\u2019 - CNN",
-      "pubDate": "Mon, 18 Aug 2025 09:29:00 GMT"
-    },
-    {
-      "title": "Hamas accepts latest Gaza ceasefire and hostage deal proposal - Axios",
-      "pubDate": "Mon, 18 Aug 2025 15:36:14 GMT"
-    },
-    {
       "title": "Gaza: Aid insufficient to avert \u2018widespread starvation\u2019 as Israeli military ramp-up forces more people to flee - UN News",
       "pubDate": "Tue, 19 Aug 2025 14:35:35 GMT"
     },
@@ -1899,10 +1887,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Scientists warn on safe carbon capture limits to address climate change - Financial Times",
-      "pubDate": "Wed, 03 Sep 2025 15:00:01 GMT"
-    },
-    {
       "title": "Childhood Heat Risk is Rising - Climate Central",
       "pubDate": "Wed, 03 Sep 2025 16:06:11 GMT"
     },
@@ -2057,6 +2041,10 @@
     {
       "title": "Human-made global warming \u2018caused two in three heat deaths in Europe this summer\u2019 - The Guardian",
       "pubDate": "Wed, 17 Sep 2025 08:18:00 GMT"
+    },
+    {
+      "title": "We\u2019ve Lived through the Three Hottest Summers on Record - Scientific American",
+      "pubDate": "Wed, 17 Sep 2025 04:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2082,10 +2070,6 @@
     }
   ],
   "Battery Technology": [
-    {
-      "title": "Chinese scientists make lithium battery breakthrough, doubling energy density - The Independent",
-      "pubDate": "Mon, 18 Aug 2025 09:51:00 GMT"
-    },
     {
       "title": "Scientists unveil self-healing battery that could be a game changer for EVs - supercarblondie.com",
       "pubDate": "Fri, 22 Aug 2025 22:19:00 GMT"
@@ -2205,12 +2189,6 @@
     {
       "title": "Pentagon fires intelligence chief after Iran attack assessment - BBC",
       "pubDate": "Sat, 23 Aug 2025 16:24:47 GMT"
-    }
-  ],
-  "Biology": [
-    {
-      "title": "Scientists urge shift in medicine to target the biology of aging - news-medical.net",
-      "pubDate": "Mon, 18 Aug 2025 13:08:00 GMT"
     }
   ],
   "Finance": [
@@ -2361,6 +2339,10 @@
     {
       "title": "Trump is making a state visit to the U.K., the homeland of his immigrant mother - npr.org",
       "pubDate": "Sun, 14 Sep 2025 09:03:00 GMT"
+    },
+    {
+      "title": "Trump begins historic state visit to UK amid pomp and protests - Reuters",
+      "pubDate": "Wed, 17 Sep 2025 13:05:51 GMT"
     }
   ],
   "Technology": [
