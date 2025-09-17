@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "A hacker used AI to automate an 'unprecedented' cybercrime spree, Anthropic says - NBC News",
-      "pubDate": "Wed, 27 Aug 2025 12:18:25 GMT"
-    },
-    {
       "title": "Nvidia revenue soars, but China chip sales screech to a halt - Axios",
       "pubDate": "Wed, 27 Aug 2025 22:26:45 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "AI fares better than doctors at predicting deadly complications after surgery - Johns Hopkins University",
       "pubDate": "Wed, 17 Sep 2025 07:01:00 GMT"
+    },
+    {
+      "title": "Google DeepMind claims \u2018historic\u2019 AI breakthrough in problem solving - The Guardian",
+      "pubDate": "Wed, 17 Sep 2025 17:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -317,6 +317,10 @@
     {
       "title": "Raw emotion rages on Capitol Hill as lawmakers grapple with Charlie Kirk's killing - NBC News",
       "pubDate": "Wed, 17 Sep 2025 00:48:00 GMT"
+    },
+    {
+      "title": "Republican leaders reject Democratic health care demands for bill to avoid shutdown - KCCI",
+      "pubDate": "Wed, 17 Sep 2025 20:48:00 GMT"
     }
   ],
   "Iran": [
@@ -326,10 +330,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Targeting Iran\u2019s Leaders, Israel Found a Weak Link: Their Bodyguards - The New York Times",
-      "pubDate": "Sat, 30 Aug 2025 09:00:41 GMT"
-    },
     {
       "title": "Israeli strike killed Houthi prime minister Ahmad al-Rahawi, group says - The Washington Post",
       "pubDate": "Sun, 31 Aug 2025 03:23:26 GMT"
@@ -485,13 +485,13 @@
     {
       "title": "Gaza City\u2019s communications cut amid widening Israeli ground invasion - The Washington Post",
       "pubDate": "Wed, 17 Sep 2025 15:48:42 GMT"
+    },
+    {
+      "title": "European Commission seeks sweeping sanctions on Israel amid Gaza offensive - Jewish Telegraphic Agency",
+      "pubDate": "Wed, 17 Sep 2025 18:20:21 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "European Commission summons Russia's top diplomat in Brussels over attack that damaged European Union building in Kyiv - ABC News",
-      "pubDate": "Fri, 29 Aug 2025 04:39:47 GMT"
-    },
     {
       "title": "All but one EU states demand Russia \u2018stop the killing\u2019 in Ukraine as Zelenskyy urges Monday deadline for Putin meeting \u2013 Europe live - The Guardian",
       "pubDate": "Fri, 29 Aug 2025 07:38:00 GMT"
@@ -647,6 +647,10 @@
     {
       "title": "Ukraine\u2019s skies are Europe\u2019s first line of defense against Russian drones - Atlantic Council",
       "pubDate": "Tue, 16 Sep 2025 21:01:00 GMT"
+    },
+    {
+      "title": "Ukraine expects $3.5 billion fund for US weapons to sustain fight against Russia, Zelenskyy says - AP News",
+      "pubDate": "Wed, 17 Sep 2025 16:01:00 GMT"
     }
   ],
   "Russia": [
@@ -748,10 +752,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump-Zelenskyy meeting live updates as leaders hold Ukraine talks at White House - CBS News",
-      "pubDate": "Mon, 18 Aug 2025 19:27:00 GMT"
-    },
     {
       "title": "Appeals court throws out Trump's $454 million civil fraud judgment - ABC News",
       "pubDate": "Thu, 21 Aug 2025 13:17:13 GMT"
@@ -1035,13 +1035,13 @@
     {
       "title": "China says Nvidia violated anti-monopoly laws, significantly escalating trade tensions with US - CNN",
       "pubDate": "Mon, 15 Sep 2025 09:27:34 GMT"
+    },
+    {
+      "title": "China Bans Top Tech Firms From Buying Nvidia Chips, Report Says - Investopedia",
+      "pubDate": "Wed, 17 Sep 2025 15:13:01 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "ChatGPT-5 Downgrade Attack Allows Hackers to Evade AI Defenses With Minimal Prompts - GBHackers News",
-      "pubDate": "Sat, 23 Aug 2025 15:25:27 GMT"
-    },
     {
       "title": "Experts question AI therapy's limits and data safety - Mitrade",
       "pubDate": "Sat, 23 Aug 2025 16:02:53 GMT"
@@ -1197,6 +1197,10 @@
     {
       "title": "Anthropic Clashes With White House Over AI Use in Law Enforcement, Citing Surveillance Policy - WinBuzzer",
       "pubDate": "Wed, 17 Sep 2025 13:28:48 GMT"
+    },
+    {
+      "title": "Parents Of Kids Allegedly Killed and Harmed by AI Give Emotional Testimony on Capitol Hill, Urge Regulation - Futurism",
+      "pubDate": "Wed, 17 Sep 2025 19:02:48 GMT"
     }
   ],
   "Data Breach": [
@@ -1887,10 +1891,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Childhood Heat Risk is Rising - Climate Central",
-      "pubDate": "Wed, 03 Sep 2025 16:06:11 GMT"
-    },
-    {
       "title": "Dozens of scientists push back on 'fundamentally flawed' Department of Energy climate report - ABC News",
       "pubDate": "Wed, 03 Sep 2025 16:10:15 GMT"
     },
@@ -2045,6 +2045,10 @@
     {
       "title": "We\u2019ve Lived through the Three Hottest Summers on Record - Scientific American",
       "pubDate": "Wed, 17 Sep 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Thousands died from heat made worse by climate change this summer - politico.eu",
+      "pubDate": "Wed, 17 Sep 2025 14:46:00 GMT"
     }
   ],
   "Algorithms": [
