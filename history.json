@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Scientists just developed a new AI modeled on the human brain \u2014 it's outperforming LLMs like ChatGPT at reasoning tasks - Live Science",
-      "pubDate": "Wed, 27 Aug 2025 12:00:00 GMT"
-    },
-    {
       "title": "A hacker used AI to automate an 'unprecedented' cybercrime spree, Anthropic says - NBC News",
       "pubDate": "Wed, 27 Aug 2025 12:18:25 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Politicians hoping AI can fix Australia\u2019s housing crisis are risking another Robodebt | Ehsan Nabavi - The Guardian",
       "pubDate": "Mon, 15 Sep 2025 02:18:00 GMT"
+    },
+    {
+      "title": "AI fares better than doctors at predicting deadly complications after surgery - Johns Hopkins University",
+      "pubDate": "Wed, 17 Sep 2025 07:01:00 GMT"
     }
   ],
   "US Politics": [
@@ -313,6 +313,10 @@
     {
       "title": "Americans believe harsh political rhetoric is fueling violence, Reuters/Ipsos poll finds - Reuters",
       "pubDate": "Tue, 16 Sep 2025 10:17:40 GMT"
+    },
+    {
+      "title": "Raw emotion rages on Capitol Hill as lawmakers grapple with Charlie Kirk's killing - NBC News",
+      "pubDate": "Wed, 17 Sep 2025 00:48:00 GMT"
     }
   ],
   "Iran": [
@@ -322,10 +326,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Gaza famine likely to worsen as Israel ends pauses for aid deliveries - The Guardian",
-      "pubDate": "Fri, 29 Aug 2025 18:06:00 GMT"
-    },
     {
       "title": "Israeli soldier killed, 11 wounded in intense fighting near Gaza City as 4 remain missing: Report - Anadolu Ajans\u0131",
       "pubDate": "Sat, 30 Aug 2025 05:05:50 GMT"
@@ -481,13 +481,13 @@
     {
       "title": "Scoop: Israel presented Syria with proposal for new security agreement - Axios",
       "pubDate": "Tue, 16 Sep 2025 19:53:40 GMT"
+    },
+    {
+      "title": "Crisis engulfs Eurovision over Israel and Gaza - politico.eu",
+      "pubDate": "Wed, 17 Sep 2025 02:06:42 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia launches second-biggest air assault of Ukraine war, killing 18 and damaging EU building - CNN",
-      "pubDate": "Thu, 28 Aug 2025 05:48:00 GMT"
-    },
     {
       "title": "European Commission summons Russia's top diplomat in Brussels over attack that damaged European Union building in Kyiv - ABC News",
       "pubDate": "Fri, 29 Aug 2025 04:39:47 GMT"
@@ -643,6 +643,10 @@
     {
       "title": "Russian occupiers brought death and intimidation to Kherson: Ukrainian teen - Al Jazeera",
       "pubDate": "Tue, 16 Sep 2025 00:33:45 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s skies are Europe\u2019s first line of defense against Russian drones - Atlantic Council",
+      "pubDate": "Tue, 16 Sep 2025 21:01:00 GMT"
     }
   ],
   "Russia": [
@@ -733,6 +737,10 @@
     {
       "title": "Russia launches cruise missiles in Zapad 2025 military drills with Belarus - Al Jazeera",
       "pubDate": "Tue, 16 Sep 2025 12:56:15 GMT"
+    },
+    {
+      "title": "Russia is ready to deepen discussions with the U.S. on Sakhalin 1 project, RIA reports - Reuters",
+      "pubDate": "Wed, 17 Sep 2025 07:35:47 GMT"
     }
   ],
   "Donald Trump": [
@@ -893,10 +901,6 @@
   ],
   "China": [
     {
-      "title": "China\u2019s Capital Outflow Accelerates After Liberalization Efforts - Bloomberg",
-      "pubDate": "Mon, 18 Aug 2025 02:50:00 GMT"
-    },
-    {
       "title": "China pledges to address India's rare earth needs, Indian source says - Reuters",
       "pubDate": "Tue, 19 Aug 2025 11:36:11 GMT"
     },
@@ -1030,10 +1034,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Biden-era AI safety promises aren\u2019t holding up, and Apple\u2019s the weakest link - Fast Company",
-      "pubDate": "Thu, 21 Aug 2025 09:12:40 GMT"
-    },
     {
       "title": "AI experts not saving for retirement because they expect the machines to kill us - KRON4",
       "pubDate": "Fri, 22 Aug 2025 21:22:11 GMT"
@@ -1189,13 +1189,13 @@
     {
       "title": "AI Titans at War: Inside OpenAI, Google, Meta and the Race to Build AGI - ts2.tech",
       "pubDate": "Tue, 16 Sep 2025 15:38:32 GMT"
+    },
+    {
+      "title": "Guardrails for Responsible AI: Balancing Safety and Academic Discourse - Clarivate",
+      "pubDate": "Wed, 17 Sep 2025 07:41:15 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "Online Gaming Provider Bragg Gaming Confirms Limited Internal Data Breach with No Impact on Operations - Stock Titan",
-      "pubDate": "Mon, 18 Aug 2025 02:08:12 GMT"
-    },
     {
       "title": "Workday Data Breach Bears Signs of Widespread Salesforce Hack - SecurityWeek",
       "pubDate": "Mon, 18 Aug 2025 11:59:25 GMT"
@@ -1345,10 +1345,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Bitcoin slides to $115,500 as macro data continues to dampen market sentiment - The Block",
-      "pubDate": "Mon, 18 Aug 2025 05:04:20 GMT"
-    },
-    {
       "title": "Bitcoin (BTC) Day Ahead: Fears of $400B in Liquidity Drain, Not Jackson Hole, Are Driving BTC and Stocks Lower - CoinDesk",
       "pubDate": "Wed, 20 Aug 2025 05:55:26 GMT"
     },
@@ -1444,10 +1440,6 @@
     }
   ],
   "Hurricanes": [
-    {
-      "title": "Hurricane Erin regains Cat 4 strength as it pounds Puerto Rico - upi.com",
-      "pubDate": "Mon, 18 Aug 2025 07:26:38 GMT"
-    },
     {
       "title": "Hurricane Erin: Dangerous seas forecast for US East Coast as storm grows - BBC",
       "pubDate": "Tue, 19 Aug 2025 10:37:27 GMT"
@@ -1907,10 +1899,6 @@
   ],
   "Climate Change": [
     {
-      "title": "This was the hottest summer on record. If it happens again next year, Britain\u2019s ecosystems won\u2019t cope | Lucy Jones - The Guardian",
-      "pubDate": "Wed, 03 Sep 2025 07:00:00 GMT"
-    },
-    {
       "title": "Scientists warn on safe carbon capture limits to address climate change - Financial Times",
       "pubDate": "Wed, 03 Sep 2025 15:00:01 GMT"
     },
@@ -2065,13 +2053,13 @@
     {
       "title": "It\u2019s Not Just Flooding\u2014Climate Change Means More Landslide Risk, Too - Scientific American",
       "pubDate": "Tue, 16 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Human-made global warming \u2018caused two in three heat deaths in Europe this summer\u2019 - The Guardian",
+      "pubDate": "Wed, 17 Sep 2025 08:18:00 GMT"
     }
   ],
   "Algorithms": [
-    {
-      "title": "New algorithms enable efficient machine learning with symmetric data - Technology Org",
-      "pubDate": "Mon, 18 Aug 2025 07:30:00 GMT"
-    },
     {
       "title": "UVA psychologists find algorithms that predict cognitive decline in twins - UVA Today",
       "pubDate": "Mon, 08 Sep 2025 19:28:11 GMT"
@@ -2153,12 +2141,6 @@
       "pubDate": "Fri, 22 Aug 2025 18:32:00 GMT"
     }
   ],
-  "India": [
-    {
-      "title": "India tax cut plan boosts shares; Nifty set for best day in 3 months - Reuters",
-      "pubDate": "Mon, 18 Aug 2025 06:03:00 GMT"
-    }
-  ],
   "Cloud Computing": [
     {
       "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race - Bloomberg.com",
@@ -2223,12 +2205,6 @@
     {
       "title": "Pentagon fires intelligence chief after Iran attack assessment - BBC",
       "pubDate": "Sat, 23 Aug 2025 16:24:47 GMT"
-    }
-  ],
-  "Social Media": [
-    {
-      "title": "Meta spends more guarding Mark Zuckerberg than Apple, Nvidia, Microsoft, Amazon, and Alphabet do for their own CEOs\u2014combined - MSN",
-      "pubDate": "Mon, 18 Aug 2025 08:35:52 GMT"
     }
   ],
   "Biology": [
