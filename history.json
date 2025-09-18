@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Nvidia revenue soars, but China chip sales screech to a halt - Axios",
-      "pubDate": "Wed, 27 Aug 2025 22:26:45 GMT"
-    },
-    {
       "title": "Nvidia CEO says AI boom far from over after tepid sales forecast - Reuters",
       "pubDate": "Thu, 28 Aug 2025 15:04:02 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Google DeepMind claims \u2018historic\u2019 AI breakthrough in problem solving - The Guardian",
       "pubDate": "Wed, 17 Sep 2025 17:00:00 GMT"
+    },
+    {
+      "title": "Meta Unveils Smart Glasses With Apps and an Artificial Intelligence Assistant - The New York Times",
+      "pubDate": "Thu, 18 Sep 2025 01:01:20 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump escalates attacks against Smithsonian museums, says there\u2019s too much focus on \u2018how bad slavery was\u2019 - CNN",
-      "pubDate": "Tue, 19 Aug 2025 19:50:00 GMT"
-    },
     {
       "title": "US government reviewing 55 million visas - Cairns Post",
       "pubDate": "Fri, 22 Aug 2025 03:41:57 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Republican leaders reject Democratic health care demands for bill to avoid shutdown - KCCI",
       "pubDate": "Wed, 17 Sep 2025 20:48:00 GMT"
+    },
+    {
+      "title": "Trump says he\u2019s designating Antifa as a terrorist organization - CNN",
+      "pubDate": "Thu, 18 Sep 2025 00:45:00 GMT"
     }
   ],
   "Iran": [
@@ -749,6 +749,10 @@
     {
       "title": "Russia Planning Two More Major Offensives, Zelensky Warns - Newsweek",
       "pubDate": "Wed, 17 Sep 2025 09:16:28 GMT"
+    },
+    {
+      "title": "Russia gives Ukrainian kids military training and reeducation, Yale researchers find - NPR",
+      "pubDate": "Wed, 17 Sep 2025 18:48:05 GMT"
     }
   ],
   "Donald Trump": [
@@ -895,6 +899,10 @@
     {
       "title": "RBC Capital raises year-end S&P 500 target, but sees \u2018choppy\u2019 action after big rally - CNBC",
       "pubDate": "Mon, 15 Sep 2025 17:19:16 GMT"
+    },
+    {
+      "title": "Markets didn\u2019t know which way to go after Wednesday\u2019s Fed rate cut. Expect more volatility ahead. - MarketWatch",
+      "pubDate": "Wed, 17 Sep 2025 20:49:00 GMT"
     }
   ],
   "Recession": [
@@ -1399,6 +1407,10 @@
     {
       "title": "Gemini Stock ($GEMI) Surges 14% on IPO Debut; Winklevoss Brothers Predict $1M Bitcoin - CoinDesk",
       "pubDate": "Sat, 13 Sep 2025 23:20:00 GMT"
+    },
+    {
+      "title": "Giant Trump statue holding Bitcoin displayed outside US Capitol to mark Fed rate decision - WJLA",
+      "pubDate": "Wed, 17 Sep 2025 16:15:54 GMT"
     }
   ],
   "BRICS": [
@@ -1476,10 +1488,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea Threatens Rapid Nuclear Growth Amid US War Games - Bloomberg.com",
-      "pubDate": "Tue, 19 Aug 2025 00:24:00 GMT"
-    },
     {
       "title": "Kim Jong Un pledges to speed up nuclear build-up over US-South Korea drills - Al Jazeera",
       "pubDate": "Tue, 19 Aug 2025 09:57:05 GMT"
@@ -1807,6 +1815,10 @@
     {
       "title": "U.S. senators accuse Israel of ethnic cleansing in Gaza after Middle East visit - WBFF",
       "pubDate": "Sat, 13 Sep 2025 22:06:10 GMT"
+    },
+    {
+      "title": "More Than 400,000 Flee Gaza City As Israel Pushes Ahead With Ground Invasion - Time Magazine",
+      "pubDate": "Wed, 17 Sep 2025 17:24:56 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1890,10 +1902,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Dozens of scientists push back on 'fundamentally flawed' Department of Energy climate report - ABC News",
-      "pubDate": "Wed, 03 Sep 2025 16:10:15 GMT"
-    },
     {
       "title": "Climate change driving conditions for Iberian wildfires: Study - Al Jazeera",
       "pubDate": "Thu, 04 Sep 2025 08:26:15 GMT"
@@ -2049,6 +2057,10 @@
     {
       "title": "Thousands died from heat made worse by climate change this summer - politico.eu",
       "pubDate": "Wed, 17 Sep 2025 14:46:00 GMT"
+    },
+    {
+      "title": "Human-caused climate change drove up unusual summer heat, report finds - CBS News",
+      "pubDate": "Wed, 17 Sep 2025 22:24:00 GMT"
     }
   ],
   "Algorithms": [
