@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Appeals court says Trump unlawfully leaned on emergency powers to impose tariffs - CNN",
-      "pubDate": "Fri, 29 Aug 2025 22:37:04 GMT"
-    },
-    {
       "title": "Trump raises fresh questions about Covid-19 vaccines that he says have \u2018ripped apart\u2019 CDC - CNN",
       "pubDate": "Mon, 01 Sep 2025 21:08:00 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "Senate passes \"National Day of Remembrance for Charlie Kirk\" - Axios",
       "pubDate": "Fri, 19 Sep 2025 07:09:03 GMT"
+    },
+    {
+      "title": "Senate fails to pass short-term funding bill, with both parties blaming the other for looming government shutdown \u2013 US politics live - The Guardian",
+      "pubDate": "Fri, 19 Sep 2025 09:58:00 GMT"
     }
   ],
   "Iran": [
@@ -330,10 +330,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Houthis storm UN buildings in Yemeni capital after Israel killed PM and other ministers - CNN",
-      "pubDate": "Sun, 31 Aug 2025 14:33:00 GMT"
-    },
     {
       "title": "Report: Internal IDF Document Concludes Months-long Gaza Offensive Failed - Haaretz",
       "pubDate": "Sun, 31 Aug 2025 23:24:00 GMT"
@@ -489,13 +485,13 @@
     {
       "title": "US, Israel criticise UN staff over Gaza war stance amid protests, documents show - Reuters",
       "pubDate": "Thu, 18 Sep 2025 21:39:10 GMT"
+    },
+    {
+      "title": "Civilians made up 15 of every 16 people killed by Israel in Gaza since March, data suggests - The Guardian",
+      "pubDate": "Fri, 19 Sep 2025 16:15:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia notes non-stop offensive on front line, Ukraine military points to own successes - Reuters",
-      "pubDate": "Sat, 30 Aug 2025 21:13:40 GMT"
-    },
     {
       "title": "Russia\u2019s 2025 Summer Offensive Ends in Heavy Losses, No Victories, Ukraine Says - UNITED24 Media",
       "pubDate": "Sun, 31 Aug 2025 09:44:51 GMT"
@@ -651,6 +647,10 @@
     {
       "title": "U.K.'s MI6 spy chief says Putin \"lies to the world\" and has no interest in peace in Ukraine - CBS News",
       "pubDate": "Fri, 19 Sep 2025 11:51:16 GMT"
+    },
+    {
+      "title": "Russia becoming \u2018more dangerous\u2019, EU foreign affairs head warns - Al Jazeera",
+      "pubDate": "Fri, 19 Sep 2025 19:35:00 GMT"
     }
   ],
   "Russia": [
@@ -1055,10 +1055,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Concerns over AI safety grow after lawsuit against OpenAI - 10TV",
-      "pubDate": "Wed, 27 Aug 2025 22:19:00 GMT"
-    },
-    {
       "title": "OpenAI co-founder warns of dystopian future as AI safety tests reveal troubling flaws - India Today",
       "pubDate": "Thu, 28 Aug 2025 04:58:14 GMT"
     },
@@ -1213,6 +1209,10 @@
     {
       "title": "Why one researcher says we should shut down AI forever before superintelligence arrives - Windows Central",
       "pubDate": "Fri, 19 Sep 2025 11:20:00 GMT"
+    },
+    {
+      "title": "Their teenage sons died by suicide. Now, they are sounding an alarm about AI chatbots - NPR",
+      "pubDate": "Fri, 19 Sep 2025 11:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1443,6 +1443,10 @@
     {
       "title": "DOE needs reorganization to develop fusion, industry leaders say - E&E News by POLITICO",
       "pubDate": "Fri, 19 Sep 2025 10:34:00 GMT"
+    },
+    {
+      "title": "Top US utility bets big on nuclear fusion as AI demand grows - Financial Times",
+      "pubDate": "Fri, 19 Sep 2025 15:15:14 GMT"
     }
   ],
   "North Korea": [
@@ -1490,10 +1494,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI CEO Sam Altman Concedes GPT-5 Was a Misfire, Bets on GPT-6 - Yahoo Finance",
-      "pubDate": "Wed, 20 Aug 2025 17:18:05 GMT"
-    },
     {
       "title": "OpenAI CFO Sarah Friar Says AI Boom \u2018Just Getting Started\u2019 - PYMNTS.com",
       "pubDate": "Wed, 20 Aug 2025 22:43:23 GMT"
@@ -1607,6 +1607,10 @@
     {
       "title": "Rigetti Stock Rises 14% After Landing Air Force Award. Quantum Stocks Jump. - Barron's",
       "pubDate": "Thu, 18 Sep 2025 15:32:00 GMT"
+    },
+    {
+      "title": "Trump administration planning expansion of U.S. quantum strategy - CyberScoop",
+      "pubDate": "Fri, 19 Sep 2025 15:44:56 GMT"
     }
   ],
   "Public Health": [
@@ -1622,10 +1626,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel enters first stage of planned assault on Gaza City - NBC News",
-      "pubDate": "Wed, 20 Aug 2025 17:40:33 GMT"
-    },
     {
       "title": "Hamas has one top strategy: End the war and survive - NPR",
       "pubDate": "Thu, 21 Aug 2025 20:06:04 GMT"
@@ -1845,10 +1845,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Physics-based indicator predicts tipping point for collapse of Atlantic current system in next 50 years - Phys.org",
-      "pubDate": "Fri, 05 Sep 2025 15:45:40 GMT"
-    },
-    {
       "title": "The Climate Change Playbook No Longer Works. What Can Activists Do? - The New York Times",
       "pubDate": "Fri, 05 Sep 2025 18:45:50 GMT"
     },
@@ -2003,6 +1999,10 @@
     {
       "title": "\u2018Crisis of justice\u2019 as floods devastate: Pakistan\u2019s climate change minister - Al Jazeera",
       "pubDate": "Fri, 19 Sep 2025 05:05:00 GMT"
+    },
+    {
+      "title": "Wildfire smoke is killing Americans. A new study quantifies how much - NPR",
+      "pubDate": "Fri, 19 Sep 2025 09:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2069,12 +2069,6 @@
     {
       "title": "Botswana declares public health emergency over medical shortages as Trump aid cuts hit - The Independent",
       "pubDate": "Wed, 27 Aug 2025 14:17:00 GMT"
-    }
-  ],
-  "Amazon": [
-    {
-      "title": "Don't click on that text from 'Amazon.' Federal Trade Commission warning about scammers - ABC7 Los Angeles",
-      "pubDate": "Wed, 20 Aug 2025 16:05:11 GMT"
     }
   ],
   "Pollution": [
@@ -2180,10 +2174,6 @@
     }
   ],
   "Ancient History": [
-    {
-      "title": "Want to understand the history of European culture? Start with the Minoans, not the Ancient Greeks - The Conversation",
-      "pubDate": "Wed, 20 Aug 2025 16:12:07 GMT"
-    },
     {
       "title": "Researchers Delight As Ecuador\u2019s First Ever Rock Paintings Are Found - Ancient Origins",
       "pubDate": "Tue, 26 Aug 2025 23:07:55 GMT"
