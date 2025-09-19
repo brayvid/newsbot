@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump fires Democratic Surface Transportation Board member before huge rail merger decision - PBS",
-      "pubDate": "Thu, 28 Aug 2025 22:47:09 GMT"
-    },
-    {
       "title": "Appeals court says Trump overstepped with tariffs; White House revokes former VP Harris' Secret Service protection - NBC News",
       "pubDate": "Fri, 29 Aug 2025 23:59:51 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "Trump floats stripping networks critical of him of their broadcast licenses - Politico",
       "pubDate": "Thu, 18 Sep 2025 20:05:07 GMT"
+    },
+    {
+      "title": "Trump slams Omar and Somalia after House censure fails - The Hill",
+      "pubDate": "Fri, 19 Sep 2025 00:44:00 GMT"
     }
   ],
   "Iran": [
@@ -330,10 +330,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israeli strike killed Houthi prime minister Ahmad al-Rahawi, group says - The Washington Post",
-      "pubDate": "Sun, 31 Aug 2025 03:23:26 GMT"
-    },
     {
       "title": "Israel targeted Hamas armed wing spokesperson in military operation, Netanyahu says - Reuters",
       "pubDate": "Sun, 31 Aug 2025 11:14:04 GMT"
@@ -489,13 +485,13 @@
     {
       "title": "European Commission seeks sweeping sanctions on Israel amid Gaza offensive - Jewish Telegraphic Agency",
       "pubDate": "Wed, 17 Sep 2025 18:20:21 GMT"
+    },
+    {
+      "title": "Attack at Jordan-West Bank crossing kills two Israeli soldiers - Al Jazeera",
+      "pubDate": "Thu, 18 Sep 2025 20:37:30 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine blows up two key Russian bridges using Moscow\u2019s own mines and $600 drones - CNN",
-      "pubDate": "Fri, 29 Aug 2025 14:03:00 GMT"
-    },
     {
       "title": "Prominent Ukrainian politician Andriy Parubiy shot dead in Lviv - BBC",
       "pubDate": "Sat, 30 Aug 2025 16:41:58 GMT"
@@ -651,6 +647,10 @@
     {
       "title": "Ukraine says Russia returns 1,000 bodies in latest exchange - Al Jazeera",
       "pubDate": "Thu, 18 Sep 2025 20:50:48 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Zelenskyy claims \u2018important success\u2019 as troops push back on Russian advances - The Guardian",
+      "pubDate": "Fri, 19 Sep 2025 01:29:00 GMT"
     }
   ],
   "Russia": [
@@ -1043,13 +1043,13 @@
     {
       "title": "China Bans Top Tech Firms From Buying Nvidia Chips, Report Says - Investopedia",
       "pubDate": "Wed, 17 Sep 2025 15:13:01 GMT"
+    },
+    {
+      "title": "China pushes for stronger BRICS cooperation in AI and clean energy - TV BRICS",
+      "pubDate": "Thu, 18 Sep 2025 16:31:51 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "OpenAI to update ChatGPT after parents sue over teen\u2019s suicide - Tech in Asia",
-      "pubDate": "Wed, 27 Aug 2025 00:01:00 GMT"
-    },
     {
       "title": "Anthropic launches AI advisory council to boost ties with Washington - Al Jazeera",
       "pubDate": "Wed, 27 Aug 2025 16:54:52 GMT"
@@ -1205,6 +1205,10 @@
     {
       "title": "OpenAI says its AI models are schemers that could cause 'serious harm' in the future. Here's its solution. - Business Insider",
       "pubDate": "Thu, 18 Sep 2025 13:24:00 GMT"
+    },
+    {
+      "title": "OpenAI Study: Advanced AIs Can Deceive, Scheme, and Evade Retraining - WebProNews",
+      "pubDate": "Fri, 19 Sep 2025 02:13:04 GMT"
     }
   ],
   "Data Breach": [
@@ -1432,10 +1436,6 @@
     }
   ],
   "Hurricanes": [
-    {
-      "title": "Hurricane Erin begins battering Long Island, with widespread coastal erosion to come this week - Newsday",
-      "pubDate": "Tue, 19 Aug 2025 23:07:32 GMT"
-    },
     {
       "title": "Hurricane Erin lashes Carolina coasts on course into open seas - Houston Chronicle",
       "pubDate": "Wed, 20 Aug 2025 15:14:59 GMT"
@@ -1871,10 +1871,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Powerful rain and floods devastate northern India as experts blame climate change - WTOP",
-      "pubDate": "Thu, 04 Sep 2025 10:04:55 GMT"
-    },
-    {
       "title": "Joe Rogan claims study shows Earth cooling \u2013 but report\u2019s authors say he\u2019s wrong - The Guardian",
       "pubDate": "Thu, 04 Sep 2025 12:04:00 GMT"
     },
@@ -2029,6 +2025,10 @@
     {
       "title": "Scientists predict wildfire smoke will be the most costly climate-related health hazard - NBC News",
       "pubDate": "Thu, 18 Sep 2025 15:12:42 GMT"
+    },
+    {
+      "title": "Ozone comeback? Report shows Earth\u2019s shield regaining strength - Homenewshere.com",
+      "pubDate": "Thu, 18 Sep 2025 16:59:10 GMT"
     }
   ],
   "Algorithms": [
@@ -2183,10 +2183,6 @@
   ],
   "NVIDIA": [
     {
-      "title": "Nvidia's $32.93 Billion Trading Volume Surpasses All in 2025 as Stock Dips 3.5% Amid China Strategy Uncertainties and New B30A Chip Plans - AInvest",
-      "pubDate": "Wed, 20 Aug 2025 01:15:10 GMT"
-    },
-    {
       "title": "Nvidia Orders Halt to H20 Production After China Directive Against Purchases - The Information",
       "pubDate": "Thu, 21 Aug 2025 23:59:00 GMT"
     },
@@ -2311,6 +2307,10 @@
     {
       "title": "Google releases VaultGemma, its first privacy-preserving LLM - Ars Technica",
       "pubDate": "Mon, 15 Sep 2025 21:04:04 GMT"
+    },
+    {
+      "title": "Nvidia just spent over $900 million to hire Enfabrica CEO, license AI startup's technology - CNBC",
+      "pubDate": "Thu, 18 Sep 2025 22:23:04 GMT"
     }
   ],
   "Artificial General Intelligence": [
