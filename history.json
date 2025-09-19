@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Nvidia CEO says AI boom far from over after tepid sales forecast - Reuters",
-      "pubDate": "Thu, 28 Aug 2025 15:04:02 GMT"
-    },
-    {
       "title": "China warns against \u2018disorderly competition\u2019 in booming AI race - Fortune",
       "pubDate": "Fri, 29 Aug 2025 08:13:24 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Meta Unveils Smart Glasses With Apps and an Artificial Intelligence Assistant - The New York Times",
       "pubDate": "Thu, 18 Sep 2025 01:01:20 GMT"
+    },
+    {
+      "title": "Italy first in EU to pass comprehensive law regulating use of AI - The Guardian",
+      "pubDate": "Fri, 19 Sep 2025 01:30:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Appeals court says Trump overstepped with tariffs; White House revokes former VP Harris' Secret Service protection - NBC News",
-      "pubDate": "Fri, 29 Aug 2025 23:59:51 GMT"
-    },
     {
       "title": "Appeals court says Trump unlawfully leaned on emergency powers to impose tariffs - CNN",
       "pubDate": "Fri, 29 Aug 2025 22:37:04 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Trump slams Omar and Somalia after House censure fails - The Hill",
       "pubDate": "Fri, 19 Sep 2025 00:44:00 GMT"
+    },
+    {
+      "title": "Senate passes \"National Day of Remembrance for Charlie Kirk\" - Axios",
+      "pubDate": "Fri, 19 Sep 2025 07:09:03 GMT"
     }
   ],
   "Iran": [
@@ -330,10 +330,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel targeted Hamas armed wing spokesperson in military operation, Netanyahu says - Reuters",
-      "pubDate": "Sun, 31 Aug 2025 11:14:04 GMT"
-    },
     {
       "title": "Houthis storm UN buildings in Yemeni capital after Israel killed PM and other ministers - CNN",
       "pubDate": "Sun, 31 Aug 2025 14:33:00 GMT"
@@ -489,6 +485,10 @@
     {
       "title": "Attack at Jordan-West Bank crossing kills two Israeli soldiers - Al Jazeera",
       "pubDate": "Thu, 18 Sep 2025 20:37:30 GMT"
+    },
+    {
+      "title": "US, Israel criticise UN staff over Gaza war stance amid protests, documents show - Reuters",
+      "pubDate": "Thu, 18 Sep 2025 21:39:10 GMT"
     }
   ],
   "Ukraine": [
@@ -753,6 +753,10 @@
     {
       "title": "Russia gives Ukrainian kids military training and reeducation, Yale researchers find - NPR",
       "pubDate": "Wed, 17 Sep 2025 18:48:05 GMT"
+    },
+    {
+      "title": "Maps: 7.8-Magnitude Earthquake Off Russia Prompts Brief Tsunami Advisory in Alaska - The New York Times",
+      "pubDate": "Fri, 19 Sep 2025 04:45:46 GMT"
     }
   ],
   "Donald Trump": [
@@ -847,6 +851,10 @@
     {
       "title": "Rather than unify the country after Kirk murder, Trump plays autocrat and stokes divisions | Trudy Rubin - Inquirer.com",
       "pubDate": "Sun, 14 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Trump poised to fire US attorney for resisting effort to charge NY AG Letitia James: Sources - ABC News",
+      "pubDate": "Fri, 19 Sep 2025 03:00:58 GMT"
     }
   ],
   "National Security": [
@@ -912,10 +920,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China to unveil advanced weapons at huge military parade to mark WWII end - Al Jazeera",
-      "pubDate": "Wed, 20 Aug 2025 04:13:08 GMT"
-    },
     {
       "title": "Saving China's finless porpoise from the brink of extinction - BBC",
       "pubDate": "Wed, 20 Aug 2025 22:01:43 GMT"
@@ -1231,10 +1235,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Russia-linked European attacks renew concerns over water cybersecurity - csoonline.com",
-      "pubDate": "Wed, 20 Aug 2025 07:01:45 GMT"
-    },
-    {
       "title": "Cybersecurity firm Netskope files to go public on the Nasdaq - CNBC",
       "pubDate": "Fri, 22 Aug 2025 20:36:41 GMT"
     },
@@ -1341,10 +1341,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Bitcoin (BTC) Day Ahead: Fears of $400B in Liquidity Drain, Not Jackson Hole, Are Driving BTC and Stocks Lower - CoinDesk",
-      "pubDate": "Wed, 20 Aug 2025 05:55:26 GMT"
-    },
-    {
       "title": "Bitcoin-Volatility Collapse Forces Risk-Loving Traders Elsewhere - Bloomberg.com",
       "pubDate": "Fri, 22 Aug 2025 16:58:32 GMT"
     },
@@ -1399,12 +1395,6 @@
     {
       "title": "Giant Trump statue holding Bitcoin displayed outside US Capitol to mark Fed rate decision - WJLA",
       "pubDate": "Wed, 17 Sep 2025 16:15:54 GMT"
-    }
-  ],
-  "BRICS": [
-    {
-      "title": "Russia pushes back against US 'sanctions' against India, says our market open for Indian goods, calls BRICS a stabilising force - WION",
-      "pubDate": "Wed, 20 Aug 2025 06:48:00 GMT"
     }
   ],
   "Renewable Energy": [
@@ -1531,10 +1521,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "Scientists May Have Just Cracked Quantum Computing\u2019s Biggest Problem - SciTechDaily",
-      "pubDate": "Wed, 20 Aug 2025 08:27:31 GMT"
-    },
-    {
       "title": "Another quantum computer reached quantum advantage \u2013 does it matter? - New Scientist",
       "pubDate": "Fri, 22 Aug 2025 11:00:44 GMT"
     },
@@ -1652,10 +1638,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Medics in Gaza Say 31 Palestinians Killed by IDF Since Midnight - Haaretz",
-      "pubDate": "Wed, 20 Aug 2025 08:22:00 GMT"
-    },
     {
       "title": "Israel to Double Army Reservists in Gaza to Boost Campaign - Bloomberg.com",
       "pubDate": "Wed, 20 Aug 2025 11:00:13 GMT"
@@ -1787,6 +1769,10 @@
     {
       "title": "Israeli minister touts Gaza 'real estate bonanza', defying international backlash - BBC",
       "pubDate": "Thu, 18 Sep 2025 12:08:07 GMT"
+    },
+    {
+      "title": "Hamas warns Gaza City offensive ends hope for hostage return, as pressure from families on Netanyahu grows - CNN",
+      "pubDate": "Thu, 18 Sep 2025 22:06:39 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1870,10 +1856,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Joe Rogan claims study shows Earth cooling \u2013 but report\u2019s authors say he\u2019s wrong - The Guardian",
-      "pubDate": "Thu, 04 Sep 2025 12:04:00 GMT"
-    },
     {
       "title": "Wildfires are fuelling air pollution, UN weather body says - Reuters",
       "pubDate": "Fri, 05 Sep 2025 04:04:00 GMT"
@@ -2029,6 +2011,10 @@
     {
       "title": "Ozone comeback? Report shows Earth\u2019s shield regaining strength - Homenewshere.com",
       "pubDate": "Thu, 18 Sep 2025 16:59:10 GMT"
+    },
+    {
+      "title": "Climate change is already driving heat mortality and massive economic losses - News-Medical",
+      "pubDate": "Fri, 19 Sep 2025 00:07:00 GMT"
     }
   ],
   "Algorithms": [
