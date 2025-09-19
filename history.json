@@ -493,10 +493,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Prominent Ukrainian politician Andriy Parubiy shot dead in Lviv - BBC",
-      "pubDate": "Sat, 30 Aug 2025 16:41:58 GMT"
-    },
-    {
       "title": "Russia notes non-stop offensive on front line, Ukraine military points to own successes - Reuters",
       "pubDate": "Sat, 30 Aug 2025 21:13:40 GMT"
     },
@@ -651,13 +647,13 @@
     {
       "title": "Ukraine war briefing: Zelenskyy claims \u2018important success\u2019 as troops push back on Russian advances - The Guardian",
       "pubDate": "Fri, 19 Sep 2025 01:29:00 GMT"
+    },
+    {
+      "title": "U.K.'s MI6 spy chief says Putin \"lies to the world\" and has no interest in peace in Ukraine - CBS News",
+      "pubDate": "Fri, 19 Sep 2025 11:51:16 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Russia, under war spending pressure, set for more austerity, tax hikes - Reuters",
-      "pubDate": "Wed, 20 Aug 2025 10:51:08 GMT"
-    },
     {
       "title": "Ukraine war: Volodymyr Zelensky rejects proposals for buffer zone to end fighting - BBC",
       "pubDate": "Fri, 29 Aug 2025 17:49:18 GMT"
@@ -855,6 +851,10 @@
     {
       "title": "Trump poised to fire US attorney for resisting effort to charge NY AG Letitia James: Sources - ABC News",
       "pubDate": "Fri, 19 Sep 2025 03:00:58 GMT"
+    },
+    {
+      "title": "Live updates: Trump says he and Xi will meet next month and that he\u2019ll go to China - AP News",
+      "pubDate": "Fri, 19 Sep 2025 15:50:00 GMT"
     }
   ],
   "National Security": [
@@ -1055,10 +1055,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Anthropic launches AI advisory council to boost ties with Washington - Al Jazeera",
-      "pubDate": "Wed, 27 Aug 2025 16:54:52 GMT"
-    },
-    {
       "title": "Concerns over AI safety grow after lawsuit against OpenAI - 10TV",
       "pubDate": "Wed, 27 Aug 2025 22:19:00 GMT"
     },
@@ -1213,6 +1209,10 @@
     {
       "title": "OpenAI Study: Advanced AIs Can Deceive, Scheme, and Evade Retraining - WebProNews",
       "pubDate": "Fri, 19 Sep 2025 02:13:04 GMT"
+    },
+    {
+      "title": "Why one researcher says we should shut down AI forever before superintelligence arrives - Windows Central",
+      "pubDate": "Fri, 19 Sep 2025 11:20:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1427,19 +1427,11 @@
   ],
   "Hurricanes": [
     {
-      "title": "Hurricane Erin lashes Carolina coasts on course into open seas - Houston Chronicle",
-      "pubDate": "Wed, 20 Aug 2025 15:14:59 GMT"
-    },
-    {
       "title": "Hurricane Erin stirs up strong winds, floods part of main highway as it creeps along the East Coast - ABC News",
       "pubDate": "Thu, 21 Aug 2025 05:56:10 GMT"
     }
   ],
   "Fusion Power": [
-    {
-      "title": "New AI model advances fusion power research by predicting the success of experiments - Phys.org",
-      "pubDate": "Wed, 20 Aug 2025 15:30:07 GMT"
-    },
     {
       "title": "Commonwealth Fusion Systems Raises $863 Million Series B2 Round to Accelerate the Commercialization of Fusion Energy - Yahoo Finance",
       "pubDate": "Thu, 28 Aug 2025 10:00:00 GMT"
@@ -1447,6 +1439,10 @@
     {
       "title": "Commonwealth Fusion Raises Almost $1 Billion In Bid To Win Race For Commercial Nuclear Fusion Power - NucNet",
       "pubDate": "Fri, 29 Aug 2025 11:06:21 GMT"
+    },
+    {
+      "title": "DOE needs reorganization to develop fusion, industry leaders say - E&E News by POLITICO",
+      "pubDate": "Fri, 19 Sep 2025 10:34:00 GMT"
     }
   ],
   "North Korea": [
@@ -1456,10 +1452,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "Trump Demands a Fed Governor Resign, Escalating Campaign to Remake Central Bank - The New York Times",
-      "pubDate": "Wed, 20 Aug 2025 15:35:50 GMT"
-    },
     {
       "title": "Fed's Powell signals likely September interest rate cut, citing 'downside risks' to jobs - USA Today",
       "pubDate": "Fri, 22 Aug 2025 14:55:07 GMT"
@@ -1498,10 +1490,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI logged its first $1 billion month but is still 'constantly under compute,' CFO says - CNBC",
-      "pubDate": "Wed, 20 Aug 2025 14:57:19 GMT"
-    },
     {
       "title": "OpenAI CEO Sam Altman Concedes GPT-5 Was a Misfire, Bets on GPT-6 - Yahoo Finance",
       "pubDate": "Wed, 20 Aug 2025 17:18:05 GMT"
@@ -1629,19 +1617,11 @@
   ],
   "Geopolitics": [
     {
-      "title": "Russia expects India to keep buying its oil and seeks China-India-Russia talks - Reuters",
-      "pubDate": "Wed, 20 Aug 2025 15:06:44 GMT"
-    },
-    {
       "title": "Kim and Putin top Xi\u2019s guest list for China\u2019s huge military parade in defiant show of unity - CNN",
       "pubDate": "Thu, 28 Aug 2025 02:47:00 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel to Double Army Reservists in Gaza to Boost Campaign - Bloomberg.com",
-      "pubDate": "Wed, 20 Aug 2025 11:00:13 GMT"
-    },
     {
       "title": "Israel enters first stage of planned assault on Gaza City - NBC News",
       "pubDate": "Wed, 20 Aug 2025 17:40:33 GMT"
@@ -1773,6 +1753,10 @@
     {
       "title": "Hamas warns Gaza City offensive ends hope for hostage return, as pressure from families on Netanyahu grows - CNN",
       "pubDate": "Thu, 18 Sep 2025 22:06:39 GMT"
+    },
+    {
+      "title": "U.S. vetoes U.N. Security Council resolution demanding immediate Gaza ceasefire and hostage release - NBC News",
+      "pubDate": "Fri, 19 Sep 2025 08:13:45 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1823,6 +1807,10 @@
     {
       "title": "Institutional Tsunami: Billions Pour into Bitcoin as Spot ETFs Ignite a New Era for Cryptocurrency - FinancialContent",
       "pubDate": "Fri, 12 Sep 2025 23:16:00 GMT"
+    },
+    {
+      "title": "SEC Green Lights Cryptocurrency ETF and the Market's Wild Ride - OneSafe",
+      "pubDate": "Fri, 19 Sep 2025 08:49:57 GMT"
     }
   ],
   "Apple": [
@@ -1856,10 +1844,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Wildfires are fuelling air pollution, UN weather body says - Reuters",
-      "pubDate": "Fri, 05 Sep 2025 04:04:00 GMT"
-    },
     {
       "title": "Physics-based indicator predicts tipping point for collapse of Atlantic current system in next 50 years - Phys.org",
       "pubDate": "Fri, 05 Sep 2025 15:45:40 GMT"
@@ -2015,6 +1999,10 @@
     {
       "title": "Climate change is already driving heat mortality and massive economic losses - News-Medical",
       "pubDate": "Fri, 19 Sep 2025 00:07:00 GMT"
+    },
+    {
+      "title": "\u2018Crisis of justice\u2019 as floods devastate: Pakistan\u2019s climate change minister - Al Jazeera",
+      "pubDate": "Fri, 19 Sep 2025 05:05:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2185,17 +2173,7 @@
       "pubDate": "Wed, 27 Aug 2025 13:49:00 GMT"
     }
   ],
-  "NASA": [
-    {
-      "title": "Acting NASA administrator Sean Duffy says the agency will 'move aside' from climate sciences to focus on exploring moon and Mars - Space",
-      "pubDate": "Wed, 20 Aug 2025 16:00:00 GMT"
-    }
-  ],
   "Energy Storage": [
-    {
-      "title": "US EPA issues \u2018comprehensive\u2019 full lifecycle BESS safety guidance - Energy-Storage.News",
-      "pubDate": "Wed, 20 Aug 2025 12:58:26 GMT"
-    },
     {
       "title": "Scientists make game-changing breakthrough with tech that could transform power grids: 'A decisive step' - The Cool Down",
       "pubDate": "Tue, 26 Aug 2025 20:00:00 GMT"
