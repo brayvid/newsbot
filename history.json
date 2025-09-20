@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "China warns against \u2018disorderly competition\u2019 in booming AI race - Fortune",
-      "pubDate": "Fri, 29 Aug 2025 08:13:24 GMT"
-    },
-    {
       "title": "Microsoft Launches Public Testing of First In-House Foundation Model - PYMNTS.com",
       "pubDate": "Fri, 29 Aug 2025 10:41:15 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Italy first in EU to pass comprehensive law regulating use of AI - The Guardian",
       "pubDate": "Fri, 19 Sep 2025 01:30:00 GMT"
+    },
+    {
+      "title": "New book claims superintelligent AI development is racing toward global catastrophe - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Fri, 19 Sep 2025 18:00:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump raises fresh questions about Covid-19 vaccines that he says have \u2018ripped apart\u2019 CDC - CNN",
-      "pubDate": "Mon, 01 Sep 2025 21:08:00 GMT"
-    },
     {
       "title": "Live updates: Judge says Trump's deployment of troops to L.A. violated the law; Congress faces shutdown fight - NBC News",
       "pubDate": "Tue, 02 Sep 2025 15:28:57 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Senate fails to pass short-term funding bill, with both parties blaming the other for looming government shutdown \u2013 US politics live - The Guardian",
       "pubDate": "Fri, 19 Sep 2025 09:58:00 GMT"
+    },
+    {
+      "title": "Democrats reject spending bill over healthcare cuts as shutdown looms - The Guardian",
+      "pubDate": "Fri, 19 Sep 2025 16:03:00 GMT"
     }
   ],
   "Iran": [
@@ -855,6 +855,10 @@
     {
       "title": "Live updates: Trump says he and Xi will meet next month and that he\u2019ll go to China - AP News",
       "pubDate": "Fri, 19 Sep 2025 15:50:00 GMT"
+    },
+    {
+      "title": "Trump imposes $100K fee on H-1B visas in new immigration action - CNN",
+      "pubDate": "Fri, 19 Sep 2025 20:13:14 GMT"
     }
   ],
   "National Security": [
@@ -920,10 +924,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Saving China's finless porpoise from the brink of extinction - BBC",
-      "pubDate": "Wed, 20 Aug 2025 22:01:43 GMT"
-    },
     {
       "title": "China turns against Nvidia\u2019s AI chip after \u2018insulting\u2019 Howard Lutnick remarks - Financial Times",
       "pubDate": "Thu, 21 Aug 2025 04:18:45 GMT"
@@ -1054,10 +1054,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "OpenAI co-founder warns of dystopian future as AI safety tests reveal troubling flaws - India Today",
-      "pubDate": "Thu, 28 Aug 2025 04:58:14 GMT"
-    },
     {
       "title": "OpenAI and Anthropic conduct cross-company AI safety evaluations - Tech Edition",
       "pubDate": "Thu, 28 Aug 2025 13:21:27 GMT"
@@ -1213,6 +1209,10 @@
     {
       "title": "Their teenage sons died by suicide. Now, they are sounding an alarm about AI chatbots - NPR",
       "pubDate": "Fri, 19 Sep 2025 11:00:00 GMT"
+    },
+    {
+      "title": "OpenAI Research Reveals Risks of \"Scheming\" in AI Models - The Tradable",
+      "pubDate": "Fri, 19 Sep 2025 17:38:38 GMT"
     }
   ],
   "Data Breach": [
@@ -1467,10 +1467,6 @@
   ],
   "Alternative Energy": [
     {
-      "title": "Analysis: Record solar growth keeps China\u2019s CO2 falling in first half of 2025 - Carbon Brief",
-      "pubDate": "Wed, 20 Aug 2025 23:12:24 GMT"
-    },
-    {
       "title": "China\u2019s Decarbonization Is So Fast Even New Coal Plants Aren\u2019t Stopping It - Foreign Policy",
       "pubDate": "Thu, 21 Aug 2025 13:33:06 GMT"
     },
@@ -1494,10 +1490,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI CFO Sarah Friar Says AI Boom \u2018Just Getting Started\u2019 - PYMNTS.com",
-      "pubDate": "Wed, 20 Aug 2025 22:43:23 GMT"
-    },
     {
       "title": "The family of teenager who died by suicide alleges OpenAI's ChatGPT is to blame - NBC News",
       "pubDate": "Tue, 26 Aug 2025 11:40:40 GMT"
@@ -1757,6 +1749,10 @@
     {
       "title": "U.S. vetoes U.N. Security Council resolution demanding immediate Gaza ceasefire and hostage release - NBC News",
       "pubDate": "Fri, 19 Sep 2025 08:13:45 GMT"
+    },
+    {
+      "title": "Archaeologists in Gaza Rushed to Rescue Thousands of Ancient Artifacts From an Impending Airstrike - Smithsonian Magazine",
+      "pubDate": "Fri, 19 Sep 2025 18:44:07 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1827,12 +1823,6 @@
       "pubDate": "Tue, 26 Aug 2025 16:06:11 GMT"
     }
   ],
-  "American Civil Liberties Union": [
-    {
-      "title": "Texas can't require display of the Ten Commandments in certain school districts' classrooms, judge says - ABC11",
-      "pubDate": "Wed, 20 Aug 2025 23:18:14 GMT"
-    }
-  ],
   "SpaceX": [
     {
       "title": "Elon Musk\u2019s Starship under pressure: Previous failures haunt SpaceX; Sunday launch could decide future - Times of India",
@@ -1844,10 +1834,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "The Climate Change Playbook No Longer Works. What Can Activists Do? - The New York Times",
-      "pubDate": "Fri, 05 Sep 2025 18:45:50 GMT"
-    },
     {
       "title": "These are science\u2019s boldest ideas to cool our heating planet - BBC Science Focus Magazine",
       "pubDate": "Sat, 06 Sep 2025 14:40:00 GMT"
@@ -2003,6 +1989,10 @@
     {
       "title": "Wildfire smoke is killing Americans. A new study quantifies how much - NPR",
       "pubDate": "Fri, 19 Sep 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Research Suggests Climate Change May Have Killed Over 16K in Europe This Summer - Truthout",
+      "pubDate": "Fri, 19 Sep 2025 17:15:47 GMT"
     }
   ],
   "Algorithms": [
