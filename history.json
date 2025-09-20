@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump to move Space Command headquarters to Alabama from Colorado - Reuters",
-      "pubDate": "Tue, 02 Sep 2025 19:46:55 GMT"
-    },
-    {
       "title": "Trump addresses speculation about his health - Axios",
       "pubDate": "Tue, 02 Sep 2025 21:11:15 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "US prosecutor resigns after Trump says 'I want him out' - BBC",
       "pubDate": "Sat, 20 Sep 2025 01:50:20 GMT"
+    },
+    {
+      "title": "Trump calls out \u2018highly overrated\u2019 Letterman for defending Kimmel - The Hill",
+      "pubDate": "Sat, 20 Sep 2025 11:56:00 GMT"
     }
   ],
   "Iran": [
@@ -493,10 +493,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia\u2019s 2025 Summer Offensive Ends in Heavy Losses, No Victories, Ukraine Says - UNITED24 Media",
-      "pubDate": "Sun, 31 Aug 2025 09:44:51 GMT"
-    },
-    {
       "title": "Ukraine war: Vladimir Putin says he reached 'understandings' with Donald Trump over war's end - BBC",
       "pubDate": "Mon, 01 Sep 2025 08:32:33 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Russia becoming \u2018more dangerous\u2019, EU foreign affairs head warns - Al Jazeera",
       "pubDate": "Fri, 19 Sep 2025 19:35:00 GMT"
+    },
+    {
+      "title": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens - NBC News",
+      "pubDate": "Sat, 20 Sep 2025 14:34:33 GMT"
     }
   ],
   "Russia": [
@@ -761,10 +761,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Appeals court throws out Trump's $454 million civil fraud judgment - ABC News",
-      "pubDate": "Thu, 21 Aug 2025 13:17:13 GMT"
-    },
-    {
       "title": "Trump threatens to send the military to Baltimore to 'clean up' crime - NBC News",
       "pubDate": "Sun, 24 Aug 2025 19:34:20 GMT"
     },
@@ -863,12 +859,6 @@
     {
       "title": "Trump imposes $100K fee on H-1B visas in new immigration action - CNN",
       "pubDate": "Fri, 19 Sep 2025 20:13:14 GMT"
-    }
-  ],
-  "National Security": [
-    {
-      "title": "US opens national security probe into imported wind turbines, components - Reuters",
-      "pubDate": "Thu, 21 Aug 2025 15:30:41 GMT"
     }
   ],
   "Financial Markets": [
@@ -1059,10 +1049,6 @@
   ],
   "AI Safety": [
     {
-      "title": "OpenAI and Anthropic conduct cross-company AI safety evaluations - Tech Edition",
-      "pubDate": "Thu, 28 Aug 2025 13:21:27 GMT"
-    },
-    {
       "title": "Exclusive: 60 U.K. Lawmakers Accuse Google of Breaking AI Safety Pledge - Time Magazine",
       "pubDate": "Fri, 29 Aug 2025 13:06:27 GMT"
     },
@@ -1217,6 +1203,10 @@
     {
       "title": "OpenAI Research Reveals Risks of \"Scheming\" in AI Models - The Tradable",
       "pubDate": "Fri, 19 Sep 2025 17:38:38 GMT"
+    },
+    {
+      "title": "Researchers Warn Superintelligent AI Could End Humanity - Khaama Press",
+      "pubDate": "Sat, 20 Sep 2025 11:45:18 GMT"
     }
   ],
   "Data Breach": [
@@ -1265,6 +1255,10 @@
     {
       "title": "AI for ATO: Pentagon seeks AI to streamline cumbersome cybersecurity processes - Breaking Defense",
       "pubDate": "Fri, 12 Sep 2025 13:51:53 GMT"
+    },
+    {
+      "title": "Cyberattack hits check-in systems at some of Europe\u2019s busiest airports - Al Jazeera",
+      "pubDate": "Sat, 20 Sep 2025 13:18:45 GMT"
     }
   ],
   "US Economy": [
@@ -1300,10 +1294,6 @@
     }
   ],
   "Astronomy": [
-    {
-      "title": "Astronomers trace massive cosmic explosion back 12 billion years. 'This is the most distant event where we can directly see light escaping from around stars' - Space",
-      "pubDate": "Thu, 21 Aug 2025 15:00:00 GMT"
-    },
     {
       "title": "Scientists May Have Found Evidence of Life Beyond Earth. Read That Again. - Popular Mechanics",
       "pubDate": "Fri, 22 Aug 2025 16:16:00 GMT"
@@ -1399,6 +1389,10 @@
     {
       "title": "Giant Trump statue holding Bitcoin displayed outside US Capitol to mark Fed rate decision - WJLA",
       "pubDate": "Wed, 17 Sep 2025 16:15:54 GMT"
+    },
+    {
+      "title": "Reported Physical Attacks On Bitcoin Holders Surge 169% This Semester - Forbes",
+      "pubDate": "Sat, 20 Sep 2025 11:31:09 GMT"
     }
   ],
   "Renewable Energy": [
@@ -1464,10 +1458,6 @@
     }
   ],
   "Alternative Energy": [
-    {
-      "title": "China\u2019s Decarbonization Is So Fast Even New Coal Plants Aren\u2019t Stopping It - Foreign Policy",
-      "pubDate": "Thu, 21 Aug 2025 13:33:06 GMT"
-    },
     {
       "title": "Scientists Discover a Cheaper, More Powerful Catalyst for Clean Hydrogen Energy - SciTechDaily",
       "pubDate": "Sat, 23 Aug 2025 14:27:55 GMT"
@@ -1755,6 +1745,10 @@
     {
       "title": "Gazans flee \u2018death and devastation\u2019 with no transportation or means of shelter - UN News",
       "pubDate": "Fri, 19 Sep 2025 21:04:42 GMT"
+    },
+    {
+      "title": "Israel Presses on With Gaza City Assault, 34 Palestinians Killed - U.S. News & World Report",
+      "pubDate": "Sat, 20 Sep 2025 12:52:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1832,10 +1826,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Study: There is less room to store carbon dioxide, driver of climate change, than previously thought - Phys.org",
-      "pubDate": "Sat, 06 Sep 2025 16:30:03 GMT"
-    },
     {
       "title": "Opening Remarks of Mr. Omar Faruk Osman, President of the Federation of African Journalists (FAJ) at the Pre-Summit Forum on \u201cMedia as a Catalyst for Africa\u2019s Climate Change, Peace and Security Agenda: Driving Just Transition and Climate Justice\u201d - peaceau.org",
       "pubDate": "Sat, 06 Sep 2025 16:27:20 GMT"
@@ -1991,6 +1981,10 @@
     {
       "title": "First treaty to protect marine life in high seas to take effect in January - Al Jazeera",
       "pubDate": "Sat, 20 Sep 2025 07:31:28 GMT"
+    },
+    {
+      "title": "\u2018Something is working\u2019: UN climate chief optimistic about green transition - The Guardian",
+      "pubDate": "Sat, 20 Sep 2025 07:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2079,10 +2073,6 @@
   ],
   "Asia": [
     {
-      "title": "Cloudbursts have killed over 400 people in South Asia. What are they? - NBC News",
-      "pubDate": "Thu, 21 Aug 2025 09:00:40 GMT"
-    },
-    {
       "title": "China Is Pouring Exports Into Africa Faster Than Anywhere Else - Yahoo Finance",
       "pubDate": "Tue, 26 Aug 2025 22:00:00 GMT"
     },
@@ -2102,10 +2092,6 @@
     }
   ],
   "Algorithmic Trading": [
-    {
-      "title": "FCA Warns Firms Of Failings In Algorithmic Trading Controls - Law360",
-      "pubDate": "Thu, 21 Aug 2025 14:34:00 GMT"
-    },
     {
       "title": "Australia to Modernise Trading System Rules - Markets Media",
       "pubDate": "Wed, 27 Aug 2025 08:24:26 GMT"
