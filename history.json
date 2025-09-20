@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Microsoft Launches Public Testing of First In-House Foundation Model - PYMNTS.com",
-      "pubDate": "Fri, 29 Aug 2025 10:41:15 GMT"
-    },
-    {
       "title": "AI is ummasking ICE officers. Can Washington do anything about it? - Politico",
       "pubDate": "Fri, 29 Aug 2025 18:00:00 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "New book claims superintelligent AI development is racing toward global catastrophe - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Fri, 19 Sep 2025 18:00:00 GMT"
+    },
+    {
+      "title": "OpenAI says ChatGPT might require age verification someday - Mashable",
+      "pubDate": "Fri, 19 Sep 2025 21:56:15 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Live updates: Judge says Trump's deployment of troops to L.A. violated the law; Congress faces shutdown fight - NBC News",
-      "pubDate": "Tue, 02 Sep 2025 15:28:57 GMT"
-    },
     {
       "title": "Trump to move Space Command headquarters to Alabama from Colorado - Reuters",
       "pubDate": "Tue, 02 Sep 2025 19:46:55 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Democrats reject spending bill over healthcare cuts as shutdown looms - The Guardian",
       "pubDate": "Fri, 19 Sep 2025 16:03:00 GMT"
+    },
+    {
+      "title": "US prosecutor resigns after Trump says 'I want him out' - BBC",
+      "pubDate": "Sat, 20 Sep 2025 01:50:20 GMT"
     }
   ],
   "Iran": [
@@ -330,10 +330,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Report: Internal IDF Document Concludes Months-long Gaza Offensive Failed - Haaretz",
-      "pubDate": "Sun, 31 Aug 2025 23:24:00 GMT"
-    },
     {
       "title": "Israel committing genocide in Gaza, say scholars - Financial Times",
       "pubDate": "Mon, 01 Sep 2025 14:24:19 GMT"
@@ -489,6 +485,10 @@
     {
       "title": "Civilians made up 15 of every 16 people killed by Israel in Gaza since March, data suggests - The Guardian",
       "pubDate": "Fri, 19 Sep 2025 16:15:00 GMT"
+    },
+    {
+      "title": "Suspect recorded killings of 2 Israeli Embassy staffers on a body camera, prosecutors say - NBC News",
+      "pubDate": "Sat, 20 Sep 2025 00:31:00 GMT"
     }
   ],
   "Ukraine": [
@@ -753,6 +753,10 @@
     {
       "title": "Maps: 7.8-Magnitude Earthquake Off Russia Prompts Brief Tsunami Advisory in Alaska - The New York Times",
       "pubDate": "Fri, 19 Sep 2025 04:45:46 GMT"
+    },
+    {
+      "title": "Estonia seeks urgent Nato consultation after Russian jets violate airspace - BBC",
+      "pubDate": "Sat, 20 Sep 2025 05:57:11 GMT"
     }
   ],
   "Donald Trump": [
@@ -925,10 +929,6 @@
   ],
   "China": [
     {
-      "title": "China turns against Nvidia\u2019s AI chip after \u2018insulting\u2019 Howard Lutnick remarks - Financial Times",
-      "pubDate": "Thu, 21 Aug 2025 04:18:45 GMT"
-    },
-    {
       "title": "China could host at least four Formula E races, says Agag - Reuters",
       "pubDate": "Fri, 22 Aug 2025 18:58:47 GMT"
     },
@@ -1051,6 +1051,10 @@
     {
       "title": "China pushes for stronger BRICS cooperation in AI and clean energy - TV BRICS",
       "pubDate": "Thu, 18 Sep 2025 16:31:51 GMT"
+    },
+    {
+      "title": "Trump-Xi call thaws US-China relations, but no clear TikTok deal yet - Al Jazeera",
+      "pubDate": "Fri, 19 Sep 2025 21:24:52 GMT"
     }
   ],
   "AI Safety": [
@@ -1425,12 +1429,6 @@
       "pubDate": "Sun, 31 Aug 2025 07:51:44 GMT"
     }
   ],
-  "Hurricanes": [
-    {
-      "title": "Hurricane Erin stirs up strong winds, floods part of main highway as it creeps along the East Coast - ABC News",
-      "pubDate": "Thu, 21 Aug 2025 05:56:10 GMT"
-    }
-  ],
   "Fusion Power": [
     {
       "title": "Commonwealth Fusion Systems Raises $863 Million Series B2 Round to Accelerate the Commercialization of Fusion Energy - Yahoo Finance",
@@ -1753,6 +1751,10 @@
     {
       "title": "Archaeologists in Gaza Rushed to Rescue Thousands of Ancient Artifacts From an Impending Airstrike - Smithsonian Magazine",
       "pubDate": "Fri, 19 Sep 2025 18:44:07 GMT"
+    },
+    {
+      "title": "Gazans flee \u2018death and devastation\u2019 with no transportation or means of shelter - UN News",
+      "pubDate": "Fri, 19 Sep 2025 21:04:42 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1811,10 +1813,6 @@
   ],
   "Apple": [
     {
-      "title": "Apple Patches Zero-Day Exploited in Targeted Attacks - SecurityWeek",
-      "pubDate": "Thu, 21 Aug 2025 08:51:34 GMT"
-    },
-    {
       "title": "Apple Explores Using Google Gemini AI to Power Revamped Siri - Bloomberg.com",
       "pubDate": "Fri, 22 Aug 2025 17:18:30 GMT"
     },
@@ -1834,10 +1832,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "These are science\u2019s boldest ideas to cool our heating planet - BBC Science Focus Magazine",
-      "pubDate": "Sat, 06 Sep 2025 14:40:00 GMT"
-    },
     {
       "title": "Study: There is less room to store carbon dioxide, driver of climate change, than previously thought - Phys.org",
       "pubDate": "Sat, 06 Sep 2025 16:30:03 GMT"
@@ -1993,6 +1987,10 @@
     {
       "title": "Research Suggests Climate Change May Have Killed Over 16K in Europe This Summer - Truthout",
       "pubDate": "Fri, 19 Sep 2025 17:15:47 GMT"
+    },
+    {
+      "title": "First treaty to protect marine life in high seas to take effect in January - Al Jazeera",
+      "pubDate": "Sat, 20 Sep 2025 07:31:28 GMT"
     }
   ],
   "Algorithms": [
@@ -2079,12 +2077,6 @@
       "pubDate": "Wed, 27 Aug 2025 17:03:45 GMT"
     }
   ],
-  "World Economy": [
-    {
-      "title": "China remains the key engine of world economic growth - News.MN",
-      "pubDate": "Thu, 21 Aug 2025 08:44:24 GMT"
-    }
-  ],
   "Asia": [
     {
       "title": "Cloudbursts have killed over 400 people in South Asia. What are they? - NBC News",
@@ -2167,12 +2159,6 @@
     {
       "title": "Researchers Delight As Ecuador\u2019s First Ever Rock Paintings Are Found - Ancient Origins",
       "pubDate": "Tue, 26 Aug 2025 23:07:55 GMT"
-    }
-  ],
-  "Health": [
-    {
-      "title": "US health workers implore RFK Jr to \u2018stop spreading inaccurate\u2019 information - Al Jazeera",
-      "pubDate": "Thu, 21 Aug 2025 04:21:14 GMT"
     }
   ],
   "FBI": [
