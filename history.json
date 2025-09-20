@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump addresses speculation about his health - Axios",
-      "pubDate": "Tue, 02 Sep 2025 21:11:15 GMT"
-    },
-    {
       "title": "Republican US House committee releases thousands of Epstein files - Reuters",
       "pubDate": "Wed, 03 Sep 2025 06:01:00 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "Trump calls out \u2018highly overrated\u2019 Letterman for defending Kimmel - The Hill",
       "pubDate": "Sat, 20 Sep 2025 11:56:00 GMT"
+    },
+    {
+      "title": "Massive banners with Trump\u2019s face are adorning some federal buildings in DC. Democrats are crying foul - CNN",
+      "pubDate": "Sat, 20 Sep 2025 12:00:05 GMT"
     }
   ],
   "Iran": [
@@ -493,10 +493,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war: Vladimir Putin says he reached 'understandings' with Donald Trump over war's end - BBC",
-      "pubDate": "Mon, 01 Sep 2025 08:32:33 GMT"
-    },
-    {
       "title": "Ukraine war latest: EU boss told she should 'know better' over comments on post-war troops - Sky News",
       "pubDate": "Mon, 01 Sep 2025 20:26:57 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens - NBC News",
       "pubDate": "Sat, 20 Sep 2025 14:34:33 GMT"
+    },
+    {
+      "title": "Putin Decides He Can Step Up Attacks on Kyiv and Trump Won\u2019t Act - Bloomberg.com",
+      "pubDate": "Sat, 20 Sep 2025 12:00:00 GMT"
     }
   ],
   "Russia": [
@@ -1049,10 +1049,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Exclusive: 60 U.K. Lawmakers Accuse Google of Breaking AI Safety Pledge - Time Magazine",
-      "pubDate": "Fri, 29 Aug 2025 13:06:27 GMT"
-    },
-    {
       "title": "Google violated AI safety commitments British lawmakers say in an open letter - Fortune",
       "pubDate": "Fri, 29 Aug 2025 17:28:00 GMT"
     },
@@ -1207,6 +1203,10 @@
     {
       "title": "Researchers Warn Superintelligent AI Could End Humanity - Khaama Press",
       "pubDate": "Sat, 20 Sep 2025 11:45:18 GMT"
+    },
+    {
+      "title": "The Illusion of Control: Why Agentic AI is Forcing a Total Rethink of AI Alignment - Unite.AI",
+      "pubDate": "Sat, 20 Sep 2025 09:49:30 GMT"
     }
   ],
   "Data Breach": [
@@ -1393,6 +1393,10 @@
     {
       "title": "Reported Physical Attacks On Bitcoin Holders Surge 169% This Semester - Forbes",
       "pubDate": "Sat, 20 Sep 2025 11:31:09 GMT"
+    },
+    {
+      "title": "Kevin Durant Recovers Bitcoin Bought at $650, Now Up Over 17,700%, After Nearly a Decade - CoinDesk",
+      "pubDate": "Sat, 20 Sep 2025 14:50:25 GMT"
     }
   ],
   "Renewable Energy": [
@@ -1591,6 +1595,10 @@
     {
       "title": "Trump administration planning expansion of U.S. quantum strategy - CyberScoop",
       "pubDate": "Fri, 19 Sep 2025 15:44:56 GMT"
+    },
+    {
+      "title": "Scientists Capture W State, Unlocking Quantum Teleportation - SciTechDaily",
+      "pubDate": "Sat, 20 Sep 2025 20:26:43 GMT"
     }
   ],
   "Public Health": [
@@ -1606,10 +1614,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Hamas has one top strategy: End the war and survive - NPR",
-      "pubDate": "Thu, 21 Aug 2025 20:06:04 GMT"
-    },
     {
       "title": "Famine has struck Gaza, will likely spread, says global hunger monitor - USA Today",
       "pubDate": "Fri, 22 Aug 2025 09:50:48 GMT"
@@ -1749,6 +1753,10 @@
     {
       "title": "Israel Presses on With Gaza City Assault, 34 Palestinians Killed - U.S. News & World Report",
       "pubDate": "Sat, 20 Sep 2025 12:52:00 GMT"
+    },
+    {
+      "title": "Can France\u2019s Palestinian Proposal Change 75 Years of Failed Diplomacy? - The New York Times",
+      "pubDate": "Sat, 20 Sep 2025 18:31:35 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1826,10 +1834,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Opening Remarks of Mr. Omar Faruk Osman, President of the Federation of African Journalists (FAJ) at the Pre-Summit Forum on \u201cMedia as a Catalyst for Africa\u2019s Climate Change, Peace and Security Agenda: Driving Just Transition and Climate Justice\u201d - peaceau.org",
-      "pubDate": "Sat, 06 Sep 2025 16:27:20 GMT"
-    },
     {
       "title": "Where will climate change hit hardest? Global index reveals vulnerability - Earth.com",
       "pubDate": "Sun, 07 Sep 2025 15:25:27 GMT"
@@ -1985,6 +1989,10 @@
     {
       "title": "\u2018Something is working\u2019: UN climate chief optimistic about green transition - The Guardian",
       "pubDate": "Sat, 20 Sep 2025 07:00:00 GMT"
+    },
+    {
+      "title": "National parks remove signs about climate, slavery and Japanese internment - The Washington Post",
+      "pubDate": "Sat, 20 Sep 2025 17:00:15 GMT"
     }
   ],
   "Algorithms": [
