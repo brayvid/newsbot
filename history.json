@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Physicians Lose Cancer Detection Skills After Reliance On Artificial Intelligence - Forbes",
-      "pubDate": "Sat, 30 Aug 2025 15:16:15 GMT"
-    },
-    {
       "title": "Doctors develop AI stethoscope that can detect major heart conditions in 15 seconds - The Guardian",
       "pubDate": "Sat, 30 Aug 2025 10:03:00 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Americans Want AI's Benefits But Fear Losing What Makes Them Human: Survey - Decrypt",
       "pubDate": "Sat, 20 Sep 2025 20:50:37 GMT"
+    },
+    {
+      "title": "As AI tools reshape education, schools struggle with how to draw the line on cheating - Pittsburgh Post-Gazette",
+      "pubDate": "Sun, 21 Sep 2025 08:00:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Democrats blast state department for lack of \u2018basic oversight\u2019 of controversial Gaza food organization - The Guardian",
-      "pubDate": "Wed, 03 Sep 2025 15:57:00 GMT"
-    },
     {
       "title": "Mamdani calls reports of White House meddling in NYC mayor's race an 'affront to our democracy' - ABC News",
       "pubDate": "Thu, 04 Sep 2025 00:56:15 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Trump publicly pushes Attorney General Pam Bondi to go after his political foes - NBC News",
       "pubDate": "Sun, 21 Sep 2025 01:24:00 GMT"
+    },
+    {
+      "title": "Democratic leaders in Congress demand a meeting with Trump as government shutdown looms - AP News",
+      "pubDate": "Sun, 21 Sep 2025 00:02:00 GMT"
     }
   ],
   "Iran": [
@@ -330,10 +330,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel committing genocide in Gaza, say scholars - Financial Times",
-      "pubDate": "Mon, 01 Sep 2025 14:24:19 GMT"
-    },
     {
       "title": "Thousands attend funeral of Houthi leaders killed by Israeli strike, vow revenge - Reuters",
       "pubDate": "Mon, 01 Sep 2025 16:35:06 GMT"
@@ -489,13 +485,13 @@
     {
       "title": "Suspect recorded killings of 2 Israeli Embassy staffers on a body camera, prosecutors say - NBC News",
       "pubDate": "Sat, 20 Sep 2025 00:31:00 GMT"
+    },
+    {
+      "title": "UK PM Starmer to recognise Palestinian statehood before UNGA meeting - Al Jazeera",
+      "pubDate": "Sun, 21 Sep 2025 07:48:56 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine war latest: EU boss told she should 'know better' over comments on post-war troops - Sky News",
-      "pubDate": "Mon, 01 Sep 2025 20:26:57 GMT"
-    },
     {
       "title": "Disguised gunman who assassinated prominent Ukraine politician is linked to Russia, Kyiv says - CBS News",
       "pubDate": "Mon, 01 Sep 2025 16:15:00 GMT"
@@ -651,6 +647,10 @@
     {
       "title": "Putin Decides He Can Step Up Attacks on Kyiv and Trump Won\u2019t Act - Bloomberg.com",
       "pubDate": "Sat, 20 Sep 2025 12:00:00 GMT"
+    },
+    {
+      "title": "'Demographic conquest': Inside Russia\u2019s campaign to indoctrinate kidnapped Ukrainian children - France 24",
+      "pubDate": "Sun, 21 Sep 2025 07:33:49 GMT"
     }
   ],
   "Russia": [
@@ -1309,10 +1309,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Major earthquake rocks the South Atlantic Ocean far off the coast of Argentina - ABC News",
-      "pubDate": "Fri, 22 Aug 2025 06:39:18 GMT"
-    },
-    {
       "title": "Afghanistan Earthquake Death Toll Soars to 800: Live Updates - Newsweek",
       "pubDate": "Mon, 01 Sep 2025 08:29:13 GMT"
     },
@@ -1599,6 +1595,10 @@
     {
       "title": "Scientists Capture W State, Unlocking Quantum Teleportation - SciTechDaily",
       "pubDate": "Sat, 20 Sep 2025 20:26:43 GMT"
+    },
+    {
+      "title": "Scientists just made atoms talk to each other inside silicon chips - ScienceDaily",
+      "pubDate": "Sun, 21 Sep 2025 06:03:03 GMT"
     }
   ],
   "Public Health": [
@@ -1839,10 +1839,6 @@
   ],
   "Climate Change": [
     {
-      "title": "New research indicates caribou populations could decline 80 per cent by 2100 - The Conversation",
-      "pubDate": "Sun, 07 Sep 2025 12:28:47 GMT"
-    },
-    {
       "title": "Giant Amazon Trees Can Help Scientists Tackle Climate Change - Eurasia Review",
       "pubDate": "Sun, 07 Sep 2025 22:29:55 GMT"
     },
@@ -1997,6 +1993,10 @@
     {
       "title": "Treaty to protect deep ocean reaches key threshold for entry into force - Climate Home News",
       "pubDate": "Sat, 20 Sep 2025 23:14:16 GMT"
+    },
+    {
+      "title": "\u2018We must change\u2019: how drought and overextraction of water has run Iran dry - The Guardian",
+      "pubDate": "Sun, 21 Sep 2025 06:01:00 GMT"
     }
   ],
   "Algorithms": [
