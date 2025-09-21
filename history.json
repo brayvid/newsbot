@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI is ummasking ICE officers. Can Washington do anything about it? - Politico",
-      "pubDate": "Fri, 29 Aug 2025 18:00:00 GMT"
-    },
-    {
       "title": "Physicians Lose Cancer Detection Skills After Reliance On Artificial Intelligence - Forbes",
       "pubDate": "Sat, 30 Aug 2025 15:16:15 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "OpenAI says ChatGPT might require age verification someday - Mashable",
       "pubDate": "Fri, 19 Sep 2025 21:56:15 GMT"
+    },
+    {
+      "title": "Americans Want AI's Benefits But Fear Losing What Makes Them Human: Survey - Decrypt",
+      "pubDate": "Sat, 20 Sep 2025 20:50:37 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Republican US House committee releases thousands of Epstein files - Reuters",
-      "pubDate": "Wed, 03 Sep 2025 06:01:00 GMT"
-    },
     {
       "title": "Democrats blast state department for lack of \u2018basic oversight\u2019 of controversial Gaza food organization - The Guardian",
       "pubDate": "Wed, 03 Sep 2025 15:57:00 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Massive banners with Trump\u2019s face are adorning some federal buildings in DC. Democrats are crying foul - CNN",
       "pubDate": "Sat, 20 Sep 2025 12:00:05 GMT"
+    },
+    {
+      "title": "Trump publicly pushes Attorney General Pam Bondi to go after his political foes - NBC News",
+      "pubDate": "Sun, 21 Sep 2025 01:24:00 GMT"
     }
   ],
   "Iran": [
@@ -1757,6 +1757,10 @@
     {
       "title": "Can France\u2019s Palestinian Proposal Change 75 Years of Failed Diplomacy? - The New York Times",
       "pubDate": "Sat, 20 Sep 2025 18:31:35 GMT"
+    },
+    {
+      "title": "Gazans say Israel\u2019s building demolitions fuel fears of permanent displacement - The Times of Israel",
+      "pubDate": "Sat, 20 Sep 2025 17:13:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1834,10 +1838,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Where will climate change hit hardest? Global index reveals vulnerability - Earth.com",
-      "pubDate": "Sun, 07 Sep 2025 15:25:27 GMT"
-    },
     {
       "title": "New research indicates caribou populations could decline 80 per cent by 2100 - The Conversation",
       "pubDate": "Sun, 07 Sep 2025 12:28:47 GMT"
@@ -1993,12 +1993,20 @@
     {
       "title": "National parks remove signs about climate, slavery and Japanese internment - The Washington Post",
       "pubDate": "Sat, 20 Sep 2025 17:00:15 GMT"
+    },
+    {
+      "title": "Treaty to protect deep ocean reaches key threshold for entry into force - Climate Home News",
+      "pubDate": "Sat, 20 Sep 2025 23:14:16 GMT"
     }
   ],
   "Algorithms": [
     {
       "title": "UVA psychologists find algorithms that predict cognitive decline in twins - UVA Today",
       "pubDate": "Mon, 08 Sep 2025 19:28:11 GMT"
+    },
+    {
+      "title": "White House outlines TikTok deal that would give US control of algorithm - BBC",
+      "pubDate": "Sat, 20 Sep 2025 22:19:16 GMT"
     }
   ],
   "Battery Electric Vehicle": [
@@ -2067,12 +2075,6 @@
       "pubDate": "Fri, 22 Aug 2025 18:32:00 GMT"
     }
   ],
-  "Cloud Computing": [
-    {
-      "title": "Meta Signs $10 Billion Google Cloud Computing Deal Amid AI Race - Bloomberg.com",
-      "pubDate": "Fri, 22 Aug 2025 00:21:00 GMT"
-    }
-  ],
   "Blockchain": [
     {
       "title": "Google unveils GCUL L1 blockchain: \u2018Will stab at Ethereum\u2019s market share\u2019 - AMBCrypto",
@@ -2127,10 +2129,6 @@
   ],
   "NVIDIA": [
     {
-      "title": "Nvidia Orders Halt to H20 Production After China Directive Against Purchases - The Information",
-      "pubDate": "Thu, 21 Aug 2025 23:59:00 GMT"
-    },
-    {
       "title": "Nvidia Earnings Are the Stock Market Risk Event After Fed Rally - Bloomberg.com",
       "pubDate": "Sun, 24 Aug 2025 13:00:07 GMT"
     },
@@ -2159,6 +2157,10 @@
     {
       "title": "FBI raids home of John Bolton, former Trump national security advisor - CNBC",
       "pubDate": "Fri, 22 Aug 2025 11:48:16 GMT"
+    },
+    {
+      "title": "Tom Homan investigated for accepting $50,000 from FBI agents. Trump's DOJ shut it down. - MSNBC News",
+      "pubDate": "Sat, 20 Sep 2025 19:45:58 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
