@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Mamdani calls reports of White House meddling in NYC mayor's race an 'affront to our democracy' - ABC News",
-      "pubDate": "Thu, 04 Sep 2025 00:56:15 GMT"
-    },
-    {
       "title": "RFK Jr defends chaos at federal health agencies as Democratic senators attack his \u2018disaster\u2019 tenure \u2013 live updates - The Guardian",
       "pubDate": "Thu, 04 Sep 2025 15:48:38 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "Democratic leaders in Congress demand a meeting with Trump as government shutdown looms - AP News",
       "pubDate": "Sun, 21 Sep 2025 00:02:00 GMT"
+    },
+    {
+      "title": "Gov. Josh Shapiro says Americans must \u2018universally condemn\u2019 political violence following Charlie Kirk's assassination - NBC News",
+      "pubDate": "Sun, 21 Sep 2025 13:02:14 GMT"
     }
   ],
   "Iran": [
@@ -493,10 +493,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Disguised gunman who assassinated prominent Ukraine politician is linked to Russia, Kyiv says - CBS News",
-      "pubDate": "Mon, 01 Sep 2025 16:15:00 GMT"
-    },
-    {
       "title": "Europe live: US treasury secretary indicates growing frustration with Putin over Ukraine - The Guardian",
       "pubDate": "Tue, 02 Sep 2025 07:54:11 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "'Demographic conquest': Inside Russia\u2019s campaign to indoctrinate kidnapped Ukrainian children - France 24",
       "pubDate": "Sun, 21 Sep 2025 07:33:49 GMT"
+    },
+    {
+      "title": "Russia launches hundreds of drones and missiles across Ukraine - CNN",
+      "pubDate": "Sun, 21 Sep 2025 08:27:00 GMT"
     }
   ],
   "Russia": [
@@ -909,6 +909,10 @@
     {
       "title": "Markets didn\u2019t know which way to go after Wednesday\u2019s Fed rate cut. Expect more volatility ahead. - MarketWatch",
       "pubDate": "Wed, 17 Sep 2025 20:49:00 GMT"
+    },
+    {
+      "title": "Federal Reserve Slashes Rates to 4.25%, Signaling New Era of Easier Borrowing Costs - MSN",
+      "pubDate": "Sun, 21 Sep 2025 10:41:51 GMT"
     }
   ],
   "Recession": [
@@ -1045,13 +1049,13 @@
     {
       "title": "Trump-Xi call thaws US-China relations, but no clear TikTok deal yet - Al Jazeera",
       "pubDate": "Fri, 19 Sep 2025 21:24:52 GMT"
+    },
+    {
+      "title": "China isn't begging for Nvidia anymore. Here are homegrown tech plays to watch - CNBC",
+      "pubDate": "Sun, 21 Sep 2025 11:55:26 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Google violated AI safety commitments British lawmakers say in an open letter - Fortune",
-      "pubDate": "Fri, 29 Aug 2025 17:28:00 GMT"
-    },
     {
       "title": "Meta Overhauls Teen AI Safety Rules Amid Criticism - WinBuzzer",
       "pubDate": "Fri, 29 Aug 2025 20:58:51 GMT"
@@ -1207,6 +1211,10 @@
     {
       "title": "The Illusion of Control: Why Agentic AI is Forcing a Total Rethink of AI Alignment - Unite.AI",
       "pubDate": "Sat, 20 Sep 2025 09:49:30 GMT"
+    },
+    {
+      "title": "Straight Out of a Sci-Fi: AI Modifies Its Own Code to Stop Humans From Shutting It Down - The Daily Galaxy",
+      "pubDate": "Sun, 21 Sep 2025 11:15:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1279,12 +1287,6 @@
     {
       "title": "Trump threatens tariffs on countries that \u2018discriminate\u2019 against US tech | Trump tariffs - The Guardian",
       "pubDate": "Wed, 27 Aug 2025 01:31:00 GMT"
-    }
-  ],
-  "Asteroids": [
-    {
-      "title": "Plane-Size Asteroid Approaching Earth, NASA Reports - Newsweek",
-      "pubDate": "Fri, 22 Aug 2025 14:25:51 GMT"
     }
   ],
   "Atlantic Ocean": [
@@ -1441,17 +1443,7 @@
       "pubDate": "Fri, 19 Sep 2025 15:15:14 GMT"
     }
   ],
-  "North Korea": [
-    {
-      "title": "\u200bNorth Korea Honors Its Soldiers Who Fought in Ukraine War - The New York Times",
-      "pubDate": "Fri, 22 Aug 2025 11:12:35 GMT"
-    }
-  ],
   "Federal Reserve": [
-    {
-      "title": "Fed's Powell signals likely September interest rate cut, citing 'downside risks' to jobs - USA Today",
-      "pubDate": "Fri, 22 Aug 2025 14:55:07 GMT"
-    },
     {
       "title": "Trump says he's removing Federal Reserve Gov. Lisa Cook, citing his administration\u2019s allegations of mortgage fraud - NBC News",
       "pubDate": "Tue, 26 Aug 2025 15:24:00 GMT"
@@ -1488,10 +1480,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Another quantum computer reached quantum advantage \u2013 does it matter? - New Scientist",
-      "pubDate": "Fri, 22 Aug 2025 11:00:44 GMT"
-    },
     {
       "title": "Japan launches its first homegrown quantum computer - Live Science",
       "pubDate": "Tue, 26 Aug 2025 12:14:41 GMT"
@@ -1614,14 +1602,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Famine has struck Gaza, will likely spread, says global hunger monitor - USA Today",
-      "pubDate": "Fri, 22 Aug 2025 09:50:48 GMT"
-    },
-    {
-      "title": "UN-backed experts declare famine in and around Gaza City - The Guardian",
-      "pubDate": "Fri, 22 Aug 2025 10:08:00 GMT"
-    },
     {
       "title": "Airdropped Aid Is Crushing Starving People in Gaza - The Intercept",
       "pubDate": "Fri, 22 Aug 2025 21:54:39 GMT"
@@ -1761,6 +1741,10 @@
     {
       "title": "Gazans say Israel\u2019s building demolitions fuel fears of permanent displacement - The Times of Israel",
       "pubDate": "Sat, 20 Sep 2025 17:13:00 GMT"
+    },
+    {
+      "title": "Trump goes into UN gathering isolated but defiant on path ahead for Gaza - CNN",
+      "pubDate": "Sun, 21 Sep 2025 12:00:05 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1838,10 +1822,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Giant Amazon Trees Can Help Scientists Tackle Climate Change - Eurasia Review",
-      "pubDate": "Sun, 07 Sep 2025 22:29:55 GMT"
-    },
     {
       "title": "Scientists find a surprising reason why people are eating more sugar - CNN",
       "pubDate": "Mon, 08 Sep 2025 15:32:00 GMT"
@@ -1997,6 +1977,10 @@
     {
       "title": "\u2018We must change\u2019: how drought and overextraction of water has run Iran dry - The Guardian",
       "pubDate": "Sun, 21 Sep 2025 06:01:00 GMT"
+    },
+    {
+      "title": "Space Lasers Reveal a 30-Year Secret About Our Rising Oceans - SciTechDaily",
+      "pubDate": "Sun, 21 Sep 2025 10:58:20 GMT"
     }
   ],
   "Algorithms": [
@@ -2155,19 +2139,11 @@
   ],
   "FBI": [
     {
-      "title": "FBI raids home of John Bolton, former Trump national security advisor - CNBC",
-      "pubDate": "Fri, 22 Aug 2025 11:48:16 GMT"
-    },
-    {
       "title": "Tom Homan investigated for accepting $50,000 from FBI agents. Trump's DOJ shut it down. - MSNBC News",
       "pubDate": "Sat, 20 Sep 2025 19:45:58 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "CISA Warns of Actively Exploited 0-Day Vulnerability in Apple iOS, iPadOS, and macOS - GBHackers News",
-      "pubDate": "Fri, 22 Aug 2025 12:33:59 GMT"
-    },
     {
       "title": "CISA steps in to help Nevada state government recover from cyberattack - The Record from Recorded Future News",
       "pubDate": "Thu, 28 Aug 2025 13:11:04 GMT"
