@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Doctors develop AI stethoscope that can detect major heart conditions in 15 seconds - The Guardian",
-      "pubDate": "Sat, 30 Aug 2025 10:03:00 GMT"
-    },
-    {
       "title": "There are 32 different ways AI can go rogue, scientists say \u2014 from hallucinating answers to a complete misalignment with humanity - Live Science",
       "pubDate": "Sun, 31 Aug 2025 10:00:00 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "As AI tools reshape education, schools struggle with how to draw the line on cheating - Pittsburgh Post-Gazette",
       "pubDate": "Sun, 21 Sep 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Chatbot site depicting child sexual abuse images raises fears over misuse of AI - The Guardian",
+      "pubDate": "Sun, 21 Sep 2025 18:35:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "RFK Jr defends chaos at federal health agencies as Democratic senators attack his \u2018disaster\u2019 tenure \u2013 live updates - The Guardian",
-      "pubDate": "Thu, 04 Sep 2025 15:48:38 GMT"
-    },
     {
       "title": "Trump Is Trying to Blackmail the Supreme Court - Politico",
       "pubDate": "Thu, 04 Sep 2025 09:00:00 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Gov. Josh Shapiro says Americans must \u2018universally condemn\u2019 political violence following Charlie Kirk's assassination - NBC News",
       "pubDate": "Sun, 21 Sep 2025 13:02:14 GMT"
+    },
+    {
+      "title": "For Erika Kirk, a Husband\u2019s Life Cut Short by Violence He Seemed to Foresee - The New York Times",
+      "pubDate": "Sun, 21 Sep 2025 09:02:38 GMT"
     }
   ],
   "Iran": [
@@ -757,6 +757,10 @@
     {
       "title": "Estonia seeks urgent Nato consultation after Russian jets violate airspace - BBC",
       "pubDate": "Sat, 20 Sep 2025 05:57:11 GMT"
+    },
+    {
+      "title": "Germany scrambles jets after Russia military aircraft flies over Baltic Sea - Al Jazeera",
+      "pubDate": "Sun, 21 Sep 2025 15:58:43 GMT"
     }
   ],
   "Donald Trump": [
@@ -923,10 +927,6 @@
   ],
   "China": [
     {
-      "title": "China could host at least four Formula E races, says Agag - Reuters",
-      "pubDate": "Fri, 22 Aug 2025 18:58:47 GMT"
-    },
-    {
       "title": "China builds bridges on uneven ground in Central Asia - East Asia Forum",
       "pubDate": "Sat, 23 Aug 2025 00:00:00 GMT"
     },
@@ -1053,6 +1053,10 @@
     {
       "title": "China isn't begging for Nvidia anymore. Here are homegrown tech plays to watch - CNBC",
       "pubDate": "Sun, 21 Sep 2025 11:55:26 GMT"
+    },
+    {
+      "title": "China to deliver 2,500-ton diesel-electric submarine to US\u2019 oldest ally in Asia - Interesting Engineering",
+      "pubDate": "Sun, 21 Sep 2025 10:21:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1237,10 +1241,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Cybersecurity firm Netskope files to go public on the Nasdaq - CNBC",
-      "pubDate": "Fri, 22 Aug 2025 20:36:41 GMT"
-    },
-    {
       "title": "FBI warns Chinese hacking campaign has expanded, reaching 80 countries - The Washington Post",
       "pubDate": "Wed, 27 Aug 2025 21:00:00 GMT"
     },
@@ -1297,14 +1297,6 @@
   ],
   "Astronomy": [
     {
-      "title": "Scientists May Have Found Evidence of Life Beyond Earth. Read That Again. - Popular Mechanics",
-      "pubDate": "Fri, 22 Aug 2025 16:16:00 GMT"
-    },
-    {
-      "title": "New type of supernova \u2018looks like nothing anyone has ever seen before,\u2019 astronomer says - CNN",
-      "pubDate": "Fri, 22 Aug 2025 19:00:00 GMT"
-    },
-    {
       "title": "Scientists discover 300 odd galaxies that shouldn\u2019t exist - The Brighter Side of News",
       "pubDate": "Sat, 23 Aug 2025 23:07:00 GMT"
     }
@@ -1332,14 +1324,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin-Volatility Collapse Forces Risk-Loving Traders Elsewhere - Bloomberg.com",
-      "pubDate": "Fri, 22 Aug 2025 16:58:32 GMT"
-    },
-    {
-      "title": "Bitcoin has hit several new all-time highs this year \u2014 and each drawdown is getting shallower - CNBC",
-      "pubDate": "Fri, 22 Aug 2025 18:26:31 GMT"
-    },
     {
       "title": "Federal Reserve Rate Cuts Might Ignite Bitcoin's Ascent - OneSafe",
       "pubDate": "Sun, 24 Aug 2025 07:10:14 GMT"
@@ -1745,6 +1729,10 @@
     {
       "title": "Trump goes into UN gathering isolated but defiant on path ahead for Gaza - CNN",
       "pubDate": "Sun, 21 Sep 2025 12:00:05 GMT"
+    },
+    {
+      "title": "Scoop: Trump plans summit in New York with Arab leaders on Gaza war - Axios",
+      "pubDate": "Sun, 21 Sep 2025 17:58:17 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1803,10 +1791,6 @@
   ],
   "Apple": [
     {
-      "title": "Apple Explores Using Google Gemini AI to Power Revamped Siri - Bloomberg.com",
-      "pubDate": "Fri, 22 Aug 2025 17:18:30 GMT"
-    },
-    {
       "title": "Apple announces launch event on Sept. 9, iPhone 17 expected - CNBC",
       "pubDate": "Tue, 26 Aug 2025 16:06:11 GMT"
     }
@@ -1822,10 +1806,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Scientists find a surprising reason why people are eating more sugar - CNN",
-      "pubDate": "Mon, 08 Sep 2025 15:32:00 GMT"
-    },
     {
       "title": "Mosquitos at the US southern border reveal a frightening reality about climate change - vox.com",
       "pubDate": "Mon, 08 Sep 2025 10:00:00 GMT"
@@ -1981,6 +1961,10 @@
     {
       "title": "Space Lasers Reveal a 30-Year Secret About Our Rising Oceans - SciTechDaily",
       "pubDate": "Sun, 21 Sep 2025 10:58:20 GMT"
+    },
+    {
+      "title": "Could wildfire smoke become America\u2019s leading climate health threat by 2050? - Los Angeles Times",
+      "pubDate": "Sun, 21 Sep 2025 10:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2001,12 +1985,6 @@
     {
       "title": "US study confirms that electric cars produce less emissions than combustion engines - Notebookcheck",
       "pubDate": "Wed, 27 Aug 2025 13:18:00 GMT"
-    }
-  ],
-  "Defense Intelligence Agency": [
-    {
-      "title": "Hegseth fires head of Defense Intelligence Agency, Lt. Gen. Jeffrey Kruse - The Washington Post",
-      "pubDate": "Fri, 22 Aug 2025 20:54:16 GMT"
     }
   ],
   "Battery Technology": [
@@ -2051,12 +2029,6 @@
     {
       "title": "Botswana declares public health emergency over medical shortages as Trump aid cuts hit - The Independent",
       "pubDate": "Wed, 27 Aug 2025 14:17:00 GMT"
-    }
-  ],
-  "Pollution": [
-    {
-      "title": "US oil and gas air pollution is causing unequal health impacts: Study - The Hill",
-      "pubDate": "Fri, 22 Aug 2025 18:32:00 GMT"
     }
   ],
   "Blockchain": [
@@ -2219,6 +2191,12 @@
     {
       "title": "Google\u2019s Gemini AI achieves gold medal in prestigious ICPC coding competition, outperforming most human teams - Dataconomy",
       "pubDate": "Thu, 18 Sep 2025 09:06:44 GMT"
+    }
+  ],
+  "National Security": [
+    {
+      "title": "Why Israel Might Be Forced to End Its Nuclear Ambiguity Thanks to Turkey - National Security Journal",
+      "pubDate": "Sun, 21 Sep 2025 16:52:30 GMT"
     }
   ]
 }
