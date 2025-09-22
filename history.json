@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "CFOs Triple Down on Gen AI ROI, Fueling Chip-to-Server Surge - PYMNTS.com",
-      "pubDate": "Mon, 01 Sep 2025 08:05:32 GMT"
-    },
-    {
       "title": "Our AI Fears Run Long and Deep - The Atlantic",
       "pubDate": "Mon, 01 Sep 2025 11:00:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "MIT Researchers Enhanced Artificial Intelligence (AI) 64x Better at Planning, Achieving 94% Accuracy - MarkTechPost",
       "pubDate": "Mon, 22 Sep 2025 07:06:44 GMT"
+    },
+    {
+      "title": "California issues historic fine over lawyer\u2019s ChatGPT fabrications - CalMatters",
+      "pubDate": "Mon, 22 Sep 2025 12:35:00 GMT"
     }
   ],
   "US Politics": [
@@ -1057,10 +1057,6 @@
   ],
   "AI Safety": [
     {
-      "title": "AI Can Be \u2018Sweet-Talked\u2019 Into Breaking Its Own Rules, New Study Finds - WinBuzzer",
-      "pubDate": "Sun, 31 Aug 2025 08:17:40 GMT"
-    },
-    {
       "title": "Meta implements new rules for its AI after disturbing child safety report: 'We\u2019re adding more guardrails as an extra precaution' - PC Gamer",
       "pubDate": "Sun, 31 Aug 2025 22:40:15 GMT"
     },
@@ -1215,6 +1211,10 @@
     {
       "title": "UN General Assembly opens with plea for binding AI safeguards - NBC News",
       "pubDate": "Mon, 22 Sep 2025 15:00:40 GMT"
+    },
+    {
+      "title": "DeepMind AI safety report explores the perils of \u201cmisaligned\u201d AI - Ars Technica",
+      "pubDate": "Mon, 22 Sep 2025 18:18:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1379,12 +1379,6 @@
     {
       "title": "Bitcoin falls below $114,500 after FOMC hype fades; market shows 'nervous optimism' - theblock.co",
       "pubDate": "Mon, 22 Sep 2025 03:26:02 GMT"
-    }
-  ],
-  "Renewable Energy": [
-    {
-      "title": "Trump halts work on New England offshore wind project that's nearly complete - ABC News",
-      "pubDate": "Sat, 23 Aug 2025 17:28:13 GMT"
     }
   ],
   "Cancer": [
@@ -1801,10 +1795,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Scientists \"Shocked\" At New Forecasts On Tipping Point For Key Atlantic Current - Afloat",
-      "pubDate": "Tue, 09 Sep 2025 10:50:44 GMT"
-    },
-    {
       "title": "Why climate change could ramp up our sugar intake - The Washington Post",
       "pubDate": "Wed, 10 Sep 2025 02:50:26 GMT"
     },
@@ -1959,6 +1949,10 @@
     {
       "title": "\"Fossil Fuels Kill 24,000 Europeans\": Climate Deaths Shock Scientists While Governments Increase Oil Production - Sustainability Times",
       "pubDate": "Mon, 22 Sep 2025 11:58:07 GMT"
+    },
+    {
+      "title": "This small Virginia island could be underwater before the next century - NPR",
+      "pubDate": "Mon, 22 Sep 2025 10:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2049,12 +2043,6 @@
     {
       "title": "Australian watchdog reviews rule book amid fears of market meltdown caused by AI - Finextra Research",
       "pubDate": "Thu, 28 Aug 2025 00:01:00 GMT"
-    }
-  ],
-  "Military Intelligence": [
-    {
-      "title": "Pentagon fires intelligence chief after Iran attack assessment - BBC",
-      "pubDate": "Sat, 23 Aug 2025 16:24:47 GMT"
     }
   ],
   "Mars": [
