@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump order will rebrand Defense Department as Department of War - NBC News",
-      "pubDate": "Fri, 05 Sep 2025 00:04:00 GMT"
-    },
-    {
       "title": "Live updates: Anemic jobs report spurs concerns about economy; Trump says 'real numbers' coming next year - The Hill",
       "pubDate": "Fri, 05 Sep 2025 12:53:00 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "Trump calls Charlie Kirk an \u2018American hero\u2019 at memorial: Live updates - The Independent",
       "pubDate": "Mon, 22 Sep 2025 07:30:00 GMT"
+    },
+    {
+      "title": "Trump will never change, but Kirk\u2019s death shines a path to MAGA\u2019s future - CNN",
+      "pubDate": "Mon, 22 Sep 2025 04:00:05 GMT"
     }
   ],
   "Iran": [
@@ -330,10 +330,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Thousands attend funeral of Houthi leaders killed by Israeli strike, vow revenge - Reuters",
-      "pubDate": "Mon, 01 Sep 2025 16:35:06 GMT"
-    },
     {
       "title": "Israel kills dozens of terrorist across Gaza as IDF ramps up airstrikes, ground op. - yahoo.com",
       "pubDate": "Tue, 02 Sep 2025 11:08:02 GMT"
@@ -489,13 +485,13 @@
     {
       "title": "UK PM Starmer to recognise Palestinian statehood before UNGA meeting - Al Jazeera",
       "pubDate": "Sun, 21 Sep 2025 07:48:56 GMT"
+    },
+    {
+      "title": "UK tells Israel not to retaliate as France prepares to join countries recognising Palestinian state - BBC",
+      "pubDate": "Mon, 22 Sep 2025 09:41:39 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russian Offensive Campaign Assessment, September 2, 2025 - Institute for the Study of War",
-      "pubDate": "Tue, 02 Sep 2025 23:34:04 GMT"
-    },
     {
       "title": "Putin tells Ukraine: end war via talks or I will end it by force - Reuters",
       "pubDate": "Wed, 03 Sep 2025 14:57:48 GMT"
@@ -651,6 +647,10 @@
     {
       "title": "\u2018These killings will go on for years\u2019: murder of Ukrainian MP highlights shadow war of assassinations - The Guardian",
       "pubDate": "Mon, 22 Sep 2025 08:18:00 GMT"
+    },
+    {
+      "title": "Russia accuses Estonia of airspace incursion falsity to stoke tensions - Al Jazeera",
+      "pubDate": "Mon, 22 Sep 2025 12:35:57 GMT"
     }
   ],
   "Russia": [
@@ -935,10 +935,6 @@
   ],
   "China": [
     {
-      "title": "Multiple workers dead after 'tensioning operation' causes bridge in China to collapse - Sky News",
-      "pubDate": "Sat, 23 Aug 2025 10:04:22 GMT"
-    },
-    {
       "title": "Bubble Risks Grow as China\u2019s Stock Bull Run Defies Economy Angst - Bloomberg.com",
       "pubDate": "Sun, 24 Aug 2025 00:00:00 GMT"
     },
@@ -1060,10 +1056,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Meta Overhauls Teen AI Safety Rules Amid Criticism - WinBuzzer",
-      "pubDate": "Fri, 29 Aug 2025 20:58:51 GMT"
-    },
     {
       "title": "AI Can Be \u2018Sweet-Talked\u2019 Into Breaking Its Own Rules, New Study Finds - WinBuzzer",
       "pubDate": "Sun, 31 Aug 2025 08:17:40 GMT"
@@ -1219,6 +1211,10 @@
     {
       "title": "Straight Out of a Sci-Fi: AI Modifies Its Own Code to Stop Humans From Shutting It Down - The Daily Galaxy",
       "pubDate": "Sun, 21 Sep 2025 11:15:00 GMT"
+    },
+    {
+      "title": "UN General Assembly opens with plea for binding AI safeguards - NBC News",
+      "pubDate": "Mon, 22 Sep 2025 15:00:40 GMT"
     }
   ],
   "Data Breach": [
@@ -1421,6 +1417,10 @@
     {
       "title": "Top US utility bets big on nuclear fusion as AI demand grows - Financial Times",
       "pubDate": "Fri, 19 Sep 2025 15:15:14 GMT"
+    },
+    {
+      "title": "Commonwealth Fusion Systems books a $1B+ power deal for its future fusion reactor - TechCrunch",
+      "pubDate": "Mon, 22 Sep 2025 11:00:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1430,10 +1430,6 @@
     }
   ],
   "Alternative Energy": [
-    {
-      "title": "Scientists Discover a Cheaper, More Powerful Catalyst for Clean Hydrogen Energy - SciTechDaily",
-      "pubDate": "Sat, 23 Aug 2025 14:27:55 GMT"
-    },
     {
       "title": "This tiny iron catalyst could transform the future of clean energy - ScienceDaily",
       "pubDate": "Wed, 27 Aug 2025 10:27:30 GMT"
@@ -1561,6 +1557,10 @@
     {
       "title": "Scientists just made atoms talk to each other inside silicon chips - ScienceDaily",
       "pubDate": "Sun, 21 Sep 2025 06:03:03 GMT"
+    },
+    {
+      "title": "Quantum Computing Inc. Announces $500 Million Oversubscribed Private Placement - The Quantum Insider",
+      "pubDate": "Mon, 22 Sep 2025 11:05:45 GMT"
     }
   ],
   "Public Health": [
@@ -1801,10 +1801,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Geoengineering Won\u2019t Save Us From Global Warming, New Study Says - Inside Climate News",
-      "pubDate": "Tue, 09 Sep 2025 09:00:00 GMT"
-    },
-    {
       "title": "Scientists \"Shocked\" At New Forecasts On Tipping Point For Key Atlantic Current - Afloat",
       "pubDate": "Tue, 09 Sep 2025 10:50:44 GMT"
     },
@@ -1959,6 +1955,10 @@
     {
       "title": "Leaders promised to cut climate pollution, then doubled down on fossil fuels - NPR",
       "pubDate": "Mon, 22 Sep 2025 04:01:00 GMT"
+    },
+    {
+      "title": "\"Fossil Fuels Kill 24,000 Europeans\": Climate Deaths Shock Scientists While Governments Increase Oil Production - Sustainability Times",
+      "pubDate": "Mon, 22 Sep 2025 11:58:07 GMT"
     }
   ],
   "Algorithms": [
@@ -2007,12 +2007,6 @@
     {
       "title": "Stellantis cancels oft-delayed electric Ram 1500, cites slowing demand for segment - The Detroit News",
       "pubDate": "Fri, 12 Sep 2025 20:29:19 GMT"
-    }
-  ],
-  "Volcanoes": [
-    {
-      "title": "Lava erupts from Mount Kilauea volcano in Hawaii - Sky News",
-      "pubDate": "Sat, 23 Aug 2025 11:32:33 GMT"
     }
   ],
   "Global Health": [
