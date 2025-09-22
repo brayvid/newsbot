@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "There are 32 different ways AI can go rogue, scientists say \u2014 from hallucinating answers to a complete misalignment with humanity - Live Science",
-      "pubDate": "Sun, 31 Aug 2025 10:00:00 GMT"
-    },
-    {
       "title": "AI can't solve these puzzles that take humans only seconds - Live Science",
       "pubDate": "Sun, 31 Aug 2025 16:33:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Chatbot site depicting child sexual abuse images raises fears over misuse of AI - The Guardian",
       "pubDate": "Sun, 21 Sep 2025 18:35:00 GMT"
+    },
+    {
+      "title": "AI is 'coming at us fast'. But what exactly is it being used for right now? - Australian Broadcasting Corporation",
+      "pubDate": "Sun, 21 Sep 2025 22:18:45 GMT"
     }
   ],
   "US Politics": [
@@ -493,10 +493,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Europe live: US treasury secretary indicates growing frustration with Putin over Ukraine - The Guardian",
-      "pubDate": "Tue, 02 Sep 2025 07:54:11 GMT"
-    },
-    {
       "title": "Exclusive | AI-Powered Drone Swarms Have Now Entered the Battlefield - The Wall Street Journal",
       "pubDate": "Tue, 02 Sep 2025 09:36:00 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Russia launches hundreds of drones and missiles across Ukraine - CNN",
       "pubDate": "Sun, 21 Sep 2025 08:27:00 GMT"
+    },
+    {
+      "title": "Ukraine News Today: Breaking Updates & Live Coverage - September 22 - Kyiv Post",
+      "pubDate": "Mon, 22 Sep 2025 02:37:07 GMT"
     }
   ],
   "Russia": [
@@ -863,6 +863,10 @@
     {
       "title": "Trump imposes $100K fee on H-1B visas in new immigration action - CNN",
       "pubDate": "Fri, 19 Sep 2025 20:13:14 GMT"
+    },
+    {
+      "title": "Trump lionizes Charlie Kirk, warns of dangers to America - Politico",
+      "pubDate": "Mon, 22 Sep 2025 00:17:38 GMT"
     }
   ],
   "Financial Markets": [
@@ -926,14 +930,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China builds bridges on uneven ground in Central Asia - East Asia Forum",
-      "pubDate": "Sat, 23 Aug 2025 00:00:00 GMT"
-    },
-    {
-      "title": "China Drafts New Rules Regulating Pricing for Internet Platforms - Bloomberg",
-      "pubDate": "Sat, 23 Aug 2025 03:05:00 GMT"
-    },
     {
       "title": "Chinese bridge collapse kills at least 12 construction workers - ABC News",
       "pubDate": "Sat, 23 Aug 2025 08:56:53 GMT"
@@ -1057,6 +1053,10 @@
     {
       "title": "China to deliver 2,500-ton diesel-electric submarine to US\u2019 oldest ally in Asia - Interesting Engineering",
       "pubDate": "Sun, 21 Sep 2025 10:21:00 GMT"
+    },
+    {
+      "title": "China keeps lending rates unchanged in Sept as trade tensions ease - Reuters",
+      "pubDate": "Mon, 22 Sep 2025 01:36:02 GMT"
     }
   ],
   "AI Safety": [
@@ -1379,6 +1379,10 @@
     {
       "title": "Kevin Durant Recovers Bitcoin Bought at $650, Now Up Over 17,700%, After Nearly a Decade - CoinDesk",
       "pubDate": "Sat, 20 Sep 2025 14:50:25 GMT"
+    },
+    {
+      "title": "Bitcoin falls below $114,500 after FOMC hype fades; market shows 'nervous optimism' - theblock.co",
+      "pubDate": "Mon, 22 Sep 2025 03:26:02 GMT"
     }
   ],
   "Renewable Energy": [
@@ -1388,10 +1392,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "Researchers identify molecular mechanism behind tamoxifen-related uterine cancer - News-Medical",
-      "pubDate": "Sat, 23 Aug 2025 01:39:00 GMT"
-    },
     {
       "title": "Ordinary differential equation model of cancer-associated fibroblast heterogeneity predicts treatment outcomes - Nature",
       "pubDate": "Sat, 23 Aug 2025 07:02:57 GMT"
@@ -1445,12 +1445,6 @@
     {
       "title": "China Sets Clean Energy RecordsWhile Propping Up Coal - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Wed, 27 Aug 2025 20:00:00 GMT"
-    }
-  ],
-  "Cosmology": [
-    {
-      "title": "New cosmological model supports the evolution of dark energy - ASU News",
-      "pubDate": "Fri, 22 Aug 2025 21:13:25 GMT"
     }
   ],
   "OpenAI": [
@@ -1586,10 +1580,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Airdropped Aid Is Crushing Starving People in Gaza - The Intercept",
-      "pubDate": "Fri, 22 Aug 2025 21:54:39 GMT"
-    },
     {
       "title": "Israeli forces open fire on crowd of aid-seekers near Gaza City, killing four - The Globe and Mail",
       "pubDate": "Sun, 24 Aug 2025 11:50:40 GMT"
@@ -1733,6 +1723,10 @@
     {
       "title": "Scoop: Trump plans summit in New York with Arab leaders on Gaza war - Axios",
       "pubDate": "Sun, 21 Sep 2025 17:58:17 GMT"
+    },
+    {
+      "title": "Britain, Canada and Australia formally recognize a Palestinian state, deepening Israel\u2019s isolation - CNN",
+      "pubDate": "Sun, 21 Sep 2025 16:03:25 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1806,10 +1800,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Mosquitos at the US southern border reveal a frightening reality about climate change - vox.com",
-      "pubDate": "Mon, 08 Sep 2025 10:00:00 GMT"
-    },
     {
       "title": "North Pacific and north Atlantic seas show record heat in August - Financial Times",
       "pubDate": "Tue, 09 Sep 2025 02:01:04 GMT"
@@ -1965,6 +1955,10 @@
     {
       "title": "Could wildfire smoke become America\u2019s leading climate health threat by 2050? - Los Angeles Times",
       "pubDate": "Sun, 21 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "New research uncovers key culprit behind accelerating global threat: 'An increasingly dominant role' - Yahoo",
+      "pubDate": "Sun, 21 Sep 2025 23:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1988,10 +1982,6 @@
     }
   ],
   "Battery Technology": [
-    {
-      "title": "Scientists unveil self-healing battery that could be a game changer for EVs - supercarblondie.com",
-      "pubDate": "Fri, 22 Aug 2025 22:19:00 GMT"
-    },
     {
       "title": "AI Revolutionizes Battery Tech: EV Efficiency and $19.4B Market - WebProNews",
       "pubDate": "Sun, 24 Aug 2025 11:31:02 GMT"
@@ -2069,10 +2059,6 @@
   ],
   "Military Intelligence": [
     {
-      "title": "US general whose report on Iran nuclear sites angered Trump fired - Al Jazeera",
-      "pubDate": "Sat, 23 Aug 2025 03:22:30 GMT"
-    },
-    {
       "title": "Pentagon fires intelligence chief after Iran attack assessment - BBC",
       "pubDate": "Sat, 23 Aug 2025 16:24:47 GMT"
     }
@@ -2122,10 +2108,6 @@
     }
   ],
   "Earth Science": [
-    {
-      "title": "Scientists discover that North America is 'dripping' underneath, down into Earth's mantle - Earth.com",
-      "pubDate": "Fri, 22 Aug 2025 23:40:42 GMT"
-    },
     {
       "title": "Scientists Detected Signs of a Structure Hiding Inside Earth's Core - ScienceAlert",
       "pubDate": "Tue, 26 Aug 2025 13:01:32 GMT"
