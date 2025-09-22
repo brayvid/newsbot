@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI can't solve these puzzles that take humans only seconds - Live Science",
-      "pubDate": "Sun, 31 Aug 2025 16:33:00 GMT"
-    },
-    {
       "title": "CFOs Triple Down on Gen AI ROI, Fueling Chip-to-Server Surge - PYMNTS.com",
       "pubDate": "Mon, 01 Sep 2025 08:05:32 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "AI is 'coming at us fast'. But what exactly is it being used for right now? - Australian Broadcasting Corporation",
       "pubDate": "Sun, 21 Sep 2025 22:18:45 GMT"
+    },
+    {
+      "title": "MIT Researchers Enhanced Artificial Intelligence (AI) 64x Better at Planning, Achieving 94% Accuracy - MarkTechPost",
+      "pubDate": "Mon, 22 Sep 2025 07:06:44 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump Is Trying to Blackmail the Supreme Court - Politico",
-      "pubDate": "Thu, 04 Sep 2025 09:00:00 GMT"
-    },
     {
       "title": "Trump order will rebrand Defense Department as Department of War - NBC News",
       "pubDate": "Fri, 05 Sep 2025 00:04:00 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "For Erika Kirk, a Husband\u2019s Life Cut Short by Violence He Seemed to Foresee - The New York Times",
       "pubDate": "Sun, 21 Sep 2025 09:02:38 GMT"
+    },
+    {
+      "title": "Trump calls Charlie Kirk an \u2018American hero\u2019 at memorial: Live updates - The Independent",
+      "pubDate": "Mon, 22 Sep 2025 07:30:00 GMT"
     }
   ],
   "Iran": [
@@ -493,10 +493,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Exclusive | AI-Powered Drone Swarms Have Now Entered the Battlefield - The Wall Street Journal",
-      "pubDate": "Tue, 02 Sep 2025 09:36:00 GMT"
-    },
-    {
       "title": "Russian Offensive Campaign Assessment, September 2, 2025 - Institute for the Study of War",
       "pubDate": "Tue, 02 Sep 2025 23:34:04 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Ukraine News Today: Breaking Updates & Live Coverage - September 22 - Kyiv Post",
       "pubDate": "Mon, 22 Sep 2025 02:37:07 GMT"
+    },
+    {
+      "title": "\u2018These killings will go on for years\u2019: murder of Ukrainian MP highlights shadow war of assassinations - The Guardian",
+      "pubDate": "Mon, 22 Sep 2025 08:18:00 GMT"
     }
   ],
   "Russia": [
@@ -921,6 +921,10 @@
     {
       "title": "Federal Reserve Slashes Rates to 4.25%, Signaling New Era of Easier Borrowing Costs - MSN",
       "pubDate": "Sun, 21 Sep 2025 10:41:51 GMT"
+    },
+    {
+      "title": "Markets Today: Gold Surges Above $3700/oz, China Keep Rates on Hold and FTSE Holds at Support - marketpulse.com",
+      "pubDate": "Mon, 22 Sep 2025 08:18:00 GMT"
     }
   ],
   "Recession": [
@@ -930,10 +934,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Chinese bridge collapse kills at least 12 construction workers - ABC News",
-      "pubDate": "Sat, 23 Aug 2025 08:56:53 GMT"
-    },
     {
       "title": "Multiple workers dead after 'tensioning operation' causes bridge in China to collapse - Sky News",
       "pubDate": "Sat, 23 Aug 2025 10:04:22 GMT"
@@ -1393,10 +1393,6 @@
   ],
   "Cancer": [
     {
-      "title": "Ordinary differential equation model of cancer-associated fibroblast heterogeneity predicts treatment outcomes - Nature",
-      "pubDate": "Sat, 23 Aug 2025 07:02:57 GMT"
-    },
-    {
       "title": "Surprising Study Finds Meat May Protect Against Cancer Risk - SciTechDaily",
       "pubDate": "Sat, 23 Aug 2025 22:55:03 GMT"
     },
@@ -1727,6 +1723,10 @@
     {
       "title": "Britain, Canada and Australia formally recognize a Palestinian state, deepening Israel\u2019s isolation - CNN",
       "pubDate": "Sun, 21 Sep 2025 16:03:25 GMT"
+    },
+    {
+      "title": "With or without a ceasefire, humanitarian aid must enter Gaza. We managed it in previous wars | Moazzam Malik - The Guardian",
+      "pubDate": "Mon, 22 Sep 2025 08:00:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1800,10 +1800,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "North Pacific and north Atlantic seas show record heat in August - Financial Times",
-      "pubDate": "Tue, 09 Sep 2025 02:01:04 GMT"
-    },
     {
       "title": "Geoengineering Won\u2019t Save Us From Global Warming, New Study Says - Inside Climate News",
       "pubDate": "Tue, 09 Sep 2025 09:00:00 GMT"
@@ -1959,6 +1955,10 @@
     {
       "title": "New research uncovers key culprit behind accelerating global threat: 'An increasingly dominant role' - Yahoo",
       "pubDate": "Sun, 21 Sep 2025 23:00:00 GMT"
+    },
+    {
+      "title": "Leaders promised to cut climate pollution, then doubled down on fossil fuels - NPR",
+      "pubDate": "Mon, 22 Sep 2025 04:01:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2179,6 +2179,12 @@
     {
       "title": "Why Israel Might Be Forced to End Its Nuclear Ambiguity Thanks to Turkey - National Security Journal",
       "pubDate": "Sun, 21 Sep 2025 16:52:30 GMT"
+    }
+  ],
+  "North Korea": [
+    {
+      "title": "North Korea willing to hold dialogue with US if it stops insisting on denuclearization, says Kim - Anadolu Ajans\u0131",
+      "pubDate": "Mon, 22 Sep 2025 05:52:06 GMT"
     }
   ]
 }
