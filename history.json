@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Our AI Fears Run Long and Deep - The Atlantic",
-      "pubDate": "Mon, 01 Sep 2025 11:00:00 GMT"
-    },
-    {
       "title": "Deep computer vision with artificial intelligence based sign language recognition to assist hearing and speech-impaired individuals - Nature",
       "pubDate": "Mon, 01 Sep 2025 23:54:20 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "California issues historic fine over lawyer\u2019s ChatGPT fabrications - CalMatters",
       "pubDate": "Mon, 22 Sep 2025 12:35:00 GMT"
+    },
+    {
+      "title": "Nvidia and OpenAI agree US$100 billion deal to boost AI infrastructure - South China Morning Post",
+      "pubDate": "Tue, 23 Sep 2025 03:24:16 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Live updates: Anemic jobs report spurs concerns about economy; Trump says 'real numbers' coming next year - The Hill",
-      "pubDate": "Fri, 05 Sep 2025 12:53:00 GMT"
-    },
     {
       "title": "Trump signs executive order creating \u2018state sponsor of wrongful detention\u2019 designation - CNN",
       "pubDate": "Fri, 05 Sep 2025 20:48:00 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Trump will never change, but Kirk\u2019s death shines a path to MAGA\u2019s future - CNN",
       "pubDate": "Mon, 22 Sep 2025 04:00:05 GMT"
+    },
+    {
+      "title": "Supreme Court allows Trump to fire Democratic member of trade commission - The Washington Post",
+      "pubDate": "Tue, 23 Sep 2025 03:02:09 GMT"
     }
   ],
   "Iran": [
@@ -493,10 +493,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Putin tells Ukraine: end war via talks or I will end it by force - Reuters",
-      "pubDate": "Wed, 03 Sep 2025 14:57:48 GMT"
-    },
-    {
       "title": "Putin says Russia will achieve all aims militarily if Ukraine does not agree deal - BBC",
       "pubDate": "Wed, 03 Sep 2025 20:15:02 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Russia accuses Estonia of airspace incursion falsity to stoke tensions - Al Jazeera",
       "pubDate": "Mon, 22 Sep 2025 12:35:57 GMT"
+    },
+    {
+      "title": "UN commission finds Russia targets Ukrainian civilians using short-range drones - Jurist.org",
+      "pubDate": "Tue, 23 Sep 2025 00:40:32 GMT"
     }
   ],
   "Russia": [
@@ -935,10 +935,6 @@
   ],
   "China": [
     {
-      "title": "Bubble Risks Grow as China\u2019s Stock Bull Run Defies Economy Angst - Bloomberg.com",
-      "pubDate": "Sun, 24 Aug 2025 00:00:00 GMT"
-    },
-    {
       "title": "China Evergrande Delisted From Hong Kong Stock Exchange - The New York Times",
       "pubDate": "Mon, 25 Aug 2025 04:27:00 GMT"
     },
@@ -1056,10 +1052,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Meta implements new rules for its AI after disturbing child safety report: 'We\u2019re adding more guardrails as an extra precaution' - PC Gamer",
-      "pubDate": "Sun, 31 Aug 2025 22:40:15 GMT"
-    },
     {
       "title": "AI safety and the potential apocalypse: What people can do now to prevent it - Straight Arrow News",
       "pubDate": "Tue, 02 Sep 2025 12:00:00 GMT"
@@ -1215,6 +1207,10 @@
     {
       "title": "DeepMind AI safety report explores the perils of \u201cmisaligned\u201d AI - Ars Technica",
       "pubDate": "Mon, 22 Sep 2025 18:18:00 GMT"
+    },
+    {
+      "title": "DeepMind: Models may resist shutdowns - theregister.com",
+      "pubDate": "Mon, 22 Sep 2025 22:26:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1263,6 +1259,10 @@
     {
       "title": "Cyberattack hits check-in systems at some of Europe\u2019s busiest airports - Al Jazeera",
       "pubDate": "Sat, 20 Sep 2025 13:18:45 GMT"
+    },
+    {
+      "title": "EU agency confirms ransomware attack behind airport disruptions - Reuters",
+      "pubDate": "Mon, 22 Sep 2025 15:58:14 GMT"
     }
   ],
   "US Economy": [
@@ -1289,12 +1289,6 @@
     {
       "title": "Powerful Tropical Storms Juliette And Fernand Cause Oceanic Disruptions And Travel Delays - Travel And Tour World",
       "pubDate": "Wed, 27 Aug 2025 01:14:19 GMT"
-    }
-  ],
-  "Astronomy": [
-    {
-      "title": "Scientists discover 300 odd galaxies that shouldn\u2019t exist - The Brighter Side of News",
-      "pubDate": "Sat, 23 Aug 2025 23:07:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -1382,10 +1376,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "Surprising Study Finds Meat May Protect Against Cancer Risk - SciTechDaily",
-      "pubDate": "Sat, 23 Aug 2025 22:55:03 GMT"
-    },
     {
       "title": "Scientists Strip Cancer of Its \u201cSuperpower\u201d To Outsmart Drugs - SciTechDaily",
       "pubDate": "Sun, 24 Aug 2025 15:33:51 GMT"
@@ -1721,6 +1711,10 @@
     {
       "title": "With or without a ceasefire, humanitarian aid must enter Gaza. We managed it in previous wars | Moazzam Malik - The Guardian",
       "pubDate": "Mon, 22 Sep 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Two Gaza hospitals forced to stop operations as Israeli offensive escalates, health ministry says - Reuters",
+      "pubDate": "Mon, 22 Sep 2025 20:51:55 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1785,19 +1779,11 @@
   ],
   "SpaceX": [
     {
-      "title": "Elon Musk\u2019s Starship under pressure: Previous failures haunt SpaceX; Sunday launch could decide future - Times of India",
-      "pubDate": "Sun, 24 Aug 2025 02:41:00 GMT"
-    },
-    {
       "title": "SpaceX calls off Starship launch in latest setback for Elon Musk - Al Jazeera",
       "pubDate": "Mon, 25 Aug 2025 04:10:53 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "Why climate change could ramp up our sugar intake - The Washington Post",
-      "pubDate": "Wed, 10 Sep 2025 02:50:26 GMT"
-    },
     {
       "title": "Scientists trace heat waves back to individual fossil fuel companies, with potentially sweeping courtroom implications - CNN",
       "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT"
@@ -1953,6 +1939,10 @@
     {
       "title": "This small Virginia island could be underwater before the next century - NPR",
       "pubDate": "Mon, 22 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Climate change raises costs for European forestry - Nature",
+      "pubDate": "Mon, 22 Sep 2025 15:53:53 GMT"
     }
   ],
   "Algorithms": [
