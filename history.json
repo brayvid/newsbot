@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Salesforce CEO Marc Benioff says AI has already replaced 4,000 jobs - San Francisco Chronicle",
-      "pubDate": "Tue, 02 Sep 2025 03:49:44 GMT"
-    },
-    {
       "title": "'Extremely alarming': ChatGPT and Gemini respond to high-risk questions about suicide \u2014 including details around methods - Live Science",
       "pubDate": "Tue, 02 Sep 2025 17:35:36 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "America\u2019s top companies keep talking about AI \u2014 but can\u2019t explain the upsides - Financial Times",
       "pubDate": "Tue, 23 Sep 2025 04:00:51 GMT"
+    },
+    {
+      "title": "'AI red lines' campaign launches at U.N. Here's what they might be. - Mashable",
+      "pubDate": "Tue, 23 Sep 2025 11:24:20 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump threatens more tariffs after EU fines Google \u20ac2.95B - Politico",
-      "pubDate": "Fri, 05 Sep 2025 22:26:43 GMT"
-    },
     {
       "title": "Trump seeking ways to take over 9/11 memorial in NYC - Politico",
       "pubDate": "Sat, 06 Sep 2025 15:41:32 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Trump blames Tylenol for autism. Science doesn't back him up : Shots - Health News - NPR",
       "pubDate": "Tue, 23 Sep 2025 00:36:41 GMT"
+    },
+    {
+      "title": "Trump addresses UN amid divide over Palestinian statehood - CNN",
+      "pubDate": "Tue, 23 Sep 2025 15:27:00 GMT"
     }
   ],
   "Iran": [
@@ -493,10 +493,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war briefing: Kyiv offers retort to Putin for \u2018messing around\u2019 by demanding Moscow talks - The Guardian",
-      "pubDate": "Thu, 04 Sep 2025 04:54:00 GMT"
-    },
-    {
       "title": "Macron says \u2018Coalition of the Willing\u2019 will finalise \u2018robust\u2019 Ukrainian security guarantees \u2013 Europe live - The Guardian",
       "pubDate": "Thu, 04 Sep 2025 07:38:00 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Ukraine faces a new test as Russia steps up its drive to seize Donetsk\u2019s fortress belt - Yahoo",
       "pubDate": "Tue, 23 Sep 2025 05:12:00 GMT"
+    },
+    {
+      "title": "Ukraine drones attack Moscow as Zelenskyy arrives for United Nations meeting - Yahoo",
+      "pubDate": "Tue, 23 Sep 2025 09:49:00 GMT"
     }
   ],
   "Russia": [
@@ -925,6 +925,10 @@
     {
       "title": "Markets Today: Gold Surges Above $3700/oz, China Keep Rates on Hold and FTSE Holds at Support - marketpulse.com",
       "pubDate": "Mon, 22 Sep 2025 08:18:00 GMT"
+    },
+    {
+      "title": "Gold Hits Fresh Record as Traders Weigh China Reserves, Fed Cuts - Yahoo Finance",
+      "pubDate": "Tue, 23 Sep 2025 14:59:01 GMT"
     }
   ],
   "Recession": [
@@ -1052,10 +1056,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI developers face backlash over chatbots encouraging suicide, safety measures inadequate - CHOSUNBIZ - Chosun Biz",
-      "pubDate": "Thu, 04 Sep 2025 07:59:00 GMT"
-    },
     {
       "title": "An AI safety pioneer says it could leave 99% of workers unemployed by 2030 \u2014 even coders and prompt engineers - MSN",
       "pubDate": "Thu, 04 Sep 2025 13:14:04 GMT"
@@ -1211,6 +1211,10 @@
     {
       "title": "Nobel Laureates and Global Experts Push for Binding AI Safeguards - Digital Information World",
       "pubDate": "Tue, 23 Sep 2025 06:08:00 GMT"
+    },
+    {
+      "title": "Google's revised AI safety framework adds manipulation protection - iTnews",
+      "pubDate": "Tue, 23 Sep 2025 04:09:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1372,10 +1376,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "Scientists Strip Cancer of Its \u201cSuperpower\u201d To Outsmart Drugs - SciTechDaily",
-      "pubDate": "Sun, 24 Aug 2025 15:33:51 GMT"
-    },
     {
       "title": "Gordon Ramsay reveals skin cancer diagnosis and advises sunscreen use - The Washington Post",
       "pubDate": "Sun, 31 Aug 2025 07:51:44 GMT"
@@ -1557,10 +1557,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israeli forces open fire on crowd of aid-seekers near Gaza City, killing four - The Globe and Mail",
-      "pubDate": "Sun, 24 Aug 2025 11:50:40 GMT"
-    },
-    {
       "title": "Israel must take hostage deal, its military chief reportedly says - BBC",
       "pubDate": "Mon, 25 Aug 2025 06:55:18 GMT"
     },
@@ -1715,6 +1711,10 @@
     {
       "title": "Offensive shutters nearly half of all malnutrition centres in and around Gaza City - Department of Political and Peacebuilding Affairs",
       "pubDate": "Tue, 23 Sep 2025 06:39:48 GMT"
+    },
+    {
+      "title": "Israeli forces push deeper into Gaza City with heavy shelling and explosions reported - CNN",
+      "pubDate": "Tue, 23 Sep 2025 12:09:47 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1784,10 +1784,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "One in four heatwaves impossible without climate change, study finds - The Independent",
-      "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT"
-    },
     {
       "title": "Systematic attribution of heatwaves to the emissions of carbon majors - Nature",
       "pubDate": "Wed, 10 Sep 2025 16:09:13 GMT"
@@ -1943,6 +1939,10 @@
     {
       "title": "Fish \u2018fingerprints\u2019 in the ocean reveal which species are moving homes due to climate change - The Conversation",
       "pubDate": "Mon, 22 Sep 2025 23:47:48 GMT"
+    },
+    {
+      "title": "Trump slams climate change: 'The greatest con job ever perpetrated on the world' - NBC News",
+      "pubDate": "Tue, 23 Sep 2025 15:05:07 GMT"
     }
   ],
   "Algorithms": [
@@ -1966,10 +1966,6 @@
     }
   ],
   "Battery Technology": [
-    {
-      "title": "AI Revolutionizes Battery Tech: EV Efficiency and $19.4B Market - WebProNews",
-      "pubDate": "Sun, 24 Aug 2025 11:31:02 GMT"
-    },
     {
       "title": "Competing battery technologies shape the EV industry - Reuters",
       "pubDate": "Mon, 25 Aug 2025 06:03:00 GMT"
@@ -2042,10 +2038,6 @@
     }
   ],
   "NVIDIA": [
-    {
-      "title": "Nvidia Earnings Are the Stock Market Risk Event After Fed Rally - Bloomberg.com",
-      "pubDate": "Sun, 24 Aug 2025 13:00:07 GMT"
-    },
     {
       "title": "Nvidia earnings set to test AI trade with stocks near record highs: What to watch this week - Yahoo Finance",
       "pubDate": "Mon, 25 Aug 2025 07:31:55 GMT"
