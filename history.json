@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump seeking ways to take over 9/11 memorial in NYC - Politico",
-      "pubDate": "Sat, 06 Sep 2025 15:41:32 GMT"
-    },
-    {
       "title": "Trump tells foreign firms to \u2018respect\u2019 immigration laws after Hyundai raid \u2013 US politics live - The Guardian",
       "pubDate": "Mon, 08 Sep 2025 10:14:00 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "Trump addresses UN amid divide over Palestinian statehood - CNN",
       "pubDate": "Tue, 23 Sep 2025 15:27:00 GMT"
+    },
+    {
+      "title": "Trump cancels meeting with Schumer and Jeffries on keeping the government open - PBS",
+      "pubDate": "Tue, 23 Sep 2025 14:53:17 GMT"
     }
   ],
   "Iran": [
@@ -330,10 +330,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Hundreds of IDF reservists oppose Gaza City takeover, say they won't report to duty - Haaretz",
-      "pubDate": "Tue, 02 Sep 2025 17:47:00 GMT"
-    },
     {
       "title": "UNIFIL says Israeli drones drop grenades close to peacekeepers in Lebanon - Al Jazeera",
       "pubDate": "Wed, 03 Sep 2025 08:03:45 GMT"
@@ -489,13 +485,13 @@
     {
       "title": "More experts are calling Israel's actions in Gaza genocide. But others note that's a court's call - AP News",
       "pubDate": "Tue, 23 Sep 2025 04:05:00 GMT"
+    },
+    {
+      "title": "Israel seeks permanent Gaza control, Jewish majority in West Bank: UN - Al Jazeera",
+      "pubDate": "Tue, 23 Sep 2025 19:42:27 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Macron says \u2018Coalition of the Willing\u2019 will finalise \u2018robust\u2019 Ukrainian security guarantees \u2013 Europe live - The Guardian",
-      "pubDate": "Thu, 04 Sep 2025 07:38:00 GMT"
-    },
     {
       "title": "Macron says 26 countries ready to send troops for Ukraine ceasefire - BBC",
       "pubDate": "Thu, 04 Sep 2025 17:26:57 GMT"
@@ -651,6 +647,10 @@
     {
       "title": "Ukraine drones attack Moscow as Zelenskyy arrives for United Nations meeting - Yahoo",
       "pubDate": "Tue, 23 Sep 2025 09:49:00 GMT"
+    },
+    {
+      "title": "Trump Says Ukraine Can Take Back All Lost Territory - Eurasia Business News",
+      "pubDate": "Tue, 23 Sep 2025 20:20:42 GMT"
     }
   ],
   "Russia": [
@@ -764,10 +764,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump threatens to send the military to Baltimore to 'clean up' crime - NBC News",
-      "pubDate": "Sun, 24 Aug 2025 19:34:20 GMT"
-    },
     {
       "title": "Trump expands targets for possible military deployment to more Democratic-led cities - PBS",
       "pubDate": "Sun, 24 Aug 2025 22:20:14 GMT"
@@ -1053,13 +1049,13 @@
     {
       "title": "China keeps lending rates unchanged in Sept as trade tensions ease - Reuters",
       "pubDate": "Mon, 22 Sep 2025 01:36:02 GMT"
+    },
+    {
+      "title": "China just made a big technological leap, launching a stealth jet off its newest carrier with an electromagnetic catapult - Business Insider",
+      "pubDate": "Tue, 23 Sep 2025 18:56:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "An AI safety pioneer says it could leave 99% of workers unemployed by 2030 \u2014 even coders and prompt engineers - MSN",
-      "pubDate": "Thu, 04 Sep 2025 13:14:04 GMT"
-    },
     {
       "title": "AI expert issues worrying prediction for 2045 after revealing the only jobs that will still exist in the next five years - LADbible",
       "pubDate": "Fri, 05 Sep 2025 09:31:25 GMT"
@@ -1215,6 +1211,10 @@
     {
       "title": "Google's revised AI safety framework adds manipulation protection - iTnews",
       "pubDate": "Tue, 23 Sep 2025 04:09:00 GMT"
+    },
+    {
+      "title": "200 Experts Demand Global AI Red Lines by 2026 - eWeek",
+      "pubDate": "Tue, 23 Sep 2025 16:15:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1318,10 +1318,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin goes below $113,000 in sudden market drop - BNO News",
-      "pubDate": "Sun, 24 Aug 2025 20:09:56 GMT"
-    },
     {
       "title": "Bitcoin Flash Crash Triggers $550M in Sunday Liquidations as Ether Rotation Builds - CoinDesk",
       "pubDate": "Mon, 25 Aug 2025 07:00:12 GMT"
@@ -1769,6 +1765,10 @@
     {
       "title": "SEC Green Lights Cryptocurrency ETF and the Market's Wild Ride - OneSafe",
       "pubDate": "Fri, 19 Sep 2025 08:49:57 GMT"
+    },
+    {
+      "title": "Morgan Stanley partners with Zerohash to launch cryptocurrency trading on E*Trade by 2026 - Mint",
+      "pubDate": "Tue, 23 Sep 2025 17:41:25 GMT"
     }
   ],
   "Apple": [
@@ -1784,10 +1784,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Systematic attribution of heatwaves to the emissions of carbon majors - Nature",
-      "pubDate": "Wed, 10 Sep 2025 16:09:13 GMT"
-    },
     {
       "title": "UK Rejects Proposals to Block Out Sun to Curb Climate Change - Bloomberg.com",
       "pubDate": "Thu, 11 Sep 2025 13:03:38 GMT"
@@ -1943,6 +1939,10 @@
     {
       "title": "Trump slams climate change: 'The greatest con job ever perpetrated on the world' - NBC News",
       "pubDate": "Tue, 23 Sep 2025 15:05:07 GMT"
+    },
+    {
+      "title": "Trump Calls Climate Change \u2018Con Job\u2019 and \u2018Scam\u2019 in Speech to U.N. General Assembly - Time Magazine",
+      "pubDate": "Tue, 23 Sep 2025 17:32:24 GMT"
     }
   ],
   "Algorithms": [
@@ -2013,12 +2013,6 @@
     {
       "title": "At least 8 deaths reported after heavy rain causes flooding, landslides in Southeast Asia - PBS",
       "pubDate": "Wed, 27 Aug 2025 22:52:55 GMT"
-    }
-  ],
-  "Drones": [
-    {
-      "title": "How Ukraine\u2019s naval drones hold Russia\u2019s warships at bay - The Economist",
-      "pubDate": "Sun, 24 Aug 2025 18:40:34 GMT"
     }
   ],
   "Algorithmic Trading": [
