@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Deep computer vision with artificial intelligence based sign language recognition to assist hearing and speech-impaired individuals - Nature",
-      "pubDate": "Mon, 01 Sep 2025 23:54:20 GMT"
-    },
-    {
       "title": "Salesforce CEO Marc Benioff says AI has already replaced 4,000 jobs - San Francisco Chronicle",
       "pubDate": "Tue, 02 Sep 2025 03:49:44 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Nvidia and OpenAI agree US$100 billion deal to boost AI infrastructure - South China Morning Post",
       "pubDate": "Tue, 23 Sep 2025 03:24:16 GMT"
+    },
+    {
+      "title": "America\u2019s top companies keep talking about AI \u2014 but can\u2019t explain the upsides - Financial Times",
+      "pubDate": "Tue, 23 Sep 2025 04:00:51 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump signs executive order creating \u2018state sponsor of wrongful detention\u2019 designation - CNN",
-      "pubDate": "Fri, 05 Sep 2025 20:48:00 GMT"
-    },
     {
       "title": "Trump threatens more tariffs after EU fines Google \u20ac2.95B - Politico",
       "pubDate": "Fri, 05 Sep 2025 22:26:43 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Supreme Court allows Trump to fire Democratic member of trade commission - The Washington Post",
       "pubDate": "Tue, 23 Sep 2025 03:02:09 GMT"
+    },
+    {
+      "title": "Trump blames Tylenol for autism. Science doesn't back him up : Shots - Health News - NPR",
+      "pubDate": "Tue, 23 Sep 2025 00:36:41 GMT"
     }
   ],
   "Iran": [
@@ -330,10 +330,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel kills dozens of terrorist across Gaza as IDF ramps up airstrikes, ground op. - yahoo.com",
-      "pubDate": "Tue, 02 Sep 2025 11:08:02 GMT"
-    },
     {
       "title": "Hundreds of IDF reservists oppose Gaza City takeover, say they won't report to duty - Haaretz",
       "pubDate": "Tue, 02 Sep 2025 17:47:00 GMT"
@@ -489,13 +485,13 @@
     {
       "title": "UK tells Israel not to retaliate as France prepares to join countries recognising Palestinian state - BBC",
       "pubDate": "Mon, 22 Sep 2025 09:41:39 GMT"
+    },
+    {
+      "title": "More experts are calling Israel's actions in Gaza genocide. But others note that's a court's call - AP News",
+      "pubDate": "Tue, 23 Sep 2025 04:05:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Putin says Russia will achieve all aims militarily if Ukraine does not agree deal - BBC",
-      "pubDate": "Wed, 03 Sep 2025 20:15:02 GMT"
-    },
     {
       "title": "Ukraine war briefing: Kyiv offers retort to Putin for \u2018messing around\u2019 by demanding Moscow talks - The Guardian",
       "pubDate": "Thu, 04 Sep 2025 04:54:00 GMT"
@@ -651,6 +647,10 @@
     {
       "title": "UN commission finds Russia targets Ukrainian civilians using short-range drones - Jurist.org",
       "pubDate": "Tue, 23 Sep 2025 00:40:32 GMT"
+    },
+    {
+      "title": "Ukraine faces a new test as Russia steps up its drive to seize Donetsk\u2019s fortress belt - Yahoo",
+      "pubDate": "Tue, 23 Sep 2025 05:12:00 GMT"
     }
   ],
   "Russia": [
@@ -1053,10 +1053,6 @@
   ],
   "AI Safety": [
     {
-      "title": "AI safety and the potential apocalypse: What people can do now to prevent it - Straight Arrow News",
-      "pubDate": "Tue, 02 Sep 2025 12:00:00 GMT"
-    },
-    {
       "title": "AI developers face backlash over chatbots encouraging suicide, safety measures inadequate - CHOSUNBIZ - Chosun Biz",
       "pubDate": "Thu, 04 Sep 2025 07:59:00 GMT"
     },
@@ -1211,6 +1207,10 @@
     {
       "title": "DeepMind: Models may resist shutdowns - theregister.com",
       "pubDate": "Mon, 22 Sep 2025 22:26:00 GMT"
+    },
+    {
+      "title": "Nobel Laureates and Global Experts Push for Binding AI Safeguards - Digital Information World",
+      "pubDate": "Tue, 23 Sep 2025 06:08:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1314,10 +1314,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Federal Reserve Rate Cuts Might Ignite Bitcoin's Ascent - OneSafe",
-      "pubDate": "Sun, 24 Aug 2025 07:10:14 GMT"
-    },
     {
       "title": "Bitcoin goes below $113,000 in sudden market drop - BNO News",
       "pubDate": "Sun, 24 Aug 2025 20:09:56 GMT"
@@ -1715,6 +1711,10 @@
     {
       "title": "Two Gaza hospitals forced to stop operations as Israeli offensive escalates, health ministry says - Reuters",
       "pubDate": "Mon, 22 Sep 2025 20:51:55 GMT"
+    },
+    {
+      "title": "Offensive shutters nearly half of all malnutrition centres in and around Gaza City - Department of Political and Peacebuilding Affairs",
+      "pubDate": "Tue, 23 Sep 2025 06:39:48 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1784,10 +1784,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Scientists trace heat waves back to individual fossil fuel companies, with potentially sweeping courtroom implications - CNN",
-      "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT"
-    },
     {
       "title": "One in four heatwaves impossible without climate change, study finds - The Independent",
       "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT"
@@ -1943,6 +1939,10 @@
     {
       "title": "Climate change raises costs for European forestry - Nature",
       "pubDate": "Mon, 22 Sep 2025 15:53:53 GMT"
+    },
+    {
+      "title": "Fish \u2018fingerprints\u2019 in the ocean reveal which species are moving homes due to climate change - The Conversation",
+      "pubDate": "Mon, 22 Sep 2025 23:47:48 GMT"
     }
   ],
   "Algorithms": [
