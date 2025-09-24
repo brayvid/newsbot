@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "An AI Pioneer Worries Big Tech Is Blinding Itself to New Breakthroughs - Bloomberg.com",
-      "pubDate": "Wed, 03 Sep 2025 09:00:21 GMT"
-    },
-    {
       "title": "The Tech Industry Has a Dirty Secret: The More People Learn About AI, the Less They Trust It - Futurism",
       "pubDate": "Wed, 03 Sep 2025 17:04:04 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Large breast cancer screening trial will be pivotal step in vetting AI for mammograms - statnews.com",
       "pubDate": "Wed, 24 Sep 2025 08:34:41 GMT"
+    },
+    {
+      "title": "Microsoft Partners With OpenAI Rival Anthropic on AI Copilot - Bloomberg.com",
+      "pubDate": "Wed, 24 Sep 2025 15:00:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "House Democrats probe Trump official Bill Pulte for targeting Lisa Cook and Adam Schiff - Axios",
-      "pubDate": "Tue, 09 Sep 2025 23:16:10 GMT"
-    },
     {
       "title": "Kamala Harris calls Joe Biden\u2019s choice to run for 2024 re-election \u2018reckless\u2019 in new book \u2013 live updates - The Guardian",
       "pubDate": "Wed, 10 Sep 2025 09:58:00 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Trump slams Kimmel's return: \"We're going to test ABC out on this\" - Axios",
       "pubDate": "Wed, 24 Sep 2025 05:07:06 GMT"
+    },
+    {
+      "title": "FBI investigating ICE facility shooting as act of 'targeted violence' - NBC News",
+      "pubDate": "Wed, 24 Sep 2025 15:38:37 GMT"
     }
   ],
   "Iran": [
@@ -761,6 +761,10 @@
     {
       "title": "Germany scrambles jets after Russia military aircraft flies over Baltic Sea - Al Jazeera",
       "pubDate": "Sun, 21 Sep 2025 15:58:43 GMT"
+    },
+    {
+      "title": "Russia, Iran sign nuclear power plants deal as sanctions loom - Al Jazeera",
+      "pubDate": "Wed, 24 Sep 2025 15:47:44 GMT"
     }
   ],
   "Donald Trump": [
@@ -924,10 +928,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China goes electric - Quartz",
-      "pubDate": "Mon, 25 Aug 2025 10:01:15 GMT"
-    },
     {
       "title": "Xi Unleashes China\u2019s Biggest Purge of Military Leaders Since Mao - Bloomberg",
       "pubDate": "Tue, 26 Aug 2025 21:00:00 GMT"
@@ -1519,6 +1519,10 @@
     {
       "title": "Quantum Computing Inc. Announces $500 Million Oversubscribed Private Placement - The Quantum Insider",
       "pubDate": "Mon, 22 Sep 2025 11:05:45 GMT"
+    },
+    {
+      "title": "Device with 6100 qubits is a step towards largest quantum computer yet - New Scientist",
+      "pubDate": "Wed, 24 Sep 2025 15:00:38 GMT"
     }
   ],
   "Public Health": [
@@ -1534,10 +1538,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israeli protesters hold \u2018day of disruption\u2019 to demand Gaza hostage deal: Live updates - CNN",
-      "pubDate": "Tue, 26 Aug 2025 14:33:00 GMT"
-    },
     {
       "title": "Gaza hospital attack: UN demands justice over Israeli double strike that killed 20 - BBC",
       "pubDate": "Tue, 26 Aug 2025 19:10:21 GMT"
@@ -1693,6 +1693,10 @@
     {
       "title": "\u2018We are at our limit\u2019: Gaza\u2019s last hospitals overwhelmed as thousands flee south - The Guardian",
       "pubDate": "Wed, 24 Sep 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Israel kills 22 people including nine children in 'horrific massacre' in Gaza, Palestinian officials say - Sky News",
+      "pubDate": "Wed, 24 Sep 2025 12:45:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1764,10 +1768,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Feeling the Heat? These fossil fuel giants are to blame, new study says - USA Today",
-      "pubDate": "Fri, 12 Sep 2025 10:04:48 GMT"
-    },
     {
       "title": "EPA proposes to ax requirement for companies to report their planet-warming emissions - The Hill",
       "pubDate": "Fri, 12 Sep 2025 20:21:00 GMT"
@@ -1923,6 +1923,10 @@
     {
       "title": "GOP attorneys general dispute climate science, urge end to greenhouse gas regs - Kentucky Lantern",
       "pubDate": "Tue, 23 Sep 2025 22:41:15 GMT"
+    },
+    {
+      "title": "Super Typhoon Ragasa: scientists warn climate change leads to stronger storms - South China Morning Post",
+      "pubDate": "Wed, 24 Sep 2025 09:31:24 GMT"
     }
   ],
   "Algorithms": [
