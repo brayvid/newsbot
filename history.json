@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Kamala Harris calls Joe Biden\u2019s choice to run for 2024 re-election \u2018reckless\u2019 in new book \u2013 live updates - The Guardian",
-      "pubDate": "Wed, 10 Sep 2025 09:58:00 GMT"
-    },
-    {
       "title": "Conservative activist Charlie Kirk shot at Utah college event - WHYY",
       "pubDate": "Wed, 10 Sep 2025 20:45:46 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "FBI investigating ICE facility shooting as act of 'targeted violence' - NBC News",
       "pubDate": "Wed, 24 Sep 2025 15:38:37 GMT"
+    },
+    {
+      "title": "Officials reportedly identify Dallas Ice facility shooter; DHS corrects death toll down to one person killed \u2013 live - The Guardian",
+      "pubDate": "Wed, 24 Sep 2025 20:29:04 GMT"
     }
   ],
   "Iran": [
@@ -330,10 +330,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "UNIFIL says Israeli drones drop grenades close to peacekeepers in Lebanon - Al Jazeera",
-      "pubDate": "Wed, 03 Sep 2025 08:03:45 GMT"
-    },
     {
       "title": "UAE warns White House that Israeli annexations could unravel Abraham Accords - Axios",
       "pubDate": "Wed, 03 Sep 2025 23:59:44 GMT"
@@ -489,13 +485,13 @@
     {
       "title": "Israel seeks permanent Gaza control, Jewish majority in West Bank: UN - Al Jazeera",
       "pubDate": "Tue, 23 Sep 2025 19:42:27 GMT"
+    },
+    {
+      "title": "King Felipe pleads with Israel to \u2018stop massacre and abhorrent acts\u2019 in Gaza - The Guardian",
+      "pubDate": "Wed, 24 Sep 2025 16:56:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Zelenskiy meets Slovakia's Fico, says Ukraine will respond to Russia's energy attacks - Reuters",
-      "pubDate": "Fri, 05 Sep 2025 16:37:19 GMT"
-    },
     {
       "title": "Zelenskyy rejects Putin invitation: 'He can come to Kyiv' - ABC News",
       "pubDate": "Fri, 05 Sep 2025 22:18:45 GMT"
@@ -651,6 +647,10 @@
     {
       "title": "Trump suggests Ukraine could reclaim territory from Russia - PBS",
       "pubDate": "Tue, 23 Sep 2025 22:55:12 GMT"
+    },
+    {
+      "title": "Russia will expand aggression beyond Ukraine if Putin is not stopped, Zelensky warns - BBC",
+      "pubDate": "Wed, 24 Sep 2025 18:22:17 GMT"
     }
   ],
   "Russia": [
@@ -1043,10 +1043,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Google Gemini flagged as \u2018inappropriate and unsafe\u2019 for kids in new AI safety study - The Indian Express",
-      "pubDate": "Sat, 06 Sep 2025 07:20:00 GMT"
-    },
-    {
       "title": "I'm on a hunger strike outside DeepMind's office in London. Here's what I fear most about AI. - Business Insider",
       "pubDate": "Mon, 08 Sep 2025 09:15:00 GMT"
     },
@@ -1201,6 +1197,10 @@
     {
       "title": "Stakeholders call for AI safety at UK summit - Vanguard News",
       "pubDate": "Tue, 23 Sep 2025 22:04:24 GMT"
+    },
+    {
+      "title": "AI safety tool sparks student backlash after flagging art as porn, deleting emails - The Washington Post",
+      "pubDate": "Wed, 24 Sep 2025 17:00:52 GMT"
     }
   ],
   "Data Breach": [
@@ -1523,6 +1523,10 @@
     {
       "title": "Device with 6100 qubits is a step towards largest quantum computer yet - New Scientist",
       "pubDate": "Wed, 24 Sep 2025 15:00:38 GMT"
+    },
+    {
+      "title": "Physicists nearly double speed of superconducting qubit readout in quantum computers - Phys.org",
+      "pubDate": "Wed, 24 Sep 2025 15:06:03 GMT"
     }
   ],
   "Public Health": [
@@ -1538,10 +1542,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Gaza hospital attack: UN demands justice over Israeli double strike that killed 20 - BBC",
-      "pubDate": "Tue, 26 Aug 2025 19:10:21 GMT"
-    },
     {
       "title": "Gaza City evacuation inevitable, Israeli army warns Palestinians - BBC",
       "pubDate": "Wed, 27 Aug 2025 15:02:18 GMT"
@@ -1697,6 +1697,10 @@
     {
       "title": "Israel kills 22 people including nine children in 'horrific massacre' in Gaza, Palestinian officials say - Sky News",
       "pubDate": "Wed, 24 Sep 2025 12:45:00 GMT"
+    },
+    {
+      "title": "In Gaza, military offensive and civilian chaos hinder food aid - The Christian Science Monitor",
+      "pubDate": "Wed, 24 Sep 2025 18:25:46 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1768,10 +1772,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "EPA proposes to ax requirement for companies to report their planet-warming emissions - The Hill",
-      "pubDate": "Fri, 12 Sep 2025 20:21:00 GMT"
-    },
     {
       "title": "Ancient DNA reveals deeply complex Mastodon family and repeated migrations driven by climate change - Phys.org",
       "pubDate": "Fri, 12 Sep 2025 18:00:02 GMT"
@@ -1927,6 +1927,10 @@
     {
       "title": "Super Typhoon Ragasa: scientists warn climate change leads to stronger storms - South China Morning Post",
       "pubDate": "Wed, 24 Sep 2025 09:31:24 GMT"
+    },
+    {
+      "title": "China announces new climate goal to cut its world-leading emissions - PBS",
+      "pubDate": "Wed, 24 Sep 2025 20:27:28 GMT"
     }
   ],
   "Algorithms": [
