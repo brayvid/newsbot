@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "The professions trying to get ahead with AI are those most likely to lose their jobs to it, St Louis Fed says - Fortune",
-      "pubDate": "Wed, 03 Sep 2025 07:42:00 GMT"
-    },
-    {
       "title": "An AI Pioneer Worries Big Tech Is Blinding Itself to New Breakthroughs - Bloomberg.com",
       "pubDate": "Wed, 03 Sep 2025 09:00:21 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Alibaba Shares Jump After CEO Reveals Plans to Raise AI Spending - Bloomberg.com",
       "pubDate": "Wed, 24 Sep 2025 03:14:00 GMT"
+    },
+    {
+      "title": "Large breast cancer screening trial will be pivotal step in vetting AI for mammograms - statnews.com",
+      "pubDate": "Wed, 24 Sep 2025 08:34:41 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "White House denies that Trump wrote Epstein letter and calls investigation a Democrat \u2018hoax\u2019 \u2013 live - The Guardian",
-      "pubDate": "Tue, 09 Sep 2025 09:37:00 GMT"
-    },
     {
       "title": "House Democrats probe Trump official Bill Pulte for targeting Lisa Cook and Adam Schiff - Axios",
       "pubDate": "Tue, 09 Sep 2025 23:16:10 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Trump slams migration, failures to end wars in UN speech - NBC News",
       "pubDate": "Wed, 24 Sep 2025 03:14:00 GMT"
+    },
+    {
+      "title": "Trump slams Kimmel's return: \"We're going to test ABC out on this\" - Axios",
+      "pubDate": "Wed, 24 Sep 2025 05:07:06 GMT"
     }
   ],
   "Iran": [
@@ -493,10 +493,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Putin rejects Western security in Ukraine, warning troops would be target - BBC",
-      "pubDate": "Fri, 05 Sep 2025 08:04:44 GMT"
-    },
-    {
       "title": "Zelenskiy meets Slovakia's Fico, says Ukraine will respond to Russia's energy attacks - Reuters",
       "pubDate": "Fri, 05 Sep 2025 16:37:19 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Backing away from Russia, Trump says Ukraine should win back its land and NATO allies should shoot down incursions - Politico",
       "pubDate": "Tue, 23 Sep 2025 19:28:47 GMT"
+    },
+    {
+      "title": "Trump suggests Ukraine could reclaim territory from Russia - PBS",
+      "pubDate": "Tue, 23 Sep 2025 22:55:12 GMT"
     }
   ],
   "Russia": [
@@ -923,17 +923,7 @@
       "pubDate": "Tue, 23 Sep 2025 14:59:01 GMT"
     }
   ],
-  "Recession": [
-    {
-      "title": "A third of the U.S. economy is already in a recession or at high risk, and another third is stagnating, Zandi warns - Fortune",
-      "pubDate": "Mon, 25 Aug 2025 07:02:00 GMT"
-    }
-  ],
   "China": [
-    {
-      "title": "China Evergrande Delisted From Hong Kong Stock Exchange - The New York Times",
-      "pubDate": "Mon, 25 Aug 2025 04:27:00 GMT"
-    },
     {
       "title": "China goes electric - Quartz",
       "pubDate": "Mon, 25 Aug 2025 10:01:15 GMT"
@@ -1052,10 +1042,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "OpenAI reorg at risk as Attorneys General push AI safety - theregister.com",
-      "pubDate": "Fri, 05 Sep 2025 23:18:00 GMT"
-    },
     {
       "title": "Google Gemini flagged as \u2018inappropriate and unsafe\u2019 for kids in new AI safety study - The Indian Express",
       "pubDate": "Sat, 06 Sep 2025 07:20:00 GMT"
@@ -1211,6 +1197,10 @@
     {
       "title": "Stanford AI Safety Workshop Vitally Showcases The Path To Safer AI And Making AI Safe - Forbes",
       "pubDate": "Tue, 23 Sep 2025 20:41:41 GMT"
+    },
+    {
+      "title": "Stakeholders call for AI safety at UK summit - Vanguard News",
+      "pubDate": "Tue, 23 Sep 2025 22:04:24 GMT"
     }
   ],
   "Data Breach": [
@@ -1314,10 +1304,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin Flash Crash Triggers $550M in Sunday Liquidations as Ether Rotation Builds - CoinDesk",
-      "pubDate": "Mon, 25 Aug 2025 07:00:12 GMT"
-    },
     {
       "title": "American Bitcoin, backed by Trump sons, aims to start trading in September - CNN",
       "pubDate": "Thu, 28 Aug 2025 11:13:00 GMT"
@@ -1549,10 +1535,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israeli strike on Gaza's Nasser Hospital kills 15, including 4 journalists, health officials say - CBS News",
-      "pubDate": "Mon, 25 Aug 2025 09:54:00 GMT"
-    },
-    {
       "title": "Israeli protesters hold \u2018day of disruption\u2019 to demand Gaza hostage deal: Live updates - CNN",
       "pubDate": "Tue, 26 Aug 2025 14:33:00 GMT"
     },
@@ -1707,6 +1689,10 @@
     {
       "title": "Explosions and drones targeting Gaza aid flotilla boats, activists say - The Guardian",
       "pubDate": "Wed, 24 Sep 2025 00:48:00 GMT"
+    },
+    {
+      "title": "\u2018We are at our limit\u2019: Gaza\u2019s last hospitals overwhelmed as thousands flee south - The Guardian",
+      "pubDate": "Wed, 24 Sep 2025 04:00:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1765,6 +1751,10 @@
     {
       "title": "Morgan Stanley partners with Zerohash to launch cryptocurrency trading on E*Trade by 2026 - Mint",
       "pubDate": "Tue, 23 Sep 2025 17:41:25 GMT"
+    },
+    {
+      "title": "Tether targets $500bn valuation with $20bn private funding round - Financial Times",
+      "pubDate": "Tue, 23 Sep 2025 23:37:42 GMT"
     }
   ],
   "Apple": [
@@ -1773,17 +1763,7 @@
       "pubDate": "Tue, 26 Aug 2025 16:06:11 GMT"
     }
   ],
-  "SpaceX": [
-    {
-      "title": "SpaceX calls off Starship launch in latest setback for Elon Musk - Al Jazeera",
-      "pubDate": "Mon, 25 Aug 2025 04:10:53 GMT"
-    }
-  ],
   "Climate Change": [
-    {
-      "title": "This year\u2019s fires are only the beginning \u2013 Economy and ecology - ips-journal.eu",
-      "pubDate": "Fri, 12 Sep 2025 07:27:08 GMT"
-    },
     {
       "title": "Feeling the Heat? These fossil fuel giants are to blame, new study says - USA Today",
       "pubDate": "Fri, 12 Sep 2025 10:04:48 GMT"
@@ -1939,6 +1919,10 @@
     {
       "title": "'Green scam': At UN, watched by drowning nations' leaders, Trump assails the ethos of climate change - AP News",
       "pubDate": "Tue, 23 Sep 2025 22:05:00 GMT"
+    },
+    {
+      "title": "GOP attorneys general dispute climate science, urge end to greenhouse gas regs - Kentucky Lantern",
+      "pubDate": "Tue, 23 Sep 2025 22:41:15 GMT"
     }
   ],
   "Algorithms": [
@@ -1959,12 +1943,6 @@
     {
       "title": "US study confirms that electric cars produce less emissions than combustion engines - Notebookcheck",
       "pubDate": "Wed, 27 Aug 2025 13:18:00 GMT"
-    }
-  ],
-  "Battery Technology": [
-    {
-      "title": "Competing battery technologies shape the EV industry - Reuters",
-      "pubDate": "Mon, 25 Aug 2025 06:03:00 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -2028,10 +2006,6 @@
     }
   ],
   "NVIDIA": [
-    {
-      "title": "Nvidia earnings set to test AI trade with stocks near record highs: What to watch this week - Yahoo Finance",
-      "pubDate": "Mon, 25 Aug 2025 07:31:55 GMT"
-    },
     {
       "title": "Nvidia Earnings: Stock Slips As Investors Hold Their Breath (Live Coverage) - Investor's Business Daily",
       "pubDate": "Wed, 27 Aug 2025 13:49:00 GMT"
