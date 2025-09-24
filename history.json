@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "'Extremely alarming': ChatGPT and Gemini respond to high-risk questions about suicide \u2014 including details around methods - Live Science",
-      "pubDate": "Tue, 02 Sep 2025 17:35:36 GMT"
-    },
-    {
       "title": "The professions trying to get ahead with AI are those most likely to lose their jobs to it, St Louis Fed says - Fortune",
       "pubDate": "Wed, 03 Sep 2025 07:42:00 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "'AI red lines' campaign launches at U.N. Here's what they might be. - Mashable",
       "pubDate": "Tue, 23 Sep 2025 11:24:20 GMT"
+    },
+    {
+      "title": "Alibaba Shares Jump After CEO Reveals Plans to Raise AI Spending - Bloomberg.com",
+      "pubDate": "Wed, 24 Sep 2025 03:14:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump tells foreign firms to \u2018respect\u2019 immigration laws after Hyundai raid \u2013 US politics live - The Guardian",
-      "pubDate": "Mon, 08 Sep 2025 10:14:00 GMT"
-    },
     {
       "title": "White House denies that Trump wrote Epstein letter and calls investigation a Democrat \u2018hoax\u2019 \u2013 live - The Guardian",
       "pubDate": "Tue, 09 Sep 2025 09:37:00 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Trump cancels meeting with Schumer and Jeffries on keeping the government open - PBS",
       "pubDate": "Tue, 23 Sep 2025 14:53:17 GMT"
+    },
+    {
+      "title": "Trump slams migration, failures to end wars in UN speech - NBC News",
+      "pubDate": "Wed, 24 Sep 2025 03:14:00 GMT"
     }
   ],
   "Iran": [
@@ -493,10 +493,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Macron says 26 countries ready to send troops for Ukraine ceasefire - BBC",
-      "pubDate": "Thu, 04 Sep 2025 17:26:57 GMT"
-    },
-    {
       "title": "Putin rejects Western security in Ukraine, warning troops would be target - BBC",
       "pubDate": "Fri, 05 Sep 2025 08:04:44 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Trump Says Ukraine Can Take Back All Lost Territory - Eurasia Business News",
       "pubDate": "Tue, 23 Sep 2025 20:20:42 GMT"
+    },
+    {
+      "title": "Backing away from Russia, Trump says Ukraine should win back its land and NATO allies should shoot down incursions - Politico",
+      "pubDate": "Tue, 23 Sep 2025 19:28:47 GMT"
     }
   ],
   "Russia": [
@@ -764,10 +764,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump expands targets for possible military deployment to more Democratic-led cities - PBS",
-      "pubDate": "Sun, 24 Aug 2025 22:20:14 GMT"
-    },
     {
       "title": "Trump administration pushes law enforcement crackdown as president fires Fed governor - CNN",
       "pubDate": "Tue, 26 Aug 2025 19:34:00 GMT"
@@ -1057,10 +1053,6 @@
   ],
   "AI Safety": [
     {
-      "title": "AI expert issues worrying prediction for 2045 after revealing the only jobs that will still exist in the next five years - LADbible",
-      "pubDate": "Fri, 05 Sep 2025 09:31:25 GMT"
-    },
-    {
       "title": "OpenAI reorg at risk as Attorneys General push AI safety - theregister.com",
       "pubDate": "Fri, 05 Sep 2025 23:18:00 GMT"
     },
@@ -1215,6 +1207,10 @@
     {
       "title": "200 Experts Demand Global AI Red Lines by 2026 - eWeek",
       "pubDate": "Tue, 23 Sep 2025 16:15:00 GMT"
+    },
+    {
+      "title": "Stanford AI Safety Workshop Vitally Showcases The Path To Safer AI And Making AI Safe - Forbes",
+      "pubDate": "Tue, 23 Sep 2025 20:41:41 GMT"
     }
   ],
   "Data Breach": [
@@ -1553,10 +1549,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel must take hostage deal, its military chief reportedly says - BBC",
-      "pubDate": "Mon, 25 Aug 2025 06:55:18 GMT"
-    },
-    {
       "title": "Israeli strike on Gaza's Nasser Hospital kills 15, including 4 journalists, health officials say - CBS News",
       "pubDate": "Mon, 25 Aug 2025 09:54:00 GMT"
     },
@@ -1711,6 +1703,10 @@
     {
       "title": "Israeli forces push deeper into Gaza City with heavy shelling and explosions reported - CNN",
       "pubDate": "Tue, 23 Sep 2025 12:09:47 GMT"
+    },
+    {
+      "title": "Explosions and drones targeting Gaza aid flotilla boats, activists say - The Guardian",
+      "pubDate": "Wed, 24 Sep 2025 00:48:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1784,10 +1780,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "UK Rejects Proposals to Block Out Sun to Curb Climate Change - Bloomberg.com",
-      "pubDate": "Thu, 11 Sep 2025 13:03:38 GMT"
-    },
     {
       "title": "This year\u2019s fires are only the beginning \u2013 Economy and ecology - ips-journal.eu",
       "pubDate": "Fri, 12 Sep 2025 07:27:08 GMT"
@@ -1943,6 +1935,10 @@
     {
       "title": "Trump Calls Climate Change \u2018Con Job\u2019 and \u2018Scam\u2019 in Speech to U.N. General Assembly - Time Magazine",
       "pubDate": "Tue, 23 Sep 2025 17:32:24 GMT"
+    },
+    {
+      "title": "'Green scam': At UN, watched by drowning nations' leaders, Trump assails the ethos of climate change - AP News",
+      "pubDate": "Tue, 23 Sep 2025 22:05:00 GMT"
     }
   ],
   "Algorithms": [
