@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump blames rhetoric from the left for political violence after Charlie Kirk murder - NPR",
-      "pubDate": "Thu, 11 Sep 2025 02:47:44 GMT"
-    },
-    {
       "title": "Charlie Kirk killing lays bare America's bloody and broken politics - BBC",
       "pubDate": "Thu, 11 Sep 2025 05:40:57 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "White House tells agencies to prepare for mass layoffs ahead of a potential government shutdown next week - CBS News",
       "pubDate": "Thu, 25 Sep 2025 03:08:19 GMT"
+    },
+    {
+      "title": "What is Trump's approval rating? Gallup poll finds Republicans souring on state of US - USA Today",
+      "pubDate": "Thu, 25 Sep 2025 07:50:46 GMT"
     }
   ],
   "Iran": [
@@ -493,10 +493,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Zelenskyy rejects Putin invitation: 'He can come to Kyiv' - ABC News",
-      "pubDate": "Fri, 05 Sep 2025 22:18:45 GMT"
-    },
-    {
       "title": "Nearly 700,000 Russian military personnel deployed in Ukraine, intelligence says - The Kyiv Independent",
       "pubDate": "Sat, 06 Sep 2025 08:36:59 GMT"
     },
@@ -651,6 +647,10 @@
     {
       "title": "Russia will expand aggression beyond Ukraine if Putin is not stopped, Zelensky warns - BBC",
       "pubDate": "Wed, 24 Sep 2025 18:22:17 GMT"
+    },
+    {
+      "title": "Trump\u2019s abrupt Ukraine shift exposes fresh frustrations with Putin - The Hill",
+      "pubDate": "Wed, 24 Sep 2025 21:13:00 GMT"
     }
   ],
   "Russia": [
@@ -1043,10 +1043,6 @@
   ],
   "AI Safety": [
     {
-      "title": "I'm on a hunger strike outside DeepMind's office in London. Here's what I fear most about AI. - Business Insider",
-      "pubDate": "Mon, 08 Sep 2025 09:15:00 GMT"
-    },
-    {
       "title": "Anthropic is endorsing SB 53 - Anthropic",
       "pubDate": "Mon, 08 Sep 2025 12:28:13 GMT"
     },
@@ -1201,6 +1197,10 @@
     {
       "title": "AI safety tool sparks student backlash after flagging art as porn, deleting emails - The Washington Post",
       "pubDate": "Wed, 24 Sep 2025 17:00:52 GMT"
+    },
+    {
+      "title": "Can AI refuse to turn off? Google\u2019s latest safety move says yes - The Indian Express",
+      "pubDate": "Thu, 25 Sep 2025 04:22:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1531,6 +1531,10 @@
     {
       "title": "HSBC demonstrates world\u2019s first-known quantum-enabled algorithmic trading with IBM - HSBC",
       "pubDate": "Wed, 24 Sep 2025 23:04:52 GMT"
+    },
+    {
+      "title": "HSBC claims quantum trading breakthrough - Financial Times",
+      "pubDate": "Thu, 25 Sep 2025 03:32:15 GMT"
     }
   ],
   "Public Health": [
@@ -1546,10 +1550,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "UN says Gaza famine expanding, 10 more die from hunger amid Israeli siege - Al Jazeera",
-      "pubDate": "Thu, 28 Aug 2025 04:41:15 GMT"
-    },
     {
       "title": "Israel struck Gaza's Nasser Hospital four times, analysis finds - BBC",
       "pubDate": "Fri, 29 Aug 2025 00:25:37 GMT"
@@ -1705,6 +1705,10 @@
     {
       "title": "Spain's PM says he will send warship to protect Gaza aid flotilla - Reuters",
       "pubDate": "Wed, 24 Sep 2025 20:28:46 GMT"
+    },
+    {
+      "title": "Italy to send a second navy ship to escort Gaza aid flotilla, in wake of alleged drone attacks - The Times of Israel",
+      "pubDate": "Thu, 25 Sep 2025 07:21:37 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1771,6 +1775,10 @@
     {
       "title": "SEC\u2019s new rules set stage for wave of crypto ETFs - InvestmentNews",
       "pubDate": "Wed, 24 Sep 2025 18:22:51 GMT"
+    },
+    {
+      "title": "Philippines Turns to Blockchain After Mass Protests Over Corruption - Decrypt",
+      "pubDate": "Thu, 25 Sep 2025 03:49:16 GMT"
     }
   ],
   "Apple": [
@@ -1780,10 +1788,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Climate Change-Driven Floods Continue to Displace Millions in Pakistan - Inside Climate News",
-      "pubDate": "Fri, 12 Sep 2025 22:05:11 GMT"
-    },
     {
       "title": "Panama Canal Droughts Threaten Global Trade Amid Climate Change - WebProNews",
       "pubDate": "Sat, 13 Sep 2025 18:26:44 GMT"
@@ -1939,6 +1943,10 @@
     {
       "title": "Sinking islands, vanishing forests: World leaders call for urgent climate action - UN News",
       "pubDate": "Thu, 25 Sep 2025 00:54:10 GMT"
+    },
+    {
+      "title": "China doubles down on climate, wind and solar pledges \u2014 a day after Trump called them a 'scam' - Politico",
+      "pubDate": "Thu, 25 Sep 2025 02:10:41 GMT"
     }
   ],
   "Algorithms": [
@@ -1962,10 +1970,6 @@
     }
   ],
   "Electric Vehicle": [
-    {
-      "title": "In China, EVs are now cheaper than gas cars. In the U.S., the Big Three still haven\u2019t closed a premium that\u2019s $14,000 per vehicle - Fortune",
-      "pubDate": "Tue, 26 Aug 2025 08:38:27 GMT"
-    },
     {
       "title": "Tesla offers Elon Musk pay package worth $1 trillion \u2014 with conditions - The Washington Post",
       "pubDate": "Fri, 05 Sep 2025 15:38:01 GMT"
