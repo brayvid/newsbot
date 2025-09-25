@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Charlie Kirk killing lays bare America's bloody and broken politics - BBC",
-      "pubDate": "Thu, 11 Sep 2025 05:40:57 GMT"
-    },
-    {
       "title": "Can America unwind its Gordian knot of political violence? - Politico",
       "pubDate": "Thu, 11 Sep 2025 09:00:00 GMT"
     },
@@ -321,12 +317,10 @@
     {
       "title": "What is Trump's approval rating? Gallup poll finds Republicans souring on state of US - USA Today",
       "pubDate": "Thu, 25 Sep 2025 07:50:46 GMT"
-    }
-  ],
-  "Iran": [
+    },
     {
-      "title": "Australia blames Iran for antisemitic arson attacks, expels envoy - Reuters",
-      "pubDate": "Tue, 26 Aug 2025 15:27:47 GMT"
+      "title": "GOP, Democrats both see incentives in a shutdown that looks inevitable - The Hill",
+      "pubDate": "Thu, 25 Sep 2025 10:00:00 GMT"
     }
   ],
   "Israel": [
@@ -1043,10 +1037,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Anthropic is endorsing SB 53 - Anthropic",
-      "pubDate": "Mon, 08 Sep 2025 12:28:13 GMT"
-    },
-    {
       "title": "Concerns raised over Meta's AI chatbots - NBC Bay Area",
       "pubDate": "Tue, 09 Sep 2025 00:17:03 GMT"
     },
@@ -1201,13 +1191,13 @@
     {
       "title": "Can AI refuse to turn off? Google\u2019s latest safety move says yes - The Indian Express",
       "pubDate": "Thu, 25 Sep 2025 04:22:00 GMT"
+    },
+    {
+      "title": "AI giants are shying from safety pledges and pushing voluntary model testing - MLex",
+      "pubDate": "Thu, 25 Sep 2025 13:17:00 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "Google issues warning to billions of Gmail users over password hack - The Independent",
-      "pubDate": "Tue, 26 Aug 2025 14:30:00 GMT"
-    },
     {
       "title": "Government unable to calculate Afghan data breach cost, watchdog says - BBC",
       "pubDate": "Tue, 02 Sep 2025 23:56:06 GMT"
@@ -1381,12 +1371,6 @@
       "pubDate": "Mon, 22 Sep 2025 11:00:00 GMT"
     }
   ],
-  "Federal Reserve": [
-    {
-      "title": "Trump says he's removing Federal Reserve Gov. Lisa Cook, citing his administration\u2019s allegations of mortgage fraud - NBC News",
-      "pubDate": "Tue, 26 Aug 2025 15:24:00 GMT"
-    }
-  ],
   "Alternative Energy": [
     {
       "title": "This tiny iron catalyst could transform the future of clean energy - ScienceDaily",
@@ -1399,19 +1383,11 @@
   ],
   "OpenAI": [
     {
-      "title": "The family of teenager who died by suicide alleges OpenAI's ChatGPT is to blame - NBC News",
-      "pubDate": "Tue, 26 Aug 2025 11:40:40 GMT"
-    },
-    {
       "title": "OpenAI Inks $300B Oracle Deal for 4.5GW AI Data Centers - WebProNews",
       "pubDate": "Sat, 13 Sep 2025 12:46:03 GMT"
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Japan launches its first homegrown quantum computer - Live Science",
-      "pubDate": "Tue, 26 Aug 2025 12:14:41 GMT"
-    },
     {
       "title": "Ethereum scientist warns 20% chance quantum computers could break crypto - TheStreet",
       "pubDate": "Fri, 29 Aug 2025 11:58:57 GMT"
@@ -1789,10 +1765,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Panama Canal Droughts Threaten Global Trade Amid Climate Change - WebProNews",
-      "pubDate": "Sat, 13 Sep 2025 18:26:44 GMT"
-    },
-    {
       "title": "Heatwaves are becoming more intense and frequent due to human-caused climate change, yet only six percent of Italy's schools have air conditioning - IslanderNews.com",
       "pubDate": "Sat, 13 Sep 2025 22:02:32 GMT"
     },
@@ -1947,6 +1919,10 @@
     {
       "title": "China doubles down on climate, wind and solar pledges \u2014 a day after Trump called them a 'scam' - Politico",
       "pubDate": "Thu, 25 Sep 2025 02:10:41 GMT"
+    },
+    {
+      "title": "Report: Hidden Costs of Climate Change Fueling Affordability Crisis in California - Yahoo Finance",
+      "pubDate": "Thu, 25 Sep 2025 12:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1960,10 +1936,6 @@
     }
   ],
   "Battery Electric Vehicle": [
-    {
-      "title": "Porsche axes plans to build electric car batteries as demand collapses - The Telegraph",
-      "pubDate": "Tue, 26 Aug 2025 13:43:00 GMT"
-    },
     {
       "title": "US study confirms that electric cars produce less emissions than combustion engines - Notebookcheck",
       "pubDate": "Wed, 27 Aug 2025 13:18:00 GMT"
@@ -2055,18 +2027,6 @@
       "pubDate": "Thu, 28 Aug 2025 13:11:04 GMT"
     }
   ],
-  "Earth Science": [
-    {
-      "title": "Scientists Detected Signs of a Structure Hiding Inside Earth's Core - ScienceAlert",
-      "pubDate": "Tue, 26 Aug 2025 13:01:32 GMT"
-    }
-  ],
-  "Earth": [
-    {
-      "title": "Rare earth prices hit two-year peak after MP Materials stops China shipments - Reuters",
-      "pubDate": "Tue, 26 Aug 2025 12:18:23 GMT"
-    }
-  ],
   "Big Data": [
     {
       "title": "Applying big data sentiment scoring on WLAC - 2025 Buyback Activity & Weekly Return Optimization Alerts - Newser",
@@ -2121,6 +2081,10 @@
     {
       "title": "Google\u2019s Gemini AI achieves gold medal in prestigious ICPC coding competition, outperforming most human teams - Dataconomy",
       "pubDate": "Thu, 18 Sep 2025 09:06:44 GMT"
+    },
+    {
+      "title": "Microsoft AI CEO warns AI may need military-grade control within a decade - Windows Central",
+      "pubDate": "Thu, 25 Sep 2025 11:20:00 GMT"
     }
   ],
   "National Security": [
