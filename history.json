@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "The Tech Industry Has a Dirty Secret: The More People Learn About AI, the Less They Trust It - Futurism",
-      "pubDate": "Wed, 03 Sep 2025 17:04:04 GMT"
-    },
-    {
       "title": "How the next wave of workers will adapt as artificial intelligence reshapes jobs - PBS",
       "pubDate": "Wed, 03 Sep 2025 22:25:54 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Microsoft Partners With OpenAI Rival Anthropic on AI Copilot - Bloomberg.com",
       "pubDate": "Wed, 24 Sep 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Security Council LIVE: Guardrails urgently needed for AI on the battlefield, warns Guterres - UN News",
+      "pubDate": "Wed, 24 Sep 2025 19:32:36 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Conservative activist Charlie Kirk shot at Utah college event - WHYY",
-      "pubDate": "Wed, 10 Sep 2025 20:45:46 GMT"
-    },
     {
       "title": "Trump blames rhetoric from the left for political violence after Charlie Kirk murder - NPR",
       "pubDate": "Thu, 11 Sep 2025 02:47:44 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "Officials reportedly identify Dallas Ice facility shooter; DHS corrects death toll down to one person killed \u2013 live - The Guardian",
       "pubDate": "Wed, 24 Sep 2025 20:29:04 GMT"
+    },
+    {
+      "title": "White House tells agencies to prepare for mass layoffs ahead of a potential government shutdown next week - CBS News",
+      "pubDate": "Thu, 25 Sep 2025 03:08:19 GMT"
     }
   ],
   "Iran": [
@@ -1527,6 +1527,10 @@
     {
       "title": "Physicists nearly double speed of superconducting qubit readout in quantum computers - Phys.org",
       "pubDate": "Wed, 24 Sep 2025 15:06:03 GMT"
+    },
+    {
+      "title": "HSBC demonstrates world\u2019s first-known quantum-enabled algorithmic trading with IBM - HSBC",
+      "pubDate": "Wed, 24 Sep 2025 23:04:52 GMT"
     }
   ],
   "Public Health": [
@@ -1542,10 +1546,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Gaza City evacuation inevitable, Israeli army warns Palestinians - BBC",
-      "pubDate": "Wed, 27 Aug 2025 15:02:18 GMT"
-    },
     {
       "title": "UN says Gaza famine expanding, 10 more die from hunger amid Israeli siege - Al Jazeera",
       "pubDate": "Thu, 28 Aug 2025 04:41:15 GMT"
@@ -1701,6 +1701,10 @@
     {
       "title": "In Gaza, military offensive and civilian chaos hinder food aid - The Christian Science Monitor",
       "pubDate": "Wed, 24 Sep 2025 18:25:46 GMT"
+    },
+    {
+      "title": "Spain's PM says he will send warship to protect Gaza aid flotilla - Reuters",
+      "pubDate": "Wed, 24 Sep 2025 20:28:46 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1763,6 +1767,10 @@
     {
       "title": "Tether targets $500bn valuation with $20bn private funding round - Financial Times",
       "pubDate": "Tue, 23 Sep 2025 23:37:42 GMT"
+    },
+    {
+      "title": "SEC\u2019s new rules set stage for wave of crypto ETFs - InvestmentNews",
+      "pubDate": "Wed, 24 Sep 2025 18:22:51 GMT"
     }
   ],
   "Apple": [
@@ -1772,10 +1780,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Ancient DNA reveals deeply complex Mastodon family and repeated migrations driven by climate change - Phys.org",
-      "pubDate": "Fri, 12 Sep 2025 18:00:02 GMT"
-    },
     {
       "title": "Climate Change-Driven Floods Continue to Displace Millions in Pakistan - Inside Climate News",
       "pubDate": "Fri, 12 Sep 2025 22:05:11 GMT"
@@ -1931,6 +1935,10 @@
     {
       "title": "China announces new climate goal to cut its world-leading emissions - PBS",
       "pubDate": "Wed, 24 Sep 2025 20:27:28 GMT"
+    },
+    {
+      "title": "Sinking islands, vanishing forests: World leaders call for urgent climate action - UN News",
+      "pubDate": "Thu, 25 Sep 2025 00:54:10 GMT"
     }
   ],
   "Algorithms": [
