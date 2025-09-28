@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "What if artificial intelligence is just a \u201cnormal\u201d technology? - The Economist",
-      "pubDate": "Thu, 04 Sep 2025 09:22:04 GMT"
-    },
-    {
       "title": "OpenAI teams up with Walmart to train millions of workers in artificial intelligence - Fox Business",
       "pubDate": "Thu, 04 Sep 2025 23:46:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "UAE president meets OpenAI CEO to discuss AI collaboration - Reuters",
       "pubDate": "Sat, 27 Sep 2025 22:05:18 GMT"
+    },
+    {
+      "title": "AI Startup Black Forest Labs Shoots for $4 Billion Valuation - PYMNTS.com",
+      "pubDate": "Sun, 28 Sep 2025 20:19:39 GMT"
     }
   ],
   "US Politics": [
@@ -649,10 +649,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukraine war: Volodymyr Zelensky rejects proposals for buffer zone to end fighting - BBC",
-      "pubDate": "Fri, 29 Aug 2025 17:49:18 GMT"
-    },
-    {
       "title": "Russia Is Waging War on European Critical Infrastructure - The National Interest",
       "pubDate": "Sun, 31 Aug 2025 16:00:51 GMT"
     },
@@ -763,6 +759,10 @@
     {
       "title": "Russia warns NATO, EU: Any aggression will be met with 'decisive response' - TribLIVE.com",
       "pubDate": "Sat, 27 Sep 2025 20:02:00 GMT"
+    },
+    {
+      "title": "Vance says US considering Tomahawk missiles for Ukraine - Reuters",
+      "pubDate": "Sun, 28 Sep 2025 16:40:41 GMT"
     }
   ],
   "Donald Trump": [
@@ -857,6 +857,10 @@
     {
       "title": "US set for largest mass resignation in history as Trump continues deep cuts - The Guardian",
       "pubDate": "Sun, 28 Sep 2025 12:55:00 GMT"
+    },
+    {
+      "title": "Trump threatens mass firings of federal workers if government shutdown isn't averted, NBC News reports - CNBC",
+      "pubDate": "Sun, 28 Sep 2025 19:58:47 GMT"
     }
   ],
   "Financial Markets": [
@@ -1021,10 +1025,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Concerns raised over Meta's AI chatbots - NBC Bay Area",
-      "pubDate": "Tue, 09 Sep 2025 00:17:03 GMT"
-    },
-    {
       "title": "\"They Can Make Bombs After Being Stripped Down\": AI Safety Researchers Expose Dangerous Efficiency Tradeoffs in Open Source Models - Rude Baguette",
       "pubDate": "Tue, 09 Sep 2025 12:10:38 GMT"
     },
@@ -1179,6 +1179,10 @@
     {
       "title": "AI giants are shying from safety pledges and pushing voluntary model testing - MLex",
       "pubDate": "Thu, 25 Sep 2025 13:17:00 GMT"
+    },
+    {
+      "title": "AI Safety Warnings Grow as Microsoft, Alphabet, and Amazon Invest Billions in the Race for Superintelligence - TipRanks",
+      "pubDate": "Sun, 28 Sep 2025 12:57:43 GMT"
     }
   ],
   "Data Breach": [
@@ -1987,6 +1991,12 @@
     {
       "title": "BRICS FMs condemn military aggression against Iran's peaceful nuclear facilities - Pars Today",
       "pubDate": "Sun, 28 Sep 2025 08:38:00 GMT"
+    }
+  ],
+  "Blockchain": [
+    {
+      "title": "UN: Blockchain aligns with our digital and inclusive governance agenda - Cryptopolitan",
+      "pubDate": "Sun, 28 Sep 2025 14:14:00 GMT"
     }
   ]
 }
