@@ -487,10 +487,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukrainian Strikes on Russian Refineries Causing Crisis for Putin - Kyiv Post",
-      "pubDate": "Sat, 06 Sep 2025 15:41:15 GMT"
-    },
-    {
       "title": "'NO ESCAPE': Ukraine Faces Its Darkest Hour As '7 Lakh Russian Troops Surround' Donetsk And Pokrovsk - Times of India",
       "pubDate": "Sun, 07 Sep 2025 02:35:59 GMT"
     },
@@ -645,6 +641,10 @@
     {
       "title": "Ukrainian Nuclear Plant in Crisis: What to Know - Newsweek",
       "pubDate": "Sat, 27 Sep 2025 20:57:00 GMT"
+    },
+    {
+      "title": "Zaporizhzhia Nuclear Plant off Grid; Russia, Ukraine Trade Blame - Kyiv Post",
+      "pubDate": "Sun, 28 Sep 2025 05:26:04 GMT"
     }
   ],
   "Russia": [
@@ -853,6 +853,10 @@
     {
       "title": "Trump orders deployment of troops to Portland and authorises 'full force' - BBC",
       "pubDate": "Sat, 27 Sep 2025 18:35:45 GMT"
+    },
+    {
+      "title": "US set for largest mass resignation in history as Trump continues deep cuts - The Guardian",
+      "pubDate": "Sun, 28 Sep 2025 12:55:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -1193,10 +1197,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "CISA, FBI, NSA Warn of Chinese 'Global Espionage System' - Dark Reading",
-      "pubDate": "Fri, 29 Aug 2025 09:36:12 GMT"
-    },
-    {
       "title": "Noem fires two dozen FEMA employees over alleged cybersecurity gaps - CNN",
       "pubDate": "Fri, 29 Aug 2025 23:13:00 GMT"
     },
@@ -1307,10 +1307,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "Commonwealth Fusion Raises Almost $1 Billion In Bid To Win Race For Commercial Nuclear Fusion Power - NucNet",
-      "pubDate": "Fri, 29 Aug 2025 11:06:21 GMT"
-    },
-    {
       "title": "DOE needs reorganization to develop fusion, industry leaders say - E&E News by POLITICO",
       "pubDate": "Fri, 19 Sep 2025 10:34:00 GMT"
     },
@@ -1330,10 +1326,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Ethereum scientist warns 20% chance quantum computers could break crypto - TheStreet",
-      "pubDate": "Fri, 29 Aug 2025 11:58:57 GMT"
-    },
     {
       "title": "Quantum Computing News: IBM and AMD Partner on Hybrid Systems, Q-CTRL Wins DARPA Contracts, Quantinuum Valued at $10 Billion - TipRanks",
       "pubDate": "Sat, 30 Aug 2025 07:25:36 GMT"
@@ -1937,6 +1929,10 @@
     {
       "title": "New Military Strikes On Iran Being Discussed, Russian FM Says; Tehran-Backed Hezbollah Refuses To Disarm - EurAsian Times",
       "pubDate": "Sun, 28 Sep 2025 03:11:46 GMT"
+    },
+    {
+      "title": "Iran hit with reimposition of sanctions over its nuclear programme - Financial Times",
+      "pubDate": "Sun, 28 Sep 2025 11:22:32 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1985,6 +1981,12 @@
     {
       "title": "Trump's moves to consolidate power, punish enemies draw comparisons to places where democracy faded - AP News",
       "pubDate": "Sun, 28 Sep 2025 04:03:00 GMT"
+    }
+  ],
+  "BRICS": [
+    {
+      "title": "BRICS FMs condemn military aggression against Iran's peaceful nuclear facilities - Pars Today",
+      "pubDate": "Sun, 28 Sep 2025 08:38:00 GMT"
     }
   ]
 }
