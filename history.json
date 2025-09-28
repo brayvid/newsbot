@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "How the next wave of workers will adapt as artificial intelligence reshapes jobs - PBS",
-      "pubDate": "Wed, 03 Sep 2025 22:25:54 GMT"
-    },
-    {
       "title": "What if artificial intelligence is just a \u201cnormal\u201d technology? - The Economist",
       "pubDate": "Thu, 04 Sep 2025 09:22:04 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Security Council LIVE: Guardrails urgently needed for AI on the battlefield, warns Guterres - UN News",
       "pubDate": "Wed, 24 Sep 2025 19:32:36 GMT"
+    },
+    {
+      "title": "UAE president meets OpenAI CEO to discuss AI collaboration - Reuters",
+      "pubDate": "Sat, 27 Sep 2025 22:05:18 GMT"
     }
   ],
   "US Politics": [
@@ -857,10 +857,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "Asian shares are mixed after stocks add a bit to their records on Wall Street - The Independent",
-      "pubDate": "Fri, 29 Aug 2025 05:39:00 GMT"
-    },
-    {
       "title": "Markets brace for volatility amid Trump's Fed maneuvers - Reuters",
       "pubDate": "Thu, 04 Sep 2025 17:33:40 GMT"
     },
@@ -1297,6 +1293,10 @@
     {
       "title": "Bitcoin falls below $114,500 after FOMC hype fades; market shows 'nervous optimism' - theblock.co",
       "pubDate": "Mon, 22 Sep 2025 03:26:02 GMT"
+    },
+    {
+      "title": "U.S. Bitcoin spot ETFs see net outflows of $930 million last week - bloomingbit",
+      "pubDate": "Sun, 28 Sep 2025 04:52:52 GMT"
     }
   ],
   "Cancer": [
@@ -1933,6 +1933,10 @@
     {
       "title": "UN sanctions set to be reimposed on Iran on Saturday - Reuters",
       "pubDate": "Sat, 27 Sep 2025 19:22:25 GMT"
+    },
+    {
+      "title": "New Military Strikes On Iran Being Discussed, Russian FM Says; Tehran-Backed Hezbollah Refuses To Disarm - EurAsian Times",
+      "pubDate": "Sun, 28 Sep 2025 03:11:46 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1963,6 +1967,24 @@
     {
       "title": "Why the US economy faces a bigger shock than tariffs - AFR",
       "pubDate": "Sun, 28 Sep 2025 01:20:00 GMT"
+    }
+  ],
+  "Renewable Energy": [
+    {
+      "title": "The US plans to cancel $13 billion in subsidies for green energy - GMK Center",
+      "pubDate": "Sun, 28 Sep 2025 06:04:15 GMT"
+    }
+  ],
+  "Climate": [
+    {
+      "title": "US Retires Sole Antarctic Icebreaker by 2025, Threatening Climate Research - WebProNews",
+      "pubDate": "Sat, 27 Sep 2025 23:17:43 GMT"
+    }
+  ],
+  "Democracy": [
+    {
+      "title": "Trump's moves to consolidate power, punish enemies draw comparisons to places where democracy faded - AP News",
+      "pubDate": "Sun, 28 Sep 2025 04:03:00 GMT"
     }
   ]
 }
