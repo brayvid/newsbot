@@ -487,10 +487,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Nearly 700,000 Russian military personnel deployed in Ukraine, intelligence says - The Kyiv Independent",
-      "pubDate": "Sat, 06 Sep 2025 08:36:59 GMT"
-    },
-    {
       "title": "Ukrainian Strikes on Russian Refineries Causing Crisis for Putin - Kyiv Post",
       "pubDate": "Sat, 06 Sep 2025 15:41:15 GMT"
     },
@@ -645,6 +641,10 @@
     {
       "title": "Trump\u2019s abrupt Ukraine shift exposes fresh frustrations with Putin - The Hill",
       "pubDate": "Wed, 24 Sep 2025 21:13:00 GMT"
+    },
+    {
+      "title": "Ukrainian Nuclear Plant in Crisis: What to Know - Newsweek",
+      "pubDate": "Sat, 27 Sep 2025 20:57:00 GMT"
     }
   ],
   "Russia": [
@@ -759,6 +759,10 @@
     {
       "title": "Russia, Iran sign nuclear power plants deal as sanctions loom - Al Jazeera",
       "pubDate": "Wed, 24 Sep 2025 15:47:44 GMT"
+    },
+    {
+      "title": "Russia warns NATO, EU: Any aggression will be met with 'decisive response' - TribLIVE.com",
+      "pubDate": "Sat, 27 Sep 2025 20:02:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -853,10 +857,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "Stock market today: S&P 500 crosses 6,500, Dow hits record after Nvidia earnings, surprise GDP jump - Yahoo Finance",
-      "pubDate": "Thu, 28 Aug 2025 21:21:16 GMT"
-    },
-    {
       "title": "Asian shares are mixed after stocks add a bit to their records on Wall Street - The Independent",
       "pubDate": "Fri, 29 Aug 2025 05:39:00 GMT"
     },
@@ -907,6 +907,10 @@
     {
       "title": "Gold Hits Fresh Record as Traders Weigh China Reserves, Fed Cuts - Yahoo Finance",
       "pubDate": "Tue, 23 Sep 2025 14:59:01 GMT"
+    },
+    {
+      "title": "The Echoes of 2007 Are Starting to Become Louder: Credit Weekly - Bloomberg.com",
+      "pubDate": "Sat, 27 Sep 2025 19:00:00 GMT"
     }
   ],
   "China": [
@@ -1192,10 +1196,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "SentinelOne raises annual revenue forecast on strong cybersecurity demand - Reuters",
-      "pubDate": "Thu, 28 Aug 2025 22:23:12 GMT"
-    },
     {
       "title": "CISA, FBI, NSA Warn of Chinese 'Global Espionage System' - Dark Reading",
       "pubDate": "Fri, 29 Aug 2025 09:36:12 GMT"
@@ -1939,6 +1939,30 @@
     {
       "title": "Trump administration asks U.S. Supreme Court to uphold order aimed at ending birthright citizenship - CBC",
       "pubDate": "Sat, 27 Sep 2025 14:19:43 GMT"
+    }
+  ],
+  "Violence": [
+    {
+      "title": "Human Rights Watch urges UN to authorize a mission to address violence in Haiti - Jurist.org",
+      "pubDate": "Sat, 27 Sep 2025 23:19:01 GMT"
+    }
+  ],
+  "Earth": [
+    {
+      "title": "Earth\u2019s oxygen is running out \u2013 NASA scientists warn of a future without breathable air - Le Ravi",
+      "pubDate": "Sat, 27 Sep 2025 19:45:15 GMT"
+    }
+  ],
+  "United Kingdom": [
+    {
+      "title": "Iran recalls its ambassadors from France, Germany and the United Kingdom ahead of U.N. nuclear sanctions being reimposed - CityNews Calgary",
+      "pubDate": "Sat, 27 Sep 2025 23:46:03 GMT"
+    }
+  ],
+  "Trade War": [
+    {
+      "title": "Why the US economy faces a bigger shock than tariffs - AFR",
+      "pubDate": "Sun, 28 Sep 2025 01:20:00 GMT"
     }
   ]
 }
