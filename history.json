@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "'Godfather of AI' says the technology will create massive unemployment and send profits soaring \u2014 'that is the capitalist system' - Fortune",
-      "pubDate": "Sat, 06 Sep 2025 19:27:00 GMT"
-    },
-    {
       "title": "OpenAI expects business to burn $115 billion through 2029, The Information reports - CNBC",
       "pubDate": "Sat, 06 Sep 2025 21:19:05 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "AI chip firm Cerebras raises $1.1 billion, adds Trump-linked 1789 Capital as investor - Reuters",
       "pubDate": "Tue, 30 Sep 2025 13:03:19 GMT"
+    },
+    {
+      "title": "Trump signs order aimed at using artificial intelligence to boost childhood cancer treatment - The Hill",
+      "pubDate": "Tue, 30 Sep 2025 21:14:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Can America unwind its Gordian knot of political violence? - Politico",
-      "pubDate": "Thu, 11 Sep 2025 09:00:00 GMT"
-    },
     {
       "title": "Why the U.S. is experiencing heightened political violence - PBS",
       "pubDate": "Thu, 11 Sep 2025 22:45:31 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "GOP, Democrats both see incentives in a shutdown that looks inevitable - The Hill",
       "pubDate": "Thu, 25 Sep 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Live updates: Senate votes on averting shutdown hours before deadline - The Hill",
+      "pubDate": "Tue, 30 Sep 2025 21:52:00 GMT"
     }
   ],
   "Israel": [
@@ -907,6 +907,10 @@
     {
       "title": "The Echoes of 2007 Are Starting to Become Louder: Credit Weekly - Bloomberg.com",
       "pubDate": "Sat, 27 Sep 2025 19:00:00 GMT"
+    },
+    {
+      "title": "Global currency market swells to $10tn a day in tariff turmoil - Financial Times",
+      "pubDate": "Tue, 30 Sep 2025 13:00:06 GMT"
     }
   ],
   "China": [
@@ -1247,10 +1251,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Bitcoin Post-Halving Top? Analyst Says BTC Demand Outpacing Supply Over 6x in 2025 - CoinDesk",
-      "pubDate": "Sun, 31 Aug 2025 19:52:30 GMT"
-    },
-    {
       "title": "BTC's Realized Cap Climbs to $1.05T Despite Price Pullback - CoinDesk",
       "pubDate": "Mon, 01 Sep 2025 19:11:53 GMT"
     },
@@ -1418,10 +1418,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Post-war plan sees US administering Gaza for at least a decade: Washington Post - Reuters",
-      "pubDate": "Sun, 31 Aug 2025 17:52:15 GMT"
-    },
     {
       "title": "Media outlets demand Israel grant access to Gaza, halt attacks on journalists there - NPR",
       "pubDate": "Mon, 01 Sep 2025 08:58:57 GMT"
@@ -1945,6 +1941,10 @@
     {
       "title": "US Retires Sole Antarctic Icebreaker by 2025, Threatening Climate Research - WebProNews",
       "pubDate": "Sat, 27 Sep 2025 23:17:43 GMT"
+    },
+    {
+      "title": "Energy Dept. tells employees not to use words including 'climate change' and 'green' - NPR",
+      "pubDate": "Tue, 30 Sep 2025 14:24:49 GMT"
     }
   ],
   "Democracy": [
@@ -1969,6 +1969,10 @@
     {
       "title": "AI Study Finds Chatbots Can Strategically Lie\u2014And Current Safety Tools Can't Catch Them - Decrypt",
       "pubDate": "Mon, 29 Sep 2025 20:25:50 GMT"
+    },
+    {
+      "title": "APTO Releases Training Dataset to Enhance the Mathematical Reasoning Capabilities of Large Language Models (LLMs) - Yahoo Finance",
+      "pubDate": "Tue, 30 Sep 2025 17:00:00 GMT"
     }
   ],
   "Machine Learning": [
@@ -1987,6 +1991,16 @@
     {
       "title": "SpaceX targeting Oct. 13 for next Starship megarocket launch - Space",
       "pubDate": "Tue, 30 Sep 2025 08:29:52 GMT"
+    },
+    {
+      "title": "SpaceX has a few tricks up its sleeve for the last Starship flight of the year - Ars Technica",
+      "pubDate": "Tue, 30 Sep 2025 18:36:17 GMT"
+    }
+  ],
+  "Cybersecurity and Infrastructure Security Agency": [
+    {
+      "title": "CISA says it will fill the gap as federal funding for MS-ISAC dries up - Help Net Security",
+      "pubDate": "Tue, 30 Sep 2025 14:55:17 GMT"
     }
   ]
 }
