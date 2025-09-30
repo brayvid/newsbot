@@ -154,7 +154,7 @@ def format_history(data):
 
 # --- Gemini query ---
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel("gemini-2.5-flash")
+model = genai.GenerativeModel("gemini-2.5-flash-lite")
 
 # <<< MODIFICATION START: Replaced the old prompt with the enhanced, fact-checking prompt >>>
 question = (

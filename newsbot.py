@@ -147,7 +147,7 @@ MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 7))
 MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
 DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR", 0.5))
 MATCH_THRESHOLD = float(CONFIG.get("DEDUPLICATION_MATCH_THRESHOLD", 0.4)) # Added from first script for consistency
-GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-2.5-flash") # Added
+GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-2.5-flash-lite") # Added
 
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
 try:
