@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "The human thinking behind artificial intelligence - cosmosmagazine.com",
-      "pubDate": "Sat, 06 Sep 2025 01:51:00 GMT"
-    },
-    {
       "title": "Anthropic Agrees to Pay $1.5 Billion to Settle Lawsuit With Book Authors - The New York Times",
       "pubDate": "Fri, 05 Sep 2025 22:38:29 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Regulators struggle to keep up with the fast-moving and complicated landscape of AI therapy apps - AP News",
       "pubDate": "Mon, 29 Sep 2025 15:42:00 GMT"
+    },
+    {
+      "title": "Bruce Blair Memorial Lecture: Nuclear Weapons In The Age Of Artificial Intelligence - Hoover Institution",
+      "pubDate": "Mon, 29 Sep 2025 23:28:32 GMT"
     }
   ],
   "US Politics": [
@@ -487,10 +487,6 @@
   ],
   "Ukraine": [
     {
-      "title": "'NO ESCAPE': Ukraine Faces Its Darkest Hour As '7 Lakh Russian Troops Surround' Donetsk And Pokrovsk - Times of India",
-      "pubDate": "Sun, 07 Sep 2025 02:35:59 GMT"
-    },
-    {
       "title": "Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says - ABC News",
       "pubDate": "Sun, 07 Sep 2025 10:18:45 GMT"
     },
@@ -645,6 +641,10 @@
     {
       "title": "Zaporizhzhia Nuclear Plant off Grid; Russia, Ukraine Trade Blame - Kyiv Post",
       "pubDate": "Sun, 28 Sep 2025 05:26:04 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Europe \u2018no longer at peace\u2019 with Russia, says German chancellor - The Guardian",
+      "pubDate": "Tue, 30 Sep 2025 01:48:00 GMT"
     }
   ],
   "Russia": [
@@ -767,10 +767,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump Says He Will Sign Executive Order Mandating Voter I.D. - The New York Times",
-      "pubDate": "Sun, 31 Aug 2025 04:10:21 GMT"
-    },
-    {
       "title": "Trump keeps threatening to punish Putin. Here's what's holding him back - CNBC",
       "pubDate": "Mon, 01 Sep 2025 09:36:57 GMT"
     },
@@ -853,6 +849,10 @@
     {
       "title": "Trump threatens mass firings of federal workers if government shutdown isn't averted, NBC News reports - CNBC",
       "pubDate": "Sun, 28 Sep 2025 19:58:47 GMT"
+    },
+    {
+      "title": "Donald Trump reaches for \u201ceternal peace\u201d in Gaza - The Economist",
+      "pubDate": "Mon, 29 Sep 2025 23:06:13 GMT"
     }
   ],
   "Financial Markets": [
@@ -910,10 +910,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Putin and Modi in China for summit overshadowed by trade wars with US - BBC",
-      "pubDate": "Sun, 31 Aug 2025 06:49:04 GMT"
-    },
     {
       "title": "China and India pledge to be 'partners not rivals' at security summit - BBC",
       "pubDate": "Sun, 31 Aug 2025 09:14:19 GMT"
@@ -1008,10 +1004,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "\"They Can Make Bombs After Being Stripped Down\": AI Safety Researchers Expose Dangerous Efficiency Tradeoffs in Open Source Models - Rude Baguette",
-      "pubDate": "Tue, 09 Sep 2025 12:10:38 GMT"
-    },
     {
       "title": "Anthropic's Claude Code runs code to test if it is safe \u2013 which might be a big mistake - theregister.com",
       "pubDate": "Tue, 09 Sep 2025 09:30:00 GMT"
@@ -1167,6 +1159,10 @@
     {
       "title": "AI Safety Warnings Grow as Microsoft, Alphabet, and Amazon Invest Billions in the Race for Superintelligence - TipRanks",
       "pubDate": "Sun, 28 Sep 2025 12:57:43 GMT"
+    },
+    {
+      "title": "California Signs Nation\u2019s First Major AI Safety Law, Forcing Transparency on Tech Giants - WinBuzzer",
+      "pubDate": "Tue, 30 Sep 2025 06:44:41 GMT"
     }
   ],
   "Data Breach": [
@@ -1217,6 +1213,10 @@
     {
       "title": "US economy added 911,000 fewer jobs than previously reported in largest-ever revision - ABC News",
       "pubDate": "Tue, 09 Sep 2025 14:15:00 GMT"
+    },
+    {
+      "title": "What happens if the US government shuts down? - Financial Times",
+      "pubDate": "Mon, 29 Sep 2025 22:20:35 GMT"
     }
   ],
   "Earthquakes": [
@@ -1287,12 +1287,6 @@
       "pubDate": "Sun, 28 Sep 2025 04:52:52 GMT"
     }
   ],
-  "Cancer": [
-    {
-      "title": "Gordon Ramsay reveals skin cancer diagnosis and advises sunscreen use - The Washington Post",
-      "pubDate": "Sun, 31 Aug 2025 07:51:44 GMT"
-    }
-  ],
   "Fusion Power": [
     {
       "title": "DOE needs reorganization to develop fusion, industry leaders say - E&E News by POLITICO",
@@ -1314,10 +1308,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Researchers convert fermionic and spin models into QUBOs, validating accuracy with 1D and 2D Ising tests - Quantum Zeitgeist",
-      "pubDate": "Sun, 31 Aug 2025 07:06:09 GMT"
-    },
     {
       "title": "Researchers Achieve 90% Fidelity in Measurement-based Quantum Computation with 4-qubit Clusters - Quantum Zeitgeist",
       "pubDate": "Mon, 01 Sep 2025 11:07:02 GMT"
@@ -1891,6 +1881,10 @@
     {
       "title": "North Korea willing to hold dialogue with US if it stops insisting on denuclearization, says Kim - Anadolu Ajans\u0131",
       "pubDate": "Mon, 22 Sep 2025 05:52:06 GMT"
+    },
+    {
+      "title": "In a rare UN appearance, senior North Korean diplomat insists his country won't give up nukes - AP News",
+      "pubDate": "Mon, 29 Sep 2025 22:10:00 GMT"
     }
   ],
   "Iran": [
@@ -1977,6 +1971,12 @@
     {
       "title": "Machine Learning Model Detects ALS Up to a Decade Before Symptoms Emerge - Technology Networks",
       "pubDate": "Mon, 29 Sep 2025 15:22:19 GMT"
+    }
+  ],
+  "US Congress": [
+    {
+      "title": "Congress has one more day to avert a shutdown. The odds don\u2019t look good - CNN",
+      "pubDate": "Tue, 30 Sep 2025 08:00:51 GMT"
     }
   ]
 }
