@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Why the U.S. is experiencing heightened political violence - PBS",
-      "pubDate": "Thu, 11 Sep 2025 22:45:31 GMT"
-    },
-    {
       "title": "Utah Gov. Spencer Cox Asks for Offramp on Political Violence - The Wall Street Journal",
       "pubDate": "Fri, 12 Sep 2025 14:32:33 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "Live updates: Senate votes on averting shutdown hours before deadline - The Hill",
       "pubDate": "Tue, 30 Sep 2025 21:52:00 GMT"
+    },
+    {
+      "title": "US government shutdown begins as partisan division rules Washington - Reuters",
+      "pubDate": "Wed, 01 Oct 2025 15:37:28 GMT"
     }
   ],
   "Israel": [
@@ -759,13 +759,13 @@
     {
       "title": "Vance says US considering Tomahawk missiles for Ukraine - Reuters",
       "pubDate": "Sun, 28 Sep 2025 16:40:41 GMT"
+    },
+    {
+      "title": "Moscow Indicates Retaliation if Europe Uses Russian Assets for Ukraine - The New York Times",
+      "pubDate": "Wed, 01 Oct 2025 14:31:48 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump keeps threatening to punish Putin. Here's what's holding him back - CNBC",
-      "pubDate": "Mon, 01 Sep 2025 09:36:57 GMT"
-    },
     {
       "title": "Trump calls India-U.S. trade relationship 'a totally one sided disaster' after Modi visits China - CNBC",
       "pubDate": "Tue, 02 Sep 2025 01:19:00 GMT"
@@ -914,10 +914,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China's August factory activity beats estimates, expanding at fastest pace in five months: private survey - CNBC",
-      "pubDate": "Mon, 01 Sep 2025 02:12:00 GMT"
-    },
     {
       "title": "China: Beijing prepares for grand military parade - BBC",
       "pubDate": "Tue, 02 Sep 2025 06:37:27 GMT"
@@ -1225,14 +1221,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Afghanistan Earthquake Death Toll Soars to 800: Live Updates - Newsweek",
-      "pubDate": "Mon, 01 Sep 2025 08:29:13 GMT"
-    },
-    {
-      "title": "Afghanistan earthquake kills 800, injures 2,800, Taliban asks world for help - Reuters",
-      "pubDate": "Mon, 01 Sep 2025 13:55:20 GMT"
-    },
-    {
       "title": "At least 800 dead after Afghanistan earthquake - NBC News",
       "pubDate": "Mon, 01 Sep 2025 22:58:28 GMT"
     },
@@ -1312,10 +1300,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Researchers Achieve 90% Fidelity in Measurement-based Quantum Computation with 4-qubit Clusters - Quantum Zeitgeist",
-      "pubDate": "Mon, 01 Sep 2025 11:07:02 GMT"
-    },
     {
       "title": "Researchers Unlock Efficient Block Encoding of Sparse Matrices, Overcoming Key Obstacles to Quantum Algorithms - Quantum Zeitgeist",
       "pubDate": "Mon, 01 Sep 2025 21:33:45 GMT"
@@ -1418,10 +1402,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Media outlets demand Israel grant access to Gaza, halt attacks on journalists there - NPR",
-      "pubDate": "Mon, 01 Sep 2025 08:58:57 GMT"
-    },
     {
       "title": "Belgium to recognise Palestinian state at UN and sanction Israel \u2013 Middle East crisis live - The Guardian",
       "pubDate": "Tue, 02 Sep 2025 07:13:00 GMT"
@@ -1573,14 +1553,6 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "Bitcoin slides to $107K as whales offload $4B over weekend - Mitrade",
-      "pubDate": "Mon, 01 Sep 2025 08:44:55 GMT"
-    },
-    {
-      "title": "Bitcoin is getting boring. That could open more doors for the crypto asset on Wall Street. - Yahoo Finance",
-      "pubDate": "Mon, 01 Sep 2025 09:12:31 GMT"
-    },
-    {
       "title": "Trump family profits from launch of World Liberty Financial crypto token - ABC News",
       "pubDate": "Tue, 02 Sep 2025 17:28:00 GMT"
     },
@@ -1634,10 +1606,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "The Arctic is heating up quickly, but scientists say polar geoengineering is 'unrealistic' and 'dangerous' - CBC",
-      "pubDate": "Sun, 14 Sep 2025 08:00:00 GMT"
-    },
     {
       "title": "How animals are helping boost climate change awareness in Europe - Euronews.com",
       "pubDate": "Sun, 14 Sep 2025 06:08:12 GMT"
@@ -1793,6 +1761,10 @@
     {
       "title": "Bill Ritter: While the president denies climate change, Colorado lives the crisis and leads the response - The Denver Post",
       "pubDate": "Sat, 27 Sep 2025 11:01:05 GMT"
+    },
+    {
+      "title": "Pope Leo Demands Climate Action - Time Magazine",
+      "pubDate": "Wed, 01 Oct 2025 16:48:02 GMT"
     }
   ],
   "Algorithms": [
@@ -2001,6 +1973,18 @@
     {
       "title": "CISA says it will fill the gap as federal funding for MS-ISAC dries up - Help Net Security",
       "pubDate": "Tue, 30 Sep 2025 14:55:17 GMT"
+    }
+  ],
+  "New York City": [
+    {
+      "title": "New York apartment building partly collapses in 'major emergency' - live updates - BBC",
+      "pubDate": "Wed, 01 Oct 2025 13:15:54 GMT"
+    }
+  ],
+  "Science": [
+    {
+      "title": "NASA lasers confirm Earth is losing landmass to rising seas much more quickly than we thought - Earth.com",
+      "pubDate": "Wed, 01 Oct 2025 16:05:38 GMT"
     }
   ]
 }
