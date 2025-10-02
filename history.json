@@ -767,10 +767,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump calls India-U.S. trade relationship 'a totally one sided disaster' after Modi visits China - CNBC",
-      "pubDate": "Tue, 02 Sep 2025 01:19:00 GMT"
-    },
-    {
       "title": "Trump says 11 killed in US strike on drug-carrying vessel from Venezuela - BBC",
       "pubDate": "Wed, 03 Sep 2025 09:10:59 GMT"
     },
@@ -1221,10 +1217,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "At least 800 dead after Afghanistan earthquake - NBC News",
-      "pubDate": "Mon, 01 Sep 2025 22:58:28 GMT"
-    },
-    {
       "title": "Taliban call for international aid as Afghan earthquake toll tops 1,400 - The Washington Post",
       "pubDate": "Wed, 03 Sep 2025 02:18:30 GMT"
     },
@@ -1238,14 +1230,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "BTC's Realized Cap Climbs to $1.05T Despite Price Pullback - CoinDesk",
-      "pubDate": "Mon, 01 Sep 2025 19:11:53 GMT"
-    },
-    {
-      "title": "Bitcoin Long-Term Holders Move 97K BTC In Biggest One-Day Spend Of 2025 - BlockchainReporter",
-      "pubDate": "Tue, 02 Sep 2025 01:04:07 GMT"
-    },
     {
       "title": "Bitcoin taps $111.3K as forecast says 10% dip \u2018worst case scenario\u2019 - Cointelegraph",
       "pubDate": "Sun, 07 Sep 2025 12:12:39 GMT"
@@ -1300,10 +1284,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Researchers Unlock Efficient Block Encoding of Sparse Matrices, Overcoming Key Obstacles to Quantum Algorithms - Quantum Zeitgeist",
-      "pubDate": "Mon, 01 Sep 2025 21:33:45 GMT"
-    },
     {
       "title": "New Mexico to invest $315 million in quantum computing drive - Reuters",
       "pubDate": "Tue, 02 Sep 2025 15:40:15 GMT"
@@ -1775,6 +1755,10 @@
     {
       "title": "White House outlines TikTok deal that would give US control of algorithm - BBC",
       "pubDate": "Sat, 20 Sep 2025 22:19:16 GMT"
+    },
+    {
+      "title": "Revolutionary Algorithm Enhances Disease Classification Using Omics - BIOENGINEER.ORG",
+      "pubDate": "Wed, 01 Oct 2025 20:27:28 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1847,6 +1831,10 @@
     {
       "title": "Why Israel Might Be Forced to End Its Nuclear Ambiguity Thanks to Turkey - National Security Journal",
       "pubDate": "Sun, 21 Sep 2025 16:52:30 GMT"
+    },
+    {
+      "title": "Pentagon plans widespread random polygraphs, NDAs to stanch leaks - The Washington Post",
+      "pubDate": "Wed, 01 Oct 2025 22:24:21 GMT"
     }
   ],
   "North Korea": [
@@ -1985,6 +1973,24 @@
     {
       "title": "NASA lasers confirm Earth is losing landmass to rising seas much more quickly than we thought - Earth.com",
       "pubDate": "Wed, 01 Oct 2025 16:05:38 GMT"
+    }
+  ],
+  "Elon Musk": [
+    {
+      "title": "Elon Musk makes history as first person ever to hit $500B net worth milestone: report - Fox Business",
+      "pubDate": "Wed, 01 Oct 2025 23:05:00 GMT"
+    }
+  ],
+  "Pollution": [
+    {
+      "title": "Sunlight worsens wildfire smoke pollution, study finds - Phys.org",
+      "pubDate": "Wed, 01 Oct 2025 18:00:01 GMT"
+    }
+  ],
+  "World News": [
+    {
+      "title": "Afghanistan restores internet after 72-hour nationwide blackout | World News - Hindustan Times",
+      "pubDate": "Wed, 01 Oct 2025 17:40:37 GMT"
     }
   ]
 }
