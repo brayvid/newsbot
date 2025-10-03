@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI expects business to burn $115 billion through 2029, The Information reports - CNBC",
-      "pubDate": "Sat, 06 Sep 2025 21:19:05 GMT"
-    },
-    {
       "title": "Why AI Chatbots Still Hallucinate: Researchers Trace Errors to Training Data Gaps and Misaligned Benchmarks - Digital Information World",
       "pubDate": "Sun, 07 Sep 2025 08:00:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Trump signs order aimed at using artificial intelligence to boost childhood cancer treatment - The Hill",
       "pubDate": "Tue, 30 Sep 2025 21:14:00 GMT"
+    },
+    {
+      "title": "Rising Global Regulation for Artificial Intelligence (UPDATED) - JD Supra",
+      "pubDate": "Thu, 02 Oct 2025 21:49:00 GMT"
     }
   ],
   "US Politics": [
@@ -845,6 +845,10 @@
     {
       "title": "Trump Signals Greater Use of Military in U.S. Cities, Warning of \u2018War From Within\u2019 - Time Magazine",
       "pubDate": "Tue, 30 Sep 2025 15:30:16 GMT"
+    },
+    {
+      "title": "Trump making plans to send billions in cash bailouts to farmers with taxpayer money - Politico",
+      "pubDate": "Thu, 02 Oct 2025 19:00:59 GMT"
     }
   ],
   "Financial Markets": [
@@ -988,10 +992,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI\u2019s national\u2011security risks are falling through the gaps - The Strategist | ASPI's analysis and commentary site",
-      "pubDate": "Wed, 10 Sep 2025 05:32:22 GMT"
-    },
     {
       "title": "A False Confidence in the EU AI Act: Epistemic Gaps and Bureaucratic Traps - Tech Policy Press",
       "pubDate": "Wed, 10 Sep 2025 13:16:10 GMT"
@@ -1147,13 +1147,13 @@
     {
       "title": "California adopted AI safety legislation. Here are 5 things it does. - Smart Cities Dive",
       "pubDate": "Thu, 02 Oct 2025 13:23:02 GMT"
+    },
+    {
+      "title": "AI chatbots a child safety risk, parental groups report - Washington Examiner",
+      "pubDate": "Fri, 03 Oct 2025 02:08:42 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "Government unable to calculate Afghan data breach cost, watchdog says - BBC",
-      "pubDate": "Tue, 02 Sep 2025 23:56:06 GMT"
-    },
     {
       "title": "250 Million Personal Identities Published In \u2018Massive Data Leak\u2019 - Forbes",
       "pubDate": "Thu, 04 Sep 2025 06:10:02 GMT"
@@ -1191,6 +1191,10 @@
     {
       "title": "CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems - The Hacker News",
       "pubDate": "Tue, 30 Sep 2025 05:41:00 GMT"
+    },
+    {
+      "title": "Shutdown guts U.S. cybersecurity agency at perilous time - MSN",
+      "pubDate": "Thu, 02 Oct 2025 19:01:12 GMT"
     }
   ],
   "US Economy": [
@@ -1208,10 +1212,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Taliban call for international aid as Afghan earthquake toll tops 1,400 - The Washington Post",
-      "pubDate": "Wed, 03 Sep 2025 02:18:30 GMT"
-    },
     {
       "title": "Aid agencies tell countries to fund Afghanistan after earthquake - Los Angeles Times",
       "pubDate": "Wed, 03 Sep 2025 17:33:08 GMT"
@@ -1517,10 +1517,6 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "Trump family profits from launch of World Liberty Financial crypto token - ABC News",
-      "pubDate": "Tue, 02 Sep 2025 17:28:00 GMT"
-    },
-    {
       "title": "US Bancorp revives institutional bitcoin custody service - Reuters",
       "pubDate": "Wed, 03 Sep 2025 12:14:08 GMT"
     },
@@ -1570,10 +1566,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "How animals are helping boost climate change awareness in Europe - Euronews.com",
-      "pubDate": "Sun, 14 Sep 2025 06:08:12 GMT"
-    },
     {
       "title": "Millions of Australians at risk from rising sea levels and heat deaths could soar, landmark climate report warns - The Guardian",
       "pubDate": "Mon, 15 Sep 2025 00:00:00 GMT"
@@ -1729,6 +1721,10 @@
     {
       "title": "Pope Leo Demands Climate Action - Time Magazine",
       "pubDate": "Wed, 01 Oct 2025 16:48:02 GMT"
+    },
+    {
+      "title": "Senior Tories dismayed at Badenoch\u2019s \u2018catastrophic\u2019 vow to repeal Climate Change Act - The Guardian",
+      "pubDate": "Thu, 02 Oct 2025 18:35:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1879,6 +1875,10 @@
     {
       "title": "The US plans to cancel $13 billion in subsidies for green energy - GMK Center",
       "pubDate": "Sun, 28 Sep 2025 06:04:15 GMT"
+    },
+    {
+      "title": "Indonesia starts construction of 92 megawatt floating solar plant - Reuters",
+      "pubDate": "Fri, 03 Oct 2025 03:24:00 GMT"
     }
   ],
   "Climate": [
@@ -1975,6 +1975,12 @@
     {
       "title": "Afghanistan restores internet after 72-hour nationwide blackout | World News - Hindustan Times",
       "pubDate": "Wed, 01 Oct 2025 17:40:37 GMT"
+    }
+  ],
+  "Hacking": [
+    {
+      "title": "Hackers stole data from British nursery schools \u2014 then apologized to parents - The Washington Post",
+      "pubDate": "Thu, 02 Oct 2025 22:50:28 GMT"
     }
   ]
 }
