@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Why AI Chatbots Still Hallucinate: Researchers Trace Errors to Training Data Gaps and Misaligned Benchmarks - Digital Information World",
-      "pubDate": "Sun, 07 Sep 2025 08:00:00 GMT"
-    },
-    {
       "title": "The negative social and environmental long-term effects of artificial intelligence make it not worth using - North Texas Daily",
       "pubDate": "Sun, 07 Sep 2025 20:00:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Rising Global Regulation for Artificial Intelligence (UPDATED) - JD Supra",
       "pubDate": "Thu, 02 Oct 2025 21:49:00 GMT"
+    },
+    {
+      "title": "A generative artificial intelligence approach for the discovery of antimicrobial peptides against multidrug-resistant bacteria - Nature",
+      "pubDate": "Fri, 03 Oct 2025 10:04:26 GMT"
     }
   ],
   "US Politics": [
@@ -763,10 +763,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump says 11 killed in US strike on drug-carrying vessel from Venezuela - BBC",
-      "pubDate": "Wed, 03 Sep 2025 09:10:59 GMT"
-    },
-    {
       "title": "Trump calls Epstein files 'irrelevant' as Massie petition picks up steam - ABC News",
       "pubDate": "Wed, 03 Sep 2025 23:35:24 GMT"
     },
@@ -911,10 +907,6 @@
   ],
   "China": [
     {
-      "title": "China parades new weapons in show of \u2018strategic ace\u2019 deterrence \u2013 as it happened - South China Morning Post",
-      "pubDate": "Wed, 03 Sep 2025 06:59:22 GMT"
-    },
-    {
       "title": "China Unveils Large Unmanned Stealth Fighter Design During Military Parade - The War Zone",
       "pubDate": "Wed, 03 Sep 2025 21:10:34 GMT"
     },
@@ -992,10 +984,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "A False Confidence in the EU AI Act: Epistemic Gaps and Bureaucratic Traps - Tech Policy Press",
-      "pubDate": "Wed, 10 Sep 2025 13:16:10 GMT"
-    },
     {
       "title": "Key GOP Senator Opens AI Regulation Debate Urging a Light Touch - Bloomberg.com",
       "pubDate": "Wed, 10 Sep 2025 17:26:56 GMT"
@@ -1151,6 +1139,10 @@
     {
       "title": "AI chatbots a child safety risk, parental groups report - Washington Examiner",
       "pubDate": "Fri, 03 Oct 2025 02:08:42 GMT"
+    },
+    {
+      "title": "AI Pioneer Bengio Warns of Extinction Risk From Self-Preserving AI Systems - \uc870\uc120\uc77c\ubcf4",
+      "pubDate": "Fri, 03 Oct 2025 07:24:04 GMT"
     }
   ],
   "Data Breach": [
@@ -1165,6 +1157,10 @@
     {
       "title": "Sex offenders, terrorists, drug dealers, exposed in spyware breach - Malwarebytes",
       "pubDate": "Mon, 29 Sep 2025 14:42:53 GMT"
+    },
+    {
+      "title": "Hacking group claims theft of 1 billion records from Salesforce customer databases - TechCrunch",
+      "pubDate": "Fri, 03 Oct 2025 13:17:43 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1195,6 +1191,10 @@
     {
       "title": "Shutdown guts U.S. cybersecurity agency at perilous time - MSN",
       "pubDate": "Thu, 02 Oct 2025 19:01:12 GMT"
+    },
+    {
+      "title": "Government flying partially blind to threats after key cyber law expires - Politico",
+      "pubDate": "Fri, 03 Oct 2025 14:00:00 GMT"
     }
   ],
   "US Economy": [
@@ -1276,14 +1276,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Quantum computing startup IQM raises $320 million as investors pile into the tech - CNBC",
-      "pubDate": "Wed, 03 Sep 2025 12:00:01 GMT"
-    },
-    {
-      "title": "Andhra Pradesh and IBM Partner to Establish Quantum Computing Hub in Amaravati with 133-Qubit System - Quantum Computing Report",
-      "pubDate": "Wed, 03 Sep 2025 16:44:49 GMT"
-    },
     {
       "title": "Quantum computer developer Quantinuum\u2019s $600m raise values it at $10bn - Silicon Republic",
       "pubDate": "Fri, 05 Sep 2025 07:01:12 GMT"
@@ -1370,14 +1362,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Children killed by Israeli strike while getting water in area Palestinians were told to go - NBC News",
-      "pubDate": "Wed, 03 Sep 2025 15:00:41 GMT"
-    },
-    {
-      "title": "Attacks across Gaza intensify amid fear and hunger: \u2018Leave me here,\u2019 injured girl told fleeing family - UN News",
-      "pubDate": "Wed, 03 Sep 2025 16:55:59 GMT"
-    },
     {
       "title": "Gaza principal slams Hamas, calls them 'murderers' - The Jerusalem Post",
       "pubDate": "Thu, 04 Sep 2025 10:35:30 GMT"
@@ -1516,10 +1500,6 @@
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "US Bancorp revives institutional bitcoin custody service - Reuters",
-      "pubDate": "Wed, 03 Sep 2025 12:14:08 GMT"
-    },
     {
       "title": "Exclusive: How North Korean hackers are using fake job offers to steal cryptocurrency - Reuters",
       "pubDate": "Thu, 04 Sep 2025 12:55:04 GMT"
@@ -1753,6 +1733,10 @@
     {
       "title": "Stellantis cancels oft-delayed electric Ram 1500, cites slowing demand for segment - The Detroit News",
       "pubDate": "Fri, 12 Sep 2025 20:29:19 GMT"
+    },
+    {
+      "title": "Tesla, GM lead record U.S. EV sales this year as federal incentives end - CNBC",
+      "pubDate": "Fri, 03 Oct 2025 14:52:38 GMT"
     }
   ],
   "Mars": [
@@ -1765,12 +1749,6 @@
     {
       "title": "Tom Homan investigated for accepting $50,000 from FBI agents. Trump's DOJ shut it down. - MSNBC News",
       "pubDate": "Sat, 20 Sep 2025 19:45:58 GMT"
-    }
-  ],
-  "Nuclear Weapons": [
-    {
-      "title": "Iran increased stockpile of near weapons-grade uranium before Israeli attack, UN agency says - Star Tribune",
-      "pubDate": "Wed, 03 Sep 2025 15:46:40 GMT"
     }
   ],
   "United States": [
