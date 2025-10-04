@@ -325,10 +325,6 @@
   ],
   "Israel": [
     {
-      "title": "Suspect to remain in custody over fires started near PM\u2019s home during hostage protest - The Times of Israel",
-      "pubDate": "Thu, 04 Sep 2025 13:30:00 GMT"
-    },
-    {
       "title": "US sanctions Palestinian rights groups who asked top court for Israel war crimes investigation - CNN",
       "pubDate": "Fri, 05 Sep 2025 03:52:00 GMT"
     },
@@ -759,6 +755,10 @@
     {
       "title": "Ukraine Blows Up Key Russian Oil Hub in Overnight Strike\u2014Warship and Missile Base Also Hit - UNITED24 Media",
       "pubDate": "Sat, 04 Oct 2025 09:29:16 GMT"
+    },
+    {
+      "title": "China provides Russia with satellite data for missile strikes on Ukraine \u2014 intelligence - Ukrinform",
+      "pubDate": "Sat, 04 Oct 2025 07:51:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -977,13 +977,13 @@
     {
       "title": "China just made a big technological leap, launching a stealth jet off its newest carrier with an electromagnetic catapult - Business Insider",
       "pubDate": "Tue, 23 Sep 2025 18:56:00 GMT"
+    },
+    {
+      "title": "Senior US senator wants to boost pressure on China over Taiwan - Reuters",
+      "pubDate": "Sat, 04 Oct 2025 11:27:09 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "FTC opens inquiry into how AI chatbots impact child safety, privacy - The Record from Recorded Future News",
-      "pubDate": "Thu, 11 Sep 2025 17:22:54 GMT"
-    },
     {
       "title": "Growing use of AI brings increased contractual, insurance and regulatory risks - Offshore Magazine",
       "pubDate": "Fri, 12 Sep 2025 00:09:19 GMT"
@@ -1139,6 +1139,10 @@
     {
       "title": "Shocking report finds AI willing to let humans die to avoid shutdown - LADbible",
       "pubDate": "Fri, 03 Oct 2025 19:02:31 GMT"
+    },
+    {
+      "title": "Global Tech Giants Announce Unprecedented AI Safety Pact - Zoom Bangla News",
+      "pubDate": "Sat, 04 Oct 2025 13:08:50 GMT"
     }
   ],
   "Data Breach": [
@@ -1285,6 +1289,10 @@
     {
       "title": "OpenAI Inks $300B Oracle Deal for 4.5GW AI Data Centers - WebProNews",
       "pubDate": "Sat, 13 Sep 2025 12:46:03 GMT"
+    },
+    {
+      "title": "OpenAI launch of video app Sora plagued by violent and racist images: \u2018The guardrails are not real\u2019 - The Guardian",
+      "pubDate": "Sat, 04 Oct 2025 13:01:00 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1508,10 +1516,6 @@
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "Exclusive: How North Korean hackers are using fake job offers to steal cryptocurrency - Reuters",
-      "pubDate": "Thu, 04 Sep 2025 12:55:04 GMT"
-    },
     {
       "title": "Bitcoin must hit $104K to repeat past bull market dips: Research - Cointelegraph",
       "pubDate": "Wed, 10 Sep 2025 07:57:39 GMT"
@@ -1873,6 +1877,10 @@
     {
       "title": "Indonesia starts construction of 92 megawatt floating solar plant - Reuters",
       "pubDate": "Fri, 03 Oct 2025 03:24:00 GMT"
+    },
+    {
+      "title": "China\u2019s Massive Renewable Investments Reshape Global Energy Markets - WebProNews",
+      "pubDate": "Sat, 04 Oct 2025 14:36:18 GMT"
     }
   ],
   "Climate": [
@@ -1965,6 +1973,10 @@
     {
       "title": "Elon Musk makes history as first person ever to hit $500B net worth milestone: report - Fox Business",
       "pubDate": "Wed, 01 Oct 2025 23:05:00 GMT"
+    },
+    {
+      "title": "Elon Musk Caught Letting China Invest in SpaceX, a Huge US Military Contractor - Yahoo News New Zealand",
+      "pubDate": "Sat, 04 Oct 2025 13:45:00 GMT"
     }
   ],
   "Pollution": [
@@ -2005,6 +2017,12 @@
     {
       "title": "North Korean agents pretending to be IT guys have funneled up to $1 billion into Kim Jong Un's nuclear program - Fortune",
       "pubDate": "Sat, 04 Oct 2025 09:33:00 GMT"
+    }
+  ],
+  "Animals": [
+    {
+      "title": "These May Be The First Animals To Evolve On Planet Earth, Skin Cells Have Been Used To Create Fertilizable Eggs, And Much More This Week - IFLScience",
+      "pubDate": "Sat, 04 Oct 2025 09:41:23 GMT"
     }
   ]
 }
