@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Meet the Artificial Intelligence (AI) Stock That Is Crushing Nvidia and Palantir on the Market - Nasdaq",
-      "pubDate": "Wed, 10 Sep 2025 09:25:00 GMT"
-    },
-    {
       "title": "California, New York could become first states to enact laws aiming to prevent catastrophic AI harm - Stateline",
       "pubDate": "Wed, 10 Sep 2025 18:56:48 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "AI maps how a new antibiotic targets gut bacteria - MIT News",
       "pubDate": "Fri, 03 Oct 2025 21:00:00 GMT"
+    },
+    {
+      "title": "AI voices are now indistinguishable from real human voices - Live Science",
+      "pubDate": "Sat, 04 Oct 2025 11:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -759,6 +759,10 @@
     {
       "title": "China provides Russia with satellite data for missile strikes on Ukraine \u2014 intelligence - Ukrinform",
       "pubDate": "Sat, 04 Oct 2025 07:51:00 GMT"
+    },
+    {
+      "title": "Russia spiralling into an HIV crisis - European AIDS Treatment Group",
+      "pubDate": "Sat, 04 Oct 2025 21:00:51 GMT"
     }
   ],
   "Donald Trump": [
@@ -848,10 +852,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Markets brace for volatility amid Trump's Fed maneuvers - Reuters",
-      "pubDate": "Thu, 04 Sep 2025 17:33:40 GMT"
-    },
     {
       "title": "Stock Market News, Sept. 5, 2025: Weak Jobs Data Boosts Rate-Cut Bets; Dow Falls - The Wall Street Journal",
       "pubDate": "Fri, 05 Sep 2025 23:42:00 GMT"
@@ -981,6 +981,10 @@
     {
       "title": "Senior US senator wants to boost pressure on China over Taiwan - Reuters",
       "pubDate": "Sat, 04 Oct 2025 11:27:09 GMT"
+    },
+    {
+      "title": "China dangles $1trn investment in bid to reset US trade policy: Bloomberg - Dailynewsegypt",
+      "pubDate": "Sat, 04 Oct 2025 14:09:28 GMT"
     }
   ],
   "AI Safety": [
@@ -1383,10 +1387,6 @@
   ],
   "Gaza": [
     {
-      "title": "Palestinian death toll in Gaza passes 64,000, officials say, after ceasefire talks break down - PBS",
-      "pubDate": "Thu, 04 Sep 2025 18:52:11 GMT"
-    },
-    {
       "title": "Israel levels Gaza high-rise tower near Palestinian civilian encampment - ABC News",
       "pubDate": "Fri, 05 Sep 2025 17:19:35 GMT"
     },
@@ -1513,6 +1513,10 @@
     {
       "title": "Trump gives Hamas \u2018three or four days\u2019 to respond to Gaza peace plan or face \u2018a very sad end\u2019 \u2013 live - The Guardian",
       "pubDate": "Tue, 30 Sep 2025 06:43:00 GMT"
+    },
+    {
+      "title": "Israel, Hamas say they\u2019re ready to talk peace but significant gaps remain - The Washington Post",
+      "pubDate": "Sat, 04 Oct 2025 22:46:57 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1939,6 +1943,10 @@
     {
       "title": "House GOP cancels more votes in escalation of shutdown strategy - Axios",
       "pubDate": "Sat, 04 Oct 2025 00:12:41 GMT"
+    },
+    {
+      "title": "Lawmakers have left Washington with no end to government shutdown in sight - CNN",
+      "pubDate": "Sat, 04 Oct 2025 20:55:00 GMT"
     }
   ],
   "SpaceX": [
@@ -2023,6 +2031,18 @@
     {
       "title": "These May Be The First Animals To Evolve On Planet Earth, Skin Cells Have Been Used To Create Fertilizable Eggs, And Much More This Week - IFLScience",
       "pubDate": "Sat, 04 Oct 2025 09:41:23 GMT"
+    }
+  ],
+  "Drones": [
+    {
+      "title": "At least 1 dead and dozens injured as Russian drones strike a Ukrainian railway station - AP News",
+      "pubDate": "Sat, 04 Oct 2025 16:23:00 GMT"
+    }
+  ],
+  "Federal Reserve": [
+    {
+      "title": "USD News Today: US Dollar Surges as Federal Reserve Signals Prolonged Interest Rates - Meyka",
+      "pubDate": "Sat, 04 Oct 2025 15:09:51 GMT"
     }
   ]
 }
