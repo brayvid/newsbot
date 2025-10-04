@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Google Cloud Leaning On Artificial Intelligence To Gain Market Share, CEO Says - Investor's Business Daily",
-      "pubDate": "Tue, 09 Sep 2025 18:40:00 GMT"
-    },
-    {
       "title": "Meet the Artificial Intelligence (AI) Stock That Is Crushing Nvidia and Palantir on the Market - Nasdaq",
       "pubDate": "Wed, 10 Sep 2025 09:25:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Amazon founder Jeff Bezos says AI bubble is real, but so is the technology - Yahoo Finance",
       "pubDate": "Fri, 03 Oct 2025 15:56:27 GMT"
+    },
+    {
+      "title": "AI maps how a new antibiotic targets gut bacteria - MIT News",
+      "pubDate": "Fri, 03 Oct 2025 21:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -324,10 +324,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "UAE warns White House that Israeli annexations could unravel Abraham Accords - Axios",
-      "pubDate": "Wed, 03 Sep 2025 23:59:44 GMT"
-    },
     {
       "title": "Suspect to remain in custody over fires started near PM\u2019s home during hostage protest - The Times of Israel",
       "pubDate": "Thu, 04 Sep 2025 13:30:00 GMT"
@@ -763,14 +759,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump calls Epstein files 'irrelevant' as Massie petition picks up steam - ABC News",
-      "pubDate": "Wed, 03 Sep 2025 23:35:24 GMT"
-    },
-    {
-      "title": "Trump says US may have to 'unwind' trade deals and will 'suffer greatly' if it loses tariff case - Reuters",
-      "pubDate": "Thu, 04 Sep 2025 04:39:00 GMT"
-    },
-    {
       "title": "Trump\u2019s second presidency is \u2018most dangerous period\u2019 since second world war, Mitch McConnell says - The Guardian",
       "pubDate": "Fri, 05 Sep 2025 01:45:00 GMT"
     },
@@ -985,10 +973,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Key GOP Senator Opens AI Regulation Debate Urging a Light Touch - Bloomberg.com",
-      "pubDate": "Wed, 10 Sep 2025 17:26:56 GMT"
-    },
-    {
       "title": "FTC opens inquiry into how AI chatbots impact child safety, privacy - The Record from Recorded Future News",
       "pubDate": "Thu, 11 Sep 2025 17:22:54 GMT"
     },
@@ -1143,6 +1127,10 @@
     {
       "title": "AI Pioneer Bengio Warns of Extinction Risk From Self-Preserving AI Systems - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Fri, 03 Oct 2025 07:24:04 GMT"
+    },
+    {
+      "title": "Shocking report finds AI willing to let humans die to avoid shutdown - LADbible",
+      "pubDate": "Fri, 03 Oct 2025 19:02:31 GMT"
     }
   ],
   "Data Breach": [
@@ -1199,6 +1187,10 @@
     {
       "title": "Congress let a key cybersecurity law expire this week, leaving US networks more vulnerable - Engadget",
       "pubDate": "Fri, 03 Oct 2025 17:45:29 GMT"
+    },
+    {
+      "title": "Federal judiciary touts cybersecurity work in wake of latest major breach - CyberScoop",
+      "pubDate": "Fri, 03 Oct 2025 18:29:54 GMT"
     }
   ],
   "US Economy": [
@@ -1271,6 +1263,10 @@
     {
       "title": "Commonwealth Fusion Systems books a $1B+ power deal for its future fusion reactor - TechCrunch",
       "pubDate": "Mon, 22 Sep 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Chinese lab sets new benchmark after building device that generates 180 million-degree temperatures: 'A major turning point' - The Cool Down",
+      "pubDate": "Fri, 03 Oct 2025 21:15:00 GMT"
     }
   ],
   "OpenAI": [
@@ -1875,6 +1871,10 @@
     {
       "title": "Energy Dept. tells employees not to use words including 'climate change' and 'green' - NPR",
       "pubDate": "Tue, 30 Sep 2025 14:24:49 GMT"
+    },
+    {
+      "title": "Trump administration to cancel $645 million worth of grants for climate-related projects in Minnesota - CBS News",
+      "pubDate": "Sat, 04 Oct 2025 00:42:05 GMT"
     }
   ],
   "Democracy": [
@@ -1915,6 +1915,10 @@
     {
       "title": "Congress has one more day to avert a shutdown. The odds don\u2019t look good - CNN",
       "pubDate": "Tue, 30 Sep 2025 08:00:51 GMT"
+    },
+    {
+      "title": "House GOP cancels more votes in escalation of shutdown strategy - Axios",
+      "pubDate": "Sat, 04 Oct 2025 00:12:41 GMT"
     }
   ],
   "SpaceX": [
@@ -1973,6 +1977,12 @@
     {
       "title": "Blue Origin reveals space tourists to launch on next New Shepard rocket - Space",
       "pubDate": "Fri, 03 Oct 2025 18:00:00 GMT"
+    }
+  ],
+  "Tesla": [
+    {
+      "title": "Parents of two college students killed in a Tesla allege design flaw trapped them in the burning car - AP News",
+      "pubDate": "Fri, 03 Oct 2025 20:52:00 GMT"
     }
   ]
 }
