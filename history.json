@@ -755,6 +755,10 @@
     {
       "title": "Moscow Indicates Retaliation if Europe Uses Russian Assets for Ukraine - The New York Times",
       "pubDate": "Wed, 01 Oct 2025 14:31:48 GMT"
+    },
+    {
+      "title": "Ukraine Blows Up Key Russian Oil Hub in Overnight Strike\u2014Warship and Missile Base Also Hit - UNITED24 Media",
+      "pubDate": "Sat, 04 Oct 2025 09:29:16 GMT"
     }
   ],
   "Donald Trump": [
@@ -837,6 +841,10 @@
     {
       "title": "Trump says if Hamas does not accept proposed peace deal by Sunday, \u2018all hell\u2019 will break out - PBS",
       "pubDate": "Fri, 03 Oct 2025 15:34:30 GMT"
+    },
+    {
+      "title": "Hamas agrees to parts of Trump\u2019s Gaza plan, seeks more talks, bombing eases - Al Jazeera",
+      "pubDate": "Sat, 04 Oct 2025 07:13:18 GMT"
     }
   ],
   "Financial Markets": [
@@ -1135,10 +1143,6 @@
   ],
   "Data Breach": [
     {
-      "title": "250 Million Personal Identities Published In \u2018Massive Data Leak\u2019 - Forbes",
-      "pubDate": "Thu, 04 Sep 2025 06:10:02 GMT"
-    },
-    {
       "title": "GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies - The Hacker News",
       "pubDate": "Mon, 08 Sep 2025 15:26:00 GMT"
     },
@@ -1149,6 +1153,10 @@
     {
       "title": "Hacking group claims theft of 1 billion records from Salesforce customer databases - TechCrunch",
       "pubDate": "Fri, 03 Oct 2025 13:17:43 GMT"
+    },
+    {
+      "title": "Discord customer service data breach leaks user info and scanned photo IDs - The Verge",
+      "pubDate": "Fri, 03 Oct 2025 23:52:50 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1191,6 +1199,10 @@
     {
       "title": "Federal judiciary touts cybersecurity work in wake of latest major breach - CyberScoop",
       "pubDate": "Fri, 03 Oct 2025 18:29:54 GMT"
+    },
+    {
+      "title": "Ransomware hits a Japanese brewer, an Odesa crypto gang and other cybersecurity news - ForkLog",
+      "pubDate": "Sat, 04 Oct 2025 04:09:49 GMT"
     }
   ],
   "US Economy": [
@@ -1362,10 +1374,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Gaza principal slams Hamas, calls them 'murderers' - The Jerusalem Post",
-      "pubDate": "Thu, 04 Sep 2025 10:35:30 GMT"
-    },
     {
       "title": "Palestinian death toll in Gaza passes 64,000, officials say, after ceasefire talks break down - PBS",
       "pubDate": "Thu, 04 Sep 2025 18:52:11 GMT"
@@ -1821,6 +1829,10 @@
     {
       "title": "Iran hit with reimposition of sanctions over its nuclear programme - Financial Times",
       "pubDate": "Sun, 28 Sep 2025 11:22:32 GMT"
+    },
+    {
+      "title": "Iran executes 6 death-row inmates it alleges carried out attacks on behalf of Israel - NBC News",
+      "pubDate": "Sat, 04 Oct 2025 08:45:21 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1983,6 +1995,16 @@
     {
       "title": "Parents of two college students killed in a Tesla allege design flaw trapped them in the burning car - AP News",
       "pubDate": "Fri, 03 Oct 2025 20:52:00 GMT"
+    },
+    {
+      "title": "California insurance commissioner issues enforcement action against Tesla - Courthouse News",
+      "pubDate": "Sat, 04 Oct 2025 00:39:59 GMT"
+    }
+  ],
+  "Kim Jong Un": [
+    {
+      "title": "North Korean agents pretending to be IT guys have funneled up to $1 billion into Kim Jong Un's nuclear program - Fortune",
+      "pubDate": "Sat, 04 Oct 2025 09:33:00 GMT"
     }
   ]
 }
