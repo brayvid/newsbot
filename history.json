@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "California, New York could become first states to enact laws aiming to prevent catastrophic AI harm - Stateline",
-      "pubDate": "Wed, 10 Sep 2025 18:56:48 GMT"
-    },
-    {
       "title": "Microsoft AI CEO warns against giving AI rights: 'That's so dangerous and so misguided' - Business Insider",
       "pubDate": "Thu, 11 Sep 2025 06:47:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "AI voices are now indistinguishable from real human voices - Live Science",
       "pubDate": "Sat, 04 Oct 2025 11:00:00 GMT"
+    },
+    {
+      "title": "OpenAI rolls out GPT Codex Alpha with early access to new models - BleepingComputer",
+      "pubDate": "Sat, 04 Oct 2025 17:30:00 GMT"
     }
   ],
   "US Politics": [
@@ -324,10 +324,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "US sanctions Palestinian rights groups who asked top court for Israel war crimes investigation - CNN",
-      "pubDate": "Fri, 05 Sep 2025 03:52:00 GMT"
-    },
     {
       "title": "Israel strikes Gaza City high-rise building, Hamas releases another hostage video - France 24",
       "pubDate": "Fri, 05 Sep 2025 09:42:10 GMT"
@@ -767,10 +763,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump\u2019s second presidency is \u2018most dangerous period\u2019 since second world war, Mitch McConnell says - The Guardian",
-      "pubDate": "Fri, 05 Sep 2025 01:45:00 GMT"
-    },
-    {
       "title": "Illinois officials decry Trump post threatening Chicago with deportations: \u2018Disgusting\u2019 - FOX 32 Chicago",
       "pubDate": "Sat, 06 Sep 2025 17:18:50 GMT"
     },
@@ -849,6 +841,10 @@
     {
       "title": "Hamas agrees to parts of Trump\u2019s Gaza plan, seeks more talks, bombing eases - Al Jazeera",
       "pubDate": "Sat, 04 Oct 2025 07:13:18 GMT"
+    },
+    {
+      "title": "Federal judge blocks Trump from deploying Oregon National Guard to Portland - Oregon Capital Chronicle",
+      "pubDate": "Sat, 04 Oct 2025 23:50:41 GMT"
     }
   ],
   "Financial Markets": [
@@ -985,6 +981,10 @@
     {
       "title": "China dangles $1trn investment in bid to reset US trade policy: Bloomberg - Dailynewsegypt",
       "pubDate": "Sat, 04 Oct 2025 14:09:28 GMT"
+    },
+    {
+      "title": "China - The Guardian",
+      "pubDate": "Sun, 05 Oct 2025 04:12:16 GMT"
     }
   ],
   "AI Safety": [
@@ -1517,6 +1517,10 @@
     {
       "title": "Israel, Hamas say they\u2019re ready to talk peace but significant gaps remain - The Washington Post",
       "pubDate": "Sat, 04 Oct 2025 22:46:57 GMT"
+    },
+    {
+      "title": "Netanyahu hopes to announce the release of all hostages from Gaza \u2018in the coming days\u2019 - AP News",
+      "pubDate": "Sat, 04 Oct 2025 22:13:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1871,6 +1875,10 @@
     {
       "title": "Why the US economy faces a bigger shock than tariffs - AFR",
       "pubDate": "Sun, 28 Sep 2025 01:20:00 GMT"
+    },
+    {
+      "title": "Farm bankruptcies are soaring amid low crop prices, while Trump considers bailout of up to $14 billion - Fortune",
+      "pubDate": "Sat, 04 Oct 2025 18:49:00 GMT"
     }
   ],
   "Renewable Energy": [
@@ -2025,6 +2033,10 @@
     {
       "title": "North Korean agents pretending to be IT guys have funneled up to $1 billion into Kim Jong Un's nuclear program - Fortune",
       "pubDate": "Sat, 04 Oct 2025 09:33:00 GMT"
+    },
+    {
+      "title": "North Korea\u2019s Kim vows additional military measures ahead of major parade - Al Jazeera",
+      "pubDate": "Sun, 05 Oct 2025 02:36:21 GMT"
     }
   ],
   "Animals": [
@@ -2043,6 +2055,12 @@
     {
       "title": "USD News Today: US Dollar Surges as Federal Reserve Signals Prolonged Interest Rates - Meyka",
       "pubDate": "Sat, 04 Oct 2025 15:09:51 GMT"
+    }
+  ],
+  "Department of Homeland Security": [
+    {
+      "title": "U.S. Border Patrol shoots woman in Chicago as federal troop deployment to Illinois looms - CBC",
+      "pubDate": "Sat, 04 Oct 2025 23:38:00 GMT"
     }
   ]
 }
