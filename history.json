@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Microsoft AI CEO warns against giving AI rights: 'That's so dangerous and so misguided' - Business Insider",
-      "pubDate": "Thu, 11 Sep 2025 06:47:00 GMT"
-    },
-    {
       "title": "OpenAI CEO Sam Altman fears ChatGPT could be used to create a COVID-style pandemic | Hindustan Times - Hindustan Times",
       "pubDate": "Thu, 11 Sep 2025 13:00:32 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "OpenAI rolls out GPT Codex Alpha with early access to new models - BleepingComputer",
       "pubDate": "Sat, 04 Oct 2025 17:30:00 GMT"
+    },
+    {
+      "title": "\ud83e\uddbe AI finds ten times more earthquakes than previous methods - warpnews.org",
+      "pubDate": "Sun, 05 Oct 2025 08:57:31 GMT"
     }
   ],
   "US Politics": [
@@ -324,10 +324,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel strikes Gaza City high-rise building, Hamas releases another hostage video - France 24",
-      "pubDate": "Fri, 05 Sep 2025 09:42:10 GMT"
-    },
     {
       "title": "Police Detain Nine anti-Gaza War Protesters in Israeli Arab City for 'Incitement' - Haaretz",
       "pubDate": "Sat, 06 Sep 2025 19:01:00 GMT"
@@ -759,6 +755,10 @@
     {
       "title": "Russia spiralling into an HIV crisis - European AIDS Treatment Group",
       "pubDate": "Sat, 04 Oct 2025 21:00:51 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s hellfire is intensifying the Kremlin\u2019s fuel crisis - The Economist",
+      "pubDate": "Sun, 05 Oct 2025 10:51:41 GMT"
     }
   ],
   "Donald Trump": [
@@ -985,6 +985,10 @@
     {
       "title": "China - The Guardian",
       "pubDate": "Sun, 05 Oct 2025 04:12:16 GMT"
+    },
+    {
+      "title": "The inside story of China spy case collapse: \u2018It came from the very top\u2019 - The Times",
+      "pubDate": "Sun, 05 Oct 2025 08:33:45 GMT"
     }
   ],
   "AI Safety": [
@@ -1269,6 +1273,10 @@
     {
       "title": "U.S. Bitcoin spot ETFs see net outflows of $930 million last week - bloomingbit",
       "pubDate": "Sun, 28 Sep 2025 04:52:52 GMT"
+    },
+    {
+      "title": "Bitcoin price surges to all-time high of $125,700 - Yahoo Finance",
+      "pubDate": "Sun, 05 Oct 2025 05:37:51 GMT"
     }
   ],
   "Fusion Power": [
@@ -1300,10 +1308,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Quantum computer developer Quantinuum\u2019s $600m raise values it at $10bn - Silicon Republic",
-      "pubDate": "Fri, 05 Sep 2025 07:01:12 GMT"
-    },
     {
       "title": "Nvidia\u2019s $600 Million Quantum Computing Bet: Time to Buy Rigetti, IonQ, or D-Wave? - 24/7 Wall St.",
       "pubDate": "Fri, 05 Sep 2025 15:12:23 GMT"
@@ -1567,10 +1571,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Climate change is fast shrinking the world\u2019s largest inland sea - The Conversation",
-      "pubDate": "Mon, 15 Sep 2025 17:06:03 GMT"
-    },
-    {
       "title": "Environmental groups are suing to silence scientists who wrote a report questioning climate change alarmism - Reason Magazine",
       "pubDate": "Mon, 15 Sep 2025 19:53:40 GMT"
     },
@@ -1725,6 +1725,10 @@
     {
       "title": "New Study Shows Disruption of Ocean Currents That Stabilize the Global Climate - Inside Climate News",
       "pubDate": "Fri, 03 Oct 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Before and after images show glaciers vanishing before our eyes - BBC",
+      "pubDate": "Sun, 05 Oct 2025 00:28:17 GMT"
     }
   ],
   "Algorithms": [
@@ -2061,6 +2065,16 @@
     {
       "title": "U.S. Border Patrol shoots woman in Chicago as federal troop deployment to Illinois looms - CBC",
       "pubDate": "Sat, 04 Oct 2025 23:38:00 GMT"
+    },
+    {
+      "title": "UPDATE: DHS Deploys Special Operations After Multiple Violent Attacks on Federal Law Enforcement by Domestic Terrorists in Chicago - Homeland Security (.gov)",
+      "pubDate": "Sun, 05 Oct 2025 02:07:27 GMT"
+    }
+  ],
+  "NASA": [
+    {
+      "title": "End of space news? NASA\u2019s website shuts down, no updates until govt funds space agency - WION",
+      "pubDate": "Sun, 05 Oct 2025 08:10:00 GMT"
     }
   ]
 }
