@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI CEO Sam Altman fears ChatGPT could be used to create a COVID-style pandemic | Hindustan Times - Hindustan Times",
-      "pubDate": "Thu, 11 Sep 2025 13:00:32 GMT"
-    },
-    {
       "title": "Albania appoints AI bot as minister to tackle corruption - Reuters",
       "pubDate": "Thu, 11 Sep 2025 14:40:48 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "\ud83e\uddbe AI finds ten times more earthquakes than previous methods - warpnews.org",
       "pubDate": "Sun, 05 Oct 2025 08:57:31 GMT"
+    },
+    {
+      "title": "OpenAI's Mark Chan says new safety law creates pathway for federal and state oversight | California Politics 360 - KCRA",
+      "pubDate": "Sun, 05 Oct 2025 15:30:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Utah Gov. Spencer Cox Asks for Offramp on Political Violence - The Wall Street Journal",
-      "pubDate": "Fri, 12 Sep 2025 14:32:33 GMT"
-    },
     {
       "title": "Lawmakers Reassess Security After Charlie Kirk Shooting - NBC Palm Springs",
       "pubDate": "Fri, 12 Sep 2025 20:00:00 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "US government shutdown begins as partisan division rules Washington - Reuters",
       "pubDate": "Wed, 01 Oct 2025 15:37:28 GMT"
+    },
+    {
+      "title": "White House: Mass layoffs will start if shutdown talks 'going nowhere' - Reuters",
+      "pubDate": "Sun, 05 Oct 2025 16:38:34 GMT"
     }
   ],
   "Israel": [
@@ -633,10 +633,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia's Putin denies economy is stagnating, as evidence suggests otherwise - Reuters",
-      "pubDate": "Fri, 05 Sep 2025 12:54:18 GMT"
-    },
-    {
       "title": "Russia Issues Stern Response to Trump\u2019s Sanctions Threat - Time Magazine",
       "pubDate": "Mon, 08 Sep 2025 13:06:06 GMT"
     },
@@ -759,6 +755,10 @@
     {
       "title": "Ukraine\u2019s hellfire is intensifying the Kremlin\u2019s fuel crisis - The Economist",
       "pubDate": "Sun, 05 Oct 2025 10:51:41 GMT"
+    },
+    {
+      "title": "Five killed in large Russian missile and drone attack, Zelensky says - BBC",
+      "pubDate": "Sun, 05 Oct 2025 12:22:35 GMT"
     }
   ],
   "Donald Trump": [
@@ -1309,10 +1309,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "Nvidia\u2019s $600 Million Quantum Computing Bet: Time to Buy Rigetti, IonQ, or D-Wave? - 24/7 Wall St.",
-      "pubDate": "Fri, 05 Sep 2025 15:12:23 GMT"
-    },
-    {
       "title": "University of Sydney scientists solve quantum computing challenge using a single atom - WION",
       "pubDate": "Sat, 06 Sep 2025 09:11:00 GMT"
     },
@@ -1525,6 +1521,10 @@
     {
       "title": "Netanyahu hopes to announce the release of all hostages from Gaza \u2018in the coming days\u2019 - AP News",
       "pubDate": "Sat, 04 Oct 2025 22:13:00 GMT"
+    },
+    {
+      "title": "Global outrage has grown after two years of bombardment in Gaza. In Israel, it is a different story - CNN",
+      "pubDate": "Sun, 05 Oct 2025 06:01:52 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1570,10 +1570,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Environmental groups are suing to silence scientists who wrote a report questioning climate change alarmism - Reason Magazine",
-      "pubDate": "Mon, 15 Sep 2025 19:53:40 GMT"
-    },
     {
       "title": "Tropical rainforest soil may fuel climate change as Earth warms, accelerating global warming - Phys.org",
       "pubDate": "Tue, 16 Sep 2025 15:46:04 GMT"
@@ -1729,6 +1725,10 @@
     {
       "title": "Before and after images show glaciers vanishing before our eyes - BBC",
       "pubDate": "Sun, 05 Oct 2025 00:28:17 GMT"
+    },
+    {
+      "title": "As Amazon's 'flying rivers' weaken with tree loss, scientists warn of worsening droughts - The Independent Record",
+      "pubDate": "Sun, 05 Oct 2025 15:30:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1746,10 +1746,6 @@
     }
   ],
   "Electric Vehicle": [
-    {
-      "title": "Tesla offers Elon Musk pay package worth $1 trillion \u2014 with conditions - The Washington Post",
-      "pubDate": "Fri, 05 Sep 2025 15:38:01 GMT"
-    },
     {
       "title": "Tesla's market share keeps plunging, with little relief in sight - Axios",
       "pubDate": "Mon, 08 Sep 2025 19:27:01 GMT"
@@ -1849,6 +1845,10 @@
     {
       "title": "Iran executes 6 death-row inmates it alleges carried out attacks on behalf of Israel - NBC News",
       "pubDate": "Sat, 04 Oct 2025 08:45:21 GMT"
+    },
+    {
+      "title": "Iran Signals Push to Address Nuclear Standoff Despite Sanctions - Bloomberg.com",
+      "pubDate": "Sun, 05 Oct 2025 11:02:03 GMT"
     }
   ],
   "US Supreme Court": [
@@ -2075,6 +2075,12 @@
     {
       "title": "End of space news? NASA\u2019s website shuts down, no updates until govt funds space agency - WION",
       "pubDate": "Sun, 05 Oct 2025 08:10:00 GMT"
+    }
+  ],
+  "Microsoft": [
+    {
+      "title": "This CEO quit Microsoft in 90s to join a \u2018tiny\u2019 startup, Amazon; shares how Jeff Bezos convinced him to make the move - The Indian Express",
+      "pubDate": "Sun, 05 Oct 2025 06:14:19 GMT"
     }
   ]
 }
