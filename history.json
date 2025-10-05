@@ -845,6 +845,10 @@
     {
       "title": "Federal judge blocks Trump from deploying Oregon National Guard to Portland - Oregon Capital Chronicle",
       "pubDate": "Sat, 04 Oct 2025 23:50:41 GMT"
+    },
+    {
+      "title": "Exclusive: Trump says Hamas faces \u2018complete obliteration\u2019 if it insists on staying in power - CNN",
+      "pubDate": "Sun, 05 Oct 2025 13:00:22 GMT"
     }
   ],
   "Financial Markets": [
@@ -902,10 +906,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China launches experimental Shiyan-29 to GEO, commercial Ceres-1 carries 3 satellites - SpaceNews",
-      "pubDate": "Fri, 05 Sep 2025 21:26:07 GMT"
-    },
     {
       "title": "China condemns sailing of Canadian, Australian warships in Taiwan Strait - Reuters",
       "pubDate": "Sat, 06 Sep 2025 14:05:05 GMT"
@@ -992,10 +992,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Growing use of AI brings increased contractual, insurance and regulatory risks - Offshore Magazine",
-      "pubDate": "Fri, 12 Sep 2025 00:09:19 GMT"
-    },
     {
       "title": "The new AI policy rulebook - Axios",
       "pubDate": "Fri, 12 Sep 2025 09:01:50 GMT"
@@ -1151,6 +1147,10 @@
     {
       "title": "Global Tech Giants Announce Unprecedented AI Safety Pact - Zoom Bangla News",
       "pubDate": "Sat, 04 Oct 2025 13:08:50 GMT"
+    },
+    {
+      "title": "Anthropic Study: AI Complies with Dishonest Requests Despite Guardrails - WebProNews",
+      "pubDate": "Sun, 05 Oct 2025 22:40:23 GMT"
     }
   ],
   "Data Breach": [
@@ -1219,10 +1219,6 @@
   ],
   "US Economy": [
     {
-      "title": "America\u2019s job market flashes yet another warning sign about the economy - CNN",
-      "pubDate": "Fri, 05 Sep 2025 18:41:00 GMT"
-    },
-    {
       "title": "US economy added 911,000 fewer jobs than previously reported in largest-ever revision - ABC News",
       "pubDate": "Tue, 09 Sep 2025 14:15:00 GMT"
     },
@@ -1239,6 +1235,10 @@
     {
       "title": "Strong magnitude 7.0 earthquake strikes Philippines | Daily Sabah - Daily Sabah",
       "pubDate": "Tue, 30 Sep 2025 14:55:00 GMT"
+    },
+    {
+      "title": "Is Pakistan conducting secret nuclear tests? Two earthquakes strike Pakistan within a week, experts say the reason is... - MSN",
+      "pubDate": "Sun, 05 Oct 2025 20:53:30 GMT"
     }
   ],
   "Bitcoin": [
@@ -1386,10 +1386,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel levels Gaza high-rise tower near Palestinian civilian encampment - ABC News",
-      "pubDate": "Fri, 05 Sep 2025 17:19:35 GMT"
-    },
     {
       "title": "Tel Aviv protesters unveil huge SOS sign demanding ceasefire in Gaza - Al Jazeera",
       "pubDate": "Sat, 06 Sep 2025 04:54:08 GMT"
@@ -1571,10 +1567,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Tropical rainforest soil may fuel climate change as Earth warms, accelerating global warming - Phys.org",
-      "pubDate": "Tue, 16 Sep 2025 15:46:04 GMT"
-    },
-    {
       "title": "It\u2019s Not Just Flooding\u2014Climate Change Means More Landslide Risk, Too - Scientific American",
       "pubDate": "Tue, 16 Sep 2025 10:00:00 GMT"
     },
@@ -1729,6 +1721,10 @@
     {
       "title": "As Amazon's 'flying rivers' weaken with tree loss, scientists warn of worsening droughts - The Independent Record",
       "pubDate": "Sun, 05 Oct 2025 15:30:00 GMT"
+    },
+    {
+      "title": "Human emissions are helping fuel the Southwest\u2019s epic drought - KUNC",
+      "pubDate": "Sun, 05 Oct 2025 12:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1849,6 +1845,10 @@
     {
       "title": "Iran Signals Push to Address Nuclear Standoff Despite Sanctions - Bloomberg.com",
       "pubDate": "Sun, 05 Oct 2025 11:02:03 GMT"
+    },
+    {
+      "title": "Burnt City, a symbol of peaceful coexistence in ancient Iran - Tehran Times",
+      "pubDate": "Sun, 05 Oct 2025 14:07:28 GMT"
     }
   ],
   "US Supreme Court": [
@@ -2081,6 +2081,18 @@
     {
       "title": "This CEO quit Microsoft in 90s to join a \u2018tiny\u2019 startup, Amazon; shares how Jeff Bezos convinced him to make the move - The Indian Express",
       "pubDate": "Sun, 05 Oct 2025 06:14:19 GMT"
+    }
+  ],
+  "Infrastructure": [
+    {
+      "title": "President Zelenskyy: Russia is targeting our civilian infrastructure ahead of winter - Ukrainian World Congress",
+      "pubDate": "Sun, 05 Oct 2025 20:28:01 GMT"
+    }
+  ],
+  "Computers": [
+    {
+      "title": "Quantum Computers Achieve Unconditional Advantage Over Classical Machines, Study Shows - Gadgets 360",
+      "pubDate": "Sun, 05 Oct 2025 11:30:01 GMT"
     }
   ]
 }
