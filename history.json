@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Albania appoints AI bot as minister to tackle corruption - Reuters",
-      "pubDate": "Thu, 11 Sep 2025 14:40:48 GMT"
-    },
-    {
       "title": "FTC probes OpenAI, Google, Meta and others on risks, safety and money behind AI chatbots - India Today",
       "pubDate": "Fri, 12 Sep 2025 11:01:41 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "OpenAI's Mark Chan says new safety law creates pathway for federal and state oversight | California Politics 360 - KCRA",
       "pubDate": "Sun, 05 Oct 2025 15:30:00 GMT"
+    },
+    {
+      "title": "Does AI pose an existential risk? We asked 5 experts - The Conversation",
+      "pubDate": "Sun, 05 Oct 2025 19:15:48 GMT"
     }
   ],
   "US Politics": [
@@ -853,10 +853,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "Stock Market News, Sept. 5, 2025: Weak Jobs Data Boosts Rate-Cut Bets; Dow Falls - The Wall Street Journal",
-      "pubDate": "Fri, 05 Sep 2025 23:42:00 GMT"
-    },
-    {
       "title": "Major Regulatory Shift in Financial Markets: Embracing 24/7 Trading - OneSafe",
       "pubDate": "Sat, 06 Sep 2025 06:14:03 GMT"
     },
@@ -989,6 +985,10 @@
     {
       "title": "The inside story of China spy case collapse: \u2018It came from the very top\u2019 - The Times",
       "pubDate": "Sun, 05 Oct 2025 08:33:45 GMT"
+    },
+    {
+      "title": "How China is challenging Nvidia's AI chip dominance - BBC",
+      "pubDate": "Sun, 05 Oct 2025 23:00:21 GMT"
     }
   ],
   "AI Safety": [
@@ -1305,6 +1305,10 @@
     {
       "title": "OpenAI launch of video app Sora plagued by violent and racist images: \u2018The guardrails are not real\u2019 - The Guardian",
       "pubDate": "Sat, 04 Oct 2025 13:01:00 GMT"
+    },
+    {
+      "title": "OpenAI valued at $500bn in employee share sale - Data Center Dynamics",
+      "pubDate": "Sun, 05 Oct 2025 18:37:37 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1386,10 +1390,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Tel Aviv protesters unveil huge SOS sign demanding ceasefire in Gaza - Al Jazeera",
-      "pubDate": "Sat, 06 Sep 2025 04:54:08 GMT"
-    },
     {
       "title": "Israel expands operations in Gaza City; tells famine-stricken residents to move to safe zone - CBS News",
       "pubDate": "Sat, 06 Sep 2025 11:56:27 GMT"
@@ -1997,6 +1997,10 @@
     {
       "title": "Elon Musk Caught Letting China Invest in SpaceX, a Huge US Military Contractor - Yahoo News New Zealand",
       "pubDate": "Sat, 04 Oct 2025 13:45:00 GMT"
+    },
+    {
+      "title": "Elon Musk suffers mass exodus of employees across all 5 companies: 'The one constant \u2026 is how quickly he burns through deputies' - Yahoo Finance",
+      "pubDate": "Sun, 05 Oct 2025 23:50:00 GMT"
     }
   ],
   "Pollution": [
@@ -2031,6 +2035,10 @@
     {
       "title": "California insurance commissioner issues enforcement action against Tesla - Courthouse News",
       "pubDate": "Sat, 04 Oct 2025 00:39:59 GMT"
+    },
+    {
+      "title": "Officials demand answers from Tesla as Elon Musk's statements don't match reality: 'Public confusion' - Yahoo Finance",
+      "pubDate": "Mon, 06 Oct 2025 01:30:00 GMT"
     }
   ],
   "Kim Jong Un": [
@@ -2093,6 +2101,18 @@
     {
       "title": "Quantum Computers Achieve Unconditional Advantage Over Classical Machines, Study Shows - Gadgets 360",
       "pubDate": "Sun, 05 Oct 2025 11:30:01 GMT"
+    }
+  ],
+  "European Union": [
+    {
+      "title": "EU watchdog prepares to expand oversight of crypto and exchanges - Financial Times",
+      "pubDate": "Mon, 06 Oct 2025 04:00:31 GMT"
+    }
+  ],
+  "NVIDIA": [
+    {
+      "title": "Nvidia Partner Hon Hai\u2019s Sales Rise 11% in Boost for AI Outlook - Bloomberg.com",
+      "pubDate": "Mon, 06 Oct 2025 01:53:00 GMT"
     }
   ]
 }
