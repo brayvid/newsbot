@@ -325,10 +325,6 @@
   ],
   "Israel": [
     {
-      "title": "Police Detain Nine anti-Gaza War Protesters in Israeli Arab City for 'Incitement' - Haaretz",
-      "pubDate": "Sat, 06 Sep 2025 19:01:00 GMT"
-    },
-    {
       "title": "Houthi drone hits Eilat's Ramon Airport, IDF says no sirens - The Jerusalem Post",
       "pubDate": "Sun, 07 Sep 2025 12:12:24 GMT"
     },
@@ -759,13 +755,13 @@
     {
       "title": "Five killed in large Russian missile and drone attack, Zelensky says - BBC",
       "pubDate": "Sun, 05 Oct 2025 12:22:35 GMT"
+    },
+    {
+      "title": "Even Russia\u2019s Baltic Fleet Isn\u2019t Safe as Ukraine Hits a Warship 1,000 Kilometers From the Frontline - UNITED24 Media",
+      "pubDate": "Mon, 06 Oct 2025 19:03:03 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Illinois officials decry Trump post threatening Chicago with deportations: \u2018Disgusting\u2019 - FOX 32 Chicago",
-      "pubDate": "Sat, 06 Sep 2025 17:18:50 GMT"
-    },
     {
       "title": "Trump's Artificial Intelligence Policy: The Dangerous Gamble of Unregulated AI - Tolerance.ca",
       "pubDate": "Sun, 07 Sep 2025 10:09:20 GMT"
@@ -853,10 +849,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "Major Regulatory Shift in Financial Markets: Embracing 24/7 Trading - OneSafe",
-      "pubDate": "Sat, 06 Sep 2025 06:14:03 GMT"
-    },
-    {
       "title": "Stocks rise on rate cut bets, political upheaval unsettles currencies globally - Reuters",
       "pubDate": "Mon, 08 Sep 2025 15:23:17 GMT"
     },
@@ -902,14 +894,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China condemns sailing of Canadian, Australian warships in Taiwan Strait - Reuters",
-      "pubDate": "Sat, 06 Sep 2025 14:05:05 GMT"
-    },
-    {
-      "title": "China Shows the World It\u2019s Ready to Shake Things Up - Bloomberg.com",
-      "pubDate": "Sat, 06 Sep 2025 12:00:20 GMT"
-    },
     {
       "title": "Exclusive | Chinese Hackers Pretended to Be a Top U.S. Lawmaker During Trade Talks - The Wall Street Journal",
       "pubDate": "Sun, 07 Sep 2025 15:14:26 GMT"
@@ -992,10 +976,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "The new AI policy rulebook - Axios",
-      "pubDate": "Fri, 12 Sep 2025 09:01:50 GMT"
-    },
     {
       "title": "California lawmakers pass landmark bill that will test Gavin Newsom on AI - Politico",
       "pubDate": "Sat, 13 Sep 2025 08:44:43 GMT"
@@ -1151,6 +1131,10 @@
     {
       "title": "Anthropic Study: AI Complies with Dishonest Requests Despite Guardrails - WebProNews",
       "pubDate": "Sun, 05 Oct 2025 22:40:23 GMT"
+    },
+    {
+      "title": "AI can now be used to design brand-new viruses. Can we stop it from making the next devastating bioweapon? - Live Science",
+      "pubDate": "Mon, 06 Oct 2025 17:35:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1313,10 +1297,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "University of Sydney scientists solve quantum computing challenge using a single atom - WION",
-      "pubDate": "Sat, 06 Sep 2025 09:11:00 GMT"
-    },
-    {
       "title": "Scientists build quantum computers that snap together like LEGO bricks - ScienceDaily",
       "pubDate": "Tue, 09 Sep 2025 04:10:00 GMT"
     },
@@ -1390,14 +1370,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel expands operations in Gaza City; tells famine-stricken residents to move to safe zone - CBS News",
-      "pubDate": "Sat, 06 Sep 2025 11:56:27 GMT"
-    },
-    {
-      "title": "More than 7,000 under-fives in Gaza put in malnutrition recovery in two-week period - The Guardian",
-      "pubDate": "Sat, 06 Sep 2025 21:27:00 GMT"
-    },
     {
       "title": "US puts forward new Mideast ceasefire principles that call for immediate release of all hostages, negotiations - CNN",
       "pubDate": "Sun, 07 Sep 2025 19:03:00 GMT"
@@ -1873,6 +1845,10 @@
     {
       "title": "Iran recalls its ambassadors from France, Germany and the United Kingdom ahead of U.N. nuclear sanctions being reimposed - CityNews Calgary",
       "pubDate": "Sat, 27 Sep 2025 23:46:03 GMT"
+    },
+    {
+      "title": "UK consultation begins on Rolls-Royce SMR design - World Nuclear News",
+      "pubDate": "Mon, 06 Oct 2025 21:52:24 GMT"
     }
   ],
   "Trade War": [
@@ -1923,6 +1899,10 @@
     {
       "title": "BRICS FMs condemn military aggression against Iran's peaceful nuclear facilities - Pars Today",
       "pubDate": "Sun, 28 Sep 2025 08:38:00 GMT"
+    },
+    {
+      "title": "Joint response to global threats: BRICS countries unite in fight against epidemics - TV BRICS",
+      "pubDate": "Mon, 06 Oct 2025 16:02:39 GMT"
     }
   ],
   "Blockchain": [
@@ -2061,6 +2041,10 @@
     {
       "title": "At least 1 dead and dozens injured as Russian drones strike a Ukrainian railway station - AP News",
       "pubDate": "Sat, 04 Oct 2025 16:23:00 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s Sea Drones Are Now Launching Unjammable Fiber-Optic Drones - Forbes",
+      "pubDate": "Mon, 06 Oct 2025 17:09:29 GMT"
     }
   ],
   "Federal Reserve": [
@@ -2113,6 +2097,18 @@
     {
       "title": "Nvidia Partner Hon Hai\u2019s Sales Rise 11% in Boost for AI Outlook - Bloomberg.com",
       "pubDate": "Mon, 06 Oct 2025 01:53:00 GMT"
+    }
+  ],
+  "Intelligence Agencies": [
+    {
+      "title": "Western intelligence have evidence that Russia discussing NATO attack, says EU defense commissioner - Euromaidan Press",
+      "pubDate": "Mon, 06 Oct 2025 16:51:19 GMT"
+    }
+  ],
+  "Battery Electric Vehicle": [
+    {
+      "title": "Nissan Recalls Certain Leaf Electric Vehicles Over Potential Battery Fire - autoevolution",
+      "pubDate": "Mon, 06 Oct 2025 15:56:04 GMT"
     }
   ]
 }
