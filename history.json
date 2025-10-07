@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Study shakes Silicon Valley: Researchers break AI - The Jerusalem Post",
-      "pubDate": "Sun, 14 Sep 2025 06:13:03 GMT"
-    },
-    {
       "title": "Elon Musk\u2019s xAI lays off 500 jobs amid strategy shift to Specialist AI tutors: Report - Mint",
       "pubDate": "Sun, 14 Sep 2025 07:33:34 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "A look at the White House\u2019s pro-innovation artificial intelligence \u2018action plan\u2019 - Reason Foundation",
       "pubDate": "Tue, 07 Oct 2025 04:01:00 GMT"
+    },
+    {
+      "title": "JPMorgan\u2019s Dimon Says AI Cost Savings Now Matching Money Spent - Bloomberg.com",
+      "pubDate": "Tue, 07 Oct 2025 16:05:16 GMT"
     }
   ],
   "US Politics": [
@@ -324,10 +324,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Houthi drone hits Eilat's Ramon Airport, IDF says no sirens - The Jerusalem Post",
-      "pubDate": "Sun, 07 Sep 2025 12:12:24 GMT"
-    },
     {
       "title": "Israel steps up Gaza City attacks while Houthi drone strikes an Israeli airport in rare hit - PBS",
       "pubDate": "Sun, 07 Sep 2025 18:28:47 GMT"
@@ -621,6 +617,10 @@
     {
       "title": "Ukraine war briefing: Europe \u2018no longer at peace\u2019 with Russia, says German chancellor - The Guardian",
       "pubDate": "Tue, 30 Sep 2025 01:48:00 GMT"
+    },
+    {
+      "title": "Drones Target Oil Refinery in Western Siberia\u2019s Tyumen Region in What May Be Ukraine\u2019s Farthest Strike Yet - The Moscow Times",
+      "pubDate": "Tue, 07 Oct 2025 15:13:51 GMT"
     }
   ],
   "Russia": [
@@ -887,10 +887,6 @@
   ],
   "China": [
     {
-      "title": "Exclusive | Chinese Hackers Pretended to Be a Top U.S. Lawmaker During Trade Talks - The Wall Street Journal",
-      "pubDate": "Sun, 07 Sep 2025 15:14:26 GMT"
-    },
-    {
       "title": "China Sends Navy Ship to America's Doorstep - Newsweek",
       "pubDate": "Mon, 08 Sep 2025 07:37:32 GMT"
     },
@@ -969,6 +965,10 @@
     {
       "title": "World Bank raises China growth forecast to 4.8% despite U.S. trade tensions - CNBC",
       "pubDate": "Tue, 07 Oct 2025 06:05:15 GMT"
+    },
+    {
+      "title": "China's chipmakers bought $38 billion in U.S. and allied tools, a sign policy is failing, lawmakers find - Reuters",
+      "pubDate": "Tue, 07 Oct 2025 15:30:31 GMT"
     }
   ],
   "AI Safety": [
@@ -1230,10 +1230,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin taps $111.3K as forecast says 10% dip \u2018worst case scenario\u2019 - Cointelegraph",
-      "pubDate": "Sun, 07 Sep 2025 12:12:39 GMT"
-    },
     {
       "title": "Spot BTC ETFs attract $642M, ETH adds $406M amid \u2018rising confidence\u2019 - Cointelegraph",
       "pubDate": "Sat, 13 Sep 2025 07:46:26 GMT"
@@ -1547,10 +1543,6 @@
   ],
   "Climate Change": [
     {
-      "title": "We\u2019ve Lived through the Three Hottest Summers on Record - Scientific American",
-      "pubDate": "Wed, 17 Sep 2025 04:00:00 GMT"
-    },
-    {
       "title": "Thousands died from heat made worse by climate change this summer - politico.eu",
       "pubDate": "Wed, 17 Sep 2025 14:46:00 GMT"
     },
@@ -1705,6 +1697,10 @@
     {
       "title": "Where U.S. homes face the most severe and extreme climate risk - Axios",
       "pubDate": "Tue, 07 Oct 2025 09:31:28 GMT"
+    },
+    {
+      "title": "Climate Change Could Slash Global GDP By 24% By 2100 - ZME Science",
+      "pubDate": "Tue, 07 Oct 2025 14:48:53 GMT"
     }
   ],
   "Algorithms": [
@@ -1803,6 +1799,10 @@
     {
       "title": "North Korea vows at UN it will keep nuclear weapons - Energies Media",
       "pubDate": "Fri, 03 Oct 2025 17:44:00 GMT"
+    },
+    {
+      "title": "North Korea's crypto hackers have stolen over $2 billion in 2025 - Elliptic",
+      "pubDate": "Tue, 07 Oct 2025 12:04:29 GMT"
     }
   ],
   "Iran": [
@@ -2139,6 +2139,12 @@
     {
       "title": "Nobel Prize in physics goes to trio of researchers for discoveries in quantum mechanics - CNN",
       "pubDate": "Tue, 07 Oct 2025 09:53:13 GMT"
+    }
+  ],
+  "Hydrogen Fuel": [
+    {
+      "title": "H2 Carbon Zero Raises $850,000 for India's First Hydrogen Fuel-Cell Factory - Fuel Cells Works",
+      "pubDate": "Tue, 07 Oct 2025 13:51:00 GMT"
     }
   ]
 }
