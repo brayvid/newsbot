@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "FTC probes OpenAI, Google, Meta and others on risks, safety and money behind AI chatbots - India Today",
-      "pubDate": "Fri, 12 Sep 2025 11:01:41 GMT"
-    },
-    {
       "title": "AI fuels false claims after Charlie Kirk's death, CBS News analysis reveals - CBS News",
       "pubDate": "Sat, 13 Sep 2025 00:15:10 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Does AI pose an existential risk? We asked 5 experts - The Conversation",
       "pubDate": "Sun, 05 Oct 2025 19:15:48 GMT"
+    },
+    {
+      "title": "OpenAI, AMD Announce Massive Computing Deal, Marking New Phase of AI Boom - The Wall Street Journal",
+      "pubDate": "Mon, 06 Oct 2025 20:29:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Lawmakers Reassess Security After Charlie Kirk Shooting - NBC Palm Springs",
-      "pubDate": "Fri, 12 Sep 2025 20:00:00 GMT"
-    },
     {
       "title": "Trump news at a glance: president urges death penalty in Charlie Kirk killing, as widow says: \u2018we\u2019ll never surrender\u2019 - The Guardian",
       "pubDate": "Sat, 13 Sep 2025 02:46:01 GMT"
@@ -321,6 +317,10 @@
     {
       "title": "White House: Mass layoffs will start if shutdown talks 'going nowhere' - Reuters",
       "pubDate": "Sun, 05 Oct 2025 16:38:34 GMT"
+    },
+    {
+      "title": "Shutdown on track to extend into seventh day after funding proposals fail in Senate - CNN",
+      "pubDate": "Tue, 07 Oct 2025 03:02:00 GMT"
     }
   ],
   "Israel": [
@@ -1199,6 +1199,10 @@
     {
       "title": "Ransomware hits a Japanese brewer, an Odesa crypto gang and other cybersecurity news - ForkLog",
       "pubDate": "Sat, 04 Oct 2025 04:09:49 GMT"
+    },
+    {
+      "title": "US DoD Will Cut Back on Mandatory Cybersecurity Training - tech.co",
+      "pubDate": "Mon, 06 Oct 2025 18:49:14 GMT"
     }
   ],
   "US Economy": [
@@ -1539,10 +1543,6 @@
   ],
   "Climate Change": [
     {
-      "title": "It\u2019s Not Just Flooding\u2014Climate Change Means More Landslide Risk, Too - Scientific American",
-      "pubDate": "Tue, 16 Sep 2025 10:00:00 GMT"
-    },
-    {
       "title": "Human-made global warming \u2018caused two in three heat deaths in Europe this summer\u2019 - The Guardian",
       "pubDate": "Wed, 17 Sep 2025 08:18:00 GMT"
     },
@@ -1697,6 +1697,10 @@
     {
       "title": "Human emissions are helping fuel the Southwest\u2019s epic drought - KUNC",
       "pubDate": "Sun, 05 Oct 2025 12:00:00 GMT"
+    },
+    {
+      "title": "The World Bank Climate Change Action Plan 2026\u20132030: Extension and enhancement - E3G",
+      "pubDate": "Mon, 06 Oct 2025 19:14:57 GMT"
     }
   ],
   "Algorithms": [
@@ -2109,6 +2113,18 @@
     {
       "title": "Nissan Recalls Certain Leaf Electric Vehicles Over Potential Battery Fire - autoevolution",
       "pubDate": "Mon, 06 Oct 2025 15:56:04 GMT"
+    }
+  ],
+  "International Relations": [
+    {
+      "title": "Russia may be helping China prepare for Taiwan invasion, leaked documents suggest - CNN",
+      "pubDate": "Tue, 07 Oct 2025 01:44:04 GMT"
+    }
+  ],
+  "Health": [
+    {
+      "title": "Medicare open enrollment nears as seniors weigh health care costs and coverage options - CBS News",
+      "pubDate": "Tue, 07 Oct 2025 01:36:19 GMT"
     }
   ]
 }
