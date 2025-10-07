@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI fuels false claims after Charlie Kirk's death, CBS News analysis reveals - CBS News",
-      "pubDate": "Sat, 13 Sep 2025 00:15:10 GMT"
-    },
-    {
       "title": "Study shakes Silicon Valley: Researchers break AI - The Jerusalem Post",
       "pubDate": "Sun, 14 Sep 2025 06:13:03 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "OpenAI, AMD Announce Massive Computing Deal, Marking New Phase of AI Boom - The Wall Street Journal",
       "pubDate": "Mon, 06 Oct 2025 20:29:00 GMT"
+    },
+    {
+      "title": "A look at the White House\u2019s pro-innovation artificial intelligence \u2018action plan\u2019 - Reason Foundation",
+      "pubDate": "Tue, 07 Oct 2025 04:01:00 GMT"
     }
   ],
   "US Politics": [
@@ -467,10 +467,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says - ABC News",
-      "pubDate": "Sun, 07 Sep 2025 10:18:45 GMT"
-    },
-    {
       "title": "Russia\u2019s largest-ever air attack on Ukraine burns Kyiv government building - The Washington Post",
       "pubDate": "Sun, 07 Sep 2025 20:03:45 GMT"
     },
@@ -763,10 +759,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump's Artificial Intelligence Policy: The Dangerous Gamble of Unregulated AI - Tolerance.ca",
-      "pubDate": "Sun, 07 Sep 2025 10:09:20 GMT"
-    },
-    {
       "title": "Trump admin escalates space race with China, banning visa-holding scientists from working at NASA - CNN",
       "pubDate": "Thu, 11 Sep 2025 19:48:00 GMT"
     },
@@ -973,6 +965,10 @@
     {
       "title": "How China is challenging Nvidia's AI chip dominance - BBC",
       "pubDate": "Sun, 05 Oct 2025 23:00:21 GMT"
+    },
+    {
+      "title": "World Bank raises China growth forecast to 4.8% despite U.S. trade tensions - CNBC",
+      "pubDate": "Tue, 07 Oct 2025 06:05:15 GMT"
     }
   ],
   "AI Safety": [
@@ -1217,6 +1213,10 @@
     {
       "title": "US Services Gauge Falls on Weakest Business Activity Since 2020 - Bloomberg.com",
       "pubDate": "Fri, 03 Oct 2025 16:30:37 GMT"
+    },
+    {
+      "title": "America's economy is on a 'sugar high' warns Ken Griffin, and investors retreating to gold is one sign of a comedown - Fortune",
+      "pubDate": "Tue, 07 Oct 2025 10:30:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -1497,6 +1497,10 @@
     {
       "title": "Global outrage has grown after two years of bombardment in Gaza. In Israel, it is a different story - CNN",
       "pubDate": "Sun, 05 Oct 2025 06:01:52 GMT"
+    },
+    {
+      "title": "Live updates: Gaza ceasefire talks underway as Israel marks anniversary of October 7 attack - CNN",
+      "pubDate": "Tue, 07 Oct 2025 10:25:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1542,10 +1546,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Human-made global warming \u2018caused two in three heat deaths in Europe this summer\u2019 - The Guardian",
-      "pubDate": "Wed, 17 Sep 2025 08:18:00 GMT"
-    },
     {
       "title": "We\u2019ve Lived through the Three Hottest Summers on Record - Scientific American",
       "pubDate": "Wed, 17 Sep 2025 04:00:00 GMT"
@@ -1701,6 +1701,10 @@
     {
       "title": "The World Bank Climate Change Action Plan 2026\u20132030: Extension and enhancement - E3G",
       "pubDate": "Mon, 06 Oct 2025 19:14:57 GMT"
+    },
+    {
+      "title": "Where U.S. homes face the most severe and extreme climate risk - Axios",
+      "pubDate": "Tue, 07 Oct 2025 09:31:28 GMT"
     }
   ],
   "Algorithms": [
@@ -1825,6 +1829,10 @@
     {
       "title": "Burnt City, a symbol of peaceful coexistence in ancient Iran - Tehran Times",
       "pubDate": "Sun, 05 Oct 2025 14:07:28 GMT"
+    },
+    {
+      "title": "'Iran is developing a nuclear missile to hit the US,' Netanyahu warns in Ben Shapiro interview - The Jerusalem Post",
+      "pubDate": "Tue, 07 Oct 2025 10:05:39 GMT"
     }
   ],
   "US Supreme Court": [
@@ -2125,6 +2133,12 @@
     {
       "title": "Medicare open enrollment nears as seniors weigh health care costs and coverage options - CBS News",
       "pubDate": "Tue, 07 Oct 2025 01:36:19 GMT"
+    }
+  ],
+  "Physics": [
+    {
+      "title": "Nobel Prize in physics goes to trio of researchers for discoveries in quantum mechanics - CNN",
+      "pubDate": "Tue, 07 Oct 2025 09:53:13 GMT"
     }
   ]
 }
