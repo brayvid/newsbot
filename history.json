@@ -325,14 +325,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel warns of 'mighty hurricane' in Gaza if Hamas does not surrender - Reuters",
-      "pubDate": "Mon, 08 Sep 2025 17:59:42 GMT"
-    },
-    {
-      "title": "Actors, entertainers pledge to boycott Israeli film institutions over Gaza - Reuters",
-      "pubDate": "Mon, 08 Sep 2025 22:09:01 GMT"
-    },
-    {
       "title": "Israel Attacks Hamas Senior Leadership in Doha, Qatar - The Wall Street Journal",
       "pubDate": "Tue, 09 Sep 2025 15:05:00 GMT"
     },
@@ -735,6 +727,10 @@
     {
       "title": "Ukraine Claims It Captured Indian Man Fighting For Russia, India Yet To Verify - NDTV",
       "pubDate": "Wed, 08 Oct 2025 03:15:31 GMT"
+    },
+    {
+      "title": "Russia escalates warning as Trump considers sale of Tomahawks to Ukraine - The Washington Post",
+      "pubDate": "Wed, 08 Oct 2025 21:33:59 GMT"
     }
   ],
   "Donald Trump": [
@@ -1473,6 +1469,10 @@
     {
       "title": "Gaza-bound flotilla activists describe Israeli capture; Gaza's children grapple with war - CBS News",
       "pubDate": "Wed, 08 Oct 2025 15:19:00 GMT"
+    },
+    {
+      "title": "Report: Hamas agreed to Gaza deal, which will be signed Thursday in Egypt - The Times of Israel",
+      "pubDate": "Wed, 08 Oct 2025 22:08:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1681,10 +1681,6 @@
   ],
   "Algorithms": [
     {
-      "title": "UVA psychologists find algorithms that predict cognitive decline in twins - UVA Today",
-      "pubDate": "Mon, 08 Sep 2025 19:28:11 GMT"
-    },
-    {
       "title": "White House outlines TikTok deal that would give US control of algorithm - BBC",
       "pubDate": "Sat, 20 Sep 2025 22:19:16 GMT"
     },
@@ -1694,10 +1690,6 @@
     }
   ],
   "Electric Vehicle": [
-    {
-      "title": "Tesla's market share keeps plunging, with little relief in sight - Axios",
-      "pubDate": "Mon, 08 Sep 2025 19:27:01 GMT"
-    },
     {
       "title": "Stellantis cancels oft-delayed electric Ram 1500, cites slowing demand for segment - The Detroit News",
       "pubDate": "Fri, 12 Sep 2025 20:29:19 GMT"
@@ -1887,6 +1879,10 @@
     {
       "title": "Trump administration to cancel $645 million worth of grants for climate-related projects in Minnesota - CBS News",
       "pubDate": "Sat, 04 Oct 2025 00:42:05 GMT"
+    },
+    {
+      "title": "National security threatened by climate crisis, UK intelligence chiefs due to warn - The Guardian",
+      "pubDate": "Wed, 08 Oct 2025 21:08:00 GMT"
     }
   ],
   "Democracy": [
@@ -2149,6 +2145,30 @@
     {
       "title": "H2 Carbon Zero Raises $850,000 for India's First Hydrogen Fuel-Cell Factory - Fuel Cells Works",
       "pubDate": "Tue, 07 Oct 2025 13:51:00 GMT"
+    }
+  ],
+  "Finance": [
+    {
+      "title": "Trust funds that finance Medicare and Social Security are at risk of insolvency within 7 years, cutting benefits up to 24%, a new report warns - Fortune",
+      "pubDate": "Wed, 08 Oct 2025 16:25:37 GMT"
+    }
+  ],
+  "Recession": [
+    {
+      "title": "US recession looming? Warning signs for America as Oxford Economics sounds alarm over falling tech investm - The Economic Times",
+      "pubDate": "Wed, 08 Oct 2025 12:12:10 GMT"
+    }
+  ],
+  "Social Media": [
+    {
+      "title": "Denmark proposes banning social media for kids under 15 - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Wed, 08 Oct 2025 22:04:38 GMT"
+    }
+  ],
+  "Volcanoes": [
+    {
+      "title": "Thousands are in danger near Naples as volcano Campi Flegrei wakens - NPR",
+      "pubDate": "Wed, 08 Oct 2025 21:40:38 GMT"
     }
   ]
 }
