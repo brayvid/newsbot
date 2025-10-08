@@ -325,10 +325,6 @@
   ],
   "Israel": [
     {
-      "title": "At least 5 people killed in Jerusalem shooting: Live updates - CNN",
-      "pubDate": "Mon, 08 Sep 2025 14:22:00 GMT"
-    },
-    {
       "title": "Israel warns of 'mighty hurricane' in Gaza if Hamas does not surrender - Reuters",
       "pubDate": "Mon, 08 Sep 2025 17:59:42 GMT"
     },
@@ -458,10 +454,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine war latest: Kremlin responds after Trump threatens new sanctions on Moscow - The Independent",
-      "pubDate": "Mon, 08 Sep 2025 15:37:27 GMT"
-    },
     {
       "title": "Deadly stabbing of Ukrainian refugee on Charlotte light rail raises questions about public safety - CBS News",
       "pubDate": "Mon, 08 Sep 2025 23:47:00 GMT"
@@ -612,10 +604,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia Issues Stern Response to Trump\u2019s Sanctions Threat - Time Magazine",
-      "pubDate": "Mon, 08 Sep 2025 13:06:06 GMT"
-    },
     {
       "title": "Poland to close Belarus border due to Russia-led military exercises, PM says - Reuters",
       "pubDate": "Tue, 09 Sep 2025 17:17:50 GMT"
@@ -829,13 +817,13 @@
     {
       "title": "Exclusive: Trump says Hamas faces \u2018complete obliteration\u2019 if it insists on staying in power - CNN",
       "pubDate": "Sun, 05 Oct 2025 13:00:22 GMT"
+    },
+    {
+      "title": "Trump calls for jailing of Illinois governor and Chicago mayor in immigration standoff - BBC",
+      "pubDate": "Wed, 08 Oct 2025 14:36:35 GMT"
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Stocks rise on rate cut bets, political upheaval unsettles currencies globally - Reuters",
-      "pubDate": "Mon, 08 Sep 2025 15:23:17 GMT"
-    },
     {
       "title": "Nasdaq closes at record high, S&P 500 notches winning week as Fed decision looms - CNBC",
       "pubDate": "Fri, 12 Sep 2025 20:15:00 GMT"
@@ -878,10 +866,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China Sends Navy Ship to America's Doorstep - Newsweek",
-      "pubDate": "Mon, 08 Sep 2025 07:37:32 GMT"
-    },
     {
       "title": "China detains banker son of ex-regulator facing corruption probe - Financial Times",
       "pubDate": "Tue, 09 Sep 2025 04:14:21 GMT"
@@ -1130,10 +1114,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies - The Hacker News",
-      "pubDate": "Mon, 08 Sep 2025 15:26:00 GMT"
-    },
     {
       "title": "Sex offenders, terrorists, drug dealers, exposed in spyware breach - Malwarebytes",
       "pubDate": "Mon, 29 Sep 2025 14:42:53 GMT"
@@ -1489,6 +1469,10 @@
     {
       "title": "Live updates: Gaza ceasefire talks underway as Israel marks anniversary of October 7 attack - CNN",
       "pubDate": "Tue, 07 Oct 2025 10:25:00 GMT"
+    },
+    {
+      "title": "Gaza-bound flotilla activists describe Israeli capture; Gaza's children grapple with war - CBS News",
+      "pubDate": "Wed, 08 Oct 2025 15:19:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1534,10 +1518,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Human-caused climate change drove up unusual summer heat, report finds - CBS News",
-      "pubDate": "Wed, 17 Sep 2025 22:24:00 GMT"
-    },
     {
       "title": "Scientists predict wildfire smoke will be the most costly climate-related health hazard - NBC News",
       "pubDate": "Thu, 18 Sep 2025 15:12:42 GMT"
@@ -1693,6 +1673,10 @@
     {
       "title": "New Zealand oceans warming 34% faster than global average, putting homes and industry at risk, report finds - The Guardian",
       "pubDate": "Wed, 08 Oct 2025 01:00:00 GMT"
+    },
+    {
+      "title": "Scientists seek to turbocharge a natural process that cools the Earth - The Washington Post",
+      "pubDate": "Wed, 08 Oct 2025 16:35:59 GMT"
     }
   ],
   "Algorithms": [
@@ -1733,6 +1717,10 @@
     {
       "title": "Tom Homan investigated for accepting $50,000 from FBI agents. Trump's DOJ shut it down. - MSNBC News",
       "pubDate": "Sat, 20 Sep 2025 19:45:58 GMT"
+    },
+    {
+      "title": "Former FBI Director James Comey pleads not guilty and will argue he is unfairly targeted by Trump - CNN",
+      "pubDate": "Wed, 08 Oct 2025 08:00:51 GMT"
     }
   ],
   "United States": [
@@ -1799,6 +1787,10 @@
     {
       "title": "North Korea's crypto hackers have stolen over $2 billion in 2025 - Elliptic",
       "pubDate": "Tue, 07 Oct 2025 12:04:29 GMT"
+    },
+    {
+      "title": "North Korea Unveils New Weapons as \u2018Direct Threats\u2019 to US Military Bases - Newsweek",
+      "pubDate": "Wed, 08 Oct 2025 12:24:00 GMT"
     }
   ],
   "Iran": [
@@ -1963,6 +1955,10 @@
     {
       "title": "CISA says it will fill the gap as federal funding for MS-ISAC dries up - Help Net Security",
       "pubDate": "Tue, 30 Sep 2025 14:55:17 GMT"
+    },
+    {
+      "title": "The shutdown and CISA lapse expose new cracks in America\u2019s cyber defenses - Federal News Network",
+      "pubDate": "Wed, 08 Oct 2025 16:12:29 GMT"
     }
   ],
   "New York City": [
@@ -2107,6 +2103,10 @@
     {
       "title": "EU watchdog prepares to expand oversight of crypto and exchanges - Financial Times",
       "pubDate": "Mon, 06 Oct 2025 04:00:31 GMT"
+    },
+    {
+      "title": "EU chief says Russia is waging a \u2018gray zone campaign\u2019 and Europe must meet the challenge - The Hill",
+      "pubDate": "Wed, 08 Oct 2025 14:37:00 GMT"
     }
   ],
   "NVIDIA": [
