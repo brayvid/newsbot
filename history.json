@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Elon Musk\u2019s xAI lays off 500 jobs amid strategy shift to Specialist AI tutors: Report - Mint",
-      "pubDate": "Sun, 14 Sep 2025 07:33:34 GMT"
-    },
-    {
       "title": "AI Activists Hunger Strike at Anthropic, DeepMind for Development Pause - WebProNews",
       "pubDate": "Sun, 14 Sep 2025 19:44:43 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "JPMorgan\u2019s Dimon Says AI Cost Savings Now Matching Money Spent - Bloomberg.com",
       "pubDate": "Tue, 07 Oct 2025 16:05:16 GMT"
+    },
+    {
+      "title": "Sen. Ted Cruz proposes federal regulatory sandbox to encourage AI innovation, development - Reason Foundation",
+      "pubDate": "Wed, 08 Oct 2025 04:01:00 GMT"
     }
   ],
   "US Politics": [
@@ -325,10 +325,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel steps up Gaza City attacks while Houthi drone strikes an Israeli airport in rare hit - PBS",
-      "pubDate": "Sun, 07 Sep 2025 18:28:47 GMT"
-    },
-    {
       "title": "At least 5 people killed in Jerusalem shooting: Live updates - CNN",
       "pubDate": "Mon, 08 Sep 2025 14:22:00 GMT"
     },
@@ -462,14 +458,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia\u2019s largest-ever air attack on Ukraine burns Kyiv government building - The Washington Post",
-      "pubDate": "Sun, 07 Sep 2025 20:03:45 GMT"
-    },
-    {
-      "title": "UN provides urgent support after \u2018massive\u2019 Russian attack across Ukraine - UN News",
-      "pubDate": "Sun, 07 Sep 2025 20:30:41 GMT"
-    },
     {
       "title": "Ukraine war latest: Kremlin responds after Trump threatens new sanctions on Moscow - The Independent",
       "pubDate": "Mon, 08 Sep 2025 15:37:27 GMT"
@@ -755,6 +743,10 @@
     {
       "title": "Even Russia\u2019s Baltic Fleet Isn\u2019t Safe as Ukraine Hits a Warship 1,000 Kilometers From the Frontline - UNITED24 Media",
       "pubDate": "Mon, 06 Oct 2025 19:03:03 GMT"
+    },
+    {
+      "title": "Ukraine Claims It Captured Indian Man Fighting For Russia, India Yet To Verify - NDTV",
+      "pubDate": "Wed, 08 Oct 2025 03:15:31 GMT"
     }
   ],
   "Donald Trump": [
@@ -969,6 +961,10 @@
     {
       "title": "China's chipmakers bought $38 billion in U.S. and allied tools, a sign policy is failing, lawmakers find - Reuters",
       "pubDate": "Tue, 07 Oct 2025 15:30:31 GMT"
+    },
+    {
+      "title": "How China Threatens to Force Taiwan Into a Total Blackout - The Wall Street Journal",
+      "pubDate": "Wed, 08 Oct 2025 00:30:46 GMT"
     }
   ],
   "AI Safety": [
@@ -1371,10 +1367,6 @@
   ],
   "Gaza": [
     {
-      "title": "US puts forward new Mideast ceasefire principles that call for immediate release of all hostages, negotiations - CNN",
-      "pubDate": "Sun, 07 Sep 2025 19:03:00 GMT"
-    },
-    {
       "title": "Israel intensifies Gaza City strikes as many residents refuse evacuation - Reuters",
       "pubDate": "Fri, 12 Sep 2025 14:46:52 GMT"
     },
@@ -1543,10 +1535,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Thousands died from heat made worse by climate change this summer - politico.eu",
-      "pubDate": "Wed, 17 Sep 2025 14:46:00 GMT"
-    },
-    {
       "title": "Human-caused climate change drove up unusual summer heat, report finds - CBS News",
       "pubDate": "Wed, 17 Sep 2025 22:24:00 GMT"
     },
@@ -1701,6 +1689,10 @@
     {
       "title": "Climate Change Could Slash Global GDP By 24% By 2100 - ZME Science",
       "pubDate": "Tue, 07 Oct 2025 14:48:53 GMT"
+    },
+    {
+      "title": "New Zealand oceans warming 34% faster than global average, putting homes and industry at risk, report finds - The Guardian",
+      "pubDate": "Wed, 08 Oct 2025 01:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1785,6 +1777,10 @@
     {
       "title": "Pentagon plans widespread random polygraphs, NDAs to stanch leaks - The Washington Post",
       "pubDate": "Wed, 01 Oct 2025 22:24:21 GMT"
+    },
+    {
+      "title": "Analysis: Shutdown strains US national security as weak links start to fail - WTOP",
+      "pubDate": "Wed, 08 Oct 2025 00:43:42 GMT"
     }
   ],
   "North Korea": [
@@ -2011,6 +2007,10 @@
     {
       "title": "Hackers stole data from British nursery schools \u2014 then apologized to parents - The Washington Post",
       "pubDate": "Thu, 02 Oct 2025 22:50:28 GMT"
+    },
+    {
+      "title": "Hackers Arrested for Allegedly Stealing 8,000 Kids' Sensitive Photos and Personal Data From Preschool Database - People.com",
+      "pubDate": "Wed, 08 Oct 2025 01:12:51 GMT"
     }
   ],
   "Space Exploration": [
@@ -2097,6 +2097,10 @@
     {
       "title": "Quantum Computers Achieve Unconditional Advantage Over Classical Machines, Study Shows - Gadgets 360",
       "pubDate": "Sun, 05 Oct 2025 11:30:01 GMT"
+    },
+    {
+      "title": "Introducing the Gemini 2.5 Computer Use model - The Keyword",
+      "pubDate": "Tue, 07 Oct 2025 19:51:55 GMT"
     }
   ],
   "European Union": [
