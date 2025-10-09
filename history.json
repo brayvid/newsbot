@@ -325,10 +325,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel Attacks Hamas Senior Leadership in Doha, Qatar - The Wall Street Journal",
-      "pubDate": "Tue, 09 Sep 2025 15:05:00 GMT"
-    },
-    {
       "title": "Israeli Strike on Qatar Upends Gaza Truce Talks, Gulf Arab Ties - Bloomberg.com",
       "pubDate": "Tue, 09 Sep 2025 17:58:32 GMT"
     },
@@ -443,13 +439,13 @@
     {
       "title": "King Felipe pleads with Israel to \u2018stop massacre and abhorrent acts\u2019 in Gaza - The Guardian",
       "pubDate": "Wed, 24 Sep 2025 16:56:00 GMT"
+    },
+    {
+      "title": "Live updates: Israel and Hamas sign first phase of Gaza ceasefire deal that would release hostages - The Washington Post",
+      "pubDate": "Thu, 09 Oct 2025 16:31:45 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russian Glide Bomb Kills at Least 23, Mostly Elderly, in Eastern Ukraine - The Wall Street Journal",
-      "pubDate": "Tue, 09 Sep 2025 15:17:00 GMT"
-    },
     {
       "title": "Poland says its airspace was \u2018repeatedly violated\u2019 during Russian strikes on Ukraine - The Hill",
       "pubDate": "Wed, 10 Sep 2025 03:34:00 GMT"
@@ -593,6 +589,10 @@
     {
       "title": "Ukraine war briefing: Analysts flag Kremlin scare campaign against use of Tomahawks - The Guardian",
       "pubDate": "Thu, 09 Oct 2025 00:55:00 GMT"
+    },
+    {
+      "title": "Russian Strikes Knock Out More than Half of Ukraine Gas Production Ahead of Winter - Bloomberg.com",
+      "pubDate": "Thu, 09 Oct 2025 08:18:20 GMT"
     }
   ],
   "Russia": [
@@ -867,10 +867,6 @@
   ],
   "China": [
     {
-      "title": "China leads clean energy revolution, but also CO2 pollution, says report - Al Jazeera",
-      "pubDate": "Tue, 09 Sep 2025 12:45:00 GMT"
-    },
-    {
       "title": "Nasa bans Chinese nationals from working on its space programmes - BBC",
       "pubDate": "Thu, 11 Sep 2025 10:34:01 GMT"
     },
@@ -1129,10 +1125,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "CrowdStrike CEO: AI is unleashing more adversaries for cybersecurity companies to defeat - Yahoo Finance",
-      "pubDate": "Tue, 09 Sep 2025 16:02:25 GMT"
-    },
-    {
       "title": "AI for ATO: Pentagon seeks AI to streamline cumbersome cybersecurity processes - Breaking Defense",
       "pubDate": "Fri, 12 Sep 2025 13:51:53 GMT"
     },
@@ -1178,10 +1170,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "US economy added 911,000 fewer jobs than previously reported in largest-ever revision - ABC News",
-      "pubDate": "Tue, 09 Sep 2025 14:15:00 GMT"
-    },
     {
       "title": "What happens if the US government shuts down? - Financial Times",
       "pubDate": "Mon, 29 Sep 2025 22:20:35 GMT"
@@ -1935,6 +1923,10 @@
     {
       "title": "Lawmakers have left Washington with no end to government shutdown in sight - CNN",
       "pubDate": "Sat, 04 Oct 2025 20:55:00 GMT"
+    },
+    {
+      "title": "Live updates: Government shutdown reaches ninth day, Congress still deadlocked on funding plan | CNN Politics - CNN",
+      "pubDate": "Thu, 09 Oct 2025 16:45:00 GMT"
     }
   ],
   "SpaceX": [
@@ -2169,6 +2161,18 @@
     {
       "title": "Thousands are in danger near Naples as volcano Campi Flegrei wakens - NPR",
       "pubDate": "Wed, 08 Oct 2025 21:40:38 GMT"
+    }
+  ],
+  "Self-Driving Cars": [
+    {
+      "title": "US probes driver assistance software in 2.9 million Tesla vehicles over traffic violations - Reuters",
+      "pubDate": "Thu, 09 Oct 2025 15:46:01 GMT"
+    }
+  ],
+  "World Economy": [
+    {
+      "title": "CEOs double down on AI as confidence in global economy slips, report - Euronews.com",
+      "pubDate": "Thu, 09 Oct 2025 05:00:19 GMT"
     }
   ]
 }
