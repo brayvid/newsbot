@@ -325,10 +325,6 @@
   ],
   "Israel": [
     {
-      "title": "Israeli Strike on Qatar Upends Gaza Truce Talks, Gulf Arab Ties - Bloomberg.com",
-      "pubDate": "Tue, 09 Sep 2025 17:58:32 GMT"
-    },
-    {
       "title": "Israel attacks Yemen\u2019s capital, Sanaa, a day after bombing Qatar\u2019s Doha - Al Jazeera",
       "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT"
     },
@@ -593,13 +589,13 @@
     {
       "title": "Russian Strikes Knock Out More than Half of Ukraine Gas Production Ahead of Winter - Bloomberg.com",
       "pubDate": "Thu, 09 Oct 2025 08:18:20 GMT"
+    },
+    {
+      "title": "Ukraine's long-range drone strikes are punishing the industry fueling Russia's war - Business Insider",
+      "pubDate": "Thu, 09 Oct 2025 15:06:00 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Poland to close Belarus border due to Russia-led military exercises, PM says - Reuters",
-      "pubDate": "Tue, 09 Sep 2025 17:17:50 GMT"
-    },
     {
       "title": "NATO Says It Scrambled Fighter Jets to Shoot Down Russian Drones Over Poland - The New York Times",
       "pubDate": "Wed, 10 Sep 2025 15:12:27 GMT"
@@ -821,6 +817,10 @@
     {
       "title": "Trump administration officials seriously discussing invoking Insurrection Act, sources say - NBC News",
       "pubDate": "Wed, 08 Oct 2025 18:55:05 GMT"
+    },
+    {
+      "title": "Live Updates: N.Y. Attorney General Letitia James Indicted After Trump\u2019s Pressure Campaign - The New York Times",
+      "pubDate": "Thu, 09 Oct 2025 22:48:01 GMT"
     }
   ],
   "Financial Markets": [
@@ -1261,10 +1261,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "Quantum Leap | Duke researchers get green light to plan powerful computer that could be science, tech game changer - ABC11",
-      "pubDate": "Tue, 09 Sep 2025 22:41:15 GMT"
-    },
-    {
       "title": "PsiQuantum raises $1 billion to build quantum computers - Cryptopolitan",
       "pubDate": "Wed, 10 Sep 2025 15:30:00 GMT"
     },
@@ -1701,6 +1697,10 @@
     {
       "title": "Former FBI Director James Comey pleads not guilty and will argue he is unfairly targeted by Trump - CNN",
       "pubDate": "Wed, 08 Oct 2025 08:00:51 GMT"
+    },
+    {
+      "title": "Nearly half of FBI agents in major offices reassigned to immigration enforcement - The Guardian",
+      "pubDate": "Thu, 09 Oct 2025 21:21:00 GMT"
     }
   ],
   "United States": [
@@ -1735,6 +1735,10 @@
     {
       "title": "Sam Altman predicts AGI could arrive before 2030 - Digital Watch Observatory",
       "pubDate": "Mon, 29 Sep 2025 11:14:13 GMT"
+    },
+    {
+      "title": "Why Sam Altman thinks AGI will change work forever \u2014 and how AI agents could run billion\u2011dollar companies - Windows Central",
+      "pubDate": "Thu, 09 Oct 2025 17:12:15 GMT"
     }
   ],
   "National Security": [
@@ -2101,6 +2105,10 @@
     {
       "title": "Nvidia Partner Hon Hai\u2019s Sales Rise 11% in Boost for AI Outlook - Bloomberg.com",
       "pubDate": "Mon, 06 Oct 2025 01:53:00 GMT"
+    },
+    {
+      "title": "A Mystery C.E.O. and Billions in Sales: Is China Buying Banned Nvidia Chips? - The New York Times",
+      "pubDate": "Thu, 09 Oct 2025 17:54:56 GMT"
     }
   ],
   "Intelligence Agencies": [
@@ -2149,6 +2157,10 @@
     {
       "title": "US recession looming? Warning signs for America as Oxford Economics sounds alarm over falling tech investm - The Economic Times",
       "pubDate": "Wed, 08 Oct 2025 12:12:10 GMT"
+    },
+    {
+      "title": "Roughly half of U.S. states are effectively in a recession and \u2018hanging on by their fingertips,\u2019 Moody\u2019s chief economist says - Fortune",
+      "pubDate": "Thu, 09 Oct 2025 14:16:00 GMT"
     }
   ],
   "Social Media": [
@@ -2173,6 +2185,12 @@
     {
       "title": "CEOs double down on AI as confidence in global economy slips, report - Euronews.com",
       "pubDate": "Thu, 09 Oct 2025 05:00:19 GMT"
+    }
+  ],
+  "Internet": [
+    {
+      "title": "Russia Is Shutting Down Its Own Internet To Stop Ukrainian Drones - Forbes",
+      "pubDate": "Thu, 09 Oct 2025 16:56:07 GMT"
     }
   ]
 }
