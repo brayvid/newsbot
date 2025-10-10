@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI fares better than doctors at predicting deadly complications after surgery - Johns Hopkins University",
-      "pubDate": "Wed, 17 Sep 2025 07:01:00 GMT"
-    },
-    {
       "title": "Google DeepMind claims \u2018historic\u2019 AI breakthrough in problem solving - The Guardian",
       "pubDate": "Wed, 17 Sep 2025 17:00:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Amazon takes on Microsoft and Google in the workplace with new \u2018Quick Suite\u2019 business AI platform - GeekWire",
       "pubDate": "Thu, 09 Oct 2025 17:06:35 GMT"
+    },
+    {
+      "title": "China tightens checks on Nvidia AI chips at major ports, FT reports - Reuters",
+      "pubDate": "Fri, 10 Oct 2025 10:28:30 GMT"
     }
   ],
   "US Politics": [
@@ -589,6 +589,10 @@
     {
       "title": "Ukraine's long-range drone strikes are punishing the industry fueling Russia's war - Business Insider",
       "pubDate": "Thu, 09 Oct 2025 15:06:00 GMT"
+    },
+    {
+      "title": "The new AI arms race changing the war in Ukraine - BBC",
+      "pubDate": "Fri, 10 Oct 2025 00:26:16 GMT"
     }
   ],
   "Russia": [
@@ -1121,6 +1125,10 @@
     {
       "title": "Discord customer service data breach leaks user info and scanned photo IDs - The Verge",
       "pubDate": "Fri, 03 Oct 2025 23:52:50 GMT"
+    },
+    {
+      "title": "70,000 government ID photos exposed in Discord user hack - NBC News",
+      "pubDate": "Thu, 09 Oct 2025 23:08:30 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1181,6 +1189,10 @@
     {
       "title": "America's economy is on a 'sugar high' warns Ken Griffin, and investors retreating to gold is one sign of a comedown - Fortune",
       "pubDate": "Tue, 07 Oct 2025 10:30:00 GMT"
+    },
+    {
+      "title": "Shutdown Pain Ripples Through US Economy With No Deal in Sight - Yahoo Finance",
+      "pubDate": "Fri, 10 Oct 2025 09:00:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -1464,10 +1476,6 @@
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "Bitcoin must hit $104K to repeat past bull market dips: Research - Cointelegraph",
-      "pubDate": "Wed, 10 Sep 2025 07:57:39 GMT"
-    },
     {
       "title": "Gemini IPO Prices High After Winklevoss Crypto Exchange Raised Expected Range - Investor's Business Daily",
       "pubDate": "Thu, 11 Sep 2025 22:54:00 GMT"
@@ -1779,6 +1787,10 @@
     {
       "title": "North Korea Unveils New Weapons as \u2018Direct Threats\u2019 to US Military Bases - Newsweek",
       "pubDate": "Wed, 08 Oct 2025 12:24:00 GMT"
+    },
+    {
+      "title": "North Korea to flaunt nuclear arsenal at military parade in challenge to West - The Washington Post",
+      "pubDate": "Fri, 10 Oct 2025 02:46:54 GMT"
     }
   ],
   "Iran": [
@@ -1935,6 +1947,10 @@
     {
       "title": "Live updates: Government shutdown reaches ninth day, Congress still deadlocked on funding plan | CNN Politics - CNN",
       "pubDate": "Thu, 09 Oct 2025 16:45:00 GMT"
+    },
+    {
+      "title": "Oct. 9, 2025 - Government shutdown updates - CNN",
+      "pubDate": "Fri, 10 Oct 2025 03:18:00 GMT"
     }
   ],
   "SpaceX": [
@@ -2065,6 +2081,10 @@
     {
       "title": "UPDATE: DHS Deploys Special Operations After Multiple Violent Attacks on Federal Law Enforcement by Domestic Terrorists in Chicago - Homeland Security (.gov)",
       "pubDate": "Sun, 05 Oct 2025 02:07:27 GMT"
+    },
+    {
+      "title": "$5,000 Bounties Placed on ICE Agents To Be Killed, DHS Warns - Newsweek",
+      "pubDate": "Fri, 10 Oct 2025 10:29:00 GMT"
     }
   ],
   "NASA": [
