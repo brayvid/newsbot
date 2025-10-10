@@ -325,10 +325,6 @@
   ],
   "Israel": [
     {
-      "title": "\u2018Whoever Attacks Us, We Will Reach Them\u2019: After Qatar, Israel Fires on Yemen - The New York Times",
-      "pubDate": "Wed, 10 Sep 2025 19:25:18 GMT"
-    },
-    {
       "title": "Satellite images show Israel has totally destroyed areas of Gaza City - Al Jazeera",
       "pubDate": "Thu, 11 Sep 2025 17:56:16 GMT"
     },
@@ -593,14 +589,6 @@
   ],
   "Russia": [
     {
-      "title": "Poland dismisses Russia\u2019s claim drone incursion was unintentional as Ukraine calls for joint European air defence system \u2013 as it happened - The Guardian",
-      "pubDate": "Wed, 10 Sep 2025 19:31:00 GMT"
-    },
-    {
-      "title": "Experts react: Poland just shot down Russian drones over its territory. Is Putin ramping up his war on Europe? - Atlantic Council",
-      "pubDate": "Wed, 10 Sep 2025 17:53:00 GMT"
-    },
-    {
       "title": "Emergency UN security council meeting convened after Russian drone incursion into Poland - The Guardian",
       "pubDate": "Thu, 11 Sep 2025 15:26:00 GMT"
     },
@@ -859,6 +847,10 @@
     {
       "title": "Global currency market swells to $10tn a day in tariff turmoil - Financial Times",
       "pubDate": "Tue, 30 Sep 2025 13:00:06 GMT"
+    },
+    {
+      "title": "Stock Market Today: Dow Drops 800 Points After Trump Threatens 'Massive' China Tariffs \u2014 Live Updates - The Wall Street Journal",
+      "pubDate": "Fri, 10 Oct 2025 21:40:00 GMT"
     }
   ],
   "China": [
@@ -945,13 +937,13 @@
     {
       "title": "China tightens export controls on rare-earth metals: Why this matters - Al Jazeera",
       "pubDate": "Fri, 10 Oct 2025 11:48:45 GMT"
+    },
+    {
+      "title": "Trump puts extra 100% tariff on China imports, adds export controls on 'critical software' - CNBC",
+      "pubDate": "Fri, 10 Oct 2025 20:57:18 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "California\u2019s SB 53 AI Safety Bill Awaits Newsom\u2019s Crucial Decision - WebProNews",
-      "pubDate": "Sat, 13 Sep 2025 17:01:31 GMT"
-    },
     {
       "title": "This California bill will require transparency from AI companies. But will it actually prevent major disasters? - vox.com",
       "pubDate": "Sat, 13 Sep 2025 15:55:00 GMT"
@@ -1107,6 +1099,10 @@
     {
       "title": "ChatGPT safety systems can be bypassed for weapons instructions - NBC News",
       "pubDate": "Fri, 10 Oct 2025 10:00:41 GMT"
+    },
+    {
+      "title": "A 3-person policy non-profit that worked on California's AI safety law is publicly accusing OpenAI of intimidation tactics - Fortune",
+      "pubDate": "Fri, 10 Oct 2025 21:25:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1276,10 +1272,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Nvidia Just Placed a $1 Billion Quantum Bet--Here's What's Coming Next - Yahoo Finance",
-      "pubDate": "Wed, 10 Sep 2025 18:50:05 GMT"
-    },
     {
       "title": "QuEra Boston Raises $230 Million With NVIDIA, Boosting Quantum Computing - Quantum Zeitgeist",
       "pubDate": "Thu, 11 Sep 2025 16:25:59 GMT"
@@ -1695,12 +1687,6 @@
       "pubDate": "Fri, 03 Oct 2025 14:52:38 GMT"
     }
   ],
-  "Mars": [
-    {
-      "title": "'Incredibly exciting': NASA claims it's found the 'clearest sign' yet of past life on Mars - Live Science",
-      "pubDate": "Wed, 10 Sep 2025 18:11:00 GMT"
-    }
-  ],
   "FBI": [
     {
       "title": "Tom Homan investigated for accepting $50,000 from FBI agents. Trump's DOJ shut it down. - MSNBC News",
@@ -2093,6 +2079,10 @@
     {
       "title": "$5,000 Bounties Placed on ICE Agents To Be Killed, DHS Warns - Newsweek",
       "pubDate": "Fri, 10 Oct 2025 10:29:00 GMT"
+    },
+    {
+      "title": "Trump pledged to make D.C. \u2018safe and beautiful.\u2019 His administration cut $40M in homeland security funds. - The Washington Post",
+      "pubDate": "Fri, 10 Oct 2025 18:17:06 GMT"
     }
   ],
   "NASA": [
@@ -2223,6 +2213,10 @@
     {
       "title": "Russia Is Shutting Down Its Own Internet To Stop Ukrainian Drones - Forbes",
       "pubDate": "Thu, 09 Oct 2025 16:56:07 GMT"
+    },
+    {
+      "title": "Brendan Carr wants to let internet providers charge hidden fees again - The Verge",
+      "pubDate": "Fri, 10 Oct 2025 13:14:43 GMT"
     }
   ],
   "Global Health": [
@@ -2241,6 +2235,18 @@
     {
       "title": "Well, That Was Fast: Trump Tax Law\u2019s New Corporate Breaks are Already Worsening the Deficit - itep.org",
       "pubDate": "Thu, 09 Oct 2025 19:53:06 GMT"
+    }
+  ],
+  "Health Care": [
+    {
+      "title": "Without Obamacare subsidies, this couple's insurance premiums are set to go up almost $2,000 - NBC News",
+      "pubDate": "Fri, 10 Oct 2025 16:55:53 GMT"
+    }
+  ],
+  "Military and Defense": [
+    {
+      "title": "Qatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth says - CNBC",
+      "pubDate": "Fri, 10 Oct 2025 19:39:40 GMT"
     }
   ]
 }
