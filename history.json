@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Politicians hoping AI can fix Australia\u2019s housing crisis are risking another Robodebt | Ehsan Nabavi - The Guardian",
-      "pubDate": "Mon, 15 Sep 2025 02:18:00 GMT"
-    },
-    {
       "title": "AI fares better than doctors at predicting deadly complications after surgery - Johns Hopkins University",
       "pubDate": "Wed, 17 Sep 2025 07:01:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Bank of England warns of growing risk that AI bubble could burst - The Guardian",
       "pubDate": "Thu, 09 Oct 2025 01:30:00 GMT"
+    },
+    {
+      "title": "Amazon takes on Microsoft and Google in the workplace with new \u2018Quick Suite\u2019 business AI platform - GeekWire",
+      "pubDate": "Thu, 09 Oct 2025 17:06:35 GMT"
     }
   ],
   "US Politics": [
@@ -442,10 +442,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Poland says its airspace was \u2018repeatedly violated\u2019 during Russian strikes on Ukraine - The Hill",
-      "pubDate": "Wed, 10 Sep 2025 03:34:00 GMT"
-    },
     {
       "title": "IMF Sees Up to $20 Billion Hole in Ukraine Funding Through 2027 - Bloomberg.com",
       "pubDate": "Thu, 11 Sep 2025 11:16:42 GMT"
@@ -821,6 +817,10 @@
     {
       "title": "Live Updates: N.Y. Attorney General Letitia James Indicted After Trump\u2019s Pressure Campaign - The New York Times",
       "pubDate": "Thu, 09 Oct 2025 22:48:01 GMT"
+    },
+    {
+      "title": "Trump never forgets: Bombshell indictments open a new phase in a retribution presidency - CNN",
+      "pubDate": "Fri, 10 Oct 2025 04:27:37 GMT"
     }
   ],
   "Financial Markets": [
@@ -948,10 +948,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "California lawmakers pass landmark bill that will test Gavin Newsom on AI - Politico",
-      "pubDate": "Sat, 13 Sep 2025 08:44:43 GMT"
-    },
     {
       "title": "AI Safety Disclosure Legislation Sent to California Governor - Bloomberg Government News",
       "pubDate": "Sat, 13 Sep 2025 08:31:00 GMT"
@@ -1107,6 +1103,10 @@
     {
       "title": "AI can now be used to design brand-new viruses. Can we stop it from making the next devastating bioweapon? - Live Science",
       "pubDate": "Mon, 06 Oct 2025 17:35:00 GMT"
+    },
+    {
+      "title": "China\u2019s Emerging AI Regulation Could Foster On Open And Safe Future For AI - Eurasia Review",
+      "pubDate": "Thu, 09 Oct 2025 22:30:15 GMT"
     }
   ],
   "Data Breach": [
@@ -1243,6 +1243,10 @@
     {
       "title": "Chinese lab sets new benchmark after building device that generates 180 million-degree temperatures: 'A major turning point' - The Cool Down",
       "pubDate": "Fri, 03 Oct 2025 21:15:00 GMT"
+    },
+    {
+      "title": "Europe\u2019s first full design of commercial fusion power plant unveiled by German firm - Interesting Engineering",
+      "pubDate": "Thu, 09 Oct 2025 23:45:00 GMT"
     }
   ],
   "OpenAI": [
@@ -2191,6 +2195,24 @@
     {
       "title": "Russia Is Shutting Down Its Own Internet To Stop Ukrainian Drones - Forbes",
       "pubDate": "Thu, 09 Oct 2025 16:56:07 GMT"
+    }
+  ],
+  "Global Health": [
+    {
+      "title": "As World Health Summit gathers in Berlin, Gavi and IRC\u2019s REACH Consortium Deliver 20 Million Vaccine Doses in Crisis Settings, Reduces Delivery Cost per Dose to US$2 - International Rescue Committee",
+      "pubDate": "Fri, 10 Oct 2025 04:38:32 GMT"
+    }
+  ],
+  "Astronomy": [
+    {
+      "title": "Scientists capture an image of two black holes circling each other for the first time - EurekAlert!",
+      "pubDate": "Thu, 09 Oct 2025 19:13:53 GMT"
+    }
+  ],
+  "Taxes": [
+    {
+      "title": "Well, That Was Fast: Trump Tax Law\u2019s New Corporate Breaks are Already Worsening the Deficit - itep.org",
+      "pubDate": "Thu, 09 Oct 2025 19:53:06 GMT"
     }
   ]
 }
