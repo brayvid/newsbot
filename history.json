@@ -325,14 +325,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel attacks Yemen\u2019s capital, Sanaa, a day after bombing Qatar\u2019s Doha - Al Jazeera",
-      "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT"
-    },
-    {
-      "title": "Israel's strike in Qatar draws rare U.S. criticism and the Supreme Court agrees to an expedited hearing on tariffs: Morning Rundown - NBC News",
-      "pubDate": "Wed, 10 Sep 2025 11:16:29 GMT"
-    },
-    {
       "title": "\u2018Whoever Attacks Us, We Will Reach Them\u2019: After Qatar, Israel Fires on Yemen - The New York Times",
       "pubDate": "Wed, 10 Sep 2025 19:25:18 GMT"
     },
@@ -593,13 +585,13 @@
     {
       "title": "The new AI arms race changing the war in Ukraine - BBC",
       "pubDate": "Fri, 10 Oct 2025 00:26:16 GMT"
+    },
+    {
+      "title": "Russian strikes cut power in Ukraine's capital, Kyiv - BBC",
+      "pubDate": "Fri, 10 Oct 2025 06:56:44 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "NATO Says It Scrambled Fighter Jets to Shoot Down Russian Drones Over Poland - The New York Times",
-      "pubDate": "Wed, 10 Sep 2025 15:12:27 GMT"
-    },
     {
       "title": "Poland dismisses Russia\u2019s claim drone incursion was unintentional as Ukraine calls for joint European air defence system \u2013 as it happened - The Guardian",
       "pubDate": "Wed, 10 Sep 2025 19:31:00 GMT"
@@ -949,13 +941,13 @@
     {
       "title": "China honing abilities for a possible future attack, Taiwan defence report warns - Reuters",
       "pubDate": "Thu, 09 Oct 2025 03:42:00 GMT"
+    },
+    {
+      "title": "China tightens export controls on rare-earth metals: Why this matters - Al Jazeera",
+      "pubDate": "Fri, 10 Oct 2025 11:48:45 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI Safety Disclosure Legislation Sent to California Governor - Bloomberg Government News",
-      "pubDate": "Sat, 13 Sep 2025 08:31:00 GMT"
-    },
     {
       "title": "California\u2019s SB 53 AI Safety Bill Awaits Newsom\u2019s Crucial Decision - WebProNews",
       "pubDate": "Sat, 13 Sep 2025 17:01:31 GMT"
@@ -1111,6 +1103,10 @@
     {
       "title": "China\u2019s Emerging AI Regulation Could Foster On Open And Safe Future For AI - Eurasia Review",
       "pubDate": "Thu, 09 Oct 2025 22:30:15 GMT"
+    },
+    {
+      "title": "ChatGPT safety systems can be bypassed for weapons instructions - NBC News",
+      "pubDate": "Fri, 10 Oct 2025 10:00:41 GMT"
     }
   ],
   "Data Breach": [
@@ -1203,6 +1199,10 @@
     {
       "title": "Is Pakistan conducting secret nuclear tests? Two earthquakes strike Pakistan within a week, experts say the reason is... - MSN",
       "pubDate": "Sun, 05 Oct 2025 20:53:30 GMT"
+    },
+    {
+      "title": "Massive earthquakes in Philippines: What we know so far - Al Jazeera",
+      "pubDate": "Fri, 10 Oct 2025 14:48:45 GMT"
     }
   ],
   "Bitcoin": [
@@ -1276,10 +1276,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "PsiQuantum raises $1 billion to build quantum computers - Cryptopolitan",
-      "pubDate": "Wed, 10 Sep 2025 15:30:00 GMT"
-    },
     {
       "title": "Nvidia Just Placed a $1 Billion Quantum Bet--Here's What's Coming Next - Yahoo Finance",
       "pubDate": "Wed, 10 Sep 2025 18:50:05 GMT"
@@ -1473,6 +1469,10 @@
     {
       "title": "Report: Hamas agreed to Gaza deal, which will be signed Thursday in Egypt - The Times of Israel",
       "pubDate": "Wed, 08 Oct 2025 22:08:00 GMT"
+    },
+    {
+      "title": "Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza - CNN",
+      "pubDate": "Fri, 10 Oct 2025 15:51:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1733,6 +1733,10 @@
     {
       "title": "Nvidia just spent over $900 million to hire Enfabrica CEO, license AI startup's technology - CNBC",
       "pubDate": "Thu, 18 Sep 2025 22:23:04 GMT"
+    },
+    {
+      "title": "AI Arms Race Accelerates as U.S. Reclaims Strategic Edge in Defense Technology - Yahoo Finance",
+      "pubDate": "Fri, 10 Oct 2025 16:09:00 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -1951,6 +1955,10 @@
     {
       "title": "Oct. 9, 2025 - Government shutdown updates - CNN",
       "pubDate": "Fri, 10 Oct 2025 03:18:00 GMT"
+    },
+    {
+      "title": "Live updates: Government shutdown reaches tenth day, Congress still deadlocked on funding plan | CNN Politics - CNN",
+      "pubDate": "Fri, 10 Oct 2025 15:40:00 GMT"
     }
   ],
   "SpaceX": [
