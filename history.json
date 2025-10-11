@@ -325,16 +325,8 @@
   ],
   "Israel": [
     {
-      "title": "Satellite images show Israel has totally destroyed areas of Gaza City - Al Jazeera",
-      "pubDate": "Thu, 11 Sep 2025 17:56:16 GMT"
-    },
-    {
       "title": "UN Security Council members condemn Israel over deadly strike on Qatar - Al Jazeera",
       "pubDate": "Thu, 11 Sep 2025 23:32:10 GMT"
-    },
-    {
-      "title": "Israel\u2019s Netanyahu says \u2018there will be no Palestinian state\u2019 - Al Jazeera",
-      "pubDate": "Thu, 11 Sep 2025 21:18:54 GMT"
     },
     {
       "title": "UN overwhelmingly endorses declaration on two-state solution for Israel, Palestinians - Reuters",
@@ -431,6 +423,10 @@
     {
       "title": "Israel bombs Lebanon: IDF airstrikes along Musaylih Road kills 1; claims to target Hezbollah engineering - Times of India",
       "pubDate": "Sat, 11 Oct 2025 04:11:00 GMT"
+    },
+    {
+      "title": "LIVE: Israel-Hamas ceasefire holds, Palestinians return to north Gaza ruins - Al Jazeera",
+      "pubDate": "Sat, 11 Oct 2025 11:47:40 GMT"
     }
   ],
   "Ukraine": [
@@ -585,6 +581,10 @@
     {
       "title": "Putin's 37-minute shocker for west: Nuclear message, new weapon announcement| Ukraine| USA| NATO | Hindustan Times - Hindustan Times",
       "pubDate": "Sat, 11 Oct 2025 04:04:12 GMT"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Zelensky hails \u2018positive\u2019 talks with Trump after Moscow\u2019s attack on energy system - The Independent",
+      "pubDate": "Sat, 11 Oct 2025 21:43:21 GMT"
     }
   ],
   "Russia": [
@@ -707,10 +707,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump admin escalates space race with China, banning visa-holding scientists from working at NASA - CNN",
-      "pubDate": "Thu, 11 Sep 2025 19:48:00 GMT"
-    },
-    {
       "title": "Trump stands by as Putin and Netanyahu cross new lines - Axios",
       "pubDate": "Fri, 12 Sep 2025 08:33:56 GMT"
     },
@@ -801,6 +797,10 @@
     {
       "title": "Trump never forgets: Bombshell indictments open a new phase in a retribution presidency - CNN",
       "pubDate": "Fri, 10 Oct 2025 04:27:37 GMT"
+    },
+    {
+      "title": "Trump administration issues layoff notices to more than 4,000 workers during government shutdown - BBC",
+      "pubDate": "Sat, 11 Oct 2025 15:58:17 GMT"
     }
   ],
   "Financial Markets": [
@@ -1473,10 +1473,6 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "Gemini IPO Prices High After Winklevoss Crypto Exchange Raised Expected Range - Investor's Business Daily",
-      "pubDate": "Thu, 11 Sep 2025 22:54:00 GMT"
-    },
-    {
       "title": "Bitcoin price today: rises to $115k on rate cut cheer, but caution remains - Investing.com",
       "pubDate": "Fri, 12 Sep 2025 06:33:56 GMT"
     },
@@ -1510,10 +1506,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Climate change is already driving heat mortality and massive economic losses - News-Medical",
-      "pubDate": "Fri, 19 Sep 2025 00:07:00 GMT"
-    },
     {
       "title": "\u2018Crisis of justice\u2019 as floods devastate: Pakistan\u2019s climate change minister - Al Jazeera",
       "pubDate": "Fri, 19 Sep 2025 05:05:00 GMT"
@@ -1669,6 +1661,10 @@
     {
       "title": "Researchers find methane leaking out of cracks in Antarctic seabed - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 11 Oct 2025 10:07:11 GMT"
+    },
+    {
+      "title": "Hidden, supercharged 'thermostat' may cause Earth to overcorrect for climate change - Live Science",
+      "pubDate": "Sat, 11 Oct 2025 15:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1789,6 +1785,10 @@
     {
       "title": "North Korea to flaunt nuclear arsenal at military parade in challenge to West - The Washington Post",
       "pubDate": "Fri, 10 Oct 2025 02:46:54 GMT"
+    },
+    {
+      "title": "North Korea shows off long-range missiles it claims can hit US mainland - CNN",
+      "pubDate": "Sat, 11 Oct 2025 11:29:36 GMT"
     }
   ],
   "Iran": [
@@ -2199,6 +2199,10 @@
     {
       "title": "Roughly half of U.S. states are effectively in a recession and \u2018hanging on by their fingertips,\u2019 Moody\u2019s chief economist says - Fortune",
       "pubDate": "Thu, 09 Oct 2025 14:16:00 GMT"
+    },
+    {
+      "title": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing? - MarketWatch",
+      "pubDate": "Sat, 11 Oct 2025 13:00:00 GMT"
     }
   ],
   "Social Media": [
@@ -2275,6 +2279,12 @@
     {
       "title": "These are the agencies Trump is purging during the shutdown - Axios",
       "pubDate": "Sat, 11 Oct 2025 03:42:26 GMT"
+    }
+  ],
+  "Terrorism": [
+    {
+      "title": "US issues travel alert for THIS popular travel destination, \u2018terrorists may hit shopping spots, tourist locations\u2019 - Mint",
+      "pubDate": "Sat, 11 Oct 2025 14:32:50 GMT"
     }
   ]
 }
