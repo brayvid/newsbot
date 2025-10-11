@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Google DeepMind claims \u2018historic\u2019 AI breakthrough in problem solving - The Guardian",
-      "pubDate": "Wed, 17 Sep 2025 17:00:00 GMT"
-    },
-    {
       "title": "Meta Unveils Smart Glasses With Apps and an Artificial Intelligence Assistant - The New York Times",
       "pubDate": "Thu, 18 Sep 2025 01:01:20 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "China tightens checks on Nvidia AI chips at major ports, FT reports - Reuters",
       "pubDate": "Fri, 10 Oct 2025 10:28:30 GMT"
+    },
+    {
+      "title": "Fake videos of dead celebrities are going viral. Many of their families are horrified. - The Washington Post",
+      "pubDate": "Sat, 11 Oct 2025 16:01:52 GMT"
     }
   ],
   "US Politics": [
@@ -435,14 +435,6 @@
   ],
   "Ukraine": [
     {
-      "title": "IMF Sees Up to $20 Billion Hole in Ukraine Funding Through 2027 - Bloomberg.com",
-      "pubDate": "Thu, 11 Sep 2025 11:16:42 GMT"
-    },
-    {
-      "title": "Ukraine Launches Remote Military Medical Commissions and Unified Health Standards for Defense Forces - \u0411\u0443\u043a\u0432\u0438",
-      "pubDate": "Thu, 11 Sep 2025 14:09:49 GMT"
-    },
-    {
       "title": "Ukraine's strikingly cost-efficient drones are getting the $7 billion boost they need for mass production - Business Insider",
       "pubDate": "Fri, 12 Sep 2025 01:57:00 GMT"
     },
@@ -596,10 +588,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Emergency UN security council meeting convened after Russian drone incursion into Poland - The Guardian",
-      "pubDate": "Thu, 11 Sep 2025 15:26:00 GMT"
-    },
     {
       "title": "NATO isn\u2019t ready for Russia\u2019s drones - politico.eu",
       "pubDate": "Fri, 12 Sep 2025 03:20:00 GMT"
@@ -863,10 +851,6 @@
   ],
   "China": [
     {
-      "title": "Nasa bans Chinese nationals from working on its space programmes - BBC",
-      "pubDate": "Thu, 11 Sep 2025 10:34:01 GMT"
-    },
-    {
       "title": "China warns Mexico to 'think twice' before raising tariffs, threatens countermeasures - CNBC",
       "pubDate": "Fri, 12 Sep 2025 01:36:00 GMT"
     },
@@ -949,6 +933,10 @@
     {
       "title": "Trump puts extra 100% tariff on China imports, adds export controls on 'critical software' - CNBC",
       "pubDate": "Fri, 10 Oct 2025 20:57:18 GMT"
+    },
+    {
+      "title": "What are rare earth minerals, and why are they central to Trump\u2019s threats against China? - CNN",
+      "pubDate": "Sat, 11 Oct 2025 11:00:52 GMT"
     }
   ],
   "AI Safety": [
@@ -1129,6 +1117,10 @@
     {
       "title": "70,000 government ID photos exposed in Discord user hack - NBC News",
       "pubDate": "Thu, 09 Oct 2025 23:08:30 GMT"
+    },
+    {
+      "title": "Discord notifies 70,000 users after third-party data breach exposes government ID images - The Express Tribune",
+      "pubDate": "Sat, 11 Oct 2025 12:55:28 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1175,6 +1167,10 @@
     {
       "title": "US DoD Will Cut Back on Mandatory Cybersecurity Training - tech.co",
       "pubDate": "Mon, 06 Oct 2025 18:49:14 GMT"
+    },
+    {
+      "title": "Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts - The Hacker News",
+      "pubDate": "Sat, 11 Oct 2025 13:30:00 GMT"
     }
   ],
   "US Economy": [
@@ -1284,10 +1280,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "QuEra Boston Raises $230 Million With NVIDIA, Boosting Quantum Computing - Quantum Zeitgeist",
-      "pubDate": "Thu, 11 Sep 2025 16:25:59 GMT"
-    },
     {
       "title": "Quantum Computing Risk Could Force Bitcoin's Satoshi To Make A Comeback, Ethereum Treasury Co-CEO Says - Yahoo Finance",
       "pubDate": "Sat, 13 Sep 2025 14:00:54 GMT"
@@ -1519,10 +1511,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Ozone comeback? Report shows Earth\u2019s shield regaining strength - Homenewshere.com",
-      "pubDate": "Thu, 18 Sep 2025 16:59:10 GMT"
-    },
-    {
       "title": "Climate change is already driving heat mortality and massive economic losses - News-Medical",
       "pubDate": "Fri, 19 Sep 2025 00:07:00 GMT"
     },
@@ -1677,6 +1665,10 @@
     {
       "title": "As Trump Denies Climate Change, At Least 170 Hospitals Face Major Flood Risk - KFF Health News",
       "pubDate": "Fri, 10 Oct 2025 18:30:00 GMT"
+    },
+    {
+      "title": "Researchers find methane leaking out of cracks in Antarctic seabed - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Sat, 11 Oct 2025 10:07:11 GMT"
     }
   ],
   "Algorithms": [
@@ -1767,6 +1759,10 @@
     {
       "title": "Analysis: Shutdown strains US national security as weak links start to fail - WTOP",
       "pubDate": "Wed, 08 Oct 2025 00:43:42 GMT"
+    },
+    {
+      "title": "Trump critic and former national security adviser John Bolton to be charged soon, sources say - NBC News",
+      "pubDate": "Sat, 11 Oct 2025 14:22:00 GMT"
     }
   ],
   "North Korea": [
@@ -1875,6 +1871,10 @@
     {
       "title": "China\u2019s Massive Renewable Investments Reshape Global Energy Markets - WebProNews",
       "pubDate": "Sat, 04 Oct 2025 14:36:18 GMT"
+    },
+    {
+      "title": "\u2600\ufe0f Renewable energy surpasses coal in the global electricity mix - for the first time ever - warpnews.org",
+      "pubDate": "Sat, 11 Oct 2025 09:01:01 GMT"
     }
   ],
   "Climate": [
