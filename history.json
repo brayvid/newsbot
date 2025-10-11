@@ -427,6 +427,10 @@
     {
       "title": "Live updates: Israel and Hamas sign first phase of Gaza ceasefire deal that would release hostages - The Washington Post",
       "pubDate": "Thu, 09 Oct 2025 16:31:45 GMT"
+    },
+    {
+      "title": "Israel bombs Lebanon: IDF airstrikes along Musaylih Road kills 1; claims to target Hezbollah engineering - Times of India",
+      "pubDate": "Sat, 11 Oct 2025 04:11:00 GMT"
     }
   ],
   "Ukraine": [
@@ -585,6 +589,10 @@
     {
       "title": "Russian strikes cut power in Ukraine's capital, Kyiv - BBC",
       "pubDate": "Fri, 10 Oct 2025 06:56:44 GMT"
+    },
+    {
+      "title": "Putin's 37-minute shocker for west: Nuclear message, new weapon announcement| Ukraine| USA| NATO | Hindustan Times - Hindustan Times",
+      "pubDate": "Sat, 11 Oct 2025 04:04:12 GMT"
     }
   ],
   "Russia": [
@@ -1199,6 +1207,10 @@
     {
       "title": "Massive earthquakes in Philippines: What we know so far - Al Jazeera",
       "pubDate": "Fri, 10 Oct 2025 14:48:45 GMT"
+    },
+    {
+      "title": "Massive 7.8 Magnitude Earthquake Strikes Drake Passage Today: What We Know - Newsweek",
+      "pubDate": "Fri, 10 Oct 2025 21:03:00 GMT"
     }
   ],
   "Bitcoin": [
@@ -1507,10 +1519,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Scientists predict wildfire smoke will be the most costly climate-related health hazard - NBC News",
-      "pubDate": "Thu, 18 Sep 2025 15:12:42 GMT"
-    },
-    {
       "title": "Ozone comeback? Report shows Earth\u2019s shield regaining strength - Homenewshere.com",
       "pubDate": "Thu, 18 Sep 2025 16:59:10 GMT"
     },
@@ -1665,6 +1673,10 @@
     {
       "title": "Scientists seek to turbocharge a natural process that cools the Earth - The Washington Post",
       "pubDate": "Wed, 08 Oct 2025 16:35:59 GMT"
+    },
+    {
+      "title": "As Trump Denies Climate Change, At Least 170 Hospitals Face Major Flood Risk - KFF Health News",
+      "pubDate": "Fri, 10 Oct 2025 18:30:00 GMT"
     }
   ],
   "Algorithms": [
@@ -2043,6 +2055,10 @@
     {
       "title": "North Korea\u2019s Kim vows additional military measures ahead of major parade - Al Jazeera",
       "pubDate": "Sun, 05 Oct 2025 02:36:21 GMT"
+    },
+    {
+      "title": "As its ruling party turns 80, an emboldened Kim Jong Un shows off North Korea\u2019s new hypersonic weapon, ICBM - CNN",
+      "pubDate": "Sat, 11 Oct 2025 01:26:00 GMT"
     }
   ],
   "Animals": [
@@ -2247,6 +2263,18 @@
     {
       "title": "Qatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth says - CNBC",
       "pubDate": "Fri, 10 Oct 2025 19:39:40 GMT"
+    }
+  ],
+  "Geopolitics": [
+    {
+      "title": "China Intensifies AI Chip Crackdown: A New Era of Tech Self-Reliance and Geopolitical Division - FinancialContent",
+      "pubDate": "Fri, 10 Oct 2025 19:55:00 GMT"
+    }
+  ],
+  "US Treasury": [
+    {
+      "title": "These are the agencies Trump is purging during the shutdown - Axios",
+      "pubDate": "Sat, 11 Oct 2025 03:42:26 GMT"
     }
   ]
 }
