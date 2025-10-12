@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Meta Unveils Smart Glasses With Apps and an Artificial Intelligence Assistant - The New York Times",
-      "pubDate": "Thu, 18 Sep 2025 01:01:20 GMT"
-    },
-    {
       "title": "Italy first in EU to pass comprehensive law regulating use of AI - The Guardian",
       "pubDate": "Fri, 19 Sep 2025 01:30:00 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Fake videos of dead celebrities are going viral. Many of their families are horrified. - The Washington Post",
       "pubDate": "Sat, 11 Oct 2025 16:01:52 GMT"
+    },
+    {
+      "title": "Elon Musk Accuses Sam Altman's OpenAI of Misusing Its Nonprofit Status - Benzinga",
+      "pubDate": "Sat, 11 Oct 2025 19:27:22 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump news at a glance: president urges death penalty in Charlie Kirk killing, as widow says: \u2018we\u2019ll never surrender\u2019 - The Guardian",
-      "pubDate": "Sat, 13 Sep 2025 02:46:01 GMT"
-    },
     {
       "title": "U.C. Berkeley Gives Names of Students and Faculty to Government for Antisemitism Probe - The New York Times",
       "pubDate": "Sat, 13 Sep 2025 08:13:14 GMT"
@@ -321,13 +317,13 @@
     {
       "title": "Shutdown on track to extend into seventh day after funding proposals fail in Senate - CNN",
       "pubDate": "Tue, 07 Oct 2025 03:02:00 GMT"
+    },
+    {
+      "title": "Appeals Court Allows Trump to Keep Control of Illinois National Guard but Bars Deployment - Democracy Docket",
+      "pubDate": "Sat, 11 Oct 2025 19:51:41 GMT"
     }
   ],
   "Israel": [
-    {
-      "title": "UN Security Council members condemn Israel over deadly strike on Qatar - Al Jazeera",
-      "pubDate": "Thu, 11 Sep 2025 23:32:10 GMT"
-    },
     {
       "title": "UN overwhelmingly endorses declaration on two-state solution for Israel, Palestinians - Reuters",
       "pubDate": "Fri, 12 Sep 2025 15:12:34 GMT"
@@ -430,10 +426,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine's strikingly cost-efficient drones are getting the $7 billion boost they need for mass production - Business Insider",
-      "pubDate": "Fri, 12 Sep 2025 01:57:00 GMT"
-    },
     {
       "title": "Russian military casualties rise by 950 in war against Ukraine - Ukrinform",
       "pubDate": "Sat, 13 Sep 2025 06:28:00 GMT"
@@ -588,10 +580,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "NATO isn\u2019t ready for Russia\u2019s drones - politico.eu",
-      "pubDate": "Fri, 12 Sep 2025 03:20:00 GMT"
-    },
     {
       "title": "Russia just said what Ukraine has been trying to tell Trump for months: Peace talks are going nowhere fast - CNN",
       "pubDate": "Fri, 12 Sep 2025 14:52:12 GMT"
@@ -851,10 +839,6 @@
   ],
   "China": [
     {
-      "title": "China warns Mexico to 'think twice' before raising tariffs, threatens countermeasures - CNBC",
-      "pubDate": "Fri, 12 Sep 2025 01:36:00 GMT"
-    },
-    {
       "title": "China's economy slowdown deepens in August with retail sales, industrial output missing expectations - CNBC",
       "pubDate": "Mon, 15 Sep 2025 02:12:00 GMT"
     },
@@ -937,6 +921,10 @@
     {
       "title": "What are rare earth minerals, and why are they central to Trump\u2019s threats against China? - CNN",
       "pubDate": "Sat, 11 Oct 2025 11:00:52 GMT"
+    },
+    {
+      "title": "Philippines accuses China of ramming vessel near disputed island as tensions soar - Reuters",
+      "pubDate": "Sun, 12 Oct 2025 04:22:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1121,6 +1109,10 @@
     {
       "title": "Discord notifies 70,000 users after third-party data breach exposes government ID images - The Express Tribune",
       "pubDate": "Sat, 11 Oct 2025 12:55:28 GMT"
+    },
+    {
+      "title": "Qantas, Air India, Air France, and KLM Data Breach Exposes Millions of Customer Records, Raising Security Concerns in Airlines and Hospitality - Travel And Tour World",
+      "pubDate": "Sun, 12 Oct 2025 02:37:31 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1723,6 +1715,10 @@
     {
       "title": "AI Arms Race Accelerates as U.S. Reclaims Strategic Edge in Defense Technology - Yahoo Finance",
       "pubDate": "Fri, 10 Oct 2025 16:09:00 GMT"
+    },
+    {
+      "title": "Nvidia, AMD Stocks Tumble as U.S. Senate Targets AI Chip Exports to China - Yahoo",
+      "pubDate": "Sat, 11 Oct 2025 19:48:47 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -2171,6 +2167,10 @@
     {
       "title": "Medicare open enrollment nears as seniors weigh health care costs and coverage options - CBS News",
       "pubDate": "Tue, 07 Oct 2025 01:36:19 GMT"
+    },
+    {
+      "title": "Joe Biden receiving radiation therapy for prostate cancer, spokesman says - BBC",
+      "pubDate": "Sat, 11 Oct 2025 21:23:28 GMT"
     }
   ],
   "Physics": [
@@ -2267,6 +2267,10 @@
     {
       "title": "Qatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth says - CNBC",
       "pubDate": "Fri, 10 Oct 2025 19:39:40 GMT"
+    },
+    {
+      "title": "Arab states expanded cooperation with Israeli military during Gaza war, files show - The Washington Post",
+      "pubDate": "Sat, 11 Oct 2025 21:04:47 GMT"
     }
   ],
   "Geopolitics": [
