@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "U.C. Berkeley Gives Names of Students and Faculty to Government for Antisemitism Probe - The New York Times",
-      "pubDate": "Sat, 13 Sep 2025 08:13:14 GMT"
-    },
-    {
       "title": "Trump gave vastly different responses to Charlie Kirk's and Melissa Hortman's assassinations - MSNBC News",
       "pubDate": "Sat, 13 Sep 2025 11:59:07 GMT"
     },
@@ -321,13 +317,13 @@
     {
       "title": "Appeals Court Allows Trump to Keep Control of Illinois National Guard but Bars Deployment - Democracy Docket",
       "pubDate": "Sat, 11 Oct 2025 19:51:41 GMT"
+    },
+    {
+      "title": "Partisan shutdown standoff ignores key risk to US stability: rising national debt - Reuters",
+      "pubDate": "Sun, 12 Oct 2025 11:17:28 GMT"
     }
   ],
   "Israel": [
-    {
-      "title": "UN overwhelmingly endorses declaration on two-state solution for Israel, Palestinians - Reuters",
-      "pubDate": "Fri, 12 Sep 2025 15:12:34 GMT"
-    },
     {
       "title": "'We Took the Gloves Off': Former Israeli Military Chief Admits 220,000 Gaza Casualties - Common Dreams",
       "pubDate": "Sat, 13 Sep 2025 00:00:00 GMT"
@@ -581,10 +577,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia just said what Ukraine has been trying to tell Trump for months: Peace talks are going nowhere fast - CNN",
-      "pubDate": "Fri, 12 Sep 2025 14:52:12 GMT"
-    },
-    {
       "title": "Ukrainian long-range drones struck a major Russian oil port, causing a fire and disrupting key shipments - Business Insider",
       "pubDate": "Fri, 12 Sep 2025 20:37:00 GMT"
     },
@@ -694,14 +686,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump stands by as Putin and Netanyahu cross new lines - Axios",
-      "pubDate": "Fri, 12 Sep 2025 08:33:56 GMT"
-    },
-    {
-      "title": "Trump says Memphis is next target for National Guard crime crackdown - Politico",
-      "pubDate": "Fri, 12 Sep 2025 14:12:07 GMT"
-    },
     {
       "title": "Trump shelves Chicago crackdown plans for now as advisers warn of legal headaches - CNN",
       "pubDate": "Fri, 12 Sep 2025 22:45:18 GMT"
@@ -929,10 +913,6 @@
   ],
   "AI Safety": [
     {
-      "title": "This California bill will require transparency from AI companies. But will it actually prevent major disasters? - vox.com",
-      "pubDate": "Sat, 13 Sep 2025 15:55:00 GMT"
-    },
-    {
       "title": "New AI safety governance framework unveiled - China Daily - Global Edition",
       "pubDate": "Mon, 15 Sep 2025 12:17:04 GMT"
     },
@@ -1087,6 +1067,10 @@
     {
       "title": "A 3-person policy non-profit that worked on California's AI safety law is publicly accusing OpenAI of intimidation tactics - Fortune",
       "pubDate": "Fri, 10 Oct 2025 21:25:00 GMT"
+    },
+    {
+      "title": "Anthropic study reveals malicious data can easily sabotage AI models - Tech Edition",
+      "pubDate": "Sun, 12 Oct 2025 10:38:21 GMT"
     }
   ],
   "Data Breach": [
@@ -1116,10 +1100,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "AI for ATO: Pentagon seeks AI to streamline cumbersome cybersecurity processes - Breaking Defense",
-      "pubDate": "Fri, 12 Sep 2025 13:51:53 GMT"
-    },
     {
       "title": "Cyberattack hits check-in systems at some of Europe\u2019s busiest airports - Al Jazeera",
       "pubDate": "Sat, 20 Sep 2025 13:18:45 GMT"
@@ -1181,6 +1161,10 @@
     {
       "title": "Shutdown Pain Ripples Through US Economy With No Deal in Sight - Yahoo Finance",
       "pubDate": "Fri, 10 Oct 2025 09:00:00 GMT"
+    },
+    {
+      "title": "US economy may be living on borrowed time, not weathering tariffs - The Times",
+      "pubDate": "Sun, 12 Oct 2025 15:07:01 GMT"
     }
   ],
   "Earthquakes": [
@@ -1327,10 +1311,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel intensifies Gaza City strikes as many residents refuse evacuation - Reuters",
-      "pubDate": "Fri, 12 Sep 2025 14:46:52 GMT"
-    },
-    {
       "title": "Ex-IDF chief reveals Gaza casualties crossed the 200,000 mark, confirms no legal advice was sought during ops - Firstpost",
       "pubDate": "Sat, 13 Sep 2025 01:30:44 GMT"
     },
@@ -1461,13 +1441,13 @@
     {
       "title": "Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza - CNN",
       "pubDate": "Fri, 10 Oct 2025 15:51:00 GMT"
+    },
+    {
+      "title": "Gaza ceasefire live: Trump to meet with Israeli hostages after their release by Hamas on Monday, says Vance - The Guardian",
+      "pubDate": "Sun, 12 Oct 2025 07:44:00 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "Bitcoin price today: rises to $115k on rate cut cheer, but caution remains - Investing.com",
-      "pubDate": "Fri, 12 Sep 2025 06:33:56 GMT"
-    },
     {
       "title": "Bitcoin, Ethereum, XRP, Dogecoin Shine On Friday As Traders Fancy Weekend Altcoin Surge - uk.finance.yahoo.com",
       "pubDate": "Fri, 12 Sep 2025 19:37:03 GMT"
@@ -2071,6 +2051,10 @@
     {
       "title": "Ukraine\u2019s Sea Drones Are Now Launching Unjammable Fiber-Optic Drones - Forbes",
       "pubDate": "Mon, 06 Oct 2025 17:09:29 GMT"
+    },
+    {
+      "title": "Air Defense Forces destroy 103 out of 118 Russian drones overnight - Ukrinform",
+      "pubDate": "Sun, 12 Oct 2025 06:52:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -2289,6 +2273,12 @@
     {
       "title": "US issues travel alert for THIS popular travel destination, \u2018terrorists may hit shopping spots, tourist locations\u2019 - Mint",
       "pubDate": "Sat, 11 Oct 2025 14:32:50 GMT"
+    }
+  ],
+  "Computer Science": [
+    {
+      "title": "Quantum simulations that once needed supercomputers now run on laptops - ScienceDaily",
+      "pubDate": "Sun, 12 Oct 2025 05:13:50 GMT"
     }
   ]
 }
