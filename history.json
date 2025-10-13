@@ -325,10 +325,6 @@
   ],
   "Israel": [
     {
-      "title": "'We Took the Gloves Off': Former Israeli Military Chief Admits 220,000 Gaza Casualties - Common Dreams",
-      "pubDate": "Sat, 13 Sep 2025 00:00:00 GMT"
-    },
-    {
       "title": "Israel ramps up strikes on Gaza City and hospital says at least 32 are dead - NPR",
       "pubDate": "Sat, 13 Sep 2025 19:26:44 GMT"
     },
@@ -573,17 +569,13 @@
     {
       "title": "Ukraine-Russia war latest: Zelensky hails \u2018positive\u2019 talks with Trump after Moscow\u2019s attack on energy system - The Independent",
       "pubDate": "Sat, 11 Oct 2025 21:43:21 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Russia launched over 3,100 drones and almost 1,360 guided aerial bombs in a week; Ukraine liberated village in Zaporizhzhia Oblast - The Kyiv Independent",
+      "pubDate": "Sun, 12 Oct 2025 17:00:26 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Ukrainian long-range drones struck a major Russian oil port, causing a fire and disrupting key shipments - Business Insider",
-      "pubDate": "Fri, 12 Sep 2025 20:37:00 GMT"
-    },
-    {
-      "title": "Magnitude 7.1 earthquake strikes near east coast of Russia's Kamchatka region, GFZ says - Reuters",
-      "pubDate": "Sat, 13 Sep 2025 02:58:49 GMT"
-    },
     {
       "title": "Ukraine-Russia war live: US to defend \u2018every inch\u2019 as Russian drones enter Poland - The Independent",
       "pubDate": "Sat, 13 Sep 2025 07:48:07 GMT"
@@ -687,10 +679,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump shelves Chicago crackdown plans for now as advisers warn of legal headaches - CNN",
-      "pubDate": "Fri, 12 Sep 2025 22:45:18 GMT"
-    },
-    {
       "title": "Trump urges NATO countries stop buying Russian oil before US sanctions - Al Jazeera",
       "pubDate": "Sat, 13 Sep 2025 22:52:30 GMT"
     },
@@ -776,10 +764,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Nasdaq closes at record high, S&P 500 notches winning week as Fed decision looms - CNBC",
-      "pubDate": "Fri, 12 Sep 2025 20:15:00 GMT"
-    },
     {
       "title": "Stock market\u2019s relentless rally threatens to turn into a \u2018melt-up\u2019. What\u2019s next. - MarketWatch",
       "pubDate": "Sat, 13 Sep 2025 16:39:00 GMT"
@@ -1143,6 +1127,10 @@
     {
       "title": "Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts - The Hacker News",
       "pubDate": "Sat, 11 Oct 2025 13:30:00 GMT"
+    },
+    {
+      "title": "China is hacking America's critical infrastructure, former NSA and retired Gen. Tim Haugh warns - CBS News",
+      "pubDate": "Sun, 12 Oct 2025 23:30:00 GMT"
     }
   ],
   "US Economy": [
@@ -1239,6 +1227,10 @@
     {
       "title": "Europe\u2019s first full design of commercial fusion power plant unveiled by German firm - Interesting Engineering",
       "pubDate": "Thu, 09 Oct 2025 23:45:00 GMT"
+    },
+    {
+      "title": "Once the butt of jokes, now a great hope: The race for fusion energy - Australian Broadcasting Corporation",
+      "pubDate": "Sun, 12 Oct 2025 18:40:12 GMT"
     }
   ],
   "OpenAI": [
@@ -1307,13 +1299,13 @@
     {
       "title": "HSBC claims quantum trading breakthrough - Financial Times",
       "pubDate": "Thu, 25 Sep 2025 03:32:15 GMT"
+    },
+    {
+      "title": "China's superconducting quantum computer ready for commercial use - People's Daily",
+      "pubDate": "Mon, 13 Oct 2025 00:50:00 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "Ex-IDF chief reveals Gaza casualties crossed the 200,000 mark, confirms no legal advice was sought during ops - Firstpost",
-      "pubDate": "Sat, 13 Sep 2025 01:30:44 GMT"
-    },
     {
       "title": "U.S. senators accuse Israel of ethnic cleansing in Gaza after Middle East visit - WBFF",
       "pubDate": "Sat, 13 Sep 2025 22:06:10 GMT"
@@ -1449,14 +1441,6 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "Bitcoin, Ethereum, XRP, Dogecoin Shine On Friday As Traders Fancy Weekend Altcoin Surge - uk.finance.yahoo.com",
-      "pubDate": "Fri, 12 Sep 2025 19:37:03 GMT"
-    },
-    {
-      "title": "Institutional Tsunami: Billions Pour into Bitcoin as Spot ETFs Ignite a New Era for Cryptocurrency - FinancialContent",
-      "pubDate": "Fri, 12 Sep 2025 23:16:00 GMT"
-    },
-    {
       "title": "SEC Green Lights Cryptocurrency ETF and the Market's Wild Ride - OneSafe",
       "pubDate": "Fri, 19 Sep 2025 08:49:57 GMT"
     },
@@ -1478,10 +1462,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "\u2018Crisis of justice\u2019 as floods devastate: Pakistan\u2019s climate change minister - Al Jazeera",
-      "pubDate": "Fri, 19 Sep 2025 05:05:00 GMT"
-    },
     {
       "title": "Wildfire smoke is killing Americans. A new study quantifies how much - NPR",
       "pubDate": "Fri, 19 Sep 2025 09:00:00 GMT"
@@ -1637,6 +1617,10 @@
     {
       "title": "Hidden, supercharged 'thermostat' may cause Earth to overcorrect for climate change - Live Science",
       "pubDate": "Sat, 11 Oct 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Planet\u2019s first catastrophic climate tipping point reached, report says, with coral reefs facing \u2018widespread dieback\u2019 - The Guardian",
+      "pubDate": "Mon, 13 Oct 2025 01:30:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1650,10 +1634,6 @@
     }
   ],
   "Electric Vehicle": [
-    {
-      "title": "Stellantis cancels oft-delayed electric Ram 1500, cites slowing demand for segment - The Detroit News",
-      "pubDate": "Fri, 12 Sep 2025 20:29:19 GMT"
-    },
     {
       "title": "Tesla, GM lead record U.S. EV sales this year as federal incentives end - CNBC",
       "pubDate": "Fri, 03 Oct 2025 14:52:38 GMT"
@@ -1717,6 +1697,10 @@
     {
       "title": "Why Sam Altman thinks AGI will change work forever \u2014 and how AI agents could run billion\u2011dollar companies - Windows Central",
       "pubDate": "Thu, 09 Oct 2025 17:12:15 GMT"
+    },
+    {
+      "title": "Meta Debuts Superintelligence Labs: Scaling AI Infrastructure for AGI - WebProNews",
+      "pubDate": "Sun, 12 Oct 2025 23:05:29 GMT"
     }
   ],
   "National Security": [
@@ -1833,6 +1817,10 @@
     {
       "title": "Farm bankruptcies are soaring amid low crop prices, while Trump considers bailout of up to $14 billion - Fortune",
       "pubDate": "Sat, 04 Oct 2025 18:49:00 GMT"
+    },
+    {
+      "title": "Trump, Vance Open Door to China Deal as Trade Spat Drags On - Bloomberg.com",
+      "pubDate": "Sun, 12 Oct 2025 23:02:33 GMT"
     }
   ],
   "Renewable Energy": [
