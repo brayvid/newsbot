@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump gave vastly different responses to Charlie Kirk's and Melissa Hortman's assassinations - MSNBC News",
-      "pubDate": "Sat, 13 Sep 2025 11:59:07 GMT"
-    },
-    {
       "title": "People are getting fired for allegedly celebrating Charlie Kirk\u2019s murder. It looks like a coordinated effort - CNN",
       "pubDate": "Sat, 13 Sep 2025 19:39:45 GMT"
     },
@@ -419,10 +415,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russian military casualties rise by 950 in war against Ukraine - Ukrinform",
-      "pubDate": "Sat, 13 Sep 2025 06:28:00 GMT"
-    },
-    {
       "title": "Ukraine hits one of Russia's largest oil refining complexes with explosive drone attack - France 24",
       "pubDate": "Sat, 13 Sep 2025 17:04:43 GMT"
     },
@@ -576,14 +568,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Ukraine-Russia war live: US to defend \u2018every inch\u2019 as Russian drones enter Poland - The Independent",
-      "pubDate": "Sat, 13 Sep 2025 07:48:07 GMT"
-    },
-    {
-      "title": "Trump tells NATO members they must move first on Russia sanctions over Ukraine - NPR",
-      "pubDate": "Sat, 13 Sep 2025 14:05:36 GMT"
-    },
     {
       "title": "Drones Strike Russia\u2019s Major Export-Oriented Oil Refinery - Bloomberg.com",
       "pubDate": "Sun, 14 Sep 2025 08:26:24 GMT"
@@ -761,13 +745,13 @@
     {
       "title": "Trump administration issues layoff notices to more than 4,000 workers during government shutdown - BBC",
       "pubDate": "Sat, 11 Oct 2025 15:58:17 GMT"
+    },
+    {
+      "title": "Trump says Ukraine may get Tomahawk missiles to use against Russia - bbc.com",
+      "pubDate": "Mon, 13 Oct 2025 10:01:42 GMT"
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Stock market\u2019s relentless rally threatens to turn into a \u2018melt-up\u2019. What\u2019s next. - MarketWatch",
-      "pubDate": "Sat, 13 Sep 2025 16:39:00 GMT"
-    },
     {
       "title": "Fed meeting: What could come after interest rate cuts this week - Axios",
       "pubDate": "Mon, 15 Sep 2025 16:14:07 GMT"
@@ -803,6 +787,10 @@
     {
       "title": "Stock Market Today: Dow Drops 800 Points After Trump Threatens 'Massive' China Tariffs \u2014 Live Updates - The Wall Street Journal",
       "pubDate": "Fri, 10 Oct 2025 21:40:00 GMT"
+    },
+    {
+      "title": "Global financial system vulnerable to shocks amid recent stock market surge, Bank of England chief warns \u2013 as it happened - The Guardian",
+      "pubDate": "Mon, 13 Oct 2025 06:35:00 GMT"
     }
   ],
   "China": [
@@ -896,10 +884,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "New AI safety governance framework unveiled - China Daily - Global Edition",
-      "pubDate": "Mon, 15 Sep 2025 12:17:04 GMT"
-    },
     {
       "title": "Top AI companies have spent months working with US, UK governments on model safety - CyberScoop",
       "pubDate": "Mon, 15 Sep 2025 20:40:01 GMT"
@@ -1055,6 +1039,10 @@
     {
       "title": "Anthropic study reveals malicious data can easily sabotage AI models - Tech Edition",
       "pubDate": "Sun, 12 Oct 2025 10:38:21 GMT"
+    },
+    {
+      "title": "Gov. Newsom signs AI safety bill aimed at protecting children from chatbots - Los Angeles Times",
+      "pubDate": "Mon, 13 Oct 2025 14:06:13 GMT"
     }
   ],
   "Data Breach": [
@@ -1175,10 +1163,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Spot BTC ETFs attract $642M, ETH adds $406M amid \u2018rising confidence\u2019 - Cointelegraph",
-      "pubDate": "Sat, 13 Sep 2025 07:46:26 GMT"
-    },
-    {
       "title": "Gemini Stock ($GEMI) Surges 14% on IPO Debut; Winklevoss Brothers Predict $1M Bitcoin - CoinDesk",
       "pubDate": "Sat, 13 Sep 2025 23:20:00 GMT"
     },
@@ -1235,23 +1219,19 @@
   ],
   "OpenAI": [
     {
-      "title": "OpenAI Inks $300B Oracle Deal for 4.5GW AI Data Centers - WebProNews",
-      "pubDate": "Sat, 13 Sep 2025 12:46:03 GMT"
-    },
-    {
       "title": "OpenAI launch of video app Sora plagued by violent and racist images: \u2018The guardrails are not real\u2019 - The Guardian",
       "pubDate": "Sat, 04 Oct 2025 13:01:00 GMT"
     },
     {
       "title": "OpenAI valued at $500bn in employee share sale - Data Center Dynamics",
       "pubDate": "Sun, 05 Oct 2025 18:37:37 GMT"
+    },
+    {
+      "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators - OpenAI",
+      "pubDate": "Mon, 13 Oct 2025 13:05:17 GMT"
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Quantum Computing Risk Could Force Bitcoin's Satoshi To Make A Comeback, Ethereum Treasury Co-CEO Says - Yahoo Finance",
-      "pubDate": "Sat, 13 Sep 2025 14:00:54 GMT"
-    },
     {
       "title": "Rigetti sees quantum computers joining data centers within five years - digitimes",
       "pubDate": "Sun, 14 Sep 2025 02:56:06 GMT"
@@ -1463,10 +1443,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Wildfire smoke is killing Americans. A new study quantifies how much - NPR",
-      "pubDate": "Fri, 19 Sep 2025 09:00:00 GMT"
-    },
-    {
       "title": "Research Suggests Climate Change May Have Killed Over 16K in Europe This Summer - Truthout",
       "pubDate": "Fri, 19 Sep 2025 17:15:47 GMT"
     },
@@ -1621,6 +1597,10 @@
     {
       "title": "Planet\u2019s first catastrophic climate tipping point reached, report says, with coral reefs facing \u2018widespread dieback\u2019 - The Guardian",
       "pubDate": "Mon, 13 Oct 2025 01:30:00 GMT"
+    },
+    {
+      "title": "End of the world as we know it: Damning new report says Earth has reached its first climate \u2018tipping point\u2019 - The Independent",
+      "pubDate": "Mon, 13 Oct 2025 13:41:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1719,6 +1699,10 @@
     {
       "title": "Trump critic and former national security adviser John Bolton to be charged soon, sources say - NBC News",
       "pubDate": "Sat, 11 Oct 2025 14:22:00 GMT"
+    },
+    {
+      "title": "JPMorgan pledges $10 billion to US companies 'essential to national security' - Yahoo Finance",
+      "pubDate": "Mon, 13 Oct 2025 11:47:36 GMT"
     }
   ],
   "North Korea": [
@@ -1941,6 +1925,10 @@
     {
       "title": "The shutdown and CISA lapse expose new cracks in America\u2019s cyber defenses - Federal News Network",
       "pubDate": "Wed, 08 Oct 2025 16:12:29 GMT"
+    },
+    {
+      "title": "White House Fires 176 CISA Staff Amid Government Shutdown, Following Project 2025 Playbook - WinBuzzer",
+      "pubDate": "Mon, 13 Oct 2025 14:24:40 GMT"
     }
   ],
   "New York City": [
