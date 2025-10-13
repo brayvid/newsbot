@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "People are getting fired for allegedly celebrating Charlie Kirk\u2019s murder. It looks like a coordinated effort - CNN",
-      "pubDate": "Sat, 13 Sep 2025 19:39:45 GMT"
-    },
-    {
       "title": "Utah governor blames social media for fomenting US political violence - Financial Times",
       "pubDate": "Sun, 14 Sep 2025 17:13:12 GMT"
     },
@@ -317,17 +313,13 @@
     {
       "title": "Partisan shutdown standoff ignores key risk to US stability: rising national debt - Reuters",
       "pubDate": "Sun, 12 Oct 2025 11:17:28 GMT"
+    },
+    {
+      "title": "JoCo's ethics hotline is now more widely available to the public - Johnson County Post",
+      "pubDate": "Mon, 13 Oct 2025 16:45:42 GMT"
     }
   ],
   "Israel": [
-    {
-      "title": "Israel ramps up strikes on Gaza City and hospital says at least 32 are dead - NPR",
-      "pubDate": "Sat, 13 Sep 2025 19:26:44 GMT"
-    },
-    {
-      "title": "Netanyahu says killing Hamas leaders is route to ending Gaza war - Le Monde.fr",
-      "pubDate": "Sat, 13 Sep 2025 22:47:00 GMT"
-    },
     {
       "title": "Ahead of holidays, Israel warns of Iran-backed terror threats to Israelis and Jews abroad - The Times of Israel",
       "pubDate": "Sun, 14 Sep 2025 11:09:05 GMT"
@@ -414,10 +406,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine hits one of Russia's largest oil refining complexes with explosive drone attack - France 24",
-      "pubDate": "Sat, 13 Sep 2025 17:04:43 GMT"
-    },
     {
       "title": "Ukraine considers limiting mobile service to counter Russian drones - Reuters",
       "pubDate": "Sun, 14 Sep 2025 10:04:51 GMT"
@@ -663,10 +651,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump urges NATO countries stop buying Russian oil before US sanctions - Al Jazeera",
-      "pubDate": "Sat, 13 Sep 2025 22:52:30 GMT"
-    },
-    {
       "title": "Rather than unify the country after Kirk murder, Trump plays autocrat and stokes divisions | Trudy Rubin - Inquirer.com",
       "pubDate": "Sun, 14 Sep 2025 09:00:00 GMT"
     },
@@ -881,6 +865,10 @@
     {
       "title": "Philippines accuses China of ramming vessel near disputed island as tensions soar - Reuters",
       "pubDate": "Sun, 12 Oct 2025 04:22:00 GMT"
+    },
+    {
+      "title": "The US and China are about to launch the next front in their trade war - Politico",
+      "pubDate": "Mon, 13 Oct 2025 11:00:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1119,6 +1107,10 @@
     {
       "title": "China is hacking America's critical infrastructure, former NSA and retired Gen. Tim Haugh warns - CBS News",
       "pubDate": "Sun, 12 Oct 2025 23:30:00 GMT"
+    },
+    {
+      "title": "AI, Quantum Computing Bring New Cybersecurity Concerns for Financial Services - South China Morning Post",
+      "pubDate": "Mon, 13 Oct 2025 16:00:08 GMT"
     }
   ],
   "US Economy": [
@@ -1286,10 +1278,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "U.S. senators accuse Israel of ethnic cleansing in Gaza after Middle East visit - WBFF",
-      "pubDate": "Sat, 13 Sep 2025 22:06:10 GMT"
-    },
     {
       "title": "More Than 400,000 Flee Gaza City As Israel Pushes Ahead With Ground Invasion - Time Magazine",
       "pubDate": "Wed, 17 Sep 2025 17:24:56 GMT"
@@ -2031,6 +2019,10 @@
     {
       "title": "Air Defense Forces destroy 103 out of 118 Russian drones overnight - Ukrinform",
       "pubDate": "Sun, 12 Oct 2025 06:52:00 GMT"
+    },
+    {
+      "title": "Behind Russia\u2019s battlefield drone surge in Ukraine? Chinese factories. - The Washington Post",
+      "pubDate": "Mon, 13 Oct 2025 16:00:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -2061,6 +2053,10 @@
     {
       "title": "End of space news? NASA\u2019s website shuts down, no updates until govt funds space agency - WION",
       "pubDate": "Sun, 05 Oct 2025 08:10:00 GMT"
+    },
+    {
+      "title": "NASA unit JPL to lay off about 550 workers, citing restructure - CNBC",
+      "pubDate": "Mon, 13 Oct 2025 19:05:06 GMT"
     }
   ],
   "Microsoft": [
@@ -2169,6 +2165,10 @@
     {
       "title": "Denmark proposes banning social media for kids under 15 - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Wed, 08 Oct 2025 22:04:38 GMT"
+    },
+    {
+      "title": "Kids who use social media score lower on reading and memory tests, a study shows - NPR",
+      "pubDate": "Mon, 13 Oct 2025 15:01:00 GMT"
     }
   ],
   "Volcanoes": [
@@ -2255,6 +2255,12 @@
     {
       "title": "Quantum simulations that once needed supercomputers now run on laptops - ScienceDaily",
       "pubDate": "Sun, 12 Oct 2025 05:13:50 GMT"
+    }
+  ],
+  "Battery Technology": [
+    {
+      "title": "China imposes new export controls on lithium ion battery technology - ess-news.com",
+      "pubDate": "Mon, 13 Oct 2025 11:44:19 GMT"
     }
   ]
 }
