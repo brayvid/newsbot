@@ -407,10 +407,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine considers limiting mobile service to counter Russian drones - Reuters",
-      "pubDate": "Sun, 14 Sep 2025 10:04:51 GMT"
-    },
-    {
       "title": "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile - Al Jazeera",
       "pubDate": "Sun, 14 Sep 2025 13:47:01 GMT"
     },
@@ -561,10 +557,6 @@
   ],
   "Russia": [
     {
-      "title": "Drones Strike Russia\u2019s Major Export-Oriented Oil Refinery - Bloomberg.com",
-      "pubDate": "Sun, 14 Sep 2025 08:26:24 GMT"
-    },
-    {
       "title": "Russia Test Fires Hypersonic Missile on NATO's Arctic Doorstep - Newsweek",
       "pubDate": "Sun, 14 Sep 2025 16:11:19 GMT"
     },
@@ -651,13 +643,13 @@
     {
       "title": "Russia escalates warning as Trump considers sale of Tomahawks to Ukraine - The Washington Post",
       "pubDate": "Wed, 08 Oct 2025 21:33:59 GMT"
+    },
+    {
+      "title": "Russian aerial attack hits a Ukrainian hospital, days before Zelenskyy meets Trump - The Independent",
+      "pubDate": "Tue, 14 Oct 2025 10:29:00 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Rather than unify the country after Kirk murder, Trump plays autocrat and stokes divisions | Trudy Rubin - Inquirer.com",
-      "pubDate": "Sun, 14 Sep 2025 09:00:00 GMT"
-    },
     {
       "title": "Trump poised to fire US attorney for resisting effort to charge NY AG Letitia James: Sources - ABC News",
       "pubDate": "Fri, 19 Sep 2025 03:00:58 GMT"
@@ -885,10 +877,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Top AI companies have spent months working with US, UK governments on model safety - CyberScoop",
-      "pubDate": "Mon, 15 Sep 2025 20:40:01 GMT"
-    },
-    {
       "title": "Study finds safety features weaken when AI models are cut down for efficiency - TechRadar",
       "pubDate": "Mon, 15 Sep 2025 23:00:00 GMT"
     },
@@ -1043,6 +1031,10 @@
     {
       "title": "Gov. Newsom signs AI safety bill aimed at protecting children from chatbots - Los Angeles Times",
       "pubDate": "Mon, 13 Oct 2025 14:06:13 GMT"
+    },
+    {
+      "title": "Gov. Newsom signs AI safety bills, vetoes one after pushback from the tech industry - Los Angeles Times",
+      "pubDate": "Tue, 14 Oct 2025 01:23:07 GMT"
     }
   ],
   "Data Breach": [
@@ -1123,6 +1115,10 @@
     {
       "title": "AI, Quantum Computing Bring New Cybersecurity Concerns for Financial Services - South China Morning Post",
       "pubDate": "Mon, 13 Oct 2025 16:00:08 GMT"
+    },
+    {
+      "title": "European Commission, ENISA add GMV to EU Cybersecurity Reserve to boost response to critical cyber threats - Industrial Cyber",
+      "pubDate": "Tue, 14 Oct 2025 08:34:56 GMT"
     }
   ],
   "US Economy": [
@@ -1413,6 +1409,10 @@
     {
       "title": "Israeli hostages and Palestinian detainees released as mediators sign Trump\u2019s Gaza ceasefire deal - CNN",
       "pubDate": "Tue, 14 Oct 2025 03:19:00 GMT"
+    },
+    {
+      "title": "Israel-Gaza live updates: 5 Palestinians killed in Gaza City for alleged ceasefire violation, IDF says - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Tue, 14 Oct 2025 10:40:34 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1438,10 +1438,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Research Suggests Climate Change May Have Killed Over 16K in Europe This Summer - Truthout",
-      "pubDate": "Fri, 19 Sep 2025 17:15:47 GMT"
-    },
     {
       "title": "First treaty to protect marine life in high seas to take effect in January - Al Jazeera",
       "pubDate": "Sat, 20 Sep 2025 07:31:28 GMT"
@@ -1597,6 +1593,10 @@
     {
       "title": "End of the world as we know it: Damning new report says Earth has reached its first climate \u2018tipping point\u2019 - The Independent",
       "pubDate": "Mon, 13 Oct 2025 13:41:00 GMT"
+    },
+    {
+      "title": "Climate change is getting under our skin - The Week",
+      "pubDate": "Tue, 14 Oct 2025 06:00:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1630,10 +1630,6 @@
     }
   ],
   "United States": [
-    {
-      "title": "Trump is making a state visit to the U.K., the homeland of his immigrant mother - npr.org",
-      "pubDate": "Sun, 14 Sep 2025 09:03:00 GMT"
-    },
     {
       "title": "Trump begins historic state visit to UK amid pomp and protests - Reuters",
       "pubDate": "Wed, 17 Sep 2025 13:05:51 GMT"
@@ -1801,6 +1797,10 @@
     {
       "title": "Trump, Vance Open Door to China Deal as Trade Spat Drags On - Bloomberg.com",
       "pubDate": "Sun, 12 Oct 2025 23:02:33 GMT"
+    },
+    {
+      "title": "Trump Ramps Up Trade War as Tariffs on Lumber and Furniture Kick in - The New York Times",
+      "pubDate": "Tue, 14 Oct 2025 04:01:05 GMT"
     }
   ],
   "Renewable Energy": [
@@ -2171,6 +2171,10 @@
     {
       "title": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing? - MarketWatch",
       "pubDate": "Sat, 11 Oct 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Recession warning signs to watch: Goodbye lipstick, hello Hamburger Helper - The Washington Post",
+      "pubDate": "Tue, 14 Oct 2025 10:07:21 GMT"
     }
   ],
   "Social Media": [
