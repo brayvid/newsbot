@@ -321,10 +321,6 @@
   ],
   "Israel": [
     {
-      "title": "Ahead of holidays, Israel warns of Iran-backed terror threats to Israelis and Jews abroad - The Times of Israel",
-      "pubDate": "Sun, 14 Sep 2025 11:09:05 GMT"
-    },
-    {
       "title": "Javier Bardem Calls for \u201cIsrael to Stop This Genocide\u201d at 2025 Emmys - The Hollywood Reporter",
       "pubDate": "Mon, 15 Sep 2025 02:03:45 GMT"
     },
@@ -406,10 +402,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine targets key Russian oil refinery as Moscow tests hypersonic missile - Al Jazeera",
-      "pubDate": "Sun, 14 Sep 2025 13:47:01 GMT"
-    },
     {
       "title": "Ukraine plans 2026 budget with 18.4% deficit, PM says - Reuters",
       "pubDate": "Mon, 15 Sep 2025 15:42:42 GMT"
@@ -557,10 +549,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia Test Fires Hypersonic Missile on NATO's Arctic Doorstep - Newsweek",
-      "pubDate": "Sun, 14 Sep 2025 16:11:19 GMT"
-    },
-    {
       "title": "Russia holds major war games in Belarus amid NATO tensions - ABC News",
       "pubDate": "Mon, 15 Sep 2025 13:52:30 GMT"
     },
@@ -647,6 +635,10 @@
     {
       "title": "Russian aerial attack hits a Ukrainian hospital, days before Zelenskyy meets Trump - The Independent",
       "pubDate": "Tue, 14 Oct 2025 10:29:00 GMT"
+    },
+    {
+      "title": "Russia Steps Up Assault on Antiwar Exiles, Accusing Them of Terrorism - The New York Times",
+      "pubDate": "Tue, 14 Oct 2025 12:48:14 GMT"
     }
   ],
   "Donald Trump": [
@@ -1413,6 +1405,10 @@
     {
       "title": "Israel-Gaza live updates: 5 Palestinians killed in Gaza City for alleged ceasefire violation, IDF says - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 14 Oct 2025 10:40:34 GMT"
+    },
+    {
+      "title": "LIVE: Israel shoots dead at least 9 Palestinians in Gaza despite ceasefire - Al Jazeera",
+      "pubDate": "Tue, 14 Oct 2025 10:04:44 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -2011,6 +2007,10 @@
     {
       "title": "As its ruling party turns 80, an emboldened Kim Jong Un shows off North Korea\u2019s new hypersonic weapon, ICBM - CNN",
       "pubDate": "Sat, 11 Oct 2025 01:26:00 GMT"
+    },
+    {
+      "title": "South Korea builds civilian nuclear bunker as fears of North harden - The Times",
+      "pubDate": "Tue, 14 Oct 2025 13:45:36 GMT"
     }
   ],
   "Animals": [
@@ -2283,6 +2283,12 @@
     {
       "title": "China infrastructure hacks are 'unrestricted warfare' against America, former NSA director says - Washington Times",
       "pubDate": "Mon, 13 Oct 2025 20:34:51 GMT"
+    }
+  ],
+  "Investment": [
+    {
+      "title": "IMF says AI investment bubble could burst, comparable to dot-com bubble - Al Jazeera",
+      "pubDate": "Tue, 14 Oct 2025 15:29:30 GMT"
     }
   ]
 }
