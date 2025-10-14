@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Italy first in EU to pass comprehensive law regulating use of AI - The Guardian",
-      "pubDate": "Fri, 19 Sep 2025 01:30:00 GMT"
-    },
-    {
       "title": "New book claims superintelligent AI development is racing toward global catastrophe - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Fri, 19 Sep 2025 18:00:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Elon Musk Accuses Sam Altman's OpenAI of Misusing Its Nonprofit Status - Benzinga",
       "pubDate": "Sat, 11 Oct 2025 19:27:22 GMT"
+    },
+    {
+      "title": "Analysis | China now leads the U.S. in this key part of the AI race - The Washington Post",
+      "pubDate": "Mon, 13 Oct 2025 17:05:00 GMT"
     }
   ],
   "US Politics": [
@@ -553,6 +553,10 @@
     {
       "title": "Ukraine war latest: Russia launched over 3,100 drones and almost 1,360 guided aerial bombs in a week; Ukraine liberated village in Zaporizhzhia Oblast - The Kyiv Independent",
       "pubDate": "Sun, 12 Oct 2025 17:00:26 GMT"
+    },
+    {
+      "title": "Ukraine live: Zelensky to discuss long-range missiles with Trump \u2018for sake of peace\u2019 - The Independent",
+      "pubDate": "Tue, 14 Oct 2025 04:51:29 GMT"
     }
   ],
   "Russia": [
@@ -733,6 +737,10 @@
     {
       "title": "Trump says Ukraine may get Tomahawk missiles to use against Russia - bbc.com",
       "pubDate": "Mon, 13 Oct 2025 10:01:42 GMT"
+    },
+    {
+      "title": "LIVE: Trump signs Gaza ceasefire deal with leaders of Qatar, Egypt, Turkiye - Al Jazeera",
+      "pubDate": "Tue, 14 Oct 2025 00:09:44 GMT"
     }
   ],
   "Financial Markets": [
@@ -869,6 +877,10 @@
     {
       "title": "The US and China are about to launch the next front in their trade war - Politico",
       "pubDate": "Mon, 13 Oct 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Western companies rush to respond to China\u2019s rare-earth restrictions - Financial Times",
+      "pubDate": "Tue, 14 Oct 2025 03:44:54 GMT"
     }
   ],
   "AI Safety": [
@@ -1155,10 +1167,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Gemini Stock ($GEMI) Surges 14% on IPO Debut; Winklevoss Brothers Predict $1M Bitcoin - CoinDesk",
-      "pubDate": "Sat, 13 Sep 2025 23:20:00 GMT"
-    },
-    {
       "title": "Giant Trump statue holding Bitcoin displayed outside US Capitol to mark Fed rate decision - WJLA",
       "pubDate": "Wed, 17 Sep 2025 16:15:54 GMT"
     },
@@ -1224,10 +1232,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Rigetti sees quantum computers joining data centers within five years - digitimes",
-      "pubDate": "Sun, 14 Sep 2025 02:56:06 GMT"
-    },
     {
       "title": "UK start-up builds first quantum computer using standard chips - The Times",
       "pubDate": "Sun, 14 Sep 2025 23:01:00 GMT"
@@ -1405,6 +1409,10 @@
     {
       "title": "Gaza ceasefire live: Trump to meet with Israeli hostages after their release by Hamas on Monday, says Vance - The Guardian",
       "pubDate": "Sun, 12 Oct 2025 07:44:00 GMT"
+    },
+    {
+      "title": "Israeli hostages and Palestinian detainees released as mediators sign Trump\u2019s Gaza ceasefire deal - CNN",
+      "pubDate": "Tue, 14 Oct 2025 03:19:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1893,6 +1901,10 @@
     {
       "title": "Live updates: Government shutdown reaches tenth day, Congress still deadlocked on funding plan | CNN Politics - CNN",
       "pubDate": "Fri, 10 Oct 2025 15:40:00 GMT"
+    },
+    {
+      "title": "Government shutdown poised to enter a third week as Congress remains at stalemate - CBS News",
+      "pubDate": "Tue, 14 Oct 2025 00:11:00 GMT"
     }
   ],
   "SpaceX": [
@@ -2261,6 +2273,12 @@
     {
       "title": "China imposes new export controls on lithium ion battery technology - ess-news.com",
       "pubDate": "Mon, 13 Oct 2025 11:44:19 GMT"
+    }
+  ],
+  "National Security Agency": [
+    {
+      "title": "China infrastructure hacks are 'unrestricted warfare' against America, former NSA director says - Washington Times",
+      "pubDate": "Mon, 13 Oct 2025 20:34:51 GMT"
     }
   ]
 }
