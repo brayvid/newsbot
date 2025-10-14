@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "New book claims superintelligent AI development is racing toward global catastrophe - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Fri, 19 Sep 2025 18:00:00 GMT"
-    },
-    {
       "title": "OpenAI says ChatGPT might require age verification someday - Mashable",
       "pubDate": "Fri, 19 Sep 2025 21:56:15 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "Analysis | China now leads the U.S. in this key part of the AI race - The Washington Post",
       "pubDate": "Mon, 13 Oct 2025 17:05:00 GMT"
+    },
+    {
+      "title": "OpenAI Forms Council to Facilitate \u2018Healthy Interactions With AI\u2019 - PYMNTS.com",
+      "pubDate": "Tue, 14 Oct 2025 22:15:34 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Utah governor blames social media for fomenting US political violence - Financial Times",
-      "pubDate": "Sun, 14 Sep 2025 17:13:12 GMT"
-    },
     {
       "title": "Trump vows national emergency in Washington, DC over ICE dispute - Reuters",
       "pubDate": "Mon, 15 Sep 2025 17:40:13 GMT"
@@ -767,6 +763,10 @@
     {
       "title": "Global financial system vulnerable to shocks amid recent stock market surge, Bank of England chief warns \u2013 as it happened - The Guardian",
       "pubDate": "Mon, 13 Oct 2025 06:35:00 GMT"
+    },
+    {
+      "title": "IMF warns on $4.5tn bank exposure to hedge funds and private credit - Financial Times",
+      "pubDate": "Tue, 14 Oct 2025 14:15:08 GMT"
     }
   ],
   "China": [
@@ -1177,6 +1177,10 @@
     {
       "title": "Bitcoin price surges to all-time high of $125,700 - Yahoo Finance",
       "pubDate": "Sun, 05 Oct 2025 05:37:51 GMT"
+    },
+    {
+      "title": "DOJ seizes $15 billion in bitcoin from massive 'pig butchering' scam based in Cambodia - CNBC",
+      "pubDate": "Tue, 14 Oct 2025 15:04:12 GMT"
     }
   ],
   "Fusion Power": [
@@ -1220,10 +1224,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "UK start-up builds first quantum computer using standard chips - The Times",
-      "pubDate": "Sun, 14 Sep 2025 23:01:00 GMT"
-    },
     {
       "title": "British Startup Installs New York City\u2019s First Quantum Computer - Bloomberg.com",
       "pubDate": "Mon, 15 Sep 2025 18:14:01 GMT"
@@ -2059,6 +2059,10 @@
     {
       "title": "Trump pledged to make D.C. \u2018safe and beautiful.\u2019 His administration cut $40M in homeland security funds. - The Washington Post",
       "pubDate": "Fri, 10 Oct 2025 18:17:06 GMT"
+    },
+    {
+      "title": "Cartels issuing bounties up to $50,000 for hits on ICE, CBP agents: DHS - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Tue, 14 Oct 2025 19:42:58 GMT"
     }
   ],
   "NASA": [
@@ -2289,6 +2293,18 @@
     {
       "title": "IMF says AI investment bubble could burst, comparable to dot-com bubble - Al Jazeera",
       "pubDate": "Tue, 14 Oct 2025 15:29:30 GMT"
+    }
+  ],
+  "India": [
+    {
+      "title": "US-India expert who advised US administrations arrested over secret documents - Reuters",
+      "pubDate": "Tue, 14 Oct 2025 21:21:12 GMT"
+    }
+  ],
+  "United Nations": [
+    {
+      "title": "UN says countries are willing to help fund Gaza's $70 bln reconstruction - Reuters",
+      "pubDate": "Tue, 14 Oct 2025 21:45:04 GMT"
     }
   ]
 }
