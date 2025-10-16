@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI says ChatGPT might require age verification someday - Mashable",
-      "pubDate": "Fri, 19 Sep 2025 21:56:15 GMT"
-    },
-    {
       "title": "Americans Want AI's Benefits But Fear Losing What Makes Them Human: Survey - Decrypt",
       "pubDate": "Sat, 20 Sep 2025 20:50:37 GMT"
     },
@@ -159,17 +155,13 @@
     {
       "title": "OpenAI Forms Council to Facilitate \u2018Healthy Interactions With AI\u2019 - PYMNTS.com",
       "pubDate": "Tue, 14 Oct 2025 22:15:34 GMT"
+    },
+    {
+      "title": "Building smarter AI agents: AgentCore long-term memory deep dive - Amazon Web Services",
+      "pubDate": "Wed, 15 Oct 2025 18:22:57 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump vows national emergency in Washington, DC over ICE dispute - Reuters",
-      "pubDate": "Mon, 15 Sep 2025 17:40:13 GMT"
-    },
-    {
-      "title": "Trump\u2019s cherry-picked claims on political violence ignore his own rhetoric - CNN",
-      "pubDate": "Mon, 15 Sep 2025 20:52:52 GMT"
-    },
     {
       "title": "Americans believe harsh political rhetoric is fueling violence, Reuters/Ipsos poll finds - Reuters",
       "pubDate": "Tue, 16 Sep 2025 10:17:40 GMT"
@@ -317,10 +309,6 @@
   ],
   "Israel": [
     {
-      "title": "Spain cancels major arms deal with Israel amid Gaza backlash - The Times of Israel",
-      "pubDate": "Mon, 15 Sep 2025 19:41:15 GMT"
-    },
-    {
       "title": "UN inquiry finds top Israeli officials incited genocide in Gaza - Reuters",
       "pubDate": "Tue, 16 Sep 2025 12:48:20 GMT"
     },
@@ -390,10 +378,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russian occupiers brought death and intimidation to Kherson: Ukrainian teen - Al Jazeera",
-      "pubDate": "Tue, 16 Sep 2025 00:33:45 GMT"
-    },
     {
       "title": "Ukraine\u2019s skies are Europe\u2019s first line of defense against Russian drones - Atlantic Council",
       "pubDate": "Tue, 16 Sep 2025 21:01:00 GMT"
@@ -533,13 +517,13 @@
     {
       "title": "Ukraine discusses new four-year lending program with IMF chief, PM says - Reuters",
       "pubDate": "Wed, 15 Oct 2025 15:32:45 GMT"
+    },
+    {
+      "title": "Ukraine Wants Tomahawks. Trump Has to Decide if They Would Help End the War. - The Wall Street Journal",
+      "pubDate": "Thu, 16 Oct 2025 03:00:00 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Ukrainian children have been taken to more than 200 facilities in Russia, new report finds - NBC News",
-      "pubDate": "Tue, 16 Sep 2025 04:01:00 GMT"
-    },
     {
       "title": "Russia launches cruise missiles in Zapad 2025 military drills with Belarus - Al Jazeera",
       "pubDate": "Tue, 16 Sep 2025 12:56:15 GMT"
@@ -717,10 +701,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "RBC Capital raises year-end S&P 500 target, but sees \u2018choppy\u2019 action after big rally - CNBC",
-      "pubDate": "Mon, 15 Sep 2025 17:19:16 GMT"
-    },
-    {
       "title": "Markets didn\u2019t know which way to go after Wednesday\u2019s Fed rate cut. Expect more volatility ahead. - MarketWatch",
       "pubDate": "Wed, 17 Sep 2025 20:49:00 GMT"
     },
@@ -849,13 +829,13 @@
     {
       "title": "Trump administration will set price floors across range of industries to combat China, Bessent says - CNBC",
       "pubDate": "Wed, 15 Oct 2025 13:26:37 GMT"
+    },
+    {
+      "title": "America and China head towards mutually assured disruption - The Economist",
+      "pubDate": "Wed, 15 Oct 2025 20:24:08 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Study finds safety features weaken when AI models are cut down for efficiency - TechRadar",
-      "pubDate": "Mon, 15 Sep 2025 23:00:00 GMT"
-    },
     {
       "title": "AI Pruning Triggers Safety Forgetting, Risks Harm in Devices - WebProNews",
       "pubDate": "Tue, 16 Sep 2025 12:46:14 GMT"
@@ -1213,10 +1193,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "British Startup Installs New York City\u2019s First Quantum Computer - Bloomberg.com",
-      "pubDate": "Mon, 15 Sep 2025 18:14:01 GMT"
-    },
-    {
       "title": "Rigetti Stock Rises 14% After Landing Air Force Award. Quantum Stocks Jump. - Barron's",
       "pubDate": "Thu, 18 Sep 2025 15:32:00 GMT"
     },
@@ -1401,6 +1377,10 @@
     {
       "title": "LIVE: Israel accused of new war crimes as it kills more Gaza civilians - Al Jazeera",
       "pubDate": "Wed, 15 Oct 2025 12:09:58 GMT"
+    },
+    {
+      "title": "With Truce in Place, Hamas Pursues Bloody Crackdown on Rivals in Gaza - The New York Times",
+      "pubDate": "Wed, 15 Oct 2025 18:56:21 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1426,10 +1406,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "First treaty to protect marine life in high seas to take effect in January - Al Jazeera",
-      "pubDate": "Sat, 20 Sep 2025 07:31:28 GMT"
-    },
     {
       "title": "\u2018Something is working\u2019: UN climate chief optimistic about green transition - The Guardian",
       "pubDate": "Sat, 20 Sep 2025 07:00:00 GMT"
@@ -1585,6 +1561,10 @@
     {
       "title": "Climate change is getting under our skin - The Week",
       "pubDate": "Tue, 14 Oct 2025 06:00:00 GMT"
+    },
+    {
+      "title": "UN agency: CO2 levels hit record high last year, causing more extreme weather - PBS",
+      "pubDate": "Wed, 15 Oct 2025 21:28:11 GMT"
     }
   ],
   "Algorithms": [
@@ -1624,10 +1604,6 @@
     }
   ],
   "Technology": [
-    {
-      "title": "Google releases VaultGemma, its first privacy-preserving LLM - Ars Technica",
-      "pubDate": "Mon, 15 Sep 2025 21:04:04 GMT"
-    },
     {
       "title": "Nvidia just spent over $900 million to hire Enfabrica CEO, license AI startup's technology - CNBC",
       "pubDate": "Thu, 18 Sep 2025 22:23:04 GMT"
@@ -1793,6 +1769,10 @@
     {
       "title": "Trump Ramps Up Trade War as Tariffs on Lumber and Furniture Kick in - The New York Times",
       "pubDate": "Tue, 14 Oct 2025 04:01:05 GMT"
+    },
+    {
+      "title": "Trump says 'We're in one now' about a trade war with China - USA Today",
+      "pubDate": "Wed, 15 Oct 2025 23:18:45 GMT"
     }
   ],
   "Renewable Energy": [
