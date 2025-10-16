@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Americans believe harsh political rhetoric is fueling violence, Reuters/Ipsos poll finds - Reuters",
-      "pubDate": "Tue, 16 Sep 2025 10:17:40 GMT"
-    },
-    {
       "title": "Raw emotion rages on Capitol Hill as lawmakers grapple with Charlie Kirk's killing - NBC News",
       "pubDate": "Wed, 17 Sep 2025 00:48:00 GMT"
     },
@@ -305,6 +301,10 @@
     {
       "title": "JoCo's ethics hotline is now more widely available to the public - Johnson County Post",
       "pubDate": "Mon, 13 Oct 2025 16:45:42 GMT"
+    },
+    {
+      "title": "Trump Administration Authorizes Covert C.I.A. Action in Venezuela - The New York Times",
+      "pubDate": "Thu, 16 Oct 2025 08:45:00 GMT"
     }
   ],
   "Israel": [
@@ -1101,6 +1101,10 @@
     {
       "title": "As US shutdown starts to bite, how much could it hit economy? - BBC",
       "pubDate": "Wed, 15 Oct 2025 14:15:05 GMT"
+    },
+    {
+      "title": "Shutdown could cost US economy $15 billion a week, Treasury says - Reuters",
+      "pubDate": "Thu, 16 Oct 2025 01:58:59 GMT"
     }
   ],
   "Earthquakes": [
@@ -1407,10 +1411,6 @@
   ],
   "Climate Change": [
     {
-      "title": "\u2018Something is working\u2019: UN climate chief optimistic about green transition - The Guardian",
-      "pubDate": "Sat, 20 Sep 2025 07:00:00 GMT"
-    },
-    {
       "title": "National parks remove signs about climate, slavery and Japanese internment - The Washington Post",
       "pubDate": "Sat, 20 Sep 2025 17:00:15 GMT"
     },
@@ -1565,6 +1565,10 @@
     {
       "title": "UN agency: CO2 levels hit record high last year, causing more extreme weather - PBS",
       "pubDate": "Wed, 15 Oct 2025 21:28:11 GMT"
+    },
+    {
+      "title": "Climate study finds overheating world will add 57 superhot days a year - Al Jazeera",
+      "pubDate": "Thu, 16 Oct 2025 07:27:51 GMT"
     }
   ],
   "Algorithms": [
@@ -1913,6 +1917,10 @@
     {
       "title": "NASA lasers confirm Earth is losing landmass to rising seas much more quickly than we thought - Earth.com",
       "pubDate": "Wed, 01 Oct 2025 16:05:38 GMT"
+    },
+    {
+      "title": "Breakthrough: Scientists Create 'Universal' Kidney To Match Any Blood Type - ScienceAlert",
+      "pubDate": "Thu, 16 Oct 2025 00:33:45 GMT"
     }
   ],
   "Elon Musk": [
@@ -1955,6 +1963,10 @@
     {
       "title": "Blue Origin reveals space tourists to launch on next New Shepard rocket - Space",
       "pubDate": "Fri, 03 Oct 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Moon's largest crater harbors secret on south pole where NASA astronauts will land - USA Today",
+      "pubDate": "Thu, 16 Oct 2025 09:09:07 GMT"
     }
   ],
   "Tesla": [
@@ -2233,6 +2245,10 @@
     {
       "title": "China Intensifies AI Chip Crackdown: A New Era of Tech Self-Reliance and Geopolitical Division - FinancialContent",
       "pubDate": "Fri, 10 Oct 2025 19:55:00 GMT"
+    },
+    {
+      "title": "Potentially \u2018Catastrophic\u2019 Breach of Cyber Firm Blamed on China - Bloomberg.com",
+      "pubDate": "Thu, 16 Oct 2025 02:00:00 GMT"
     }
   ],
   "US Treasury": [
@@ -2281,6 +2297,12 @@
     {
       "title": "UN says countries are willing to help fund Gaza's $70 bln reconstruction - Reuters",
       "pubDate": "Tue, 14 Oct 2025 21:45:04 GMT"
+    }
+  ],
+  "AI": [
+    {
+      "title": "Milestone for AI in science: Google AI generates cancer hypothesis later validated by scientists, says Su - The Times of India",
+      "pubDate": "Thu, 16 Oct 2025 08:19:00 GMT"
     }
   ]
 }
