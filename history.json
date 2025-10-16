@@ -313,10 +313,6 @@
   ],
   "Israel": [
     {
-      "title": "Scoop: Israel presented Syria with proposal for new security agreement - Axios",
-      "pubDate": "Tue, 16 Sep 2025 19:53:40 GMT"
-    },
-    {
       "title": "Crisis engulfs Eurovision over Israel and Gaza - politico.eu",
       "pubDate": "Wed, 17 Sep 2025 02:06:42 GMT"
     },
@@ -378,10 +374,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine\u2019s skies are Europe\u2019s first line of defense against Russian drones - Atlantic Council",
-      "pubDate": "Tue, 16 Sep 2025 21:01:00 GMT"
-    },
     {
       "title": "Ukraine expects $3.5 billion fund for US weapons to sustain fight against Russia, Zelenskyy says - AP News",
       "pubDate": "Wed, 17 Sep 2025 16:01:00 GMT"
@@ -525,6 +517,10 @@
     {
       "title": "After Putin summit, Trump changed his mind on supporting Ukraine\u2019s strikes on Russian energy targets, sources say - CNN",
       "pubDate": "Thu, 16 Oct 2025 16:11:38 GMT"
+    },
+    {
+      "title": "Trump says he will meet Putin in Hungary for Ukraine talks after 'very productive' phone call - BBC",
+      "pubDate": "Thu, 16 Oct 2025 20:23:39 GMT"
     }
   ],
   "Russia": [
@@ -1013,6 +1009,10 @@
     {
       "title": "Qantas, Air India, Air France, and KLM Data Breach Exposes Millions of Customer Records, Raising Security Concerns in Airlines and Hospitality - Travel And Tour World",
       "pubDate": "Sun, 12 Oct 2025 02:37:31 GMT"
+    },
+    {
+      "title": "Federal agencies warned of \"imminent risk\" after possible data breach - CBS News",
+      "pubDate": "Thu, 16 Oct 2025 14:22:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1777,6 +1777,10 @@
     {
       "title": "Trump says 'We're in one now' about a trade war with China - USA Today",
       "pubDate": "Wed, 15 Oct 2025 23:18:45 GMT"
+    },
+    {
+      "title": "US-China Trade War Boils Over and Gets Personal - Bloomberg.com",
+      "pubDate": "Thu, 16 Oct 2025 11:00:12 GMT"
     }
   ],
   "Renewable Energy": [
@@ -2035,12 +2039,20 @@
     {
       "title": "EU proposes 'flagship' defence projects to counter drones, protect eastern border - Reuters",
       "pubDate": "Thu, 16 Oct 2025 14:42:39 GMT"
+    },
+    {
+      "title": "North Korean soldiers are flying drones for Russia and directing strikes in Ukraine, Kyiv says - Business Insider",
+      "pubDate": "Thu, 16 Oct 2025 16:05:00 GMT"
     }
   ],
   "Federal Reserve": [
     {
       "title": "USD News Today: US Dollar Surges as Federal Reserve Signals Prolonged Interest Rates - Meyka",
       "pubDate": "Sat, 04 Oct 2025 15:09:51 GMT"
+    },
+    {
+      "title": "Fed's Waller on board for an October rate cut, as Miran again presses for aggressive easing - Reuters",
+      "pubDate": "Thu, 16 Oct 2025 18:45:14 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -2079,6 +2091,10 @@
     {
       "title": "This CEO quit Microsoft in 90s to join a \u2018tiny\u2019 startup, Amazon; shares how Jeff Bezos convinced him to make the move - The Indian Express",
       "pubDate": "Sun, 05 Oct 2025 06:14:19 GMT"
+    },
+    {
+      "title": "Microsoft: Russia, China increasingly using AI to escalate cyberattacks on the US - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Thu, 16 Oct 2025 14:53:49 GMT"
     }
   ],
   "Infrastructure": [
@@ -2315,6 +2331,12 @@
     {
       "title": "Milestone for AI in science: Google AI generates cancer hypothesis later validated by scientists, says Su - The Times of India",
       "pubDate": "Thu, 16 Oct 2025 08:19:00 GMT"
+    }
+  ],
+  "Earth's Atmosphere": [
+    {
+      "title": "Carbon dioxide in atmosphere reaches new high, U.N. report says - AccuWeather",
+      "pubDate": "Thu, 16 Oct 2025 15:15:30 GMT"
     }
   ]
 }
