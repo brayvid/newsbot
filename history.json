@@ -305,13 +305,13 @@
     {
       "title": "Trump Administration Authorizes Covert C.I.A. Action in Venezuela - The New York Times",
       "pubDate": "Thu, 16 Oct 2025 08:45:00 GMT"
+    },
+    {
+      "title": "White House Set to Announce Proposal Seeking to Make I.V.F. More Accessible - The New York Times",
+      "pubDate": "Thu, 16 Oct 2025 16:49:40 GMT"
     }
   ],
   "Israel": [
-    {
-      "title": "UN inquiry finds top Israeli officials incited genocide in Gaza - Reuters",
-      "pubDate": "Tue, 16 Sep 2025 12:48:20 GMT"
-    },
     {
       "title": "Scoop: Israel presented Syria with proposal for new security agreement - Axios",
       "pubDate": "Tue, 16 Sep 2025 19:53:40 GMT"
@@ -521,13 +521,13 @@
     {
       "title": "Ukraine Wants Tomahawks. Trump Has to Decide if They Would Help End the War. - The Wall Street Journal",
       "pubDate": "Thu, 16 Oct 2025 03:00:00 GMT"
+    },
+    {
+      "title": "After Putin summit, Trump changed his mind on supporting Ukraine\u2019s strikes on Russian energy targets, sources say - CNN",
+      "pubDate": "Thu, 16 Oct 2025 16:11:38 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Russia launches cruise missiles in Zapad 2025 military drills with Belarus - Al Jazeera",
-      "pubDate": "Tue, 16 Sep 2025 12:56:15 GMT"
-    },
     {
       "title": "Russia is ready to deepen discussions with the U.S. on Sakhalin 1 project, RIA reports - Reuters",
       "pubDate": "Wed, 17 Sep 2025 07:35:47 GMT"
@@ -833,17 +833,13 @@
     {
       "title": "America and China head towards mutually assured disruption - The Economist",
       "pubDate": "Wed, 15 Oct 2025 20:24:08 GMT"
+    },
+    {
+      "title": "MI5 chief 'frustrated' over collapse of China spy case - BBC",
+      "pubDate": "Thu, 16 Oct 2025 14:24:16 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI Pruning Triggers Safety Forgetting, Risks Harm in Devices - WebProNews",
-      "pubDate": "Tue, 16 Sep 2025 12:46:14 GMT"
-    },
-    {
-      "title": "AI Titans at War: Inside OpenAI, Google, Meta and the Race to Build AGI - ts2.tech",
-      "pubDate": "Tue, 16 Sep 2025 15:38:32 GMT"
-    },
     {
       "title": "Guardrails for Responsible AI: Balancing Safety and Academic Discourse - Clarivate",
       "pubDate": "Wed, 17 Sep 2025 07:41:15 GMT"
@@ -1105,6 +1101,10 @@
     {
       "title": "Shutdown could cost US economy $15 billion a week, Treasury says - Reuters",
       "pubDate": "Thu, 16 Oct 2025 01:58:59 GMT"
+    },
+    {
+      "title": "Why Jamie Dimon is warning of \u2018cockroaches\u2019 in the US economy - CNN",
+      "pubDate": "Thu, 16 Oct 2025 09:00:52 GMT"
     }
   ],
   "Earthquakes": [
@@ -1881,6 +1881,10 @@
     {
       "title": "Government shutdown poised to enter a third week as Congress remains at stalemate - CBS News",
       "pubDate": "Tue, 14 Oct 2025 00:11:00 GMT"
+    },
+    {
+      "title": "American Flag With Swastika Is Found in Republican Congressman\u2019s Office - The New York Times",
+      "pubDate": "Thu, 16 Oct 2025 13:08:00 GMT"
     }
   ],
   "SpaceX": [
@@ -1981,6 +1985,10 @@
     {
       "title": "Officials demand answers from Tesla as Elon Musk's statements don't match reality: 'Public confusion' - Yahoo Finance",
       "pubDate": "Mon, 06 Oct 2025 01:30:00 GMT"
+    },
+    {
+      "title": "Tesla\u2019s European Regulator Says Door Safety a \u2018Key Priority\u2019 - Bloomberg.com",
+      "pubDate": "Thu, 16 Oct 2025 13:50:39 GMT"
     }
   ],
   "Kim Jong Un": [
@@ -2023,6 +2031,10 @@
     {
       "title": "Behind Russia\u2019s battlefield drone surge in Ukraine? Chinese factories. - The Washington Post",
       "pubDate": "Mon, 13 Oct 2025 16:00:00 GMT"
+    },
+    {
+      "title": "EU proposes 'flagship' defence projects to counter drones, protect eastern border - Reuters",
+      "pubDate": "Thu, 16 Oct 2025 14:42:39 GMT"
     }
   ],
   "Federal Reserve": [
