@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Raw emotion rages on Capitol Hill as lawmakers grapple with Charlie Kirk's killing - NBC News",
-      "pubDate": "Wed, 17 Sep 2025 00:48:00 GMT"
-    },
-    {
       "title": "Republican leaders reject Democratic health care demands for bill to avoid shutdown - KCCI",
       "pubDate": "Wed, 17 Sep 2025 20:48:00 GMT"
     },
@@ -312,10 +308,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Crisis engulfs Eurovision over Israel and Gaza - politico.eu",
-      "pubDate": "Wed, 17 Sep 2025 02:06:42 GMT"
-    },
     {
       "title": "Gaza City\u2019s communications cut amid widening Israeli ground invasion - The Washington Post",
       "pubDate": "Wed, 17 Sep 2025 15:48:42 GMT"
@@ -603,6 +595,10 @@
     {
       "title": "Russia Steps Up Assault on Antiwar Exiles, Accusing Them of Terrorism - The New York Times",
       "pubDate": "Tue, 14 Oct 2025 12:48:14 GMT"
+    },
+    {
+      "title": "Thune: Time to move on Russia sanctions bill - Politico",
+      "pubDate": "Thu, 16 Oct 2025 18:00:30 GMT"
     }
   ],
   "Donald Trump": [
@@ -983,6 +979,10 @@
     {
       "title": "Gov. Newsom signs AI safety bills, vetoes one after pushback from the tech industry - Los Angeles Times",
       "pubDate": "Tue, 14 Oct 2025 01:23:07 GMT"
+    },
+    {
+      "title": "California Just Passed the First U.S. Frontier AI Law. Here\u2019s What It Does. - Carnegie Endowment for International Peace",
+      "pubDate": "Thu, 16 Oct 2025 20:15:00 GMT"
     }
   ],
   "Data Breach": [
@@ -2165,6 +2165,10 @@
     {
       "title": "Nobel Prize in physics goes to trio of researchers for discoveries in quantum mechanics - CNN",
       "pubDate": "Tue, 07 Oct 2025 09:53:13 GMT"
+    },
+    {
+      "title": "John Martinis and Michel Devoret win 2025 Nobel Prize in Physics - The Daily Nexus",
+      "pubDate": "Thu, 16 Oct 2025 18:00:00 GMT"
     }
   ],
   "Hydrogen Fuel": [
@@ -2289,6 +2293,10 @@
     {
       "title": "US issues travel alert for THIS popular travel destination, \u2018terrorists may hit shopping spots, tourist locations\u2019 - Mint",
       "pubDate": "Sat, 11 Oct 2025 14:32:50 GMT"
+    },
+    {
+      "title": "Terrorism Charges Against Antifa \u2018Cell\u2019 Show Administration\u2019s Focus on the Left - The New York Times",
+      "pubDate": "Thu, 16 Oct 2025 20:15:34 GMT"
     }
   ],
   "Computer Science": [
@@ -2337,6 +2345,12 @@
     {
       "title": "Carbon dioxide in atmosphere reaches new high, U.N. report says - AccuWeather",
       "pubDate": "Thu, 16 Oct 2025 15:15:30 GMT"
+    }
+  ],
+  "Energy Transition": [
+    {
+      "title": "Trump administration halts massive Nevada solar project, jeopardizing clean energy goals - kanw.org",
+      "pubDate": "Thu, 16 Oct 2025 17:15:00 GMT"
     }
   ]
 }
