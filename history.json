@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump floats stripping networks critical of him of their broadcast licenses - Politico",
-      "pubDate": "Thu, 18 Sep 2025 20:05:07 GMT"
-    },
-    {
       "title": "Trump slams Omar and Somalia after House censure fails - The Hill",
       "pubDate": "Fri, 19 Sep 2025 00:44:00 GMT"
     },
@@ -301,14 +297,6 @@
   ],
   "Israel": [
     {
-      "title": "Attack at Jordan-West Bank crossing kills two Israeli soldiers - Al Jazeera",
-      "pubDate": "Thu, 18 Sep 2025 20:37:30 GMT"
-    },
-    {
-      "title": "US, Israel criticise UN staff over Gaza war stance amid protests, documents show - Reuters",
-      "pubDate": "Thu, 18 Sep 2025 21:39:10 GMT"
-    },
-    {
       "title": "Civilians made up 15 of every 16 people killed by Israel in Gaza since March, data suggests - The Guardian",
       "pubDate": "Fri, 19 Sep 2025 16:15:00 GMT"
     },
@@ -350,10 +338,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine says Russia returns 1,000 bodies in latest exchange - Al Jazeera",
-      "pubDate": "Thu, 18 Sep 2025 20:50:48 GMT"
-    },
     {
       "title": "Ukraine war briefing: Zelenskyy claims \u2018important success\u2019 as troops push back on Russian advances - The Guardian",
       "pubDate": "Fri, 19 Sep 2025 01:29:00 GMT"
@@ -707,10 +691,6 @@
   ],
   "China": [
     {
-      "title": "China pushes for stronger BRICS cooperation in AI and clean energy - TV BRICS",
-      "pubDate": "Thu, 18 Sep 2025 16:31:51 GMT"
-    },
-    {
       "title": "Trump-Xi call thaws US-China relations, but no clear TikTok deal yet - Al Jazeera",
       "pubDate": "Fri, 19 Sep 2025 21:24:52 GMT"
     },
@@ -812,10 +792,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "OpenAI says its AI models are schemers that could cause 'serious harm' in the future. Here's its solution. - Business Insider",
-      "pubDate": "Thu, 18 Sep 2025 13:24:00 GMT"
-    },
     {
       "title": "OpenAI Study: Advanced AIs Can Deceive, Scheme, and Evade Retraining - WebProNews",
       "pubDate": "Fri, 19 Sep 2025 02:13:04 GMT"
@@ -1043,6 +1019,10 @@
     {
       "title": "European Commission, ENISA add GMV to EU Cybersecurity Reserve to boost response to critical cyber threats - Industrial Cyber",
       "pubDate": "Tue, 14 Oct 2025 08:34:56 GMT"
+    },
+    {
+      "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs - The Hacker News",
+      "pubDate": "Sat, 18 Oct 2025 11:41:00 GMT"
     }
   ],
   "US Economy": [
@@ -1169,10 +1149,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "Rigetti Stock Rises 14% After Landing Air Force Award. Quantum Stocks Jump. - Barron's",
-      "pubDate": "Thu, 18 Sep 2025 15:32:00 GMT"
-    },
-    {
       "title": "Trump administration planning expansion of U.S. quantum strategy - CyberScoop",
       "pubDate": "Fri, 19 Sep 2025 15:44:56 GMT"
     },
@@ -1210,14 +1186,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israeli minister touts Gaza 'real estate bonanza', defying international backlash - BBC",
-      "pubDate": "Thu, 18 Sep 2025 12:08:07 GMT"
-    },
-    {
-      "title": "Hamas warns Gaza City offensive ends hope for hostage return, as pressure from families on Netanyahu grows - CNN",
-      "pubDate": "Thu, 18 Sep 2025 22:06:39 GMT"
-    },
     {
       "title": "U.S. vetoes U.N. Security Council resolution demanding immediate Gaza ceasefire and hostage release - NBC News",
       "pubDate": "Fri, 19 Sep 2025 08:13:45 GMT"
@@ -1391,10 +1359,6 @@
   ],
   "Climate Change": [
     {
-      "title": "National parks remove signs about climate, slavery and Japanese internment - The Washington Post",
-      "pubDate": "Sat, 20 Sep 2025 17:00:15 GMT"
-    },
-    {
       "title": "Treaty to protect deep ocean reaches key threshold for entry into force - Climate Home News",
       "pubDate": "Sat, 20 Sep 2025 23:14:16 GMT"
     },
@@ -1549,6 +1513,10 @@
     {
       "title": "Climate study finds overheating world will add 57 superhot days a year - Al Jazeera",
       "pubDate": "Thu, 16 Oct 2025 07:27:51 GMT"
+    },
+    {
+      "title": "How global warming is turning forests into fuel for wildfires - Euronews.com",
+      "pubDate": "Sat, 18 Oct 2025 13:03:51 GMT"
     }
   ],
   "Algorithms": [
@@ -1582,10 +1550,6 @@
     }
   ],
   "Technology": [
-    {
-      "title": "Nvidia just spent over $900 million to hire Enfabrica CEO, license AI startup's technology - CNBC",
-      "pubDate": "Thu, 18 Sep 2025 22:23:04 GMT"
-    },
     {
       "title": "AI Arms Race Accelerates as U.S. Reclaims Strategic Edge in Defense Technology - Yahoo Finance",
       "pubDate": "Fri, 10 Oct 2025 16:09:00 GMT"
@@ -1709,6 +1673,10 @@
     {
       "title": "Iran announces official end to 10-year-old nuclear agreement - The Guardian",
       "pubDate": "Sat, 18 Oct 2025 10:25:00 GMT"
+    },
+    {
+      "title": "Analysis: Iran threatens nuclear weaponization ambitions - Long War Journal",
+      "pubDate": "Sat, 18 Oct 2025 16:31:40 GMT"
     }
   ],
   "US Supreme Court": [
@@ -2237,6 +2205,10 @@
     {
       "title": "CEOs double down on AI as confidence in global economy slips, report - Euronews.com",
       "pubDate": "Thu, 09 Oct 2025 05:00:19 GMT"
+    },
+    {
+      "title": "Bailey warns of long-lasting growth drag from Brexit - Financial Times",
+      "pubDate": "Sat, 18 Oct 2025 14:36:11 GMT"
     }
   ],
   "Internet": [
