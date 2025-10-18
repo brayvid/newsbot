@@ -163,14 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Republican leaders reject Democratic health care demands for bill to avoid shutdown - KCCI",
-      "pubDate": "Wed, 17 Sep 2025 20:48:00 GMT"
-    },
-    {
-      "title": "Trump says he\u2019s designating Antifa as a terrorist organization - CNN",
-      "pubDate": "Thu, 18 Sep 2025 00:45:00 GMT"
-    },
-    {
       "title": "Trump floats stripping networks critical of him of their broadcast licenses - Politico",
       "pubDate": "Thu, 18 Sep 2025 20:05:07 GMT"
     },
@@ -309,14 +301,6 @@
   ],
   "Israel": [
     {
-      "title": "Gaza City\u2019s communications cut amid widening Israeli ground invasion - The Washington Post",
-      "pubDate": "Wed, 17 Sep 2025 15:48:42 GMT"
-    },
-    {
-      "title": "European Commission seeks sweeping sanctions on Israel amid Gaza offensive - Jewish Telegraphic Agency",
-      "pubDate": "Wed, 17 Sep 2025 18:20:21 GMT"
-    },
-    {
       "title": "Attack at Jordan-West Bank crossing kills two Israeli soldiers - Al Jazeera",
       "pubDate": "Thu, 18 Sep 2025 20:37:30 GMT"
     },
@@ -366,10 +350,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine expects $3.5 billion fund for US weapons to sustain fight against Russia, Zelenskyy says - AP News",
-      "pubDate": "Wed, 17 Sep 2025 16:01:00 GMT"
-    },
     {
       "title": "Ukraine says Russia returns 1,000 bodies in latest exchange - Al Jazeera",
       "pubDate": "Thu, 18 Sep 2025 20:50:48 GMT"
@@ -520,10 +500,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia gives Ukrainian kids military training and reeducation, Yale researchers find - NPR",
-      "pubDate": "Wed, 17 Sep 2025 18:48:05 GMT"
-    },
     {
       "title": "Maps: 7.8-Magnitude Earthquake Off Russia Prompts Brief Tsunami Advisory in Alaska - The New York Times",
       "pubDate": "Fri, 19 Sep 2025 04:45:46 GMT"
@@ -685,13 +661,13 @@
     {
       "title": "Trump to list closed agencies as shutdown enters 15th day. Live updates - USA Today",
       "pubDate": "Wed, 15 Oct 2025 16:41:15 GMT"
+    },
+    {
+      "title": "Trump Wavers as Zelensky Seeks Long-Range Missiles to Fight Russia: Live Updates - The New York Times",
+      "pubDate": "Sat, 18 Oct 2025 03:53:00 GMT"
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Markets didn\u2019t know which way to go after Wednesday\u2019s Fed rate cut. Expect more volatility ahead. - MarketWatch",
-      "pubDate": "Wed, 17 Sep 2025 20:49:00 GMT"
-    },
     {
       "title": "Federal Reserve Slashes Rates to 4.25%, Signaling New Era of Easier Borrowing Costs - MSN",
       "pubDate": "Sun, 21 Sep 2025 10:41:51 GMT"
@@ -730,10 +706,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China Bans Top Tech Firms From Buying Nvidia Chips, Report Says - Investopedia",
-      "pubDate": "Wed, 17 Sep 2025 15:13:01 GMT"
-    },
     {
       "title": "China pushes for stronger BRICS cooperation in AI and clean energy - TV BRICS",
       "pubDate": "Thu, 18 Sep 2025 16:31:51 GMT"
@@ -836,14 +808,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Anthropic Clashes With White House Over AI Use in Law Enforcement, Citing Surveillance Policy - WinBuzzer",
-      "pubDate": "Wed, 17 Sep 2025 13:28:48 GMT"
-    },
-    {
-      "title": "Parents Of Kids Allegedly Killed and Harmed by AI Give Emotional Testimony on Capitol Hill, Urge Regulation - Futurism",
-      "pubDate": "Wed, 17 Sep 2025 19:02:48 GMT"
-    },
     {
       "title": "OpenAI says its AI models are schemers that could cause 'serious harm' in the future. Here's its solution. - Business Insider",
       "pubDate": "Thu, 18 Sep 2025 13:24:00 GMT"
@@ -1135,10 +1099,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Giant Trump statue holding Bitcoin displayed outside US Capitol to mark Fed rate decision - WJLA",
-      "pubDate": "Wed, 17 Sep 2025 16:15:54 GMT"
-    },
-    {
       "title": "Reported Physical Attacks On Bitcoin Holders Surge 169% This Semester - Forbes",
       "pubDate": "Sat, 20 Sep 2025 11:31:09 GMT"
     },
@@ -1246,10 +1206,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "More Than 400,000 Flee Gaza City As Israel Pushes Ahead With Ground Invasion - Time Magazine",
-      "pubDate": "Wed, 17 Sep 2025 17:24:56 GMT"
-    },
     {
       "title": "Israeli minister touts Gaza 'real estate bonanza', defying international backlash - BBC",
       "pubDate": "Thu, 18 Sep 2025 12:08:07 GMT"
@@ -1397,6 +1353,10 @@
     {
       "title": "LIVE: Aid \u2018critically low\u2019 in Gaza a week into ceasefire amid Israeli delay - Al Jazeera",
       "pubDate": "Fri, 17 Oct 2025 10:18:45 GMT"
+    },
+    {
+      "title": "Israel-Gaza live updates: Crews search for bodies of Israeli hostages - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Fri, 17 Oct 2025 19:23:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1613,12 +1573,6 @@
       "pubDate": "Thu, 09 Oct 2025 21:21:00 GMT"
     }
   ],
-  "United States": [
-    {
-      "title": "Trump begins historic state visit to UK amid pomp and protests - Reuters",
-      "pubDate": "Wed, 17 Sep 2025 13:05:51 GMT"
-    }
-  ],
   "Technology": [
     {
       "title": "Nvidia just spent over $900 million to hire Enfabrica CEO, license AI startup's technology - CNBC",
@@ -1679,6 +1633,10 @@
     {
       "title": "Qatar's planned Air Force base in Idaho is a national security crisis - MSNBC News",
       "pubDate": "Thu, 16 Oct 2025 23:35:31 GMT"
+    },
+    {
+      "title": "Top nuclear weapons agency to furlough most staff amid shutdown - Politico",
+      "pubDate": "Fri, 17 Oct 2025 16:53:36 GMT"
     }
   ],
   "North Korea": [
@@ -1833,6 +1791,10 @@
     {
       "title": "National security threatened by climate crisis, UK intelligence chiefs due to warn - The Guardian",
       "pubDate": "Wed, 08 Oct 2025 21:08:00 GMT"
+    },
+    {
+      "title": "Trump sinks global shipping climate tax - politico.eu",
+      "pubDate": "Fri, 17 Oct 2025 17:27:00 GMT"
     }
   ],
   "Democracy": [
@@ -1905,6 +1867,10 @@
     {
       "title": "American Flag With Swastika Is Found in Republican Congressman\u2019s Office - The New York Times",
       "pubDate": "Thu, 16 Oct 2025 13:08:00 GMT"
+    },
+    {
+      "title": "Government shutdown becomes third-longest in history with no end in sight on Day 17 - CBS News",
+      "pubDate": "Fri, 17 Oct 2025 20:49:02 GMT"
     }
   ],
   "SpaceX": [
@@ -1929,6 +1895,10 @@
     {
       "title": "White House Fires 176 CISA Staff Amid Government Shutdown, Following Project 2025 Playbook - WinBuzzer",
       "pubDate": "Mon, 13 Oct 2025 14:24:40 GMT"
+    },
+    {
+      "title": "Breach at US-based cybersecurity provider F5 blamed on China, sources say - Reuters",
+      "pubDate": "Fri, 17 Oct 2025 21:43:16 GMT"
     }
   ],
   "New York City": [
@@ -2215,6 +2185,10 @@
     {
       "title": "Recession warning signs to watch: Goodbye lipstick, hello Hamburger Helper - The Washington Post",
       "pubDate": "Tue, 14 Oct 2025 10:07:21 GMT"
+    },
+    {
+      "title": "Canada faces tariff-induced recession as Trump moves hit economy hard despite Carney's pledge - The Economic Times",
+      "pubDate": "Fri, 17 Oct 2025 20:36:53 GMT"
     }
   ],
   "Social Media": [
