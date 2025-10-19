@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Democrats reject spending bill over healthcare cuts as shutdown looms - The Guardian",
-      "pubDate": "Fri, 19 Sep 2025 16:03:00 GMT"
-    },
-    {
       "title": "US prosecutor resigns after Trump says 'I want him out' - BBC",
       "pubDate": "Sat, 20 Sep 2025 01:50:20 GMT"
     },
@@ -285,10 +281,6 @@
   ],
   "Israel": [
     {
-      "title": "Civilians made up 15 of every 16 people killed by Israel in Gaza since March, data suggests - The Guardian",
-      "pubDate": "Fri, 19 Sep 2025 16:15:00 GMT"
-    },
-    {
       "title": "Suspect recorded killings of 2 Israeli Embassy staffers on a body camera, prosecutors say - NBC News",
       "pubDate": "Sat, 20 Sep 2025 00:31:00 GMT"
     },
@@ -326,10 +318,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "U.K.'s MI6 spy chief says Putin \"lies to the world\" and has no interest in peace in Ukraine - CBS News",
-      "pubDate": "Fri, 19 Sep 2025 11:51:16 GMT"
-    },
     {
       "title": "Russia becoming \u2018more dangerous\u2019, EU foreign affairs head warns - Al Jazeera",
       "pubDate": "Fri, 19 Sep 2025 19:35:00 GMT"
@@ -542,10 +530,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Live updates: Trump says he and Xi will meet next month and that he\u2019ll go to China - AP News",
-      "pubDate": "Fri, 19 Sep 2025 15:50:00 GMT"
-    },
     {
       "title": "Trump imposes $100K fee on H-1B visas in new immigration action - CNN",
       "pubDate": "Fri, 19 Sep 2025 20:13:14 GMT"
@@ -780,14 +764,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Why one researcher says we should shut down AI forever before superintelligence arrives - Windows Central",
-      "pubDate": "Fri, 19 Sep 2025 11:20:00 GMT"
-    },
-    {
-      "title": "Their teenage sons died by suicide. Now, they are sounding an alarm about AI chatbots - NPR",
-      "pubDate": "Fri, 19 Sep 2025 11:00:00 GMT"
-    },
     {
       "title": "OpenAI Research Reveals Risks of \"Scheming\" in AI Models - The Tradable",
       "pubDate": "Fri, 19 Sep 2025 17:38:38 GMT"
@@ -1101,10 +1077,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "Top US utility bets big on nuclear fusion as AI demand grows - Financial Times",
-      "pubDate": "Fri, 19 Sep 2025 15:15:14 GMT"
-    },
-    {
       "title": "Commonwealth Fusion Systems books a $1B+ power deal for its future fusion reactor - TechCrunch",
       "pubDate": "Mon, 22 Sep 2025 11:00:00 GMT"
     },
@@ -1137,10 +1109,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "Trump administration planning expansion of U.S. quantum strategy - CyberScoop",
-      "pubDate": "Fri, 19 Sep 2025 15:44:56 GMT"
-    },
-    {
       "title": "Scientists Capture W State, Unlocking Quantum Teleportation - SciTechDaily",
       "pubDate": "Sat, 20 Sep 2025 20:26:43 GMT"
     },
@@ -1171,6 +1139,10 @@
     {
       "title": "China's superconducting quantum computer ready for commercial use - People's Daily",
       "pubDate": "Mon, 13 Oct 2025 00:50:00 GMT"
+    },
+    {
+      "title": "Simplified Sachdev-Ye-Kitaev model simulated on trapped-ion quantum computer - Phys.org",
+      "pubDate": "Sun, 19 Oct 2025 13:20:01 GMT"
     }
   ],
   "Gaza": [
@@ -1339,10 +1311,6 @@
   ],
   "Climate Change": [
     {
-      "title": "\u2018We must change\u2019: how drought and overextraction of water has run Iran dry - The Guardian",
-      "pubDate": "Sun, 21 Sep 2025 06:01:00 GMT"
-    },
-    {
       "title": "Space Lasers Reveal a 30-Year Secret About Our Rising Oceans - SciTechDaily",
       "pubDate": "Sun, 21 Sep 2025 10:58:20 GMT"
     },
@@ -1497,6 +1465,10 @@
     {
       "title": "China, India and Brazil set to steer global climate change agenda at Cop30 - South China Morning Post",
       "pubDate": "Sun, 19 Oct 2025 08:00:16 GMT"
+    },
+    {
+      "title": "Three Women in Alaska Collaborate on an Exhibit About Climate Change - The New York Times",
+      "pubDate": "Sun, 19 Oct 2025 09:00:19 GMT"
     }
   ],
   "Algorithms": [
@@ -1733,6 +1705,10 @@
     {
       "title": "\u2600\ufe0f Renewable energy surpasses coal in the global electricity mix - for the first time ever - warpnews.org",
       "pubDate": "Sat, 11 Oct 2025 09:01:01 GMT"
+    },
+    {
+      "title": "Government aims to create 400,000 jobs through UK national green energy plan - The Guardian",
+      "pubDate": "Sun, 19 Oct 2025 13:53:00 GMT"
     }
   ],
   "Climate": [
@@ -2255,6 +2231,10 @@
     {
       "title": "Potentially \u2018Catastrophic\u2019 Breach of Cyber Firm Blamed on China - Bloomberg.com",
       "pubDate": "Thu, 16 Oct 2025 02:00:00 GMT"
+    },
+    {
+      "title": "Rare earths: Key metals at heart of tech, geopolitical rivalry | Daily Sabah - Daily Sabah",
+      "pubDate": "Sun, 19 Oct 2025 08:26:00 GMT"
     }
   ],
   "US Treasury": [
@@ -2337,6 +2317,12 @@
     {
       "title": "The discovery that threatens the global climate\u2014scientists warn of the possible collapse of the AMOC, the \u201cconveyor belt\u201d that keeps the Earth's climate stable - Blanquivioletas",
       "pubDate": "Sat, 18 Oct 2025 19:00:42 GMT"
+    }
+  ],
+  "Cancer": [
+    {
+      "title": "Breakthrough cancer therapy stops tumor growth without harming healthy cells - Science Daily",
+      "pubDate": "Sun, 19 Oct 2025 05:53:03 GMT"
     }
   ]
 }
