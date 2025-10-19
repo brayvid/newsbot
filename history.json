@@ -163,10 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump slams Omar and Somalia after House censure fails - The Hill",
-      "pubDate": "Fri, 19 Sep 2025 00:44:00 GMT"
-    },
-    {
       "title": "Senate passes \"National Day of Remembrance for Charlie Kirk\" - Axios",
       "pubDate": "Fri, 19 Sep 2025 07:09:03 GMT"
     },
@@ -339,10 +335,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war briefing: Zelenskyy claims \u2018important success\u2019 as troops push back on Russian advances - The Guardian",
-      "pubDate": "Fri, 19 Sep 2025 01:29:00 GMT"
-    },
-    {
       "title": "U.K.'s MI6 spy chief says Putin \"lies to the world\" and has no interest in peace in Ukraine - CBS News",
       "pubDate": "Fri, 19 Sep 2025 11:51:16 GMT"
     },
@@ -481,13 +473,13 @@
     {
       "title": "Trump puts Russia on notice over Ukraine as two leaders prepare to meet - CNBC",
       "pubDate": "Fri, 17 Oct 2025 08:18:39 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Repairs begin in bid to restore power to Zaporizhzhia nuclear plant - The Guardian",
+      "pubDate": "Sun, 19 Oct 2025 00:53:00 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Maps: 7.8-Magnitude Earthquake Off Russia Prompts Brief Tsunami Advisory in Alaska - The New York Times",
-      "pubDate": "Fri, 19 Sep 2025 04:45:46 GMT"
-    },
     {
       "title": "Estonia seeks urgent Nato consultation after Russian jets violate airspace - BBC",
       "pubDate": "Sat, 20 Sep 2025 05:57:11 GMT"
@@ -558,10 +550,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump poised to fire US attorney for resisting effort to charge NY AG Letitia James: Sources - ABC News",
-      "pubDate": "Fri, 19 Sep 2025 03:00:58 GMT"
-    },
     {
       "title": "Live updates: Trump says he and Xi will meet next month and that he\u2019ll go to China - AP News",
       "pubDate": "Fri, 19 Sep 2025 15:50:00 GMT"
@@ -792,10 +780,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "OpenAI Study: Advanced AIs Can Deceive, Scheme, and Evade Retraining - WebProNews",
-      "pubDate": "Fri, 19 Sep 2025 02:13:04 GMT"
-    },
     {
       "title": "Why one researcher says we should shut down AI forever before superintelligence arrives - Windows Central",
       "pubDate": "Fri, 19 Sep 2025 11:20:00 GMT"
@@ -1935,6 +1919,10 @@
     {
       "title": "Hackers Arrested for Allegedly Stealing 8,000 Kids' Sensitive Photos and Personal Data From Preschool Database - People.com",
       "pubDate": "Wed, 08 Oct 2025 01:12:51 GMT"
+    },
+    {
+      "title": "'Catastrophic' attack as Russians hack files on EIGHT MoD bases and post them on the dark web - Daily Mail",
+      "pubDate": "Sat, 18 Oct 2025 21:00:48 GMT"
     }
   ],
   "Space Exploration": [
@@ -2339,6 +2327,12 @@
     {
       "title": "EXCLUSIVE: Nigerian Defence Intelligence Detains Brigadier-General, Other Officers Over Alleged Coup Plot To Overthrow President Tinubu - Sahara Reporters",
       "pubDate": "Sat, 18 Oct 2025 08:07:02 GMT"
+    }
+  ],
+  "Atlantic Ocean": [
+    {
+      "title": "The discovery that threatens the global climate\u2014scientists warn of the possible collapse of the AMOC, the \u201cconveyor belt\u201d that keeps the Earth's climate stable - Blanquivioletas",
+      "pubDate": "Sat, 18 Oct 2025 19:00:42 GMT"
     }
   ]
 }
