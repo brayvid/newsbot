@@ -163,14 +163,6 @@
   ],
   "US Politics": [
     {
-      "title": "Senate passes \"National Day of Remembrance for Charlie Kirk\" - Axios",
-      "pubDate": "Fri, 19 Sep 2025 07:09:03 GMT"
-    },
-    {
-      "title": "Senate fails to pass short-term funding bill, with both parties blaming the other for looming government shutdown \u2013 US politics live - The Guardian",
-      "pubDate": "Fri, 19 Sep 2025 09:58:00 GMT"
-    },
-    {
       "title": "Democrats reject spending bill over healthcare cuts as shutdown looms - The Guardian",
       "pubDate": "Fri, 19 Sep 2025 16:03:00 GMT"
     },
@@ -637,6 +629,10 @@
     {
       "title": "Trump Wavers as Zelensky Seeks Long-Range Missiles to Fight Russia: Live Updates - The New York Times",
       "pubDate": "Sat, 18 Oct 2025 03:53:00 GMT"
+    },
+    {
+      "title": "Putin demanded Ukraine surrender key territory in call with Trump - The Washington Post",
+      "pubDate": "Sun, 19 Oct 2025 03:12:54 GMT"
     }
   ],
   "Financial Markets": [
@@ -777,6 +773,10 @@
     {
       "title": "Europe slowly awakens to its entry into US-China wars - Financial Times",
       "pubDate": "Sat, 18 Oct 2025 10:00:03 GMT"
+    },
+    {
+      "title": "US-China trade dispute over a little-known Dutch chipmaker could halt car production and send prices higher - CNN",
+      "pubDate": "Sun, 19 Oct 2025 07:00:51 GMT"
     }
   ],
   "AI Safety": [
@@ -915,6 +915,10 @@
     {
       "title": "Instagram Unveils Teen Safety Features for A.I. Chatbots - The New York Times",
       "pubDate": "Fri, 17 Oct 2025 09:45:02 GMT"
+    },
+    {
+      "title": "Meta Gives Parents Power to Mute AI Chatbots After Safety Backlash \u2014 What to Expect? - inkl",
+      "pubDate": "Sun, 19 Oct 2025 07:01:18 GMT"
     }
   ],
   "Data Breach": [
@@ -1007,6 +1011,10 @@
     {
       "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs - The Hacker News",
       "pubDate": "Sat, 18 Oct 2025 11:41:00 GMT"
+    },
+    {
+      "title": "China accuses US of cyber breaches at national time centre - Reuters",
+      "pubDate": "Sun, 19 Oct 2025 04:12:00 GMT"
     }
   ],
   "US Economy": [
@@ -1093,10 +1101,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "DOE needs reorganization to develop fusion, industry leaders say - E&E News by POLITICO",
-      "pubDate": "Fri, 19 Sep 2025 10:34:00 GMT"
-    },
-    {
       "title": "Top US utility bets big on nuclear fusion as AI demand grows - Financial Times",
       "pubDate": "Fri, 19 Sep 2025 15:15:14 GMT"
     },
@@ -1170,10 +1174,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "U.S. vetoes U.N. Security Council resolution demanding immediate Gaza ceasefire and hostage release - NBC News",
-      "pubDate": "Fri, 19 Sep 2025 08:13:45 GMT"
-    },
     {
       "title": "Archaeologists in Gaza Rushed to Rescue Thousands of Ancient Artifacts From an Impending Airstrike - Smithsonian Magazine",
       "pubDate": "Fri, 19 Sep 2025 18:44:07 GMT"
@@ -1321,10 +1321,6 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "SEC Green Lights Cryptocurrency ETF and the Market's Wild Ride - OneSafe",
-      "pubDate": "Fri, 19 Sep 2025 08:49:57 GMT"
-    },
-    {
       "title": "Morgan Stanley partners with Zerohash to launch cryptocurrency trading on E*Trade by 2026 - Mint",
       "pubDate": "Tue, 23 Sep 2025 17:41:25 GMT"
     },
@@ -1342,10 +1338,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Treaty to protect deep ocean reaches key threshold for entry into force - Climate Home News",
-      "pubDate": "Sat, 20 Sep 2025 23:14:16 GMT"
-    },
     {
       "title": "\u2018We must change\u2019: how drought and overextraction of water has run Iran dry - The Guardian",
       "pubDate": "Sun, 21 Sep 2025 06:01:00 GMT"
@@ -1501,6 +1493,10 @@
     {
       "title": "How global warming is turning forests into fuel for wildfires - Euronews.com",
       "pubDate": "Sat, 18 Oct 2025 13:03:51 GMT"
+    },
+    {
+      "title": "China, India and Brazil set to steer global climate change agenda at Cop30 - South China Morning Post",
+      "pubDate": "Sun, 19 Oct 2025 08:00:16 GMT"
     }
   ],
   "Algorithms": [
@@ -2001,6 +1997,10 @@
     {
       "title": "North Korean soldiers are flying drones for Russia and directing strikes in Ukraine, Kyiv says - Business Insider",
       "pubDate": "Thu, 16 Oct 2025 16:05:00 GMT"
+    },
+    {
+      "title": "Ukrainian drones strike major Russian gas plant - The Hill",
+      "pubDate": "Sun, 19 Oct 2025 09:45:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -2101,6 +2101,10 @@
     {
       "title": "Nissan Recalls Certain Leaf Electric Vehicles Over Potential Battery Fire - autoevolution",
       "pubDate": "Mon, 06 Oct 2025 15:56:04 GMT"
+    },
+    {
+      "title": "Solid-State Battery Breakthrough Paves Way for Mass EV Adoption - Zoom Bangla News",
+      "pubDate": "Sun, 19 Oct 2025 10:19:21 GMT"
     }
   ],
   "International Relations": [
