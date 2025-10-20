@@ -457,10 +457,6 @@
   ],
   "Russia": [
     {
-      "title": "Estonia seeks urgent Nato consultation after Russian jets violate airspace - BBC",
-      "pubDate": "Sat, 20 Sep 2025 05:57:11 GMT"
-    },
-    {
       "title": "Germany scrambles jets after Russia military aircraft flies over Baltic Sea - Al Jazeera",
       "pubDate": "Sun, 21 Sep 2025 15:58:43 GMT"
     },
@@ -609,6 +605,10 @@
     {
       "title": "Putin demanded Ukraine surrender key territory in call with Trump - The Washington Post",
       "pubDate": "Sun, 19 Oct 2025 03:12:54 GMT"
+    },
+    {
+      "title": "Zelenskyy calls for more US Patriot air defences after Trump again sides with Putin - The Guardian",
+      "pubDate": "Mon, 20 Oct 2025 09:44:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -753,16 +753,16 @@
     {
       "title": "Female scientist blends empathy and ethics in algorithms - China Daily",
       "pubDate": "Mon, 20 Oct 2025 01:09:00 GMT"
+    },
+    {
+      "title": "Trump Lists Top Demands on China Before Trade Talks Resume - Bloomberg.com",
+      "pubDate": "Mon, 20 Oct 2025 08:54:52 GMT"
     }
   ],
   "AI Safety": [
     {
       "title": "Researchers Warn Superintelligent AI Could End Humanity - Khaama Press",
       "pubDate": "Sat, 20 Sep 2025 11:45:18 GMT"
-    },
-    {
-      "title": "The Illusion of Control: Why Agentic AI is Forcing a Total Rethink of AI Alignment - Unite.AI",
-      "pubDate": "Sat, 20 Sep 2025 09:49:30 GMT"
     },
     {
       "title": "Straight Out of a Sci-Fi: AI Modifies Its Own Code to Stop Humans From Shutting It Down - The Daily Galaxy",
@@ -913,6 +913,10 @@
     {
       "title": "Federal agencies warned of \"imminent risk\" after possible data breach - CBS News",
       "pubDate": "Thu, 16 Oct 2025 14:22:00 GMT"
+    },
+    {
+      "title": "MoD probes claims Russian hackers stole files on bases - BBC",
+      "pubDate": "Sun, 19 Oct 2025 23:35:41 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1269,6 +1273,10 @@
     {
       "title": "Israel kills 11 Palestinian family members in Gaza\u2019s deadliest truce breach - Al Jazeera",
       "pubDate": "Sat, 18 Oct 2025 07:13:37 GMT"
+    },
+    {
+      "title": "Gaza ceasefire live: Trump\u2019s envoys arrive in Israel amid scramble to shore up fragile truce \u2013 Middle East crisis live - The Guardian",
+      "pubDate": "Mon, 20 Oct 2025 06:38:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1507,6 +1515,10 @@
     {
       "title": "Meta Debuts Superintelligence Labs: Scaling AI Infrastructure for AGI - WebProNews",
       "pubDate": "Sun, 12 Oct 2025 23:05:29 GMT"
+    },
+    {
+      "title": "Google Announces Gemini 3.0: Artificial Intelligence Evolves Toward AGI - Red Hot Cyber",
+      "pubDate": "Mon, 20 Oct 2025 10:28:43 GMT"
     }
   ],
   "National Security": [
@@ -1537,6 +1549,10 @@
     {
       "title": "Top nuclear weapons agency to furlough most staff amid shutdown - Politico",
       "pubDate": "Fri, 17 Oct 2025 16:53:36 GMT"
+    },
+    {
+      "title": "Federal agency overseeing US nuclear stockpile will furlough most of its workforce starting Monday - CNN",
+      "pubDate": "Mon, 20 Oct 2025 01:51:00 GMT"
     }
   ],
   "North Korea": [
@@ -2315,6 +2331,12 @@
     {
       "title": "Breakthrough cancer therapy stops tumor growth without harming healthy cells - Science Daily",
       "pubDate": "Sun, 19 Oct 2025 05:53:03 GMT"
+    }
+  ],
+  "Cloud Computing": [
+    {
+      "title": "Amazon Web Services outage hits dozens of websites and apps - The Guardian",
+      "pubDate": "Mon, 20 Oct 2025 09:57:00 GMT"
     }
   ]
 }
