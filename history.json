@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI is 'coming at us fast'. But what exactly is it being used for right now? - Australian Broadcasting Corporation",
-      "pubDate": "Sun, 21 Sep 2025 22:18:45 GMT"
-    },
-    {
       "title": "MIT Researchers Enhanced Artificial Intelligence (AI) 64x Better at Planning, Achieving 94% Accuracy - MarkTechPost",
       "pubDate": "Mon, 22 Sep 2025 07:06:44 GMT"
     },
@@ -573,6 +569,10 @@
     {
       "title": "Zelenskyy calls for more US Patriot air defences after Trump again sides with Putin - The Guardian",
       "pubDate": "Mon, 20 Oct 2025 09:44:00 GMT"
+    },
+    {
+      "title": "Trump Said to Demand Justice Dept. Pay Him $230 Million for Past Cases - The New York Times",
+      "pubDate": "Tue, 21 Oct 2025 21:47:02 GMT"
     }
   ],
   "Financial Markets": [
@@ -835,6 +835,10 @@
     {
       "title": "Anthropic Partners with US Gov on AI Tool to Block Nuclear Queries - WebProNews",
       "pubDate": "Mon, 20 Oct 2025 16:55:09 GMT"
+    },
+    {
+      "title": "Q&A: Co-author of NY's AI safety bill decries 'bad faith VCs' - PitchBook",
+      "pubDate": "Tue, 21 Oct 2025 17:54:24 GMT"
     }
   ],
   "Data Breach": [
@@ -935,6 +939,10 @@
     {
       "title": "Social engineering gains ground as preferred method of initial access - Cybersecurity Dive",
       "pubDate": "Tue, 21 Oct 2025 15:39:40 GMT"
+    },
+    {
+      "title": "Dataminr to acquire cybersecurity firm ThreatConnect for $290 million - CyberScoop",
+      "pubDate": "Tue, 21 Oct 2025 12:47:23 GMT"
     }
   ],
   "US Economy": [
@@ -1083,10 +1091,6 @@
   ],
   "Gaza": [
     {
-      "title": "Scoop: Trump plans summit in New York with Arab leaders on Gaza war - Axios",
-      "pubDate": "Sun, 21 Sep 2025 17:58:17 GMT"
-    },
-    {
       "title": "With or without a ceasefire, humanitarian aid must enter Gaza. We managed it in previous wars | Moazzam Malik - The Guardian",
       "pubDate": "Mon, 22 Sep 2025 08:00:00 GMT"
     },
@@ -1230,10 +1234,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "New research uncovers key culprit behind accelerating global threat: 'An increasingly dominant role' - Yahoo",
-      "pubDate": "Sun, 21 Sep 2025 23:00:00 GMT"
-    },
     {
       "title": "Leaders promised to cut climate pollution, then doubled down on fossil fuels - NPR",
       "pubDate": "Mon, 22 Sep 2025 04:01:00 GMT"
@@ -1801,6 +1801,10 @@
     {
       "title": "The founder of the world's top LiDAR maker says there's one problem with Elon Musk's approach to self-driving - businessinsider.com",
       "pubDate": "Mon, 20 Oct 2025 00:08:00 GMT"
+    },
+    {
+      "title": "Elon Musk calls acting NASA chief \u2018Sean Dummy\u2019 as SpaceX moon contract hangs in the balance - CNN",
+      "pubDate": "Tue, 21 Oct 2025 18:59:08 GMT"
     }
   ],
   "Pollution": [
@@ -2037,6 +2041,10 @@
     {
       "title": "Joe Biden receiving radiation therapy for prostate cancer, spokesman says - BBC",
       "pubDate": "Sat, 11 Oct 2025 21:23:28 GMT"
+    },
+    {
+      "title": "What Americans think about rising health care costs, according to a new AP-NORC poll - AP News",
+      "pubDate": "Tue, 21 Oct 2025 17:22:00 GMT"
     }
   ],
   "Physics": [
@@ -2273,6 +2281,10 @@
     {
       "title": "Amazon Web Services outage hits dozens of websites and apps - The Guardian",
       "pubDate": "Mon, 20 Oct 2025 09:57:00 GMT"
+    },
+    {
+      "title": "Anthropic, Google in Talks on Cloud Deal Worth Tens of Billions - Bloomberg",
+      "pubDate": "Tue, 21 Oct 2025 21:59:15 GMT"
     }
   ],
   "Engineering": [
@@ -2285,6 +2297,12 @@
     {
       "title": "China powers global growth in electricity storage - Financial Times",
       "pubDate": "Tue, 21 Oct 2025 11:00:11 GMT"
+    }
+  ],
+  "Ethics": [
+    {
+      "title": "Ethics Watchdog Group Seeks Investigation Into Border Czar and Contracts Following ProPublica Report - ProPublica",
+      "pubDate": "Tue, 21 Oct 2025 17:35:00 GMT"
     }
   ]
 }
