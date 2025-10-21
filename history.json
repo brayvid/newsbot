@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "As AI tools reshape education, schools struggle with how to draw the line on cheating - Pittsburgh Post-Gazette",
-      "pubDate": "Sun, 21 Sep 2025 08:00:00 GMT"
-    },
-    {
       "title": "Chatbot site depicting child sexual abuse images raises fears over misuse of AI - The Guardian",
       "pubDate": "Sun, 21 Sep 2025 18:35:00 GMT"
     },
@@ -159,25 +155,13 @@
     {
       "title": "What is AI poisoning? A computer scientist explains - The Conversation",
       "pubDate": "Mon, 20 Oct 2025 02:22:00 GMT"
+    },
+    {
+      "title": "AI Data Centers Create Fury From Mexico to Ireland - The New York Times",
+      "pubDate": "Mon, 20 Oct 2025 19:00:09 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump calls out \u2018highly overrated\u2019 Letterman for defending Kimmel - The Hill",
-      "pubDate": "Sat, 20 Sep 2025 11:56:00 GMT"
-    },
-    {
-      "title": "Massive banners with Trump\u2019s face are adorning some federal buildings in DC. Democrats are crying foul - CNN",
-      "pubDate": "Sat, 20 Sep 2025 12:00:05 GMT"
-    },
-    {
-      "title": "Trump publicly pushes Attorney General Pam Bondi to go after his political foes - NBC News",
-      "pubDate": "Sun, 21 Sep 2025 01:24:00 GMT"
-    },
-    {
-      "title": "Democratic leaders in Congress demand a meeting with Trump as government shutdown looms - AP News",
-      "pubDate": "Sun, 21 Sep 2025 00:02:00 GMT"
-    },
     {
       "title": "Gov. Josh Shapiro says Americans must \u2018universally condemn\u2019 political violence following Charlie Kirk's assassination - NBC News",
       "pubDate": "Sun, 21 Sep 2025 13:02:14 GMT"
@@ -315,14 +299,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia launches a large-scale attack on Ukraine, killing 3 and wounding dozens - NBC News",
-      "pubDate": "Sat, 20 Sep 2025 14:34:33 GMT"
-    },
-    {
-      "title": "Putin Decides He Can Step Up Attacks on Kyiv and Trump Won\u2019t Act - Bloomberg.com",
-      "pubDate": "Sat, 20 Sep 2025 12:00:00 GMT"
-    },
-    {
       "title": "'Demographic conquest': Inside Russia\u2019s campaign to indoctrinate kidnapped Ukrainian children - France 24",
       "pubDate": "Sun, 21 Sep 2025 07:33:49 GMT"
     },
@@ -453,6 +429,10 @@
     {
       "title": "European leaders near deal to use frozen Russian assets for Ukraine - The Guardian",
       "pubDate": "Mon, 20 Oct 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Europe 'ready to deploy' troops to Ukraine if ceasefire secured, says Healey - BBC",
+      "pubDate": "Mon, 20 Oct 2025 21:54:18 GMT"
     }
   ],
   "Russia": [
@@ -757,13 +737,13 @@
     {
       "title": "Trump Lists Top Demands on China Before Trade Talks Resume - Bloomberg.com",
       "pubDate": "Mon, 20 Oct 2025 08:54:52 GMT"
+    },
+    {
+      "title": "US and Australia sign rare earths deal to counter China's dominance - BBC",
+      "pubDate": "Tue, 21 Oct 2025 02:08:08 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Researchers Warn Superintelligent AI Could End Humanity - Khaama Press",
-      "pubDate": "Sat, 20 Sep 2025 11:45:18 GMT"
-    },
     {
       "title": "Straight Out of a Sci-Fi: AI Modifies Its Own Code to Stop Humans From Shutting It Down - The Daily Galaxy",
       "pubDate": "Sun, 21 Sep 2025 11:15:00 GMT"
@@ -883,6 +863,10 @@
     {
       "title": "Meta Gives Parents Power to Mute AI Chatbots After Safety Backlash \u2014 What to Expect? - inkl",
       "pubDate": "Sun, 19 Oct 2025 07:01:18 GMT"
+    },
+    {
+      "title": "Anthropic Partners with US Gov on AI Tool to Block Nuclear Queries - WebProNews",
+      "pubDate": "Mon, 20 Oct 2025 16:55:09 GMT"
     }
   ],
   "Data Breach": [
@@ -920,10 +904,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Cyberattack hits check-in systems at some of Europe\u2019s busiest airports - Al Jazeera",
-      "pubDate": "Sat, 20 Sep 2025 13:18:45 GMT"
-    },
     {
       "title": "EU agency confirms ransomware attack behind airport disruptions - Reuters",
       "pubDate": "Mon, 22 Sep 2025 15:58:14 GMT"
@@ -1043,14 +1023,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Reported Physical Attacks On Bitcoin Holders Surge 169% This Semester - Forbes",
-      "pubDate": "Sat, 20 Sep 2025 11:31:09 GMT"
-    },
-    {
-      "title": "Kevin Durant Recovers Bitcoin Bought at $650, Now Up Over 17,700%, After Nearly a Decade - CoinDesk",
-      "pubDate": "Sat, 20 Sep 2025 14:50:25 GMT"
-    },
-    {
       "title": "Bitcoin falls below $114,500 after FOMC hype fades; market shows 'nervous optimism' - theblock.co",
       "pubDate": "Mon, 22 Sep 2025 03:26:02 GMT"
     },
@@ -1101,10 +1073,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "Scientists Capture W State, Unlocking Quantum Teleportation - SciTechDaily",
-      "pubDate": "Sat, 20 Sep 2025 20:26:43 GMT"
-    },
-    {
       "title": "Scientists just made atoms talk to each other inside silicon chips - ScienceDaily",
       "pubDate": "Sun, 21 Sep 2025 06:03:03 GMT"
     },
@@ -1138,18 +1106,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel Presses on With Gaza City Assault, 34 Palestinians Killed - U.S. News & World Report",
-      "pubDate": "Sat, 20 Sep 2025 12:52:00 GMT"
-    },
-    {
-      "title": "Can France\u2019s Palestinian Proposal Change 75 Years of Failed Diplomacy? - The New York Times",
-      "pubDate": "Sat, 20 Sep 2025 18:31:35 GMT"
-    },
-    {
-      "title": "Gazans say Israel\u2019s building demolitions fuel fears of permanent displacement - The Times of Israel",
-      "pubDate": "Sat, 20 Sep 2025 17:13:00 GMT"
-    },
     {
       "title": "Trump goes into UN gathering isolated but defiant on path ahead for Gaza - CNN",
       "pubDate": "Sun, 21 Sep 2025 12:00:05 GMT"
@@ -1277,6 +1233,10 @@
     {
       "title": "Gaza ceasefire live: Trump\u2019s envoys arrive in Israel amid scramble to shore up fragile truce \u2013 Middle East crisis live - The Guardian",
       "pubDate": "Mon, 20 Oct 2025 06:38:00 GMT"
+    },
+    {
+      "title": "White House Works to Preserve Gaza Deal Amid Concerns About Netanyahu - The New York Times",
+      "pubDate": "Mon, 20 Oct 2025 22:27:28 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1461,10 +1421,6 @@
   ],
   "Algorithms": [
     {
-      "title": "White House outlines TikTok deal that would give US control of algorithm - BBC",
-      "pubDate": "Sat, 20 Sep 2025 22:19:16 GMT"
-    },
-    {
       "title": "Revolutionary Algorithm Enhances Disease Classification Using Omics - BIOENGINEER.ORG",
       "pubDate": "Wed, 01 Oct 2025 20:27:28 GMT"
     }
@@ -1476,10 +1432,6 @@
     }
   ],
   "FBI": [
-    {
-      "title": "Tom Homan investigated for accepting $50,000 from FBI agents. Trump's DOJ shut it down. - MSNBC News",
-      "pubDate": "Sat, 20 Sep 2025 19:45:58 GMT"
-    },
     {
       "title": "Former FBI Director James Comey pleads not guilty and will argue he is unfairly targeted by Trump - CNN",
       "pubDate": "Wed, 08 Oct 2025 08:00:51 GMT"
@@ -1625,6 +1577,10 @@
     {
       "title": "Analysis: Iran threatens nuclear weaponization ambitions - Long War Journal",
       "pubDate": "Sat, 18 Oct 2025 16:31:40 GMT"
+    },
+    {
+      "title": "Iran's Khamenei rejects Trump offer of talks, denies US destroyed Iranian nuclear capabilities - Reuters",
+      "pubDate": "Mon, 20 Oct 2025 23:57:12 GMT"
     }
   ],
   "US Supreme Court": [
@@ -2337,6 +2293,12 @@
     {
       "title": "Amazon Web Services outage hits dozens of websites and apps - The Guardian",
       "pubDate": "Mon, 20 Oct 2025 09:57:00 GMT"
+    }
+  ],
+  "Engineering": [
+    {
+      "title": "Chinese Engineers Allegedly Damage ASML EUV Machine in Reverse-Engineering Effort - WebProNews",
+      "pubDate": "Mon, 20 Oct 2025 22:49:50 GMT"
     }
   ]
 }
