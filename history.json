@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Chatbot site depicting child sexual abuse images raises fears over misuse of AI - The Guardian",
-      "pubDate": "Sun, 21 Sep 2025 18:35:00 GMT"
-    },
-    {
       "title": "AI is 'coming at us fast'. But what exactly is it being used for right now? - Australian Broadcasting Corporation",
       "pubDate": "Sun, 21 Sep 2025 22:18:45 GMT"
     },
@@ -159,13 +155,13 @@
     {
       "title": "AI Data Centers Create Fury From Mexico to Ireland - The New York Times",
       "pubDate": "Mon, 20 Oct 2025 19:00:09 GMT"
+    },
+    {
+      "title": "How Trump is Using AI to Attack Enemies and Rouse Supporters - The New York Times",
+      "pubDate": "Tue, 21 Oct 2025 09:03:33 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Gov. Josh Shapiro says Americans must \u2018universally condemn\u2019 political violence following Charlie Kirk's assassination - NBC News",
-      "pubDate": "Sun, 21 Sep 2025 13:02:14 GMT"
-    },
     {
       "title": "Trump calls Charlie Kirk an \u2018American hero\u2019 at memorial: Live updates - The Independent",
       "pubDate": "Mon, 22 Sep 2025 07:30:00 GMT"
@@ -257,6 +253,10 @@
     {
       "title": "Trump mulls invoking the Insurrection Act and signals he\u2019ll send troops to San Francisco - The Independent",
       "pubDate": "Sun, 19 Oct 2025 18:45:00 GMT"
+    },
+    {
+      "title": "Republican senators indicate they won\u2019t confirm Trump special counsel pick after \u2018Nazi streak\u2019 comments \u2013 US politics live - The Guardian",
+      "pubDate": "Tue, 21 Oct 2025 09:55:00 GMT"
     }
   ],
   "Israel": [
@@ -421,10 +421,6 @@
   ],
   "Russia": [
     {
-      "title": "Germany scrambles jets after Russia military aircraft flies over Baltic Sea - Al Jazeera",
-      "pubDate": "Sun, 21 Sep 2025 15:58:43 GMT"
-    },
-    {
       "title": "Russia, Iran sign nuclear power plants deal as sanctions loom - Al Jazeera",
       "pubDate": "Wed, 24 Sep 2025 15:47:44 GMT"
     },
@@ -483,6 +479,10 @@
     {
       "title": "Thune: Time to move on Russia sanctions bill - Politico",
       "pubDate": "Thu, 16 Oct 2025 18:00:30 GMT"
+    },
+    {
+      "title": "In a shift, White House says no plan for Trump-Putin summit - Axios",
+      "pubDate": "Tue, 21 Oct 2025 16:15:30 GMT"
     }
   ],
   "Donald Trump": [
@@ -611,10 +611,6 @@
   ],
   "China": [
     {
-      "title": "China isn't begging for Nvidia anymore. Here are homegrown tech plays to watch - CNBC",
-      "pubDate": "Sun, 21 Sep 2025 11:55:26 GMT"
-    },
-    {
       "title": "China keeps lending rates unchanged in Sept as trade tensions ease - Reuters",
       "pubDate": "Mon, 22 Sep 2025 01:36:02 GMT"
     },
@@ -720,10 +716,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Straight Out of a Sci-Fi: AI Modifies Its Own Code to Stop Humans From Shutting It Down - The Daily Galaxy",
-      "pubDate": "Sun, 21 Sep 2025 11:15:00 GMT"
-    },
     {
       "title": "UN General Assembly opens with plea for binding AI safeguards - NBC News",
       "pubDate": "Mon, 22 Sep 2025 15:00:40 GMT"
@@ -939,6 +931,10 @@
     {
       "title": "China accuses US of cyber breaches at national time centre - Reuters",
       "pubDate": "Sun, 19 Oct 2025 04:12:00 GMT"
+    },
+    {
+      "title": "Social engineering gains ground as preferred method of initial access - Cybersecurity Dive",
+      "pubDate": "Tue, 21 Oct 2025 15:39:40 GMT"
     }
   ],
   "US Economy": [
@@ -1049,6 +1045,10 @@
     {
       "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators - OpenAI",
       "pubDate": "Mon, 13 Oct 2025 13:05:17 GMT"
+    },
+    {
+      "title": "OpenAI sets ChatGPT Atlas browser launch, sending Alphabet shares lower - CNBC",
+      "pubDate": "Tue, 21 Oct 2025 16:12:35 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1083,16 +1083,8 @@
   ],
   "Gaza": [
     {
-      "title": "Trump goes into UN gathering isolated but defiant on path ahead for Gaza - CNN",
-      "pubDate": "Sun, 21 Sep 2025 12:00:05 GMT"
-    },
-    {
       "title": "Scoop: Trump plans summit in New York with Arab leaders on Gaza war - Axios",
       "pubDate": "Sun, 21 Sep 2025 17:58:17 GMT"
-    },
-    {
-      "title": "Britain, Canada and Australia formally recognize a Palestinian state, deepening Israel\u2019s isolation - CNN",
-      "pubDate": "Sun, 21 Sep 2025 16:03:25 GMT"
     },
     {
       "title": "With or without a ceasefire, humanitarian aid must enter Gaza. We managed it in previous wars | Moazzam Malik - The Guardian",
@@ -1389,6 +1381,10 @@
     {
       "title": "Three Women in Alaska Collaborate on an Exhibit About Climate Change - The New York Times",
       "pubDate": "Sun, 19 Oct 2025 09:00:19 GMT"
+    },
+    {
+      "title": "Child Care Professionals Are on the Front Lines as Climate Change Risks Children\u2019s Health and Development - Center for American Progress",
+      "pubDate": "Tue, 21 Oct 2025 13:01:13 GMT"
     }
   ],
   "Algorithms": [
@@ -1446,10 +1442,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Why Israel Might Be Forced to End Its Nuclear Ambiguity Thanks to Turkey - National Security Journal",
-      "pubDate": "Sun, 21 Sep 2025 16:52:30 GMT"
-    },
     {
       "title": "Pentagon plans widespread random polygraphs, NDAs to stanch leaks - The Washington Post",
       "pubDate": "Wed, 01 Oct 2025 22:24:21 GMT"
@@ -2287,6 +2279,12 @@
     {
       "title": "Chinese Engineers Allegedly Damage ASML EUV Machine in Reverse-Engineering Effort - WebProNews",
       "pubDate": "Mon, 20 Oct 2025 22:49:50 GMT"
+    }
+  ],
+  "Energy Storage": [
+    {
+      "title": "China powers global growth in electricity storage - Financial Times",
+      "pubDate": "Tue, 21 Oct 2025 11:00:11 GMT"
     }
   ]
 }
