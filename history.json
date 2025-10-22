@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "California issues historic fine over lawyer\u2019s ChatGPT fabrications - CalMatters",
-      "pubDate": "Mon, 22 Sep 2025 12:35:00 GMT"
-    },
-    {
       "title": "Nvidia and OpenAI agree US$100 billion deal to boost AI infrastructure - South China Morning Post",
       "pubDate": "Tue, 23 Sep 2025 03:24:16 GMT"
     },
@@ -271,10 +267,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia accuses Estonia of airspace incursion falsity to stoke tensions - Al Jazeera",
-      "pubDate": "Mon, 22 Sep 2025 12:35:57 GMT"
-    },
-    {
       "title": "UN commission finds Russia targets Ukrainian civilians using short-range drones - Jurist.org",
       "pubDate": "Tue, 23 Sep 2025 00:40:32 GMT"
     },
@@ -459,6 +451,10 @@
     {
       "title": "Ukraine war briefing: Storm Shadow missiles \u2018hit gunpowder plant in Russia\u2019 - The Guardian",
       "pubDate": "Wed, 22 Oct 2025 03:20:00 GMT"
+    },
+    {
+      "title": "Ukrainian children killed in Russian strikes, hours after Trump-Putin talks shelved - BBC",
+      "pubDate": "Wed, 22 Oct 2025 10:37:25 GMT"
     }
   ],
   "Donald Trump": [
@@ -689,13 +685,13 @@
     {
       "title": "US and Australia sign rare earths deal to counter China's dominance - BBC",
       "pubDate": "Tue, 21 Oct 2025 02:08:08 GMT"
+    },
+    {
+      "title": "Exclusive: US considering curbs on exports to China made with US software, sources say - Reuters",
+      "pubDate": "Wed, 22 Oct 2025 16:33:13 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "UN General Assembly opens with plea for binding AI safeguards - NBC News",
-      "pubDate": "Mon, 22 Sep 2025 15:00:40 GMT"
-    },
     {
       "title": "DeepMind AI safety report explores the perils of \u201cmisaligned\u201d AI - Ars Technica",
       "pubDate": "Mon, 22 Sep 2025 18:18:00 GMT"
@@ -857,10 +853,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "EU agency confirms ransomware attack behind airport disruptions - Reuters",
-      "pubDate": "Mon, 22 Sep 2025 15:58:14 GMT"
-    },
-    {
       "title": "Two-Thirds of Organizations Have Unfilled Cybersecurity Positions - Infosecurity Magazine",
       "pubDate": "Mon, 29 Sep 2025 10:15:00 GMT"
     },
@@ -969,6 +961,10 @@
     {
       "title": "Trump immigration policies would slash workforce estimate by 15.7 million and slow GDP growth by a third over the next decade, study says - Fortune",
       "pubDate": "Tue, 21 Oct 2025 08:03:00 GMT"
+    },
+    {
+      "title": "World Economic Outlook, October 2025: Global Economy in Flux, Prospects Remain Dim - International Monetary Fund (IMF)",
+      "pubDate": "Wed, 22 Oct 2025 12:43:53 GMT"
     }
   ],
   "Earthquakes": [
@@ -1005,10 +1001,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "Commonwealth Fusion Systems books a $1B+ power deal for its future fusion reactor - TechCrunch",
-      "pubDate": "Mon, 22 Sep 2025 11:00:00 GMT"
-    },
-    {
       "title": "Chinese lab sets new benchmark after building device that generates 180 million-degree temperatures: 'A major turning point' - The Cool Down",
       "pubDate": "Fri, 03 Oct 2025 21:15:00 GMT"
     },
@@ -1040,10 +1032,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Quantum Computing Inc. Announces $500 Million Oversubscribed Private Placement - The Quantum Insider",
-      "pubDate": "Mon, 22 Sep 2025 11:05:45 GMT"
-    },
     {
       "title": "Device with 6100 qubits is a step towards largest quantum computer yet - New Scientist",
       "pubDate": "Wed, 24 Sep 2025 15:00:38 GMT"
@@ -1193,6 +1181,10 @@
     {
       "title": "Israel takes steps to shut down international aid groups in Gaza and the West Bank - NPR",
       "pubDate": "Tue, 21 Oct 2025 17:30:08 GMT"
+    },
+    {
+      "title": "U.N. Court Says Israel Must Allow Unrwa Aid Into Gaza - The Wall Street Journal",
+      "pubDate": "Wed, 22 Oct 2025 16:17:00 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1214,14 +1206,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "\"Fossil Fuels Kill 24,000 Europeans\": Climate Deaths Shock Scientists While Governments Increase Oil Production - Sustainability Times",
-      "pubDate": "Mon, 22 Sep 2025 11:58:07 GMT"
-    },
-    {
-      "title": "Climate change raises costs for European forestry - Nature",
-      "pubDate": "Mon, 22 Sep 2025 15:53:53 GMT"
-    },
     {
       "title": "Fish \u2018fingerprints\u2019 in the ocean reveal which species are moving homes due to climate change - The Conversation",
       "pubDate": "Mon, 22 Sep 2025 23:47:48 GMT"
@@ -1643,6 +1627,10 @@
     {
       "title": "Mosquitoes found in Iceland for first time as climate crisis warms country - The Guardian",
       "pubDate": "Tue, 21 Oct 2025 10:46:00 GMT"
+    },
+    {
+      "title": "Climate disasters in first half of 2025 costliest ever on record, research shows - The Guardian",
+      "pubDate": "Wed, 22 Oct 2025 14:33:00 GMT"
     }
   ],
   "Democracy": [
