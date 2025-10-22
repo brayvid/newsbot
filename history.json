@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "MIT Researchers Enhanced Artificial Intelligence (AI) 64x Better at Planning, Achieving 94% Accuracy - MarkTechPost",
-      "pubDate": "Mon, 22 Sep 2025 07:06:44 GMT"
-    },
-    {
       "title": "California issues historic fine over lawyer\u2019s ChatGPT fabrications - CalMatters",
       "pubDate": "Mon, 22 Sep 2025 12:35:00 GMT"
     },
@@ -159,10 +155,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump calls Charlie Kirk an \u2018American hero\u2019 at memorial: Live updates - The Independent",
-      "pubDate": "Mon, 22 Sep 2025 07:30:00 GMT"
-    },
-    {
       "title": "Supreme Court allows Trump to fire Democratic member of trade commission - The Washington Post",
       "pubDate": "Tue, 23 Sep 2025 03:02:09 GMT"
     },
@@ -253,10 +245,6 @@
   ],
   "Israel": [
     {
-      "title": "UK tells Israel not to retaliate as France prepares to join countries recognising Palestinian state - BBC",
-      "pubDate": "Mon, 22 Sep 2025 09:41:39 GMT"
-    },
-    {
       "title": "More experts are calling Israel's actions in Gaza genocide. But others note that's a court's call - AP News",
       "pubDate": "Tue, 23 Sep 2025 04:05:00 GMT"
     },
@@ -282,10 +270,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "\u2018These killings will go on for years\u2019: murder of Ukrainian MP highlights shadow war of assassinations - The Guardian",
-      "pubDate": "Mon, 22 Sep 2025 08:18:00 GMT"
-    },
     {
       "title": "Russia accuses Estonia of airspace incursion falsity to stoke tensions - Al Jazeera",
       "pubDate": "Mon, 22 Sep 2025 12:35:57 GMT"
@@ -569,10 +553,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "Markets Today: Gold Surges Above $3700/oz, China Keep Rates on Hold and FTSE Holds at Support - marketpulse.com",
-      "pubDate": "Mon, 22 Sep 2025 08:18:00 GMT"
-    },
-    {
       "title": "Gold Hits Fresh Record as Traders Weigh China Reserves, Fed Cuts - Yahoo Finance",
       "pubDate": "Tue, 23 Sep 2025 14:59:01 GMT"
     },
@@ -603,6 +583,10 @@
     {
       "title": "Stock Market News, Oct. 21, 2025: Gold Suffers Biggest Drop in More Than a Decade - The Wall Street Journal",
       "pubDate": "Wed, 22 Oct 2025 00:45:00 GMT"
+    },
+    {
+      "title": "Bubble-talk is breaking out everywhere - Financial Times",
+      "pubDate": "Wed, 22 Oct 2025 04:00:30 GMT"
     }
   ],
   "China": [
@@ -831,6 +815,10 @@
     {
       "title": "Q&A: Co-author of NY's AI safety bill decries 'bad faith VCs' - PitchBook",
       "pubDate": "Tue, 21 Oct 2025 17:54:24 GMT"
+    },
+    {
+      "title": "Harry and Meghan join AI pioneers in call for ban on superintelligent systems - The Guardian",
+      "pubDate": "Wed, 22 Oct 2025 07:41:00 GMT"
     }
   ],
   "Data Breach": [
@@ -935,6 +923,10 @@
     {
       "title": "Dataminr to acquire cybersecurity firm ThreatConnect for $290 million - CyberScoop",
       "pubDate": "Tue, 21 Oct 2025 12:47:23 GMT"
+    },
+    {
+      "title": "Corporate Director Liability in the Era of Cybersecurity Risks - The Regulatory Review",
+      "pubDate": "Wed, 22 Oct 2025 04:11:47 GMT"
     }
   ],
   "US Economy": [
@@ -1078,10 +1070,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "With or without a ceasefire, humanitarian aid must enter Gaza. We managed it in previous wars | Moazzam Malik - The Guardian",
-      "pubDate": "Mon, 22 Sep 2025 08:00:00 GMT"
-    },
     {
       "title": "Two Gaza hospitals forced to stop operations as Israeli offensive escalates, health ministry says - Reuters",
       "pubDate": "Mon, 22 Sep 2025 20:51:55 GMT"
@@ -1231,10 +1219,6 @@
       "pubDate": "Mon, 22 Sep 2025 11:58:07 GMT"
     },
     {
-      "title": "This small Virginia island could be underwater before the next century - NPR",
-      "pubDate": "Mon, 22 Sep 2025 10:00:00 GMT"
-    },
-    {
       "title": "Climate change raises costs for European forestry - Nature",
       "pubDate": "Mon, 22 Sep 2025 15:53:53 GMT"
     },
@@ -1377,6 +1361,10 @@
     {
       "title": "New Report Finds Efforts to Slow Climate Change Are Working\u2014Just Not Fast Enough - WIRED",
       "pubDate": "Wed, 22 Oct 2025 04:01:00 GMT"
+    },
+    {
+      "title": "US and Qatar issue energy and trade threats to EU over climate rules - Financial Times",
+      "pubDate": "Wed, 22 Oct 2025 04:00:44 GMT"
     }
   ],
   "Algorithms": [
@@ -1473,10 +1461,6 @@
   ],
   "North Korea": [
     {
-      "title": "North Korea willing to hold dialogue with US if it stops insisting on denuclearization, says Kim - Anadolu Ajans\u0131",
-      "pubDate": "Mon, 22 Sep 2025 05:52:06 GMT"
-    },
-    {
       "title": "In a rare UN appearance, senior North Korean diplomat insists his country won't give up nukes - AP News",
       "pubDate": "Mon, 29 Sep 2025 22:10:00 GMT"
     },
@@ -1503,6 +1487,10 @@
     {
       "title": "South Korea to deploy its most powerful non-nuclear \u2018bunker buster\u2019 missile, Hyunmoo-5 that can reach Chin - The Economic Times",
       "pubDate": "Sat, 18 Oct 2025 02:43:06 GMT"
+    },
+    {
+      "title": "North Korea fires ballistic missiles as Trump prepares for Asia trip - Reuters",
+      "pubDate": "Wed, 22 Oct 2025 05:10:01 GMT"
     }
   ],
   "Iran": [
@@ -1863,6 +1851,10 @@
     {
       "title": "Tesla\u2019s European Regulator Says Door Safety a \u2018Key Priority\u2019 - Bloomberg.com",
       "pubDate": "Thu, 16 Oct 2025 13:50:39 GMT"
+    },
+    {
+      "title": "Tesla to recall nearly 13,000 US vehicles over battery risk - Reuters",
+      "pubDate": "Wed, 22 Oct 2025 09:50:41 GMT"
     }
   ],
   "Kim Jong Un": [
@@ -2309,6 +2301,12 @@
     {
       "title": "A new Supreme Court case could turn the National Guard into Trump\u2019s personal army - vox.com",
       "pubDate": "Tue, 21 Oct 2025 17:50:00 GMT"
+    }
+  ],
+  "Amazon": [
+    {
+      "title": "Amazon Plans to Replace 600,000 Human Workers With Robots, Report Says - CNET",
+      "pubDate": "Wed, 22 Oct 2025 00:01:00 GMT"
     }
   ]
 }
