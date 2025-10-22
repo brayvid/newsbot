@@ -163,10 +163,6 @@
       "pubDate": "Mon, 22 Sep 2025 07:30:00 GMT"
     },
     {
-      "title": "Trump will never change, but Kirk\u2019s death shines a path to MAGA\u2019s future - CNN",
-      "pubDate": "Mon, 22 Sep 2025 04:00:05 GMT"
-    },
-    {
       "title": "Supreme Court allows Trump to fire Democratic member of trade commission - The Washington Post",
       "pubDate": "Tue, 23 Sep 2025 03:02:09 GMT"
     },
@@ -286,10 +282,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine News Today: Breaking Updates & Live Coverage - September 22 - Kyiv Post",
-      "pubDate": "Mon, 22 Sep 2025 02:37:07 GMT"
-    },
     {
       "title": "\u2018These killings will go on for years\u2019: murder of Ukrainian MP highlights shadow war of assassinations - The Guardian",
       "pubDate": "Mon, 22 Sep 2025 08:18:00 GMT"
@@ -479,13 +471,13 @@
     {
       "title": "In a shift, White House says no plan for Trump-Putin summit - Axios",
       "pubDate": "Tue, 21 Oct 2025 16:15:30 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Storm Shadow missiles \u2018hit gunpowder plant in Russia\u2019 - The Guardian",
+      "pubDate": "Wed, 22 Oct 2025 03:20:00 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump lionizes Charlie Kirk, warns of dangers to America - Politico",
-      "pubDate": "Mon, 22 Sep 2025 00:17:38 GMT"
-    },
     {
       "title": "Trump orders deployment of troops to Portland and authorises 'full force' - BBC",
       "pubDate": "Sat, 27 Sep 2025 18:35:45 GMT"
@@ -607,13 +599,13 @@
     {
       "title": "FTSE 100 heading for worst day since April as US regional bank worries rock markets \u2013 business live - The Guardian",
       "pubDate": "Fri, 17 Oct 2025 09:54:47 GMT"
+    },
+    {
+      "title": "Stock Market News, Oct. 21, 2025: Gold Suffers Biggest Drop in More Than a Decade - The Wall Street Journal",
+      "pubDate": "Wed, 22 Oct 2025 00:45:00 GMT"
     }
   ],
   "China": [
-    {
-      "title": "China keeps lending rates unchanged in Sept as trade tensions ease - Reuters",
-      "pubDate": "Mon, 22 Sep 2025 01:36:02 GMT"
-    },
     {
       "title": "China just made a big technological leap, launching a stealth jet off its newest carrier with an electromagnetic catapult - Business Insider",
       "pubDate": "Tue, 23 Sep 2025 18:56:00 GMT"
@@ -1007,10 +999,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Bitcoin falls below $114,500 after FOMC hype fades; market shows 'nervous optimism' - theblock.co",
-      "pubDate": "Mon, 22 Sep 2025 03:26:02 GMT"
-    },
-    {
       "title": "U.S. Bitcoin spot ETFs see net outflows of $930 million last week - bloomingbit",
       "pubDate": "Sun, 28 Sep 2025 04:52:52 GMT"
     },
@@ -1213,6 +1201,10 @@
     {
       "title": "Nations Hesitate to Send Troops to Gaza, Fearing Clashes With Hamas - The New York Times",
       "pubDate": "Tue, 21 Oct 2025 09:57:57 GMT"
+    },
+    {
+      "title": "Israel takes steps to shut down international aid groups in Gaza and the West Bank - NPR",
+      "pubDate": "Tue, 21 Oct 2025 17:30:08 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1234,10 +1226,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Leaders promised to cut climate pollution, then doubled down on fossil fuels - NPR",
-      "pubDate": "Mon, 22 Sep 2025 04:01:00 GMT"
-    },
     {
       "title": "\"Fossil Fuels Kill 24,000 Europeans\": Climate Deaths Shock Scientists While Governments Increase Oil Production - Sustainability Times",
       "pubDate": "Mon, 22 Sep 2025 11:58:07 GMT"
@@ -1385,6 +1373,10 @@
     {
       "title": "Child Care Professionals Are on the Front Lines as Climate Change Risks Children\u2019s Health and Development - Center for American Progress",
       "pubDate": "Tue, 21 Oct 2025 13:01:13 GMT"
+    },
+    {
+      "title": "New Report Finds Efforts to Slow Climate Change Are Working\u2014Just Not Fast Enough - WIRED",
+      "pubDate": "Wed, 22 Oct 2025 04:01:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1439,6 +1431,10 @@
     {
       "title": "Google Announces Gemini 3.0: Artificial Intelligence Evolves Toward AGI - Red Hot Cyber",
       "pubDate": "Mon, 20 Oct 2025 10:28:43 GMT"
+    },
+    {
+      "title": "Did an OpenAI cofounder just pop the AI bubble? \u2018The models are not there\u2019 - Fortune",
+      "pubDate": "Tue, 21 Oct 2025 17:37:03 GMT"
     }
   ],
   "National Security": [
@@ -1835,6 +1831,10 @@
     {
       "title": "'Catastrophic' attack as Russians hack files on EIGHT MoD bases and post them on the dark web - Daily Mail",
       "pubDate": "Sat, 18 Oct 2025 21:00:48 GMT"
+    },
+    {
+      "title": "Hundreds of masked ICE agents doxxed by hackers, as personal details posted on Telegram - Bitdefender",
+      "pubDate": "Tue, 21 Oct 2025 21:09:34 GMT"
     }
   ],
   "Space Exploration": [
@@ -2303,6 +2303,12 @@
     {
       "title": "Ethics Watchdog Group Seeks Investigation Into Border Czar and Contracts Following ProPublica Report - ProPublica",
       "pubDate": "Tue, 21 Oct 2025 17:35:00 GMT"
+    }
+  ],
+  "United States Constitution": [
+    {
+      "title": "A new Supreme Court case could turn the National Guard into Trump\u2019s personal army - vox.com",
+      "pubDate": "Tue, 21 Oct 2025 17:50:00 GMT"
     }
   ]
 }
