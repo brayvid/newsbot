@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "'AI red lines' campaign launches at U.N. Here's what they might be. - Mashable",
-      "pubDate": "Tue, 23 Sep 2025 11:24:20 GMT"
-    },
-    {
       "title": "Alibaba Shares Jump After CEO Reveals Plans to Raise AI Spending - Bloomberg.com",
       "pubDate": "Wed, 24 Sep 2025 03:14:00 GMT"
     },
@@ -142,14 +138,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump addresses UN amid divide over Palestinian statehood - CNN",
-      "pubDate": "Tue, 23 Sep 2025 15:27:00 GMT"
-    },
-    {
-      "title": "Trump cancels meeting with Schumer and Jeffries on keeping the government open - PBS",
-      "pubDate": "Tue, 23 Sep 2025 14:53:17 GMT"
-    },
     {
       "title": "Trump slams migration, failures to end wars in UN speech - NBC News",
       "pubDate": "Wed, 24 Sep 2025 03:14:00 GMT"
@@ -423,6 +411,10 @@
     {
       "title": "Ukrainian children killed in Russian strikes, hours after Trump-Putin talks shelved - BBC",
       "pubDate": "Wed, 22 Oct 2025 10:37:25 GMT"
+    },
+    {
+      "title": "US sanctions Russian oil companies after failed Putin talks - BBC",
+      "pubDate": "Thu, 23 Oct 2025 11:45:10 GMT"
     }
   ],
   "Donald Trump": [
@@ -516,10 +508,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Gold Hits Fresh Record as Traders Weigh China Reserves, Fed Cuts - Yahoo Finance",
-      "pubDate": "Tue, 23 Sep 2025 14:59:01 GMT"
-    },
     {
       "title": "The Echoes of 2007 Are Starting to Become Louder: Credit Weekly - Bloomberg.com",
       "pubDate": "Sat, 27 Sep 2025 19:00:00 GMT"
@@ -665,10 +653,6 @@
   ],
   "AI Safety": [
     {
-      "title": "200 Experts Demand Global AI Red Lines by 2026 - eWeek",
-      "pubDate": "Tue, 23 Sep 2025 16:15:00 GMT"
-    },
-    {
       "title": "Stanford AI Safety Workshop Vitally Showcases The Path To Safer AI And Making AI Safe - Forbes",
       "pubDate": "Tue, 23 Sep 2025 20:41:41 GMT"
     },
@@ -771,6 +755,10 @@
     {
       "title": "Harry and Meghan join AI pioneers in call for ban on superintelligent systems - The Guardian",
       "pubDate": "Wed, 22 Oct 2025 07:41:00 GMT"
+    },
+    {
+      "title": "China moves to strengthen regulation of AI safety and ethics - South China Morning Post",
+      "pubDate": "Thu, 23 Oct 2025 08:38:23 GMT"
     }
   ],
   "Data Breach": [
@@ -921,6 +909,10 @@
     {
       "title": "World Economic Outlook, October 2025: Global Economy in Flux, Prospects Remain Dim - International Monetary Fund (IMF)",
       "pubDate": "Wed, 22 Oct 2025 12:43:53 GMT"
+    },
+    {
+      "title": "AI is keeping the US economy out of a recession - Yahoo Finance",
+      "pubDate": "Thu, 23 Oct 2025 10:00:12 GMT"
     }
   ],
   "Earthquakes": [
@@ -1014,10 +1006,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israeli forces push deeper into Gaza City with heavy shelling and explosions reported - CNN",
-      "pubDate": "Tue, 23 Sep 2025 12:09:47 GMT"
-    },
     {
       "title": "Explosions and drones targeting Gaza aid flotilla boats, activists say - The Guardian",
       "pubDate": "Wed, 24 Sep 2025 00:48:00 GMT"
@@ -1158,10 +1146,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Trump slams climate change: 'The greatest con job ever perpetrated on the world' - NBC News",
-      "pubDate": "Tue, 23 Sep 2025 15:05:07 GMT"
-    },
     {
       "title": "Trump Calls Climate Change \u2018Con Job\u2019 and \u2018Scam\u2019 in Speech to U.N. General Assembly - Time Magazine",
       "pubDate": "Tue, 23 Sep 2025 17:32:24 GMT"
@@ -1431,6 +1415,10 @@
     {
       "title": "North Korea fires ballistic missiles as Trump prepares for Asia trip - Reuters",
       "pubDate": "Wed, 22 Oct 2025 05:10:01 GMT"
+    },
+    {
+      "title": "North Korea has stolen billions in cryptocurrency and tech firm salaries, report says - NBC News",
+      "pubDate": "Thu, 23 Oct 2025 08:40:18 GMT"
     }
   ],
   "Iran": [
@@ -1557,6 +1545,10 @@
     {
       "title": "Government aims to create 400,000 jobs through UK national green energy plan - The Guardian",
       "pubDate": "Sun, 19 Oct 2025 13:53:00 GMT"
+    },
+    {
+      "title": "Renewable energy investment should come from defence budgets, say retired military leaders - The Guardian",
+      "pubDate": "Thu, 23 Oct 2025 10:58:00 GMT"
     }
   ],
   "Climate": [
@@ -1673,6 +1665,10 @@
     {
       "title": "SpaceX has a few tricks up its sleeve for the last Starship flight of the year - Ars Technica",
       "pubDate": "Tue, 30 Sep 2025 18:36:17 GMT"
+    },
+    {
+      "title": "European firms unite in bid to rival SpaceX - BBC",
+      "pubDate": "Thu, 23 Oct 2025 11:56:22 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
