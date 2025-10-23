@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Nvidia and OpenAI agree US$100 billion deal to boost AI infrastructure - South China Morning Post",
-      "pubDate": "Tue, 23 Sep 2025 03:24:16 GMT"
-    },
-    {
-      "title": "America\u2019s top companies keep talking about AI \u2014 but can\u2019t explain the upsides - Financial Times",
-      "pubDate": "Tue, 23 Sep 2025 04:00:51 GMT"
-    },
-    {
       "title": "'AI red lines' campaign launches at U.N. Here's what they might be. - Mashable",
       "pubDate": "Tue, 23 Sep 2025 11:24:20 GMT"
     },
@@ -151,14 +143,6 @@
   ],
   "US Politics": [
     {
-      "title": "Supreme Court allows Trump to fire Democratic member of trade commission - The Washington Post",
-      "pubDate": "Tue, 23 Sep 2025 03:02:09 GMT"
-    },
-    {
-      "title": "Trump blames Tylenol for autism. Science doesn't back him up : Shots - Health News - NPR",
-      "pubDate": "Tue, 23 Sep 2025 00:36:41 GMT"
-    },
-    {
       "title": "Trump addresses UN amid divide over Palestinian statehood - CNN",
       "pubDate": "Tue, 23 Sep 2025 15:27:00 GMT"
     },
@@ -241,10 +225,6 @@
   ],
   "Israel": [
     {
-      "title": "More experts are calling Israel's actions in Gaza genocide. But others note that's a court's call - AP News",
-      "pubDate": "Tue, 23 Sep 2025 04:05:00 GMT"
-    },
-    {
       "title": "Israel seeks permanent Gaza control, Jewish majority in West Bank: UN - Al Jazeera",
       "pubDate": "Tue, 23 Sep 2025 19:42:27 GMT"
     },
@@ -266,18 +246,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "UN commission finds Russia targets Ukrainian civilians using short-range drones - Jurist.org",
-      "pubDate": "Tue, 23 Sep 2025 00:40:32 GMT"
-    },
-    {
-      "title": "Ukraine faces a new test as Russia steps up its drive to seize Donetsk\u2019s fortress belt - Yahoo",
-      "pubDate": "Tue, 23 Sep 2025 05:12:00 GMT"
-    },
-    {
-      "title": "Ukraine drones attack Moscow as Zelenskyy arrives for United Nations meeting - Yahoo",
-      "pubDate": "Tue, 23 Sep 2025 09:49:00 GMT"
-    },
     {
       "title": "Trump Says Ukraine Can Take Back All Lost Territory - Eurasia Business News",
       "pubDate": "Tue, 23 Sep 2025 20:20:42 GMT"
@@ -689,25 +657,13 @@
     {
       "title": "Exclusive: US considering curbs on exports to China made with US software, sources say - Reuters",
       "pubDate": "Wed, 22 Oct 2025 16:33:13 GMT"
+    },
+    {
+      "title": "How China Raced Ahead of the U.S. on Nuclear Power - The New York Times",
+      "pubDate": "Thu, 23 Oct 2025 02:00:01 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "DeepMind AI safety report explores the perils of \u201cmisaligned\u201d AI - Ars Technica",
-      "pubDate": "Mon, 22 Sep 2025 18:18:00 GMT"
-    },
-    {
-      "title": "DeepMind: Models may resist shutdowns - theregister.com",
-      "pubDate": "Mon, 22 Sep 2025 22:26:00 GMT"
-    },
-    {
-      "title": "Nobel Laureates and Global Experts Push for Binding AI Safeguards - Digital Information World",
-      "pubDate": "Tue, 23 Sep 2025 06:08:00 GMT"
-    },
-    {
-      "title": "Google's revised AI safety framework adds manipulation protection - iTnews",
-      "pubDate": "Tue, 23 Sep 2025 04:09:00 GMT"
-    },
     {
       "title": "200 Experts Demand Global AI Red Lines by 2026 - eWeek",
       "pubDate": "Tue, 23 Sep 2025 16:15:00 GMT"
@@ -1059,14 +1015,6 @@
   ],
   "Gaza": [
     {
-      "title": "Two Gaza hospitals forced to stop operations as Israeli offensive escalates, health ministry says - Reuters",
-      "pubDate": "Mon, 22 Sep 2025 20:51:55 GMT"
-    },
-    {
-      "title": "Offensive shutters nearly half of all malnutrition centres in and around Gaza City - Department of Political and Peacebuilding Affairs",
-      "pubDate": "Tue, 23 Sep 2025 06:39:48 GMT"
-    },
-    {
       "title": "Israeli forces push deeper into Gaza City with heavy shelling and explosions reported - CNN",
       "pubDate": "Tue, 23 Sep 2025 12:09:47 GMT"
     },
@@ -1185,6 +1133,10 @@
     {
       "title": "U.N. Court Says Israel Must Allow Unrwa Aid Into Gaza - The Wall Street Journal",
       "pubDate": "Wed, 22 Oct 2025 16:17:00 GMT"
+    },
+    {
+      "title": "LIVE: UN urges Israel to allow medical evacuation from Gaza amid ceasefire - Al Jazeera",
+      "pubDate": "Thu, 23 Oct 2025 07:57:38 GMT"
     }
   ],
   "Cryptocurrency": [
@@ -1206,10 +1158,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Fish \u2018fingerprints\u2019 in the ocean reveal which species are moving homes due to climate change - The Conversation",
-      "pubDate": "Mon, 22 Sep 2025 23:47:48 GMT"
-    },
     {
       "title": "Trump slams climate change: 'The greatest con job ever perpetrated on the world' - NBC News",
       "pubDate": "Tue, 23 Sep 2025 15:05:07 GMT"
@@ -1349,6 +1297,10 @@
     {
       "title": "US and Qatar issue energy and trade threats to EU over climate rules - Financial Times",
       "pubDate": "Wed, 22 Oct 2025 04:00:44 GMT"
+    },
+    {
+      "title": "How much is climate change costing US households? - Brookings",
+      "pubDate": "Thu, 23 Oct 2025 04:33:30 GMT"
     }
   ],
   "Algorithms": [
@@ -1381,6 +1333,10 @@
     {
       "title": "Nvidia, AMD Stocks Tumble as U.S. Senate Targets AI Chip Exports to China - Yahoo",
       "pubDate": "Sat, 11 Oct 2025 19:48:47 GMT"
+    },
+    {
+      "title": "Russia secretly acquired Western technology to protect its nuclear submarine fleet - International Consortium of Investigative Journalists - ICIJ",
+      "pubDate": "Thu, 23 Oct 2025 08:33:23 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -1897,6 +1853,10 @@
     {
       "title": "Ukrainian drones strike major Russian gas plant - The Hill",
       "pubDate": "Sun, 19 Oct 2025 09:45:00 GMT"
+    },
+    {
+      "title": "Blackouts hit Russia's Belgorod as Ukrainian drone attacks surge - BBC",
+      "pubDate": "Thu, 23 Oct 2025 06:19:23 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1965,6 +1925,10 @@
     {
       "title": "Introducing the Gemini 2.5 Computer Use model - The Keyword",
       "pubDate": "Tue, 07 Oct 2025 19:51:55 GMT"
+    },
+    {
+      "title": "Exclusive | Trump Administration in Talks to Take Equity Stakes in Quantum-Computing Firms - WSJ - The Wall Street Journal",
+      "pubDate": "Thu, 23 Oct 2025 01:00:00 GMT"
     }
   ],
   "European Union": [
@@ -2083,6 +2047,10 @@
     {
       "title": "Kids who use social media score lower on reading and memory tests, a study shows - NPR",
       "pubDate": "Mon, 13 Oct 2025 15:01:00 GMT"
+    },
+    {
+      "title": "New Zealand parliament to debate teen social media ban - Reuters",
+      "pubDate": "Thu, 23 Oct 2025 03:43:00 GMT"
     }
   ],
   "Volcanoes": [
