@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Alibaba Shares Jump After CEO Reveals Plans to Raise AI Spending - Bloomberg.com",
-      "pubDate": "Wed, 24 Sep 2025 03:14:00 GMT"
-    },
-    {
       "title": "Large breast cancer screening trial will be pivotal step in vetting AI for mammograms - statnews.com",
       "pubDate": "Wed, 24 Sep 2025 08:34:41 GMT"
     },
@@ -135,13 +131,13 @@
     {
       "title": "How Trump is Using AI to Attack Enemies and Rouse Supporters - The New York Times",
       "pubDate": "Tue, 21 Oct 2025 09:03:33 GMT"
+    },
+    {
+      "title": "Meta cuts 600 jobs amid AI expansion push \u2014 as automation replaces human staff - Fox Business",
+      "pubDate": "Fri, 24 Oct 2025 02:58:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump slams migration, failures to end wars in UN speech - NBC News",
-      "pubDate": "Wed, 24 Sep 2025 03:14:00 GMT"
-    },
     {
       "title": "Trump slams Kimmel's return: \"We're going to test ABC out on this\" - Axios",
       "pubDate": "Wed, 24 Sep 2025 05:07:06 GMT"
@@ -213,10 +209,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel seeks permanent Gaza control, Jewish majority in West Bank: UN - Al Jazeera",
-      "pubDate": "Tue, 23 Sep 2025 19:42:27 GMT"
-    },
-    {
       "title": "King Felipe pleads with Israel to \u2018stop massacre and abhorrent acts\u2019 in Gaza - The Guardian",
       "pubDate": "Wed, 24 Sep 2025 16:56:00 GMT"
     },
@@ -234,18 +226,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Trump Says Ukraine Can Take Back All Lost Territory - Eurasia Business News",
-      "pubDate": "Tue, 23 Sep 2025 20:20:42 GMT"
-    },
-    {
-      "title": "Backing away from Russia, Trump says Ukraine should win back its land and NATO allies should shoot down incursions - Politico",
-      "pubDate": "Tue, 23 Sep 2025 19:28:47 GMT"
-    },
-    {
-      "title": "Trump suggests Ukraine could reclaim territory from Russia - PBS",
-      "pubDate": "Tue, 23 Sep 2025 22:55:12 GMT"
-    },
     {
       "title": "Russia will expand aggression beyond Ukraine if Putin is not stopped, Zelensky warns - BBC",
       "pubDate": "Wed, 24 Sep 2025 18:22:17 GMT"
@@ -415,6 +395,10 @@
     {
       "title": "US sanctions Russian oil companies after failed Putin talks - BBC",
       "pubDate": "Thu, 23 Oct 2025 11:45:10 GMT"
+    },
+    {
+      "title": "Trump\u2019s Sanctions on Russian Oil Sector Ratchet Up Economic War - The New York Times",
+      "pubDate": "Thu, 23 Oct 2025 20:25:31 GMT"
     }
   ],
   "Donald Trump": [
@@ -505,6 +489,10 @@
     {
       "title": "Trump Said to Demand Justice Dept. Pay Him $230 Million for Past Cases - The New York Times",
       "pubDate": "Tue, 21 Oct 2025 21:47:02 GMT"
+    },
+    {
+      "title": "Trump Says He\u2019s Cutting Off Trade Negotiations With Canada - The New York Times",
+      "pubDate": "Fri, 24 Oct 2025 03:23:10 GMT"
     }
   ],
   "Financial Markets": [
@@ -542,10 +530,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China just made a big technological leap, launching a stealth jet off its newest carrier with an electromagnetic catapult - Business Insider",
-      "pubDate": "Tue, 23 Sep 2025 18:56:00 GMT"
-    },
     {
       "title": "Senior US senator wants to boost pressure on China over Taiwan - Reuters",
       "pubDate": "Sat, 04 Oct 2025 11:27:09 GMT"
@@ -652,14 +636,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Stanford AI Safety Workshop Vitally Showcases The Path To Safer AI And Making AI Safe - Forbes",
-      "pubDate": "Tue, 23 Sep 2025 20:41:41 GMT"
-    },
-    {
-      "title": "Stakeholders call for AI safety at UK summit - Vanguard News",
-      "pubDate": "Tue, 23 Sep 2025 22:04:24 GMT"
-    },
     {
       "title": "AI safety tool sparks student backlash after flagging art as porn, deleting emails - The Washington Post",
       "pubDate": "Wed, 24 Sep 2025 17:00:52 GMT"
@@ -1003,17 +979,13 @@
     {
       "title": "Simplified Sachdev-Ye-Kitaev model simulated on trapped-ion quantum computer - Phys.org",
       "pubDate": "Sun, 19 Oct 2025 13:20:01 GMT"
+    },
+    {
+      "title": "US Weighs Quantum Computing Boost in Effort to Counter China - Bloomberg.com",
+      "pubDate": "Thu, 23 Oct 2025 19:42:21 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "Explosions and drones targeting Gaza aid flotilla boats, activists say - The Guardian",
-      "pubDate": "Wed, 24 Sep 2025 00:48:00 GMT"
-    },
-    {
-      "title": "\u2018We are at our limit\u2019: Gaza\u2019s last hospitals overwhelmed as thousands flee south - The Guardian",
-      "pubDate": "Wed, 24 Sep 2025 04:00:00 GMT"
-    },
     {
       "title": "Israel kills 22 people including nine children in 'horrific massacre' in Gaza, Palestinian officials say - Sky News",
       "pubDate": "Wed, 24 Sep 2025 12:45:00 GMT"
@@ -1125,17 +1097,13 @@
     {
       "title": "LIVE: UN urges Israel to allow medical evacuation from Gaza amid ceasefire - Al Jazeera",
       "pubDate": "Thu, 23 Oct 2025 07:57:38 GMT"
+    },
+    {
+      "title": "Hamas Has Calculated It Can Survive in Gaza\u2014and Rule - The Wall Street Journal",
+      "pubDate": "Fri, 24 Oct 2025 03:00:00 GMT"
     }
   ],
   "Cryptocurrency": [
-    {
-      "title": "Morgan Stanley partners with Zerohash to launch cryptocurrency trading on E*Trade by 2026 - Mint",
-      "pubDate": "Tue, 23 Sep 2025 17:41:25 GMT"
-    },
-    {
-      "title": "Tether targets $500bn valuation with $20bn private funding round - Financial Times",
-      "pubDate": "Tue, 23 Sep 2025 23:37:42 GMT"
-    },
     {
       "title": "SEC\u2019s new rules set stage for wave of crypto ETFs - InvestmentNews",
       "pubDate": "Wed, 24 Sep 2025 18:22:51 GMT"
@@ -1146,18 +1114,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Trump Calls Climate Change \u2018Con Job\u2019 and \u2018Scam\u2019 in Speech to U.N. General Assembly - Time Magazine",
-      "pubDate": "Tue, 23 Sep 2025 17:32:24 GMT"
-    },
-    {
-      "title": "'Green scam': At UN, watched by drowning nations' leaders, Trump assails the ethos of climate change - AP News",
-      "pubDate": "Tue, 23 Sep 2025 22:05:00 GMT"
-    },
-    {
-      "title": "GOP attorneys general dispute climate science, urge end to greenhouse gas regs - Kentucky Lantern",
-      "pubDate": "Tue, 23 Sep 2025 22:41:15 GMT"
-    },
     {
       "title": "Super Typhoon Ragasa: scientists warn climate change leads to stronger storms - South China Morning Post",
       "pubDate": "Wed, 24 Sep 2025 09:31:24 GMT"
@@ -1285,6 +1241,10 @@
     {
       "title": "How much is climate change costing US households? - Brookings",
       "pubDate": "Thu, 23 Oct 2025 04:33:30 GMT"
+    },
+    {
+      "title": "How we made it: carbon emissions rise to new record - Financial Times",
+      "pubDate": "Fri, 24 Oct 2025 04:01:04 GMT"
     }
   ],
   "Algorithms": [
@@ -2259,6 +2219,12 @@
     {
       "title": "Amazon Plans to Replace 600,000 Human Workers With Robots, Report Says - CNET",
       "pubDate": "Wed, 22 Oct 2025 00:01:00 GMT"
+    }
+  ],
+  "US Senate": [
+    {
+      "title": "Government shutdown live updates as Senate fails to advance GOP bill to pay essential federal workers - CBS News",
+      "pubDate": "Thu, 23 Oct 2025 20:44:00 GMT"
     }
   ]
 }
