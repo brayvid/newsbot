@@ -1,18 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Large breast cancer screening trial will be pivotal step in vetting AI for mammograms - statnews.com",
-      "pubDate": "Wed, 24 Sep 2025 08:34:41 GMT"
-    },
-    {
-      "title": "Microsoft Partners With OpenAI Rival Anthropic on AI Copilot - Bloomberg.com",
-      "pubDate": "Wed, 24 Sep 2025 15:00:00 GMT"
-    },
-    {
-      "title": "Security Council LIVE: Guardrails urgently needed for AI on the battlefield, warns Guterres - UN News",
-      "pubDate": "Wed, 24 Sep 2025 19:32:36 GMT"
-    },
-    {
       "title": "UAE president meets OpenAI CEO to discuss AI collaboration - Reuters",
       "pubDate": "Sat, 27 Sep 2025 22:05:18 GMT"
     },
@@ -139,18 +127,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump slams Kimmel's return: \"We're going to test ABC out on this\" - Axios",
-      "pubDate": "Wed, 24 Sep 2025 05:07:06 GMT"
-    },
-    {
-      "title": "FBI investigating ICE facility shooting as act of 'targeted violence' - NBC News",
-      "pubDate": "Wed, 24 Sep 2025 15:38:37 GMT"
-    },
-    {
-      "title": "Officials reportedly identify Dallas Ice facility shooter; DHS corrects death toll down to one person killed \u2013 live - The Guardian",
-      "pubDate": "Wed, 24 Sep 2025 20:29:04 GMT"
-    },
-    {
       "title": "White House tells agencies to prepare for mass layoffs ahead of a potential government shutdown next week - CBS News",
       "pubDate": "Thu, 25 Sep 2025 03:08:19 GMT"
     },
@@ -205,13 +181,13 @@
     {
       "title": "Republican senators indicate they won\u2019t confirm Trump special counsel pick after \u2018Nazi streak\u2019 comments \u2013 US politics live - The Guardian",
       "pubDate": "Tue, 21 Oct 2025 09:55:00 GMT"
+    },
+    {
+      "title": "Trump Administration Won\u2019t Use Emergency Funds for Food Stamps During Shutdown - The New York Times",
+      "pubDate": "Fri, 24 Oct 2025 22:28:25 GMT"
     }
   ],
   "Israel": [
-    {
-      "title": "King Felipe pleads with Israel to \u2018stop massacre and abhorrent acts\u2019 in Gaza - The Guardian",
-      "pubDate": "Wed, 24 Sep 2025 16:56:00 GMT"
-    },
     {
       "title": "Live updates: Israel and Hamas sign first phase of Gaza ceasefire deal that would release hostages - The Washington Post",
       "pubDate": "Thu, 09 Oct 2025 16:31:45 GMT"
@@ -226,14 +202,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia will expand aggression beyond Ukraine if Putin is not stopped, Zelensky warns - BBC",
-      "pubDate": "Wed, 24 Sep 2025 18:22:17 GMT"
-    },
-    {
-      "title": "Trump\u2019s abrupt Ukraine shift exposes fresh frustrations with Putin - The Hill",
-      "pubDate": "Wed, 24 Sep 2025 21:13:00 GMT"
-    },
     {
       "title": "Ukrainian Nuclear Plant in Crisis: What to Know - Newsweek",
       "pubDate": "Sat, 27 Sep 2025 20:57:00 GMT"
@@ -320,10 +288,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia, Iran sign nuclear power plants deal as sanctions loom - Al Jazeera",
-      "pubDate": "Wed, 24 Sep 2025 15:47:44 GMT"
-    },
     {
       "title": "Russia warns NATO, EU: Any aggression will be met with 'decisive response' - TribLIVE.com",
       "pubDate": "Sat, 27 Sep 2025 20:02:00 GMT"
@@ -637,10 +601,6 @@
   ],
   "AI Safety": [
     {
-      "title": "AI safety tool sparks student backlash after flagging art as porn, deleting emails - The Washington Post",
-      "pubDate": "Wed, 24 Sep 2025 17:00:52 GMT"
-    },
-    {
       "title": "Can AI refuse to turn off? Google\u2019s latest safety move says yes - The Indian Express",
       "pubDate": "Thu, 25 Sep 2025 04:22:00 GMT"
     },
@@ -935,6 +895,10 @@
     {
       "title": "Once the butt of jokes, now a great hope: The race for fusion energy - Australian Broadcasting Corporation",
       "pubDate": "Sun, 12 Oct 2025 18:40:12 GMT"
+    },
+    {
+      "title": "Permitting of US fusion power plant progresses - World Nuclear News",
+      "pubDate": "Fri, 24 Oct 2025 15:23:54 GMT"
     }
   ],
   "OpenAI": [
@@ -957,14 +921,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "Device with 6100 qubits is a step towards largest quantum computer yet - New Scientist",
-      "pubDate": "Wed, 24 Sep 2025 15:00:38 GMT"
-    },
-    {
-      "title": "Physicists nearly double speed of superconducting qubit readout in quantum computers - Phys.org",
-      "pubDate": "Wed, 24 Sep 2025 15:06:03 GMT"
-    },
-    {
       "title": "HSBC demonstrates world\u2019s first-known quantum-enabled algorithmic trading with IBM - HSBC",
       "pubDate": "Wed, 24 Sep 2025 23:04:52 GMT"
     },
@@ -986,18 +942,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel kills 22 people including nine children in 'horrific massacre' in Gaza, Palestinian officials say - Sky News",
-      "pubDate": "Wed, 24 Sep 2025 12:45:00 GMT"
-    },
-    {
-      "title": "In Gaza, military offensive and civilian chaos hinder food aid - The Christian Science Monitor",
-      "pubDate": "Wed, 24 Sep 2025 18:25:46 GMT"
-    },
-    {
-      "title": "Spain's PM says he will send warship to protect Gaza aid flotilla - Reuters",
-      "pubDate": "Wed, 24 Sep 2025 20:28:46 GMT"
-    },
     {
       "title": "Italy to send a second navy ship to escort Gaza aid flotilla, in wake of alleged drone attacks - The Times of Israel",
       "pubDate": "Thu, 25 Sep 2025 07:21:37 GMT"
@@ -1105,23 +1049,11 @@
   ],
   "Cryptocurrency": [
     {
-      "title": "SEC\u2019s new rules set stage for wave of crypto ETFs - InvestmentNews",
-      "pubDate": "Wed, 24 Sep 2025 18:22:51 GMT"
-    },
-    {
       "title": "Philippines Turns to Blockchain After Mass Protests Over Corruption - Decrypt",
       "pubDate": "Thu, 25 Sep 2025 03:49:16 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "Super Typhoon Ragasa: scientists warn climate change leads to stronger storms - South China Morning Post",
-      "pubDate": "Wed, 24 Sep 2025 09:31:24 GMT"
-    },
-    {
-      "title": "China announces new climate goal to cut its world-leading emissions - PBS",
-      "pubDate": "Wed, 24 Sep 2025 20:27:28 GMT"
-    },
     {
       "title": "Sinking islands, vanishing forests: World leaders call for urgent climate action - UN News",
       "pubDate": "Thu, 25 Sep 2025 00:54:10 GMT"
@@ -1695,6 +1627,10 @@
     {
       "title": "Sunlight worsens wildfire smoke pollution, study finds - Phys.org",
       "pubDate": "Wed, 01 Oct 2025 18:00:01 GMT"
+    },
+    {
+      "title": "October 24, 2025: Beijing among top 10 most polluted cities in the world - IQAir",
+      "pubDate": "Fri, 24 Oct 2025 11:56:11 GMT"
     }
   ],
   "World News": [
@@ -1993,6 +1929,10 @@
     {
       "title": "Canada faces tariff-induced recession as Trump moves hit economy hard despite Carney's pledge - The Economic Times",
       "pubDate": "Fri, 17 Oct 2025 20:36:53 GMT"
+    },
+    {
+      "title": "Bond Market Misfires With Warning of a Recession That Never Came - Bloomberg.com",
+      "pubDate": "Fri, 24 Oct 2025 17:44:35 GMT"
     }
   ],
   "Social Media": [
@@ -2045,6 +1985,10 @@
     {
       "title": "As World Health Summit gathers in Berlin, Gavi and IRC\u2019s REACH Consortium Deliver 20 Million Vaccine Doses in Crisis Settings, Reduces Delivery Cost per Dose to US$2 - International Rescue Committee",
       "pubDate": "Fri, 10 Oct 2025 04:38:32 GMT"
+    },
+    {
+      "title": "Bird Flu Roars Back: What It Means for Thanksgiving - Think Global Health",
+      "pubDate": "Fri, 24 Oct 2025 11:57:05 GMT"
     }
   ],
   "Astronomy": [
@@ -2225,6 +2169,18 @@
     {
       "title": "Government shutdown live updates as Senate fails to advance GOP bill to pay essential federal workers - CBS News",
       "pubDate": "Thu, 23 Oct 2025 20:44:00 GMT"
+    }
+  ],
+  "Central Intelligence Agency": [
+    {
+      "title": "\u2018US controlled Pak\u2019s nuclear arsenal, didn\u2019t eliminate AQ Khan due to Saudi pressure\u2019: Former CIA agent - WION",
+      "pubDate": "Fri, 24 Oct 2025 17:26:00 GMT"
+    }
+  ],
+  "Defense Intelligence Agency": [
+    {
+      "title": "Intelligence Agency fighters destroy Russian air defense system, two radars in occupied territories - Interfax-Ukraine",
+      "pubDate": "Fri, 24 Oct 2025 14:52:07 GMT"
     }
   ]
 }
