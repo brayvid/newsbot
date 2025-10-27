@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "UAE president meets OpenAI CEO to discuss AI collaboration - Reuters",
-      "pubDate": "Sat, 27 Sep 2025 22:05:18 GMT"
-    },
-    {
       "title": "AI Startup Black Forest Labs Shoots for $4 Billion Valuation - PYMNTS.com",
       "pubDate": "Sun, 28 Sep 2025 20:19:39 GMT"
     },
@@ -199,10 +195,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukrainian Nuclear Plant in Crisis: What to Know - Newsweek",
-      "pubDate": "Sat, 27 Sep 2025 20:57:00 GMT"
-    },
-    {
       "title": "Zaporizhzhia Nuclear Plant off Grid; Russia, Ukraine Trade Blame - Kyiv Post",
       "pubDate": "Sun, 28 Sep 2025 05:26:04 GMT"
     },
@@ -297,10 +289,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia warns NATO, EU: Any aggression will be met with 'decisive response' - TribLIVE.com",
-      "pubDate": "Sat, 27 Sep 2025 20:02:00 GMT"
-    },
-    {
       "title": "Vance says US considering Tomahawk missiles for Ukraine - Reuters",
       "pubDate": "Sun, 28 Sep 2025 16:40:41 GMT"
     },
@@ -387,13 +375,13 @@
     {
       "title": "Europe lacks coordination as Russia \u2018prepares for war with NATO\u2019: Experts - Al Jazeera",
       "pubDate": "Mon, 27 Oct 2025 12:24:55 GMT"
+    },
+    {
+      "title": "Russia's Burevestnik missile: Trump calls Putin test 'inappropriate' - NBC News",
+      "pubDate": "Mon, 27 Oct 2025 14:01:57 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump orders deployment of troops to Portland and authorises 'full force' - BBC",
-      "pubDate": "Sat, 27 Sep 2025 18:35:45 GMT"
-    },
     {
       "title": "US set for largest mass resignation in history as Trump continues deep cuts - The Guardian",
       "pubDate": "Sun, 28 Sep 2025 12:55:00 GMT"
@@ -484,10 +472,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "The Echoes of 2007 Are Starting to Become Louder: Credit Weekly - Bloomberg.com",
-      "pubDate": "Sat, 27 Sep 2025 19:00:00 GMT"
-    },
     {
       "title": "Global currency market swells to $10tn a day in tariff turmoil - Financial Times",
       "pubDate": "Tue, 30 Sep 2025 13:00:06 GMT"
@@ -727,6 +711,10 @@
     {
       "title": "Nvidia CEO Hails AI as America\u2019s Next Industrial Revolution and States Lead Push for AI Safety \u2014 AI: The Washington Report - JD Supra",
       "pubDate": "Mon, 27 Oct 2025 14:02:04 GMT"
+    },
+    {
+      "title": "Grassley Calls on the Federal Judiciary to Formally Regulate AI Use - Senate Committee on the Judiciary (.gov)",
+      "pubDate": "Mon, 27 Oct 2025 21:58:19 GMT"
     }
   ],
   "Data Breach": [
@@ -847,6 +835,10 @@
     {
       "title": "Cybersecurity Skill Gap: Rising Threats Demand Talent - Deccan Herald",
       "pubDate": "Sun, 26 Oct 2025 23:07:15 GMT"
+    },
+    {
+      "title": "Ex-CISA chief says AI could mean the end of cybersecurity - theregister.com",
+      "pubDate": "Mon, 27 Oct 2025 11:43:00 GMT"
     }
   ],
   "US Economy": [
@@ -1231,6 +1223,10 @@
     {
       "title": "From promises to delivery: Can COP30 break the climate deadlock? - Reuters",
       "pubDate": "Mon, 27 Oct 2025 16:36:03 GMT"
+    },
+    {
+      "title": "Most countries stumble on climate targets - Politico",
+      "pubDate": "Mon, 27 Oct 2025 22:16:57 GMT"
     }
   ],
   "Algorithms": [
@@ -1381,10 +1377,6 @@
   ],
   "Iran": [
     {
-      "title": "UN sanctions set to be reimposed on Iran on Saturday - Reuters",
-      "pubDate": "Sat, 27 Sep 2025 19:22:25 GMT"
-    },
-    {
       "title": "New Military Strikes On Iran Being Discussed, Russian FM Says; Tehran-Backed Hezbollah Refuses To Disarm - EurAsian Times",
       "pubDate": "Sun, 28 Sep 2025 03:11:46 GMT"
     },
@@ -1423,6 +1415,10 @@
     {
       "title": "Iran declares bankruptcy of major bank as country grapples with restored sanctions - The Times of Israel",
       "pubDate": "Sat, 25 Oct 2025 13:58:06 GMT"
+    },
+    {
+      "title": "CSIS Satellite Imagery Analysis Reveals Possible Signs of Renewed Nuclear Activity in Iran - CSIS | Center for Strategic and International Studies",
+      "pubDate": "Mon, 27 Oct 2025 16:05:39 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1435,12 +1431,6 @@
     {
       "title": "Human Rights Watch urges UN to authorize a mission to address violence in Haiti - Jurist.org",
       "pubDate": "Sat, 27 Sep 2025 23:19:01 GMT"
-    }
-  ],
-  "Earth": [
-    {
-      "title": "Earth\u2019s oxygen is running out \u2013 NASA scientists warn of a future without breathable air - Le Ravi",
-      "pubDate": "Sat, 27 Sep 2025 19:45:15 GMT"
     }
   ],
   "United Kingdom": [
@@ -1581,6 +1571,10 @@
     {
       "title": "APTO Releases Training Dataset to Enhance the Mathematical Reasoning Capabilities of Large Language Models (LLMs) - Yahoo Finance",
       "pubDate": "Tue, 30 Sep 2025 17:00:00 GMT"
+    },
+    {
+      "title": "MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling) - VentureBeat",
+      "pubDate": "Mon, 27 Oct 2025 19:02:04 GMT"
     }
   ],
   "Machine Learning": [
@@ -2281,6 +2275,10 @@
     {
       "title": "Amazon Plans to Replace 600,000 Human Workers With Robots, Report Says - CNET",
       "pubDate": "Wed, 22 Oct 2025 00:01:00 GMT"
+    },
+    {
+      "title": "Exclusive: Amazon targets as many as 30,000 corporate job cuts, sources say - Reuters",
+      "pubDate": "Mon, 27 Oct 2025 21:54:59 GMT"
     }
   ],
   "US Senate": [
