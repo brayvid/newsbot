@@ -383,6 +383,10 @@
     {
       "title": "Russia tested new nuclear-powered Burevestnik cruise missile - Reuters",
       "pubDate": "Sun, 26 Oct 2025 08:34:48 GMT"
+    },
+    {
+      "title": "Europe lacks coordination as Russia \u2018prepares for war with NATO\u2019: Experts - Al Jazeera",
+      "pubDate": "Mon, 27 Oct 2025 12:24:55 GMT"
     }
   ],
   "Donald Trump": [
@@ -719,6 +723,10 @@
     {
       "title": "AI models may be developing their own \u2018survival drive\u2019, researchers say - The Guardian",
       "pubDate": "Sat, 25 Oct 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Nvidia CEO Hails AI as America\u2019s Next Industrial Revolution and States Lead Push for AI Safety \u2014 AI: The Washington Report - JD Supra",
+      "pubDate": "Mon, 27 Oct 2025 14:02:04 GMT"
     }
   ],
   "Data Breach": [
@@ -757,6 +765,10 @@
     {
       "title": "Google Contractor Breaches Security, Steals Play Store Files - WebProNews",
       "pubDate": "Sun, 26 Oct 2025 14:00:20 GMT"
+    },
+    {
+      "title": "At least 49 relatives and colleagues of Afghans in data leak have been killed, study suggests - The Guardian",
+      "pubDate": "Mon, 27 Oct 2025 16:13:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -983,10 +995,6 @@
   ],
   "Gaza": [
     {
-      "title": "US Unveils 21-Point Peace Plan: Israel To Exit Gaza, Hamas To Disarm - NDTV",
-      "pubDate": "Sat, 27 Sep 2025 15:24:09 GMT"
-    },
-    {
       "title": "Trump gives Hamas \u2018three or four days\u2019 to respond to Gaza peace plan or face \u2018a very sad end\u2019 \u2013 live - The Guardian",
       "pubDate": "Tue, 30 Sep 2025 06:43:00 GMT"
     },
@@ -1092,10 +1100,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Bill Ritter: While the president denies climate change, Colorado lives the crisis and leads the response - The Denver Post",
-      "pubDate": "Sat, 27 Sep 2025 11:01:05 GMT"
-    },
     {
       "title": "Pope Leo Demands Climate Action - Time Magazine",
       "pubDate": "Wed, 01 Oct 2025 16:48:02 GMT"
@@ -1223,6 +1227,10 @@
     {
       "title": "Southern Ocean Is Building a 'Burp' That Could Reignite Global Warming - ScienceAlert",
       "pubDate": "Mon, 27 Oct 2025 01:38:57 GMT"
+    },
+    {
+      "title": "From promises to delivery: Can COP30 break the climate deadlock? - Reuters",
+      "pubDate": "Mon, 27 Oct 2025 16:36:03 GMT"
     }
   ],
   "Algorithms": [
@@ -1418,10 +1426,6 @@
     }
   ],
   "US Supreme Court": [
-    {
-      "title": "Trump administration asks U.S. Supreme Court to uphold order aimed at ending birthright citizenship - CBC",
-      "pubDate": "Sat, 27 Sep 2025 14:19:43 GMT"
-    },
     {
       "title": "US Supreme Court conservatives appear willing to blunt key Voting Rights Act provision - Reuters",
       "pubDate": "Wed, 15 Oct 2025 15:59:01 GMT"
@@ -1845,6 +1849,10 @@
     {
       "title": "Fed's Waller on board for an October rate cut, as Miran again presses for aggressive easing - Reuters",
       "pubDate": "Thu, 16 Oct 2025 18:45:14 GMT"
+    },
+    {
+      "title": "Fed poised to cut rates this week, with more easing likely on tap - Reuters",
+      "pubDate": "Mon, 27 Oct 2025 13:22:38 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -2289,6 +2297,10 @@
     {
       "title": "Exclusive | State Department Intelligence Agency Dissented Over Putin\u2019s Appetite for Peace - The Wall Street Journal",
       "pubDate": "Sun, 26 Oct 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Venezuela claims capture of CIA group, accuses U.S. of plotting \u2018false flag\u2019 attack - Miami Herald",
+      "pubDate": "Mon, 27 Oct 2025 13:58:00 GMT"
     }
   ],
   "Defense Intelligence Agency": [
@@ -2301,6 +2313,12 @@
     {
       "title": "Why new mpox cases in California are raising concerns - The Hill",
       "pubDate": "Sun, 26 Oct 2025 17:00:00 GMT"
+    }
+  ],
+  "Hurricanes": [
+    {
+      "title": "Hurricane Melissa intensifies to Category 5, threatens Jamaica with 'catastrophic' flooding - NBC News",
+      "pubDate": "Mon, 27 Oct 2025 13:19:45 GMT"
     }
   ]
 }
