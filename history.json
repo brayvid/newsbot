@@ -191,13 +191,13 @@
     {
       "title": "Footage shows Egyptian teams entering Gaza to assist in locating bodies of hostages - The Times of Israel",
       "pubDate": "Sat, 25 Oct 2025 21:07:28 GMT"
+    },
+    {
+      "title": "Netanyahu orders \"powerful\" strikes in Gaza as ceasefire breaks down - Axios",
+      "pubDate": "Tue, 28 Oct 2025 16:21:18 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Zaporizhzhia Nuclear Plant off Grid; Russia, Ukraine Trade Blame - Kyiv Post",
-      "pubDate": "Sun, 28 Sep 2025 05:26:04 GMT"
-    },
     {
       "title": "Ukraine war briefing: Europe \u2018no longer at peace\u2019 with Russia, says German chancellor - The Guardian",
       "pubDate": "Tue, 30 Sep 2025 01:48:00 GMT"
@@ -289,10 +289,6 @@
   ],
   "Russia": [
     {
-      "title": "Vance says US considering Tomahawk missiles for Ukraine - Reuters",
-      "pubDate": "Sun, 28 Sep 2025 16:40:41 GMT"
-    },
-    {
       "title": "Moscow Indicates Retaliation if Europe Uses Russian Assets for Ukraine - The New York Times",
       "pubDate": "Wed, 01 Oct 2025 14:31:48 GMT"
     },
@@ -383,10 +379,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "US set for largest mass resignation in history as Trump continues deep cuts - The Guardian",
-      "pubDate": "Sun, 28 Sep 2025 12:55:00 GMT"
-    },
-    {
       "title": "Trump threatens mass firings of federal workers if government shutdown isn't averted, NBC News reports - CNBC",
       "pubDate": "Sun, 28 Sep 2025 19:58:47 GMT"
     },
@@ -469,6 +461,10 @@
     {
       "title": "Trump Says He\u2019s Cutting Off Trade Negotiations With Canada - The New York Times",
       "pubDate": "Fri, 24 Oct 2025 03:23:10 GMT"
+    },
+    {
+      "title": "Trump Says He Is Prepared to Send \u2018More Than the National Guard\u2019 Into U.S. Cities - The New York Times",
+      "pubDate": "Tue, 28 Oct 2025 15:17:03 GMT"
     }
   ],
   "Financial Markets": [
@@ -613,13 +609,13 @@
     {
       "title": "China upgraded missiles using UAE technology, Biden spies said - Financial Times",
       "pubDate": "Sat, 25 Oct 2025 16:00:02 GMT"
+    },
+    {
+      "title": "Exclusive | Trump, Xi to Discuss Lowering China Tariffs for Fentanyl Crackdown - The Wall Street Journal",
+      "pubDate": "Tue, 28 Oct 2025 16:30:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI Safety Warnings Grow as Microsoft, Alphabet, and Amazon Invest Billions in the Race for Superintelligence - TipRanks",
-      "pubDate": "Sun, 28 Sep 2025 12:57:43 GMT"
-    },
     {
       "title": "California Signs Nation\u2019s First Major AI Safety Law, Forcing Transparency on Tech Giants - WinBuzzer",
       "pubDate": "Tue, 30 Sep 2025 06:44:41 GMT"
@@ -715,6 +711,10 @@
     {
       "title": "Grassley Calls on the Federal Judiciary to Formally Regulate AI Use - Senate Committee on the Judiciary (.gov)",
       "pubDate": "Mon, 27 Oct 2025 21:58:19 GMT"
+    },
+    {
+      "title": "Opinion | I Worked at OpenAI. It\u2019s Not Doing Enough to Protect People. - The New York Times",
+      "pubDate": "Tue, 28 Oct 2025 09:02:39 GMT"
     }
   ],
   "Data Breach": [
@@ -910,10 +910,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "U.S. Bitcoin spot ETFs see net outflows of $930 million last week - bloomingbit",
-      "pubDate": "Sun, 28 Sep 2025 04:52:52 GMT"
-    },
     {
       "title": "Bitcoin price surges to all-time high of $125,700 - Yahoo Finance",
       "pubDate": "Sun, 05 Oct 2025 05:37:51 GMT"
@@ -1227,6 +1223,10 @@
     {
       "title": "Most countries stumble on climate targets - Politico",
       "pubDate": "Mon, 27 Oct 2025 22:16:57 GMT"
+    },
+    {
+      "title": "\u2018Change course now\u2019: humanity has missed 1.5C climate target, says UN head - The Guardian",
+      "pubDate": "Tue, 28 Oct 2025 09:34:00 GMT"
     }
   ],
   "Algorithms": [
@@ -1377,14 +1377,6 @@
   ],
   "Iran": [
     {
-      "title": "New Military Strikes On Iran Being Discussed, Russian FM Says; Tehran-Backed Hezbollah Refuses To Disarm - EurAsian Times",
-      "pubDate": "Sun, 28 Sep 2025 03:11:46 GMT"
-    },
-    {
-      "title": "Iran hit with reimposition of sanctions over its nuclear programme - Financial Times",
-      "pubDate": "Sun, 28 Sep 2025 11:22:32 GMT"
-    },
-    {
       "title": "Iran executes 6 death-row inmates it alleges carried out attacks on behalf of Israel - NBC News",
       "pubDate": "Sat, 04 Oct 2025 08:45:21 GMT"
     },
@@ -1427,17 +1419,7 @@
       "pubDate": "Wed, 15 Oct 2025 15:59:01 GMT"
     }
   ],
-  "Violence": [
-    {
-      "title": "Human Rights Watch urges UN to authorize a mission to address violence in Haiti - Jurist.org",
-      "pubDate": "Sat, 27 Sep 2025 23:19:01 GMT"
-    }
-  ],
   "United Kingdom": [
-    {
-      "title": "Iran recalls its ambassadors from France, Germany and the United Kingdom ahead of U.N. nuclear sanctions being reimposed - CityNews Calgary",
-      "pubDate": "Sat, 27 Sep 2025 23:46:03 GMT"
-    },
     {
       "title": "UK consultation begins on Rolls-Royce SMR design - World Nuclear News",
       "pubDate": "Mon, 06 Oct 2025 21:52:24 GMT"
@@ -1448,10 +1430,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "Why the US economy faces a bigger shock than tariffs - AFR",
-      "pubDate": "Sun, 28 Sep 2025 01:20:00 GMT"
-    },
     {
       "title": "Farm bankruptcies are soaring amid low crop prices, while Trump considers bailout of up to $14 billion - Fortune",
       "pubDate": "Sat, 04 Oct 2025 18:49:00 GMT"
@@ -1483,10 +1461,6 @@
   ],
   "Renewable Energy": [
     {
-      "title": "The US plans to cancel $13 billion in subsidies for green energy - GMK Center",
-      "pubDate": "Sun, 28 Sep 2025 06:04:15 GMT"
-    },
-    {
       "title": "Indonesia starts construction of 92 megawatt floating solar plant - Reuters",
       "pubDate": "Fri, 03 Oct 2025 03:24:00 GMT"
     },
@@ -1508,10 +1482,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "US Retires Sole Antarctic Icebreaker by 2025, Threatening Climate Research - WebProNews",
-      "pubDate": "Sat, 27 Sep 2025 23:17:43 GMT"
-    },
     {
       "title": "Energy Dept. tells employees not to use words including 'climate change' and 'green' - NPR",
       "pubDate": "Tue, 30 Sep 2025 14:24:49 GMT"
@@ -1541,26 +1511,10 @@
       "pubDate": "Sat, 25 Oct 2025 09:53:17 GMT"
     }
   ],
-  "Democracy": [
-    {
-      "title": "Trump's moves to consolidate power, punish enemies draw comparisons to places where democracy faded - AP News",
-      "pubDate": "Sun, 28 Sep 2025 04:03:00 GMT"
-    }
-  ],
   "BRICS": [
-    {
-      "title": "BRICS FMs condemn military aggression against Iran's peaceful nuclear facilities - Pars Today",
-      "pubDate": "Sun, 28 Sep 2025 08:38:00 GMT"
-    },
     {
       "title": "Joint response to global threats: BRICS countries unite in fight against epidemics - TV BRICS",
       "pubDate": "Mon, 06 Oct 2025 16:02:39 GMT"
-    }
-  ],
-  "Blockchain": [
-    {
-      "title": "UN: Blockchain aligns with our digital and inclusive governance agenda - Cryptopolitan",
-      "pubDate": "Sun, 28 Sep 2025 14:14:00 GMT"
     }
   ],
   "Large Language Models": [
@@ -1619,6 +1573,10 @@
     {
       "title": "Government shutdown becomes third-longest in history with no end in sight on Day 17 - CBS News",
       "pubDate": "Fri, 17 Oct 2025 20:49:02 GMT"
+    },
+    {
+      "title": "Democrats face moment of truth as shutdown coalition frays - Politico",
+      "pubDate": "Tue, 28 Oct 2025 14:31:32 GMT"
     }
   ],
   "SpaceX": [
@@ -2317,6 +2275,12 @@
     {
       "title": "Hurricane Melissa intensifies to Category 5, threatens Jamaica with 'catastrophic' flooding - NBC News",
       "pubDate": "Mon, 27 Oct 2025 13:19:45 GMT"
+    }
+  ],
+  "Hurricane Melissa": [
+    {
+      "title": "Hurricane Melissa on path to historic Jamaica landfall as conditions worsen: Live updates - CNN",
+      "pubDate": "Tue, 28 Oct 2025 16:25:00 GMT"
     }
   ]
 }
