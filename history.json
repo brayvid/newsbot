@@ -111,6 +111,10 @@
     {
       "title": "As Trump Weighs Sale of Advanced A.I. Chips to China, Critics Sound Alarm - The New York Times",
       "pubDate": "Wed, 29 Oct 2025 20:42:37 GMT"
+    },
+    {
+      "title": "Video AI company bans minors from using chatbots after teen\u2019s suicide - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Thu, 30 Oct 2025 09:52:29 GMT"
     }
   ],
   "US Politics": [
@@ -379,6 +383,10 @@
     {
       "title": "Russia's Burevestnik missile: Trump calls Putin test 'inappropriate' - NBC News",
       "pubDate": "Mon, 27 Oct 2025 14:01:57 GMT"
+    },
+    {
+      "title": "Russia blasts Ukraine\u2019s power grid again, causing outages across the country and killing 2 - The Hill",
+      "pubDate": "Thu, 30 Oct 2025 10:23:09 GMT"
     }
   ],
   "Donald Trump": [
@@ -617,10 +625,6 @@
   ],
   "AI Safety": [
     {
-      "title": "California Signs Nation\u2019s First Major AI Safety Law, Forcing Transparency on Tech Giants - WinBuzzer",
-      "pubDate": "Tue, 30 Sep 2025 06:44:41 GMT"
-    },
-    {
       "title": "California adopted AI safety legislation. Here are 5 things it does. - Smart Cities Dive",
       "pubDate": "Thu, 02 Oct 2025 13:23:02 GMT"
     },
@@ -757,10 +761,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "CISA Sounds Alarm on Critical Sudo Flaw Actively Exploited in Linux and Unix Systems - The Hacker News",
-      "pubDate": "Tue, 30 Sep 2025 05:41:00 GMT"
-    },
-    {
       "title": "Shutdown guts U.S. cybersecurity agency at perilous time - MSN",
       "pubDate": "Thu, 02 Oct 2025 19:01:12 GMT"
     },
@@ -835,6 +835,10 @@
     {
       "title": "China Amends Cybersecurity Law and Incident Reporting Regime to Address AI and Infrastructure Risks - Inside Privacy",
       "pubDate": "Tue, 28 Oct 2025 23:17:22 GMT"
+    },
+    {
+      "title": "LG Uplus breach, Conduent attack, Russian exploit against Ukraine - CISO Series",
+      "pubDate": "Thu, 30 Oct 2025 10:00:00 GMT"
     }
   ],
   "US Economy": [
@@ -983,10 +987,6 @@
   ],
   "Gaza": [
     {
-      "title": "Trump gives Hamas \u2018three or four days\u2019 to respond to Gaza peace plan or face \u2018a very sad end\u2019 \u2013 live - The Guardian",
-      "pubDate": "Tue, 30 Sep 2025 06:43:00 GMT"
-    },
-    {
       "title": "Israel, Hamas say they\u2019re ready to talk peace but significant gaps remain - The Washington Post",
       "pubDate": "Sat, 04 Oct 2025 22:46:57 GMT"
     },
@@ -1085,6 +1085,10 @@
     {
       "title": "LIVE: Israel wounds several in Gaza as settler attacks surge in West Bank - Al Jazeera",
       "pubDate": "Sat, 25 Oct 2025 15:49:34 GMT"
+    },
+    {
+      "title": "Scoop: U.S. pushing to finalize plan for international Gaza security force - Axios",
+      "pubDate": "Thu, 30 Oct 2025 09:01:11 GMT"
     }
   ],
   "Climate Change": [
@@ -1545,10 +1549,6 @@
   ],
   "US Congress": [
     {
-      "title": "Congress has one more day to avert a shutdown. The odds don\u2019t look good - CNN",
-      "pubDate": "Tue, 30 Sep 2025 08:00:51 GMT"
-    },
-    {
       "title": "House GOP cancels more votes in escalation of shutdown strategy - Axios",
       "pubDate": "Sat, 04 Oct 2025 00:12:41 GMT"
     },
@@ -1583,13 +1583,13 @@
     {
       "title": "Democrats face moment of truth as shutdown coalition frays - Politico",
       "pubDate": "Tue, 28 Oct 2025 14:31:32 GMT"
+    },
+    {
+      "title": "US government allowed and even helped US firms sell tech used for surveillance in China, AP finds - AP News",
+      "pubDate": "Thu, 30 Oct 2025 00:02:00 GMT"
     }
   ],
   "SpaceX": [
-    {
-      "title": "SpaceX targeting Oct. 13 for next Starship megarocket launch - Space",
-      "pubDate": "Tue, 30 Sep 2025 08:29:52 GMT"
-    },
     {
       "title": "SpaceX has a few tricks up its sleeve for the last Starship flight of the year - Ars Technica",
       "pubDate": "Tue, 30 Sep 2025 18:36:17 GMT"
@@ -1811,6 +1811,10 @@
     {
       "title": "Fed poised to cut rates this week, with more easing likely on tap - Reuters",
       "pubDate": "Mon, 27 Oct 2025 13:22:38 GMT"
+    },
+    {
+      "title": "Federal Reserve cuts key interest rate; shutdown pain intensifies - NBC4 Washington",
+      "pubDate": "Thu, 30 Oct 2025 01:50:37 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -2313,6 +2317,12 @@
     {
       "title": "Trump Says U.S. to Restart Nuclear Weapons Testing - Time Magazine",
       "pubDate": "Thu, 30 Oct 2025 04:02:10 GMT"
+    }
+  ],
+  "Vladimir Putin": [
+    {
+      "title": "Ukraine war live: Putin tests nuclear torpedo which can cause \u2018radioactive tsunami\u2019 - The Independent",
+      "pubDate": "Thu, 30 Oct 2025 10:39:22 GMT"
     }
   ]
 }
