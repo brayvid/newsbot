@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI chip firm Cerebras raises $1.1 billion, adds Trump-linked 1789 Capital as investor - Reuters",
-      "pubDate": "Tue, 30 Sep 2025 13:03:19 GMT"
-    },
-    {
       "title": "Trump signs order aimed at using artificial intelligence to boost childhood cancer treatment - The Hill",
       "pubDate": "Tue, 30 Sep 2025 21:14:00 GMT"
     },
@@ -293,6 +289,10 @@
     {
       "title": "Ukraine says it killed Russian officer in Siberia using car bomb - CNN",
       "pubDate": "Wed, 29 Oct 2025 17:07:57 GMT"
+    },
+    {
+      "title": "Russia fires 705 missiles, drones into Ukraine in 'complex' attack, Zelenskyy says - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Thu, 30 Oct 2025 11:13:41 GMT"
     }
   ],
   "Russia": [
@@ -391,10 +391,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump Signals Greater Use of Military in U.S. Cities, Warning of \u2018War From Within\u2019 - Time Magazine",
-      "pubDate": "Tue, 30 Sep 2025 15:30:16 GMT"
-    },
-    {
       "title": "Trump making plans to send billions in cash bailouts to farmers with taxpayer money - Politico",
       "pubDate": "Thu, 02 Oct 2025 19:00:59 GMT"
     },
@@ -472,10 +468,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Global currency market swells to $10tn a day in tariff turmoil - Financial Times",
-      "pubDate": "Tue, 30 Sep 2025 13:00:06 GMT"
-    },
     {
       "title": "Stock Market Today: Dow Drops 800 Points After Trump Threatens 'Massive' China Tariffs \u2014 Live Updates - The Wall Street Journal",
       "pubDate": "Fri, 10 Oct 2025 21:40:00 GMT"
@@ -719,6 +711,10 @@
     {
       "title": "Opinion | I Worked at OpenAI. It\u2019s Not Doing Enough to Protect People. - The New York Times",
       "pubDate": "Tue, 28 Oct 2025 09:02:39 GMT"
+    },
+    {
+      "title": "Korean researchers propose international standards to ensure AI safety and trustworthiness - Tech Xplore",
+      "pubDate": "Thu, 30 Oct 2025 14:04:04 GMT"
     }
   ],
   "Data Breach": [
@@ -893,13 +889,13 @@
     {
       "title": "Federal shutdown could cost US economy up to $14 billion - Reuters",
       "pubDate": "Wed, 29 Oct 2025 20:42:06 GMT"
+    },
+    {
+      "title": "US economy in the dark as government shutdown cuts off crucial data | Hindustan Times - Hindustan Times",
+      "pubDate": "Thu, 30 Oct 2025 09:01:02 GMT"
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Strong magnitude 7.0 earthquake strikes Philippines | Daily Sabah - Daily Sabah",
-      "pubDate": "Tue, 30 Sep 2025 14:55:00 GMT"
-    },
     {
       "title": "Is Pakistan conducting secret nuclear tests? Two earthquakes strike Pakistan within a week, experts say the reason is... - MSN",
       "pubDate": "Sun, 05 Oct 2025 20:53:30 GMT"
@@ -961,6 +957,10 @@
     {
       "title": "OpenAI sets ChatGPT Atlas browser launch, sending Alphabet shares lower - CNBC",
       "pubDate": "Tue, 21 Oct 2025 16:12:35 GMT"
+    },
+    {
+      "title": "OpenAI Eyes $1 Trillion Valuation IPO to Fund Ambitious AGI Plans - TipRanks",
+      "pubDate": "Thu, 30 Oct 2025 05:36:36 GMT"
     }
   ],
   "Quantum Computing": [
@@ -983,6 +983,10 @@
     {
       "title": "Google CEO Sundar Pichai celebrates new breakthrough in quantum algorithm; Elon Musk replies: \u2018Looks like - Times of India",
       "pubDate": "Sat, 25 Oct 2025 15:48:00 GMT"
+    },
+    {
+      "title": "NVIDIA Bridges Classical and Quantum Computing with NVQLink | Business | Oct 2025 - Photonics Spectra",
+      "pubDate": "Thu, 30 Oct 2025 11:01:35 GMT"
     }
   ],
   "Gaza": [
@@ -1089,6 +1093,10 @@
     {
       "title": "Scoop: U.S. pushing to finalize plan for international Gaza security force - Axios",
       "pubDate": "Thu, 30 Oct 2025 09:01:11 GMT"
+    },
+    {
+      "title": "Israel receives coffins Hamas says contain two Gaza hostages' bodies - BBC",
+      "pubDate": "Thu, 30 Oct 2025 15:39:25 GMT"
     }
   ],
   "Climate Change": [
@@ -1239,6 +1247,10 @@
     {
       "title": "Current National Climate Pledges Fall Far Short of What Is Needed to Limit Warming to 1.5C, Report Shows - Earth.Org",
       "pubDate": "Thu, 30 Oct 2025 02:36:54 GMT"
+    },
+    {
+      "title": "Climate change intensified India's heatwaves in 2024 - Lancet study - BBC",
+      "pubDate": "Thu, 30 Oct 2025 11:03:40 GMT"
     }
   ],
   "Algorithms": [
@@ -1503,10 +1515,6 @@
   ],
   "Climate": [
     {
-      "title": "Energy Dept. tells employees not to use words including 'climate change' and 'green' - NPR",
-      "pubDate": "Tue, 30 Sep 2025 14:24:49 GMT"
-    },
-    {
       "title": "Trump administration to cancel $645 million worth of grants for climate-related projects in Minnesota - CBS News",
       "pubDate": "Sat, 04 Oct 2025 00:42:05 GMT"
     },
@@ -1600,10 +1608,6 @@
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "CISA says it will fill the gap as federal funding for MS-ISAC dries up - Help Net Security",
-      "pubDate": "Tue, 30 Sep 2025 14:55:17 GMT"
-    },
     {
       "title": "The shutdown and CISA lapse expose new cracks in America\u2019s cyber defenses - Federal News Network",
       "pubDate": "Wed, 08 Oct 2025 16:12:29 GMT"
