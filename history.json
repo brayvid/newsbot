@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Regulators struggle to keep up with the fast-moving and complicated landscape of AI therapy apps - AP News",
-      "pubDate": "Mon, 29 Sep 2025 15:42:00 GMT"
-    },
-    {
-      "title": "Bruce Blair Memorial Lecture: Nuclear Weapons In The Age Of Artificial Intelligence - Hoover Institution",
-      "pubDate": "Mon, 29 Sep 2025 23:28:32 GMT"
-    },
-    {
       "title": "AI chip firm Cerebras raises $1.1 billion, adds Trump-linked 1789 Capital as investor - Reuters",
       "pubDate": "Tue, 30 Sep 2025 13:03:19 GMT"
     },
@@ -115,6 +107,10 @@
     {
       "title": "Meta cuts 600 jobs amid AI expansion push \u2014 as automation replaces human staff - Fox Business",
       "pubDate": "Fri, 24 Oct 2025 02:58:00 GMT"
+    },
+    {
+      "title": "As Trump Weighs Sale of Advanced A.I. Chips to China, Critics Sound Alarm - The New York Times",
+      "pubDate": "Wed, 29 Oct 2025 20:42:37 GMT"
     }
   ],
   "US Politics": [
@@ -203,10 +199,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war briefing: Europe \u2018no longer at peace\u2019 with Russia, says German chancellor - The Guardian",
-      "pubDate": "Tue, 30 Sep 2025 01:48:00 GMT"
-    },
-    {
       "title": "Drones Target Oil Refinery in Western Siberia\u2019s Tyumen Region in What May Be Ukraine\u2019s Farthest Strike Yet - The Moscow Times",
       "pubDate": "Tue, 07 Oct 2025 15:13:51 GMT"
     },
@@ -293,6 +285,10 @@
     {
       "title": "Ukraine war latest: Zelensky ready for peace talks \u2013 anywhere but Russia or Belarus - The Independent",
       "pubDate": "Wed, 29 Oct 2025 02:32:18 GMT"
+    },
+    {
+      "title": "Ukraine says it killed Russian officer in Siberia using car bomb - CNN",
+      "pubDate": "Wed, 29 Oct 2025 17:07:57 GMT"
     }
   ],
   "Russia": [
@@ -386,10 +382,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Donald Trump reaches for \u201ceternal peace\u201d in Gaza - The Economist",
-      "pubDate": "Mon, 29 Sep 2025 23:06:13 GMT"
-    },
     {
       "title": "Trump Signals Greater Use of Military in U.S. Cities, Warning of \u2018War From Within\u2019 - Time Magazine",
       "pubDate": "Tue, 30 Sep 2025 15:30:16 GMT"
@@ -617,6 +609,10 @@
     {
       "title": "Exclusive | Trump, Xi to Discuss Lowering China Tariffs for Fentanyl Crackdown - The Wall Street Journal",
       "pubDate": "Tue, 28 Oct 2025 16:30:00 GMT"
+    },
+    {
+      "title": "Donald Trump says US can sign trade deal with China 'pretty soon' after talks with Xi Jinping - BBC",
+      "pubDate": "Thu, 30 Oct 2025 04:45:31 GMT"
     }
   ],
   "AI Safety": [
@@ -722,10 +718,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Sex offenders, terrorists, drug dealers, exposed in spyware breach - Malwarebytes",
-      "pubDate": "Mon, 29 Sep 2025 14:42:53 GMT"
-    },
     {
       "title": "Hacking group claims theft of 1 billion records from Salesforce customer databases - TechCrunch",
       "pubDate": "Fri, 03 Oct 2025 13:17:43 GMT"
@@ -847,10 +839,6 @@
   ],
   "US Economy": [
     {
-      "title": "What happens if the US government shuts down? - Financial Times",
-      "pubDate": "Mon, 29 Sep 2025 22:20:35 GMT"
-    },
-    {
       "title": "US Services Gauge Falls on Weakest Business Activity Since 2020 - Bloomberg.com",
       "pubDate": "Fri, 03 Oct 2025 16:30:37 GMT"
     },
@@ -897,6 +885,10 @@
     {
       "title": "Government shutdown slams US economy: Bank of America CEO warns it will slow growth - Fox Business",
       "pubDate": "Tue, 28 Oct 2025 12:53:18 GMT"
+    },
+    {
+      "title": "Federal shutdown could cost US economy up to $14 billion - Reuters",
+      "pubDate": "Wed, 29 Oct 2025 20:42:06 GMT"
     }
   ],
   "Earthquakes": [
@@ -1239,6 +1231,10 @@
     {
       "title": "Report warns climate change causing millions of preventable deaths each year - France 24",
       "pubDate": "Wed, 29 Oct 2025 00:56:42 GMT"
+    },
+    {
+      "title": "Current National Climate Pledges Fall Far Short of What Is Needed to Limit Warming to 1.5C, Report Shows - Earth.Org",
+      "pubDate": "Thu, 30 Oct 2025 02:36:54 GMT"
     }
   ],
   "Algorithms": [
@@ -1286,10 +1282,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "Sam Altman predicts AGI could arrive before 2030 - Digital Watch Observatory",
-      "pubDate": "Mon, 29 Sep 2025 11:14:13 GMT"
-    },
     {
       "title": "Why Sam Altman thinks AGI will change work forever \u2014 and how AI agents could run billion\u2011dollar companies - Windows Central",
       "pubDate": "Thu, 09 Oct 2025 17:12:15 GMT"
@@ -1358,10 +1350,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "In a rare UN appearance, senior North Korean diplomat insists his country won't give up nukes - AP News",
-      "pubDate": "Mon, 29 Sep 2025 22:10:00 GMT"
-    },
     {
       "title": "North Korea vows at UN it will keep nuclear weapons - Energies Media",
       "pubDate": "Fri, 03 Oct 2025 17:44:00 GMT"
@@ -1547,22 +1535,12 @@
   ],
   "Large Language Models": [
     {
-      "title": "AI Study Finds Chatbots Can Strategically Lie\u2014And Current Safety Tools Can't Catch Them - Decrypt",
-      "pubDate": "Mon, 29 Sep 2025 20:25:50 GMT"
-    },
-    {
       "title": "APTO Releases Training Dataset to Enhance the Mathematical Reasoning Capabilities of Large Language Models (LLMs) - Yahoo Finance",
       "pubDate": "Tue, 30 Sep 2025 17:00:00 GMT"
     },
     {
       "title": "MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling) - VentureBeat",
       "pubDate": "Mon, 27 Oct 2025 19:02:04 GMT"
-    }
-  ],
-  "Machine Learning": [
-    {
-      "title": "Machine Learning Model Detects ALS Up to a Decade Before Symptoms Emerge - Technology Networks",
-      "pubDate": "Mon, 29 Sep 2025 15:22:19 GMT"
     }
   ],
   "US Congress": [
@@ -2319,12 +2297,22 @@
     {
       "title": "Hurricane Melissa intensifies to Category 5, threatens Jamaica with 'catastrophic' flooding - NBC News",
       "pubDate": "Mon, 27 Oct 2025 13:19:45 GMT"
+    },
+    {
+      "title": "Hurricane Melissa Live Updates: Death Toll Rises as Storm Churns Toward the Bahamas - The New York Times",
+      "pubDate": "Thu, 30 Oct 2025 03:35:00 GMT"
     }
   ],
   "Hurricane Melissa": [
     {
       "title": "Hurricane Melissa on path to historic Jamaica landfall as conditions worsen: Live updates - CNN",
       "pubDate": "Tue, 28 Oct 2025 16:25:00 GMT"
+    }
+  ],
+  "United States": [
+    {
+      "title": "Trump Says U.S. to Restart Nuclear Weapons Testing - Time Magazine",
+      "pubDate": "Thu, 30 Oct 2025 04:02:10 GMT"
     }
   ]
 }
