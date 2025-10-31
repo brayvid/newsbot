@@ -107,6 +107,10 @@
     {
       "title": "Video AI company bans minors from using chatbots after teen\u2019s suicide - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 30 Oct 2025 09:52:29 GMT"
+    },
+    {
+      "title": "A.I. Is Making Death Threats Way More Realistic - The New York Times",
+      "pubDate": "Fri, 31 Oct 2025 22:12:56 GMT"
     }
   ],
   "US Politics": [
@@ -605,6 +609,10 @@
     {
       "title": "Donald Trump says US can sign trade deal with China 'pretty soon' after talks with Xi Jinping - BBC",
       "pubDate": "Thu, 30 Oct 2025 04:45:31 GMT"
+    },
+    {
+      "title": "Exclusive | White House to Announce Auto Chip Shipments to Resume From China - The Wall Street Journal",
+      "pubDate": "Fri, 31 Oct 2025 21:46:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1097,6 +1105,10 @@
     {
       "title": "Acute trauma: The ever-present wounds of Gaza\u2019s children from Israel\u2019s war - Al Jazeera",
       "pubDate": "Fri, 31 Oct 2025 09:13:09 GMT"
+    },
+    {
+      "title": "Gaza risks sliding into deadly limbo of \u2018no war, no peace\u2019, top Qatari diplomat warns - The Guardian",
+      "pubDate": "Fri, 31 Oct 2025 18:29:00 GMT"
     }
   ],
   "Climate Change": [
@@ -1249,12 +1261,6 @@
       "pubDate": "Thu, 30 Oct 2025 11:03:40 GMT"
     }
   ],
-  "Algorithms": [
-    {
-      "title": "Revolutionary Algorithm Enhances Disease Classification Using Omics - BIOENGINEER.ORG",
-      "pubDate": "Wed, 01 Oct 2025 20:27:28 GMT"
-    }
-  ],
   "Electric Vehicle": [
     {
       "title": "Tesla, GM lead record U.S. EV sales this year as federal incentives end - CNBC",
@@ -1273,6 +1279,10 @@
     {
       "title": "Nearly half of FBI agents in major offices reassigned to immigration enforcement - The Guardian",
       "pubDate": "Thu, 09 Oct 2025 21:21:00 GMT"
+    },
+    {
+      "title": "FBI thwarts potential Halloween weekend terror attack in Michigan - ABC News",
+      "pubDate": "Fri, 31 Oct 2025 20:26:15 GMT"
     }
   ],
   "Technology": [
@@ -1320,10 +1330,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Pentagon plans widespread random polygraphs, NDAs to stanch leaks - The Washington Post",
-      "pubDate": "Wed, 01 Oct 2025 22:24:21 GMT"
-    },
     {
       "title": "Analysis: Shutdown strains US national security as weak links start to fail - WTOP",
       "pubDate": "Wed, 08 Oct 2025 00:43:42 GMT"
@@ -1591,6 +1597,10 @@
     {
       "title": "US government allowed and even helped US firms sell tech used for surveillance in China, AP finds - AP News",
       "pubDate": "Thu, 30 Oct 2025 00:02:00 GMT"
+    },
+    {
+      "title": "Federal judges order Trump admin to continue SNAP benefits. - USA Today",
+      "pubDate": "Fri, 31 Oct 2025 19:06:57 GMT"
     }
   ],
   "SpaceX": [
@@ -1655,10 +1665,6 @@
   ],
   "Pollution": [
     {
-      "title": "Sunlight worsens wildfire smoke pollution, study finds - Phys.org",
-      "pubDate": "Wed, 01 Oct 2025 18:00:01 GMT"
-    },
-    {
       "title": "October 24, 2025: Beijing among top 10 most polluted cities in the world - IQAir",
       "pubDate": "Fri, 24 Oct 2025 11:56:11 GMT"
     },
@@ -1668,10 +1674,6 @@
     }
   ],
   "World News": [
-    {
-      "title": "Afghanistan restores internet after 72-hour nationwide blackout | World News - Hindustan Times",
-      "pubDate": "Wed, 01 Oct 2025 17:40:37 GMT"
-    },
     {
       "title": "3 Afghan Cricketers Among 8 Dead In Pakistani Airstrike Near Border - NDTV",
       "pubDate": "Sat, 18 Oct 2025 01:28:00 GMT"
@@ -2015,6 +2017,10 @@
     {
       "title": "Why Donald Trump\u2019s recession-proof economy could soon change - AFR",
       "pubDate": "Wed, 29 Oct 2025 00:33:00 GMT"
+    },
+    {
+      "title": "Warning signs may point to a looming recession as shutdown continues - NewsNation",
+      "pubDate": "Fri, 31 Oct 2025 12:45:09 GMT"
     }
   ],
   "Social Media": [
@@ -2343,6 +2349,12 @@
     {
       "title": "Sudan Militia, Armed with Drones, Hunts Down Black Population of Darfur - The Wall Street Journal",
       "pubDate": "Fri, 31 Oct 2025 13:50:00 GMT"
+    }
+  ],
+  "The Pentagon": [
+    {
+      "title": "Pentagon cleared giving Ukraine long-range Tomahawk missiles, leaving final decision to Trump - CNN",
+      "pubDate": "Fri, 31 Oct 2025 17:00:48 GMT"
     }
   ]
 }
