@@ -111,10 +111,6 @@
   ],
   "US Politics": [
     {
-      "title": "US government shutdown begins as partisan division rules Washington - Reuters",
-      "pubDate": "Wed, 01 Oct 2025 15:37:28 GMT"
-    },
-    {
       "title": "White House: Mass layoffs will start if shutdown talks 'going nowhere' - Reuters",
       "pubDate": "Sun, 05 Oct 2025 16:38:34 GMT"
     },
@@ -292,10 +288,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Moscow Indicates Retaliation if Europe Uses Russian Assets for Ukraine - The New York Times",
-      "pubDate": "Wed, 01 Oct 2025 14:31:48 GMT"
-    },
     {
       "title": "Ukraine Blows Up Key Russian Oil Hub in Overnight Strike\u2014Warship and Missile Base Also Hit - UNITED24 Media",
       "pubDate": "Sat, 04 Oct 2025 09:29:16 GMT"
@@ -715,6 +707,10 @@
     {
       "title": "Korean researchers propose international standards to ensure AI safety and trustworthiness - Tech Xplore",
       "pubDate": "Thu, 30 Oct 2025 14:04:04 GMT"
+    },
+    {
+      "title": "National Academies Report Calls for Stronger Machine Learning Safety Standards - Lab Manager",
+      "pubDate": "Fri, 31 Oct 2025 12:43:19 GMT"
     }
   ],
   "Data Breach": [
@@ -1104,10 +1100,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Pope Leo Demands Climate Action - Time Magazine",
-      "pubDate": "Wed, 01 Oct 2025 16:48:02 GMT"
-    },
     {
       "title": "Senior Tories dismayed at Badenoch\u2019s \u2018catastrophic\u2019 vow to repeal Climate Change Act - The Guardian",
       "pubDate": "Thu, 02 Oct 2025 18:35:00 GMT"
@@ -1633,17 +1625,7 @@
       "pubDate": "Fri, 31 Oct 2025 08:46:00 GMT"
     }
   ],
-  "New York City": [
-    {
-      "title": "New York apartment building partly collapses in 'major emergency' - live updates - BBC",
-      "pubDate": "Wed, 01 Oct 2025 13:15:54 GMT"
-    }
-  ],
   "Science": [
-    {
-      "title": "NASA lasers confirm Earth is losing landmass to rising seas much more quickly than we thought - Earth.com",
-      "pubDate": "Wed, 01 Oct 2025 16:05:38 GMT"
-    },
     {
       "title": "Breakthrough: Scientists Create 'Universal' Kidney To Match Any Blood Type - ScienceAlert",
       "pubDate": "Thu, 16 Oct 2025 00:33:45 GMT"
@@ -1679,6 +1661,10 @@
     {
       "title": "October 24, 2025: Beijing among top 10 most polluted cities in the world - IQAir",
       "pubDate": "Fri, 24 Oct 2025 11:56:11 GMT"
+    },
+    {
+      "title": "Delhi: Air pollution remains single largest health risk, accounts for 17,188 deaths in 2023, says report - livemint.com",
+      "pubDate": "Fri, 31 Oct 2025 11:35:25 GMT"
     }
   ],
   "World News": [
@@ -1823,6 +1809,10 @@
     {
       "title": "Federal Reserve cuts key interest rate; shutdown pain intensifies - NBC4 Washington",
       "pubDate": "Thu, 30 Oct 2025 01:50:37 GMT"
+    },
+    {
+      "title": "Federal Reserve plans to cut banking oversight staff by 30% - qz.com",
+      "pubDate": "Fri, 31 Oct 2025 12:04:27 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -2087,6 +2077,10 @@
     {
       "title": "Scientists capture an image of two black holes circling each other for the first time - EurekAlert!",
       "pubDate": "Thu, 09 Oct 2025 19:13:53 GMT"
+    },
+    {
+      "title": "Astronomy milestone: Scientists capture first image of two black holes orbiting each other - MARCA",
+      "pubDate": "Fri, 31 Oct 2025 12:17:08 GMT"
     }
   ],
   "Taxes": [
@@ -2231,6 +2225,10 @@
     {
       "title": "COVID-19 mRNA vaccines can trigger the immune system to recognize and kill cancer, research finds - Live Science",
       "pubDate": "Sat, 25 Oct 2025 13:00:00 GMT"
+    },
+    {
+      "title": "FDA says drug makers have recalled a blood pressure medicine tainted with a cancer-causing chemical - CNN",
+      "pubDate": "Fri, 31 Oct 2025 14:04:29 GMT"
     }
   ],
   "Cloud Computing": [
@@ -2339,6 +2337,12 @@
     {
       "title": "Ukraine war live: Putin tests nuclear torpedo which can cause \u2018radioactive tsunami\u2019 - The Independent",
       "pubDate": "Thu, 30 Oct 2025 10:39:22 GMT"
+    }
+  ],
+  "War and Unrest": [
+    {
+      "title": "Sudan Militia, Armed with Drones, Hunts Down Black Population of Darfur - The Wall Street Journal",
+      "pubDate": "Fri, 31 Oct 2025 13:50:00 GMT"
     }
   ]
 }
