@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Trump signs order aimed at using artificial intelligence to boost childhood cancer treatment - The Hill",
-      "pubDate": "Tue, 30 Sep 2025 21:14:00 GMT"
-    },
-    {
       "title": "Rising Global Regulation for Artificial Intelligence (UPDATED) - JD Supra",
       "pubDate": "Thu, 02 Oct 2025 21:49:00 GMT"
     },
@@ -114,10 +110,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Live updates: Senate votes on averting shutdown hours before deadline - The Hill",
-      "pubDate": "Tue, 30 Sep 2025 21:52:00 GMT"
-    },
     {
       "title": "US government shutdown begins as partisan division rules Washington - Reuters",
       "pubDate": "Wed, 01 Oct 2025 15:37:28 GMT"
@@ -293,6 +285,10 @@
     {
       "title": "Russia fires 705 missiles, drones into Ukraine in 'complex' attack, Zelenskyy says - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 30 Oct 2025 11:13:41 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Russia fires 'secret' missile - as report says Kremlin memo wrecked Trump-Putin talks - Sky News",
+      "pubDate": "Fri, 31 Oct 2025 10:35:45 GMT"
     }
   ],
   "Russia": [
@@ -465,6 +461,10 @@
     {
       "title": "Trump Says He Is Prepared to Send \u2018More Than the National Guard\u2019 Into U.S. Cities - The New York Times",
       "pubDate": "Tue, 28 Oct 2025 15:17:03 GMT"
+    },
+    {
+      "title": "Trump calls for end of Senate filibuster to break funding stalemate - CNN",
+      "pubDate": "Fri, 31 Oct 2025 04:11:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -1097,6 +1097,10 @@
     {
       "title": "Israel receives coffins Hamas says contain two Gaza hostages' bodies - BBC",
       "pubDate": "Thu, 30 Oct 2025 15:39:25 GMT"
+    },
+    {
+      "title": "Acute trauma: The ever-present wounds of Gaza\u2019s children from Israel\u2019s war - Al Jazeera",
+      "pubDate": "Fri, 31 Oct 2025 09:13:09 GMT"
     }
   ],
   "Climate Change": [
@@ -1443,6 +1447,10 @@
     {
       "title": "CSIS Satellite Imagery Analysis Reveals Possible Signs of Renewed Nuclear Activity in Iran - CSIS | Center for Strategic and International Studies",
       "pubDate": "Mon, 27 Oct 2025 16:05:39 GMT"
+    },
+    {
+      "title": "Iran condemns Trump\u2019s call to resume US nuclear testing - Al Jazeera",
+      "pubDate": "Fri, 31 Oct 2025 04:35:10 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1547,10 +1555,6 @@
   ],
   "Large Language Models": [
     {
-      "title": "APTO Releases Training Dataset to Enhance the Mathematical Reasoning Capabilities of Large Language Models (LLMs) - Yahoo Finance",
-      "pubDate": "Tue, 30 Sep 2025 17:00:00 GMT"
-    },
-    {
       "title": "MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling) - VentureBeat",
       "pubDate": "Mon, 27 Oct 2025 19:02:04 GMT"
     }
@@ -1599,10 +1603,6 @@
   ],
   "SpaceX": [
     {
-      "title": "SpaceX has a few tricks up its sleeve for the last Starship flight of the year - Ars Technica",
-      "pubDate": "Tue, 30 Sep 2025 18:36:17 GMT"
-    },
-    {
       "title": "European firms unite in bid to rival SpaceX - BBC",
       "pubDate": "Thu, 23 Oct 2025 11:56:22 GMT"
     }
@@ -1627,6 +1627,10 @@
     {
       "title": "CISA Warns of Hackers Actively Exploiting Windows Server Update Services RCE Vulnerability in the Wild - CyberSecurityNews",
       "pubDate": "Sat, 25 Oct 2025 02:38:08 GMT"
+    },
+    {
+      "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers - The Hacker News",
+      "pubDate": "Fri, 31 Oct 2025 08:46:00 GMT"
     }
   ],
   "New York City": [
@@ -1917,6 +1921,10 @@
     {
       "title": "A Mystery C.E.O. and Billions in Sales: Is China Buying Banned Nvidia Chips? - The New York Times",
       "pubDate": "Thu, 09 Oct 2025 17:54:56 GMT"
+    },
+    {
+      "title": "Nvidia Is First Company to Top $5 Trillion in Market Value Amid AI Boom - The New York Times",
+      "pubDate": "Fri, 31 Oct 2025 01:45:00 GMT"
     }
   ],
   "Intelligence Agencies": [
@@ -2309,6 +2317,10 @@
     {
       "title": "Hurricane Melissa Live Updates: Death Toll Rises as Storm Churns Toward the Bahamas - The New York Times",
       "pubDate": "Thu, 30 Oct 2025 03:35:00 GMT"
+    },
+    {
+      "title": "At least 50 dead as Hurricane Melissa devastates the Caribbean; Bermuda braces for storm - USA Today",
+      "pubDate": "Fri, 31 Oct 2025 01:07:30 GMT"
     }
   ],
   "Hurricane Melissa": [
