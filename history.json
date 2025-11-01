@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Rising Global Regulation for Artificial Intelligence (UPDATED) - JD Supra",
-      "pubDate": "Thu, 02 Oct 2025 21:49:00 GMT"
-    },
-    {
       "title": "A generative artificial intelligence approach for the discovery of antimicrobial peptides against multidrug-resistant bacteria - Nature",
       "pubDate": "Fri, 03 Oct 2025 10:04:26 GMT"
     },
@@ -383,10 +379,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump making plans to send billions in cash bailouts to farmers with taxpayer money - Politico",
-      "pubDate": "Thu, 02 Oct 2025 19:00:59 GMT"
-    },
-    {
       "title": "Trump says if Hamas does not accept proposed peace deal by Sunday, \u2018all hell\u2019 will break out - PBS",
       "pubDate": "Fri, 03 Oct 2025 15:34:30 GMT"
     },
@@ -461,6 +453,10 @@
     {
       "title": "Trump calls for end of Senate filibuster to break funding stalemate - CNN",
       "pubDate": "Fri, 31 Oct 2025 04:11:00 GMT"
+    },
+    {
+      "title": "Trump tells Defense Department to 'prepare for possible action' in Nigeria - NBC News",
+      "pubDate": "Sat, 01 Nov 2025 21:44:57 GMT"
     }
   ],
   "Financial Markets": [
@@ -617,10 +613,6 @@
   ],
   "AI Safety": [
     {
-      "title": "California adopted AI safety legislation. Here are 5 things it does. - Smart Cities Dive",
-      "pubDate": "Thu, 02 Oct 2025 13:23:02 GMT"
-    },
-    {
       "title": "AI chatbots a child safety risk, parental groups report - Washington Examiner",
       "pubDate": "Fri, 03 Oct 2025 02:08:42 GMT"
     },
@@ -719,6 +711,10 @@
     {
       "title": "National Academies Report Calls for Stronger Machine Learning Safety Standards - Lab Manager",
       "pubDate": "Fri, 31 Oct 2025 12:43:19 GMT"
+    },
+    {
+      "title": "OpenAI Updates Service Rules for Safer AI Use - \u0411\u0443\u043a\u0432\u0438",
+      "pubDate": "Sat, 01 Nov 2025 16:24:18 GMT"
     }
   ],
   "Data Breach": [
@@ -760,10 +756,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Shutdown guts U.S. cybersecurity agency at perilous time - MSN",
-      "pubDate": "Thu, 02 Oct 2025 19:01:12 GMT"
-    },
     {
       "title": "Government flying partially blind to threats after key cyber law expires - Politico",
       "pubDate": "Fri, 03 Oct 2025 14:00:00 GMT"
@@ -897,6 +889,10 @@
     {
       "title": "US economy in the dark as government shutdown cuts off crucial data | Hindustan Times - Hindustan Times",
       "pubDate": "Thu, 30 Oct 2025 09:01:02 GMT"
+    },
+    {
+      "title": "No jobs report again. But these numbers show how the U.S. economy is doing. - MarketWatch",
+      "pubDate": "Sat, 01 Nov 2025 13:00:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -1112,10 +1108,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Senior Tories dismayed at Badenoch\u2019s \u2018catastrophic\u2019 vow to repeal Climate Change Act - The Guardian",
-      "pubDate": "Thu, 02 Oct 2025 18:35:00 GMT"
-    },
     {
       "title": "New Study Shows Disruption of Ocean Currents That Stabilize the Global Climate - Inside Climate News",
       "pubDate": "Fri, 03 Oct 2025 18:00:00 GMT"
@@ -1643,10 +1635,6 @@
   ],
   "Elon Musk": [
     {
-      "title": "Elon Musk makes history as first person ever to hit $500B net worth milestone: report - Fox Business",
-      "pubDate": "Wed, 01 Oct 2025 23:05:00 GMT"
-    },
-    {
       "title": "Elon Musk Caught Letting China Invest in SpaceX, a Huge US Military Contractor - Yahoo News New Zealand",
       "pubDate": "Sat, 04 Oct 2025 13:45:00 GMT"
     },
@@ -1681,10 +1669,6 @@
   ],
   "Hacking": [
     {
-      "title": "Hackers stole data from British nursery schools \u2014 then apologized to parents - The Washington Post",
-      "pubDate": "Thu, 02 Oct 2025 22:50:28 GMT"
-    },
-    {
       "title": "Hackers Arrested for Allegedly Stealing 8,000 Kids' Sensitive Photos and Personal Data From Preschool Database - People.com",
       "pubDate": "Wed, 08 Oct 2025 01:12:51 GMT"
     },
@@ -1695,6 +1679,10 @@
     {
       "title": "Hundreds of masked ICE agents doxxed by hackers, as personal details posted on Telegram - Bitdefender",
       "pubDate": "Tue, 21 Oct 2025 21:09:34 GMT"
+    },
+    {
+      "title": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks - BleepingComputer",
+      "pubDate": "Sat, 01 Nov 2025 14:16:26 GMT"
     }
   ],
   "Space Exploration": [
@@ -1957,6 +1945,10 @@
     {
       "title": "Diphtheria, a Once Vanquished Killer of Children, Is Resurgent - The New York Times",
       "pubDate": "Mon, 27 Oct 2025 04:00:06 GMT"
+    },
+    {
+      "title": "ACA open enrollment begins with spike in healthcare premiums - BBC",
+      "pubDate": "Sat, 01 Nov 2025 16:47:30 GMT"
     }
   ],
   "Physics": [
@@ -2355,6 +2347,16 @@
     {
       "title": "Pentagon cleared giving Ukraine long-range Tomahawk missiles, leaving final decision to Trump - CNN",
       "pubDate": "Fri, 31 Oct 2025 17:00:48 GMT"
+    },
+    {
+      "title": "Pentagon to give Volodymyr Zelensky Tomahawk missiles - The Jerusalem Post",
+      "pubDate": "Sat, 01 Nov 2025 20:35:09 GMT"
+    }
+  ],
+  "GPUs": [
+    {
+      "title": "Microsoft CEO Doesn\u2019t Want to Buy NVIDIA\u2019s AI GPUs \u201cBeyond One Generation,\u201d Hints at a Compute Glut Driven by Energy Constraints - Wccftech",
+      "pubDate": "Sat, 01 Nov 2025 16:06:00 GMT"
     }
   ]
 }
