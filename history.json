@@ -1,18 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "A generative artificial intelligence approach for the discovery of antimicrobial peptides against multidrug-resistant bacteria - Nature",
-      "pubDate": "Fri, 03 Oct 2025 10:04:26 GMT"
-    },
-    {
-      "title": "Amazon founder Jeff Bezos says AI bubble is real, but so is the technology - Yahoo Finance",
-      "pubDate": "Fri, 03 Oct 2025 15:56:27 GMT"
-    },
-    {
-      "title": "AI maps how a new antibiotic targets gut bacteria - MIT News",
-      "pubDate": "Fri, 03 Oct 2025 21:00:00 GMT"
-    },
-    {
       "title": "AI voices are now indistinguishable from real human voices - Live Science",
       "pubDate": "Sat, 04 Oct 2025 11:00:00 GMT"
     },
@@ -107,6 +95,10 @@
     {
       "title": "A.I. Is Making Death Threats Way More Realistic - The New York Times",
       "pubDate": "Fri, 31 Oct 2025 22:12:56 GMT"
+    },
+    {
+      "title": "Boom or bubble? Inside the $3tn AI datacentre spending spree - The Guardian",
+      "pubDate": "Sun, 02 Nov 2025 16:36:00 GMT"
     }
   ],
   "US Politics": [
@@ -161,6 +153,10 @@
     {
       "title": "Food aid for 42 million imperiled by shutdown politics, as Trump tests law - Reuters",
       "pubDate": "Wed, 29 Oct 2025 10:03:22 GMT"
+    },
+    {
+      "title": "Upcoming elections pose early test of Trump\u2019s presidency as government shutdown drags on - CNN",
+      "pubDate": "Sun, 02 Nov 2025 22:38:00 GMT"
     }
   ],
   "Israel": [
@@ -375,13 +371,13 @@
     {
       "title": "Russia blasts Ukraine\u2019s power grid again, causing outages across the country and killing 2 - The Hill",
       "pubDate": "Thu, 30 Oct 2025 10:23:09 GMT"
+    },
+    {
+      "title": "Ukrainian drone strike hits key Russian oil port, at least one vessel hit - Reuters",
+      "pubDate": "Sun, 02 Nov 2025 13:51:15 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump says if Hamas does not accept proposed peace deal by Sunday, \u2018all hell\u2019 will break out - PBS",
-      "pubDate": "Fri, 03 Oct 2025 15:34:30 GMT"
-    },
     {
       "title": "Hamas agrees to parts of Trump\u2019s Gaza plan, seeks more talks, bombing eases - Al Jazeera",
       "pubDate": "Sat, 04 Oct 2025 07:13:18 GMT"
@@ -609,21 +605,13 @@
     {
       "title": "Exclusive | White House to Announce Auto Chip Shipments to Resume From China - The Wall Street Journal",
       "pubDate": "Fri, 31 Oct 2025 21:46:00 GMT"
+    },
+    {
+      "title": "China\u2019s Belt and Road Initiative is booming - The Economist",
+      "pubDate": "Sun, 02 Nov 2025 18:12:25 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI chatbots a child safety risk, parental groups report - Washington Examiner",
-      "pubDate": "Fri, 03 Oct 2025 02:08:42 GMT"
-    },
-    {
-      "title": "AI Pioneer Bengio Warns of Extinction Risk From Self-Preserving AI Systems - \uc870\uc120\uc77c\ubcf4",
-      "pubDate": "Fri, 03 Oct 2025 07:24:04 GMT"
-    },
-    {
-      "title": "Shocking report finds AI willing to let humans die to avoid shutdown - LADbible",
-      "pubDate": "Fri, 03 Oct 2025 19:02:31 GMT"
-    },
     {
       "title": "Global Tech Giants Announce Unprecedented AI Safety Pact - Zoom Bangla News",
       "pubDate": "Sat, 04 Oct 2025 13:08:50 GMT"
@@ -719,14 +707,6 @@
   ],
   "Data Breach": [
     {
-      "title": "Hacking group claims theft of 1 billion records from Salesforce customer databases - TechCrunch",
-      "pubDate": "Fri, 03 Oct 2025 13:17:43 GMT"
-    },
-    {
-      "title": "Discord customer service data breach leaks user info and scanned photo IDs - The Verge",
-      "pubDate": "Fri, 03 Oct 2025 23:52:50 GMT"
-    },
-    {
       "title": "70,000 government ID photos exposed in Discord user hack - NBC News",
       "pubDate": "Thu, 09 Oct 2025 23:08:30 GMT"
     },
@@ -756,18 +736,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Government flying partially blind to threats after key cyber law expires - Politico",
-      "pubDate": "Fri, 03 Oct 2025 14:00:00 GMT"
-    },
-    {
-      "title": "Congress let a key cybersecurity law expire this week, leaving US networks more vulnerable - Engadget",
-      "pubDate": "Fri, 03 Oct 2025 17:45:29 GMT"
-    },
-    {
-      "title": "Federal judiciary touts cybersecurity work in wake of latest major breach - CyberScoop",
-      "pubDate": "Fri, 03 Oct 2025 18:29:54 GMT"
-    },
     {
       "title": "Ransomware hits a Japanese brewer, an Odesa crypto gang and other cybersecurity news - ForkLog",
       "pubDate": "Sat, 04 Oct 2025 04:09:49 GMT"
@@ -834,10 +802,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "US Services Gauge Falls on Weakest Business Activity Since 2020 - Bloomberg.com",
-      "pubDate": "Fri, 03 Oct 2025 16:30:37 GMT"
-    },
     {
       "title": "America's economy is on a 'sugar high' warns Ken Griffin, and investors retreating to gold is one sign of a comedown - Fortune",
       "pubDate": "Tue, 07 Oct 2025 10:30:00 GMT"
@@ -924,10 +888,6 @@
     }
   ],
   "Fusion Power": [
-    {
-      "title": "Chinese lab sets new benchmark after building device that generates 180 million-degree temperatures: 'A major turning point' - The Cool Down",
-      "pubDate": "Fri, 03 Oct 2025 21:15:00 GMT"
-    },
     {
       "title": "Europe\u2019s first full design of commercial fusion power plant unveiled by German firm - Interesting Engineering",
       "pubDate": "Thu, 09 Oct 2025 23:45:00 GMT"
@@ -1105,13 +1065,13 @@
     {
       "title": "Gaza risks sliding into deadly limbo of \u2018no war, no peace\u2019, top Qatari diplomat warns - The Guardian",
       "pubDate": "Fri, 31 Oct 2025 18:29:00 GMT"
+    },
+    {
+      "title": "Hamas demands safe passage from Gaza tunnels in IDF zones - The Jerusalem Post",
+      "pubDate": "Sun, 02 Nov 2025 18:23:08 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "New Study Shows Disruption of Ocean Currents That Stabilize the Global Climate - Inside Climate News",
-      "pubDate": "Fri, 03 Oct 2025 18:00:00 GMT"
-    },
     {
       "title": "Before and after images show glaciers vanishing before our eyes - BBC",
       "pubDate": "Sun, 05 Oct 2025 00:28:17 GMT"
@@ -1255,10 +1215,6 @@
   ],
   "Electric Vehicle": [
     {
-      "title": "Tesla, GM lead record U.S. EV sales this year as federal incentives end - CNBC",
-      "pubDate": "Fri, 03 Oct 2025 14:52:38 GMT"
-    },
-    {
       "title": "US risks losing more ground to China in EV race as investment tumbles - Financial Times",
       "pubDate": "Sun, 26 Oct 2025 05:00:25 GMT"
     }
@@ -1357,13 +1313,13 @@
     {
       "title": "Pentagon takes steps to fire civilian workers with 'speed and conviction' - NBC News",
       "pubDate": "Wed, 29 Oct 2025 00:35:00 GMT"
+    },
+    {
+      "title": "Thousands of UFOs spotted off US coastlines raise new national security fears: expert - FOX 9 Minneapolis-St. Paul",
+      "pubDate": "Sun, 02 Nov 2025 15:17:25 GMT"
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea vows at UN it will keep nuclear weapons - Energies Media",
-      "pubDate": "Fri, 03 Oct 2025 17:44:00 GMT"
-    },
     {
       "title": "North Korea's crypto hackers have stolen over $2 billion in 2025 - Elliptic",
       "pubDate": "Tue, 07 Oct 2025 12:04:29 GMT"
@@ -1399,6 +1355,10 @@
     {
       "title": "North Korea says it test-fired cruise missiles ahead of Trump\u2019s visit to South Korea - The Hill",
       "pubDate": "Tue, 28 Oct 2025 22:33:16 GMT"
+    },
+    {
+      "title": "South Korea launches fifth spy satellite to monitor North Korea - nhk.or.jp",
+      "pubDate": "Sun, 02 Nov 2025 13:22:10 GMT"
     }
   ],
   "Iran": [
@@ -1490,10 +1450,6 @@
     }
   ],
   "Renewable Energy": [
-    {
-      "title": "Indonesia starts construction of 92 megawatt floating solar plant - Reuters",
-      "pubDate": "Fri, 03 Oct 2025 03:24:00 GMT"
-    },
     {
       "title": "China\u2019s Massive Renewable Investments Reshape Global Energy Markets - WebProNews",
       "pubDate": "Sat, 04 Oct 2025 14:36:18 GMT"
@@ -1687,19 +1643,11 @@
   ],
   "Space Exploration": [
     {
-      "title": "Blue Origin reveals space tourists to launch on next New Shepard rocket - Space",
-      "pubDate": "Fri, 03 Oct 2025 18:00:00 GMT"
-    },
-    {
       "title": "Moon's largest crater harbors secret on south pole where NASA astronauts will land - USA Today",
       "pubDate": "Thu, 16 Oct 2025 09:09:07 GMT"
     }
   ],
   "Tesla": [
-    {
-      "title": "Parents of two college students killed in a Tesla allege design flaw trapped them in the burning car - AP News",
-      "pubDate": "Fri, 03 Oct 2025 20:52:00 GMT"
-    },
     {
       "title": "California insurance commissioner issues enforcement action against Tesla - Courthouse News",
       "pubDate": "Sat, 04 Oct 2025 00:39:59 GMT"
