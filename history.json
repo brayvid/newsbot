@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI voices are now indistinguishable from real human voices - Live Science",
-      "pubDate": "Sat, 04 Oct 2025 11:00:00 GMT"
-    },
-    {
-      "title": "OpenAI rolls out GPT Codex Alpha with early access to new models - BleepingComputer",
-      "pubDate": "Sat, 04 Oct 2025 17:30:00 GMT"
-    },
-    {
       "title": "\ud83e\uddbe AI finds ten times more earthquakes than previous methods - warpnews.org",
       "pubDate": "Sun, 05 Oct 2025 08:57:31 GMT"
     },
@@ -99,6 +91,10 @@
     {
       "title": "Boom or bubble? Inside the $3tn AI datacentre spending spree - The Guardian",
       "pubDate": "Sun, 02 Nov 2025 16:36:00 GMT"
+    },
+    {
+      "title": "OpenAI Signs $38 Billion Cloud Computing Deal With Amazon - The New York Times",
+      "pubDate": "Mon, 03 Nov 2025 14:00:08 GMT"
     }
   ],
   "US Politics": [
@@ -285,14 +281,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukraine Blows Up Key Russian Oil Hub in Overnight Strike\u2014Warship and Missile Base Also Hit - UNITED24 Media",
-      "pubDate": "Sat, 04 Oct 2025 09:29:16 GMT"
-    },
-    {
-      "title": "China provides Russia with satellite data for missile strikes on Ukraine \u2014 intelligence - Ukrinform",
-      "pubDate": "Sat, 04 Oct 2025 07:51:00 GMT"
-    },
-    {
       "title": "Russia spiralling into an HIV crisis - European AIDS Treatment Group",
       "pubDate": "Sat, 04 Oct 2025 21:00:51 GMT"
     },
@@ -375,13 +363,13 @@
     {
       "title": "Ukrainian drone strike hits key Russian oil port, at least one vessel hit - Reuters",
       "pubDate": "Sun, 02 Nov 2025 13:51:15 GMT"
+    },
+    {
+      "title": "Russia has a new strategy for winter war in Ukraine - Al Jazeera",
+      "pubDate": "Mon, 03 Nov 2025 13:03:04 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Hamas agrees to parts of Trump\u2019s Gaza plan, seeks more talks, bombing eases - Al Jazeera",
-      "pubDate": "Sat, 04 Oct 2025 07:13:18 GMT"
-    },
     {
       "title": "Federal judge blocks Trump from deploying Oregon National Guard to Portland - Oregon Capital Chronicle",
       "pubDate": "Sat, 04 Oct 2025 23:50:41 GMT"
@@ -486,14 +474,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Senior US senator wants to boost pressure on China over Taiwan - Reuters",
-      "pubDate": "Sat, 04 Oct 2025 11:27:09 GMT"
-    },
-    {
-      "title": "China dangles $1trn investment in bid to reset US trade policy: Bloomberg - Dailynewsegypt",
-      "pubDate": "Sat, 04 Oct 2025 14:09:28 GMT"
-    },
     {
       "title": "China - The Guardian",
       "pubDate": "Sun, 05 Oct 2025 04:12:16 GMT"
@@ -609,13 +589,13 @@
     {
       "title": "China\u2019s Belt and Road Initiative is booming - The Economist",
       "pubDate": "Sun, 02 Nov 2025 18:12:25 GMT"
+    },
+    {
+      "title": "The State of AI: is China about to win the race? - Financial Times",
+      "pubDate": "Mon, 03 Nov 2025 17:00:11 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Global Tech Giants Announce Unprecedented AI Safety Pact - Zoom Bangla News",
-      "pubDate": "Sat, 04 Oct 2025 13:08:50 GMT"
-    },
     {
       "title": "Anthropic Study: AI Complies with Dishonest Requests Despite Guardrails - WebProNews",
       "pubDate": "Sun, 05 Oct 2025 22:40:23 GMT"
@@ -736,10 +716,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Ransomware hits a Japanese brewer, an Odesa crypto gang and other cybersecurity news - ForkLog",
-      "pubDate": "Sat, 04 Oct 2025 04:09:49 GMT"
-    },
     {
       "title": "US DoD Will Cut Back on Mandatory Cybersecurity Training - tech.co",
       "pubDate": "Mon, 06 Oct 2025 18:49:14 GMT"
@@ -902,10 +878,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI launch of video app Sora plagued by violent and racist images: \u2018The guardrails are not real\u2019 - The Guardian",
-      "pubDate": "Sat, 04 Oct 2025 13:01:00 GMT"
-    },
     {
       "title": "OpenAI valued at $500bn in employee share sale - Data Center Dynamics",
       "pubDate": "Sun, 05 Oct 2025 18:37:37 GMT"
@@ -1211,6 +1183,10 @@
     {
       "title": "Climate change intensified India's heatwaves in 2024 - Lancet study - BBC",
       "pubDate": "Thu, 30 Oct 2025 11:03:40 GMT"
+    },
+    {
+      "title": "The ground is swallowing homes in this Native village in Alaska. Residents have no choice but to move - The Guardian",
+      "pubDate": "Mon, 03 Nov 2025 17:02:00 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1363,10 +1339,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran executes 6 death-row inmates it alleges carried out attacks on behalf of Israel - NBC News",
-      "pubDate": "Sat, 04 Oct 2025 08:45:21 GMT"
-    },
-    {
       "title": "Iran Signals Push to Address Nuclear Standoff Despite Sanctions - Bloomberg.com",
       "pubDate": "Sun, 05 Oct 2025 11:02:03 GMT"
     },
@@ -1407,6 +1379,10 @@
     {
       "title": "US Supreme Court conservatives appear willing to blunt key Voting Rights Act provision - Reuters",
       "pubDate": "Wed, 15 Oct 2025 15:59:01 GMT"
+    },
+    {
+      "title": "Supreme Court Confronts Trump and His Tariffs in Test of Presidential Power - The New York Times",
+      "pubDate": "Mon, 03 Nov 2025 10:01:49 GMT"
     }
   ],
   "United Kingdom": [
@@ -1451,10 +1427,6 @@
   ],
   "Renewable Energy": [
     {
-      "title": "China\u2019s Massive Renewable Investments Reshape Global Energy Markets - WebProNews",
-      "pubDate": "Sat, 04 Oct 2025 14:36:18 GMT"
-    },
-    {
       "title": "\u2600\ufe0f Renewable energy surpasses coal in the global electricity mix - for the first time ever - warpnews.org",
       "pubDate": "Sat, 11 Oct 2025 09:01:01 GMT"
     },
@@ -1468,10 +1440,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "Trump administration to cancel $645 million worth of grants for climate-related projects in Minnesota - CBS News",
-      "pubDate": "Sat, 04 Oct 2025 00:42:05 GMT"
-    },
     {
       "title": "National security threatened by climate crisis, UK intelligence chiefs due to warn - The Guardian",
       "pubDate": "Wed, 08 Oct 2025 21:08:00 GMT"
@@ -1506,10 +1474,6 @@
     }
   ],
   "US Congress": [
-    {
-      "title": "House GOP cancels more votes in escalation of shutdown strategy - Axios",
-      "pubDate": "Sat, 04 Oct 2025 00:12:41 GMT"
-    },
     {
       "title": "Lawmakers have left Washington with no end to government shutdown in sight - CNN",
       "pubDate": "Sat, 04 Oct 2025 20:55:00 GMT"
@@ -1591,10 +1555,6 @@
   ],
   "Elon Musk": [
     {
-      "title": "Elon Musk Caught Letting China Invest in SpaceX, a Huge US Military Contractor - Yahoo News New Zealand",
-      "pubDate": "Sat, 04 Oct 2025 13:45:00 GMT"
-    },
-    {
       "title": "Elon Musk suffers mass exodus of employees across all 5 companies: 'The one constant \u2026 is how quickly he burns through deputies' - Yahoo Finance",
       "pubDate": "Sun, 05 Oct 2025 23:50:00 GMT"
     },
@@ -1649,10 +1609,6 @@
   ],
   "Tesla": [
     {
-      "title": "California insurance commissioner issues enforcement action against Tesla - Courthouse News",
-      "pubDate": "Sat, 04 Oct 2025 00:39:59 GMT"
-    },
-    {
       "title": "Officials demand answers from Tesla as Elon Musk's statements don't match reality: 'Public confusion' - Yahoo Finance",
       "pubDate": "Mon, 06 Oct 2025 01:30:00 GMT"
     },
@@ -1667,10 +1623,6 @@
   ],
   "Kim Jong Un": [
     {
-      "title": "North Korean agents pretending to be IT guys have funneled up to $1 billion into Kim Jong Un's nuclear program - Fortune",
-      "pubDate": "Sat, 04 Oct 2025 09:33:00 GMT"
-    },
-    {
       "title": "North Korea\u2019s Kim vows additional military measures ahead of major parade - Al Jazeera",
       "pubDate": "Sun, 05 Oct 2025 02:36:21 GMT"
     },
@@ -1683,17 +1635,7 @@
       "pubDate": "Tue, 14 Oct 2025 13:45:36 GMT"
     }
   ],
-  "Animals": [
-    {
-      "title": "These May Be The First Animals To Evolve On Planet Earth, Skin Cells Have Been Used To Create Fertilizable Eggs, And Much More This Week - IFLScience",
-      "pubDate": "Sat, 04 Oct 2025 09:41:23 GMT"
-    }
-  ],
   "Drones": [
-    {
-      "title": "At least 1 dead and dozens injured as Russian drones strike a Ukrainian railway station - AP News",
-      "pubDate": "Sat, 04 Oct 2025 16:23:00 GMT"
-    },
     {
       "title": "Ukraine\u2019s Sea Drones Are Now Launching Unjammable Fiber-Optic Drones - Forbes",
       "pubDate": "Mon, 06 Oct 2025 17:09:29 GMT"
@@ -1732,10 +1674,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "USD News Today: US Dollar Surges as Federal Reserve Signals Prolonged Interest Rates - Meyka",
-      "pubDate": "Sat, 04 Oct 2025 15:09:51 GMT"
-    },
     {
       "title": "Fed's Waller on board for an October rate cut, as Miran again presses for aggressive easing - Reuters",
       "pubDate": "Thu, 16 Oct 2025 18:45:14 GMT"
@@ -2155,6 +2093,10 @@
     {
       "title": "EXCLUSIVE: Nigerian Defence Intelligence Detains Brigadier-General, Other Officers Over Alleged Coup Plot To Overthrow President Tinubu - Sahara Reporters",
       "pubDate": "Sat, 18 Oct 2025 08:07:02 GMT"
+    },
+    {
+      "title": "Former Taiwan Intel Chief Warns of Deep CCP Infiltration in Government, Military, Industry - Vision Times",
+      "pubDate": "Mon, 03 Nov 2025 14:13:28 GMT"
     }
   ],
   "Atlantic Ocean": [
