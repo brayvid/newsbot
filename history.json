@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "\ud83e\uddbe AI finds ten times more earthquakes than previous methods - warpnews.org",
-      "pubDate": "Sun, 05 Oct 2025 08:57:31 GMT"
-    },
-    {
       "title": "OpenAI's Mark Chan says new safety law creates pathway for federal and state oversight | California Politics 360 - KCRA",
       "pubDate": "Sun, 05 Oct 2025 15:30:00 GMT"
     },
@@ -95,6 +91,10 @@
     {
       "title": "OpenAI Signs $38 Billion Cloud Computing Deal With Amazon - The New York Times",
       "pubDate": "Mon, 03 Nov 2025 14:00:08 GMT"
+    },
+    {
+      "title": "Getty Images largely loses landmark UK lawsuit over AI image generator - Reuters",
+      "pubDate": "Tue, 04 Nov 2025 10:51:59 GMT"
     }
   ],
   "US Politics": [
@@ -277,13 +277,13 @@
     {
       "title": "Ukraine war latest: Russia fires 'secret' missile - as report says Kremlin memo wrecked Trump-Putin talks - Sky News",
       "pubDate": "Fri, 31 Oct 2025 10:35:45 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv gets more US-made Patriots and says its forces are holding on in Pokrovsk - The Guardian",
+      "pubDate": "Tue, 04 Nov 2025 04:19:00 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Ukraine\u2019s hellfire is intensifying the Kremlin\u2019s fuel crisis - The Economist",
-      "pubDate": "Sun, 05 Oct 2025 10:51:41 GMT"
-    },
     {
       "title": "Five killed in large Russian missile and drone attack, Zelensky says - BBC",
       "pubDate": "Sun, 05 Oct 2025 12:22:35 GMT"
@@ -475,14 +475,6 @@
   ],
   "China": [
     {
-      "title": "China - The Guardian",
-      "pubDate": "Sun, 05 Oct 2025 04:12:16 GMT"
-    },
-    {
-      "title": "The inside story of China spy case collapse: \u2018It came from the very top\u2019 - The Times",
-      "pubDate": "Sun, 05 Oct 2025 08:33:45 GMT"
-    },
-    {
       "title": "How China is challenging Nvidia's AI chip dominance - BBC",
       "pubDate": "Sun, 05 Oct 2025 23:00:21 GMT"
     },
@@ -593,6 +585,10 @@
     {
       "title": "The State of AI: is China about to win the race? - Financial Times",
       "pubDate": "Mon, 03 Nov 2025 17:00:11 GMT"
+    },
+    {
+      "title": "China Urges US to Avoid \u2018Red Lines\u2019 After Reaching Trade Truce - Bloomberg.com",
+      "pubDate": "Tue, 04 Nov 2025 01:12:00 GMT"
     }
   ],
   "AI Safety": [
@@ -779,6 +775,10 @@
     {
       "title": "LG Uplus breach, Conduent attack, Russian exploit against Ukraine - CISO Series",
       "pubDate": "Thu, 30 Oct 2025 10:00:00 GMT"
+    },
+    {
+      "title": "US prosecutors say cybersecurity pros ran cybercrime operation - Reuters",
+      "pubDate": "Tue, 04 Nov 2025 00:45:00 GMT"
     }
   ],
   "US Economy": [
@@ -841,6 +841,10 @@
     {
       "title": "AI Now Accounts for a Third of US Market Value\u2014What That Means For The Economy - Investopedia",
       "pubDate": "Mon, 03 Nov 2025 14:25:00 GMT"
+    },
+    {
+      "title": "How the government shutdown impacts the U.S. economy - NBC News",
+      "pubDate": "Tue, 04 Nov 2025 01:57:02 GMT"
     }
   ],
   "Earthquakes": [
@@ -858,10 +862,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Bitcoin price surges to all-time high of $125,700 - Yahoo Finance",
-      "pubDate": "Sun, 05 Oct 2025 05:37:51 GMT"
-    },
     {
       "title": "DOJ seizes $15 billion in bitcoin from massive 'pig butchering' scam based in Cambodia - CNBC",
       "pubDate": "Tue, 14 Oct 2025 15:04:12 GMT"
@@ -930,10 +930,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Global outrage has grown after two years of bombardment in Gaza. In Israel, it is a different story - CNN",
-      "pubDate": "Sun, 05 Oct 2025 06:01:52 GMT"
-    },
     {
       "title": "Live updates: Gaza ceasefire talks underway as Israel marks anniversary of October 7 attack - CNN",
       "pubDate": "Tue, 07 Oct 2025 10:25:00 GMT"
@@ -1045,16 +1041,8 @@
   ],
   "Climate Change": [
     {
-      "title": "Before and after images show glaciers vanishing before our eyes - BBC",
-      "pubDate": "Sun, 05 Oct 2025 00:28:17 GMT"
-    },
-    {
       "title": "As Amazon's 'flying rivers' weaken with tree loss, scientists warn of worsening droughts - The Independent Record",
       "pubDate": "Sun, 05 Oct 2025 15:30:00 GMT"
-    },
-    {
-      "title": "Human emissions are helping fuel the Southwest\u2019s epic drought - KUNC",
-      "pubDate": "Sun, 05 Oct 2025 12:00:00 GMT"
     },
     {
       "title": "The World Bank Climate Change Action Plan 2026\u20132030: Extension and enhancement - E3G",
@@ -1187,6 +1175,10 @@
     {
       "title": "The ground is swallowing homes in this Native village in Alaska. Residents have no choice but to move - The Guardian",
       "pubDate": "Mon, 03 Nov 2025 17:02:00 GMT"
+    },
+    {
+      "title": "Wall Street\u2019s AI Energy Agenda Bleeds Into Global Climate Talks - Bloomberg.com",
+      "pubDate": "Tue, 04 Nov 2025 11:00:00 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1342,10 +1334,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran Signals Push to Address Nuclear Standoff Despite Sanctions - Bloomberg.com",
-      "pubDate": "Sun, 05 Oct 2025 11:02:03 GMT"
-    },
     {
       "title": "Burnt City, a symbol of peaceful coexistence in ancient Iran - Tehran Times",
       "pubDate": "Sun, 05 Oct 2025 14:07:28 GMT"
@@ -1595,6 +1583,10 @@
     {
       "title": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks - BleepingComputer",
       "pubDate": "Sat, 01 Nov 2025 14:16:26 GMT"
+    },
+    {
+      "title": "Inside India\u2019s voyeur web: 80 CCTV dashboards hacked across 20 states; hospitals, schools, homes streamed - The Times of India",
+      "pubDate": "Tue, 04 Nov 2025 03:58:00 GMT"
     }
   ],
   "Space Exploration": [
@@ -1618,10 +1610,6 @@
     }
   ],
   "Kim Jong Un": [
-    {
-      "title": "North Korea\u2019s Kim vows additional military measures ahead of major parade - Al Jazeera",
-      "pubDate": "Sun, 05 Oct 2025 02:36:21 GMT"
-    },
     {
       "title": "As its ruling party turns 80, an emboldened Kim Jong Un shows off North Korea\u2019s new hypersonic weapon, ICBM - CNN",
       "pubDate": "Sat, 11 Oct 2025 01:26:00 GMT"
@@ -1689,10 +1677,6 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "UPDATE: DHS Deploys Special Operations After Multiple Violent Attacks on Federal Law Enforcement by Domestic Terrorists in Chicago - Homeland Security (.gov)",
-      "pubDate": "Sun, 05 Oct 2025 02:07:27 GMT"
-    },
-    {
       "title": "$5,000 Bounties Placed on ICE Agents To Be Killed, DHS Warns - Newsweek",
       "pubDate": "Fri, 10 Oct 2025 10:29:00 GMT"
     },
@@ -1707,19 +1691,11 @@
   ],
   "NASA": [
     {
-      "title": "End of space news? NASA\u2019s website shuts down, no updates until govt funds space agency - WION",
-      "pubDate": "Sun, 05 Oct 2025 08:10:00 GMT"
-    },
-    {
       "title": "NASA unit JPL to lay off about 550 workers, citing restructure - CNBC",
       "pubDate": "Mon, 13 Oct 2025 19:05:06 GMT"
     }
   ],
   "Microsoft": [
-    {
-      "title": "This CEO quit Microsoft in 90s to join a \u2018tiny\u2019 startup, Amazon; shares how Jeff Bezos convinced him to make the move - The Indian Express",
-      "pubDate": "Sun, 05 Oct 2025 06:14:19 GMT"
-    },
     {
       "title": "Microsoft: Russia, China increasingly using AI to escalate cyberattacks on the US - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 16 Oct 2025 14:53:49 GMT"
@@ -1740,10 +1716,6 @@
     }
   ],
   "Computers": [
-    {
-      "title": "Quantum Computers Achieve Unconditional Advantage Over Classical Machines, Study Shows - Gadgets 360",
-      "pubDate": "Sun, 05 Oct 2025 11:30:01 GMT"
-    },
     {
       "title": "Introducing the Gemini 2.5 Computer Use model - The Keyword",
       "pubDate": "Tue, 07 Oct 2025 19:51:55 GMT"
