@@ -281,10 +281,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia spiralling into an HIV crisis - European AIDS Treatment Group",
-      "pubDate": "Sat, 04 Oct 2025 21:00:51 GMT"
-    },
-    {
       "title": "Ukraine\u2019s hellfire is intensifying the Kremlin\u2019s fuel crisis - The Economist",
       "pubDate": "Sun, 05 Oct 2025 10:51:41 GMT"
     },
@@ -371,10 +367,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Federal judge blocks Trump from deploying Oregon National Guard to Portland - Oregon Capital Chronicle",
-      "pubDate": "Sat, 04 Oct 2025 23:50:41 GMT"
-    },
-    {
       "title": "Exclusive: Trump says Hamas faces \u2018complete obliteration\u2019 if it insists on staying in power - CNN",
       "pubDate": "Sun, 05 Oct 2025 13:00:22 GMT"
     },
@@ -441,6 +433,10 @@
     {
       "title": "Trump tells Defense Department to 'prepare for possible action' in Nigeria - NBC News",
       "pubDate": "Sat, 01 Nov 2025 21:44:57 GMT"
+    },
+    {
+      "title": "Trump says he will restrict federal funds for New York City if Mamdani wins - Al Jazeera",
+      "pubDate": "Mon, 03 Nov 2025 23:26:54 GMT"
     }
   ],
   "Financial Markets": [
@@ -471,6 +467,10 @@
     {
       "title": "Stock market faces big moment as Fed decision collides with megacap tech earnings - MarketWatch",
       "pubDate": "Sun, 26 Oct 2025 16:00:00 GMT"
+    },
+    {
+      "title": "This chart shows the risk of an AI bubble is growing, says a stalwart stock-market bull - MarketWatch",
+      "pubDate": "Mon, 03 Nov 2025 22:29:00 GMT"
     }
   ],
   "China": [
@@ -683,6 +683,10 @@
     {
       "title": "OpenAI Updates Service Rules for Safer AI Use - \u0411\u0443\u043a\u0432\u0438",
       "pubDate": "Sat, 01 Nov 2025 16:24:18 GMT"
+    },
+    {
+      "title": "Agentic AI and the policy blind spot: Why security can\u2019t wait - Compliance Week",
+      "pubDate": "Mon, 03 Nov 2025 17:41:53 GMT"
     }
   ],
   "Data Breach": [
@@ -833,6 +837,10 @@
     {
       "title": "No jobs report again. But these numbers show how the U.S. economy is doing. - MarketWatch",
       "pubDate": "Sat, 01 Nov 2025 13:00:00 GMT"
+    },
+    {
+      "title": "AI Now Accounts for a Third of US Market Value\u2014What That Means For The Economy - Investopedia",
+      "pubDate": "Mon, 03 Nov 2025 14:25:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -922,14 +930,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel, Hamas say they\u2019re ready to talk peace but significant gaps remain - The Washington Post",
-      "pubDate": "Sat, 04 Oct 2025 22:46:57 GMT"
-    },
-    {
-      "title": "Netanyahu hopes to announce the release of all hostages from Gaza \u2018in the coming days\u2019 - AP News",
-      "pubDate": "Sat, 04 Oct 2025 22:13:00 GMT"
-    },
     {
       "title": "Global outrage has grown after two years of bombardment in Gaza. In Israel, it is a different story - CNN",
       "pubDate": "Sun, 05 Oct 2025 06:01:52 GMT"
@@ -1293,6 +1293,10 @@
     {
       "title": "Thousands of UFOs spotted off US coastlines raise new national security fears: expert - FOX 9 Minneapolis-St. Paul",
       "pubDate": "Sun, 02 Nov 2025 15:17:25 GMT"
+    },
+    {
+      "title": "Supreme Court takes up Trump\u2019s emergency tariffs, citing national security - Fox Business",
+      "pubDate": "Mon, 03 Nov 2025 15:54:14 GMT"
     }
   ],
   "North Korea": [
@@ -1397,10 +1401,6 @@
   ],
   "Trade War": [
     {
-      "title": "Farm bankruptcies are soaring amid low crop prices, while Trump considers bailout of up to $14 billion - Fortune",
-      "pubDate": "Sat, 04 Oct 2025 18:49:00 GMT"
-    },
-    {
       "title": "Trump, Vance Open Door to China Deal as Trade Spat Drags On - Bloomberg.com",
       "pubDate": "Sun, 12 Oct 2025 23:02:33 GMT"
     },
@@ -1474,10 +1474,6 @@
     }
   ],
   "US Congress": [
-    {
-      "title": "Lawmakers have left Washington with no end to government shutdown in sight - CNN",
-      "pubDate": "Sat, 04 Oct 2025 20:55:00 GMT"
-    },
     {
       "title": "Live updates: Government shutdown reaches ninth day, Congress still deadlocked on funding plan | CNN Politics - CNN",
       "pubDate": "Thu, 09 Oct 2025 16:45:00 GMT"
@@ -1692,10 +1688,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "U.S. Border Patrol shoots woman in Chicago as federal troop deployment to Illinois looms - CBC",
-      "pubDate": "Sat, 04 Oct 2025 23:38:00 GMT"
-    },
     {
       "title": "UPDATE: DHS Deploys Special Operations After Multiple Violent Attacks on Federal Law Enforcement by Domestic Terrorists in Chicago - Homeland Security (.gov)",
       "pubDate": "Sun, 05 Oct 2025 02:07:27 GMT"
@@ -2127,6 +2119,10 @@
     {
       "title": "Anthropic, Google in Talks on Cloud Deal Worth Tens of Billions - Bloomberg",
       "pubDate": "Tue, 21 Oct 2025 21:59:15 GMT"
+    },
+    {
+      "title": "Microsoft to ship 60,000 Nvidia AI chips to UAE under US-approved deal - ABC News",
+      "pubDate": "Mon, 03 Nov 2025 17:08:36 GMT"
     }
   ],
   "Engineering": [
