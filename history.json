@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI's Mark Chan says new safety law creates pathway for federal and state oversight | California Politics 360 - KCRA",
-      "pubDate": "Sun, 05 Oct 2025 15:30:00 GMT"
-    },
-    {
       "title": "Does AI pose an existential risk? We asked 5 experts - The Conversation",
       "pubDate": "Sun, 05 Oct 2025 19:15:48 GMT"
     },
@@ -98,10 +94,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "White House: Mass layoffs will start if shutdown talks 'going nowhere' - Reuters",
-      "pubDate": "Sun, 05 Oct 2025 16:38:34 GMT"
-    },
     {
       "title": "Shutdown on track to extend into seventh day after funding proposals fail in Senate - CNN",
       "pubDate": "Tue, 07 Oct 2025 03:02:00 GMT"
@@ -281,13 +273,13 @@
     {
       "title": "Ukraine war briefing: Kyiv gets more US-made Patriots and says its forces are holding on in Pokrovsk - The Guardian",
       "pubDate": "Tue, 04 Nov 2025 04:19:00 GMT"
+    },
+    {
+      "title": "Its Forces Worn Down, Ukraine Moves to Revamp Military Service - The New York Times",
+      "pubDate": "Tue, 04 Nov 2025 13:26:37 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Five killed in large Russian missile and drone attack, Zelensky says - BBC",
-      "pubDate": "Sun, 05 Oct 2025 12:22:35 GMT"
-    },
     {
       "title": "Even Russia\u2019s Baltic Fleet Isn\u2019t Safe as Ukraine Hits a Warship 1,000 Kilometers From the Frontline - UNITED24 Media",
       "pubDate": "Mon, 06 Oct 2025 19:03:03 GMT"
@@ -366,10 +358,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Exclusive: Trump says Hamas faces \u2018complete obliteration\u2019 if it insists on staying in power - CNN",
-      "pubDate": "Sun, 05 Oct 2025 13:00:22 GMT"
-    },
     {
       "title": "Trump calls for jailing of Illinois governor and Chicago mayor in immigration standoff - BBC",
       "pubDate": "Wed, 08 Oct 2025 14:36:35 GMT"
@@ -589,6 +577,10 @@
     {
       "title": "China Urges US to Avoid \u2018Red Lines\u2019 After Reaching Trade Truce - Bloomberg.com",
       "pubDate": "Tue, 04 Nov 2025 01:12:00 GMT"
+    },
+    {
+      "title": "China sentences infamous Myanmar scam mafia members to death - BBC",
+      "pubDate": "Tue, 04 Nov 2025 11:54:24 GMT"
     }
   ],
   "AI Safety": [
@@ -683,6 +675,10 @@
     {
       "title": "Agentic AI and the policy blind spot: Why security can\u2019t wait - Compliance Week",
       "pubDate": "Mon, 03 Nov 2025 17:41:53 GMT"
+    },
+    {
+      "title": "Experts find flaws in hundreds of tests that check AI safety and effectiveness - The Guardian",
+      "pubDate": "Tue, 04 Nov 2025 09:56:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1037,13 +1033,13 @@
     {
       "title": "Hamas demands safe passage from Gaza tunnels in IDF zones - The Jerusalem Post",
       "pubDate": "Sun, 02 Nov 2025 18:23:08 GMT"
+    },
+    {
+      "title": "LIVE: Thousands in overcrowded Gaza shelters amid Israeli shelling - Al Jazeera",
+      "pubDate": "Tue, 04 Nov 2025 15:55:25 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "As Amazon's 'flying rivers' weaken with tree loss, scientists warn of worsening droughts - The Independent Record",
-      "pubDate": "Sun, 05 Oct 2025 15:30:00 GMT"
-    },
     {
       "title": "The World Bank Climate Change Action Plan 2026\u20132030: Extension and enhancement - E3G",
       "pubDate": "Mon, 06 Oct 2025 19:14:57 GMT"
@@ -1179,6 +1175,10 @@
     {
       "title": "Wall Street\u2019s AI Energy Agenda Bleeds Into Global Climate Talks - Bloomberg.com",
       "pubDate": "Tue, 04 Nov 2025 11:00:00 GMT"
+    },
+    {
+      "title": "A Post investigation shows where hidden rivers in the sky are fueling deadly floods - The Washington Post",
+      "pubDate": "Tue, 04 Nov 2025 17:44:17 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1335,10 +1335,6 @@
   ],
   "Iran": [
     {
-      "title": "Burnt City, a symbol of peaceful coexistence in ancient Iran - Tehran Times",
-      "pubDate": "Sun, 05 Oct 2025 14:07:28 GMT"
-    },
-    {
       "title": "'Iran is developing a nuclear missile to hit the US,' Netanyahu warns in Ben Shapiro interview - The Jerusalem Post",
       "pubDate": "Tue, 07 Oct 2025 10:05:39 GMT"
     },
@@ -1375,6 +1371,10 @@
     {
       "title": "Supreme Court Confronts Trump and His Tariffs in Test of Presidential Power - The New York Times",
       "pubDate": "Mon, 03 Nov 2025 10:01:49 GMT"
+    },
+    {
+      "title": "Supreme Court prepares to weigh tariffs fight in test of Trump's power - CBS News",
+      "pubDate": "Tue, 04 Nov 2025 11:00:00 GMT"
     }
   ],
   "United Kingdom": [
@@ -1549,6 +1549,10 @@
     {
       "title": "Elon Musk calls acting NASA chief \u2018Sean Dummy\u2019 as SpaceX moon contract hangs in the balance - CNN",
       "pubDate": "Tue, 21 Oct 2025 18:59:08 GMT"
+    },
+    {
+      "title": "Major Tesla Investor Rejects Elon Musk\u2019s $1 Trillion Pay Deal - WSJ - The Wall Street Journal",
+      "pubDate": "Tue, 04 Nov 2025 10:21:00 GMT"
     }
   ],
   "Pollution": [
