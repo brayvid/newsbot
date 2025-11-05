@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Does AI pose an existential risk? We asked 5 experts - The Conversation",
-      "pubDate": "Sun, 05 Oct 2025 19:15:48 GMT"
-    },
-    {
       "title": "OpenAI, AMD Announce Massive Computing Deal, Marking New Phase of AI Boom - The Wall Street Journal",
       "pubDate": "Mon, 06 Oct 2025 20:29:00 GMT"
     },
@@ -355,6 +351,10 @@
     {
       "title": "Russia has a new strategy for winter war in Ukraine - Al Jazeera",
       "pubDate": "Mon, 03 Nov 2025 13:03:04 GMT"
+    },
+    {
+      "title": "Russia says Ukrainian troops in Pokrovsk and Kupiansk should surrender to save themselves - Reuters",
+      "pubDate": "Wed, 05 Nov 2025 08:34:06 GMT"
     }
   ],
   "Donald Trump": [
@@ -462,10 +462,6 @@
     }
   ],
   "China": [
-    {
-      "title": "How China is challenging Nvidia's AI chip dominance - BBC",
-      "pubDate": "Sun, 05 Oct 2025 23:00:21 GMT"
-    },
     {
       "title": "World Bank raises China growth forecast to 4.8% despite U.S. trade tensions - CNBC",
       "pubDate": "Tue, 07 Oct 2025 06:05:15 GMT"
@@ -584,10 +580,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Anthropic Study: AI Complies with Dishonest Requests Despite Guardrails - WebProNews",
-      "pubDate": "Sun, 05 Oct 2025 22:40:23 GMT"
-    },
     {
       "title": "AI can now be used to design brand-new viruses. Can we stop it from making the next devastating bioweapon? - Live Science",
       "pubDate": "Mon, 06 Oct 2025 17:35:00 GMT"
@@ -845,10 +837,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Is Pakistan conducting secret nuclear tests? Two earthquakes strike Pakistan within a week, experts say the reason is... - MSN",
-      "pubDate": "Sun, 05 Oct 2025 20:53:30 GMT"
-    },
-    {
       "title": "Massive earthquakes in Philippines: What we know so far - Al Jazeera",
       "pubDate": "Fri, 10 Oct 2025 14:48:45 GMT"
     },
@@ -882,10 +870,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI valued at $500bn in employee share sale - Data Center Dynamics",
-      "pubDate": "Sun, 05 Oct 2025 18:37:37 GMT"
-    },
     {
       "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators - OpenAI",
       "pubDate": "Mon, 13 Oct 2025 13:05:17 GMT"
@@ -1179,6 +1163,10 @@
     {
       "title": "A Post investigation shows where hidden rivers in the sky are fueling deadly floods - The Washington Post",
       "pubDate": "Tue, 04 Nov 2025 17:44:17 GMT"
+    },
+    {
+      "title": "Solar geoengineering in wrong hands could wreak climate havoc, scientists warn - The Guardian",
+      "pubDate": "Wed, 05 Nov 2025 00:02:00 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1361,6 +1349,10 @@
     {
       "title": "Iran condemns Trump\u2019s call to resume US nuclear testing - Al Jazeera",
       "pubDate": "Fri, 31 Oct 2025 04:35:10 GMT"
+    },
+    {
+      "title": "IAEA says Iran must 'seriously improve' nuclear cooperation, FT reports - Reuters",
+      "pubDate": "Wed, 05 Nov 2025 05:55:29 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1539,10 +1531,6 @@
   ],
   "Elon Musk": [
     {
-      "title": "Elon Musk suffers mass exodus of employees across all 5 companies: 'The one constant \u2026 is how quickly he burns through deputies' - Yahoo Finance",
-      "pubDate": "Sun, 05 Oct 2025 23:50:00 GMT"
-    },
-    {
       "title": "The founder of the world's top LiDAR maker says there's one problem with Elon Musk's approach to self-driving - businessinsider.com",
       "pubDate": "Mon, 20 Oct 2025 00:08:00 GMT"
     },
@@ -1591,6 +1579,10 @@
     {
       "title": "Inside India\u2019s voyeur web: 80 CCTV dashboards hacked across 20 states; hospitals, schools, homes streamed - The Times of India",
       "pubDate": "Tue, 04 Nov 2025 03:58:00 GMT"
+    },
+    {
+      "title": "U.S. Targets Suspected North Korean Hackers Funding Nuclear Bombs - Newsweek",
+      "pubDate": "Wed, 05 Nov 2025 05:57:00 GMT"
     }
   ],
   "Space Exploration": [
@@ -1600,10 +1592,6 @@
     }
   ],
   "Tesla": [
-    {
-      "title": "Officials demand answers from Tesla as Elon Musk's statements don't match reality: 'Public confusion' - Yahoo Finance",
-      "pubDate": "Mon, 06 Oct 2025 01:30:00 GMT"
-    },
     {
       "title": "Tesla\u2019s European Regulator Says Door Safety a \u2018Key Priority\u2019 - Bloomberg.com",
       "pubDate": "Thu, 16 Oct 2025 13:50:39 GMT"
@@ -1659,6 +1647,10 @@
     {
       "title": "Ukraine launches major drone attack on Moscow; Russia closes airports, shoots down 28 drones - Mint",
       "pubDate": "Mon, 27 Oct 2025 00:55:48 GMT"
+    },
+    {
+      "title": "African women tricked into making Russian drones: 'My skin was peeling' - BBC",
+      "pubDate": "Wed, 05 Nov 2025 06:23:25 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1711,10 +1703,6 @@
   ],
   "Infrastructure": [
     {
-      "title": "President Zelenskyy: Russia is targeting our civilian infrastructure ahead of winter - Ukrainian World Congress",
-      "pubDate": "Sun, 05 Oct 2025 20:28:01 GMT"
-    },
-    {
       "title": "NVIDIA and Partners Build America\u2019s AI Infrastructure and Create Blueprint to Power the Next Industrial Revolution - NVIDIA Newsroom",
       "pubDate": "Tue, 28 Oct 2025 16:53:41 GMT"
     }
@@ -1731,10 +1719,6 @@
   ],
   "European Union": [
     {
-      "title": "EU watchdog prepares to expand oversight of crypto and exchanges - Financial Times",
-      "pubDate": "Mon, 06 Oct 2025 04:00:31 GMT"
-    },
-    {
       "title": "EU chief says Russia is waging a \u2018gray zone campaign\u2019 and Europe must meet the challenge - The Hill",
       "pubDate": "Wed, 08 Oct 2025 14:37:00 GMT"
     },
@@ -1748,10 +1732,6 @@
     }
   ],
   "NVIDIA": [
-    {
-      "title": "Nvidia Partner Hon Hai\u2019s Sales Rise 11% in Boost for AI Outlook - Bloomberg.com",
-      "pubDate": "Mon, 06 Oct 2025 01:53:00 GMT"
-    },
     {
       "title": "A Mystery C.E.O. and Billions in Sales: Is China Buying Banned Nvidia Chips? - The New York Times",
       "pubDate": "Thu, 09 Oct 2025 17:54:56 GMT"
@@ -1867,6 +1847,10 @@
     {
       "title": "Warning signs may point to a looming recession as shutdown continues - NewsNation",
       "pubDate": "Fri, 31 Oct 2025 12:45:09 GMT"
+    },
+    {
+      "title": "Bessent says US housing market in 'recession' due to Federal Reserve interest rate policies - Forex Factory",
+      "pubDate": "Wed, 05 Nov 2025 03:10:00 GMT"
     }
   ],
   "Social Media": [
@@ -2159,6 +2143,10 @@
     {
       "title": "Intelligence Agency fighters destroy Russian air defense system, two radars in occupied territories - Interfax-Ukraine",
       "pubDate": "Fri, 24 Oct 2025 14:52:07 GMT"
+    },
+    {
+      "title": "Defense Intelligence Agency Warns of Imminent Nuclear Test - \uc870\uc120\uc77c\ubcf4",
+      "pubDate": "Wed, 05 Nov 2025 05:15:00 GMT"
     }
   ],
   "Public Health": [
