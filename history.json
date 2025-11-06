@@ -1,18 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI, AMD Announce Massive Computing Deal, Marking New Phase of AI Boom - The Wall Street Journal",
-      "pubDate": "Mon, 06 Oct 2025 20:29:00 GMT"
-    },
-    {
-      "title": "A look at the White House\u2019s pro-innovation artificial intelligence \u2018action plan\u2019 - Reason Foundation",
-      "pubDate": "Tue, 07 Oct 2025 04:01:00 GMT"
-    },
-    {
-      "title": "JPMorgan\u2019s Dimon Says AI Cost Savings Now Matching Money Spent - Bloomberg.com",
-      "pubDate": "Tue, 07 Oct 2025 16:05:16 GMT"
-    },
-    {
       "title": "Sen. Ted Cruz proposes federal regulatory sandbox to encourage AI innovation, development - Reason Foundation",
       "pubDate": "Wed, 08 Oct 2025 04:01:00 GMT"
     },
@@ -91,10 +79,6 @@
   ],
   "US Politics": [
     {
-      "title": "Shutdown on track to extend into seventh day after funding proposals fail in Senate - CNN",
-      "pubDate": "Tue, 07 Oct 2025 03:02:00 GMT"
-    },
-    {
       "title": "Appeals Court Allows Trump to Keep Control of Illinois National Guard but Bars Deployment - Democracy Docket",
       "pubDate": "Sat, 11 Oct 2025 19:51:41 GMT"
     },
@@ -166,10 +150,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Drones Target Oil Refinery in Western Siberia\u2019s Tyumen Region in What May Be Ukraine\u2019s Farthest Strike Yet - The Moscow Times",
-      "pubDate": "Tue, 07 Oct 2025 15:13:51 GMT"
-    },
     {
       "title": "Ukraine war briefing: Analysts flag Kremlin scare campaign against use of Tomahawks - The Guardian",
       "pubDate": "Thu, 09 Oct 2025 00:55:00 GMT"
@@ -276,10 +256,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Even Russia\u2019s Baltic Fleet Isn\u2019t Safe as Ukraine Hits a Warship 1,000 Kilometers From the Frontline - UNITED24 Media",
-      "pubDate": "Mon, 06 Oct 2025 19:03:03 GMT"
-    },
     {
       "title": "Ukraine Claims It Captured Indian Man Fighting For Russia, India Yet To Verify - NDTV",
       "pubDate": "Wed, 08 Oct 2025 03:15:31 GMT"
@@ -425,6 +401,10 @@
     {
       "title": "Trump says he will restrict federal funds for New York City if Mamdani wins - Al Jazeera",
       "pubDate": "Mon, 03 Nov 2025 23:26:54 GMT"
+    },
+    {
+      "title": "Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices, offer some Medicare coverage - CNBC",
+      "pubDate": "Thu, 06 Nov 2025 17:04:07 GMT"
     }
   ],
   "Financial Markets": [
@@ -462,14 +442,6 @@
     }
   ],
   "China": [
-    {
-      "title": "World Bank raises China growth forecast to 4.8% despite U.S. trade tensions - CNBC",
-      "pubDate": "Tue, 07 Oct 2025 06:05:15 GMT"
-    },
-    {
-      "title": "China's chipmakers bought $38 billion in U.S. and allied tools, a sign policy is failing, lawmakers find - Reuters",
-      "pubDate": "Tue, 07 Oct 2025 15:30:31 GMT"
-    },
     {
       "title": "How China Threatens to Force Taiwan Into a Total Blackout - The Wall Street Journal",
       "pubDate": "Wed, 08 Oct 2025 00:30:46 GMT"
@@ -580,10 +552,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI can now be used to design brand-new viruses. Can we stop it from making the next devastating bioweapon? - Live Science",
-      "pubDate": "Mon, 06 Oct 2025 17:35:00 GMT"
-    },
     {
       "title": "China\u2019s Emerging AI Regulation Could Foster On Open And Safe Future For AI - Eurasia Review",
       "pubDate": "Thu, 09 Oct 2025 22:30:15 GMT"
@@ -705,10 +673,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "US DoD Will Cut Back on Mandatory Cybersecurity Training - tech.co",
-      "pubDate": "Mon, 06 Oct 2025 18:49:14 GMT"
-    },
-    {
       "title": "Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts - The Hacker News",
       "pubDate": "Sat, 11 Oct 2025 13:30:00 GMT"
     },
@@ -770,10 +734,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "America's economy is on a 'sugar high' warns Ken Griffin, and investors retreating to gold is one sign of a comedown - Fortune",
-      "pubDate": "Tue, 07 Oct 2025 10:30:00 GMT"
-    },
     {
       "title": "Shutdown Pain Ripples Through US Economy With No Deal in Sight - Yahoo Finance",
       "pubDate": "Fri, 10 Oct 2025 09:00:00 GMT"
@@ -911,10 +871,6 @@
   ],
   "Gaza": [
     {
-      "title": "Live updates: Gaza ceasefire talks underway as Israel marks anniversary of October 7 attack - CNN",
-      "pubDate": "Tue, 07 Oct 2025 10:25:00 GMT"
-    },
-    {
       "title": "Gaza-bound flotilla activists describe Israeli capture; Gaza's children grapple with war - CBS News",
       "pubDate": "Wed, 08 Oct 2025 15:19:00 GMT"
     },
@@ -1021,21 +977,13 @@
     {
       "title": "LIVE: Thousands in overcrowded Gaza shelters amid Israeli shelling - Al Jazeera",
       "pubDate": "Tue, 04 Nov 2025 15:55:25 GMT"
+    },
+    {
+      "title": "LIVE: Israel kills more Palestinians in Gaza, bombs southern Lebanon - Al Jazeera",
+      "pubDate": "Thu, 06 Nov 2025 15:20:35 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "The World Bank Climate Change Action Plan 2026\u20132030: Extension and enhancement - E3G",
-      "pubDate": "Mon, 06 Oct 2025 19:14:57 GMT"
-    },
-    {
-      "title": "Where U.S. homes face the most severe and extreme climate risk - Axios",
-      "pubDate": "Tue, 07 Oct 2025 09:31:28 GMT"
-    },
-    {
-      "title": "Climate Change Could Slash Global GDP By 24% By 2100 - ZME Science",
-      "pubDate": "Tue, 07 Oct 2025 14:48:53 GMT"
-    },
     {
       "title": "New Zealand oceans warming 34% faster than global average, putting homes and industry at risk, report finds - The Guardian",
       "pubDate": "Wed, 08 Oct 2025 01:00:00 GMT"
@@ -1281,10 +1229,6 @@
   ],
   "North Korea": [
     {
-      "title": "North Korea's crypto hackers have stolen over $2 billion in 2025 - Elliptic",
-      "pubDate": "Tue, 07 Oct 2025 12:04:29 GMT"
-    },
-    {
       "title": "North Korea Unveils New Weapons as \u2018Direct Threats\u2019 to US Military Bases - Newsweek",
       "pubDate": "Wed, 08 Oct 2025 12:24:00 GMT"
     },
@@ -1322,10 +1266,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "'Iran is developing a nuclear missile to hit the US,' Netanyahu warns in Ben Shapiro interview - The Jerusalem Post",
-      "pubDate": "Tue, 07 Oct 2025 10:05:39 GMT"
-    },
     {
       "title": "Iran announces official end to 10-year-old nuclear agreement - The Guardian",
       "pubDate": "Sat, 18 Oct 2025 10:25:00 GMT"
@@ -1370,10 +1310,6 @@
     }
   ],
   "United Kingdom": [
-    {
-      "title": "UK consultation begins on Rolls-Royce SMR design - World Nuclear News",
-      "pubDate": "Mon, 06 Oct 2025 21:52:24 GMT"
-    },
     {
       "title": "Court finds Russia\u2019s Wagner mercenary group behind UK arson attackers - Al Jazeera",
       "pubDate": "Sat, 25 Oct 2025 01:56:47 GMT"
@@ -1439,12 +1375,6 @@
     {
       "title": "U.S. Billion-Dollar Weather and Climate Disasters - Climate Central",
       "pubDate": "Sat, 25 Oct 2025 09:53:17 GMT"
-    }
-  ],
-  "BRICS": [
-    {
-      "title": "Joint response to global threats: BRICS countries unite in fight against epidemics - TV BRICS",
-      "pubDate": "Mon, 06 Oct 2025 16:02:39 GMT"
     }
   ],
   "Large Language Models": [
@@ -1613,10 +1543,6 @@
   ],
   "Drones": [
     {
-      "title": "Ukraine\u2019s Sea Drones Are Now Launching Unjammable Fiber-Optic Drones - Forbes",
-      "pubDate": "Mon, 06 Oct 2025 17:09:29 GMT"
-    },
-    {
       "title": "Air Defense Forces destroy 103 out of 118 Russian drones overnight - Ukrinform",
       "pubDate": "Sun, 12 Oct 2025 06:52:00 GMT"
     },
@@ -1741,33 +1667,13 @@
       "pubDate": "Fri, 31 Oct 2025 01:45:00 GMT"
     }
   ],
-  "Intelligence Agencies": [
-    {
-      "title": "Western intelligence have evidence that Russia discussing NATO attack, says EU defense commissioner - Euromaidan Press",
-      "pubDate": "Mon, 06 Oct 2025 16:51:19 GMT"
-    }
-  ],
   "Battery Electric Vehicle": [
-    {
-      "title": "Nissan Recalls Certain Leaf Electric Vehicles Over Potential Battery Fire - autoevolution",
-      "pubDate": "Mon, 06 Oct 2025 15:56:04 GMT"
-    },
     {
       "title": "Solid-State Battery Breakthrough Paves Way for Mass EV Adoption - Zoom Bangla News",
       "pubDate": "Sun, 19 Oct 2025 10:19:21 GMT"
     }
   ],
-  "International Relations": [
-    {
-      "title": "Russia may be helping China prepare for Taiwan invasion, leaked documents suggest - CNN",
-      "pubDate": "Tue, 07 Oct 2025 01:44:04 GMT"
-    }
-  ],
   "Health": [
-    {
-      "title": "Medicare open enrollment nears as seniors weigh health care costs and coverage options - CBS News",
-      "pubDate": "Tue, 07 Oct 2025 01:36:19 GMT"
-    },
     {
       "title": "Joe Biden receiving radiation therapy for prostate cancer, spokesman says - BBC",
       "pubDate": "Sat, 11 Oct 2025 21:23:28 GMT"
@@ -1787,19 +1693,11 @@
   ],
   "Physics": [
     {
-      "title": "Nobel Prize in physics goes to trio of researchers for discoveries in quantum mechanics - CNN",
-      "pubDate": "Tue, 07 Oct 2025 09:53:13 GMT"
-    },
-    {
       "title": "John Martinis and Michel Devoret win 2025 Nobel Prize in Physics - The Daily Nexus",
       "pubDate": "Thu, 16 Oct 2025 18:00:00 GMT"
     }
   ],
   "Hydrogen Fuel": [
-    {
-      "title": "H2 Carbon Zero Raises $850,000 for India's First Hydrogen Fuel-Cell Factory - Fuel Cells Works",
-      "pubDate": "Tue, 07 Oct 2025 13:51:00 GMT"
-    },
     {
       "title": "SK Energy Hydrogen Plant Explosion Claims Life - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Sat, 18 Oct 2025 03:19:08 GMT"
@@ -2185,6 +2083,10 @@
     {
       "title": "Ukraine war live: Putin tests nuclear torpedo which can cause \u2018radioactive tsunami\u2019 - The Independent",
       "pubDate": "Thu, 30 Oct 2025 10:39:22 GMT"
+    },
+    {
+      "title": "Putin orders nuclear testing preparations after Trump's surprise shift - Axios",
+      "pubDate": "Thu, 06 Nov 2025 08:20:31 GMT"
     }
   ],
   "War and Unrest": [
