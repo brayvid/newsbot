@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Sen. Ted Cruz proposes federal regulatory sandbox to encourage AI innovation, development - Reason Foundation",
-      "pubDate": "Wed, 08 Oct 2025 04:01:00 GMT"
-    },
-    {
       "title": "Bank of England warns of growing risk that AI bubble could burst - The Guardian",
       "pubDate": "Thu, 09 Oct 2025 01:30:00 GMT"
     },
@@ -257,10 +253,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukraine Claims It Captured Indian Man Fighting For Russia, India Yet To Verify - NDTV",
-      "pubDate": "Wed, 08 Oct 2025 03:15:31 GMT"
-    },
-    {
       "title": "Russia escalates warning as Trump considers sale of Tomahawks to Ukraine - The Washington Post",
       "pubDate": "Wed, 08 Oct 2025 21:33:59 GMT"
     },
@@ -331,13 +323,13 @@
     {
       "title": "Russia says Ukrainian troops in Pokrovsk and Kupiansk should surrender to save themselves - Reuters",
       "pubDate": "Wed, 05 Nov 2025 08:34:06 GMT"
+    },
+    {
+      "title": "German general says Russia could launch limited attack on NATO any time - Reuters",
+      "pubDate": "Fri, 07 Nov 2025 07:34:00 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump calls for jailing of Illinois governor and Chicago mayor in immigration standoff - BBC",
-      "pubDate": "Wed, 08 Oct 2025 14:36:35 GMT"
-    },
     {
       "title": "Trump administration officials seriously discussing invoking Insurrection Act, sources say - NBC News",
       "pubDate": "Wed, 08 Oct 2025 18:55:05 GMT"
@@ -405,6 +397,10 @@
     {
       "title": "Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices, offer some Medicare coverage - CNBC",
       "pubDate": "Thu, 06 Nov 2025 17:04:07 GMT"
+    },
+    {
+      "title": "Donald Trump Signs New Nuclear Deal with Vladimir Putin Ally - Newsweek",
+      "pubDate": "Fri, 07 Nov 2025 16:54:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -442,10 +438,6 @@
     }
   ],
   "China": [
-    {
-      "title": "How China Threatens to Force Taiwan Into a Total Blackout - The Wall Street Journal",
-      "pubDate": "Wed, 08 Oct 2025 00:30:46 GMT"
-    },
     {
       "title": "China honing abilities for a possible future attack, Taiwan defence report warns - Reuters",
       "pubDate": "Thu, 09 Oct 2025 03:42:00 GMT"
@@ -549,6 +541,10 @@
     {
       "title": "China sentences infamous Myanmar scam mafia members to death - BBC",
       "pubDate": "Tue, 04 Nov 2025 11:54:24 GMT"
+    },
+    {
+      "title": "China Suspends Some Export Controls on Critical Minerals but Retains Others - The New York Times",
+      "pubDate": "Fri, 07 Nov 2025 12:32:22 GMT"
     }
   ],
   "AI Safety": [
@@ -731,6 +727,10 @@
     {
       "title": "US prosecutors say cybersecurity pros ran cybercrime operation - Reuters",
       "pubDate": "Tue, 04 Nov 2025 00:45:00 GMT"
+    },
+    {
+      "title": "US Congressional Budget Office hit by cybersecurity incident - Reuters",
+      "pubDate": "Fri, 07 Nov 2025 15:38:39 GMT"
     }
   ],
   "US Economy": [
@@ -871,10 +871,6 @@
   ],
   "Gaza": [
     {
-      "title": "Gaza-bound flotilla activists describe Israeli capture; Gaza's children grapple with war - CBS News",
-      "pubDate": "Wed, 08 Oct 2025 15:19:00 GMT"
-    },
-    {
       "title": "Report: Hamas agreed to Gaza deal, which will be signed Thursday in Egypt - The Times of Israel",
       "pubDate": "Wed, 08 Oct 2025 22:08:00 GMT"
     },
@@ -984,14 +980,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "New Zealand oceans warming 34% faster than global average, putting homes and industry at risk, report finds - The Guardian",
-      "pubDate": "Wed, 08 Oct 2025 01:00:00 GMT"
-    },
-    {
-      "title": "Scientists seek to turbocharge a natural process that cools the Earth - The Washington Post",
-      "pubDate": "Wed, 08 Oct 2025 16:35:59 GMT"
-    },
     {
       "title": "As Trump Denies Climate Change, At Least 170 Hospitals Face Major Flood Risk - KFF Health News",
       "pubDate": "Fri, 10 Oct 2025 18:30:00 GMT"
@@ -1115,6 +1103,10 @@
     {
       "title": "Solar geoengineering in wrong hands could wreak climate havoc, scientists warn - The Guardian",
       "pubDate": "Wed, 05 Nov 2025 00:02:00 GMT"
+    },
+    {
+      "title": "U.S. skips COP30 climate conference, lobbies to sink new global deals - The Washington Post",
+      "pubDate": "Fri, 07 Nov 2025 17:00:57 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1124,10 +1116,6 @@
     }
   ],
   "FBI": [
-    {
-      "title": "Former FBI Director James Comey pleads not guilty and will argue he is unfairly targeted by Trump - CNN",
-      "pubDate": "Wed, 08 Oct 2025 08:00:51 GMT"
-    },
     {
       "title": "Nearly half of FBI agents in major offices reassigned to immigration enforcement - The Guardian",
       "pubDate": "Thu, 09 Oct 2025 21:21:00 GMT"
@@ -1183,10 +1171,6 @@
   ],
   "National Security": [
     {
-      "title": "Analysis: Shutdown strains US national security as weak links start to fail - WTOP",
-      "pubDate": "Wed, 08 Oct 2025 00:43:42 GMT"
-    },
-    {
       "title": "Trump critic and former national security adviser John Bolton to be charged soon, sources say - NBC News",
       "pubDate": "Sat, 11 Oct 2025 14:22:00 GMT"
     },
@@ -1228,10 +1212,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea Unveils New Weapons as \u2018Direct Threats\u2019 to US Military Bases - Newsweek",
-      "pubDate": "Wed, 08 Oct 2025 12:24:00 GMT"
-    },
     {
       "title": "North Korea to flaunt nuclear arsenal at military parade in challenge to West - The Washington Post",
       "pubDate": "Fri, 10 Oct 2025 02:46:54 GMT"
@@ -1293,6 +1273,10 @@
     {
       "title": "IAEA says Iran must 'seriously improve' nuclear cooperation, FT reports - Reuters",
       "pubDate": "Wed, 05 Nov 2025 05:55:29 GMT"
+    },
+    {
+      "title": "Iran plotted to assassinate Israel's ambassador to Mexico, U.S. officials say - Axios",
+      "pubDate": "Fri, 07 Nov 2025 15:04:22 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1429,10 +1413,6 @@
   ],
   "Cybersecurity and Infrastructure Security Agency": [
     {
-      "title": "The shutdown and CISA lapse expose new cracks in America\u2019s cyber defenses - Federal News Network",
-      "pubDate": "Wed, 08 Oct 2025 16:12:29 GMT"
-    },
-    {
       "title": "White House Fires 176 CISA Staff Amid Government Shutdown, Following Project 2025 Playbook - WinBuzzer",
       "pubDate": "Mon, 13 Oct 2025 14:24:40 GMT"
     },
@@ -1490,10 +1470,6 @@
     }
   ],
   "Hacking": [
-    {
-      "title": "Hackers Arrested for Allegedly Stealing 8,000 Kids' Sensitive Photos and Personal Data From Preschool Database - People.com",
-      "pubDate": "Wed, 08 Oct 2025 01:12:51 GMT"
-    },
     {
       "title": "'Catastrophic' attack as Russians hack files on EIGHT MoD bases and post them on the dark web - Daily Mail",
       "pubDate": "Sat, 18 Oct 2025 21:00:48 GMT"
@@ -1635,19 +1611,11 @@
   ],
   "Computers": [
     {
-      "title": "Introducing the Gemini 2.5 Computer Use model - The Keyword",
-      "pubDate": "Tue, 07 Oct 2025 19:51:55 GMT"
-    },
-    {
       "title": "Exclusive | Trump Administration in Talks to Take Equity Stakes in Quantum-Computing Firms - WSJ - The Wall Street Journal",
       "pubDate": "Thu, 23 Oct 2025 01:00:00 GMT"
     }
   ],
   "European Union": [
-    {
-      "title": "EU chief says Russia is waging a \u2018gray zone campaign\u2019 and Europe must meet the challenge - The Hill",
-      "pubDate": "Wed, 08 Oct 2025 14:37:00 GMT"
-    },
     {
       "title": "EU Nations Close In on Deal to Ban Russian Gas by End of 2027 - Bloomberg.com",
       "pubDate": "Mon, 20 Oct 2025 04:00:00 GMT"
@@ -1703,17 +1671,7 @@
       "pubDate": "Sat, 18 Oct 2025 03:19:08 GMT"
     }
   ],
-  "Finance": [
-    {
-      "title": "Trust funds that finance Medicare and Social Security are at risk of insolvency within 7 years, cutting benefits up to 24%, a new report warns - Fortune",
-      "pubDate": "Wed, 08 Oct 2025 16:25:37 GMT"
-    }
-  ],
   "Recession": [
-    {
-      "title": "US recession looming? Warning signs for America as Oxford Economics sounds alarm over falling tech investm - The Economic Times",
-      "pubDate": "Wed, 08 Oct 2025 12:12:10 GMT"
-    },
     {
       "title": "Roughly half of U.S. states are effectively in a recession and \u2018hanging on by their fingertips,\u2019 Moody\u2019s chief economist says - Fortune",
       "pubDate": "Thu, 09 Oct 2025 14:16:00 GMT"
