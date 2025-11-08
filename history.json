@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Amazon takes on Microsoft and Google in the workplace with new \u2018Quick Suite\u2019 business AI platform - GeekWire",
-      "pubDate": "Thu, 09 Oct 2025 17:06:35 GMT"
-    },
-    {
       "title": "China tightens checks on Nvidia AI chips at major ports, FT reports - Reuters",
       "pubDate": "Fri, 10 Oct 2025 10:28:30 GMT"
     },
@@ -121,10 +117,6 @@
   ],
   "Israel": [
     {
-      "title": "Live updates: Israel and Hamas sign first phase of Gaza ceasefire deal that would release hostages - The Washington Post",
-      "pubDate": "Thu, 09 Oct 2025 16:31:45 GMT"
-    },
-    {
       "title": "Israel bombs Lebanon: IDF airstrikes along Musaylih Road kills 1; claims to target Hezbollah engineering - Times of India",
       "pubDate": "Sat, 11 Oct 2025 04:11:00 GMT"
     },
@@ -142,14 +134,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russian Strikes Knock Out More than Half of Ukraine Gas Production Ahead of Winter - Bloomberg.com",
-      "pubDate": "Thu, 09 Oct 2025 08:18:20 GMT"
-    },
-    {
-      "title": "Ukraine's long-range drone strikes are punishing the industry fueling Russia's war - Business Insider",
-      "pubDate": "Thu, 09 Oct 2025 15:06:00 GMT"
-    },
     {
       "title": "The new AI arms race changing the war in Ukraine - BBC",
       "pubDate": "Fri, 10 Oct 2025 00:26:16 GMT"
@@ -323,10 +307,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Live Updates: N.Y. Attorney General Letitia James Indicted After Trump\u2019s Pressure Campaign - The New York Times",
-      "pubDate": "Thu, 09 Oct 2025 22:48:01 GMT"
-    },
-    {
       "title": "Trump never forgets: Bombshell indictments open a new phase in a retribution presidency - CNN",
       "pubDate": "Fri, 10 Oct 2025 04:27:37 GMT"
     },
@@ -389,6 +369,10 @@
     {
       "title": "Donald Trump Signs New Nuclear Deal with Vladimir Putin Ally - Newsweek",
       "pubDate": "Fri, 07 Nov 2025 16:54:00 GMT"
+    },
+    {
+      "title": "Trump tells Senate Republicans to send federal health insurance money 'directly to the people' - CNBC",
+      "pubDate": "Sat, 08 Nov 2025 17:23:15 GMT"
     }
   ],
   "Financial Markets": [
@@ -533,10 +517,6 @@
   ],
   "AI Safety": [
     {
-      "title": "China\u2019s Emerging AI Regulation Could Foster On Open And Safe Future For AI - Eurasia Review",
-      "pubDate": "Thu, 09 Oct 2025 22:30:15 GMT"
-    },
-    {
       "title": "ChatGPT safety systems can be bypassed for weapons instructions - NBC News",
       "pubDate": "Fri, 10 Oct 2025 10:00:41 GMT"
     },
@@ -623,13 +603,13 @@
     {
       "title": "AI reasoning models that can \u2018think\u2019 are more vulnerable to jailbreak attacks, new research suggests - Fortune",
       "pubDate": "Fri, 07 Nov 2025 22:00:00 GMT"
+    },
+    {
+      "title": "California backs down on AI laws so more tech leaders don\u2019t flee the state - Los Angeles Times",
+      "pubDate": "Sat, 08 Nov 2025 20:47:00 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "70,000 government ID photos exposed in Discord user hack - NBC News",
-      "pubDate": "Thu, 09 Oct 2025 23:08:30 GMT"
-    },
     {
       "title": "Discord notifies 70,000 users after third-party data breach exposes government ID images - The Express Tribune",
       "pubDate": "Sat, 11 Oct 2025 12:55:28 GMT"
@@ -781,6 +761,10 @@
     {
       "title": "How the government shutdown impacts the U.S. economy - NBC News",
       "pubDate": "Tue, 04 Nov 2025 01:57:02 GMT"
+    },
+    {
+      "title": "Shutdown strain: US economy reels under layoffs and lost pay; food banks, small firms struggle to cope - The Times of India",
+      "pubDate": "Sat, 08 Nov 2025 16:57:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -804,10 +788,6 @@
     }
   ],
   "Fusion Power": [
-    {
-      "title": "Europe\u2019s first full design of commercial fusion power plant unveiled by German firm - Interesting Engineering",
-      "pubDate": "Thu, 09 Oct 2025 23:45:00 GMT"
-    },
     {
       "title": "Once the butt of jokes, now a great hope: The race for fusion energy - Australian Broadcasting Corporation",
       "pubDate": "Sun, 12 Oct 2025 18:40:12 GMT"
@@ -965,6 +945,10 @@
     {
       "title": "US and Israel\u2019s controversial plan to build \u2018New Gaza\u2019 sparks alarm - Financial Times",
       "pubDate": "Sat, 08 Nov 2025 05:00:16 GMT"
+    },
+    {
+      "title": "Gaza death toll tops 69,000 as Israel and Hamas exchange more remains - PBS",
+      "pubDate": "Sat, 08 Nov 2025 17:19:53 GMT"
     }
   ],
   "Climate Change": [
@@ -1109,10 +1093,6 @@
   ],
   "FBI": [
     {
-      "title": "Nearly half of FBI agents in major offices reassigned to immigration enforcement - The Guardian",
-      "pubDate": "Thu, 09 Oct 2025 21:21:00 GMT"
-    },
-    {
       "title": "FBI thwarts potential Halloween weekend terror attack in Michigan - ABC News",
       "pubDate": "Fri, 31 Oct 2025 20:26:15 GMT"
     }
@@ -1136,10 +1116,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "Why Sam Altman thinks AGI will change work forever \u2014 and how AI agents could run billion\u2011dollar companies - Windows Central",
-      "pubDate": "Thu, 09 Oct 2025 17:12:15 GMT"
-    },
     {
       "title": "Meta Debuts Superintelligence Labs: Scaling AI Infrastructure for AGI - WebProNews",
       "pubDate": "Sun, 12 Oct 2025 23:05:29 GMT"
@@ -1235,6 +1211,10 @@
     {
       "title": "South Korea launches fifth spy satellite to monitor North Korea - nhk.or.jp",
       "pubDate": "Sun, 02 Nov 2025 13:22:10 GMT"
+    },
+    {
+      "title": "North Korea Threatens US With \u2018More Aggressive Actions\u2019 - Newsweek",
+      "pubDate": "Sat, 08 Nov 2025 18:05:00 GMT"
     }
   ],
   "Iran": [
@@ -1347,6 +1327,10 @@
     {
       "title": "U.S. Billion-Dollar Weather and Climate Disasters - Climate Central",
       "pubDate": "Sat, 25 Oct 2025 09:53:17 GMT"
+    },
+    {
+      "title": "COP30 kicks off with urgent call to deliver on climate promises and scale up finance - UN News",
+      "pubDate": "Sat, 08 Nov 2025 23:00:00 GMT"
     }
   ],
   "Large Language Models": [
@@ -1356,10 +1340,6 @@
     }
   ],
   "US Congress": [
-    {
-      "title": "Live updates: Government shutdown reaches ninth day, Congress still deadlocked on funding plan | CNN Politics - CNN",
-      "pubDate": "Thu, 09 Oct 2025 16:45:00 GMT"
-    },
     {
       "title": "Oct. 9, 2025 - Government shutdown updates - CNN",
       "pubDate": "Fri, 10 Oct 2025 03:18:00 GMT"
@@ -1619,10 +1599,6 @@
   ],
   "NVIDIA": [
     {
-      "title": "A Mystery C.E.O. and Billions in Sales: Is China Buying Banned Nvidia Chips? - The New York Times",
-      "pubDate": "Thu, 09 Oct 2025 17:54:56 GMT"
-    },
-    {
       "title": "Nvidia Is First Company to Top $5 Trillion in Market Value Amid AI Boom - The New York Times",
       "pubDate": "Fri, 31 Oct 2025 01:45:00 GMT"
     }
@@ -1664,10 +1640,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "Roughly half of U.S. states are effectively in a recession and \u2018hanging on by their fingertips,\u2019 Moody\u2019s chief economist says - Fortune",
-      "pubDate": "Thu, 09 Oct 2025 14:16:00 GMT"
-    },
     {
       "title": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing? - MarketWatch",
       "pubDate": "Sat, 11 Oct 2025 13:00:00 GMT"
@@ -1715,12 +1687,6 @@
       "pubDate": "Fri, 07 Nov 2025 19:21:00 GMT"
     }
   ],
-  "Self-Driving Cars": [
-    {
-      "title": "US probes driver assistance software in 2.9 million Tesla vehicles over traffic violations - Reuters",
-      "pubDate": "Thu, 09 Oct 2025 15:46:01 GMT"
-    }
-  ],
   "World Economy": [
     {
       "title": "Bailey warns of long-lasting growth drag from Brexit - Financial Times",
@@ -1728,10 +1694,6 @@
     }
   ],
   "Internet": [
-    {
-      "title": "Russia Is Shutting Down Its Own Internet To Stop Ukrainian Drones - Forbes",
-      "pubDate": "Thu, 09 Oct 2025 16:56:07 GMT"
-    },
     {
       "title": "Brendan Carr wants to let internet providers charge hidden fees again - The Verge",
       "pubDate": "Fri, 10 Oct 2025 13:14:43 GMT"
@@ -1749,18 +1711,8 @@
   ],
   "Astronomy": [
     {
-      "title": "Scientists capture an image of two black holes circling each other for the first time - EurekAlert!",
-      "pubDate": "Thu, 09 Oct 2025 19:13:53 GMT"
-    },
-    {
       "title": "Astronomy milestone: Scientists capture first image of two black holes orbiting each other - MARCA",
       "pubDate": "Fri, 31 Oct 2025 12:17:08 GMT"
-    }
-  ],
-  "Taxes": [
-    {
-      "title": "Well, That Was Fast: Trump Tax Law\u2019s New Corporate Breaks are Already Worsening the Deficit - itep.org",
-      "pubDate": "Thu, 09 Oct 2025 19:53:06 GMT"
     }
   ],
   "Health Care": [
