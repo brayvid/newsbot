@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Bank of England warns of growing risk that AI bubble could burst - The Guardian",
-      "pubDate": "Thu, 09 Oct 2025 01:30:00 GMT"
-    },
-    {
       "title": "Amazon takes on Microsoft and Google in the workplace with new \u2018Quick Suite\u2019 business AI platform - GeekWire",
       "pubDate": "Thu, 09 Oct 2025 17:06:35 GMT"
     },
@@ -147,10 +143,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war briefing: Analysts flag Kremlin scare campaign against use of Tomahawks - The Guardian",
-      "pubDate": "Thu, 09 Oct 2025 00:55:00 GMT"
-    },
-    {
       "title": "Russian Strikes Knock Out More than Half of Ukraine Gas Production Ahead of Winter - Bloomberg.com",
       "pubDate": "Thu, 09 Oct 2025 08:18:20 GMT"
     },
@@ -249,13 +241,13 @@
     {
       "title": "Its Forces Worn Down, Ukraine Moves to Revamp Military Service - The New York Times",
       "pubDate": "Tue, 04 Nov 2025 13:26:37 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Trump laughs as Orban tells him win for Kyiv would be \u2018miracle\u2019 - The Independent",
+      "pubDate": "Sat, 08 Nov 2025 05:15:55 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Russia escalates warning as Trump considers sale of Tomahawks to Ukraine - The Washington Post",
-      "pubDate": "Wed, 08 Oct 2025 21:33:59 GMT"
-    },
     {
       "title": "Russian aerial attack hits a Ukrainian hospital, days before Zelenskyy meets Trump - The Independent",
       "pubDate": "Tue, 14 Oct 2025 10:29:00 GMT"
@@ -330,10 +322,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump administration officials seriously discussing invoking Insurrection Act, sources say - NBC News",
-      "pubDate": "Wed, 08 Oct 2025 18:55:05 GMT"
-    },
     {
       "title": "Live Updates: N.Y. Attorney General Letitia James Indicted After Trump\u2019s Pressure Campaign - The New York Times",
       "pubDate": "Thu, 09 Oct 2025 22:48:01 GMT"
@@ -438,10 +426,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China honing abilities for a possible future attack, Taiwan defence report warns - Reuters",
-      "pubDate": "Thu, 09 Oct 2025 03:42:00 GMT"
-    },
     {
       "title": "China tightens export controls on rare-earth metals: Why this matters - Al Jazeera",
       "pubDate": "Fri, 10 Oct 2025 11:48:45 GMT"
@@ -635,6 +619,10 @@
     {
       "title": "Experts find flaws in hundreds of tests that check AI safety and effectiveness - The Guardian",
       "pubDate": "Tue, 04 Nov 2025 09:56:00 GMT"
+    },
+    {
+      "title": "AI reasoning models that can \u2018think\u2019 are more vulnerable to jailbreak attacks, new research suggests - Fortune",
+      "pubDate": "Fri, 07 Nov 2025 22:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -871,10 +859,6 @@
   ],
   "Gaza": [
     {
-      "title": "Report: Hamas agreed to Gaza deal, which will be signed Thursday in Egypt - The Times of Israel",
-      "pubDate": "Wed, 08 Oct 2025 22:08:00 GMT"
-    },
-    {
       "title": "Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza - CNN",
       "pubDate": "Fri, 10 Oct 2025 15:51:00 GMT"
     },
@@ -977,6 +961,10 @@
     {
       "title": "LIVE: Israel kills more Palestinians in Gaza, bombs southern Lebanon - Al Jazeera",
       "pubDate": "Thu, 06 Nov 2025 15:20:35 GMT"
+    },
+    {
+      "title": "US and Israel\u2019s controversial plan to build \u2018New Gaza\u2019 sparks alarm - Financial Times",
+      "pubDate": "Sat, 08 Nov 2025 05:00:16 GMT"
     }
   ],
   "Climate Change": [
@@ -1107,6 +1095,10 @@
     {
       "title": "U.S. skips COP30 climate conference, lobbies to sink new global deals - The Washington Post",
       "pubDate": "Fri, 07 Nov 2025 17:00:57 GMT"
+    },
+    {
+      "title": "Leaders at the Global Climate Summit Highlight the Rising Toll of Warming - The New York Times",
+      "pubDate": "Fri, 07 Nov 2025 18:38:18 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1341,10 +1333,6 @@
   ],
   "Climate": [
     {
-      "title": "National security threatened by climate crisis, UK intelligence chiefs due to warn - The Guardian",
-      "pubDate": "Wed, 08 Oct 2025 21:08:00 GMT"
-    },
-    {
       "title": "Trump sinks global shipping climate tax - politico.eu",
       "pubDate": "Fri, 17 Oct 2025 17:27:00 GMT"
     },
@@ -1553,6 +1541,10 @@
     {
       "title": "African women tricked into making Russian drones: 'My skin was peeling' - BBC",
       "pubDate": "Wed, 05 Nov 2025 06:23:25 GMT"
+    },
+    {
+      "title": "Army wants to buy one million drones over next two to three years - Breaking Defense",
+      "pubDate": "Fri, 07 Nov 2025 19:20:59 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1711,22 +1703,16 @@
   ],
   "Social Media": [
     {
-      "title": "Denmark proposes banning social media for kids under 15 - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Wed, 08 Oct 2025 22:04:38 GMT"
-    },
-    {
       "title": "Kids who use social media score lower on reading and memory tests, a study shows - NPR",
       "pubDate": "Mon, 13 Oct 2025 15:01:00 GMT"
     },
     {
       "title": "New Zealand parliament to debate teen social media ban - Reuters",
       "pubDate": "Thu, 23 Oct 2025 03:43:00 GMT"
-    }
-  ],
-  "Volcanoes": [
+    },
     {
-      "title": "Thousands are in danger near Naples as volcano Campi Flegrei wakens - NPR",
-      "pubDate": "Wed, 08 Oct 2025 21:40:38 GMT"
+      "title": "Denmark\u2019s government aims to ban access to social media for children under 15 - AP News",
+      "pubDate": "Fri, 07 Nov 2025 19:21:00 GMT"
     }
   ],
   "Self-Driving Cars": [
@@ -1736,10 +1722,6 @@
     }
   ],
   "World Economy": [
-    {
-      "title": "CEOs double down on AI as confidence in global economy slips, report - Euronews.com",
-      "pubDate": "Thu, 09 Oct 2025 05:00:19 GMT"
-    },
     {
       "title": "Bailey warns of long-lasting growth drag from Brexit - Financial Times",
       "pubDate": "Sat, 18 Oct 2025 14:36:11 GMT"
@@ -2067,6 +2049,12 @@
     {
       "title": "Microsoft CEO Doesn\u2019t Want to Buy NVIDIA\u2019s AI GPUs \u201cBeyond One Generation,\u201d Hints at a Compute Glut Driven by Energy Constraints - Wccftech",
       "pubDate": "Sat, 01 Nov 2025 16:06:00 GMT"
+    }
+  ],
+  "Democracy": [
+    {
+      "title": "Biden says Trump has \u2018taken a wrecking ball\u2019 to democracy in sharp criticism - CNN",
+      "pubDate": "Sat, 08 Nov 2025 05:28:13 GMT"
     }
   ]
 }
