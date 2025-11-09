@@ -127,6 +127,10 @@
     {
       "title": "Netanyahu orders \"powerful\" strikes in Gaza as ceasefire breaks down - Axios",
       "pubDate": "Tue, 28 Oct 2025 16:21:18 GMT"
+    },
+    {
+      "title": "Updates: Israel\u2019s Gaza attacks continue; Hamas hands over Goldin\u2019s remains - Al Jazeera",
+      "pubDate": "Sun, 09 Nov 2025 16:01:41 GMT"
     }
   ],
   "Ukraine": [
@@ -365,10 +369,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "Stock Market Today: Dow Drops 800 Points After Trump Threatens 'Massive' China Tariffs \u2014 Live Updates - The Wall Street Journal",
-      "pubDate": "Fri, 10 Oct 2025 21:40:00 GMT"
-    },
-    {
       "title": "Global financial system vulnerable to shocks amid recent stock market surge, Bank of England chief warns \u2013 as it happened - The Guardian",
       "pubDate": "Mon, 13 Oct 2025 06:35:00 GMT"
     },
@@ -398,10 +398,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Trump puts extra 100% tariff on China imports, adds export controls on 'critical software' - CNBC",
-      "pubDate": "Fri, 10 Oct 2025 20:57:18 GMT"
-    },
     {
       "title": "What are rare earth minerals, and why are they central to Trump\u2019s threats against China? - CNN",
       "pubDate": "Sat, 11 Oct 2025 11:00:52 GMT"
@@ -497,13 +493,13 @@
     {
       "title": "China Suspends Some Export Controls on Critical Minerals but Retains Others - The New York Times",
       "pubDate": "Fri, 07 Nov 2025 12:32:22 GMT"
+    },
+    {
+      "title": "China\u2019s Deflationary Spiral Hurts Economy Harder Than Official Numbers Suggest - Bloomberg.com",
+      "pubDate": "Sun, 09 Nov 2025 22:00:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "A 3-person policy non-profit that worked on California's AI safety law is publicly accusing OpenAI of intimidation tactics - Fortune",
-      "pubDate": "Fri, 10 Oct 2025 21:25:00 GMT"
-    },
     {
       "title": "Anthropic study reveals malicious data can easily sabotage AI models - Tech Edition",
       "pubDate": "Sun, 12 Oct 2025 10:38:21 GMT"
@@ -591,6 +587,10 @@
     {
       "title": "OpenAI warns of \u2018potentially catastrophic\u2019 risks from superintelligent AI, outlines global safety measures - The Indian Express",
       "pubDate": "Sun, 09 Nov 2025 09:34:00 GMT"
+    },
+    {
+      "title": "Carnegie Mellon prof. Zico Kolter leads an OpenAI safety panel that can halt unsafe AI releases - 90.5 WESA",
+      "pubDate": "Sun, 09 Nov 2025 18:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -749,14 +749,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Massive earthquakes in Philippines: What we know so far - Al Jazeera",
-      "pubDate": "Fri, 10 Oct 2025 14:48:45 GMT"
-    },
-    {
-      "title": "Massive 7.8 Magnitude Earthquake Strikes Drake Passage Today: What We Know - Newsweek",
-      "pubDate": "Fri, 10 Oct 2025 21:03:00 GMT"
-    },
-    {
       "title": "Japan Issues Tsunami Advisory After Strong Earthquake Off Its Coast - The New York Times",
       "pubDate": "Sun, 09 Nov 2025 09:08:53 GMT"
     }
@@ -822,10 +814,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Live updates: Israel says ceasefire in effect as troops withdraw from parts of Gaza - CNN",
-      "pubDate": "Fri, 10 Oct 2025 15:51:00 GMT"
-    },
     {
       "title": "Gaza ceasefire live: Trump to meet with Israeli hostages after their release by Hamas on Monday, says Vance - The Guardian",
       "pubDate": "Sun, 12 Oct 2025 07:44:00 GMT"
@@ -936,10 +924,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "As Trump Denies Climate Change, At Least 170 Hospitals Face Major Flood Risk - KFF Health News",
-      "pubDate": "Fri, 10 Oct 2025 18:30:00 GMT"
-    },
     {
       "title": "Researchers find methane leaking out of cracks in Antarctic seabed - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Sat, 11 Oct 2025 10:07:11 GMT"
@@ -1083,10 +1067,6 @@
   ],
   "Technology": [
     {
-      "title": "AI Arms Race Accelerates as U.S. Reclaims Strategic Edge in Defense Technology - Yahoo Finance",
-      "pubDate": "Fri, 10 Oct 2025 16:09:00 GMT"
-    },
-    {
       "title": "Nvidia, AMD Stocks Tumble as U.S. Senate Targets AI Chip Exports to China - Yahoo",
       "pubDate": "Sat, 11 Oct 2025 19:48:47 GMT"
     },
@@ -1229,6 +1209,10 @@
     {
       "title": "Iran plotted to assassinate Israel's ambassador to Mexico, U.S. officials say - Axios",
       "pubDate": "Fri, 07 Nov 2025 15:04:22 GMT"
+    },
+    {
+      "title": "Another Israel-Iran war increasingly seen as just a matter of time \u2014 New York Times - The Times of Israel",
+      "pubDate": "Sun, 09 Nov 2025 13:34:55 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1311,6 +1295,10 @@
     {
       "title": "COP30 kicks off with urgent call to deliver on climate promises and scale up finance - UN News",
       "pubDate": "Sat, 08 Nov 2025 23:00:00 GMT"
+    },
+    {
+      "title": "Climate disasters displaced 250 million people in past 10 years, UN report finds - The Guardian",
+      "pubDate": "Sun, 09 Nov 2025 23:02:00 GMT"
     }
   ],
   "Large Language Models": [
@@ -1320,10 +1308,6 @@
     }
   ],
   "US Congress": [
-    {
-      "title": "Live updates: Government shutdown reaches tenth day, Congress still deadlocked on funding plan | CNN Politics - CNN",
-      "pubDate": "Fri, 10 Oct 2025 15:40:00 GMT"
-    },
     {
       "title": "Government shutdown poised to enter a third week as Congress remains at stalemate - CBS News",
       "pubDate": "Tue, 14 Oct 2025 00:11:00 GMT"
@@ -1523,10 +1507,6 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "Trump pledged to make D.C. \u2018safe and beautiful.\u2019 His administration cut $40M in homeland security funds. - The Washington Post",
-      "pubDate": "Fri, 10 Oct 2025 18:17:06 GMT"
-    },
-    {
       "title": "Cartels issuing bounties up to $50,000 for hits on ICE, CBP agents: DHS - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 14 Oct 2025 19:42:58 GMT"
     },
@@ -1647,6 +1627,10 @@
     {
       "title": "Bessent says US housing market in 'recession' due to Federal Reserve interest rate policies - Forex Factory",
       "pubDate": "Wed, 05 Nov 2025 03:10:00 GMT"
+    },
+    {
+      "title": "Bessent says shut down impact getting worse for economy, Hasset says recession possible - investingLive",
+      "pubDate": "Sun, 09 Nov 2025 21:41:25 GMT"
     }
   ],
   "Social Media": [
@@ -1669,12 +1653,6 @@
       "pubDate": "Sat, 18 Oct 2025 14:36:11 GMT"
     }
   ],
-  "Internet": [
-    {
-      "title": "Brendan Carr wants to let internet providers charge hidden fees again - The Verge",
-      "pubDate": "Fri, 10 Oct 2025 13:14:43 GMT"
-    }
-  ],
   "Global Health": [
     {
       "title": "Bird Flu Roars Back: What It Means for Thanksgiving - Think Global Health",
@@ -1687,27 +1665,13 @@
       "pubDate": "Fri, 31 Oct 2025 12:17:08 GMT"
     }
   ],
-  "Health Care": [
-    {
-      "title": "Without Obamacare subsidies, this couple's insurance premiums are set to go up almost $2,000 - NBC News",
-      "pubDate": "Fri, 10 Oct 2025 16:55:53 GMT"
-    }
-  ],
   "Military and Defense": [
-    {
-      "title": "Qatar Air Force facility to be built at USAF base in Idaho, Defense Secretary Hegseth says - CNBC",
-      "pubDate": "Fri, 10 Oct 2025 19:39:40 GMT"
-    },
     {
       "title": "Arab states expanded cooperation with Israeli military during Gaza war, files show - The Washington Post",
       "pubDate": "Sat, 11 Oct 2025 21:04:47 GMT"
     }
   ],
   "Geopolitics": [
-    {
-      "title": "China Intensifies AI Chip Crackdown: A New Era of Tech Self-Reliance and Geopolitical Division - FinancialContent",
-      "pubDate": "Fri, 10 Oct 2025 19:55:00 GMT"
-    },
     {
       "title": "Potentially \u2018Catastrophic\u2019 Breach of Cyber Firm Blamed on China - Bloomberg.com",
       "pubDate": "Thu, 16 Oct 2025 02:00:00 GMT"
@@ -1955,6 +1919,10 @@
     {
       "title": "Putin orders nuclear testing preparations after Trump's surprise shift - Axios",
       "pubDate": "Thu, 06 Nov 2025 08:20:31 GMT"
+    },
+    {
+      "title": "Vladimir Putin did not order nuclear test, Russia reiterates - The Times of India",
+      "pubDate": "Sun, 09 Nov 2025 16:02:00 GMT"
     }
   ],
   "War and Unrest": [
