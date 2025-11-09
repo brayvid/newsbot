@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "China tightens checks on Nvidia AI chips at major ports, FT reports - Reuters",
-      "pubDate": "Fri, 10 Oct 2025 10:28:30 GMT"
-    },
-    {
       "title": "Fake videos of dead celebrities are going viral. Many of their families are horrified. - The Washington Post",
       "pubDate": "Sat, 11 Oct 2025 16:01:52 GMT"
     },
@@ -134,14 +130,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "The new AI arms race changing the war in Ukraine - BBC",
-      "pubDate": "Fri, 10 Oct 2025 00:26:16 GMT"
-    },
-    {
-      "title": "Russian strikes cut power in Ukraine's capital, Kyiv - BBC",
-      "pubDate": "Fri, 10 Oct 2025 06:56:44 GMT"
-    },
     {
       "title": "Putin's 37-minute shocker for west: Nuclear message, new weapon announcement| Ukraine| USA| NATO | Hindustan Times - Hindustan Times",
       "pubDate": "Sat, 11 Oct 2025 04:04:12 GMT"
@@ -307,10 +295,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump never forgets: Bombshell indictments open a new phase in a retribution presidency - CNN",
-      "pubDate": "Fri, 10 Oct 2025 04:27:37 GMT"
-    },
-    {
       "title": "Trump administration issues layoff notices to more than 4,000 workers during government shutdown - BBC",
       "pubDate": "Sat, 11 Oct 2025 15:58:17 GMT"
     },
@@ -373,6 +357,10 @@
     {
       "title": "Trump tells Senate Republicans to send federal health insurance money 'directly to the people' - CNBC",
       "pubDate": "Sat, 08 Nov 2025 17:23:15 GMT"
+    },
+    {
+      "title": "Trump's sweeping student-loan repayment changes are a big step closer to reaching borrowers - Business Insider",
+      "pubDate": "Sun, 09 Nov 2025 09:42:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -410,10 +398,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China tightens export controls on rare-earth metals: Why this matters - Al Jazeera",
-      "pubDate": "Fri, 10 Oct 2025 11:48:45 GMT"
-    },
     {
       "title": "Trump puts extra 100% tariff on China imports, adds export controls on 'critical software' - CNBC",
       "pubDate": "Fri, 10 Oct 2025 20:57:18 GMT"
@@ -517,10 +501,6 @@
   ],
   "AI Safety": [
     {
-      "title": "ChatGPT safety systems can be bypassed for weapons instructions - NBC News",
-      "pubDate": "Fri, 10 Oct 2025 10:00:41 GMT"
-    },
-    {
       "title": "A 3-person policy non-profit that worked on California's AI safety law is publicly accusing OpenAI of intimidation tactics - Fortune",
       "pubDate": "Fri, 10 Oct 2025 21:25:00 GMT"
     },
@@ -607,6 +587,10 @@
     {
       "title": "California backs down on AI laws so more tech leaders don\u2019t flee the state - Los Angeles Times",
       "pubDate": "Sat, 08 Nov 2025 20:47:00 GMT"
+    },
+    {
+      "title": "OpenAI warns of \u2018potentially catastrophic\u2019 risks from superintelligent AI, outlines global safety measures - The Indian Express",
+      "pubDate": "Sun, 09 Nov 2025 09:34:00 GMT"
     }
   ],
   "Data Breach": [
@@ -703,10 +687,6 @@
   ],
   "US Economy": [
     {
-      "title": "Shutdown Pain Ripples Through US Economy With No Deal in Sight - Yahoo Finance",
-      "pubDate": "Fri, 10 Oct 2025 09:00:00 GMT"
-    },
-    {
       "title": "US economy may be living on borrowed time, not weathering tariffs - The Times",
       "pubDate": "Sun, 12 Oct 2025 15:07:01 GMT"
     },
@@ -775,6 +755,10 @@
     {
       "title": "Massive 7.8 Magnitude Earthquake Strikes Drake Passage Today: What We Know - Newsweek",
       "pubDate": "Fri, 10 Oct 2025 21:03:00 GMT"
+    },
+    {
+      "title": "Japan Issues Tsunami Advisory After Strong Earthquake Off Its Coast - The New York Times",
+      "pubDate": "Sun, 09 Nov 2025 09:08:53 GMT"
     }
   ],
   "Bitcoin": [
@@ -1181,10 +1165,6 @@
   ],
   "North Korea": [
     {
-      "title": "North Korea to flaunt nuclear arsenal at military parade in challenge to West - The Washington Post",
-      "pubDate": "Fri, 10 Oct 2025 02:46:54 GMT"
-    },
-    {
       "title": "North Korea shows off long-range missiles it claims can hit US mainland - CNN",
       "pubDate": "Sat, 11 Oct 2025 11:29:36 GMT"
     },
@@ -1340,10 +1320,6 @@
     }
   ],
   "US Congress": [
-    {
-      "title": "Oct. 9, 2025 - Government shutdown updates - CNN",
-      "pubDate": "Fri, 10 Oct 2025 03:18:00 GMT"
-    },
     {
       "title": "Live updates: Government shutdown reaches tenth day, Congress still deadlocked on funding plan | CNN Politics - CNN",
       "pubDate": "Fri, 10 Oct 2025 15:40:00 GMT"
@@ -1547,16 +1523,16 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "$5,000 Bounties Placed on ICE Agents To Be Killed, DHS Warns - Newsweek",
-      "pubDate": "Fri, 10 Oct 2025 10:29:00 GMT"
-    },
-    {
       "title": "Trump pledged to make D.C. \u2018safe and beautiful.\u2019 His administration cut $40M in homeland security funds. - The Washington Post",
       "pubDate": "Fri, 10 Oct 2025 18:17:06 GMT"
     },
     {
       "title": "Cartels issuing bounties up to $50,000 for hits on ICE, CBP agents: DHS - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 14 Oct 2025 19:42:58 GMT"
+    },
+    {
+      "title": "Shots fired at federal immigration agents in Chicago, says Department of Homeland Security - NBC News",
+      "pubDate": "Sun, 09 Nov 2025 00:23:53 GMT"
     }
   ],
   "NASA": [
@@ -1700,10 +1676,6 @@
     }
   ],
   "Global Health": [
-    {
-      "title": "As World Health Summit gathers in Berlin, Gavi and IRC\u2019s REACH Consortium Deliver 20 Million Vaccine Doses in Crisis Settings, Reduces Delivery Cost per Dose to US$2 - International Rescue Committee",
-      "pubDate": "Fri, 10 Oct 2025 04:38:32 GMT"
-    },
     {
       "title": "Bird Flu Roars Back: What It Means for Thanksgiving - Think Global Health",
       "pubDate": "Fri, 24 Oct 2025 11:57:05 GMT"
@@ -1913,6 +1885,10 @@
     {
       "title": "Government shutdown live updates as Senate fails to advance GOP bill to pay essential federal workers - CBS News",
       "pubDate": "Thu, 23 Oct 2025 20:44:00 GMT"
+    },
+    {
+      "title": "Senate holds rare Saturday session aimed at ending government shutdown, will reconvene Sunday - CBS News",
+      "pubDate": "Sun, 09 Nov 2025 05:07:14 GMT"
     }
   ],
   "Central Intelligence Agency": [
