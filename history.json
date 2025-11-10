@@ -109,13 +109,13 @@
     {
       "title": "Upcoming elections pose early test of Trump\u2019s presidency as government shutdown drags on - CNN",
       "pubDate": "Sun, 02 Nov 2025 22:38:00 GMT"
+    },
+    {
+      "title": "Trump Administration Live Updates: Senate Moves to Vote as Democratic Defectors Relent on Shutdown - The New York Times",
+      "pubDate": "Mon, 10 Nov 2025 04:11:00 GMT"
     }
   ],
   "Israel": [
-    {
-      "title": "Israel bombs Lebanon: IDF airstrikes along Musaylih Road kills 1; claims to target Hezbollah engineering - Times of India",
-      "pubDate": "Sat, 11 Oct 2025 04:11:00 GMT"
-    },
     {
       "title": "LIVE: Israel-Hamas ceasefire holds, Palestinians return to north Gaza ruins - Al Jazeera",
       "pubDate": "Sat, 11 Oct 2025 11:47:40 GMT"
@@ -131,13 +131,13 @@
     {
       "title": "Updates: Israel\u2019s Gaza attacks continue; Hamas hands over Goldin\u2019s remains - Al Jazeera",
       "pubDate": "Sun, 09 Nov 2025 16:01:41 GMT"
+    },
+    {
+      "title": "Jared Kushner arrives in Israel for Gaza talks with Netanyahu, source says - Reuters",
+      "pubDate": "Sun, 09 Nov 2025 17:58:17 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Putin's 37-minute shocker for west: Nuclear message, new weapon announcement| Ukraine| USA| NATO | Hindustan Times - Hindustan Times",
-      "pubDate": "Sat, 11 Oct 2025 04:04:12 GMT"
-    },
     {
       "title": "Ukraine-Russia war latest: Zelensky hails \u2018positive\u2019 talks with Trump after Moscow\u2019s attack on energy system - The Independent",
       "pubDate": "Sat, 11 Oct 2025 21:43:21 GMT"
@@ -221,6 +221,10 @@
     {
       "title": "Ukraine war latest: Trump laughs as Orban tells him win for Kyiv would be \u2018miracle\u2019 - The Independent",
       "pubDate": "Sat, 08 Nov 2025 05:15:55 GMT"
+    },
+    {
+      "title": "Three years after liberation, Ukraine's Kherson faces another kind of siege - The Independent",
+      "pubDate": "Mon, 10 Nov 2025 05:24:00 GMT"
     }
   ],
   "Russia": [
@@ -617,6 +621,10 @@
     {
       "title": "At least 49 relatives and colleagues of Afghans in data leak have been killed, study suggests - The Guardian",
       "pubDate": "Mon, 27 Oct 2025 16:13:00 GMT"
+    },
+    {
+      "title": "Data breach at Chinese infosec firm reveals cyber-weapons and target list - theregister.com",
+      "pubDate": "Sun, 09 Nov 2025 23:51:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -1099,6 +1107,10 @@
     {
       "title": "Microsoft and OpenAI revise deal terms, require external panel to evaluate AGI claims - The Indian Express",
       "pubDate": "Tue, 28 Oct 2025 14:58:39 GMT"
+    },
+    {
+      "title": "'We're At This Intermediate Stage': Ex-Tesla AI Chief Andrej Karpathy Says AGI Is Still A Decade Away - Yahoo Finance",
+      "pubDate": "Sun, 09 Nov 2025 19:32:06 GMT"
     }
   ],
   "National Security": [
@@ -1437,10 +1449,6 @@
   ],
   "Kim Jong Un": [
     {
-      "title": "As its ruling party turns 80, an emboldened Kim Jong Un shows off North Korea\u2019s new hypersonic weapon, ICBM - CNN",
-      "pubDate": "Sat, 11 Oct 2025 01:26:00 GMT"
-    },
-    {
       "title": "South Korea builds civilian nuclear bunker as fears of North harden - The Times",
       "pubDate": "Tue, 14 Oct 2025 13:45:36 GMT"
     }
@@ -1631,6 +1639,10 @@
     {
       "title": "Bessent says shut down impact getting worse for economy, Hasset says recession possible - investingLive",
       "pubDate": "Sun, 09 Nov 2025 21:41:25 GMT"
+    },
+    {
+      "title": "Shocking jobs data resets recession bets - Yahoo Finance",
+      "pubDate": "Sun, 09 Nov 2025 18:47:00 GMT"
     }
   ],
   "Social Media": [
@@ -1683,12 +1695,6 @@
     {
       "title": "Russia\u2019s Burevestnik: A Geopolitical Game-Changer? \u2013 Analysis - Eurasia Review",
       "pubDate": "Wed, 29 Oct 2025 00:40:19 GMT"
-    }
-  ],
-  "US Treasury": [
-    {
-      "title": "These are the agencies Trump is purging during the shutdown - Axios",
-      "pubDate": "Sat, 11 Oct 2025 03:42:26 GMT"
     }
   ],
   "Terrorism": [
@@ -1951,6 +1957,12 @@
     {
       "title": "Biden says Trump has \u2018taken a wrecking ball\u2019 to democracy in sharp criticism - CNN",
       "pubDate": "Sat, 08 Nov 2025 05:28:13 GMT"
+    }
+  ],
+  "Effects of Global Warming": [
+    {
+      "title": "Survey finds 40% of women without children hesitant to have kids due to climate crisis - Women's Agenda",
+      "pubDate": "Mon, 10 Nov 2025 00:03:24 GMT"
     }
   ]
 }
