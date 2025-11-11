@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Fake videos of dead celebrities are going viral. Many of their families are horrified. - The Washington Post",
-      "pubDate": "Sat, 11 Oct 2025 16:01:52 GMT"
-    },
-    {
-      "title": "Elon Musk Accuses Sam Altman's OpenAI of Misusing Its Nonprofit Status - Benzinga",
-      "pubDate": "Sat, 11 Oct 2025 19:27:22 GMT"
-    },
-    {
       "title": "Analysis | China now leads the U.S. in this key part of the AI race - The Washington Post",
       "pubDate": "Mon, 13 Oct 2025 17:05:00 GMT"
     },
@@ -59,13 +51,13 @@
     {
       "title": "Getty Images largely loses landmark UK lawsuit over AI image generator - Reuters",
       "pubDate": "Tue, 04 Nov 2025 10:51:59 GMT"
+    },
+    {
+      "title": "Lafourche middle school student arrested, accused of sharing AI nude image of classmate - WDSU",
+      "pubDate": "Tue, 11 Nov 2025 01:20:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Appeals Court Allows Trump to Keep Control of Illinois National Guard but Bars Deployment - Democracy Docket",
-      "pubDate": "Sat, 11 Oct 2025 19:51:41 GMT"
-    },
     {
       "title": "Partisan shutdown standoff ignores key risk to US stability: rising national debt - Reuters",
       "pubDate": "Sun, 12 Oct 2025 11:17:28 GMT"
@@ -117,10 +109,6 @@
   ],
   "Israel": [
     {
-      "title": "LIVE: Israel-Hamas ceasefire holds, Palestinians return to north Gaza ruins - Al Jazeera",
-      "pubDate": "Sat, 11 Oct 2025 11:47:40 GMT"
-    },
-    {
       "title": "Footage shows Egyptian teams entering Gaza to assist in locating bodies of hostages - The Times of Israel",
       "pubDate": "Sat, 25 Oct 2025 21:07:28 GMT"
     },
@@ -138,10 +126,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine-Russia war latest: Zelensky hails \u2018positive\u2019 talks with Trump after Moscow\u2019s attack on energy system - The Independent",
-      "pubDate": "Sat, 11 Oct 2025 21:43:21 GMT"
-    },
     {
       "title": "Ukraine war latest: Russia launched over 3,100 drones and almost 1,360 guided aerial bombs in a week; Ukraine liberated village in Zaporizhzhia Oblast - The Kyiv Independent",
       "pubDate": "Sun, 12 Oct 2025 17:00:26 GMT"
@@ -303,10 +287,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump administration issues layoff notices to more than 4,000 workers during government shutdown - BBC",
-      "pubDate": "Sat, 11 Oct 2025 15:58:17 GMT"
-    },
-    {
       "title": "Trump says Ukraine may get Tomahawk missiles to use against Russia - bbc.com",
       "pubDate": "Mon, 13 Oct 2025 10:01:42 GMT"
     },
@@ -403,14 +383,6 @@
   ],
   "China": [
     {
-      "title": "What are rare earth minerals, and why are they central to Trump\u2019s threats against China? - CNN",
-      "pubDate": "Sat, 11 Oct 2025 11:00:52 GMT"
-    },
-    {
-      "title": "Philippines accuses China of ramming vessel near disputed island as tensions soar - Reuters",
-      "pubDate": "Sun, 12 Oct 2025 04:22:00 GMT"
-    },
-    {
       "title": "The US and China are about to launch the next front in their trade war - Politico",
       "pubDate": "Mon, 13 Oct 2025 11:00:00 GMT"
     },
@@ -501,6 +473,10 @@
     {
       "title": "China\u2019s Deflationary Spiral Hurts Economy Harder Than Official Numbers Suggest - Bloomberg.com",
       "pubDate": "Sun, 09 Nov 2025 22:00:00 GMT"
+    },
+    {
+      "title": "China devises plan to keep US military from getting its rare-earth magnets, WSJ reports - Reuters",
+      "pubDate": "Tue, 11 Nov 2025 04:18:00 GMT"
     }
   ],
   "AI Safety": [
@@ -599,14 +575,6 @@
   ],
   "Data Breach": [
     {
-      "title": "Discord notifies 70,000 users after third-party data breach exposes government ID images - The Express Tribune",
-      "pubDate": "Sat, 11 Oct 2025 12:55:28 GMT"
-    },
-    {
-      "title": "Qantas, Air India, Air France, and KLM Data Breach Exposes Millions of Customer Records, Raising Security Concerns in Airlines and Hospitality - Travel And Tour World",
-      "pubDate": "Sun, 12 Oct 2025 02:37:31 GMT"
-    },
-    {
       "title": "Federal agencies warned of \"imminent risk\" after possible data breach - CBS News",
       "pubDate": "Thu, 16 Oct 2025 14:22:00 GMT"
     },
@@ -625,13 +593,13 @@
     {
       "title": "Data breach at Chinese infosec firm reveals cyber-weapons and target list - theregister.com",
       "pubDate": "Sun, 09 Nov 2025 23:51:00 GMT"
+    },
+    {
+      "title": "Hyundai, Kia, And Genesis Suffer Massive Customer Data Breach - thetruthaboutcars.com",
+      "pubDate": "Mon, 10 Nov 2025 18:30:00 GMT"
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts - The Hacker News",
-      "pubDate": "Sat, 11 Oct 2025 13:30:00 GMT"
-    },
     {
       "title": "China is hacking America's critical infrastructure, former NSA and retired Gen. Tim Haugh warns - CBS News",
       "pubDate": "Sun, 12 Oct 2025 23:30:00 GMT"
@@ -779,6 +747,10 @@
     {
       "title": "Permitting of US fusion power plant progresses - World Nuclear News",
       "pubDate": "Fri, 24 Oct 2025 15:23:54 GMT"
+    },
+    {
+      "title": "Department of Energy unveils ambitious plan to tap into unlimited energy source: 'Deliver large-scale integration' - Yahoo",
+      "pubDate": "Tue, 11 Nov 2025 02:30:00 GMT"
     }
   ],
   "OpenAI": [
@@ -933,14 +905,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Researchers find methane leaking out of cracks in Antarctic seabed - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Sat, 11 Oct 2025 10:07:11 GMT"
-    },
-    {
-      "title": "Hidden, supercharged 'thermostat' may cause Earth to overcorrect for climate change - Live Science",
-      "pubDate": "Sat, 11 Oct 2025 15:00:00 GMT"
-    },
-    {
       "title": "Planet\u2019s first catastrophic climate tipping point reached, report says, with coral reefs facing \u2018widespread dieback\u2019 - The Guardian",
       "pubDate": "Mon, 13 Oct 2025 01:30:00 GMT"
     },
@@ -1059,6 +1023,10 @@
     {
       "title": "Leaders at the Global Climate Summit Highlight the Rising Toll of Warming - The New York Times",
       "pubDate": "Fri, 07 Nov 2025 18:38:18 GMT"
+    },
+    {
+      "title": "COP30: How the world plans to pay its rising climate costs - Reuters",
+      "pubDate": "Tue, 11 Nov 2025 05:01:00 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1074,10 +1042,6 @@
     }
   ],
   "Technology": [
-    {
-      "title": "Nvidia, AMD Stocks Tumble as U.S. Senate Targets AI Chip Exports to China - Yahoo",
-      "pubDate": "Sat, 11 Oct 2025 19:48:47 GMT"
-    },
     {
       "title": "Russia secretly acquired Western technology to protect its nuclear submarine fleet - International Consortium of Investigative Journalists - ICIJ",
       "pubDate": "Thu, 23 Oct 2025 08:33:23 GMT"
@@ -1115,10 +1079,6 @@
   ],
   "National Security": [
     {
-      "title": "Trump critic and former national security adviser John Bolton to be charged soon, sources say - NBC News",
-      "pubDate": "Sat, 11 Oct 2025 14:22:00 GMT"
-    },
-    {
       "title": "JPMorgan pledges $10 billion to US companies 'essential to national security' - Yahoo Finance",
       "pubDate": "Mon, 13 Oct 2025 11:47:36 GMT"
     },
@@ -1153,13 +1113,13 @@
     {
       "title": "Supreme Court takes up Trump\u2019s emergency tariffs, citing national security - Fox Business",
       "pubDate": "Mon, 03 Nov 2025 15:54:14 GMT"
+    },
+    {
+      "title": "Military experts warn security hole in most AI chatbots can sow chaos - Defense News",
+      "pubDate": "Mon, 10 Nov 2025 21:50:50 GMT"
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea shows off long-range missiles it claims can hit US mainland - CNN",
-      "pubDate": "Sat, 11 Oct 2025 11:29:36 GMT"
-    },
     {
       "title": "South Korea to deploy its most powerful non-nuclear \u2018bunker buster\u2019 missile, Hyunmoo-5 that can reach Chin - The Economic Times",
       "pubDate": "Sat, 18 Oct 2025 02:43:06 GMT"
@@ -1239,6 +1199,10 @@
     {
       "title": "Supreme Court prepares to weigh tariffs fight in test of Trump's power - CBS News",
       "pubDate": "Tue, 04 Nov 2025 11:00:00 GMT"
+    },
+    {
+      "title": "US Supreme Court rejects bid to overturn same-sex marriage right - Reuters",
+      "pubDate": "Mon, 10 Nov 2025 17:57:11 GMT"
     }
   ],
   "United Kingdom": [
@@ -1274,10 +1238,6 @@
     }
   ],
   "Renewable Energy": [
-    {
-      "title": "\u2600\ufe0f Renewable energy surpasses coal in the global electricity mix - for the first time ever - warpnews.org",
-      "pubDate": "Sat, 11 Oct 2025 09:01:01 GMT"
-    },
     {
       "title": "Government aims to create 400,000 jobs through UK national green energy plan - The Guardian",
       "pubDate": "Sun, 19 Oct 2025 13:53:00 GMT"
@@ -1575,10 +1535,6 @@
   ],
   "Health": [
     {
-      "title": "Joe Biden receiving radiation therapy for prostate cancer, spokesman says - BBC",
-      "pubDate": "Sat, 11 Oct 2025 21:23:28 GMT"
-    },
-    {
       "title": "What Americans think about rising health care costs, according to a new AP-NORC poll - AP News",
       "pubDate": "Tue, 21 Oct 2025 17:22:00 GMT"
     },
@@ -1604,10 +1560,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "If New York or California enter a recession, the entire U.S. economy would be next. So how are they doing? - MarketWatch",
-      "pubDate": "Sat, 11 Oct 2025 13:00:00 GMT"
-    },
     {
       "title": "Recession warning signs to watch: Goodbye lipstick, hello Hamburger Helper - The Washington Post",
       "pubDate": "Tue, 14 Oct 2025 10:07:21 GMT"
@@ -1677,12 +1629,6 @@
       "pubDate": "Fri, 31 Oct 2025 12:17:08 GMT"
     }
   ],
-  "Military and Defense": [
-    {
-      "title": "Arab states expanded cooperation with Israeli military during Gaza war, files show - The Washington Post",
-      "pubDate": "Sat, 11 Oct 2025 21:04:47 GMT"
-    }
-  ],
   "Geopolitics": [
     {
       "title": "Potentially \u2018Catastrophic\u2019 Breach of Cyber Firm Blamed on China - Bloomberg.com",
@@ -1699,22 +1645,12 @@
   ],
   "Terrorism": [
     {
-      "title": "US issues travel alert for THIS popular travel destination, \u2018terrorists may hit shopping spots, tourist locations\u2019 - Mint",
-      "pubDate": "Sat, 11 Oct 2025 14:32:50 GMT"
-    },
-    {
       "title": "Terrorism Charges Against Antifa \u2018Cell\u2019 Show Administration\u2019s Focus on the Left - The New York Times",
       "pubDate": "Thu, 16 Oct 2025 20:15:34 GMT"
     },
     {
       "title": "Slovak PM Fico's attacker convicted of terrorism, jailed for 21 years - Reuters",
       "pubDate": "Tue, 21 Oct 2025 09:47:36 GMT"
-    }
-  ],
-  "Computer Science": [
-    {
-      "title": "Quantum simulations that once needed supercomputers now run on laptops - ScienceDaily",
-      "pubDate": "Sun, 12 Oct 2025 05:13:50 GMT"
     }
   ],
   "Battery Technology": [
