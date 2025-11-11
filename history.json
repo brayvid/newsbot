@@ -59,10 +59,6 @@
   ],
   "US Politics": [
     {
-      "title": "Partisan shutdown standoff ignores key risk to US stability: rising national debt - Reuters",
-      "pubDate": "Sun, 12 Oct 2025 11:17:28 GMT"
-    },
-    {
       "title": "JoCo's ethics hotline is now more widely available to the public - Johnson County Post",
       "pubDate": "Mon, 13 Oct 2025 16:45:42 GMT"
     },
@@ -283,6 +279,10 @@
     {
       "title": "German general says Russia could launch limited attack on NATO any time - Reuters",
       "pubDate": "Fri, 07 Nov 2025 07:34:00 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Russian oil depot goes up in flames after direct strike by Kyiv - The Independent",
+      "pubDate": "Tue, 11 Nov 2025 10:58:01 GMT"
     }
   ],
   "Donald Trump": [
@@ -481,10 +481,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Anthropic study reveals malicious data can easily sabotage AI models - Tech Edition",
-      "pubDate": "Sun, 12 Oct 2025 10:38:21 GMT"
-    },
-    {
       "title": "Gov. Newsom signs AI safety bill aimed at protecting children from chatbots - Los Angeles Times",
       "pubDate": "Mon, 13 Oct 2025 14:06:13 GMT"
     },
@@ -597,6 +593,10 @@
     {
       "title": "Hyundai, Kia, And Genesis Suffer Massive Customer Data Breach - thetruthaboutcars.com",
       "pubDate": "Mon, 10 Nov 2025 18:30:00 GMT"
+    },
+    {
+      "title": "How hackers exposed personal info of 1.7M students in NY, prompting data breach settlement - LoHud.com",
+      "pubDate": "Tue, 11 Nov 2025 08:02:39 GMT"
     }
   ],
   "Cybersecurity": [
@@ -795,10 +795,6 @@
   ],
   "Gaza": [
     {
-      "title": "Gaza ceasefire live: Trump to meet with Israeli hostages after their release by Hamas on Monday, says Vance - The Guardian",
-      "pubDate": "Sun, 12 Oct 2025 07:44:00 GMT"
-    },
-    {
       "title": "Israeli hostages and Palestinian detainees released as mediators sign Trump\u2019s Gaza ceasefire deal - CNN",
       "pubDate": "Tue, 14 Oct 2025 03:19:00 GMT"
     },
@@ -901,6 +897,10 @@
     {
       "title": "Gaza death toll tops 69,000 as Israel and Hamas exchange more remains - PBS",
       "pubDate": "Sat, 08 Nov 2025 17:19:53 GMT"
+    },
+    {
+      "title": "Trump has promised peace for Gaza. Private documents paint a grim picture. - Politico",
+      "pubDate": "Tue, 11 Nov 2025 10:55:00 GMT"
     }
   ],
   "Climate Change": [
@@ -1075,6 +1075,10 @@
     {
       "title": "'We're At This Intermediate Stage': Ex-Tesla AI Chief Andrej Karpathy Says AGI Is Still A Decade Away - Yahoo Finance",
       "pubDate": "Sun, 09 Nov 2025 19:32:06 GMT"
+    },
+    {
+      "title": "Intel\u2019s AI Leader Sachin Katti Joins OpenAI, To Focus On Artificial General Intelligence - NDTV Profit",
+      "pubDate": "Tue, 11 Nov 2025 07:54:07 GMT"
     }
   ],
   "National Security": [
@@ -1331,6 +1335,10 @@
     {
       "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers - The Hacker News",
       "pubDate": "Fri, 31 Oct 2025 08:46:00 GMT"
+    },
+    {
+      "title": "CISA Issues Alert on Samsung 0-Day RCE Flaw Actively Exploited in Attacks - GBHackers News",
+      "pubDate": "Tue, 11 Nov 2025 06:53:54 GMT"
     }
   ],
   "Science": [
@@ -1414,10 +1422,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Air Defense Forces destroy 103 out of 118 Russian drones overnight - Ukrinform",
-      "pubDate": "Sun, 12 Oct 2025 06:52:00 GMT"
-    },
     {
       "title": "Behind Russia\u2019s battlefield drone surge in Ukraine? Chinese factories. - The Washington Post",
       "pubDate": "Mon, 13 Oct 2025 16:00:00 GMT"
@@ -1679,6 +1683,10 @@
     {
       "title": "US-India expert who advised US administrations arrested over secret documents - Reuters",
       "pubDate": "Tue, 14 Oct 2025 21:21:12 GMT"
+    },
+    {
+      "title": "India Investigates Deadly Blast as Terrorism - The Wall Street Journal",
+      "pubDate": "Tue, 11 Nov 2025 11:08:00 GMT"
     }
   ],
   "United Nations": [
@@ -1899,6 +1907,12 @@
     {
       "title": "Survey finds 40% of women without children hesitant to have kids due to climate crisis - Women's Agenda",
       "pubDate": "Mon, 10 Nov 2025 00:03:24 GMT"
+    }
+  ],
+  "Earth's Magnetic Field": [
+    {
+      "title": "Something strange is happening to Earth\u2019s magnetic field and it could spell doom for satellites, scientists warn - Yahoo",
+      "pubDate": "Tue, 11 Nov 2025 09:56:44 GMT"
     }
   ]
 }
