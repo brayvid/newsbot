@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Analysis | China now leads the U.S. in this key part of the AI race - The Washington Post",
-      "pubDate": "Mon, 13 Oct 2025 17:05:00 GMT"
-    },
-    {
       "title": "OpenAI Forms Council to Facilitate \u2018Healthy Interactions With AI\u2019 - PYMNTS.com",
       "pubDate": "Tue, 14 Oct 2025 22:15:34 GMT"
     },
@@ -59,13 +55,13 @@
     {
       "title": "SoftBank Sells $5.8 Billion Stake in Nvidia to Pay for OpenAI Deals - The New York Times",
       "pubDate": "Tue, 11 Nov 2025 16:40:31 GMT"
+    },
+    {
+      "title": "Anthropic announces $50B investment in new US data centers to meet AI demand - The Hill",
+      "pubDate": "Wed, 12 Nov 2025 16:21:00 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "JoCo's ethics hotline is now more widely available to the public - Johnson County Post",
-      "pubDate": "Mon, 13 Oct 2025 16:45:42 GMT"
-    },
     {
       "title": "Trump Administration Authorizes Covert C.I.A. Action in Venezuela - The New York Times",
       "pubDate": "Thu, 16 Oct 2025 08:45:00 GMT"
@@ -299,10 +295,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump says Ukraine may get Tomahawk missiles to use against Russia - bbc.com",
-      "pubDate": "Mon, 13 Oct 2025 10:01:42 GMT"
-    },
-    {
       "title": "LIVE: Trump signs Gaza ceasefire deal with leaders of Qatar, Egypt, Turkiye - Al Jazeera",
       "pubDate": "Tue, 14 Oct 2025 00:09:44 GMT"
     },
@@ -361,13 +353,13 @@
     {
       "title": "Trump's sweeping student-loan repayment changes are a big step closer to reaching borrowers - Business Insider",
       "pubDate": "Sun, 09 Nov 2025 09:42:00 GMT"
+    },
+    {
+      "title": "Epstein Alleged in Emails That Trump Knew of His Conduct - The New York Times",
+      "pubDate": "Wed, 12 Nov 2025 17:45:16 GMT"
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Global financial system vulnerable to shocks amid recent stock market surge, Bank of England chief warns \u2013 as it happened - The Guardian",
-      "pubDate": "Mon, 13 Oct 2025 06:35:00 GMT"
-    },
     {
       "title": "IMF warns on $4.5tn bank exposure to hedge funds and private credit - Financial Times",
       "pubDate": "Tue, 14 Oct 2025 14:15:08 GMT"
@@ -395,13 +387,13 @@
     {
       "title": "Stock Market Today: S&P 500 Slips; ADP Data Points to Softer Jobs Market \u2014 Live Updates - The Wall Street Journal",
       "pubDate": "Tue, 11 Nov 2025 17:45:00 GMT"
+    },
+    {
+      "title": "Dow rallies 300 points to new record with shutdown set to end Wednesday: Live updates - CNBC",
+      "pubDate": "Wed, 12 Nov 2025 17:24:00 GMT"
     }
   ],
   "China": [
-    {
-      "title": "The US and China are about to launch the next front in their trade war - Politico",
-      "pubDate": "Mon, 13 Oct 2025 11:00:00 GMT"
-    },
     {
       "title": "Western companies rush to respond to China\u2019s rare-earth restrictions - Financial Times",
       "pubDate": "Tue, 14 Oct 2025 03:44:54 GMT"
@@ -504,10 +496,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Gov. Newsom signs AI safety bill aimed at protecting children from chatbots - Los Angeles Times",
-      "pubDate": "Mon, 13 Oct 2025 14:06:13 GMT"
-    },
     {
       "title": "Gov. Newsom signs AI safety bills, vetoes one after pushback from the tech industry - Los Angeles Times",
       "pubDate": "Tue, 14 Oct 2025 01:23:07 GMT"
@@ -629,10 +617,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "AI, Quantum Computing Bring New Cybersecurity Concerns for Financial Services - South China Morning Post",
-      "pubDate": "Mon, 13 Oct 2025 16:00:08 GMT"
-    },
-    {
       "title": "European Commission, ENISA add GMV to EU Cybersecurity Reserve to boost response to critical cyber threats - Industrial Cyber",
       "pubDate": "Tue, 14 Oct 2025 08:34:56 GMT"
     },
@@ -683,6 +667,10 @@
     {
       "title": "US Congressional Budget Office hit by cybersecurity incident - Reuters",
       "pubDate": "Fri, 07 Nov 2025 15:38:39 GMT"
+    },
+    {
+      "title": "US Congress moves to restore CISA 2015, closing cybersecurity gaps for critical infrastructure - Industrial Cyber",
+      "pubDate": "Wed, 12 Nov 2025 14:53:59 GMT"
     }
   ],
   "US Economy": [
@@ -770,10 +758,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators - OpenAI",
-      "pubDate": "Mon, 13 Oct 2025 13:05:17 GMT"
-    },
     {
       "title": "OpenAI sets ChatGPT Atlas browser launch, sending Alphabet shares lower - CNBC",
       "pubDate": "Tue, 21 Oct 2025 16:12:35 GMT"
@@ -917,13 +901,13 @@
     {
       "title": "UNICEF says Israel blocking 1 million syringes needed to vaccinate Gaza children - NBC News",
       "pubDate": "Tue, 11 Nov 2025 13:05:39 GMT"
+    },
+    {
+      "title": "They found a 'bucket of lentils.' Then it blew up. The menace of Gaza's unexploded ordnance - NPR",
+      "pubDate": "Wed, 12 Nov 2025 10:03:00 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "End of the world as we know it: Damning new report says Earth has reached its first climate \u2018tipping point\u2019 - The Independent",
-      "pubDate": "Mon, 13 Oct 2025 13:41:00 GMT"
-    },
     {
       "title": "Climate change is getting under our skin - The Week",
       "pubDate": "Tue, 14 Oct 2025 06:00:00 GMT"
@@ -1094,10 +1078,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "JPMorgan pledges $10 billion to US companies 'essential to national security' - Yahoo Finance",
-      "pubDate": "Mon, 13 Oct 2025 11:47:36 GMT"
-    },
     {
       "title": "Qatar's planned Air Force base in Idaho is a national security crisis - MSNBC News",
       "pubDate": "Thu, 16 Oct 2025 23:35:31 GMT"
@@ -1287,6 +1267,10 @@
     {
       "title": "Trump administration skips COP30 climate summit, leaving California's Newsom to hurl criticism from Brazil - CBS News",
       "pubDate": "Tue, 11 Nov 2025 15:30:00 GMT"
+    },
+    {
+      "title": "Newsom calls Trump an \u2018invasive species\u2019 and \u2018wrecking ball\u2019 in fiery remarks at COP30 climate summit - CNN",
+      "pubDate": "Wed, 12 Nov 2025 17:31:29 GMT"
     }
   ],
   "Large Language Models": [
@@ -1328,10 +1312,6 @@
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "White House Fires 176 CISA Staff Amid Government Shutdown, Following Project 2025 Playbook - WinBuzzer",
-      "pubDate": "Mon, 13 Oct 2025 14:24:40 GMT"
-    },
     {
       "title": "Breach at US-based cybersecurity provider F5 blamed on China, sources say - Reuters",
       "pubDate": "Fri, 17 Oct 2025 21:43:16 GMT"
@@ -1438,10 +1418,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Behind Russia\u2019s battlefield drone surge in Ukraine? Chinese factories. - The Washington Post",
-      "pubDate": "Mon, 13 Oct 2025 16:00:00 GMT"
-    },
     {
       "title": "EU proposes 'flagship' defence projects to counter drones, protect eastern border - Reuters",
       "pubDate": "Thu, 16 Oct 2025 14:42:39 GMT"
@@ -1627,10 +1603,6 @@
   ],
   "Social Media": [
     {
-      "title": "Kids who use social media score lower on reading and memory tests, a study shows - NPR",
-      "pubDate": "Mon, 13 Oct 2025 15:01:00 GMT"
-    },
-    {
       "title": "New Zealand parliament to debate teen social media ban - Reuters",
       "pubDate": "Thu, 23 Oct 2025 03:43:00 GMT"
     },
@@ -1679,12 +1651,6 @@
     {
       "title": "Slovak PM Fico's attacker convicted of terrorism, jailed for 21 years - Reuters",
       "pubDate": "Tue, 21 Oct 2025 09:47:36 GMT"
-    }
-  ],
-  "Battery Technology": [
-    {
-      "title": "China imposes new export controls on lithium ion battery technology - ess-news.com",
-      "pubDate": "Mon, 13 Oct 2025 11:44:19 GMT"
     }
   ],
   "National Security Agency": [
