@@ -291,6 +291,10 @@
     {
       "title": "Ukraine war latest: Russian oil depot goes up in flames after direct strike by Kyiv - The Independent",
       "pubDate": "Tue, 11 Nov 2025 10:58:01 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Top banker\u2019s straight talk to Putin over troubled economy - The Guardian",
+      "pubDate": "Wed, 12 Nov 2025 01:43:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -493,6 +497,10 @@
     {
       "title": "Bridge partially collapses in southwest China, months after opening - Reuters",
       "pubDate": "Tue, 11 Nov 2025 15:16:31 GMT"
+    },
+    {
+      "title": "Xi\u2019s Military Purges Show Unease About China\u2019s Nuclear Forces - The New York Times",
+      "pubDate": "Wed, 12 Nov 2025 05:01:06 GMT"
     }
   ],
   "AI Safety": [
@@ -583,6 +591,10 @@
     {
       "title": "Carnegie Mellon prof. Zico Kolter leads an OpenAI safety panel that can halt unsafe AI releases - 90.5 WESA",
       "pubDate": "Sun, 09 Nov 2025 18:00:00 GMT"
+    },
+    {
+      "title": "Tech companies and UK child safety agencies to test AI tools\u2019 ability to create abuse images - The Guardian",
+      "pubDate": "Wed, 12 Nov 2025 02:30:00 GMT"
     }
   ],
   "Data Breach": [
@@ -616,10 +628,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "China is hacking America's critical infrastructure, former NSA and retired Gen. Tim Haugh warns - CBS News",
-      "pubDate": "Sun, 12 Oct 2025 23:30:00 GMT"
-    },
     {
       "title": "AI, Quantum Computing Bring New Cybersecurity Concerns for Financial Services - South China Morning Post",
       "pubDate": "Mon, 13 Oct 2025 16:00:08 GMT"
@@ -753,10 +761,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "Once the butt of jokes, now a great hope: The race for fusion energy - Australian Broadcasting Corporation",
-      "pubDate": "Sun, 12 Oct 2025 18:40:12 GMT"
-    },
-    {
       "title": "Permitting of US fusion power plant progresses - World Nuclear News",
       "pubDate": "Fri, 24 Oct 2025 15:23:54 GMT"
     },
@@ -780,10 +784,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "China's superconducting quantum computer ready for commercial use - People's Daily",
-      "pubDate": "Mon, 13 Oct 2025 00:50:00 GMT"
-    },
     {
       "title": "Simplified Sachdev-Ye-Kitaev model simulated on trapped-ion quantum computer - Phys.org",
       "pubDate": "Sun, 19 Oct 2025 13:20:01 GMT"
@@ -921,10 +921,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Planet\u2019s first catastrophic climate tipping point reached, report says, with coral reefs facing \u2018widespread dieback\u2019 - The Guardian",
-      "pubDate": "Mon, 13 Oct 2025 01:30:00 GMT"
-    },
-    {
       "title": "End of the world as we know it: Damning new report says Earth has reached its first climate \u2018tipping point\u2019 - The Independent",
       "pubDate": "Mon, 13 Oct 2025 13:41:00 GMT"
     },
@@ -1043,6 +1039,10 @@
     {
       "title": "COP30: How the world plans to pay its rising climate costs - Reuters",
       "pubDate": "Tue, 11 Nov 2025 05:01:00 GMT"
+    },
+    {
+      "title": "Earth's reality check: UN Climate Change Conference COP30 venue flooded in Brazil - Watch - The Times of India",
+      "pubDate": "Wed, 12 Nov 2025 03:50:00 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1068,10 +1068,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "Meta Debuts Superintelligence Labs: Scaling AI Infrastructure for AGI - WebProNews",
-      "pubDate": "Sun, 12 Oct 2025 23:05:29 GMT"
-    },
     {
       "title": "Google Announces Gemini 3.0: Artificial Intelligence Evolves Toward AGI - Red Hot Cyber",
       "pubDate": "Mon, 20 Oct 2025 10:28:43 GMT"
@@ -1232,10 +1228,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "Trump, Vance Open Door to China Deal as Trade Spat Drags On - Bloomberg.com",
-      "pubDate": "Sun, 12 Oct 2025 23:02:33 GMT"
-    },
     {
       "title": "Trump Ramps Up Trade War as Tariffs on Lumber and Furniture Kick in - The New York Times",
       "pubDate": "Tue, 14 Oct 2025 04:01:05 GMT"
@@ -1417,6 +1409,10 @@
     {
       "title": "U.S. Targets Suspected North Korean Hackers Funding Nuclear Bombs - Newsweek",
       "pubDate": "Wed, 05 Nov 2025 05:57:00 GMT"
+    },
+    {
+      "title": "Chinese hackers probe Australian, US cyber infrastructure - The Jerusalem Post",
+      "pubDate": "Wed, 12 Nov 2025 04:03:41 GMT"
     }
   ],
   "Space Exploration": [
@@ -1505,6 +1501,10 @@
     {
       "title": "Shots fired at federal immigration agents in Chicago, says Department of Homeland Security - NBC News",
       "pubDate": "Sun, 09 Nov 2025 00:23:53 GMT"
+    },
+    {
+      "title": "ICE Arrests Fugitive Murderer Released into American Neighborhoods by the Biden Administration - Homeland Security (.gov)",
+      "pubDate": "Tue, 11 Nov 2025 19:01:07 GMT"
     }
   ],
   "NASA": [
@@ -1521,6 +1521,10 @@
     {
       "title": "Act Now \u2014 Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes",
       "pubDate": "Sat, 25 Oct 2025 08:43:46 GMT"
+    },
+    {
+      "title": "Patch Now: Microsoft Flags Zero-Day & Critical Zero-Click Bugs - Dark Reading | Security",
+      "pubDate": "Tue, 11 Nov 2025 21:22:12 GMT"
     }
   ],
   "Infrastructure": [
