@@ -55,6 +55,10 @@
     {
       "title": "Anthropic announces $50B investment in new US data centers to meet AI demand - The Hill",
       "pubDate": "Wed, 12 Nov 2025 16:21:00 GMT"
+    },
+    {
+      "title": "Anthropic Says Chinese Hackers Used Its A.I. in Online Attack - The New York Times",
+      "pubDate": "Fri, 14 Nov 2025 09:50:30 GMT"
     }
   ],
   "US Politics": [
@@ -122,10 +126,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine discusses new four-year lending program with IMF chief, PM says - Reuters",
-      "pubDate": "Wed, 15 Oct 2025 15:32:45 GMT"
-    },
     {
       "title": "Ukraine Wants Tomahawks. Trump Has to Decide if They Would Help End the War. - The Wall Street Journal",
       "pubDate": "Thu, 16 Oct 2025 03:00:00 GMT"
@@ -283,10 +283,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump to list closed agencies as shutdown enters 15th day. Live updates - USA Today",
-      "pubDate": "Wed, 15 Oct 2025 16:41:15 GMT"
-    },
-    {
       "title": "Trump Wavers as Zelensky Seeks Long-Range Missiles to Fight Russia: Live Updates - The New York Times",
       "pubDate": "Sat, 18 Oct 2025 03:53:00 GMT"
     },
@@ -341,6 +337,10 @@
     {
       "title": "Epstein Alleged in Emails That Trump Knew of His Conduct - The New York Times",
       "pubDate": "Wed, 12 Nov 2025 17:45:16 GMT"
+    },
+    {
+      "title": "Trump dismisses mounting questions over Epstein links, then threatens Democratic foes with justice department investigation \u2013 live - The Guardian",
+      "pubDate": "Fri, 14 Nov 2025 11:23:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -374,10 +374,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Trump administration will set price floors across range of industries to combat China, Bessent says - CNBC",
-      "pubDate": "Wed, 15 Oct 2025 13:26:37 GMT"
-    },
     {
       "title": "America and China head towards mutually assured disruption - The Economist",
       "pubDate": "Wed, 15 Oct 2025 20:24:08 GMT"
@@ -469,6 +465,10 @@
     {
       "title": "Xi\u2019s Military Purges Show Unease About China\u2019s Nuclear Forces - The New York Times",
       "pubDate": "Wed, 12 Nov 2025 05:01:06 GMT"
+    },
+    {
+      "title": "China\u2019s AI Leap: Matching U.S. Rivals in Power and Peril - WebProNews",
+      "pubDate": "Fri, 14 Nov 2025 15:31:08 GMT"
     }
   ],
   "AI Safety": [
@@ -643,10 +643,6 @@
   ],
   "US Economy": [
     {
-      "title": "As US shutdown starts to bite, how much could it hit economy? - BBC",
-      "pubDate": "Wed, 15 Oct 2025 14:15:05 GMT"
-    },
-    {
       "title": "Shutdown could cost US economy $15 billion a week, Treasury says - Reuters",
       "pubDate": "Thu, 16 Oct 2025 01:58:59 GMT"
     },
@@ -755,10 +751,6 @@
   ],
   "Gaza": [
     {
-      "title": "LIVE: Israel accused of new war crimes as it kills more Gaza civilians - Al Jazeera",
-      "pubDate": "Wed, 15 Oct 2025 12:09:58 GMT"
-    },
-    {
       "title": "With Truce in Place, Hamas Pursues Bloody Crackdown on Rivals in Gaza - The New York Times",
       "pubDate": "Wed, 15 Oct 2025 18:56:21 GMT"
     },
@@ -857,6 +849,10 @@
     {
       "title": "They found a 'bucket of lentils.' Then it blew up. The menace of Gaza's unexploded ordnance - NPR",
       "pubDate": "Wed, 12 Nov 2025 10:03:00 GMT"
+    },
+    {
+      "title": "Hamas quietly reasserts control in Gaza as post-war talks grind on - Reuters",
+      "pubDate": "Fri, 14 Nov 2025 08:31:47 GMT"
     }
   ],
   "Climate Change": [
@@ -975,6 +971,10 @@
     {
       "title": "Earth's reality check: UN Climate Change Conference COP30 venue flooded in Brazil - Watch - The Times of India",
       "pubDate": "Wed, 12 Nov 2025 03:50:00 GMT"
+    },
+    {
+      "title": "COP30: Climate crisis is a health crisis, WHO warns as philanthropies pledge $300m for solutions - UN News",
+      "pubDate": "Fri, 14 Nov 2025 16:58:50 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1132,10 +1132,6 @@
     }
   ],
   "US Supreme Court": [
-    {
-      "title": "US Supreme Court conservatives appear willing to blunt key Voting Rights Act provision - Reuters",
-      "pubDate": "Wed, 15 Oct 2025 15:59:01 GMT"
-    },
     {
       "title": "Supreme Court Confronts Trump and His Tariffs in Test of Presidential Power - The New York Times",
       "pubDate": "Mon, 03 Nov 2025 10:01:49 GMT"
@@ -1383,6 +1379,10 @@
     {
       "title": "Army wants to buy one million drones over next two to three years - Breaking Defense",
       "pubDate": "Fri, 07 Nov 2025 19:20:59 GMT"
+    },
+    {
+      "title": "Russia pounds Ukraine with drones and missiles, killing eight and hitting energy sites - Reuters",
+      "pubDate": "Fri, 14 Nov 2025 12:46:10 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1401,6 +1401,10 @@
     {
       "title": "Federal Reserve plans to cut banking oversight staff by 30% - qz.com",
       "pubDate": "Fri, 31 Oct 2025 12:04:27 GMT"
+    },
+    {
+      "title": "The Fed faces deep divides at a fraught moment - Axios",
+      "pubDate": "Fri, 14 Nov 2025 17:00:35 GMT"
     }
   ],
   "Department of Homeland Security": [
