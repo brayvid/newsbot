@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI Forms Council to Facilitate \u2018Healthy Interactions With AI\u2019 - PYMNTS.com",
-      "pubDate": "Tue, 14 Oct 2025 22:15:34 GMT"
-    },
-    {
       "title": "Building smarter AI agents: AgentCore long-term memory deep dive - Amazon Web Services",
       "pubDate": "Wed, 15 Oct 2025 18:22:57 GMT"
     },
@@ -209,10 +205,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia Steps Up Assault on Antiwar Exiles, Accusing Them of Terrorism - The New York Times",
-      "pubDate": "Tue, 14 Oct 2025 12:48:14 GMT"
-    },
-    {
       "title": "Thune: Time to move on Russia sanctions bill - Politico",
       "pubDate": "Thu, 16 Oct 2025 18:00:30 GMT"
     },
@@ -283,6 +275,10 @@
     {
       "title": "Ukraine war briefing: Top banker\u2019s straight talk to Putin over troubled economy - The Guardian",
       "pubDate": "Wed, 12 Nov 2025 01:43:00 GMT"
+    },
+    {
+      "title": "Zelenskyy condemns Russia\u2019s \u2018wicked\u2019 overnight attack on Ukraine \u2013 Europe live - The Guardian",
+      "pubDate": "Fri, 14 Nov 2025 08:44:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -348,10 +344,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "IMF warns on $4.5tn bank exposure to hedge funds and private credit - Financial Times",
-      "pubDate": "Tue, 14 Oct 2025 14:15:08 GMT"
-    },
     {
       "title": "FTSE 100 heading for worst day since April as US regional bank worries rock markets \u2013 business live - The Guardian",
       "pubDate": "Fri, 17 Oct 2025 09:54:47 GMT"
@@ -714,10 +706,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "DOJ seizes $15 billion in bitcoin from massive 'pig butchering' scam based in Cambodia - CNBC",
-      "pubDate": "Tue, 14 Oct 2025 15:04:12 GMT"
-    },
     {
       "title": "Bitcoin surges above $115,000, millions in short positions liquidated - theblock.co",
       "pubDate": "Mon, 27 Oct 2025 02:46:43 GMT"
@@ -1363,12 +1351,6 @@
       "pubDate": "Wed, 22 Oct 2025 09:50:41 GMT"
     }
   ],
-  "Kim Jong Un": [
-    {
-      "title": "South Korea builds civilian nuclear bunker as fears of North harden - The Times",
-      "pubDate": "Tue, 14 Oct 2025 13:45:36 GMT"
-    }
-  ],
   "Drones": [
     {
       "title": "EU proposes 'flagship' defence projects to counter drones, protect eastern border - Reuters",
@@ -1422,10 +1404,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "Cartels issuing bounties up to $50,000 for hits on ICE, CBP agents: DHS - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Tue, 14 Oct 2025 19:42:58 GMT"
-    },
     {
       "title": "Shots fired at federal immigration agents in Chicago, says Department of Homeland Security - NBC News",
       "pubDate": "Sun, 09 Nov 2025 00:23:53 GMT"
@@ -1597,29 +1575,17 @@
   ],
   "Investment": [
     {
-      "title": "IMF says AI investment bubble could burst, comparable to dot-com bubble - Al Jazeera",
-      "pubDate": "Tue, 14 Oct 2025 15:29:30 GMT"
-    },
-    {
       "title": "UK finance minister to join Saudi investment summit and hold Gulf trade talks - Reuters",
       "pubDate": "Sun, 26 Oct 2025 22:32:24 GMT"
     }
   ],
   "India": [
     {
-      "title": "US-India expert who advised US administrations arrested over secret documents - Reuters",
-      "pubDate": "Tue, 14 Oct 2025 21:21:12 GMT"
-    },
-    {
       "title": "India Investigates Deadly Blast as Terrorism - The Wall Street Journal",
       "pubDate": "Tue, 11 Nov 2025 11:08:00 GMT"
     }
   ],
   "United Nations": [
-    {
-      "title": "UN says countries are willing to help fund Gaza's $70 bln reconstruction - Reuters",
-      "pubDate": "Tue, 14 Oct 2025 21:45:04 GMT"
-    },
     {
       "title": "UN\u2019s Albanese presents blistering report on complicity in Gaza genocide - Al Jazeera",
       "pubDate": "Tue, 28 Oct 2025 17:39:52 GMT"
