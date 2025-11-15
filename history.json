@@ -59,10 +59,6 @@
   ],
   "US Politics": [
     {
-      "title": "White House Set to Announce Proposal Seeking to Make I.V.F. More Accessible - The New York Times",
-      "pubDate": "Thu, 16 Oct 2025 16:49:40 GMT"
-    },
-    {
       "title": "Trump mulls invoking the Insurrection Act and signals he\u2019ll send troops to San Francisco - The Independent",
       "pubDate": "Sun, 19 Oct 2025 18:45:00 GMT"
     },
@@ -118,10 +114,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "After Putin summit, Trump changed his mind on supporting Ukraine\u2019s strikes on Russian energy targets, sources say - CNN",
-      "pubDate": "Thu, 16 Oct 2025 16:11:38 GMT"
-    },
     {
       "title": "Trump says he will meet Putin in Hungary for Ukraine talks after 'very productive' phone call - BBC",
       "pubDate": "Thu, 16 Oct 2025 20:23:39 GMT"
@@ -271,6 +263,10 @@
     {
       "title": "Russia Tried to Cut Ukraine\u2019s Lights. Now It\u2019s Aiming for the Heat. - The New York Times",
       "pubDate": "Sat, 15 Nov 2025 10:00:37 GMT"
+    },
+    {
+      "title": "Ukraine says it attacked Russian oil refinery near Moscow as winter looms - Al Jazeera",
+      "pubDate": "Sat, 15 Nov 2025 16:52:30 GMT"
     }
   ],
   "Donald Trump": [
@@ -366,10 +362,6 @@
     }
   ],
   "China": [
-    {
-      "title": "MI5 chief 'frustrated' over collapse of China spy case - BBC",
-      "pubDate": "Thu, 16 Oct 2025 14:24:16 GMT"
-    },
     {
       "title": "China Ousts Top Military Official as Xi Widens Corruption Purge - Bloomberg.com",
       "pubDate": "Fri, 17 Oct 2025 09:38:58 GMT"
@@ -546,10 +538,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Federal agencies warned of \"imminent risk\" after possible data breach - CBS News",
-      "pubDate": "Thu, 16 Oct 2025 14:22:00 GMT"
-    },
     {
       "title": "MoD probes claims Russian hackers stole files on bases - BBC",
       "pubDate": "Sun, 19 Oct 2025 23:35:41 GMT"
@@ -1067,6 +1055,10 @@
     {
       "title": "North Korea Threatens US With \u2018More Aggressive Actions\u2019 - Newsweek",
       "pubDate": "Sat, 08 Nov 2025 18:05:00 GMT"
+    },
+    {
+      "title": "North Korean troops deployed to clear land mines for Russia - The Telegraph",
+      "pubDate": "Sat, 15 Nov 2025 11:58:00 GMT"
     }
   ],
   "Iran": [
@@ -1189,10 +1181,6 @@
   ],
   "US Congress": [
     {
-      "title": "American Flag With Swastika Is Found in Republican Congressman\u2019s Office - The New York Times",
-      "pubDate": "Thu, 16 Oct 2025 13:08:00 GMT"
-    },
-    {
       "title": "Government shutdown becomes third-longest in history with no end in sight on Day 17 - CBS News",
       "pubDate": "Fri, 17 Oct 2025 20:49:02 GMT"
     },
@@ -1269,6 +1257,10 @@
     {
       "title": "3 Afghan Cricketers Among 8 Dead In Pakistani Airstrike Near Border - NDTV",
       "pubDate": "Sat, 18 Oct 2025 01:28:00 GMT"
+    },
+    {
+      "title": "Argentina: 'Huge' explosions rock industrial complex - Times of India",
+      "pubDate": "Sat, 15 Nov 2025 17:40:00 GMT"
     }
   ],
   "Hacking": [
@@ -1299,27 +1291,19 @@
     {
       "title": "Security News This Week: A Major Leak Spills a Chinese Hacking Contractor\u2019s Tools and Targets - WIRED",
       "pubDate": "Sat, 15 Nov 2025 11:30:00 GMT"
+    },
+    {
+      "title": "Russian alleged cyber-hacker faces extradition to US after arrest in Thailand - CNN",
+      "pubDate": "Sat, 15 Nov 2025 07:49:21 GMT"
     }
   ],
   "Tesla": [
-    {
-      "title": "Tesla\u2019s European Regulator Says Door Safety a \u2018Key Priority\u2019 - Bloomberg.com",
-      "pubDate": "Thu, 16 Oct 2025 13:50:39 GMT"
-    },
     {
       "title": "Tesla to recall nearly 13,000 US vehicles over battery risk - Reuters",
       "pubDate": "Wed, 22 Oct 2025 09:50:41 GMT"
     }
   ],
   "Drones": [
-    {
-      "title": "EU proposes 'flagship' defence projects to counter drones, protect eastern border - Reuters",
-      "pubDate": "Thu, 16 Oct 2025 14:42:39 GMT"
-    },
-    {
-      "title": "North Korean soldiers are flying drones for Russia and directing strikes in Ukraine, Kyiv says - Business Insider",
-      "pubDate": "Thu, 16 Oct 2025 16:05:00 GMT"
-    },
     {
       "title": "Ukrainian drones strike major Russian gas plant - The Hill",
       "pubDate": "Sun, 19 Oct 2025 09:45:00 GMT"
@@ -1386,10 +1370,6 @@
     }
   ],
   "Microsoft": [
-    {
-      "title": "Microsoft: Russia, China increasingly using AI to escalate cyberattacks on the US - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Thu, 16 Oct 2025 14:53:49 GMT"
-    },
     {
       "title": "Act Now \u2014 Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes",
       "pubDate": "Sat, 25 Oct 2025 08:43:46 GMT"
@@ -1517,6 +1497,10 @@
     {
       "title": "New COP30 report urges urgent action to protect health in a warming world - News-Medical",
       "pubDate": "Sat, 15 Nov 2025 02:39:00 GMT"
+    },
+    {
+      "title": "Health Advisory for Tourists: Wild Polio Virus Found in Hamburg, Germany \u2013 A Wake-Up Call for Travelers to Germany, Afghanistan, and Pakistan - Travel And Tour World",
+      "pubDate": "Sat, 15 Nov 2025 06:25:19 GMT"
     }
   ],
   "Astronomy": [
@@ -1543,12 +1527,20 @@
     {
       "title": "Slovak PM Fico's attacker convicted of terrorism, jailed for 21 years - Reuters",
       "pubDate": "Tue, 21 Oct 2025 09:47:36 GMT"
+    },
+    {
+      "title": "Feds expand terrorism charges in July shooting at Texas immigration detention center - WRAL",
+      "pubDate": "Sat, 15 Nov 2025 17:44:40 GMT"
     }
   ],
   "Investment": [
     {
       "title": "UK finance minister to join Saudi investment summit and hold Gulf trade talks - Reuters",
       "pubDate": "Sun, 26 Oct 2025 22:32:24 GMT"
+    },
+    {
+      "title": "China\u2019s Investment Crash Puzzles Economists and Threatens Growth - Bloomberg.com",
+      "pubDate": "Sat, 15 Nov 2025 06:16:00 GMT"
     }
   ],
   "India": [
@@ -1561,18 +1553,6 @@
     {
       "title": "UN\u2019s Albanese presents blistering report on complicity in Gaza genocide - Al Jazeera",
       "pubDate": "Tue, 28 Oct 2025 17:39:52 GMT"
-    }
-  ],
-  "Earth's Atmosphere": [
-    {
-      "title": "Carbon dioxide in atmosphere reaches new high, U.N. report says - AccuWeather",
-      "pubDate": "Thu, 16 Oct 2025 15:15:30 GMT"
-    }
-  ],
-  "Energy Transition": [
-    {
-      "title": "Trump administration halts massive Nevada solar project, jeopardizing clean energy goals - kanw.org",
-      "pubDate": "Thu, 16 Oct 2025 17:15:00 GMT"
     }
   ],
   "Military Intelligence": [
