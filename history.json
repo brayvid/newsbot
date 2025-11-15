@@ -111,13 +111,13 @@
     {
       "title": "Jared Kushner arrives in Israel for Gaza talks with Netanyahu, source says - Reuters",
       "pubDate": "Sun, 09 Nov 2025 17:58:17 GMT"
+    },
+    {
+      "title": "Scoop: Israel wants Trump to condition F-35 sale to Saudi Arabia on Israel normalization - Axios",
+      "pubDate": "Sat, 15 Nov 2025 18:00:19 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Trump says he will meet Putin in Hungary for Ukraine talks after 'very productive' phone call - BBC",
-      "pubDate": "Thu, 16 Oct 2025 20:23:39 GMT"
-    },
     {
       "title": "Trump puts Russia on notice over Ukraine as two leaders prepare to meet - CNBC",
       "pubDate": "Fri, 17 Oct 2025 08:18:39 GMT"
@@ -181,13 +181,13 @@
     {
       "title": "'No turning back': More and more Ukrainian women join the army to fight Russia - NPR",
       "pubDate": "Tue, 11 Nov 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Zelensky vows energy sector overhaul after $100m corruption scandal - BBC",
+      "pubDate": "Sat, 15 Nov 2025 20:26:30 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Thune: Time to move on Russia sanctions bill - Politico",
-      "pubDate": "Thu, 16 Oct 2025 18:00:30 GMT"
-    },
     {
       "title": "In a shift, White House says no plan for Trump-Putin summit - Axios",
       "pubDate": "Tue, 21 Oct 2025 16:15:30 GMT"
@@ -329,6 +329,10 @@
     {
       "title": "Trump dismisses mounting questions over Epstein links, then threatens Democratic foes with justice department investigation \u2013 live - The Guardian",
       "pubDate": "Fri, 14 Nov 2025 11:23:00 GMT"
+    },
+    {
+      "title": "How sanctions imposed by Trump are taking a toll on the International Criminal Court - PBS",
+      "pubDate": "Sat, 15 Nov 2025 22:35:24 GMT"
     }
   ],
   "Financial Markets": [
@@ -449,13 +453,13 @@
     {
       "title": "China\u2019s AI Leap: Matching U.S. Rivals in Power and Peril - WebProNews",
       "pubDate": "Fri, 14 Nov 2025 15:31:08 GMT"
+    },
+    {
+      "title": "China issues travel warning for Japan over threats to intervene in Taiwan - Al Jazeera",
+      "pubDate": "Sat, 15 Nov 2025 15:56:15 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "California Just Passed the First U.S. Frontier AI Law. Here\u2019s What It Does. - Carnegie Endowment for International Peace",
-      "pubDate": "Thu, 16 Oct 2025 20:15:00 GMT"
-    },
     {
       "title": "Instagram Unveils Teen Safety Features for A.I. Chatbots - The New York Times",
       "pubDate": "Fri, 17 Oct 2025 09:45:02 GMT"
@@ -987,10 +991,6 @@
   ],
   "National Security": [
     {
-      "title": "Qatar's planned Air Force base in Idaho is a national security crisis - MSNBC News",
-      "pubDate": "Thu, 16 Oct 2025 23:35:31 GMT"
-    },
-    {
       "title": "Top nuclear weapons agency to furlough most staff amid shutdown - Politico",
       "pubDate": "Fri, 17 Oct 2025 16:53:36 GMT"
     },
@@ -1097,6 +1097,10 @@
     {
       "title": "Another Israel-Iran war increasingly seen as just a matter of time \u2014 New York Times - The Times of Israel",
       "pubDate": "Sun, 09 Nov 2025 13:34:55 GMT"
+    },
+    {
+      "title": "Iran confirms seizure of oil tanker in the Strait of Hormuz - CBS News",
+      "pubDate": "Sat, 15 Nov 2025 12:21:33 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1295,6 +1299,10 @@
     {
       "title": "Russian alleged cyber-hacker faces extradition to US after arrest in Thailand - CNN",
       "pubDate": "Sat, 15 Nov 2025 07:49:21 GMT"
+    },
+    {
+      "title": "The Pentagon Is Spending Millions On AI Hacking From Startup Twenty - Forbes",
+      "pubDate": "Sat, 15 Nov 2025 13:00:00 GMT"
     }
   ],
   "Tesla": [
@@ -1338,10 +1346,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "Fed's Waller on board for an October rate cut, as Miran again presses for aggressive easing - Reuters",
-      "pubDate": "Thu, 16 Oct 2025 18:45:14 GMT"
-    },
     {
       "title": "Fed poised to cut rates this week, with more easing likely on tap - Reuters",
       "pubDate": "Mon, 27 Oct 2025 13:22:38 GMT"
@@ -1427,12 +1431,6 @@
       "pubDate": "Sat, 01 Nov 2025 16:47:30 GMT"
     }
   ],
-  "Physics": [
-    {
-      "title": "John Martinis and Michel Devoret win 2025 Nobel Prize in Physics - The Daily Nexus",
-      "pubDate": "Thu, 16 Oct 2025 18:00:00 GMT"
-    }
-  ],
   "Hydrogen Fuel": [
     {
       "title": "SK Energy Hydrogen Plant Explosion Claims Life - \uc870\uc120\uc77c\ubcf4",
@@ -1471,6 +1469,10 @@
     {
       "title": "Shocking jobs data resets recession bets - Yahoo Finance",
       "pubDate": "Sun, 09 Nov 2025 18:47:00 GMT"
+    },
+    {
+      "title": "A recession is ALREADY here for 23 states - laying bare the cracks in the US economy - Daily Mail",
+      "pubDate": "Sat, 15 Nov 2025 20:18:24 GMT"
     }
   ],
   "Social Media": [
@@ -1520,10 +1522,6 @@
     }
   ],
   "Terrorism": [
-    {
-      "title": "Terrorism Charges Against Antifa \u2018Cell\u2019 Show Administration\u2019s Focus on the Left - The New York Times",
-      "pubDate": "Thu, 16 Oct 2025 20:15:34 GMT"
-    },
     {
       "title": "Slovak PM Fico's attacker convicted of terrorism, jailed for 21 years - Reuters",
       "pubDate": "Tue, 21 Oct 2025 09:47:36 GMT"
