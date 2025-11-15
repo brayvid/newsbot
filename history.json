@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Building smarter AI agents: AgentCore long-term memory deep dive - Amazon Web Services",
-      "pubDate": "Wed, 15 Oct 2025 18:22:57 GMT"
-    },
-    {
       "title": "What is AI poisoning? A computer scientist explains - The Conversation",
       "pubDate": "Mon, 20 Oct 2025 02:22:00 GMT"
     },
@@ -62,10 +58,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump Administration Authorizes Covert C.I.A. Action in Venezuela - The New York Times",
-      "pubDate": "Thu, 16 Oct 2025 08:45:00 GMT"
-    },
     {
       "title": "White House Set to Announce Proposal Seeking to Make I.V.F. More Accessible - The New York Times",
       "pubDate": "Thu, 16 Oct 2025 16:49:40 GMT"
@@ -126,10 +118,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine Wants Tomahawks. Trump Has to Decide if They Would Help End the War. - The Wall Street Journal",
-      "pubDate": "Thu, 16 Oct 2025 03:00:00 GMT"
-    },
     {
       "title": "After Putin summit, Trump changed his mind on supporting Ukraine\u2019s strikes on Russian energy targets, sources say - CNN",
       "pubDate": "Thu, 16 Oct 2025 16:11:38 GMT"
@@ -279,6 +267,10 @@
     {
       "title": "Zelenskyy condemns Russia\u2019s \u2018wicked\u2019 overnight attack on Ukraine \u2013 Europe live - The Guardian",
       "pubDate": "Fri, 14 Nov 2025 08:44:00 GMT"
+    },
+    {
+      "title": "Russia Tried to Cut Ukraine\u2019s Lights. Now It\u2019s Aiming for the Heat. - The New York Times",
+      "pubDate": "Sat, 15 Nov 2025 10:00:37 GMT"
     }
   ],
   "Donald Trump": [
@@ -374,10 +366,6 @@
     }
   ],
   "China": [
-    {
-      "title": "America and China head towards mutually assured disruption - The Economist",
-      "pubDate": "Wed, 15 Oct 2025 20:24:08 GMT"
-    },
     {
       "title": "MI5 chief 'frustrated' over collapse of China spy case - BBC",
       "pubDate": "Thu, 16 Oct 2025 14:24:16 GMT"
@@ -643,14 +631,6 @@
   ],
   "US Economy": [
     {
-      "title": "Shutdown could cost US economy $15 billion a week, Treasury says - Reuters",
-      "pubDate": "Thu, 16 Oct 2025 01:58:59 GMT"
-    },
-    {
-      "title": "Why Jamie Dimon is warning of \u2018cockroaches\u2019 in the US economy - CNN",
-      "pubDate": "Thu, 16 Oct 2025 09:00:52 GMT"
-    },
-    {
       "title": "America's wealthiest shoppers are boosting spending \u2014 and the US economy \u2014 while lower earners pull back - Yahoo Finance",
       "pubDate": "Fri, 17 Oct 2025 09:00:35 GMT"
     },
@@ -751,10 +731,6 @@
   ],
   "Gaza": [
     {
-      "title": "With Truce in Place, Hamas Pursues Bloody Crackdown on Rivals in Gaza - The New York Times",
-      "pubDate": "Wed, 15 Oct 2025 18:56:21 GMT"
-    },
-    {
       "title": "LIVE: Aid \u2018critically low\u2019 in Gaza a week into ceasefire amid Israeli delay - Al Jazeera",
       "pubDate": "Fri, 17 Oct 2025 10:18:45 GMT"
     },
@@ -853,17 +829,13 @@
     {
       "title": "Hamas quietly reasserts control in Gaza as post-war talks grind on - Reuters",
       "pubDate": "Fri, 14 Nov 2025 08:31:47 GMT"
+    },
+    {
+      "title": "LIVE: Israel closely coordinated Gaza families\u2019 mystery transit to S Africa - Al Jazeera",
+      "pubDate": "Sat, 15 Nov 2025 11:32:36 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "UN agency: CO2 levels hit record high last year, causing more extreme weather - PBS",
-      "pubDate": "Wed, 15 Oct 2025 21:28:11 GMT"
-    },
-    {
-      "title": "Climate study finds overheating world will add 57 superhot days a year - Al Jazeera",
-      "pubDate": "Thu, 16 Oct 2025 07:27:51 GMT"
-    },
     {
       "title": "How global warming is turning forests into fuel for wildfires - Euronews.com",
       "pubDate": "Sat, 18 Oct 2025 13:03:51 GMT"
@@ -1061,6 +1033,10 @@
     {
       "title": "Military experts warn security hole in most AI chatbots can sow chaos - Defense News",
       "pubDate": "Mon, 10 Nov 2025 21:50:50 GMT"
+    },
+    {
+      "title": "Trump\u2019s Venezuela war threats roil Latin American leaders - The Washington Post",
+      "pubDate": "Sat, 15 Nov 2025 11:44:41 GMT"
     }
   ],
   "North Korea": [
@@ -1152,14 +1128,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "Trump says 'We're in one now' about a trade war with China - USA Today",
-      "pubDate": "Wed, 15 Oct 2025 23:18:45 GMT"
-    },
-    {
-      "title": "US-China Trade War Boils Over and Gets Personal - Bloomberg.com",
-      "pubDate": "Thu, 16 Oct 2025 11:00:12 GMT"
-    },
     {
       "title": "To hit back at the United States in their trade war, China borrows from the US playbook - Chicago Tribune",
       "pubDate": "Mon, 20 Oct 2025 01:24:34 GMT"
@@ -1267,12 +1235,10 @@
     {
       "title": "CISA Issues Alert on Samsung 0-Day RCE Flaw Actively Exploited in Attacks - GBHackers News",
       "pubDate": "Tue, 11 Nov 2025 06:53:54 GMT"
-    }
-  ],
-  "Science": [
+    },
     {
-      "title": "Breakthrough: Scientists Create 'Universal' Kidney To Match Any Blood Type - ScienceAlert",
-      "pubDate": "Thu, 16 Oct 2025 00:33:45 GMT"
+      "title": "Akira Ransomware Targets Over 250 Organizations, Extracts $42 Million in Ransom Payments \u2013 New CISA Report - CyberSecurityNews",
+      "pubDate": "Sat, 15 Nov 2025 06:09:37 GMT"
     }
   ],
   "Elon Musk": [
@@ -1329,12 +1295,10 @@
     {
       "title": "Chinese hackers probe Australian, US cyber infrastructure - The Jerusalem Post",
       "pubDate": "Wed, 12 Nov 2025 04:03:41 GMT"
-    }
-  ],
-  "Space Exploration": [
+    },
     {
-      "title": "Moon's largest crater harbors secret on south pole where NASA astronauts will land - USA Today",
-      "pubDate": "Thu, 16 Oct 2025 09:09:07 GMT"
+      "title": "Security News This Week: A Major Leak Spills a Chinese Hacking Contractor\u2019s Tools and Targets - WIRED",
+      "pubDate": "Sat, 15 Nov 2025 11:30:00 GMT"
     }
   ],
   "Tesla": [
@@ -1383,6 +1347,10 @@
     {
       "title": "Russia pounds Ukraine with drones and missiles, killing eight and hitting energy sites - Reuters",
       "pubDate": "Fri, 14 Nov 2025 12:46:10 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: mass production of Ukrainian \u2018Octopus\u2019 interceptor drones begins - The Guardian",
+      "pubDate": "Sat, 15 Nov 2025 04:26:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1545,6 +1513,10 @@
     {
       "title": "Bird Flu Roars Back: What It Means for Thanksgiving - Think Global Health",
       "pubDate": "Fri, 24 Oct 2025 11:57:05 GMT"
+    },
+    {
+      "title": "New COP30 report urges urgent action to protect health in a warming world - News-Medical",
+      "pubDate": "Sat, 15 Nov 2025 02:39:00 GMT"
     }
   ],
   "Astronomy": [
@@ -1554,10 +1526,6 @@
     }
   ],
   "Geopolitics": [
-    {
-      "title": "Potentially \u2018Catastrophic\u2019 Breach of Cyber Firm Blamed on China - Bloomberg.com",
-      "pubDate": "Thu, 16 Oct 2025 02:00:00 GMT"
-    },
     {
       "title": "Rare earths: Key metals at heart of tech, geopolitical rivalry | Daily Sabah - Daily Sabah",
       "pubDate": "Sun, 19 Oct 2025 08:26:00 GMT"
@@ -1593,12 +1561,6 @@
     {
       "title": "UN\u2019s Albanese presents blistering report on complicity in Gaza genocide - Al Jazeera",
       "pubDate": "Tue, 28 Oct 2025 17:39:52 GMT"
-    }
-  ],
-  "AI": [
-    {
-      "title": "Milestone for AI in science: Google AI generates cancer hypothesis later validated by scientists, says Su - The Times of India",
-      "pubDate": "Thu, 16 Oct 2025 08:19:00 GMT"
     }
   ],
   "Earth's Atmosphere": [
