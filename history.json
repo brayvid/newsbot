@@ -119,10 +119,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Trump puts Russia on notice over Ukraine as two leaders prepare to meet - CNBC",
-      "pubDate": "Fri, 17 Oct 2025 08:18:39 GMT"
-    },
-    {
       "title": "Ukraine war briefing: Repairs begin in bid to restore power to Zaporizhzhia nuclear plant - The Guardian",
       "pubDate": "Sun, 19 Oct 2025 00:53:00 GMT"
     },
@@ -337,10 +333,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "FTSE 100 heading for worst day since April as US regional bank worries rock markets \u2013 business live - The Guardian",
-      "pubDate": "Fri, 17 Oct 2025 09:54:47 GMT"
-    },
-    {
       "title": "Stock Market News, Oct. 21, 2025: Gold Suffers Biggest Drop in More Than a Decade - The Wall Street Journal",
       "pubDate": "Wed, 22 Oct 2025 00:45:00 GMT"
     },
@@ -366,10 +358,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China Ousts Top Military Official as Xi Widens Corruption Purge - Bloomberg.com",
-      "pubDate": "Fri, 17 Oct 2025 09:38:58 GMT"
-    },
     {
       "title": "Europe slowly awakens to its entry into US-China wars - Financial Times",
       "pubDate": "Sat, 18 Oct 2025 10:00:03 GMT"
@@ -457,13 +445,13 @@
     {
       "title": "China issues travel warning for Japan over threats to intervene in Taiwan - Al Jazeera",
       "pubDate": "Sat, 15 Nov 2025 15:56:15 GMT"
+    },
+    {
+      "title": "China sends coast guard to Senkaku islands amid row with Japan - The Guardian",
+      "pubDate": "Sun, 16 Nov 2025 07:03:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Instagram Unveils Teen Safety Features for A.I. Chatbots - The New York Times",
-      "pubDate": "Fri, 17 Oct 2025 09:45:02 GMT"
-    },
     {
       "title": "Meta Gives Parents Power to Mute AI Chatbots After Safety Backlash \u2014 What to Expect? - inkl",
       "pubDate": "Sun, 19 Oct 2025 07:01:18 GMT"
@@ -623,10 +611,6 @@
   ],
   "US Economy": [
     {
-      "title": "America's wealthiest shoppers are boosting spending \u2014 and the US economy \u2014 while lower earners pull back - Yahoo Finance",
-      "pubDate": "Fri, 17 Oct 2025 09:00:35 GMT"
-    },
-    {
       "title": "Trump immigration policies would slash workforce estimate by 15.7 million and slow GDP growth by a third over the next decade, study says - Fortune",
       "pubDate": "Tue, 21 Oct 2025 08:03:00 GMT"
     },
@@ -722,10 +706,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "LIVE: Aid \u2018critically low\u2019 in Gaza a week into ceasefire amid Israeli delay - Al Jazeera",
-      "pubDate": "Fri, 17 Oct 2025 10:18:45 GMT"
-    },
     {
       "title": "Israel-Gaza live updates: Crews search for bodies of Israeli hostages - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Fri, 17 Oct 2025 19:23:00 GMT"
@@ -951,6 +931,10 @@
     {
       "title": "FBI thwarts potential Halloween weekend terror attack in Michigan - ABC News",
       "pubDate": "Fri, 31 Oct 2025 20:26:15 GMT"
+    },
+    {
+      "title": "FBI reveals ISIS terror attack plan on Chicago Pride Parade - The Jerusalem Post",
+      "pubDate": "Sun, 16 Nov 2025 04:16:03 GMT"
     }
   ],
   "Technology": [
@@ -1101,6 +1085,10 @@
     {
       "title": "Iran confirms seizure of oil tanker in the Strait of Hormuz - CBS News",
       "pubDate": "Sat, 15 Nov 2025 12:21:33 GMT"
+    },
+    {
+      "title": "Iran's foreign minister says the nation is no longer enriching uranium at any site in the country - NPR",
+      "pubDate": "Sun, 16 Nov 2025 11:00:38 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1371,6 +1359,10 @@
     {
       "title": "ICE Arrests Fugitive Murderer Released into American Neighborhoods by the Biden Administration - Homeland Security (.gov)",
       "pubDate": "Tue, 11 Nov 2025 19:01:07 GMT"
+    },
+    {
+      "title": "Homeland Security Department Shifts Its Focus to Immigration Crackdown - The New York Times",
+      "pubDate": "Sun, 16 Nov 2025 10:00:22 GMT"
     }
   ],
   "Microsoft": [
@@ -1695,6 +1687,10 @@
     {
       "title": "Trump Says U.S. to Restart Nuclear Weapons Testing - Time Magazine",
       "pubDate": "Thu, 30 Oct 2025 04:02:10 GMT"
+    },
+    {
+      "title": "Last nuclear treaty between US and Russia nears expiration as Trump and Putin trade testing threats - CNN",
+      "pubDate": "Sun, 16 Nov 2025 10:00:01 GMT"
     }
   ],
   "Vladimir Putin": [
@@ -1709,6 +1705,10 @@
     {
       "title": "Vladimir Putin did not order nuclear test, Russia reiterates - The Times of India",
       "pubDate": "Sun, 09 Nov 2025 16:02:00 GMT"
+    },
+    {
+      "title": "Russia readies nuclear-capable Burevestnik missile, NATO sounds alarm - Euronews.com",
+      "pubDate": "Sun, 16 Nov 2025 11:34:50 GMT"
     }
   ],
   "War and Unrest": [
@@ -1773,6 +1773,12 @@
     {
       "title": "How markets could topple the global economy - The Economist",
       "pubDate": "Thu, 13 Nov 2025 11:35:17 GMT"
+    }
+  ],
+  "United Nations Security Council": [
+    {
+      "title": "US draft at UN Security Council Includes 'Palestinian State' leading to Smotrich attack on Netanyahu - Ynetnews",
+      "pubDate": "Sun, 16 Nov 2025 00:51:24 GMT"
     }
   ]
 }
