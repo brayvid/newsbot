@@ -275,6 +275,10 @@
     {
       "title": "BRICS Shift Deepens: Russia Sets Date for First Chinese Yuan Bonds - CryptoDnes.bg",
       "pubDate": "Sun, 16 Nov 2025 16:33:09 GMT"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Kyiv to buy 100 French fighter jets in historic deal after Zelensky-Macron talks - The Independent",
+      "pubDate": "Mon, 17 Nov 2025 11:00:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -366,10 +370,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Europe slowly awakens to its entry into US-China wars - Financial Times",
-      "pubDate": "Sat, 18 Oct 2025 10:00:03 GMT"
-    },
     {
       "title": "US-China trade dispute over a little-known Dutch chipmaker could halt car production and send prices higher - CNN",
       "pubDate": "Sun, 19 Oct 2025 07:00:51 GMT"
@@ -569,10 +569,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs - The Hacker News",
-      "pubDate": "Sat, 18 Oct 2025 11:41:00 GMT"
-    },
-    {
       "title": "China accuses US of cyber breaches at national time centre - Reuters",
       "pubDate": "Sun, 19 Oct 2025 04:12:00 GMT"
     },
@@ -718,10 +714,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel kills 11 Palestinian family members in Gaza\u2019s deadliest truce breach - Al Jazeera",
-      "pubDate": "Sat, 18 Oct 2025 07:13:37 GMT"
-    },
     {
       "title": "Gaza ceasefire live: Trump\u2019s envoys arrive in Israel amid scramble to shore up fragile truce \u2013 Middle East crisis live - The Guardian",
       "pubDate": "Mon, 20 Oct 2025 06:38:00 GMT"
@@ -1017,6 +1009,10 @@
     {
       "title": "Trump\u2019s Venezuela war threats roil Latin American leaders - The Washington Post",
       "pubDate": "Sat, 15 Nov 2025 11:44:41 GMT"
+    },
+    {
+      "title": "Narco-Terrorism in the Tri-Border Area: A Hidden Threat to U.S. National Security - Homeland Security Today",
+      "pubDate": "Mon, 17 Nov 2025 11:30:57 GMT"
     }
   ],
   "North Korea": [
@@ -1050,10 +1046,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran announces official end to 10-year-old nuclear agreement - The Guardian",
-      "pubDate": "Sat, 18 Oct 2025 10:25:00 GMT"
-    },
     {
       "title": "Analysis: Iran threatens nuclear weaponization ambitions - Long War Journal",
       "pubDate": "Sat, 18 Oct 2025 16:31:40 GMT"
@@ -1447,6 +1439,10 @@
     {
       "title": "A recession is ALREADY here for 23 states - laying bare the cracks in the US economy - Daily Mail",
       "pubDate": "Sat, 15 Nov 2025 20:18:24 GMT"
+    },
+    {
+      "title": "The US isn't in a recession, but hiring is looking a lot like after the Great Recession - Business Insider",
+      "pubDate": "Mon, 17 Nov 2025 09:30:00 GMT"
     }
   ],
   "Social Media": [
@@ -1540,10 +1536,6 @@
     }
   ],
   "Military Intelligence": [
-    {
-      "title": "EXCLUSIVE: Nigerian Defence Intelligence Detains Brigadier-General, Other Officers Over Alleged Coup Plot To Overthrow President Tinubu - Sahara Reporters",
-      "pubDate": "Sat, 18 Oct 2025 08:07:02 GMT"
-    },
     {
       "title": "Former Taiwan Intel Chief Warns of Deep CCP Infiltration in Government, Military, Industry - Vision Times",
       "pubDate": "Mon, 03 Nov 2025 14:13:28 GMT"
@@ -1653,6 +1645,10 @@
     {
       "title": "Defense Intelligence Agency Warns of Imminent Nuclear Test - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Wed, 05 Nov 2025 05:15:00 GMT"
+    },
+    {
+      "title": "Ukraine Defense Intelligence Exposes Japan, China, Taiwan Machines in Russian Weapons Production - UNITED24 Media",
+      "pubDate": "Mon, 17 Nov 2025 10:38:04 GMT"
     }
   ],
   "Public Health": [
@@ -1707,6 +1703,10 @@
     {
       "title": "Russia readies nuclear-capable Burevestnik missile, NATO sounds alarm - Euronews.com",
       "pubDate": "Sun, 16 Nov 2025 11:34:50 GMT"
+    },
+    {
+      "title": "Putin ally Viktor Orban claims Ukraine has \u2018no chance\u2019 of winning war - The Independent",
+      "pubDate": "Mon, 17 Nov 2025 10:53:00 GMT"
     }
   ],
   "War and Unrest": [
@@ -1729,6 +1729,10 @@
     {
       "title": "Microsoft CEO Doesn\u2019t Want to Buy NVIDIA\u2019s AI GPUs \u201cBeyond One Generation,\u201d Hints at a Compute Glut Driven by Energy Constraints - Wccftech",
       "pubDate": "Sat, 01 Nov 2025 16:06:00 GMT"
+    },
+    {
+      "title": "Tech war: Huawei bets on AI tech to squeeze more performance from GPUs - South China Morning Post",
+      "pubDate": "Mon, 17 Nov 2025 06:00:15 GMT"
     }
   ],
   "Democracy": [
@@ -1795,6 +1799,12 @@
     {
       "title": "Senators\u2019 surveillance payday exposes flawed privacy laws - The Hill",
       "pubDate": "Sun, 16 Nov 2025 19:00:00 GMT"
+    }
+  ],
+  "Rain Forests": [
+    {
+      "title": "Australia's rainforests releasing more CO2 than they absorb: Study | This could worsen global warming significantly | Inshorts - Inshorts",
+      "pubDate": "Mon, 17 Nov 2025 05:13:53 GMT"
     }
   ]
 }
