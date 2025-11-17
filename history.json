@@ -279,10 +279,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump Wavers as Zelensky Seeks Long-Range Missiles to Fight Russia: Live Updates - The New York Times",
-      "pubDate": "Sat, 18 Oct 2025 03:53:00 GMT"
-    },
-    {
       "title": "Putin demanded Ukraine surrender key territory in call with Trump - The Washington Post",
       "pubDate": "Sun, 19 Oct 2025 03:12:54 GMT"
     },
@@ -723,10 +719,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel-Gaza live updates: Crews search for bodies of Israeli hostages - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Fri, 17 Oct 2025 19:23:00 GMT"
-    },
-    {
       "title": "Israel kills 11 Palestinian family members in Gaza\u2019s deadliest truce breach - Al Jazeera",
       "pubDate": "Sat, 18 Oct 2025 07:13:37 GMT"
     },
@@ -1029,10 +1021,6 @@
   ],
   "North Korea": [
     {
-      "title": "South Korea to deploy its most powerful non-nuclear \u2018bunker buster\u2019 missile, Hyunmoo-5 that can reach Chin - The Economic Times",
-      "pubDate": "Sat, 18 Oct 2025 02:43:06 GMT"
-    },
-    {
       "title": "North Korea fires ballistic missiles as Trump prepares for Asia trip - Reuters",
       "pubDate": "Wed, 22 Oct 2025 05:10:01 GMT"
     },
@@ -1105,6 +1093,10 @@
     {
       "title": "Iran's foreign minister says the nation is no longer enriching uranium at any site in the country - NPR",
       "pubDate": "Sun, 16 Nov 2025 11:00:38 GMT"
+    },
+    {
+      "title": "Iran\u2019s Water Crisis: When Drought Hits Harder Than Sanctions and Bombs - Forbes",
+      "pubDate": "Sun, 16 Nov 2025 18:14:36 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1185,10 +1177,6 @@
   ],
   "US Congress": [
     {
-      "title": "Government shutdown becomes third-longest in history with no end in sight on Day 17 - CBS News",
-      "pubDate": "Fri, 17 Oct 2025 20:49:02 GMT"
-    },
-    {
       "title": "Democrats face moment of truth as shutdown coalition frays - Politico",
       "pubDate": "Tue, 28 Oct 2025 14:31:32 GMT"
     },
@@ -1208,10 +1196,6 @@
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "Breach at US-based cybersecurity provider F5 blamed on China, sources say - Reuters",
-      "pubDate": "Fri, 17 Oct 2025 21:43:16 GMT"
-    },
     {
       "title": "CISA Warns of Windows SMB Vulnerability Actively Exploited in Attacks - CybersecurityNews",
       "pubDate": "Tue, 21 Oct 2025 02:42:00 GMT"
@@ -1258,10 +1242,6 @@
     }
   ],
   "World News": [
-    {
-      "title": "3 Afghan Cricketers Among 8 Dead In Pakistani Airstrike Near Border - NDTV",
-      "pubDate": "Sat, 18 Oct 2025 01:28:00 GMT"
-    },
     {
       "title": "Argentina: 'Huge' explosions rock industrial complex - Times of India",
       "pubDate": "Sat, 15 Nov 2025 17:40:00 GMT"
@@ -1435,17 +1415,7 @@
       "pubDate": "Sat, 01 Nov 2025 16:47:30 GMT"
     }
   ],
-  "Hydrogen Fuel": [
-    {
-      "title": "SK Energy Hydrogen Plant Explosion Claims Life - \uc870\uc120\uc77c\ubcf4",
-      "pubDate": "Sat, 18 Oct 2025 03:19:08 GMT"
-    }
-  ],
   "Recession": [
-    {
-      "title": "Canada faces tariff-induced recession as Trump moves hit economy hard despite Carney's pledge - The Economic Times",
-      "pubDate": "Fri, 17 Oct 2025 20:36:53 GMT"
-    },
     {
       "title": "Bond Market Misfires With Warning of a Recession That Never Came - Bloomberg.com",
       "pubDate": "Fri, 24 Oct 2025 17:44:35 GMT"
@@ -1541,6 +1511,10 @@
     {
       "title": "Terror plot arrests reveal \u2018more dangerous\u2019 online pathway to ISIS radicalization in America - CNN",
       "pubDate": "Sun, 16 Nov 2025 10:00:02 GMT"
+    },
+    {
+      "title": "State Department to designate Venezuelan cartel as a foreign terrorist organization - CNN",
+      "pubDate": "Mon, 17 Nov 2025 02:06:00 GMT"
     }
   ],
   "Investment": [
@@ -1619,6 +1593,10 @@
     {
       "title": "China powers global growth in electricity storage - Financial Times",
       "pubDate": "Tue, 21 Oct 2025 11:00:11 GMT"
+    },
+    {
+      "title": "EBRD Grants \u20ac22.3m To Power One To Build 36.8 MW Gas-Piston Plants And 31.5 MW Battery Storage To Boost Ukraine\u2019s Energy Security Amid War Damage - SolarQuarter",
+      "pubDate": "Mon, 17 Nov 2025 05:40:21 GMT"
     }
   ],
   "Ethics": [
@@ -1799,6 +1777,24 @@
     {
       "title": "US draft at UN Security Council Includes 'Palestinian State' leading to Smotrich attack on Netanyahu - Ynetnews",
       "pubDate": "Sun, 16 Nov 2025 00:51:24 GMT"
+    }
+  ],
+  "Net Zero Emissions": [
+    {
+      "title": "The climate crisis is expensive: net zero is cheaper for Australia than not doing more - The Guardian",
+      "pubDate": "Sun, 16 Nov 2025 21:57:00 GMT"
+    }
+  ],
+  "Political Corruption": [
+    {
+      "title": "Mexico City Joins Michoacan, Puebla, Sinaloa, Jalisco, Oaxaca and More in Escalating Protests Against Government Corruption and Public Insecurity Significantly Impacting Tourists and Shaking Mexico\u2019s Travel Industry - Travel And Tour World",
+      "pubDate": "Mon, 17 Nov 2025 04:55:30 GMT"
+    }
+  ],
+  "Privacy": [
+    {
+      "title": "Senators\u2019 surveillance payday exposes flawed privacy laws - The Hill",
+      "pubDate": "Sun, 16 Nov 2025 19:00:00 GMT"
     }
   ]
 }
