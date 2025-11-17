@@ -55,6 +55,10 @@
     {
       "title": "Anthropic Says Chinese Hackers Used Its A.I. in Online Attack - The New York Times",
       "pubDate": "Fri, 14 Nov 2025 09:50:30 GMT"
+    },
+    {
+      "title": "Jeff Bezos Creates A.I. Start-Up Where He Will Be Co-Chief Executive - The New York Times",
+      "pubDate": "Mon, 17 Nov 2025 09:15:40 GMT"
     }
   ],
   "US Politics": [
@@ -565,6 +569,10 @@
     {
       "title": "How hackers exposed personal info of 1.7M students in NY, prompting data breach settlement - LoHud.com",
       "pubDate": "Tue, 11 Nov 2025 08:02:39 GMT"
+    },
+    {
+      "title": "DoorDash confirms data breach impacting users\u2019 phone numbers and physical addresses - TechCrunch",
+      "pubDate": "Mon, 17 Nov 2025 15:27:38 GMT"
     }
   ],
   "Cybersecurity": [
@@ -809,10 +817,6 @@
   ],
   "Climate Change": [
     {
-      "title": "How global warming is turning forests into fuel for wildfires - Euronews.com",
-      "pubDate": "Sat, 18 Oct 2025 13:03:51 GMT"
-    },
-    {
       "title": "China, India and Brazil set to steer global climate change agenda at Cop30 - South China Morning Post",
       "pubDate": "Sun, 19 Oct 2025 08:00:16 GMT"
     },
@@ -919,6 +923,10 @@
     {
       "title": "COP30: Climate crisis is a health crisis, WHO warns as philanthropies pledge $300m for solutions - UN News",
       "pubDate": "Fri, 14 Nov 2025 16:58:50 GMT"
+    },
+    {
+      "title": "Cop30: calls for new urgency to talks as studies show global warming may reach 2.5C \u2013 latest updates - The Guardian",
+      "pubDate": "Mon, 17 Nov 2025 16:37:31 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1013,6 +1021,10 @@
     {
       "title": "Narco-Terrorism in the Tri-Border Area: A Hidden Threat to U.S. National Security - Homeland Security Today",
       "pubDate": "Mon, 17 Nov 2025 11:30:57 GMT"
+    },
+    {
+      "title": "China rapidly expands nuclear test site as Trump revives Cold War tension - The Washington Post",
+      "pubDate": "Mon, 17 Nov 2025 17:31:59 GMT"
     }
   ],
   "North Korea": [
@@ -1046,10 +1058,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Analysis: Iran threatens nuclear weaponization ambitions - Long War Journal",
-      "pubDate": "Sat, 18 Oct 2025 16:31:40 GMT"
-    },
     {
       "title": "Iran's Khamenei rejects Trump offer of talks, denies US destroyed Iranian nuclear capabilities - Reuters",
       "pubDate": "Mon, 20 Oct 2025 23:57:12 GMT"
@@ -1103,6 +1111,10 @@
     {
       "title": "US Supreme Court rejects bid to overturn same-sex marriage right - Reuters",
       "pubDate": "Mon, 10 Nov 2025 17:57:11 GMT"
+    },
+    {
+      "title": "Supreme Court to review US government power to limit asylum processing - Reuters",
+      "pubDate": "Mon, 17 Nov 2025 15:04:30 GMT"
     }
   ],
   "United Kingdom": [
@@ -1379,6 +1391,10 @@
     {
       "title": "EU considers more flexible climate target in hunt for deal, draft shows - Reuters",
       "pubDate": "Sun, 26 Oct 2025 17:50:38 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s Cash Is Running Low, and Europe Has No Good Plan B - The New York Times",
+      "pubDate": "Mon, 17 Nov 2025 16:08:55 GMT"
     }
   ],
   "NVIDIA": [
@@ -1453,12 +1469,6 @@
     {
       "title": "Denmark\u2019s government aims to ban access to social media for children under 15 - AP News",
       "pubDate": "Fri, 07 Nov 2025 19:21:00 GMT"
-    }
-  ],
-  "World Economy": [
-    {
-      "title": "Bailey warns of long-lasting growth drag from Brexit - Financial Times",
-      "pubDate": "Sat, 18 Oct 2025 14:36:11 GMT"
     }
   ],
   "Global Health": [
@@ -1805,6 +1815,12 @@
     {
       "title": "Australia's rainforests releasing more CO2 than they absorb: Study | This could worsen global warming significantly | Inshorts - Inshorts",
       "pubDate": "Mon, 17 Nov 2025 05:13:53 GMT"
+    }
+  ],
+  "Mars": [
+    {
+      "title": "Scientist Say They\u2019ve Found Caves on Mars That May Contain Life - Futurism",
+      "pubDate": "Mon, 17 Nov 2025 14:26:05 GMT"
     }
   ]
 }
