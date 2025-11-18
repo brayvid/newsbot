@@ -59,6 +59,10 @@
     {
       "title": "Jeff Bezos Creates A.I. Start-Up Where He Will Be Co-Chief Executive - The New York Times",
       "pubDate": "Mon, 17 Nov 2025 09:15:40 GMT"
+    },
+    {
+      "title": "Google boss Sundar Pichai warns 'no company immune' if AI bubble bursts - BBC",
+      "pubDate": "Tue, 18 Nov 2025 05:02:04 GMT"
     }
   ],
   "US Politics": [
@@ -134,10 +138,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine war briefing: Repairs begin in bid to restore power to Zaporizhzhia nuclear plant - The Guardian",
-      "pubDate": "Sun, 19 Oct 2025 00:53:00 GMT"
-    },
     {
       "title": "European leaders near deal to use frozen Russian assets for Ukraine - The Guardian",
       "pubDate": "Mon, 20 Oct 2025 04:00:00 GMT"
@@ -295,13 +295,13 @@
     {
       "title": "Senate to move on Trump-backed Russia sanctions, Graham says - Politico",
       "pubDate": "Mon, 17 Nov 2025 18:23:40 GMT"
+    },
+    {
+      "title": "Polish Authorities Say Russia Is Likely Behind Railway Explosion - Bloomberg.com",
+      "pubDate": "Tue, 18 Nov 2025 11:23:34 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Putin demanded Ukraine surrender key territory in call with Trump - The Washington Post",
-      "pubDate": "Sun, 19 Oct 2025 03:12:54 GMT"
-    },
     {
       "title": "Zelenskyy calls for more US Patriot air defences after Trump again sides with Putin - The Guardian",
       "pubDate": "Mon, 20 Oct 2025 09:44:00 GMT"
@@ -357,6 +357,10 @@
     {
       "title": "How sanctions imposed by Trump are taking a toll on the International Criminal Court - PBS",
       "pubDate": "Sat, 15 Nov 2025 22:35:24 GMT"
+    },
+    {
+      "title": "The prospect of an embarrassing defeat convinced Trump to reverse course on Epstein files - CNN",
+      "pubDate": "Tue, 18 Nov 2025 01:12:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -390,10 +394,6 @@
     }
   ],
   "China": [
-    {
-      "title": "US-China trade dispute over a little-known Dutch chipmaker could halt car production and send prices higher - CNN",
-      "pubDate": "Sun, 19 Oct 2025 07:00:51 GMT"
-    },
     {
       "title": "Female scientist blends empathy and ethics in algorithms - China Daily",
       "pubDate": "Mon, 20 Oct 2025 01:09:00 GMT"
@@ -488,10 +488,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Meta Gives Parents Power to Mute AI Chatbots After Safety Backlash \u2014 What to Expect? - inkl",
-      "pubDate": "Sun, 19 Oct 2025 07:01:18 GMT"
-    },
     {
       "title": "Anthropic Partners with US Gov on AI Tool to Block Nuclear Queries - WebProNews",
       "pubDate": "Mon, 20 Oct 2025 16:55:09 GMT"
@@ -600,10 +596,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "China accuses US of cyber breaches at national time centre - Reuters",
-      "pubDate": "Sun, 19 Oct 2025 04:12:00 GMT"
-    },
     {
       "title": "Social engineering gains ground as preferred method of initial access - Cybersecurity Dive",
       "pubDate": "Tue, 21 Oct 2025 15:39:40 GMT"
@@ -841,14 +833,6 @@
   ],
   "Climate Change": [
     {
-      "title": "China, India and Brazil set to steer global climate change agenda at Cop30 - South China Morning Post",
-      "pubDate": "Sun, 19 Oct 2025 08:00:16 GMT"
-    },
-    {
-      "title": "Three Women in Alaska Collaborate on an Exhibit About Climate Change - The New York Times",
-      "pubDate": "Sun, 19 Oct 2025 09:00:19 GMT"
-    },
-    {
       "title": "Child Care Professionals Are on the Front Lines as Climate Change Risks Children\u2019s Health and Development - Center for American Progress",
       "pubDate": "Tue, 21 Oct 2025 13:01:13 GMT"
     },
@@ -951,6 +935,10 @@
     {
       "title": "Cop30: calls for new urgency to talks as studies show global warming may reach 2.5C \u2013 latest updates - The Guardian",
       "pubDate": "Mon, 17 Nov 2025 16:37:31 GMT"
+    },
+    {
+      "title": "A Landmark Court Ruling Looms Over U.S. Absence at COP30 - Inside Climate News",
+      "pubDate": "Tue, 18 Nov 2025 10:00:00 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1311,6 +1299,10 @@
     {
       "title": "The Pentagon Is Spending Millions On AI Hacking From Startup Twenty - Forbes",
       "pubDate": "Sat, 15 Nov 2025 13:00:00 GMT"
+    },
+    {
+      "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability - The Hacker News",
+      "pubDate": "Tue, 18 Nov 2025 04:44:00 GMT"
     }
   ],
   "Tesla": [
@@ -1320,10 +1312,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Ukrainian drones strike major Russian gas plant - The Hill",
-      "pubDate": "Sun, 19 Oct 2025 09:45:00 GMT"
-    },
     {
       "title": "Blackouts hit Russia's Belgorod as Ukrainian drone attacks surge - BBC",
       "pubDate": "Thu, 23 Oct 2025 06:19:23 GMT"
@@ -1383,6 +1371,10 @@
     {
       "title": "Homeland Security Department Shifts Its Focus to Immigration Crackdown - The New York Times",
       "pubDate": "Sun, 16 Nov 2025 10:00:22 GMT"
+    },
+    {
+      "title": "Social Security Data Is Openly Being Shared With DHS to Target Immigrants - WIRED",
+      "pubDate": "Tue, 18 Nov 2025 11:00:00 GMT"
     }
   ],
   "Microsoft": [
@@ -1425,12 +1417,6 @@
     {
       "title": "Nvidia Is First Company to Top $5 Trillion in Market Value Amid AI Boom - The New York Times",
       "pubDate": "Fri, 31 Oct 2025 01:45:00 GMT"
-    }
-  ],
-  "Battery Electric Vehicle": [
-    {
-      "title": "Solid-State Battery Breakthrough Paves Way for Mass EV Adoption - Zoom Bangla News",
-      "pubDate": "Sun, 19 Oct 2025 10:19:21 GMT"
     }
   ],
   "Health": [
@@ -1521,10 +1507,6 @@
   ],
   "Geopolitics": [
     {
-      "title": "Rare earths: Key metals at heart of tech, geopolitical rivalry | Daily Sabah - Daily Sabah",
-      "pubDate": "Sun, 19 Oct 2025 08:26:00 GMT"
-    },
-    {
       "title": "Russia\u2019s Burevestnik: A Geopolitical Game-Changer? \u2013 Analysis - Eurasia Review",
       "pubDate": "Wed, 29 Oct 2025 00:40:19 GMT"
     }
@@ -1576,10 +1558,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "Breakthrough cancer therapy stops tumor growth without harming healthy cells - Science Daily",
-      "pubDate": "Sun, 19 Oct 2025 05:53:03 GMT"
-    },
     {
       "title": "COVID-19 mRNA vaccines can trigger the immune system to recognize and kill cancer, research finds - Live Science",
       "pubDate": "Sat, 25 Oct 2025 13:00:00 GMT"
@@ -1649,6 +1627,10 @@
     {
       "title": "Senate holds rare Saturday session aimed at ending government shutdown, will reconvene Sunday - CBS News",
       "pubDate": "Sun, 09 Nov 2025 05:07:14 GMT"
+    },
+    {
+      "title": "Democrats' bill would strip provision from funding bill that allowed senators to sue over phone records - abcnews.go.com",
+      "pubDate": "Tue, 18 Nov 2025 10:22:09 GMT"
     }
   ],
   "Central Intelligence Agency": [
