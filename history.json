@@ -67,13 +67,13 @@
     {
       "title": "Google Unveils Gemini's Next Generation, Aiming to Turn Its Search Engine Into a 'Thought Partner' - U.S. News & World Report",
       "pubDate": "Tue, 18 Nov 2025 16:31:00 GMT"
+    },
+    {
+      "title": "Harnessing artificial intelligence to advance CRISPR-based genome editing technologies - Nature",
+      "pubDate": "Tue, 18 Nov 2025 13:47:48 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump mulls invoking the Insurrection Act and signals he\u2019ll send troops to San Francisco - The Independent",
-      "pubDate": "Sun, 19 Oct 2025 18:45:00 GMT"
-    },
     {
       "title": "Republican senators indicate they won\u2019t confirm Trump special counsel pick after \u2018Nazi streak\u2019 comments \u2013 US politics live - The Guardian",
       "pubDate": "Tue, 21 Oct 2025 09:55:00 GMT"
@@ -209,6 +209,10 @@
     {
       "title": "\u2018Dire situation\u2019: Russia gains ground in Ukraine\u2019s Zaporizhia region - Al Jazeera",
       "pubDate": "Tue, 18 Nov 2025 11:28:03 GMT"
+    },
+    {
+      "title": "Ukraine hits targets in Russia with U.S.-supplied ATACMS missiles, military says - NBC News",
+      "pubDate": "Tue, 18 Nov 2025 22:33:48 GMT"
     }
   ],
   "Russia": [
@@ -307,6 +311,10 @@
     {
       "title": "Polish Authorities Say Russia Is Likely Behind Railway Explosion - Bloomberg.com",
       "pubDate": "Tue, 18 Nov 2025 11:23:34 GMT"
+    },
+    {
+      "title": "Ukraine war live: Nato member evacuates villages after Putin attack - The Independent",
+      "pubDate": "Tue, 18 Nov 2025 23:00:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -497,6 +505,10 @@
     {
       "title": "We Now Have a Better Picture of China\u2019s Global Lending Spree - The New York Times",
       "pubDate": "Tue, 18 Nov 2025 06:00:08 GMT"
+    },
+    {
+      "title": "Chinese spies using LinkedIn to target British lawmakers, MI5 warns - CNN",
+      "pubDate": "Tue, 18 Nov 2025 18:13:20 GMT"
     }
   ],
   "AI Safety": [
@@ -575,13 +587,13 @@
     {
       "title": "'I'm deeply uncomfortable': Anthropic CEO warns that a cadre of AI leaders, including himself, should not be in charge of the technology\u2019s future - Fortune",
       "pubDate": "Mon, 17 Nov 2025 18:43:00 GMT"
+    },
+    {
+      "title": "The UK\u2019s Contribution to Developing the International Governance of AI Safety and How its Policy Took a Sharp Turn - Opinio Juris",
+      "pubDate": "Tue, 18 Nov 2025 13:02:38 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "MoD probes claims Russian hackers stole files on bases - BBC",
-      "pubDate": "Sun, 19 Oct 2025 23:35:41 GMT"
-    },
     {
       "title": "Google Contractor Breaches Security, Steals Play Store Files - WebProNews",
       "pubDate": "Sun, 26 Oct 2025 14:00:20 GMT"
@@ -841,6 +853,10 @@
     {
       "title": "LIVE: Israel closely coordinated Gaza families\u2019 mystery transit to S Africa - Al Jazeera",
       "pubDate": "Sat, 15 Nov 2025 11:32:36 GMT"
+    },
+    {
+      "title": "Israel-Gaza live updates: Mixed responses to UN vote approving Trump peace plan - abcnews.go.com",
+      "pubDate": "Tue, 18 Nov 2025 20:45:00 GMT"
     }
   ],
   "Climate Change": [
@@ -1011,6 +1027,10 @@
     {
       "title": "AI pioneer Yann Le Cun is quitting Meta over the future of intelligence - France 24",
       "pubDate": "Sun, 16 Nov 2025 15:16:10 GMT"
+    },
+    {
+      "title": "How Superintelligent AI Could Upend Work and Politics - The Ringer",
+      "pubDate": "Tue, 18 Nov 2025 22:27:58 GMT"
     }
   ],
   "National Security": [
