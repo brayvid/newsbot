@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "What is AI poisoning? A computer scientist explains - The Conversation",
-      "pubDate": "Mon, 20 Oct 2025 02:22:00 GMT"
-    },
-    {
       "title": "AI Data Centers Create Fury From Mexico to Ireland - The New York Times",
       "pubDate": "Mon, 20 Oct 2025 19:00:09 GMT"
     },
@@ -142,10 +138,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "European leaders near deal to use frozen Russian assets for Ukraine - The Guardian",
-      "pubDate": "Mon, 20 Oct 2025 04:00:00 GMT"
-    },
     {
       "title": "Europe 'ready to deploy' troops to Ukraine if ceasefire secured, says Healey - BBC",
       "pubDate": "Mon, 20 Oct 2025 21:54:18 GMT"
@@ -411,10 +403,6 @@
   ],
   "China": [
     {
-      "title": "Female scientist blends empathy and ethics in algorithms - China Daily",
-      "pubDate": "Mon, 20 Oct 2025 01:09:00 GMT"
-    },
-    {
       "title": "Trump Lists Top Demands on China Before Trade Talks Resume - Bloomberg.com",
       "pubDate": "Mon, 20 Oct 2025 08:54:52 GMT"
     },
@@ -509,6 +497,10 @@
     {
       "title": "Chinese spies using LinkedIn to target British lawmakers, MI5 warns - CNN",
       "pubDate": "Tue, 18 Nov 2025 18:13:20 GMT"
+    },
+    {
+      "title": "China and Japan are in a vicious game of chicken over Taiwan - The Economist",
+      "pubDate": "Tue, 18 Nov 2025 18:00:53 GMT"
     }
   ],
   "AI Safety": [
@@ -971,6 +963,10 @@
     {
       "title": "Pope Leo XIV calls for urgent climate action and says God\u2019s creation is 'crying out' - abcnews.go.com",
       "pubDate": "Tue, 18 Nov 2025 08:16:24 GMT"
+    },
+    {
+      "title": "Brazil pushes for early COP30 climate deal, though divisions persist - Reuters",
+      "pubDate": "Tue, 18 Nov 2025 23:36:42 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1034,10 +1030,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Federal agency overseeing US nuclear stockpile will furlough most of its workforce starting Monday - CNN",
-      "pubDate": "Mon, 20 Oct 2025 01:51:00 GMT"
-    },
     {
       "title": "Colombia Is Struggling to Keep Up With A Criminal Air Force - War on the Rocks",
       "pubDate": "Tue, 21 Oct 2025 07:30:44 GMT"
@@ -1153,6 +1145,10 @@
     {
       "title": "Iran\u2019s Water Crisis: When Drought Hits Harder Than Sanctions and Bombs - Forbes",
       "pubDate": "Sun, 16 Nov 2025 18:14:36 GMT"
+    },
+    {
+      "title": "US-E3 draft resolution at IAEA board demands swift cooperation from Iran - Reuters",
+      "pubDate": "Tue, 18 Nov 2025 22:59:44 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1180,10 +1176,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "To hit back at the United States in their trade war, China borrows from the US playbook - Chicago Tribune",
-      "pubDate": "Mon, 20 Oct 2025 01:24:34 GMT"
-    },
     {
       "title": "Breaking | China, US agree to preliminary framework deal to cool down trade war - South China Morning Post",
       "pubDate": "Sun, 26 Oct 2025 09:16:12 GMT"
@@ -1274,10 +1266,6 @@
     }
   ],
   "Elon Musk": [
-    {
-      "title": "The founder of the world's top LiDAR maker says there's one problem with Elon Musk's approach to self-driving - businessinsider.com",
-      "pubDate": "Mon, 20 Oct 2025 00:08:00 GMT"
-    },
     {
       "title": "Elon Musk calls acting NASA chief \u2018Sean Dummy\u2019 as SpaceX moon contract hangs in the balance - CNN",
       "pubDate": "Tue, 21 Oct 2025 18:59:08 GMT"
@@ -1437,10 +1425,6 @@
   ],
   "European Union": [
     {
-      "title": "EU Nations Close In on Deal to Ban Russian Gas by End of 2027 - Bloomberg.com",
-      "pubDate": "Mon, 20 Oct 2025 04:00:00 GMT"
-    },
-    {
       "title": "EU considers more flexible climate target in hunt for deal, draft shows - Reuters",
       "pubDate": "Sun, 26 Oct 2025 17:50:38 GMT"
     },
@@ -1539,6 +1523,10 @@
     {
       "title": "Astronomy milestone: Scientists capture first image of two black holes orbiting each other - MARCA",
       "pubDate": "Fri, 31 Oct 2025 12:17:08 GMT"
+    },
+    {
+      "title": "The James Webb Space Telescope may have finally found the 1st stars in the universe - Space",
+      "pubDate": "Tue, 18 Nov 2025 20:00:00 GMT"
     }
   ],
   "Geopolitics": [
@@ -1863,6 +1851,24 @@
     {
       "title": "Secretive SpaceX satellites operated by US government are shooting disruptive radio signals into space, astronomer accidentally discovers - Live Science",
       "pubDate": "Tue, 18 Nov 2025 16:30:01 GMT"
+    }
+  ],
+  "Google": [
+    {
+      "title": "Google launches Gemini 3, embeds AI model into search immediately - Reuters",
+      "pubDate": "Tue, 18 Nov 2025 18:21:12 GMT"
+    }
+  ],
+  "Democratic Party": [
+    {
+      "title": "Democratic Lawmakers Tell Military to Refuse Illegal Orders - The New York Times",
+      "pubDate": "Wed, 19 Nov 2025 01:14:50 GMT"
+    }
+  ],
+  "Finance": [
+    {
+      "title": "'Bond King' Jeffrey Gundlach warns of the next financial crisis: 'It has the same trappings as subprime mortgage repackaging in 2006' - Fortune",
+      "pubDate": "Tue, 18 Nov 2025 20:18:00 GMT"
     }
   ]
 }
