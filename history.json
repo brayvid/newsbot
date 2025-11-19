@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI Data Centers Create Fury From Mexico to Ireland - The New York Times",
-      "pubDate": "Mon, 20 Oct 2025 19:00:09 GMT"
-    },
-    {
       "title": "How Trump is Using AI to Attack Enemies and Rouse Supporters - The New York Times",
       "pubDate": "Tue, 21 Oct 2025 09:03:33 GMT"
     },
@@ -138,10 +134,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Europe 'ready to deploy' troops to Ukraine if ceasefire secured, says Healey - BBC",
-      "pubDate": "Mon, 20 Oct 2025 21:54:18 GMT"
-    },
     {
       "title": "As Putin Digs In, a Long\u2014and Different\u2014War With Ukraine Looms - The Wall Street Journal",
       "pubDate": "Sat, 25 Oct 2025 05:30:54 GMT"
@@ -501,10 +493,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Anthropic Partners with US Gov on AI Tool to Block Nuclear Queries - WebProNews",
-      "pubDate": "Mon, 20 Oct 2025 16:55:09 GMT"
-    },
-    {
       "title": "Q&A: Co-author of NY's AI safety bill decries 'bad faith VCs' - PitchBook",
       "pubDate": "Tue, 21 Oct 2025 17:54:24 GMT"
     },
@@ -750,10 +738,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "White House Works to Preserve Gaza Deal Amid Concerns About Netanyahu - The New York Times",
-      "pubDate": "Mon, 20 Oct 2025 22:27:28 GMT"
-    },
     {
       "title": "Nations Hesitate to Send Troops to Gaza, Fearing Clashes With Hamas - The New York Times",
       "pubDate": "Tue, 21 Oct 2025 09:57:57 GMT"
@@ -1107,10 +1091,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran's Khamenei rejects Trump offer of talks, denies US destroyed Iranian nuclear capabilities - Reuters",
-      "pubDate": "Mon, 20 Oct 2025 23:57:12 GMT"
-    },
-    {
       "title": "Iran declares bankruptcy of major bank as country grapples with restored sanctions - The Times of Israel",
       "pubDate": "Sat, 25 Oct 2025 13:58:06 GMT"
     },
@@ -1149,6 +1129,10 @@
     {
       "title": "US-E3 draft resolution at IAEA board demands swift cooperation from Iran - Reuters",
       "pubDate": "Tue, 18 Nov 2025 22:59:44 GMT"
+    },
+    {
+      "title": "IAEA puts pressure on Iran, targeting 60% enriched uranium - The Jerusalem Post",
+      "pubDate": "Wed, 19 Nov 2025 14:45:22 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1599,12 +1583,6 @@
     {
       "title": "Microsoft to ship 60,000 Nvidia AI chips to UAE under US-approved deal - ABC News",
       "pubDate": "Mon, 03 Nov 2025 17:08:36 GMT"
-    }
-  ],
-  "Engineering": [
-    {
-      "title": "Chinese Engineers Allegedly Damage ASML EUV Machine in Reverse-Engineering Effort - WebProNews",
-      "pubDate": "Mon, 20 Oct 2025 22:49:50 GMT"
     }
   ],
   "Energy Storage": [
