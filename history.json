@@ -307,13 +307,13 @@
     {
       "title": "Ukraine war live: Nato member evacuates villages after Putin attack - The Independent",
       "pubDate": "Tue, 18 Nov 2025 23:00:00 GMT"
+    },
+    {
+      "title": "Russian Spy Ship Breaches Allied Waters, Fires Lasers at Military Planes - Newsweek",
+      "pubDate": "Wed, 19 Nov 2025 10:29:00 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Zelenskyy calls for more US Patriot air defences after Trump again sides with Putin - The Guardian",
-      "pubDate": "Mon, 20 Oct 2025 09:44:00 GMT"
-    },
     {
       "title": "Trump Said to Demand Justice Dept. Pay Him $230 Million for Past Cases - The New York Times",
       "pubDate": "Tue, 21 Oct 2025 21:47:02 GMT"
@@ -402,10 +402,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Trump Lists Top Demands on China Before Trade Talks Resume - Bloomberg.com",
-      "pubDate": "Mon, 20 Oct 2025 08:54:52 GMT"
-    },
     {
       "title": "US and Australia sign rare earths deal to counter China's dominance - BBC",
       "pubDate": "Tue, 21 Oct 2025 02:08:08 GMT"
@@ -755,10 +751,6 @@
   ],
   "Gaza": [
     {
-      "title": "Gaza ceasefire live: Trump\u2019s envoys arrive in Israel amid scramble to shore up fragile truce \u2013 Middle East crisis live - The Guardian",
-      "pubDate": "Mon, 20 Oct 2025 06:38:00 GMT"
-    },
-    {
       "title": "White House Works to Preserve Gaza Deal Amid Concerns About Netanyahu - The New York Times",
       "pubDate": "Mon, 20 Oct 2025 22:27:28 GMT"
     },
@@ -849,6 +841,10 @@
     {
       "title": "Israel-Gaza live updates: Mixed responses to UN vote approving Trump peace plan - abcnews.go.com",
       "pubDate": "Tue, 18 Nov 2025 20:45:00 GMT"
+    },
+    {
+      "title": "LIVE: 14 killed in Israeli air attacks in Lebanon; air strikes in Gaza - Al Jazeera",
+      "pubDate": "Wed, 19 Nov 2025 11:15:00 GMT"
     }
   ],
   "Climate Change": [
@@ -967,6 +963,10 @@
     {
       "title": "Brazil pushes for early COP30 climate deal, though divisions persist - Reuters",
       "pubDate": "Tue, 18 Nov 2025 23:36:42 GMT"
+    },
+    {
+      "title": "Climate Adaptation Moves Closer to Center Stage at COP30 - Bloomberg.com",
+      "pubDate": "Wed, 19 Nov 2025 10:51:13 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -996,10 +996,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "Google Announces Gemini 3.0: Artificial Intelligence Evolves Toward AGI - Red Hot Cyber",
-      "pubDate": "Mon, 20 Oct 2025 10:28:43 GMT"
-    },
     {
       "title": "Did an OpenAI cofounder just pop the AI bubble? \u2018The models are not there\u2019 - Fortune",
       "pubDate": "Tue, 21 Oct 2025 17:37:03 GMT"
@@ -1073,6 +1069,10 @@
     {
       "title": "Mounting Chinese threat prompts CISA to ramp up hiring - SC Media",
       "pubDate": "Tue, 18 Nov 2025 17:13:45 GMT"
+    },
+    {
+      "title": "Congressional committee urges swift action on escalating Chinese threats - The Washington Post",
+      "pubDate": "Wed, 19 Nov 2025 00:22:51 GMT"
     }
   ],
   "North Korea": [
@@ -1592,10 +1592,6 @@
     }
   ],
   "Cloud Computing": [
-    {
-      "title": "Amazon Web Services outage hits dozens of websites and apps - The Guardian",
-      "pubDate": "Mon, 20 Oct 2025 09:57:00 GMT"
-    },
     {
       "title": "Anthropic, Google in Talks on Cloud Deal Worth Tens of Billions - Bloomberg",
       "pubDate": "Tue, 21 Oct 2025 21:59:15 GMT"
