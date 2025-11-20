@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "How Trump is Using AI to Attack Enemies and Rouse Supporters - The New York Times",
-      "pubDate": "Tue, 21 Oct 2025 09:03:33 GMT"
-    },
-    {
       "title": "Meta cuts 600 jobs amid AI expansion push \u2014 as automation replaces human staff - Fox Business",
       "pubDate": "Fri, 24 Oct 2025 02:58:00 GMT"
     },
@@ -70,10 +66,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Republican senators indicate they won\u2019t confirm Trump special counsel pick after \u2018Nazi streak\u2019 comments \u2013 US politics live - The Guardian",
-      "pubDate": "Tue, 21 Oct 2025 09:55:00 GMT"
-    },
     {
       "title": "Trump Administration Won\u2019t Use Emergency Funds for Food Stamps During Shutdown - The New York Times",
       "pubDate": "Fri, 24 Oct 2025 22:28:25 GMT"
@@ -205,10 +197,6 @@
   ],
   "Russia": [
     {
-      "title": "In a shift, White House says no plan for Trump-Putin summit - Axios",
-      "pubDate": "Tue, 21 Oct 2025 16:15:30 GMT"
-    },
-    {
       "title": "Ukraine war briefing: Storm Shadow missiles \u2018hit gunpowder plant in Russia\u2019 - The Guardian",
       "pubDate": "Wed, 22 Oct 2025 03:20:00 GMT"
     },
@@ -307,6 +295,10 @@
     {
       "title": "Russian Spy Ship Breaches Allied Waters, Fires Lasers at Military Planes - Newsweek",
       "pubDate": "Wed, 19 Nov 2025 10:29:00 GMT"
+    },
+    {
+      "title": "US military officials in Kyiv as Europe warns against reported Russia peace plan - BBC",
+      "pubDate": "Thu, 20 Nov 2025 11:55:36 GMT"
     }
   ],
   "Donald Trump": [
@@ -493,13 +485,13 @@
     {
       "title": "China Is Priming Its People and the World for a New Pressure Campaign on Taiwan - The Wall Street Journal",
       "pubDate": "Thu, 20 Nov 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Shadow navy: How China's civilian fleet could be a potent weapon in a Taiwan invasion - Reuters",
+      "pubDate": "Thu, 20 Nov 2025 11:00:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Q&A: Co-author of NY's AI safety bill decries 'bad faith VCs' - PitchBook",
-      "pubDate": "Tue, 21 Oct 2025 17:54:24 GMT"
-    },
     {
       "title": "Harry and Meghan join AI pioneers in call for ban on superintelligent systems - The Guardian",
       "pubDate": "Wed, 22 Oct 2025 07:41:00 GMT"
@@ -575,6 +567,10 @@
     {
       "title": "Lawmakers press tech and health experts on AI safety and data privacy, hoping to shape future regulation - Scripps News",
       "pubDate": "Wed, 19 Nov 2025 19:33:01 GMT"
+    },
+    {
+      "title": "Trump renews effort to block states from regulating AI, raising alarms about safety - KTVZ",
+      "pubDate": "Thu, 20 Nov 2025 17:23:55 GMT"
     }
   ],
   "Data Breach": [
@@ -604,14 +600,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Social engineering gains ground as preferred method of initial access - Cybersecurity Dive",
-      "pubDate": "Tue, 21 Oct 2025 15:39:40 GMT"
-    },
-    {
-      "title": "Dataminr to acquire cybersecurity firm ThreatConnect for $290 million - CyberScoop",
-      "pubDate": "Tue, 21 Oct 2025 12:47:23 GMT"
-    },
     {
       "title": "Corporate Director Liability in the Era of Cybersecurity Risks - The Regulatory Review",
       "pubDate": "Wed, 22 Oct 2025 04:11:47 GMT"
@@ -655,10 +643,6 @@
   ],
   "US Economy": [
     {
-      "title": "Trump immigration policies would slash workforce estimate by 15.7 million and slow GDP growth by a third over the next decade, study says - Fortune",
-      "pubDate": "Tue, 21 Oct 2025 08:03:00 GMT"
-    },
-    {
       "title": "World Economic Outlook, October 2025: Global Economy in Flux, Prospects Remain Dim - International Monetary Fund (IMF)",
       "pubDate": "Wed, 22 Oct 2025 12:43:53 GMT"
     },
@@ -693,6 +677,10 @@
     {
       "title": "Shutdown strain: US economy reels under layoffs and lost pay; food banks, small firms struggle to cope - The Times of India",
       "pubDate": "Sat, 08 Nov 2025 16:57:00 GMT"
+    },
+    {
+      "title": "US economy saw stronger-than-expected job growth in September, but the unemployment rate rose - CNN",
+      "pubDate": "Thu, 20 Nov 2025 16:06:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -719,10 +707,6 @@
   ],
   "OpenAI": [
     {
-      "title": "OpenAI sets ChatGPT Atlas browser launch, sending Alphabet shares lower - CNBC",
-      "pubDate": "Tue, 21 Oct 2025 16:12:35 GMT"
-    },
-    {
       "title": "OpenAI Eyes $1 Trillion Valuation IPO to Fund Ambitious AGI Plans - TipRanks",
       "pubDate": "Thu, 30 Oct 2025 05:36:36 GMT"
     }
@@ -746,14 +730,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Nations Hesitate to Send Troops to Gaza, Fearing Clashes With Hamas - The New York Times",
-      "pubDate": "Tue, 21 Oct 2025 09:57:57 GMT"
-    },
-    {
-      "title": "Israel takes steps to shut down international aid groups in Gaza and the West Bank - NPR",
-      "pubDate": "Tue, 21 Oct 2025 17:30:08 GMT"
-    },
     {
       "title": "U.N. Court Says Israel Must Allow Unrwa Aid Into Gaza - The Wall Street Journal",
       "pubDate": "Wed, 22 Oct 2025 16:17:00 GMT"
@@ -840,10 +816,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Child Care Professionals Are on the Front Lines as Climate Change Risks Children\u2019s Health and Development - Center for American Progress",
-      "pubDate": "Tue, 21 Oct 2025 13:01:13 GMT"
-    },
     {
       "title": "New Report Finds Efforts to Slow Climate Change Are Working\u2014Just Not Fast Enough - WIRED",
       "pubDate": "Wed, 22 Oct 2025 04:01:00 GMT"
@@ -989,10 +961,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "Did an OpenAI cofounder just pop the AI bubble? \u2018The models are not there\u2019 - Fortune",
-      "pubDate": "Tue, 21 Oct 2025 17:37:03 GMT"
-    },
-    {
       "title": "It's official\u2014China is jumping into the race for artificial superintelligence, with Alibaba leading a plan that could change the fate of humanity - Pedirayudas.com",
       "pubDate": "Sun, 26 Oct 2025 15:30:26 GMT"
     },
@@ -1018,10 +986,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Colombia Is Struggling to Keep Up With A Criminal Air Force - War on the Rocks",
-      "pubDate": "Tue, 21 Oct 2025 07:30:44 GMT"
-    },
     {
       "title": "Pentagon orders aircraft carrier to Latin America as Trump signals escalation - The Washington Post",
       "pubDate": "Sat, 25 Oct 2025 15:59:01 GMT"
@@ -1181,10 +1145,6 @@
   ],
   "Climate": [
     {
-      "title": "Mosquitoes found in Iceland for first time as climate crisis warms country - The Guardian",
-      "pubDate": "Tue, 21 Oct 2025 10:46:00 GMT"
-    },
-    {
       "title": "Climate disasters in first half of 2025 costliest ever on record, research shows - The Guardian",
       "pubDate": "Wed, 22 Oct 2025 14:33:00 GMT"
     },
@@ -1207,6 +1167,10 @@
     {
       "title": "Newsom calls Trump an \u2018invasive species\u2019 and \u2018wrecking ball\u2019 in fiery remarks at COP30 climate summit - CNN",
       "pubDate": "Wed, 12 Nov 2025 17:31:29 GMT"
+    },
+    {
+      "title": "Cop30 live: current climate pathway \u2018a death sentence for many\u2019, says UN secretary-general - The Guardian",
+      "pubDate": "Thu, 20 Nov 2025 12:08:00 GMT"
     }
   ],
   "Large Language Models": [
@@ -1251,6 +1215,10 @@
     {
       "title": "Akira Ransomware Targets Over 250 Organizations, Extracts $42 Million in Ransom Payments \u2013 New CISA Report - CyberSecurityNews",
       "pubDate": "Sat, 15 Nov 2025 06:09:37 GMT"
+    },
+    {
+      "title": "CISA Warns of Google Chrome 0-Day Vulnerability Exploited in Attacks - CyberSecurityNews",
+      "pubDate": "Thu, 20 Nov 2025 08:58:51 GMT"
     }
   ],
   "Elon Musk": [
@@ -1429,10 +1397,6 @@
   ],
   "Health": [
     {
-      "title": "What Americans think about rising health care costs, according to a new AP-NORC poll - AP News",
-      "pubDate": "Tue, 21 Oct 2025 17:22:00 GMT"
-    },
-    {
       "title": "Diphtheria, a Once Vanquished Killer of Children, Is Resurgent - The New York Times",
       "pubDate": "Mon, 27 Oct 2025 04:00:06 GMT"
     },
@@ -1525,10 +1489,6 @@
   ],
   "Terrorism": [
     {
-      "title": "Slovak PM Fico's attacker convicted of terrorism, jailed for 21 years - Reuters",
-      "pubDate": "Tue, 21 Oct 2025 09:47:36 GMT"
-    },
-    {
       "title": "Feds expand terrorism charges in July shooting at Texas immigration detention center - WRAL",
       "pubDate": "Sat, 15 Nov 2025 17:44:40 GMT"
     },
@@ -1591,24 +1551,8 @@
   ],
   "Energy Storage": [
     {
-      "title": "China powers global growth in electricity storage - Financial Times",
-      "pubDate": "Tue, 21 Oct 2025 11:00:11 GMT"
-    },
-    {
       "title": "EBRD Grants \u20ac22.3m To Power One To Build 36.8 MW Gas-Piston Plants And 31.5 MW Battery Storage To Boost Ukraine\u2019s Energy Security Amid War Damage - SolarQuarter",
       "pubDate": "Mon, 17 Nov 2025 05:40:21 GMT"
-    }
-  ],
-  "Ethics": [
-    {
-      "title": "Ethics Watchdog Group Seeks Investigation Into Border Czar and Contracts Following ProPublica Report - ProPublica",
-      "pubDate": "Tue, 21 Oct 2025 17:35:00 GMT"
-    }
-  ],
-  "United States Constitution": [
-    {
-      "title": "A new Supreme Court case could turn the National Guard into Trump\u2019s personal army - vox.com",
-      "pubDate": "Tue, 21 Oct 2025 17:50:00 GMT"
     }
   ],
   "Amazon": [
@@ -1847,6 +1791,12 @@
     {
       "title": "'Bond King' Jeffrey Gundlach warns of the next financial crisis: 'It has the same trappings as subprime mortgage repackaging in 2006' - Fortune",
       "pubDate": "Tue, 18 Nov 2025 20:18:00 GMT"
+    }
+  ],
+  "Mark Zuckerberg": [
+    {
+      "title": "Mark Zuckerberg's hate-speech gamble fuels Gen Z radicalization on Instagram as millions watch Hitler speeches and Holocaust denial - Fortune",
+      "pubDate": "Thu, 20 Nov 2025 11:00:00 GMT"
     }
   ]
 }
