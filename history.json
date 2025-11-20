@@ -193,6 +193,10 @@
     {
       "title": "Ukraine hits targets in Russia with U.S.-supplied ATACMS missiles, military says - NBC News",
       "pubDate": "Tue, 18 Nov 2025 22:33:48 GMT"
+    },
+    {
+      "title": "Zelensky to speak to Trump after US proposes Russia-Ukraine peace plan - BBC",
+      "pubDate": "Thu, 20 Nov 2025 19:47:32 GMT"
     }
   ],
   "Russia": [
@@ -299,13 +303,13 @@
     {
       "title": "US military officials in Kyiv as Europe warns against reported Russia peace plan - BBC",
       "pubDate": "Thu, 20 Nov 2025 11:55:36 GMT"
+    },
+    {
+      "title": "Sanctions have choked Russia's oil industry, a key source of Kremlin funds, U.S. Treasury finds - CBS News",
+      "pubDate": "Thu, 20 Nov 2025 22:53:32 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump Said to Demand Justice Dept. Pay Him $230 Million for Past Cases - The New York Times",
-      "pubDate": "Tue, 21 Oct 2025 21:47:02 GMT"
-    },
     {
       "title": "Trump Says He\u2019s Cutting Off Trade Negotiations With Canada - The New York Times",
       "pubDate": "Fri, 24 Oct 2025 03:23:10 GMT"
@@ -571,6 +575,10 @@
     {
       "title": "Trump renews effort to block states from regulating AI, raising alarms about safety - KTVZ",
       "pubDate": "Thu, 20 Nov 2025 17:23:55 GMT"
+    },
+    {
+      "title": "Senators Introduce AI Security Readiness Act - ExecutiveGov",
+      "pubDate": "Thu, 20 Nov 2025 22:23:22 GMT"
     }
   ],
   "Data Breach": [
@@ -709,6 +717,10 @@
     {
       "title": "OpenAI Eyes $1 Trillion Valuation IPO to Fund Ambitious AGI Plans - TipRanks",
       "pubDate": "Thu, 30 Oct 2025 05:36:36 GMT"
+    },
+    {
+      "title": "OpenAI taps iPhone assembler Foxconn to manufacture data center components in U.S. - CNBC",
+      "pubDate": "Thu, 20 Nov 2025 22:50:01 GMT"
     }
   ],
   "Quantum Computing": [
@@ -983,6 +995,10 @@
     {
       "title": "How Superintelligent AI Could Upend Work and Politics - The Ringer",
       "pubDate": "Tue, 18 Nov 2025 22:27:58 GMT"
+    },
+    {
+      "title": "Luma AI secures $900 million to speed up multimodal AGI push - Times of India",
+      "pubDate": "Thu, 20 Nov 2025 17:34:00 GMT"
     }
   ],
   "National Security": [
@@ -1171,6 +1187,10 @@
     {
       "title": "Cop30 live: current climate pathway \u2018a death sentence for many\u2019, says UN secretary-general - The Guardian",
       "pubDate": "Thu, 20 Nov 2025 12:08:00 GMT"
+    },
+    {
+      "title": "Cop30 climate summit in Brazil disrupted after fire breaks out in venue - The Guardian",
+      "pubDate": "Thu, 20 Nov 2025 20:28:00 GMT"
     }
   ],
   "Large Language Models": [
@@ -1223,12 +1243,12 @@
   ],
   "Elon Musk": [
     {
-      "title": "Elon Musk calls acting NASA chief \u2018Sean Dummy\u2019 as SpaceX moon contract hangs in the balance - CNN",
-      "pubDate": "Tue, 21 Oct 2025 18:59:08 GMT"
-    },
-    {
       "title": "Major Tesla Investor Rejects Elon Musk\u2019s $1 Trillion Pay Deal - WSJ - The Wall Street Journal",
       "pubDate": "Tue, 04 Nov 2025 10:21:00 GMT"
+    },
+    {
+      "title": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics - Fortune",
+      "pubDate": "Thu, 20 Nov 2025 18:37:00 GMT"
     }
   ],
   "Pollution": [
@@ -1248,10 +1268,6 @@
     }
   ],
   "Hacking": [
-    {
-      "title": "Hundreds of masked ICE agents doxxed by hackers, as personal details posted on Telegram - Bitdefender",
-      "pubDate": "Tue, 21 Oct 2025 21:09:34 GMT"
-    },
     {
       "title": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks - BleepingComputer",
       "pubDate": "Sat, 01 Nov 2025 14:16:26 GMT"
@@ -1540,10 +1556,6 @@
     }
   ],
   "Cloud Computing": [
-    {
-      "title": "Anthropic, Google in Talks on Cloud Deal Worth Tens of Billions - Bloomberg",
-      "pubDate": "Tue, 21 Oct 2025 21:59:15 GMT"
-    },
     {
       "title": "Microsoft to ship 60,000 Nvidia AI chips to UAE under US-approved deal - ABC News",
       "pubDate": "Mon, 03 Nov 2025 17:08:36 GMT"
