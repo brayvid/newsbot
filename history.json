@@ -63,6 +63,10 @@
     {
       "title": "AI borrowing binge prompts investors to back away from corporate bonds - Reuters",
       "pubDate": "Thu, 20 Nov 2025 05:00:00 GMT"
+    },
+    {
+      "title": "Is AI making some people delusional? Families and experts are worried - Los Angeles Times",
+      "pubDate": "Fri, 21 Nov 2025 11:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -201,10 +205,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukrainian children killed in Russian strikes, hours after Trump-Putin talks shelved - BBC",
-      "pubDate": "Wed, 22 Oct 2025 10:37:25 GMT"
-    },
-    {
       "title": "US sanctions Russian oil companies after failed Putin talks - BBC",
       "pubDate": "Thu, 23 Oct 2025 11:45:10 GMT"
     },
@@ -307,6 +307,10 @@
     {
       "title": "As Russia is accused of hybrid warfare against the West, vital undersea cables show their vulnerability - CBS News",
       "pubDate": "Thu, 20 Nov 2025 18:35:00 GMT"
+    },
+    {
+      "title": "Trump's full 28-point Ukraine-Russia peace plan - Axios",
+      "pubDate": "Fri, 21 Nov 2025 10:50:45 GMT"
     }
   ],
   "Donald Trump": [
@@ -485,13 +489,13 @@
     {
       "title": "Shadow navy: How China's civilian fleet could be a potent weapon in a Taiwan invasion - Reuters",
       "pubDate": "Thu, 20 Nov 2025 11:00:00 GMT"
+    },
+    {
+      "title": "Japan Set to Lean on US Allies for Support If China Escalates - Bloomberg.com",
+      "pubDate": "Fri, 21 Nov 2025 11:00:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Harry and Meghan join AI pioneers in call for ban on superintelligent systems - The Guardian",
-      "pubDate": "Wed, 22 Oct 2025 07:41:00 GMT"
-    },
     {
       "title": "China moves to strengthen regulation of AI safety and ethics - South China Morning Post",
       "pubDate": "Thu, 23 Oct 2025 08:38:23 GMT"
@@ -813,6 +817,10 @@
     {
       "title": "LIVE: 14 killed in Israeli air attacks in Lebanon; air strikes in Gaza - Al Jazeera",
       "pubDate": "Wed, 19 Nov 2025 11:15:00 GMT"
+    },
+    {
+      "title": "7 Km Long, 25 Metres Deep, 80 Rooms: Israel Finds Hamas \"Complex\" Tunnel - NDTV",
+      "pubDate": "Fri, 21 Nov 2025 02:32:46 GMT"
     }
   ],
   "Climate Change": [
@@ -927,6 +935,10 @@
     {
       "title": "Human-induced climate change compounded by socio-economic water stressors increased severity of 5-year drought in Iran and Euphrates and Tigris basin \u2013 World Weather Attribution - World Weather Attribution",
       "pubDate": "Fri, 21 Nov 2025 05:04:09 GMT"
+    },
+    {
+      "title": "Brazil Draft COP30 Climate Deal Omits Plan to Exit Fossil Fuels - Bloomberg.com",
+      "pubDate": "Fri, 21 Nov 2025 10:57:59 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1285,12 +1297,6 @@
       "pubDate": "Tue, 18 Nov 2025 04:44:00 GMT"
     }
   ],
-  "Tesla": [
-    {
-      "title": "Tesla to recall nearly 13,000 US vehicles over battery risk - Reuters",
-      "pubDate": "Wed, 22 Oct 2025 09:50:41 GMT"
-    }
-  ],
   "Drones": [
     {
       "title": "Blackouts hit Russia's Belgorod as Ukrainian drone attacks surge - BBC",
@@ -1449,6 +1455,10 @@
     {
       "title": "The US isn't in a recession, but hiring is looking a lot like after the Great Recession - Business Insider",
       "pubDate": "Mon, 17 Nov 2025 09:30:00 GMT"
+    },
+    {
+      "title": "All the signs that America may be teetering on the brink of recession - The Telegraph",
+      "pubDate": "Fri, 21 Nov 2025 07:00:00 GMT"
     }
   ],
   "Social Media": [
@@ -1807,6 +1817,12 @@
     {
       "title": "Cryptocurrency backed by Farage donor is used for Russian war effort, investigators say - The Guardian",
       "pubDate": "Fri, 21 Nov 2025 05:00:00 GMT"
+    }
+  ],
+  "Intelligence Agencies": [
+    {
+      "title": "Mossad\u2013European intelligence operation launches sweeping crackdown on Hamas global terror network - wfiwradio.com",
+      "pubDate": "Fri, 21 Nov 2025 01:12:40 GMT"
     }
   ]
 }
