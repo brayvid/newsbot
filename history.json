@@ -201,10 +201,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukraine war briefing: Storm Shadow missiles \u2018hit gunpowder plant in Russia\u2019 - The Guardian",
-      "pubDate": "Wed, 22 Oct 2025 03:20:00 GMT"
-    },
-    {
       "title": "Ukrainian children killed in Russian strikes, hours after Trump-Putin talks shelved - BBC",
       "pubDate": "Wed, 22 Oct 2025 10:37:25 GMT"
     },
@@ -307,6 +303,10 @@
     {
       "title": "Sanctions have choked Russia's oil industry, a key source of Kremlin funds, U.S. Treasury finds - CBS News",
       "pubDate": "Thu, 20 Nov 2025 22:53:32 GMT"
+    },
+    {
+      "title": "As Russia is accused of hybrid warfare against the West, vital undersea cables show their vulnerability - CBS News",
+      "pubDate": "Thu, 20 Nov 2025 18:35:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -364,14 +364,6 @@
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Stock Market News, Oct. 21, 2025: Gold Suffers Biggest Drop in More Than a Decade - The Wall Street Journal",
-      "pubDate": "Wed, 22 Oct 2025 00:45:00 GMT"
-    },
-    {
-      "title": "Bubble-talk is breaking out everywhere - Financial Times",
-      "pubDate": "Wed, 22 Oct 2025 04:00:30 GMT"
-    },
     {
       "title": "Stock market faces big moment as Fed decision collides with megacap tech earnings - MarketWatch",
       "pubDate": "Sun, 26 Oct 2025 16:00:00 GMT"
@@ -609,10 +601,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Corporate Director Liability in the Era of Cybersecurity Risks - The Regulatory Review",
-      "pubDate": "Wed, 22 Oct 2025 04:11:47 GMT"
-    },
-    {
       "title": "National Cyber Director Outlines Vision for New Cybersecurity Strategy - Homeland Security Today",
       "pubDate": "Sat, 25 Oct 2025 18:26:33 GMT"
     },
@@ -829,14 +817,6 @@
   ],
   "Climate Change": [
     {
-      "title": "New Report Finds Efforts to Slow Climate Change Are Working\u2014Just Not Fast Enough - WIRED",
-      "pubDate": "Wed, 22 Oct 2025 04:01:00 GMT"
-    },
-    {
-      "title": "US and Qatar issue energy and trade threats to EU over climate rules - Financial Times",
-      "pubDate": "Wed, 22 Oct 2025 04:00:44 GMT"
-    },
-    {
       "title": "How much is climate change costing US households? - Brookings",
       "pubDate": "Thu, 23 Oct 2025 04:33:30 GMT"
     },
@@ -943,6 +923,10 @@
     {
       "title": "Climate Adaptation Moves Closer to Center Stage at COP30 - Bloomberg.com",
       "pubDate": "Wed, 19 Nov 2025 10:51:13 GMT"
+    },
+    {
+      "title": "Human-induced climate change compounded by socio-economic water stressors increased severity of 5-year drought in Iran and Euphrates and Tigris basin \u2013 World Weather Attribution - World Weather Attribution",
+      "pubDate": "Fri, 21 Nov 2025 05:04:09 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1049,10 +1033,6 @@
   ],
   "North Korea": [
     {
-      "title": "North Korea fires ballistic missiles as Trump prepares for Asia trip - Reuters",
-      "pubDate": "Wed, 22 Oct 2025 05:10:01 GMT"
-    },
-    {
       "title": "North Korea has stolen billions in cryptocurrency and tech firm salaries, report says - NBC News",
       "pubDate": "Thu, 23 Oct 2025 08:40:18 GMT"
     },
@@ -1121,6 +1101,10 @@
     {
       "title": "IAEA puts pressure on Iran, targeting 60% enriched uranium - The Jerusalem Post",
       "pubDate": "Wed, 19 Nov 2025 14:45:22 GMT"
+    },
+    {
+      "title": "Iran cancels new nuclear inspections it agreed to after bombing campaign - The Washington Post",
+      "pubDate": "Fri, 21 Nov 2025 05:21:59 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1335,6 +1319,10 @@
     {
       "title": "Ukraine war briefing: mass production of Ukrainian \u2018Octopus\u2019 interceptor drones begins - The Guardian",
       "pubDate": "Sat, 15 Nov 2025 04:26:00 GMT"
+    },
+    {
+      "title": "Russia downs 33 Ukrainian drones overnight, defence ministry says - Reuters",
+      "pubDate": "Fri, 21 Nov 2025 05:34:35 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1403,6 +1391,10 @@
     {
       "title": "Ukraine\u2019s Cash Is Running Low, and Europe Has No Good Plan B - The New York Times",
       "pubDate": "Mon, 17 Nov 2025 16:08:55 GMT"
+    },
+    {
+      "title": "The EU indicates it won't accept the U.S.'s Russia-Ukraine peace deal - NPR",
+      "pubDate": "Thu, 20 Nov 2025 21:52:10 GMT"
     }
   ],
   "NVIDIA": [
@@ -1515,6 +1507,10 @@
     {
       "title": "State Department to designate Venezuelan cartel as a foreign terrorist organization - CNN",
       "pubDate": "Mon, 17 Nov 2025 02:06:00 GMT"
+    },
+    {
+      "title": "Man accused of setting woman on fire on Chicago train faces federal terrorism charge - NBC News",
+      "pubDate": "Fri, 21 Nov 2025 02:43:00 GMT"
     }
   ],
   "Investment": [
@@ -1568,10 +1564,6 @@
     }
   ],
   "Amazon": [
-    {
-      "title": "Amazon Plans to Replace 600,000 Human Workers With Robots, Report Says - CNET",
-      "pubDate": "Wed, 22 Oct 2025 00:01:00 GMT"
-    },
     {
       "title": "Exclusive: Amazon targets as many as 30,000 corporate job cuts, sources say - Reuters",
       "pubDate": "Mon, 27 Oct 2025 21:54:59 GMT"
@@ -1809,6 +1801,12 @@
     {
       "title": "Mark Zuckerberg's hate-speech gamble fuels Gen Z radicalization on Instagram as millions watch Hitler speeches and Holocaust denial - Fortune",
       "pubDate": "Thu, 20 Nov 2025 11:00:00 GMT"
+    }
+  ],
+  "Cryptocurrency": [
+    {
+      "title": "Cryptocurrency backed by Farage donor is used for Russian war effort, investigators say - The Guardian",
+      "pubDate": "Fri, 21 Nov 2025 05:00:00 GMT"
     }
   ]
 }
