@@ -71,6 +71,10 @@
     {
       "title": "Trump Team Internally Floats Idea of Selling Nvidia H200 Chips to China - Bloomberg.com",
       "pubDate": "Fri, 21 Nov 2025 20:47:12 GMT"
+    },
+    {
+      "title": "The A.I. Boom Is Driving the Economy. What Happens if It Falters? - The New York Times",
+      "pubDate": "Sat, 22 Nov 2025 10:01:41 GMT"
     }
   ],
   "US Politics": [
@@ -139,6 +143,10 @@
     {
       "title": "Palestinians dying at \"alarming rate\" in Israeli prisons since Oct 7, 2023, rights group says - CBS News",
       "pubDate": "Mon, 17 Nov 2025 16:22:00 GMT"
+    },
+    {
+      "title": "Tense calm in far north as Israel prepares to \u2018finish the job\u2019 against Hezbollah - The Guardian",
+      "pubDate": "Sat, 22 Nov 2025 09:00:00 GMT"
     }
   ],
   "Ukraine": [
@@ -216,10 +224,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "US sanctions Russian oil companies after failed Putin talks - BBC",
-      "pubDate": "Thu, 23 Oct 2025 11:45:10 GMT"
-    },
     {
       "title": "Trump\u2019s Sanctions on Russian Oil Sector Ratchet Up Economic War - The New York Times",
       "pubDate": "Thu, 23 Oct 2025 20:25:31 GMT"
@@ -403,10 +407,6 @@
   ],
   "China": [
     {
-      "title": "How China Raced Ahead of the U.S. on Nuclear Power - The New York Times",
-      "pubDate": "Thu, 23 Oct 2025 02:00:01 GMT"
-    },
-    {
       "title": "China upgraded missiles using UAE technology, Biden spies said - Financial Times",
       "pubDate": "Sat, 25 Oct 2025 16:00:02 GMT"
     },
@@ -505,13 +505,13 @@
     {
       "title": "US-Philippine task force to reestablish South China Sea \u2018deterrence\u2019 - Defense News",
       "pubDate": "Fri, 21 Nov 2025 16:09:05 GMT"
+    },
+    {
+      "title": "China takes spat with Japan over Taiwan to UN, vows to defend itself - Reuters",
+      "pubDate": "Sat, 22 Nov 2025 06:10:49 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "China moves to strengthen regulation of AI safety and ethics - South China Morning Post",
-      "pubDate": "Thu, 23 Oct 2025 08:38:23 GMT"
-    },
     {
       "title": "AI models may be developing their own \u2018survival drive\u2019, researchers say - The Guardian",
       "pubDate": "Sat, 25 Oct 2025 08:00:00 GMT"
@@ -655,10 +655,6 @@
   ],
   "US Economy": [
     {
-      "title": "AI is keeping the US economy out of a recession - Yahoo Finance",
-      "pubDate": "Thu, 23 Oct 2025 10:00:12 GMT"
-    },
-    {
       "title": "Government shutdown slams US economy: Bank of America CEO warns it will slow growth - Fox Business",
       "pubDate": "Tue, 28 Oct 2025 12:53:18 GMT"
     },
@@ -742,10 +738,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "LIVE: UN urges Israel to allow medical evacuation from Gaza amid ceasefire - Al Jazeera",
-      "pubDate": "Thu, 23 Oct 2025 07:57:38 GMT"
-    },
     {
       "title": "Hamas Has Calculated It Can Survive in Gaza\u2014and Rule - The Wall Street Journal",
       "pubDate": "Fri, 24 Oct 2025 03:00:00 GMT"
@@ -832,10 +824,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "How much is climate change costing US households? - Brookings",
-      "pubDate": "Thu, 23 Oct 2025 04:33:30 GMT"
-    },
     {
       "title": "How we made it: carbon emissions rise to new record - Financial Times",
       "pubDate": "Fri, 24 Oct 2025 04:01:04 GMT"
@@ -971,10 +959,6 @@
   ],
   "Technology": [
     {
-      "title": "Russia secretly acquired Western technology to protect its nuclear submarine fleet - International Consortium of Investigative Journalists - ICIJ",
-      "pubDate": "Thu, 23 Oct 2025 08:33:23 GMT"
-    },
-    {
       "title": "Argonne will team up with Nvidia to build one of the biggest AI supercomputers - Crain's Chicago Business",
       "pubDate": "Tue, 28 Oct 2025 22:09:31 GMT"
     }
@@ -1056,10 +1040,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea has stolen billions in cryptocurrency and tech firm salaries, report says - NBC News",
-      "pubDate": "Thu, 23 Oct 2025 08:40:18 GMT"
-    },
     {
       "title": "North Korea's Top Diplomat to Visit Russia From Sunday - The Moscow Times",
       "pubDate": "Sun, 26 Oct 2025 11:58:21 GMT"
@@ -1161,12 +1141,6 @@
       "pubDate": "Sun, 26 Oct 2025 09:16:12 GMT"
     }
   ],
-  "Renewable Energy": [
-    {
-      "title": "Renewable energy investment should come from defence budgets, say retired military leaders - The Guardian",
-      "pubDate": "Thu, 23 Oct 2025 10:58:00 GMT"
-    }
-  ],
   "Climate": [
     {
       "title": "U.S. Billion-Dollar Weather and Climate Disasters - Climate Central",
@@ -1195,6 +1169,10 @@
     {
       "title": "Cop30 climate summit in Brazil disrupted after fire breaks out in venue - The Guardian",
       "pubDate": "Thu, 20 Nov 2025 20:28:00 GMT"
+    },
+    {
+      "title": "With the world at COP30, Trump administration rolls back environmental rules - NBC News",
+      "pubDate": "Sat, 22 Nov 2025 11:45:00 GMT"
     }
   ],
   "Large Language Models": [
@@ -1215,12 +1193,6 @@
     {
       "title": "Federal judges order Trump admin to continue SNAP benefits. - USA Today",
       "pubDate": "Fri, 31 Oct 2025 19:06:57 GMT"
-    }
-  ],
-  "SpaceX": [
-    {
-      "title": "European firms unite in bid to rival SpaceX - BBC",
-      "pubDate": "Thu, 23 Oct 2025 11:56:22 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
@@ -1307,10 +1279,6 @@
   ],
   "Drones": [
     {
-      "title": "Blackouts hit Russia's Belgorod as Ukrainian drone attacks surge - BBC",
-      "pubDate": "Thu, 23 Oct 2025 06:19:23 GMT"
-    },
-    {
       "title": "Russia targets Kyiv with drones, killing 3 and wounding 29 - The Hill",
       "pubDate": "Sun, 26 Oct 2025 10:04:01 GMT"
     },
@@ -1355,6 +1323,10 @@
     {
       "title": "The Fed faces deep divides at a fraught moment - Axios",
       "pubDate": "Fri, 14 Nov 2025 17:00:35 GMT"
+    },
+    {
+      "title": "New York Fed chief raises expectations of a rate cut - Axios",
+      "pubDate": "Sat, 22 Nov 2025 04:27:26 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1389,12 +1361,6 @@
     {
       "title": "NVIDIA and Partners Build America\u2019s AI Infrastructure and Create Blueprint to Power the Next Industrial Revolution - NVIDIA Newsroom",
       "pubDate": "Tue, 28 Oct 2025 16:53:41 GMT"
-    }
-  ],
-  "Computers": [
-    {
-      "title": "Exclusive | Trump Administration in Talks to Take Equity Stakes in Quantum-Computing Firms - WSJ - The Wall Street Journal",
-      "pubDate": "Thu, 23 Oct 2025 01:00:00 GMT"
     }
   ],
   "European Union": [
@@ -1474,10 +1440,6 @@
     }
   ],
   "Social Media": [
-    {
-      "title": "New Zealand parliament to debate teen social media ban - Reuters",
-      "pubDate": "Thu, 23 Oct 2025 03:43:00 GMT"
-    },
     {
       "title": "Denmark\u2019s government aims to ban access to social media for children under 15 - AP News",
       "pubDate": "Fri, 07 Nov 2025 19:21:00 GMT"
@@ -1715,6 +1677,10 @@
     {
       "title": "Tech war: Huawei bets on AI tech to squeeze more performance from GPUs - South China Morning Post",
       "pubDate": "Mon, 17 Nov 2025 06:00:15 GMT"
+    },
+    {
+      "title": "Trump considers opening up exports of NVIDIA H200 GPUs to China, lawmakers say security risks to big - Cybernews",
+      "pubDate": "Sat, 22 Nov 2025 00:45:00 GMT"
     }
   ],
   "Democracy": [
@@ -1835,6 +1801,12 @@
     {
       "title": "Mossad\u2013European intelligence operation launches sweeping crackdown on Hamas global terror network - wfiwradio.com",
       "pubDate": "Fri, 21 Nov 2025 01:12:40 GMT"
+    }
+  ],
+  "Republican Party": [
+    {
+      "title": "Marjorie Taylor Greene to quit Congress after Trump feud - BBC",
+      "pubDate": "Sat, 22 Nov 2025 04:12:35 GMT"
     }
   ]
 }
