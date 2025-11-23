@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Meta cuts 600 jobs amid AI expansion push \u2014 as automation replaces human staff - Fox Business",
-      "pubDate": "Fri, 24 Oct 2025 02:58:00 GMT"
-    },
-    {
       "title": "As Trump Weighs Sale of Advanced A.I. Chips to China, Critics Sound Alarm - The New York Times",
       "pubDate": "Wed, 29 Oct 2025 20:42:37 GMT"
     },
@@ -225,10 +221,6 @@
   ],
   "Russia": [
     {
-      "title": "Trump\u2019s Sanctions on Russian Oil Sector Ratchet Up Economic War - The New York Times",
-      "pubDate": "Thu, 23 Oct 2025 20:25:31 GMT"
-    },
-    {
       "title": "US could hit Russia with more sanctions to end Ukraine war, but first wants Europe to increase pressure - Reuters",
       "pubDate": "Sat, 25 Oct 2025 12:56:23 GMT"
     },
@@ -331,13 +323,13 @@
     {
       "title": "Russia\u2019s drone revolution heaps pressure on Ukrainian defenses - CNN",
       "pubDate": "Sat, 22 Nov 2025 11:27:44 GMT"
+    },
+    {
+      "title": "In Russian-Occupied Mariupol, Everything Ukrainian Must Go - The New York Times",
+      "pubDate": "Sun, 23 Nov 2025 05:01:15 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump Says He\u2019s Cutting Off Trade Negotiations With Canada - The New York Times",
-      "pubDate": "Fri, 24 Oct 2025 03:23:10 GMT"
-    },
     {
       "title": "Trump Says He Is Prepared to Send \u2018More Than the National Guard\u2019 Into U.S. Cities - The New York Times",
       "pubDate": "Tue, 28 Oct 2025 15:17:03 GMT"
@@ -659,6 +651,10 @@
     {
       "title": "AI-Powered Cybersecurity: New Tools Combat Evolving Threats in Real Time - Tech Times",
       "pubDate": "Sat, 22 Nov 2025 16:25:39 GMT"
+    },
+    {
+      "title": "Harvard cyberattack data breach exposes alumni, donors, students and faculty records? Here's complete trut - The Economic Times",
+      "pubDate": "Sat, 22 Nov 2025 20:36:46 GMT"
     }
   ],
   "US Economy": [
@@ -729,10 +725,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "US Weighs Quantum Computing Boost in Effort to Counter China - Bloomberg.com",
-      "pubDate": "Thu, 23 Oct 2025 19:42:21 GMT"
-    },
-    {
       "title": "How quantum computing could become the next frontier in national security - MarketWatch",
       "pubDate": "Sat, 25 Oct 2025 11:30:00 GMT"
     },
@@ -746,10 +738,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Hamas Has Calculated It Can Survive in Gaza\u2014and Rule - The Wall Street Journal",
-      "pubDate": "Fri, 24 Oct 2025 03:00:00 GMT"
-    },
     {
       "title": "LIVE: Israeli attacks kill 93 in Gaza since beginning of ceasefire - Al Jazeera",
       "pubDate": "Sat, 25 Oct 2025 10:30:00 GMT"
@@ -836,10 +824,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "How we made it: carbon emissions rise to new record - Financial Times",
-      "pubDate": "Fri, 24 Oct 2025 04:01:04 GMT"
-    },
     {
       "title": "War and Climate Change Are Redrawing Global Trade Routes - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Sat, 25 Oct 2025 15:00:00 GMT"
@@ -1147,6 +1131,10 @@
     {
       "title": "Supreme Court to review US government power to limit asylum processing - Reuters",
       "pubDate": "Mon, 17 Nov 2025 15:04:30 GMT"
+    },
+    {
+      "title": "North Dakota court upholds near-total abortion ban - BBC",
+      "pubDate": "Sat, 22 Nov 2025 22:28:09 GMT"
     }
   ],
   "United Kingdom": [
@@ -1325,6 +1313,10 @@
     {
       "title": "Russia downs 33 Ukrainian drones overnight, defence ministry says - Reuters",
       "pubDate": "Fri, 21 Nov 2025 05:34:35 GMT"
+    },
+    {
+      "title": "Netherlands opens fire on suspicious drones near air base housing US nuclear weapons - The Kyiv Independent",
+      "pubDate": "Sat, 22 Nov 2025 21:09:24 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1463,6 +1455,10 @@
     {
       "title": "Denmark\u2019s government aims to ban access to social media for children under 15 - AP News",
       "pubDate": "Fri, 07 Nov 2025 19:21:00 GMT"
+    },
+    {
+      "title": "\u2018We\u2019re basically pushers\u2019: Court filing alleges staff at social media giants compared their platforms to drugs - Politico",
+      "pubDate": "Sun, 23 Nov 2025 04:26:57 GMT"
     }
   ],
   "Global Health": [
@@ -1571,13 +1567,13 @@
     {
       "title": "Exclusive: Amazon targets as many as 30,000 corporate job cuts, sources say - Reuters",
       "pubDate": "Mon, 27 Oct 2025 21:54:59 GMT"
+    },
+    {
+      "title": "Amazon recall: Threat-to-life warning issued, items pulled nationwide - AL.com",
+      "pubDate": "Sat, 22 Nov 2025 19:32:00 GMT"
     }
   ],
   "US Senate": [
-    {
-      "title": "Government shutdown live updates as Senate fails to advance GOP bill to pay essential federal workers - CBS News",
-      "pubDate": "Thu, 23 Oct 2025 20:44:00 GMT"
-    },
     {
       "title": "Senate holds rare Saturday session aimed at ending government shutdown, will reconvene Sunday - CBS News",
       "pubDate": "Sun, 09 Nov 2025 05:07:14 GMT"
@@ -1837,6 +1833,12 @@
     {
       "title": "Space junk strike on China's astronaut capsule highlights need for a space rescue service, experts say - Space",
       "pubDate": "Sat, 22 Nov 2025 14:00:00 GMT"
+    }
+  ],
+  "Planetary Defense": [
+    {
+      "title": "\ud83d\udea8\ud83c\uddef\ud83c\uddf5 THE NEXT FRONTIER OF PLANETARY DEFENSE: AN 11-METER ASTEROID SPINNING LIKE A FRISBEE Japan's Hayabusa2 just got a 2031 mission upgrade - straight into a sci-fi nightmare. New data from ESO's VLT shows its final target, asteroid 19 - x.com",
+      "pubDate": "Sun, 23 Nov 2025 00:10:00 GMT"
     }
   ]
 }
