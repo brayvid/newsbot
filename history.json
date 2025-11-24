@@ -71,13 +71,13 @@
     {
       "title": "The A.I. Boom Is Driving the Economy. What Happens if It Falters? - The New York Times",
       "pubDate": "Sat, 22 Nov 2025 10:01:41 GMT"
+    },
+    {
+      "title": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies - About Amazon",
+      "pubDate": "Mon, 24 Nov 2025 16:03:48 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump Administration Won\u2019t Use Emergency Funds for Food Stamps During Shutdown - The New York Times",
-      "pubDate": "Fri, 24 Oct 2025 22:28:25 GMT"
-    },
     {
       "title": "Government shutdown hits Day 26 with no deal in sight - CBS News",
       "pubDate": "Sun, 26 Oct 2025 04:01:11 GMT"
@@ -146,10 +146,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "As Putin Digs In, a Long\u2014and Different\u2014War With Ukraine Looms - The Wall Street Journal",
-      "pubDate": "Sat, 25 Oct 2025 05:30:54 GMT"
-    },
     {
       "title": "The Kremlin\u2019s blitz to make Ukraine \u201cgo dark\u201d - The Economist",
       "pubDate": "Sun, 26 Oct 2025 16:31:01 GMT"
@@ -220,10 +216,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "US could hit Russia with more sanctions to end Ukraine war, but first wants Europe to increase pressure - Reuters",
-      "pubDate": "Sat, 25 Oct 2025 12:56:23 GMT"
-    },
     {
       "title": "US could hit Russia with more sanctions over Ukraine war, but also wants Europe to increase pressure - Reuters",
       "pubDate": "Sat, 25 Oct 2025 19:47:05 GMT"
@@ -403,10 +395,6 @@
   ],
   "China": [
     {
-      "title": "China upgraded missiles using UAE technology, Biden spies said - Financial Times",
-      "pubDate": "Sat, 25 Oct 2025 16:00:02 GMT"
-    },
-    {
       "title": "Exclusive | Trump, Xi to Discuss Lowering China Tariffs for Fentanyl Crackdown - The Wall Street Journal",
       "pubDate": "Tue, 28 Oct 2025 16:30:00 GMT"
     },
@@ -505,13 +493,13 @@
     {
       "title": "China takes spat with Japan over Taiwan to UN, vows to defend itself - Reuters",
       "pubDate": "Sat, 22 Nov 2025 06:10:49 GMT"
+    },
+    {
+      "title": "China criticizes Japan's plan to deploy missiles on island near Taiwan - NBC News",
+      "pubDate": "Mon, 24 Nov 2025 10:01:04 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI models may be developing their own \u2018survival drive\u2019, researchers say - The Guardian",
-      "pubDate": "Sat, 25 Oct 2025 08:00:00 GMT"
-    },
     {
       "title": "Nvidia CEO Hails AI as America\u2019s Next Industrial Revolution and States Lead Push for AI Safety \u2014 AI: The Washington Report - JD Supra",
       "pubDate": "Mon, 27 Oct 2025 14:02:04 GMT"
@@ -705,10 +693,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "Permitting of US fusion power plant progresses - World Nuclear News",
-      "pubDate": "Fri, 24 Oct 2025 15:23:54 GMT"
-    },
-    {
       "title": "Department of Energy unveils ambitious plan to tap into unlimited energy source: 'Deliver large-scale integration' - Yahoo",
       "pubDate": "Tue, 11 Nov 2025 02:30:00 GMT"
     }
@@ -725,27 +709,11 @@
   ],
   "Quantum Computing": [
     {
-      "title": "How quantum computing could become the next frontier in national security - MarketWatch",
-      "pubDate": "Sat, 25 Oct 2025 11:30:00 GMT"
-    },
-    {
-      "title": "Google CEO Sundar Pichai celebrates new breakthrough in quantum algorithm; Elon Musk replies: \u2018Looks like - Times of India",
-      "pubDate": "Sat, 25 Oct 2025 15:48:00 GMT"
-    },
-    {
       "title": "NVIDIA Bridges Classical and Quantum Computing with NVQLink | Business | Oct 2025 - Photonics Spectra",
       "pubDate": "Thu, 30 Oct 2025 11:01:35 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "LIVE: Israeli attacks kill 93 in Gaza since beginning of ceasefire - Al Jazeera",
-      "pubDate": "Sat, 25 Oct 2025 10:30:00 GMT"
-    },
-    {
-      "title": "LIVE: Israel wounds several in Gaza as settler attacks surge in West Bank - Al Jazeera",
-      "pubDate": "Sat, 25 Oct 2025 15:49:34 GMT"
-    },
     {
       "title": "Scoop: U.S. pushing to finalize plan for international Gaza security force - Axios",
       "pubDate": "Thu, 30 Oct 2025 09:01:11 GMT"
@@ -824,10 +792,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "War and Climate Change Are Redrawing Global Trade Routes - Crude Oil Prices Today | OilPrice.com",
-      "pubDate": "Sat, 25 Oct 2025 15:00:00 GMT"
-    },
     {
       "title": "Exxon Sues California Over New Climate Disclosure Laws - The New York Times",
       "pubDate": "Sat, 25 Oct 2025 18:52:20 GMT"
@@ -999,10 +963,6 @@
   ],
   "National Security": [
     {
-      "title": "Pentagon orders aircraft carrier to Latin America as Trump signals escalation - The Washington Post",
-      "pubDate": "Sat, 25 Oct 2025 15:59:01 GMT"
-    },
-    {
       "title": "Pentagon takes steps to fire civilian workers with 'speed and conviction' - NBC News",
       "pubDate": "Wed, 29 Oct 2025 00:35:00 GMT"
     },
@@ -1067,10 +1027,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran declares bankruptcy of major bank as country grapples with restored sanctions - The Times of Israel",
-      "pubDate": "Sat, 25 Oct 2025 13:58:06 GMT"
-    },
-    {
       "title": "CSIS Satellite Imagery Analysis Reveals Possible Signs of Renewed Nuclear Activity in Iran - CSIS | Center for Strategic and International Studies",
       "pubDate": "Mon, 27 Oct 2025 16:05:39 GMT"
     },
@@ -1113,6 +1069,10 @@
     {
       "title": "Iran cancels new nuclear inspections it agreed to after bombing campaign - The Washington Post",
       "pubDate": "Fri, 21 Nov 2025 05:21:59 GMT"
+    },
+    {
+      "title": "Taps are running dry in Iran. Decades of bad decisions are to blame. - The Washington Post",
+      "pubDate": "Mon, 24 Nov 2025 17:31:54 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1137,12 +1097,6 @@
       "pubDate": "Sat, 22 Nov 2025 22:28:09 GMT"
     }
   ],
-  "United Kingdom": [
-    {
-      "title": "Court finds Russia\u2019s Wagner mercenary group behind UK arson attackers - Al Jazeera",
-      "pubDate": "Sat, 25 Oct 2025 01:56:47 GMT"
-    }
-  ],
   "Trade War": [
     {
       "title": "Breaking | China, US agree to preliminary framework deal to cool down trade war - South China Morning Post",
@@ -1150,10 +1104,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "U.S. Billion-Dollar Weather and Climate Disasters - Climate Central",
-      "pubDate": "Sat, 25 Oct 2025 09:53:17 GMT"
-    },
     {
       "title": "COP30 kicks off with urgent call to deliver on climate promises and scale up finance - UN News",
       "pubDate": "Sat, 08 Nov 2025 23:00:00 GMT"
@@ -1205,10 +1155,6 @@
   ],
   "Cybersecurity and Infrastructure Security Agency": [
     {
-      "title": "CISA Warns of Hackers Actively Exploiting Windows Server Update Services RCE Vulnerability in the Wild - CyberSecurityNews",
-      "pubDate": "Sat, 25 Oct 2025 02:38:08 GMT"
-    },
-    {
       "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers - The Hacker News",
       "pubDate": "Fri, 31 Oct 2025 08:46:00 GMT"
     },
@@ -1223,6 +1169,10 @@
     {
       "title": "CISA Warns of Google Chrome 0-Day Vulnerability Exploited in Attacks - CyberSecurityNews",
       "pubDate": "Thu, 20 Nov 2025 08:58:51 GMT"
+    },
+    {
+      "title": "U.S. Cyber Agency Flags Critical Oracle Identity Manager Flaw Amid Evidence of Active Attacks - LinkedIn",
+      "pubDate": "Mon, 24 Nov 2025 16:09:39 GMT"
     }
   ],
   "Elon Musk": [
@@ -1236,10 +1186,6 @@
     }
   ],
   "Pollution": [
-    {
-      "title": "October 24, 2025: Beijing among top 10 most polluted cities in the world - IQAir",
-      "pubDate": "Fri, 24 Oct 2025 11:56:11 GMT"
-    },
     {
       "title": "Delhi: Air pollution remains single largest health risk, accounts for 17,188 deaths in 2023, says report - livemint.com",
       "pubDate": "Fri, 31 Oct 2025 11:35:25 GMT"
@@ -1339,6 +1285,10 @@
     {
       "title": "New York Fed chief raises expectations of a rate cut - Axios",
       "pubDate": "Sat, 22 Nov 2025 04:27:26 GMT"
+    },
+    {
+      "title": "Fed's Waller: December cut appropriate, but January action more uncertain - Fox Business - Reuters",
+      "pubDate": "Mon, 24 Nov 2025 15:18:22 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1360,10 +1310,6 @@
     }
   ],
   "Microsoft": [
-    {
-      "title": "Act Now \u2014 Microsoft Issues Emergency Windows Update As Attacks Begin - Forbes",
-      "pubDate": "Sat, 25 Oct 2025 08:43:46 GMT"
-    },
     {
       "title": "Patch Now: Microsoft Flags Zero-Day & Critical Zero-Click Bugs - Dark Reading | Security",
       "pubDate": "Tue, 11 Nov 2025 21:22:12 GMT"
@@ -1387,6 +1333,10 @@
     {
       "title": "The EU indicates it won't accept the U.S.'s Russia-Ukraine peace deal - NPR",
       "pubDate": "Thu, 20 Nov 2025 21:52:10 GMT"
+    },
+    {
+      "title": "Why Europe and the U.S. Are Still Haggling on Trade - The New York Times",
+      "pubDate": "Mon, 24 Nov 2025 15:00:06 GMT"
     }
   ],
   "NVIDIA": [
@@ -1406,14 +1356,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "Bond Market Misfires With Warning of a Recession That Never Came - Bloomberg.com",
-      "pubDate": "Fri, 24 Oct 2025 17:44:35 GMT"
-    },
-    {
-      "title": "\u2018A serious shock.\u2019 U.S. trade talks are on the verge of falling apart. Could that push Canada into recession? - Toronto Star",
-      "pubDate": "Sat, 25 Oct 2025 10:00:00 GMT"
-    },
     {
       "title": "Why Donald Trump\u2019s recession-proof economy could soon change - AFR",
       "pubDate": "Wed, 29 Oct 2025 00:33:00 GMT"
@@ -1462,10 +1404,6 @@
     }
   ],
   "Global Health": [
-    {
-      "title": "Bird Flu Roars Back: What It Means for Thanksgiving - Think Global Health",
-      "pubDate": "Fri, 24 Oct 2025 11:57:05 GMT"
-    },
     {
       "title": "New COP30 report urges urgent action to protect health in a warming world - News-Medical",
       "pubDate": "Sat, 15 Nov 2025 02:39:00 GMT"
@@ -1543,10 +1481,6 @@
   ],
   "Cancer": [
     {
-      "title": "COVID-19 mRNA vaccines can trigger the immune system to recognize and kill cancer, research finds - Live Science",
-      "pubDate": "Sat, 25 Oct 2025 13:00:00 GMT"
-    },
-    {
       "title": "FDA says drug makers have recalled a blood pressure medicine tainted with a cancer-causing chemical - CNN",
       "pubDate": "Fri, 31 Oct 2025 14:04:29 GMT"
     }
@@ -1585,10 +1519,6 @@
   ],
   "Central Intelligence Agency": [
     {
-      "title": "\u2018US controlled Pak\u2019s nuclear arsenal, didn\u2019t eliminate AQ Khan due to Saudi pressure\u2019: Former CIA agent - WION",
-      "pubDate": "Fri, 24 Oct 2025 17:26:00 GMT"
-    },
-    {
       "title": "Exclusive | State Department Intelligence Agency Dissented Over Putin\u2019s Appetite for Peace - The Wall Street Journal",
       "pubDate": "Sun, 26 Oct 2025 09:00:00 GMT"
     },
@@ -1598,10 +1528,6 @@
     }
   ],
   "Defense Intelligence Agency": [
-    {
-      "title": "Intelligence Agency fighters destroy Russian air defense system, two radars in occupied territories - Interfax-Ukraine",
-      "pubDate": "Fri, 24 Oct 2025 14:52:07 GMT"
-    },
     {
       "title": "Defense Intelligence Agency Warns of Imminent Nuclear Test - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Wed, 05 Nov 2025 05:15:00 GMT"
