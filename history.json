@@ -79,10 +79,6 @@
   ],
   "US Politics": [
     {
-      "title": "Government shutdown hits Day 26 with no deal in sight - CBS News",
-      "pubDate": "Sun, 26 Oct 2025 04:01:11 GMT"
-    },
-    {
       "title": "Air traffic controllers receive $0 paychecks as government shutdown stretches - The Guardian",
       "pubDate": "Tue, 28 Oct 2025 22:01:00 GMT"
     },
@@ -113,10 +109,6 @@
   ],
   "Israel": [
     {
-      "title": "Footage shows Egyptian teams entering Gaza to assist in locating bodies of hostages - The Times of Israel",
-      "pubDate": "Sat, 25 Oct 2025 21:07:28 GMT"
-    },
-    {
       "title": "Netanyahu orders \"powerful\" strikes in Gaza as ceasefire breaks down - Axios",
       "pubDate": "Tue, 28 Oct 2025 16:21:18 GMT"
     },
@@ -143,6 +135,10 @@
     {
       "title": "Tense calm in far north as Israel prepares to \u2018finish the job\u2019 against Hezbollah - The Guardian",
       "pubDate": "Sat, 22 Nov 2025 09:00:00 GMT"
+    },
+    {
+      "title": "Israeli Strikes Have Killed at Least 127 Civilians in Lebanon Since Ceasefire, UN Says - U.S. News & World Report",
+      "pubDate": "Tue, 25 Nov 2025 10:23:00 GMT"
     }
   ],
   "Ukraine": [
@@ -213,17 +209,13 @@
     {
       "title": "Ukraine faces losing dignity or US support with Trump\u2019s plan to end war, Zelensky says - CNN",
       "pubDate": "Fri, 21 Nov 2025 15:19:41 GMT"
+    },
+    {
+      "title": "As Trump Pushes to End Ukraine War, Europe Toils to Have a Say - The New York Times",
+      "pubDate": "Tue, 25 Nov 2025 10:31:36 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "US could hit Russia with more sanctions over Ukraine war, but also wants Europe to increase pressure - Reuters",
-      "pubDate": "Sat, 25 Oct 2025 19:47:05 GMT"
-    },
-    {
-      "title": "Russia tested new nuclear-powered Burevestnik cruise missile - Reuters",
-      "pubDate": "Sun, 26 Oct 2025 08:34:48 GMT"
-    },
     {
       "title": "Europe lacks coordination as Russia \u2018prepares for war with NATO\u2019: Experts - Al Jazeera",
       "pubDate": "Mon, 27 Oct 2025 12:24:55 GMT"
@@ -319,6 +311,10 @@
     {
       "title": "In Russian-Occupied Mariupol, Everything Ukrainian Must Go - The New York Times",
       "pubDate": "Sun, 23 Nov 2025 05:01:15 GMT"
+    },
+    {
+      "title": "Russia-Ukraine war live: Nine killed in Kyiv, Rostov in overnight attacks - Al Jazeera",
+      "pubDate": "Tue, 25 Nov 2025 09:40:57 GMT"
     }
   ],
   "Donald Trump": [
@@ -601,10 +597,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "National Cyber Director Outlines Vision for New Cybersecurity Strategy - Homeland Security Today",
-      "pubDate": "Sat, 25 Oct 2025 18:26:33 GMT"
-    },
-    {
       "title": "Cybersecurity Skill Gap: Rising Threats Demand Talent - Deccan Herald",
       "pubDate": "Sun, 26 Oct 2025 23:07:15 GMT"
     },
@@ -695,6 +687,10 @@
     {
       "title": "Department of Energy unveils ambitious plan to tap into unlimited energy source: 'Deliver large-scale integration' - Yahoo",
       "pubDate": "Tue, 11 Nov 2025 02:30:00 GMT"
+    },
+    {
+      "title": "China accelerates efforts towards nuclear fusion with global research program - CCTV.com English",
+      "pubDate": "Tue, 25 Nov 2025 03:02:54 GMT"
     }
   ],
   "OpenAI": [
@@ -792,14 +788,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Exxon Sues California Over New Climate Disclosure Laws - The New York Times",
-      "pubDate": "Sat, 25 Oct 2025 18:52:20 GMT"
-    },
-    {
-      "title": "Trump and Republicans Join Big Oil\u2019s All-Out Push to Shut Down Climate Liability Efforts - Inside Climate News",
-      "pubDate": "Sun, 26 Oct 2025 08:55:00 GMT"
-    },
     {
       "title": "Satellites Discovered A Surprisingly Simple Strategy To Combat Climate Change - Yahoo",
       "pubDate": "Sun, 26 Oct 2025 15:45:00 GMT"
@@ -903,12 +891,6 @@
     {
       "title": "Alaska Native villages have few options and little US help as climate change devours their land - ABC News",
       "pubDate": "Sat, 22 Nov 2025 14:41:00 GMT"
-    }
-  ],
-  "Electric Vehicle": [
-    {
-      "title": "US risks losing more ground to China in EV race as investment tumbles - Financial Times",
-      "pubDate": "Sun, 26 Oct 2025 05:00:25 GMT"
     }
   ],
   "FBI": [
@@ -1097,12 +1079,6 @@
       "pubDate": "Sat, 22 Nov 2025 22:28:09 GMT"
     }
   ],
-  "Trade War": [
-    {
-      "title": "Breaking | China, US agree to preliminary framework deal to cool down trade war - South China Morning Post",
-      "pubDate": "Sun, 26 Oct 2025 09:16:12 GMT"
-    }
-  ],
   "Climate": [
     {
       "title": "COP30 kicks off with urgent call to deliver on climate promises and scale up finance - UN News",
@@ -1232,10 +1208,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Russia targets Kyiv with drones, killing 3 and wounding 29 - The Hill",
-      "pubDate": "Sun, 26 Oct 2025 10:04:01 GMT"
-    },
     {
       "title": "Ukraine launches major drone attack on Moscow; Russia closes airports, shoots down 28 drones - Mint",
       "pubDate": "Mon, 27 Oct 2025 00:55:48 GMT"
@@ -1519,10 +1491,6 @@
   ],
   "Central Intelligence Agency": [
     {
-      "title": "Exclusive | State Department Intelligence Agency Dissented Over Putin\u2019s Appetite for Peace - The Wall Street Journal",
-      "pubDate": "Sun, 26 Oct 2025 09:00:00 GMT"
-    },
-    {
       "title": "Venezuela claims capture of CIA group, accuses U.S. of plotting \u2018false flag\u2019 attack - Miami Herald",
       "pubDate": "Mon, 27 Oct 2025 13:58:00 GMT"
     }
@@ -1765,6 +1733,12 @@
     {
       "title": "\ud83d\udea8\ud83c\uddef\ud83c\uddf5 THE NEXT FRONTIER OF PLANETARY DEFENSE: AN 11-METER ASTEROID SPINNING LIKE A FRISBEE Japan's Hayabusa2 just got a 2031 mission upgrade - straight into a sci-fi nightmare. New data from ESO's VLT shows its final target, asteroid 19 - x.com",
       "pubDate": "Sun, 23 Nov 2025 00:10:00 GMT"
+    }
+  ],
+  "Machine Learning": [
+    {
+      "title": "AI quake tools forecast aftershock risk in seconds, study shows - Phys.org",
+      "pubDate": "Tue, 25 Nov 2025 04:00:05 GMT"
     }
   ]
 }
