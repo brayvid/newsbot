@@ -143,10 +143,6 @@
   ],
   "Ukraine": [
     {
-      "title": "The Kremlin\u2019s blitz to make Ukraine \u201cgo dark\u201d - The Economist",
-      "pubDate": "Sun, 26 Oct 2025 16:31:01 GMT"
-    },
-    {
       "title": "Ukraine war briefing: Russia claims test of nuclear-powered missile condemned as \u2018flying Chornobyl\u2019 - The Guardian",
       "pubDate": "Mon, 27 Oct 2025 02:36:00 GMT"
     },
@@ -365,13 +361,13 @@
     {
       "title": "The prospect of an embarrassing defeat convinced Trump to reverse course on Epstein files - CNN",
       "pubDate": "Tue, 18 Nov 2025 01:12:00 GMT"
+    },
+    {
+      "title": "Trump abruptly pulls plan to announce Obamacare extension after \u2018significant congressional backlash\u2019: report - The Independent",
+      "pubDate": "Tue, 25 Nov 2025 10:30:00 GMT"
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Stock market faces big moment as Fed decision collides with megacap tech earnings - MarketWatch",
-      "pubDate": "Sun, 26 Oct 2025 16:00:00 GMT"
-    },
     {
       "title": "This chart shows the risk of an AI bubble is growing, says a stalwart stock-market bull - MarketWatch",
       "pubDate": "Mon, 03 Nov 2025 22:29:00 GMT"
@@ -493,6 +489,10 @@
     {
       "title": "China criticizes Japan's plan to deploy missiles on island near Taiwan - NBC News",
       "pubDate": "Mon, 24 Nov 2025 10:01:04 GMT"
+    },
+    {
+      "title": "China and Japan Are in a Showdown, With Trump in the Middle - The New York Times",
+      "pubDate": "Tue, 25 Nov 2025 11:39:55 GMT"
     }
   ],
   "AI Safety": [
@@ -567,13 +567,13 @@
     {
       "title": "Senators Introduce AI Security Readiness Act - ExecutiveGov",
       "pubDate": "Thu, 20 Nov 2025 22:23:22 GMT"
+    },
+    {
+      "title": "Anthropic's AI Safety Team Raises Alarm: AI That Designs Vaccines Could Just As Easily Be Used To Build Bioweapons - Yahoo",
+      "pubDate": "Tue, 25 Nov 2025 17:00:49 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "Google Contractor Breaches Security, Steals Play Store Files - WebProNews",
-      "pubDate": "Sun, 26 Oct 2025 14:00:20 GMT"
-    },
     {
       "title": "At least 49 relatives and colleagues of Afghans in data leak have been killed, study suggests - The Guardian",
       "pubDate": "Mon, 27 Oct 2025 16:13:00 GMT"
@@ -785,13 +785,13 @@
     {
       "title": "Israel launches strikes in Gaza ceasefire\u2019s latest test as hospitals say more than 20 killed - Politico",
       "pubDate": "Sat, 22 Nov 2025 16:22:36 GMT"
+    },
+    {
+      "title": "Sexual abuse claims emerge from the Israel-Gaza war - NBC News",
+      "pubDate": "Tue, 25 Nov 2025 14:12:06 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "Satellites Discovered A Surprisingly Simple Strategy To Combat Climate Change - Yahoo",
-      "pubDate": "Sun, 26 Oct 2025 15:45:00 GMT"
-    },
     {
       "title": "Southern Ocean Is Building a 'Burp' That Could Reignite Global Warming - ScienceAlert",
       "pubDate": "Mon, 27 Oct 2025 01:38:57 GMT"
@@ -911,10 +911,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "It's official\u2014China is jumping into the race for artificial superintelligence, with Alibaba leading a plan that could change the fate of humanity - Pedirayudas.com",
-      "pubDate": "Sun, 26 Oct 2025 15:30:26 GMT"
-    },
-    {
       "title": "Microsoft and OpenAI revise deal terms, require external panel to evaluate AGI claims - The Indian Express",
       "pubDate": "Tue, 28 Oct 2025 14:58:39 GMT"
     },
@@ -986,10 +982,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea's Top Diplomat to Visit Russia From Sunday - The Moscow Times",
-      "pubDate": "Sun, 26 Oct 2025 11:58:21 GMT"
-    },
     {
       "title": "North Korea says it test-fired cruise missiles ahead of Trump\u2019s visit to South Korea - The Hill",
       "pubDate": "Tue, 28 Oct 2025 22:33:16 GMT"
@@ -1295,10 +1287,6 @@
   ],
   "European Union": [
     {
-      "title": "EU considers more flexible climate target in hunt for deal, draft shows - Reuters",
-      "pubDate": "Sun, 26 Oct 2025 17:50:38 GMT"
-    },
-    {
       "title": "Ukraine\u2019s Cash Is Running Low, and Europe Has No Good Plan B - The New York Times",
       "pubDate": "Mon, 17 Nov 2025 16:08:55 GMT"
     },
@@ -1503,12 +1491,6 @@
     {
       "title": "Ukraine Defense Intelligence Exposes Japan, China, Taiwan Machines in Russian Weapons Production - UNITED24 Media",
       "pubDate": "Mon, 17 Nov 2025 10:38:04 GMT"
-    }
-  ],
-  "Public Health": [
-    {
-      "title": "Why new mpox cases in California are raising concerns - The Hill",
-      "pubDate": "Sun, 26 Oct 2025 17:00:00 GMT"
     }
   ],
   "Hurricanes": [
