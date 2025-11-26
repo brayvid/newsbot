@@ -373,6 +373,10 @@
     {
       "title": "Live updates: Trump directs Witkoff to meet Putin as momentum builds on Ukraine peace talks - CNN",
       "pubDate": "Tue, 25 Nov 2025 23:05:00 GMT"
+    },
+    {
+      "title": "Trump once again steps up attacks on TV networks as he threatens to revoke licenses - The Guardian",
+      "pubDate": "Wed, 26 Nov 2025 11:02:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -609,10 +613,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Ex-CISA chief says AI could mean the end of cybersecurity - theregister.com",
-      "pubDate": "Mon, 27 Oct 2025 11:43:00 GMT"
-    },
-    {
       "title": "China Amends Cybersecurity Law and Incident Reporting Regime to Address AI and Infrastructure Risks - Inside Privacy",
       "pubDate": "Tue, 28 Oct 2025 23:17:22 GMT"
     },
@@ -643,6 +643,10 @@
     {
       "title": "Harvard cyberattack data breach exposes alumni, donors, students and faculty records? Here's complete trut - The Economic Times",
       "pubDate": "Sat, 22 Nov 2025 20:36:46 GMT"
+    },
+    {
+      "title": "Eroding Global Stability: The Cybersecurity Strategies Of China, Russia, North Korea, And Iran - Small Wars Journal",
+      "pubDate": "Wed, 26 Nov 2025 06:01:40 GMT"
     }
   ],
   "US Economy": [
@@ -1013,6 +1017,10 @@
     {
       "title": "North Korean troops deployed to clear land mines for Russia - The Telegraph",
       "pubDate": "Sat, 15 Nov 2025 11:58:00 GMT"
+    },
+    {
+      "title": "N. Korea may possess more than 400 nuclear weapons by 2040: analyst - upi.com",
+      "pubDate": "Wed, 26 Nov 2025 09:58:54 GMT"
     }
   ],
   "Iran": [
@@ -1367,6 +1375,10 @@
     {
       "title": "Mexico Economy Dipped Last Quarter, Fueling Recession Fears - Bloomberg.com",
       "pubDate": "Fri, 21 Nov 2025 15:14:53 GMT"
+    },
+    {
+      "title": "China's fixed asset investment recession could be the start of a sea change, says expert - MSN",
+      "pubDate": "Wed, 26 Nov 2025 09:12:54 GMT"
     }
   ],
   "Social Media": [
@@ -1497,6 +1509,10 @@
     {
       "title": "Venezuela claims capture of CIA group, accuses U.S. of plotting \u2018false flag\u2019 attack - Miami Herald",
       "pubDate": "Mon, 27 Oct 2025 13:58:00 GMT"
+    },
+    {
+      "title": "Colombian President says CIA wants to oust him - MercoPress",
+      "pubDate": "Wed, 26 Nov 2025 09:27:00 GMT"
     }
   ],
   "Defense Intelligence Agency": [
@@ -1743,6 +1759,18 @@
     {
       "title": "Argonne partnering with Nvidia, Oracle to create super AI computer - CBS News",
       "pubDate": "Wed, 26 Nov 2025 00:35:00 GMT"
+    }
+  ],
+  "Violence": [
+    {
+      "title": "Violence Is Driving Catastrophic Hunger in Nigeria, U.N. Report Says - The New York Times",
+      "pubDate": "Wed, 26 Nov 2025 09:00:00 GMT"
+    }
+  ],
+  "Physics": [
+    {
+      "title": "Physicists Observe a Nuclear \u201cMemory\u201d Thought Impossible - SciTechDaily",
+      "pubDate": "Wed, 26 Nov 2025 00:10:19 GMT"
     }
   ]
 }
