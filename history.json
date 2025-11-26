@@ -147,10 +147,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war briefing: Russia claims test of nuclear-powered missile condemned as \u2018flying Chornobyl\u2019 - The Guardian",
-      "pubDate": "Mon, 27 Oct 2025 02:36:00 GMT"
-    },
-    {
       "title": "Ukraine war latest: Zelensky ready for peace talks \u2013 anywhere but Russia or Belarus - The Independent",
       "pubDate": "Wed, 29 Oct 2025 02:32:18 GMT"
     },
@@ -505,6 +501,10 @@
     {
       "title": "China and Japan Are in a Showdown, With Trump in the Middle - The New York Times",
       "pubDate": "Tue, 25 Nov 2025 11:39:55 GMT"
+    },
+    {
+      "title": "Taiwan's President Lai lashes out against Beijing, pledging $40 billion in additional defense budget - CNBC",
+      "pubDate": "Wed, 26 Nov 2025 05:23:26 GMT"
     }
   ],
   "AI Safety": [
@@ -691,8 +691,8 @@
   ],
   "Bitcoin": [
     {
-      "title": "Bitcoin surges above $115,000, millions in short positions liquidated - theblock.co",
-      "pubDate": "Mon, 27 Oct 2025 02:46:43 GMT"
+      "title": "Oct. 7 families' lawsuit says Bitcoin CEO, whom Trump pardoned, facilitated $1B in payments to Hamas and its allies - Jewish Telegraphic Agency",
+      "pubDate": "Tue, 25 Nov 2025 19:51:09 GMT"
     }
   ],
   "Fusion Power": [
@@ -808,10 +808,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Southern Ocean Is Building a 'Burp' That Could Reignite Global Warming - ScienceAlert",
-      "pubDate": "Mon, 27 Oct 2025 01:38:57 GMT"
-    },
     {
       "title": "From promises to delivery: Can COP30 break the climate deadlock? - Reuters",
       "pubDate": "Mon, 27 Oct 2025 16:36:03 GMT"
@@ -1221,10 +1217,6 @@
   ],
   "Drones": [
     {
-      "title": "Ukraine launches major drone attack on Moscow; Russia closes airports, shoots down 28 drones - Mint",
-      "pubDate": "Mon, 27 Oct 2025 00:55:48 GMT"
-    },
-    {
       "title": "African women tricked into making Russian drones: 'My skin was peeling' - BBC",
       "pubDate": "Wed, 05 Nov 2025 06:23:25 GMT"
     },
@@ -1321,6 +1313,10 @@
     {
       "title": "Why Europe and the U.S. Are Still Haggling on Trade - The New York Times",
       "pubDate": "Mon, 24 Nov 2025 15:00:06 GMT"
+    },
+    {
+      "title": "Europeans sketch out plan B in race to raid Russian assets for Ukraine - politico.eu",
+      "pubDate": "Wed, 26 Nov 2025 03:12:00 GMT"
     }
   ],
   "NVIDIA": [
@@ -1330,10 +1326,6 @@
     }
   ],
   "Health": [
-    {
-      "title": "Diphtheria, a Once Vanquished Killer of Children, Is Resurgent - The New York Times",
-      "pubDate": "Mon, 27 Oct 2025 04:00:06 GMT"
-    },
     {
       "title": "ACA open enrollment begins with spike in healthcare premiums - BBC",
       "pubDate": "Sat, 01 Nov 2025 16:47:30 GMT"
@@ -1433,6 +1425,10 @@
     {
       "title": "Man accused of setting woman on fire on Chicago train faces federal terrorism charge - NBC News",
       "pubDate": "Fri, 21 Nov 2025 02:43:00 GMT"
+    },
+    {
+      "title": "AI Apps Like ChatGPT Have Created \u2018New Era of Terrorism,\u2019 Study Reveals - Algemeiner.com",
+      "pubDate": "Tue, 25 Nov 2025 22:35:00 GMT"
     }
   ],
   "Investment": [
@@ -1741,6 +1737,12 @@
     {
       "title": "AI quake tools forecast aftershock risk in seconds, study shows - Phys.org",
       "pubDate": "Tue, 25 Nov 2025 04:00:05 GMT"
+    }
+  ],
+  "Computers": [
+    {
+      "title": "Argonne partnering with Nvidia, Oracle to create super AI computer - CBS News",
+      "pubDate": "Wed, 26 Nov 2025 00:35:00 GMT"
     }
   ]
 }
