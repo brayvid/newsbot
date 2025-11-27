@@ -83,10 +83,6 @@
   ],
   "US Politics": [
     {
-      "title": "Air traffic controllers receive $0 paychecks as government shutdown stretches - The Guardian",
-      "pubDate": "Tue, 28 Oct 2025 22:01:00 GMT"
-    },
-    {
       "title": "Food aid for 42 million imperiled by shutdown politics, as Trump tests law - Reuters",
       "pubDate": "Wed, 29 Oct 2025 10:03:22 GMT"
     },
@@ -116,10 +112,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Netanyahu orders \"powerful\" strikes in Gaza as ceasefire breaks down - Axios",
-      "pubDate": "Tue, 28 Oct 2025 16:21:18 GMT"
-    },
     {
       "title": "Updates: Israel\u2019s Gaza attacks continue; Hamas hands over Goldin\u2019s remains - Al Jazeera",
       "pubDate": "Sun, 09 Nov 2025 16:01:41 GMT"
@@ -319,13 +311,13 @@
     {
       "title": "Russia Strikes Ukraine and Signals Resistance to Amended Peace Plan - The New York Times",
       "pubDate": "Tue, 25 Nov 2025 21:08:50 GMT"
+    },
+    {
+      "title": "Putin doubles down on demands for Ukrainian territory ahead of talks with US - BBC",
+      "pubDate": "Thu, 27 Nov 2025 22:18:56 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump Says He Is Prepared to Send \u2018More Than the National Guard\u2019 Into U.S. Cities - The New York Times",
-      "pubDate": "Tue, 28 Oct 2025 15:17:03 GMT"
-    },
     {
       "title": "Trump calls for end of Senate filibuster to break funding stalemate - CNN",
       "pubDate": "Fri, 31 Oct 2025 04:11:00 GMT"
@@ -402,10 +394,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Exclusive | Trump, Xi to Discuss Lowering China Tariffs for Fentanyl Crackdown - The Wall Street Journal",
-      "pubDate": "Tue, 28 Oct 2025 16:30:00 GMT"
-    },
     {
       "title": "Donald Trump says US can sign trade deal with China 'pretty soon' after talks with Xi Jinping - BBC",
       "pubDate": "Thu, 30 Oct 2025 04:45:31 GMT"
@@ -517,6 +505,10 @@
     {
       "title": "China\u2019s property market is (somehow) worsening - The Economist",
       "pubDate": "Thu, 27 Nov 2025 11:37:22 GMT"
+    },
+    {
+      "title": "Watch How China Came to Dominate Global Shipping Ports - Bloomberg.com",
+      "pubDate": "Thu, 27 Nov 2025 22:00:03 GMT"
     }
   ],
   "AI Safety": [
@@ -587,6 +579,10 @@
     {
       "title": "Congress calls Anthropic CEO to testify on Chinese AI cyberattack - Tech in Asia",
       "pubDate": "Thu, 27 Nov 2025 02:36:00 GMT"
+    },
+    {
+      "title": "OpenAI responds lawsuit over teen suicide as debate over AI safety intensifies - Techloy",
+      "pubDate": "Thu, 27 Nov 2025 13:25:35 GMT"
     }
   ],
   "Data Breach": [
@@ -608,10 +604,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "China Amends Cybersecurity Law and Incident Reporting Regime to Address AI and Infrastructure Risks - Inside Privacy",
-      "pubDate": "Tue, 28 Oct 2025 23:17:22 GMT"
-    },
     {
       "title": "LG Uplus breach, Conduent attack, Russian exploit against Ukraine - CISO Series",
       "pubDate": "Thu, 30 Oct 2025 10:00:00 GMT"
@@ -647,13 +639,13 @@
     {
       "title": "State-backed spyware attacks are targeting Signal and WhatsApp users, CISA warns - Bitdefender",
       "pubDate": "Thu, 27 Nov 2025 09:11:41 GMT"
+    },
+    {
+      "title": "Cybersecurity experts alarmed by Snapchat's age-verification plan - abc.net.au",
+      "pubDate": "Thu, 27 Nov 2025 19:30:09 GMT"
     }
   ],
   "US Economy": [
-    {
-      "title": "Government shutdown slams US economy: Bank of America CEO warns it will slow growth - Fox Business",
-      "pubDate": "Tue, 28 Oct 2025 12:53:18 GMT"
-    },
     {
       "title": "Federal shutdown could cost US economy up to $14 billion - Reuters",
       "pubDate": "Wed, 29 Oct 2025 20:42:06 GMT"
@@ -809,6 +801,10 @@
     {
       "title": "Rebuilding \u2018human-made abyss\u2019 in Gaza will cost at least $70bn, UN says - The Guardian",
       "pubDate": "Tue, 25 Nov 2025 19:54:00 GMT"
+    },
+    {
+      "title": "Israel still committing genocide in Gaza, Amnesty International says - The Guardian",
+      "pubDate": "Thu, 27 Nov 2025 19:07:00 GMT"
     }
   ],
   "Climate Change": [
@@ -899,6 +895,10 @@
     {
       "title": "N.C. Regulators Say Trump\u2019s Proposed Repeal of the Endangerment Finding Would Increase \u2018Criteria\u2019 Air Pollutants - Inside Climate News",
       "pubDate": "Tue, 25 Nov 2025 23:33:51 GMT"
+    },
+    {
+      "title": "Dimming the Sun to fight climate change is bad for planet, ministers fear - The Telegraph",
+      "pubDate": "Thu, 27 Nov 2025 19:48:00 GMT"
     }
   ],
   "FBI": [
@@ -911,17 +911,7 @@
       "pubDate": "Sun, 16 Nov 2025 04:16:03 GMT"
     }
   ],
-  "Technology": [
-    {
-      "title": "Argonne will team up with Nvidia to build one of the biggest AI supercomputers - Crain's Chicago Business",
-      "pubDate": "Tue, 28 Oct 2025 22:09:31 GMT"
-    }
-  ],
   "Artificial General Intelligence": [
-    {
-      "title": "Microsoft and OpenAI revise deal terms, require external panel to evaluate AGI claims - The Indian Express",
-      "pubDate": "Tue, 28 Oct 2025 14:58:39 GMT"
-    },
     {
       "title": "'We're At This Intermediate Stage': Ex-Tesla AI Chief Andrej Karpathy Says AGI Is Still A Decade Away - Yahoo Finance",
       "pubDate": "Sun, 09 Nov 2025 19:32:06 GMT"
@@ -990,10 +980,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea says it test-fired cruise missiles ahead of Trump\u2019s visit to South Korea - The Hill",
-      "pubDate": "Tue, 28 Oct 2025 22:33:16 GMT"
-    },
     {
       "title": "South Korea launches fifth spy satellite to monitor North Korea - nhk.or.jp",
       "pubDate": "Sun, 02 Nov 2025 13:22:10 GMT"
@@ -1110,10 +1096,6 @@
     }
   ],
   "US Congress": [
-    {
-      "title": "Democrats face moment of truth as shutdown coalition frays - Politico",
-      "pubDate": "Tue, 28 Oct 2025 14:31:32 GMT"
-    },
     {
       "title": "US government allowed and even helped US firms sell tech used for surveillance in China, AP finds - AP News",
       "pubDate": "Thu, 30 Oct 2025 00:02:00 GMT"
@@ -1281,12 +1263,6 @@
       "pubDate": "Tue, 11 Nov 2025 21:22:12 GMT"
     }
   ],
-  "Infrastructure": [
-    {
-      "title": "NVIDIA and Partners Build America\u2019s AI Infrastructure and Create Blueprint to Power the Next Industrial Revolution - NVIDIA Newsroom",
-      "pubDate": "Tue, 28 Oct 2025 16:53:41 GMT"
-    }
-  ],
   "European Union": [
     {
       "title": "Ukraine\u2019s Cash Is Running Low, and Europe Has No Good Plan B - The New York Times",
@@ -1433,12 +1409,6 @@
       "pubDate": "Tue, 11 Nov 2025 11:08:00 GMT"
     }
   ],
-  "United Nations": [
-    {
-      "title": "UN\u2019s Albanese presents blistering report on complicity in Gaza genocide - Al Jazeera",
-      "pubDate": "Tue, 28 Oct 2025 17:39:52 GMT"
-    }
-  ],
   "Military Intelligence": [
     {
       "title": "Former Taiwan Intel Chief Warns of Deep CCP Infiltration in Government, Military, Industry - Vision Times",
@@ -1483,6 +1453,10 @@
     {
       "title": "Colombian President says CIA wants to oust him - MercoPress",
       "pubDate": "Wed, 26 Nov 2025 09:27:00 GMT"
+    },
+    {
+      "title": "D.C. Shooting Suspect Worked With CIA in Afghanistan - The Wall Street Journal",
+      "pubDate": "Thu, 27 Nov 2025 21:46:00 GMT"
     }
   ],
   "Defense Intelligence Agency": [
@@ -1503,12 +1477,6 @@
     {
       "title": "At least 50 dead as Hurricane Melissa devastates the Caribbean; Bermuda braces for storm - USA Today",
       "pubDate": "Fri, 31 Oct 2025 01:07:30 GMT"
-    }
-  ],
-  "Hurricane Melissa": [
-    {
-      "title": "Hurricane Melissa on path to historic Jamaica landfall as conditions worsen: Live updates - CNN",
-      "pubDate": "Tue, 28 Oct 2025 16:25:00 GMT"
     }
   ],
   "United States": [
