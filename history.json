@@ -109,6 +109,10 @@
     {
       "title": "Trump Accuses Democratic Lawmakers of \u201dSEDITIOUS BEHAVIOR, punishable by DEATH!\u201d - Democracy Now!",
       "pubDate": "Fri, 21 Nov 2025 15:01:33 GMT"
+    },
+    {
+      "title": "US: Immigration requests for Afghans \u2018stopped indefinitely\u2019 - CNN",
+      "pubDate": "Thu, 27 Nov 2025 06:10:09 GMT"
     }
   ],
   "Israel": [
@@ -143,6 +147,10 @@
     {
       "title": "Israeli Strikes Have Killed at Least 127 Civilians in Lebanon Since Ceasefire, UN Says - U.S. News & World Report",
       "pubDate": "Tue, 25 Nov 2025 10:23:00 GMT"
+    },
+    {
+      "title": "Aid access and hospital operations remain constrained in Gaza - UN News",
+      "pubDate": "Thu, 27 Nov 2025 01:50:51 GMT"
     }
   ],
   "Ukraine": [
@@ -209,17 +217,13 @@
     {
       "title": "As Trump Pushes to End Ukraine War, Europe Toils to Have a Say - The New York Times",
       "pubDate": "Tue, 25 Nov 2025 10:31:36 GMT"
+    },
+    {
+      "title": "Allies worry US demands Ukraine deal before security guarantees - Politico",
+      "pubDate": "Thu, 27 Nov 2025 02:10:00 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Europe lacks coordination as Russia \u2018prepares for war with NATO\u2019: Experts - Al Jazeera",
-      "pubDate": "Mon, 27 Oct 2025 12:24:55 GMT"
-    },
-    {
-      "title": "Russia's Burevestnik missile: Trump calls Putin test 'inappropriate' - NBC News",
-      "pubDate": "Mon, 27 Oct 2025 14:01:57 GMT"
-    },
     {
       "title": "Russia blasts Ukraine\u2019s power grid again, causing outages across the country and killing 2 - The Hill",
       "pubDate": "Thu, 30 Oct 2025 10:23:09 GMT"
@@ -509,21 +513,13 @@
     {
       "title": "Taiwan's President Lai lashes out against Beijing, pledging $40 billion in additional defense budget - CNBC",
       "pubDate": "Wed, 26 Nov 2025 05:23:26 GMT"
+    },
+    {
+      "title": "China\u2019s property market is (somehow) worsening - The Economist",
+      "pubDate": "Thu, 27 Nov 2025 11:37:22 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Nvidia CEO Hails AI as America\u2019s Next Industrial Revolution and States Lead Push for AI Safety \u2014 AI: The Washington Report - JD Supra",
-      "pubDate": "Mon, 27 Oct 2025 14:02:04 GMT"
-    },
-    {
-      "title": "Grassley Calls on the Federal Judiciary to Formally Regulate AI Use - Senate Committee on the Judiciary (.gov)",
-      "pubDate": "Mon, 27 Oct 2025 21:58:19 GMT"
-    },
-    {
-      "title": "Opinion | I Worked at OpenAI. It\u2019s Not Doing Enough to Protect People. - The New York Times",
-      "pubDate": "Tue, 28 Oct 2025 09:02:39 GMT"
-    },
     {
       "title": "Korean researchers propose international standards to ensure AI safety and trustworthiness - Tech Xplore",
       "pubDate": "Thu, 30 Oct 2025 14:04:04 GMT"
@@ -587,13 +583,13 @@
     {
       "title": "Anthropic's AI Safety Team Raises Alarm: AI That Designs Vaccines Could Just As Easily Be Used To Build Bioweapons - Yahoo",
       "pubDate": "Tue, 25 Nov 2025 17:00:49 GMT"
+    },
+    {
+      "title": "Congress calls Anthropic CEO to testify on Chinese AI cyberattack - Tech in Asia",
+      "pubDate": "Thu, 27 Nov 2025 02:36:00 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "At least 49 relatives and colleagues of Afghans in data leak have been killed, study suggests - The Guardian",
-      "pubDate": "Mon, 27 Oct 2025 16:13:00 GMT"
-    },
     {
       "title": "Data breach at Chinese infosec firm reveals cyber-weapons and target list - theregister.com",
       "pubDate": "Sun, 09 Nov 2025 23:51:00 GMT"
@@ -647,6 +643,10 @@
     {
       "title": "Eroding Global Stability: The Cybersecurity Strategies Of China, Russia, North Korea, And Iran - Small Wars Journal",
       "pubDate": "Wed, 26 Nov 2025 06:01:40 GMT"
+    },
+    {
+      "title": "State-backed spyware attacks are targeting Signal and WhatsApp users, CISA warns - Bitdefender",
+      "pubDate": "Thu, 27 Nov 2025 09:11:41 GMT"
     }
   ],
   "US Economy": [
@@ -812,18 +812,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "From promises to delivery: Can COP30 break the climate deadlock? - Reuters",
-      "pubDate": "Mon, 27 Oct 2025 16:36:03 GMT"
-    },
-    {
-      "title": "Most countries stumble on climate targets - Politico",
-      "pubDate": "Mon, 27 Oct 2025 22:16:57 GMT"
-    },
-    {
-      "title": "\u2018Change course now\u2019: humanity has missed 1.5C climate target, says UN head - The Guardian",
-      "pubDate": "Tue, 28 Oct 2025 09:34:00 GMT"
-    },
     {
       "title": "Report warns climate change causing millions of preventable deaths each year - France 24",
       "pubDate": "Wed, 29 Oct 2025 00:56:42 GMT"
@@ -1025,10 +1013,6 @@
   ],
   "Iran": [
     {
-      "title": "CSIS Satellite Imagery Analysis Reveals Possible Signs of Renewed Nuclear Activity in Iran - CSIS | Center for Strategic and International Studies",
-      "pubDate": "Mon, 27 Oct 2025 16:05:39 GMT"
-    },
-    {
       "title": "Iran condemns Trump\u2019s call to resume US nuclear testing - Al Jazeera",
       "pubDate": "Fri, 31 Oct 2025 04:35:10 GMT"
     },
@@ -1125,12 +1109,6 @@
       "pubDate": "Sat, 22 Nov 2025 11:45:00 GMT"
     }
   ],
-  "Large Language Models": [
-    {
-      "title": "MiniMax-M2 is the new king of open source LLMs (especially for agentic tool calling) - VentureBeat",
-      "pubDate": "Mon, 27 Oct 2025 19:02:04 GMT"
-    }
-  ],
   "US Congress": [
     {
       "title": "Democrats face moment of truth as shutdown coalition frays - Politico",
@@ -1181,6 +1159,10 @@
     {
       "title": "Delhi: Air pollution remains single largest health risk, accounts for 17,188 deaths in 2023, says report - livemint.com",
       "pubDate": "Fri, 31 Oct 2025 11:35:25 GMT"
+    },
+    {
+      "title": "Delhi pollution: Children are hit hardest by toxic air in Indian capital - BBC",
+      "pubDate": "Thu, 27 Nov 2025 01:02:03 GMT"
     }
   ],
   "World News": [
@@ -1250,10 +1232,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "Fed poised to cut rates this week, with more easing likely on tap - Reuters",
-      "pubDate": "Mon, 27 Oct 2025 13:22:38 GMT"
-    },
     {
       "title": "Federal Reserve cuts key interest rate; shutdown pain intensifies - NBC4 Washington",
       "pubDate": "Thu, 30 Oct 2025 01:50:37 GMT"
@@ -1487,10 +1465,6 @@
   ],
   "Amazon": [
     {
-      "title": "Exclusive: Amazon targets as many as 30,000 corporate job cuts, sources say - Reuters",
-      "pubDate": "Mon, 27 Oct 2025 21:54:59 GMT"
-    },
-    {
       "title": "Amazon recall: Threat-to-life warning issued, items pulled nationwide - AL.com",
       "pubDate": "Sat, 22 Nov 2025 19:32:00 GMT"
     }
@@ -1507,10 +1481,6 @@
   ],
   "Central Intelligence Agency": [
     {
-      "title": "Venezuela claims capture of CIA group, accuses U.S. of plotting \u2018false flag\u2019 attack - Miami Herald",
-      "pubDate": "Mon, 27 Oct 2025 13:58:00 GMT"
-    },
-    {
       "title": "Colombian President says CIA wants to oust him - MercoPress",
       "pubDate": "Wed, 26 Nov 2025 09:27:00 GMT"
     }
@@ -1526,10 +1496,6 @@
     }
   ],
   "Hurricanes": [
-    {
-      "title": "Hurricane Melissa intensifies to Category 5, threatens Jamaica with 'catastrophic' flooding - NBC News",
-      "pubDate": "Mon, 27 Oct 2025 13:19:45 GMT"
-    },
     {
       "title": "Hurricane Melissa Live Updates: Death Toll Rises as Storm Churns Toward the Bahamas - The New York Times",
       "pubDate": "Thu, 30 Oct 2025 03:35:00 GMT"
