@@ -147,10 +147,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war latest: Zelensky ready for peace talks \u2013 anywhere but Russia or Belarus - The Independent",
-      "pubDate": "Wed, 29 Oct 2025 02:32:18 GMT"
-    },
-    {
       "title": "Ukraine says it killed Russian officer in Siberia using car bomb - CNN",
       "pubDate": "Wed, 29 Oct 2025 17:07:57 GMT"
     },
@@ -373,6 +369,10 @@
     {
       "title": "Trump once again steps up attacks on TV networks as he threatens to revoke licenses - The Guardian",
       "pubDate": "Wed, 26 Nov 2025 11:02:00 GMT"
+    },
+    {
+      "title": "Trump says US will permanently pause migration from 'Third World Countries' - Reuters",
+      "pubDate": "Fri, 28 Nov 2025 04:54:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -583,6 +583,10 @@
     {
       "title": "OpenAI responds lawsuit over teen suicide as debate over AI safety intensifies - Techloy",
       "pubDate": "Thu, 27 Nov 2025 13:25:35 GMT"
+    },
+    {
+      "title": "California, White House Clash Over Who Should Regulate Artificial Intelligence - ABC10",
+      "pubDate": "Fri, 28 Nov 2025 01:45:00 GMT"
     }
   ],
   "Data Breach": [
@@ -809,10 +813,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Report warns climate change causing millions of preventable deaths each year - France 24",
-      "pubDate": "Wed, 29 Oct 2025 00:56:42 GMT"
-    },
-    {
       "title": "Current National Climate Pledges Fall Far Short of What Is Needed to Limit Warming to 1.5C, Report Shows - Earth.Org",
       "pubDate": "Thu, 30 Oct 2025 02:36:54 GMT"
     },
@@ -938,10 +938,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Pentagon takes steps to fire civilian workers with 'speed and conviction' - NBC News",
-      "pubDate": "Wed, 29 Oct 2025 00:35:00 GMT"
-    },
     {
       "title": "Thousands of UFOs spotted off US coastlines raise new national security fears: expert - FOX 9 Minneapolis-St. Paul",
       "pubDate": "Sun, 02 Nov 2025 15:17:25 GMT"
@@ -1093,6 +1089,10 @@
     {
       "title": "With the world at COP30, Trump administration rolls back environmental rules - NBC News",
       "pubDate": "Sat, 22 Nov 2025 11:45:00 GMT"
+    },
+    {
+      "title": "Canada Lifts Climate Laws for Alberta Oil Sands, Planning Pipeline - The New York Times",
+      "pubDate": "Fri, 28 Nov 2025 02:20:34 GMT"
     }
   ],
   "US Congress": [
@@ -1145,6 +1145,10 @@
     {
       "title": "Delhi pollution: Children are hit hardest by toxic air in Indian capital - BBC",
       "pubDate": "Thu, 27 Nov 2025 01:02:03 GMT"
+    },
+    {
+      "title": "Pollution Worsens In Delhi, Air Quality 'Severe' In Most Areas - NDTV",
+      "pubDate": "Fri, 28 Nov 2025 03:27:23 GMT"
     }
   ],
   "World News": [
@@ -1185,6 +1189,10 @@
     {
       "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability - The Hacker News",
       "pubDate": "Tue, 18 Nov 2025 04:44:00 GMT"
+    },
+    {
+      "title": "N. Korean hacking group Lazarus suspected behind recent crypto hacking: sources - upi.com",
+      "pubDate": "Fri, 28 Nov 2025 04:15:25 GMT"
     }
   ],
   "Drones": [
@@ -1295,10 +1303,6 @@
   ],
   "Recession": [
     {
-      "title": "Why Donald Trump\u2019s recession-proof economy could soon change - AFR",
-      "pubDate": "Wed, 29 Oct 2025 00:33:00 GMT"
-    },
-    {
       "title": "Warning signs may point to a looming recession as shutdown continues - NewsNation",
       "pubDate": "Fri, 31 Oct 2025 12:45:09 GMT"
     },
@@ -1367,12 +1371,6 @@
     {
       "title": "The James Webb Space Telescope may have finally found the 1st stars in the universe - Space",
       "pubDate": "Tue, 18 Nov 2025 20:00:00 GMT"
-    }
-  ],
-  "Geopolitics": [
-    {
-      "title": "Russia\u2019s Burevestnik: A Geopolitical Game-Changer? \u2013 Analysis - Eurasia Review",
-      "pubDate": "Wed, 29 Oct 2025 00:40:19 GMT"
     }
   ],
   "Terrorism": [
@@ -1605,6 +1603,10 @@
     {
       "title": "Senators\u2019 surveillance payday exposes flawed privacy laws - The Hill",
       "pubDate": "Sun, 16 Nov 2025 19:00:00 GMT"
+    },
+    {
+      "title": "EU's \"Chat Control\" Moves Forward Despite Privacy Concerns: What 450 Million Europeans Need to Know - Brave New Coin",
+      "pubDate": "Thu, 27 Nov 2025 22:09:23 GMT"
     }
   ],
   "Rain Forests": [
