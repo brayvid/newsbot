@@ -83,10 +83,6 @@
   ],
   "US Politics": [
     {
-      "title": "Food aid for 42 million imperiled by shutdown politics, as Trump tests law - Reuters",
-      "pubDate": "Wed, 29 Oct 2025 10:03:22 GMT"
-    },
-    {
       "title": "Upcoming elections pose early test of Trump\u2019s presidency as government shutdown drags on - CNN",
       "pubDate": "Sun, 02 Nov 2025 22:38:00 GMT"
     },
@@ -311,6 +307,10 @@
     {
       "title": "Putin doubles down on demands for Ukrainian territory ahead of talks with US - BBC",
       "pubDate": "Thu, 27 Nov 2025 22:18:56 GMT"
+    },
+    {
+      "title": "Ukraine war latest: Kyiv says Zelensky will never give up territory to Putin - The Independent",
+      "pubDate": "Fri, 28 Nov 2025 10:30:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -587,6 +587,10 @@
     {
       "title": "California, White House Clash Over Who Should Regulate Artificial Intelligence - ABC10",
       "pubDate": "Fri, 28 Nov 2025 01:45:00 GMT"
+    },
+    {
+      "title": "Poetry Can Jailbreak AI Into Making Nuclear Weapons - The Tech Buzz",
+      "pubDate": "Fri, 28 Nov 2025 10:49:00 GMT"
     }
   ],
   "Data Breach": [
@@ -605,6 +609,10 @@
     {
       "title": "DoorDash confirms data breach impacting users\u2019 phone numbers and physical addresses - TechCrunch",
       "pubDate": "Mon, 17 Nov 2025 15:27:38 GMT"
+    },
+    {
+      "title": "CodeRED Emergency Alerts Disrupted Across US After Ransomware Breach - Bitdefender",
+      "pubDate": "Fri, 28 Nov 2025 11:50:20 GMT"
     }
   ],
   "Cybersecurity": [
@@ -713,6 +721,10 @@
     {
       "title": "OpenAI taps iPhone assembler Foxconn to manufacture data center components in U.S. - CNBC",
       "pubDate": "Thu, 20 Nov 2025 22:50:01 GMT"
+    },
+    {
+      "title": "OpenAI partners amass $100bn debt pile to fund its ambitions - Financial Times",
+      "pubDate": "Fri, 28 Nov 2025 05:00:22 GMT"
     }
   ],
   "Quantum Computing": [
@@ -809,6 +821,10 @@
     {
       "title": "Israel still committing genocide in Gaza, Amnesty International says - The Guardian",
       "pubDate": "Thu, 27 Nov 2025 19:07:00 GMT"
+    },
+    {
+      "title": "LIVE: Israel bombs Syria, Gaza after extrajudicial killings in West Bank - Al Jazeera",
+      "pubDate": "Fri, 28 Nov 2025 10:18:50 GMT"
     }
   ],
   "Climate Change": [
@@ -973,6 +989,10 @@
     {
       "title": "Congressional committee urges swift action on escalating Chinese threats - The Washington Post",
       "pubDate": "Wed, 19 Nov 2025 00:22:51 GMT"
+    },
+    {
+      "title": "USCIS Implements Extra National Security Measures in Wake of National Guard Shooting by Afghan National - Homeland Security Today",
+      "pubDate": "Fri, 28 Nov 2025 08:11:54 GMT"
     }
   ],
   "North Korea": [
@@ -1707,6 +1727,12 @@
     {
       "title": "Physicists Observe a Nuclear \u201cMemory\u201d Thought Impossible - SciTechDaily",
       "pubDate": "Wed, 26 Nov 2025 00:10:19 GMT"
+    }
+  ],
+  "Income Tax in the United States": [
+    {
+      "title": "Trump says he may cut income tax 'completely' because of tariff income - Reuters",
+      "pubDate": "Fri, 28 Nov 2025 04:33:00 GMT"
     }
   ]
 }
