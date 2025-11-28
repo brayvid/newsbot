@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "As Trump Weighs Sale of Advanced A.I. Chips to China, Critics Sound Alarm - The New York Times",
-      "pubDate": "Wed, 29 Oct 2025 20:42:37 GMT"
-    },
-    {
       "title": "Video AI company bans minors from using chatbots after teen\u2019s suicide - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 30 Oct 2025 09:52:29 GMT"
     },
@@ -79,6 +75,10 @@
     {
       "title": "Foxconn adding nearly 1,400 jobs to build artificial intelligence servers at Racine County plant - WISN",
       "pubDate": "Tue, 25 Nov 2025 22:12:13 GMT"
+    },
+    {
+      "title": "The U.S. has been cutting cyber defenses as AI boosts attacks - The Washington Post",
+      "pubDate": "Fri, 28 Nov 2025 18:00:31 GMT"
     }
   ],
   "US Politics": [
@@ -139,13 +139,13 @@
     {
       "title": "Aid access and hospital operations remain constrained in Gaza - UN News",
       "pubDate": "Thu, 27 Nov 2025 01:50:51 GMT"
+    },
+    {
+      "title": "Israeli Forces Kill Two Palestinians in West Bank After They Appear to Surrender, Video Shows - The New York Times",
+      "pubDate": "Fri, 28 Nov 2025 18:15:30 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine says it killed Russian officer in Siberia using car bomb - CNN",
-      "pubDate": "Wed, 29 Oct 2025 17:07:57 GMT"
-    },
     {
       "title": "Russia fires 705 missiles, drones into Ukraine in 'complex' attack, Zelenskyy says - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 30 Oct 2025 11:13:41 GMT"
@@ -311,6 +311,10 @@
     {
       "title": "Ukraine war latest: Kyiv says Zelensky will never give up territory to Putin - The Independent",
       "pubDate": "Fri, 28 Nov 2025 10:30:00 GMT"
+    },
+    {
+      "title": "Trump to hand Putin Ukraine\u2019s occupied territories - The Telegraph",
+      "pubDate": "Fri, 28 Nov 2025 12:47:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -373,6 +377,10 @@
     {
       "title": "Trump says US will permanently pause migration from 'Third World Countries' - Reuters",
       "pubDate": "Fri, 28 Nov 2025 04:54:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s Response to Shooting Shows Intensified Anti-Immigration Stance - The New York Times",
+      "pubDate": "Fri, 28 Nov 2025 20:26:39 GMT"
     }
   ],
   "Financial Markets": [
@@ -658,10 +666,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "Federal shutdown could cost US economy up to $14 billion - Reuters",
-      "pubDate": "Wed, 29 Oct 2025 20:42:06 GMT"
-    },
     {
       "title": "US economy in the dark as government shutdown cuts off crucial data | Hindustan Times - Hindustan Times",
       "pubDate": "Thu, 30 Oct 2025 09:01:02 GMT"
@@ -1113,6 +1117,10 @@
     {
       "title": "Canada Lifts Climate Laws for Alberta Oil Sands, Planning Pipeline - The New York Times",
       "pubDate": "Fri, 28 Nov 2025 02:20:34 GMT"
+    },
+    {
+      "title": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate - The Guardian",
+      "pubDate": "Fri, 28 Nov 2025 13:50:00 GMT"
     }
   ],
   "US Congress": [
@@ -1145,6 +1153,10 @@
     {
       "title": "U.S. Cyber Agency Flags Critical Oracle Identity Manager Flaw Amid Evidence of Active Attacks - LinkedIn",
       "pubDate": "Mon, 24 Nov 2025 16:09:39 GMT"
+    },
+    {
+      "title": "CISA to Broaden AI Deployment for Faster Cyber Defense - CDO Magazine",
+      "pubDate": "Fri, 28 Nov 2025 13:17:00 GMT"
     }
   ],
   "Elon Musk": [
@@ -1733,6 +1745,12 @@
     {
       "title": "Trump says he may cut income tax 'completely' because of tariff income - Reuters",
       "pubDate": "Fri, 28 Nov 2025 04:33:00 GMT"
+    }
+  ],
+  "Software": [
+    {
+      "title": "Solar flare vulnerability in A320 software forces emergency action by airlines - The Air Current",
+      "pubDate": "Fri, 28 Nov 2025 18:45:07 GMT"
     }
   ]
 }
