@@ -79,6 +79,10 @@
     {
       "title": "The U.S. has been cutting cyber defenses as AI boosts attacks - The Washington Post",
       "pubDate": "Fri, 28 Nov 2025 18:00:31 GMT"
+    },
+    {
+      "title": "China's DeepSeek Releases New Open Source AI Model Amid Google's Gemini 3 Roll Out - Investor's Business Daily",
+      "pubDate": "Fri, 28 Nov 2025 21:35:00 GMT"
     }
   ],
   "US Politics": [
@@ -143,6 +147,10 @@
     {
       "title": "Israeli Forces Kill Two Palestinians in West Bank After They Appear to Surrender, Video Shows - The New York Times",
       "pubDate": "Fri, 28 Nov 2025 18:15:30 GMT"
+    },
+    {
+      "title": "Hezbollah leader promises response to Israel\u2019s strike killing top commander - Al Jazeera",
+      "pubDate": "Fri, 28 Nov 2025 19:30:58 GMT"
     }
   ],
   "Ukraine": [
@@ -205,6 +213,10 @@
     {
       "title": "Allies worry US demands Ukraine deal before security guarantees - Politico",
       "pubDate": "Thu, 27 Nov 2025 02:10:00 GMT"
+    },
+    {
+      "title": "Russian drones, missiles kill one, injure 11 in Kyiv, cause damage - Reuters",
+      "pubDate": "Sat, 29 Nov 2025 04:17:00 GMT"
     }
   ],
   "Russia": [
@@ -402,10 +414,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Donald Trump says US can sign trade deal with China 'pretty soon' after talks with Xi Jinping - BBC",
-      "pubDate": "Thu, 30 Oct 2025 04:45:31 GMT"
-    },
     {
       "title": "Exclusive | White House to Announce Auto Chip Shipments to Resume From China - The Wall Street Journal",
       "pubDate": "Fri, 31 Oct 2025 21:46:00 GMT"
@@ -663,6 +671,10 @@
     {
       "title": "Cybersecurity experts alarmed by Snapchat's age-verification plan - abc.net.au",
       "pubDate": "Thu, 27 Nov 2025 19:30:09 GMT"
+    },
+    {
+      "title": "Malicious LLMs are letting even unskilled hackers to craft dangerous new malware - TechRadar",
+      "pubDate": "Fri, 28 Nov 2025 19:56:00 GMT"
     }
   ],
   "US Economy": [
@@ -693,6 +705,10 @@
     {
       "title": "Grim retail sales data fuels concerns about health of US economy - Financial Times",
       "pubDate": "Tue, 25 Nov 2025 13:38:02 GMT"
+    },
+    {
+      "title": "US dollar set for worst week since July as Fed rate cut looms - Reuters",
+      "pubDate": "Fri, 28 Nov 2025 19:53:39 GMT"
     }
   ],
   "Earthquakes": [
@@ -718,10 +734,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI Eyes $1 Trillion Valuation IPO to Fund Ambitious AGI Plans - TipRanks",
-      "pubDate": "Thu, 30 Oct 2025 05:36:36 GMT"
-    },
     {
       "title": "OpenAI taps iPhone assembler Foxconn to manufacture data center components in U.S. - CNBC",
       "pubDate": "Thu, 20 Nov 2025 22:50:01 GMT"
@@ -832,10 +844,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Current National Climate Pledges Fall Far Short of What Is Needed to Limit Warming to 1.5C, Report Shows - Earth.Org",
-      "pubDate": "Thu, 30 Oct 2025 02:36:54 GMT"
-    },
     {
       "title": "Climate change intensified India's heatwaves in 2024 - Lancet study - BBC",
       "pubDate": "Thu, 30 Oct 2025 11:03:40 GMT"
@@ -1015,6 +1023,10 @@
     {
       "title": "N. Korea may possess more than 400 nuclear weapons by 2040: analyst - upi.com",
       "pubDate": "Wed, 26 Nov 2025 09:58:54 GMT"
+    },
+    {
+      "title": "Report Flags Alarming North Korea Nuke Surge - StratNews Global",
+      "pubDate": "Sat, 29 Nov 2025 04:37:16 GMT"
     }
   ],
   "Iran": [
@@ -1124,10 +1136,6 @@
     }
   ],
   "US Congress": [
-    {
-      "title": "US government allowed and even helped US firms sell tech used for surveillance in China, AP finds - AP News",
-      "pubDate": "Thu, 30 Oct 2025 00:02:00 GMT"
-    },
     {
       "title": "Federal judges order Trump admin to continue SNAP benefits. - USA Today",
       "pubDate": "Fri, 31 Oct 2025 19:06:57 GMT"
@@ -1254,10 +1262,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "Federal Reserve cuts key interest rate; shutdown pain intensifies - NBC4 Washington",
-      "pubDate": "Thu, 30 Oct 2025 01:50:37 GMT"
-    },
     {
       "title": "Federal Reserve plans to cut banking oversight staff by 30% - qz.com",
       "pubDate": "Fri, 31 Oct 2025 12:04:27 GMT"
@@ -1501,19 +1505,11 @@
   ],
   "Hurricanes": [
     {
-      "title": "Hurricane Melissa Live Updates: Death Toll Rises as Storm Churns Toward the Bahamas - The New York Times",
-      "pubDate": "Thu, 30 Oct 2025 03:35:00 GMT"
-    },
-    {
       "title": "At least 50 dead as Hurricane Melissa devastates the Caribbean; Bermuda braces for storm - USA Today",
       "pubDate": "Fri, 31 Oct 2025 01:07:30 GMT"
     }
   ],
   "United States": [
-    {
-      "title": "Trump Says U.S. to Restart Nuclear Weapons Testing - Time Magazine",
-      "pubDate": "Thu, 30 Oct 2025 04:02:10 GMT"
-    },
     {
       "title": "Last nuclear treaty between US and Russia nears expiration as Trump and Putin trade testing threats - CNN",
       "pubDate": "Sun, 16 Nov 2025 10:00:01 GMT"
@@ -1751,6 +1747,12 @@
     {
       "title": "Solar flare vulnerability in A320 software forces emergency action by airlines - The Air Current",
       "pubDate": "Fri, 28 Nov 2025 18:45:07 GMT"
+    }
+  ],
+  "NASA": [
+    {
+      "title": "Newly Found Organics in Enceladus\u2019 Plumes - NASA (.gov)",
+      "pubDate": "Fri, 28 Nov 2025 18:25:01 GMT"
     }
   ]
 }
