@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Video AI company bans minors from using chatbots after teen\u2019s suicide - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Thu, 30 Oct 2025 09:52:29 GMT"
-    },
-    {
       "title": "A.I. Is Making Death Threats Way More Realistic - The New York Times",
       "pubDate": "Fri, 31 Oct 2025 22:12:56 GMT"
     },
@@ -83,6 +79,10 @@
     {
       "title": "China's DeepSeek Releases New Open Source AI Model Amid Google's Gemini 3 Roll Out - Investor's Business Daily",
       "pubDate": "Fri, 28 Nov 2025 21:35:00 GMT"
+    },
+    {
+      "title": "Bigger than COVID? The graph that explains why AI is going to be so huge - Sky News",
+      "pubDate": "Sat, 29 Nov 2025 03:22:32 GMT"
     }
   ],
   "US Politics": [
@@ -155,10 +155,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia fires 705 missiles, drones into Ukraine in 'complex' attack, Zelenskyy says - ABC News - Breaking News, Latest News and Videos",
-      "pubDate": "Thu, 30 Oct 2025 11:13:41 GMT"
-    },
-    {
       "title": "Ukraine war latest: Russia fires 'secret' missile - as report says Kremlin memo wrecked Trump-Putin talks - Sky News",
       "pubDate": "Fri, 31 Oct 2025 10:35:45 GMT"
     },
@@ -220,10 +216,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia blasts Ukraine\u2019s power grid again, causing outages across the country and killing 2 - The Hill",
-      "pubDate": "Thu, 30 Oct 2025 10:23:09 GMT"
-    },
     {
       "title": "Ukrainian drone strike hits key Russian oil port, at least one vessel hit - Reuters",
       "pubDate": "Sun, 02 Nov 2025 13:51:15 GMT"
@@ -525,6 +517,10 @@
     {
       "title": "Watch How China Came to Dominate Global Shipping Ports - Bloomberg.com",
       "pubDate": "Thu, 27 Nov 2025 22:00:03 GMT"
+    },
+    {
+      "title": "China Wants to Dominate High- and Low-Tech Industries: New Economy - Bloomberg.com",
+      "pubDate": "Sat, 29 Nov 2025 11:45:01 GMT"
     }
   ],
   "AI Safety": [
@@ -633,10 +629,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "LG Uplus breach, Conduent attack, Russian exploit against Ukraine - CISO Series",
-      "pubDate": "Thu, 30 Oct 2025 10:00:00 GMT"
-    },
-    {
       "title": "US prosecutors say cybersecurity pros ran cybercrime operation - Reuters",
       "pubDate": "Tue, 04 Nov 2025 00:45:00 GMT"
     },
@@ -678,10 +670,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "US economy in the dark as government shutdown cuts off crucial data | Hindustan Times - Hindustan Times",
-      "pubDate": "Thu, 30 Oct 2025 09:01:02 GMT"
-    },
     {
       "title": "No jobs report again. But these numbers show how the U.S. economy is doing. - MarketWatch",
       "pubDate": "Sat, 01 Nov 2025 13:00:00 GMT"
@@ -743,17 +731,7 @@
       "pubDate": "Fri, 28 Nov 2025 05:00:22 GMT"
     }
   ],
-  "Quantum Computing": [
-    {
-      "title": "NVIDIA Bridges Classical and Quantum Computing with NVQLink | Business | Oct 2025 - Photonics Spectra",
-      "pubDate": "Thu, 30 Oct 2025 11:01:35 GMT"
-    }
-  ],
   "Gaza": [
-    {
-      "title": "Scoop: U.S. pushing to finalize plan for international Gaza security force - Axios",
-      "pubDate": "Thu, 30 Oct 2025 09:01:11 GMT"
-    },
     {
       "title": "Israel receives coffins Hamas says contain two Gaza hostages' bodies - BBC",
       "pubDate": "Thu, 30 Oct 2025 15:39:25 GMT"
@@ -845,10 +823,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Climate change intensified India's heatwaves in 2024 - Lancet study - BBC",
-      "pubDate": "Thu, 30 Oct 2025 11:03:40 GMT"
-    },
-    {
       "title": "The ground is swallowing homes in this Native village in Alaska. Residents have no choice but to move - The Guardian",
       "pubDate": "Mon, 03 Nov 2025 17:02:00 GMT"
     },
@@ -927,6 +901,10 @@
     {
       "title": "Dimming the Sun to fight climate change is bad for planet, ministers fear - The Telegraph",
       "pubDate": "Thu, 27 Nov 2025 19:48:00 GMT"
+    },
+    {
+      "title": "Revealed: Europe\u2019s water reserves drying up due to climate breakdown - The Guardian",
+      "pubDate": "Sat, 29 Nov 2025 06:00:00 GMT"
     }
   ],
   "FBI": [
@@ -1005,6 +983,10 @@
     {
       "title": "USCIS Implements Extra National Security Measures in Wake of National Guard Shooting by Afghan National - Homeland Security Today",
       "pubDate": "Fri, 28 Nov 2025 08:11:54 GMT"
+    },
+    {
+      "title": "Hegseth order on first Caribbean boat strike, officials say: Kill them all - The Washington Post",
+      "pubDate": "Sat, 29 Nov 2025 07:54:00 GMT"
     }
   ],
   "North Korea": [
@@ -1027,6 +1009,10 @@
     {
       "title": "Report Flags Alarming North Korea Nuke Surge - StratNews Global",
       "pubDate": "Sat, 29 Nov 2025 04:37:16 GMT"
+    },
+    {
+      "title": "US-North Korea Tensions Rise Amid Military Drills: Implications for Global Stability - Meyka",
+      "pubDate": "Sat, 29 Nov 2025 11:18:39 GMT"
     }
   ],
   "Iran": [
@@ -1407,6 +1393,10 @@
     {
       "title": "The James Webb Space Telescope may have finally found the 1st stars in the universe - Space",
       "pubDate": "Tue, 18 Nov 2025 20:00:00 GMT"
+    },
+    {
+      "title": "Scientists Claim to Detect Dark Matter for the First Time Ever - Futurism",
+      "pubDate": "Sat, 29 Nov 2025 11:00:00 GMT"
     }
   ],
   "Terrorism": [
@@ -1516,10 +1506,6 @@
     }
   ],
   "Vladimir Putin": [
-    {
-      "title": "Ukraine war live: Putin tests nuclear torpedo which can cause \u2018radioactive tsunami\u2019 - The Independent",
-      "pubDate": "Thu, 30 Oct 2025 10:39:22 GMT"
-    },
     {
       "title": "Putin orders nuclear testing preparations after Trump's surprise shift - Axios",
       "pubDate": "Thu, 06 Nov 2025 08:20:31 GMT"
@@ -1753,6 +1739,12 @@
     {
       "title": "Newly Found Organics in Enceladus\u2019 Plumes - NASA (.gov)",
       "pubDate": "Fri, 28 Nov 2025 18:25:01 GMT"
+    }
+  ],
+  "SpaceX": [
+    {
+      "title": "SPACEX HIT 512,440 KG TO ORBIT: 83% OF THE ENTIRE WORLD'S LAUNCH MASS The Q3 2025 launch report is out and it's a bloodbath. SpaceX alone launched 512 tons to orbit. That's more than the next 15 providers COMBINED. U.S. share: 97% Space - x.com",
+      "pubDate": "Sat, 29 Nov 2025 03:45:00 GMT"
     }
   ]
 }
