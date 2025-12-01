@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "A.I. Is Making Death Threats Way More Realistic - The New York Times",
-      "pubDate": "Fri, 31 Oct 2025 22:12:56 GMT"
-    },
-    {
       "title": "Boom or bubble? Inside the $3tn AI datacentre spending spree - The Guardian",
       "pubDate": "Sun, 02 Nov 2025 16:36:00 GMT"
     },
@@ -158,10 +154,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine war latest: Russia fires 'secret' missile - as report says Kremlin memo wrecked Trump-Putin talks - Sky News",
-      "pubDate": "Fri, 31 Oct 2025 10:35:45 GMT"
-    },
     {
       "title": "Ukraine war briefing: Kyiv gets more US-made Patriots and says its forces are holding on in Pokrovsk - The Guardian",
       "pubDate": "Tue, 04 Nov 2025 04:19:00 GMT"
@@ -327,6 +319,10 @@
     {
       "title": "Ukraine says it hit Russian \u2018shadow fleet\u2019 tankers with underwater drones in Black Sea - CNN",
       "pubDate": "Sat, 29 Nov 2025 12:59:48 GMT"
+    },
+    {
+      "title": "Analysis: After \u2018progress\u2019 in talks to end Ukraine war, US diplomacy faces Kremlin test - CNN",
+      "pubDate": "Mon, 01 Dec 2025 05:00:58 GMT"
     }
   ],
   "Donald Trump": [
@@ -393,6 +389,10 @@
     {
       "title": "Trump says airspace above and around Venezuela should be considered closed - Reuters",
       "pubDate": "Sat, 29 Nov 2025 16:58:06 GMT"
+    },
+    {
+      "title": "Trump Says He Has Made His Choice to Lead the Federal Reserve - Bloomberg.com",
+      "pubDate": "Sun, 30 Nov 2025 23:06:42 GMT"
     }
   ],
   "Financial Markets": [
@@ -414,10 +414,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Exclusive | White House to Announce Auto Chip Shipments to Resume From China - The Wall Street Journal",
-      "pubDate": "Fri, 31 Oct 2025 21:46:00 GMT"
-    },
     {
       "title": "China\u2019s Belt and Road Initiative is booming - The Economist",
       "pubDate": "Sun, 02 Nov 2025 18:12:25 GMT"
@@ -529,13 +525,13 @@
     {
       "title": "China Wants to Dominate High- and Low-Tech Industries: New Economy - Bloomberg.com",
       "pubDate": "Sat, 29 Nov 2025 11:45:01 GMT"
+    },
+    {
+      "title": "China's military firms struggle as corruption purge bites, report says - Reuters",
+      "pubDate": "Mon, 01 Dec 2025 00:14:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "National Academies Report Calls for Stronger Machine Learning Safety Standards - Lab Manager",
-      "pubDate": "Fri, 31 Oct 2025 12:43:19 GMT"
-    },
     {
       "title": "OpenAI Updates Service Rules for Safer AI Use - \u0411\u0443\u043a\u0432\u0438",
       "pubDate": "Sat, 01 Nov 2025 16:24:18 GMT"
@@ -757,14 +753,6 @@
   ],
   "Gaza": [
     {
-      "title": "Acute trauma: The ever-present wounds of Gaza\u2019s children from Israel\u2019s war - Al Jazeera",
-      "pubDate": "Fri, 31 Oct 2025 09:13:09 GMT"
-    },
-    {
-      "title": "Gaza risks sliding into deadly limbo of \u2018no war, no peace\u2019, top Qatari diplomat warns - The Guardian",
-      "pubDate": "Fri, 31 Oct 2025 18:29:00 GMT"
-    },
-    {
       "title": "Hamas demands safe passage from Gaza tunnels in IDF zones - The Jerusalem Post",
       "pubDate": "Sun, 02 Nov 2025 18:23:08 GMT"
     },
@@ -937,13 +925,13 @@
     {
       "title": "Australia climate change protest disrupts shipping at coal port, 21 arrested - Deccan Herald",
       "pubDate": "Sun, 30 Nov 2025 04:40:49 GMT"
+    },
+    {
+      "title": "In era of AI and climate change, energy policy must navigate new trade-offs and dilemmas - The Indian Express",
+      "pubDate": "Mon, 01 Dec 2025 01:06:46 GMT"
     }
   ],
   "FBI": [
-    {
-      "title": "FBI thwarts potential Halloween weekend terror attack in Michigan - ABC News",
-      "pubDate": "Fri, 31 Oct 2025 20:26:15 GMT"
-    },
     {
       "title": "FBI reveals ISIS terror attack plan on Chicago Pride Parade - The Jerusalem Post",
       "pubDate": "Sun, 16 Nov 2025 04:16:03 GMT"
@@ -1049,6 +1037,10 @@
     {
       "title": "North Korea's Kim stresses Air Force's nuclear war deterrence on its 80th anniversary - Reuters",
       "pubDate": "Sat, 29 Nov 2025 22:17:34 GMT"
+    },
+    {
+      "title": "North Korea First Unveils Long-Range Missile Resembling Taurus - \uc870\uc120\uc77c\ubcf4",
+      "pubDate": "Sun, 30 Nov 2025 21:14:15 GMT"
     }
   ],
   "Iran": [
@@ -1153,17 +1145,7 @@
       "pubDate": "Fri, 28 Nov 2025 13:50:00 GMT"
     }
   ],
-  "US Congress": [
-    {
-      "title": "Federal judges order Trump admin to continue SNAP benefits. - USA Today",
-      "pubDate": "Fri, 31 Oct 2025 19:06:57 GMT"
-    }
-  ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers - The Hacker News",
-      "pubDate": "Fri, 31 Oct 2025 08:46:00 GMT"
-    },
     {
       "title": "CISA Issues Alert on Samsung 0-Day RCE Flaw Actively Exploited in Attacks - GBHackers News",
       "pubDate": "Tue, 11 Nov 2025 06:53:54 GMT"
@@ -1197,10 +1179,6 @@
   ],
   "Pollution": [
     {
-      "title": "Delhi: Air pollution remains single largest health risk, accounts for 17,188 deaths in 2023, says report - livemint.com",
-      "pubDate": "Fri, 31 Oct 2025 11:35:25 GMT"
-    },
-    {
       "title": "Delhi pollution: Children are hit hardest by toxic air in Indian capital - BBC",
       "pubDate": "Thu, 27 Nov 2025 01:02:03 GMT"
     },
@@ -1213,6 +1191,10 @@
     {
       "title": "Argentina: 'Huge' explosions rock industrial complex - Times of India",
       "pubDate": "Sat, 15 Nov 2025 17:40:00 GMT"
+    },
+    {
+      "title": "November 30, 2025 \u2014 Trump administration news, Ukraine war talks, Venezuela tensions - CNN",
+      "pubDate": "Mon, 01 Dec 2025 03:07:00 GMT"
     }
   ],
   "Hacking": [
@@ -1280,10 +1262,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "Federal Reserve plans to cut banking oversight staff by 30% - qz.com",
-      "pubDate": "Fri, 31 Oct 2025 12:04:27 GMT"
-    },
     {
       "title": "The Fed faces deep divides at a fraught moment - Axios",
       "pubDate": "Fri, 14 Nov 2025 17:00:35 GMT"
@@ -1355,10 +1333,6 @@
   ],
   "Recession": [
     {
-      "title": "Warning signs may point to a looming recession as shutdown continues - NewsNation",
-      "pubDate": "Fri, 31 Oct 2025 12:45:09 GMT"
-    },
-    {
       "title": "Bessent says US housing market in 'recession' due to Federal Reserve interest rate policies - Forex Factory",
       "pubDate": "Wed, 05 Nov 2025 03:10:00 GMT"
     },
@@ -1417,10 +1391,6 @@
   ],
   "Astronomy": [
     {
-      "title": "Astronomy milestone: Scientists capture first image of two black holes orbiting each other - MARCA",
-      "pubDate": "Fri, 31 Oct 2025 12:17:08 GMT"
-    },
-    {
       "title": "The James Webb Space Telescope may have finally found the 1st stars in the universe - Space",
       "pubDate": "Tue, 18 Nov 2025 20:00:00 GMT"
     },
@@ -1467,12 +1437,6 @@
     {
       "title": "Former Taiwan Intel Chief Warns of Deep CCP Infiltration in Government, Military, Industry - Vision Times",
       "pubDate": "Mon, 03 Nov 2025 14:13:28 GMT"
-    }
-  ],
-  "Cancer": [
-    {
-      "title": "FDA says drug makers have recalled a blood pressure medicine tainted with a cancer-causing chemical - CNN",
-      "pubDate": "Fri, 31 Oct 2025 14:04:29 GMT"
     }
   ],
   "Cloud Computing": [
@@ -1547,17 +1511,7 @@
       "pubDate": "Mon, 17 Nov 2025 10:53:00 GMT"
     }
   ],
-  "War and Unrest": [
-    {
-      "title": "Sudan Militia, Armed with Drones, Hunts Down Black Population of Darfur - The Wall Street Journal",
-      "pubDate": "Fri, 31 Oct 2025 13:50:00 GMT"
-    }
-  ],
   "The Pentagon": [
-    {
-      "title": "Pentagon cleared giving Ukraine long-range Tomahawk missiles, leaving final decision to Trump - CNN",
-      "pubDate": "Fri, 31 Oct 2025 17:00:48 GMT"
-    },
     {
       "title": "Pentagon to give Volodymyr Zelensky Tomahawk missiles - The Jerusalem Post",
       "pubDate": "Sat, 01 Nov 2025 20:35:09 GMT"
@@ -1769,6 +1723,12 @@
     {
       "title": "SPACEX HIT 512,440 KG TO ORBIT: 83% OF THE ENTIRE WORLD'S LAUNCH MASS The Q3 2025 launch report is out and it's a bloodbath. SpaceX alone launched 512 tons to orbit. That's more than the next 15 providers COMBINED. U.S. share: 97% Space - x.com",
       "pubDate": "Sat, 29 Nov 2025 03:45:00 GMT"
+    }
+  ],
+  "World Economy": [
+    {
+      "title": "America\u2019s Tariffs Jolted the Global Economy. Its AI Spending Is Helping Save It. - The Wall Street Journal",
+      "pubDate": "Mon, 01 Dec 2025 04:00:00 GMT"
     }
   ]
 }
