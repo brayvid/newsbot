@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Boom or bubble? Inside the $3tn AI datacentre spending spree - The Guardian",
-      "pubDate": "Sun, 02 Nov 2025 16:36:00 GMT"
-    },
-    {
       "title": "OpenAI Signs $38 Billion Cloud Computing Deal With Amazon - The New York Times",
       "pubDate": "Mon, 03 Nov 2025 14:00:08 GMT"
     },
@@ -217,10 +213,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukrainian drone strike hits key Russian oil port, at least one vessel hit - Reuters",
-      "pubDate": "Sun, 02 Nov 2025 13:51:15 GMT"
-    },
-    {
       "title": "Russia has a new strategy for winter war in Ukraine - Al Jazeera",
       "pubDate": "Mon, 03 Nov 2025 13:03:04 GMT"
     },
@@ -334,10 +326,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump tells Defense Department to 'prepare for possible action' in Nigeria - NBC News",
-      "pubDate": "Sat, 01 Nov 2025 21:44:57 GMT"
-    },
     {
       "title": "Trump says he will restrict federal funds for New York City if Mamdani wins - Al Jazeera",
       "pubDate": "Mon, 03 Nov 2025 23:26:54 GMT"
@@ -545,10 +533,6 @@
   ],
   "AI Safety": [
     {
-      "title": "OpenAI Updates Service Rules for Safer AI Use - \u0411\u0443\u043a\u0432\u0438",
-      "pubDate": "Sat, 01 Nov 2025 16:24:18 GMT"
-    },
-    {
       "title": "Agentic AI and the policy blind spot: Why security can\u2019t wait - Compliance Week",
       "pubDate": "Mon, 03 Nov 2025 17:41:53 GMT"
     },
@@ -695,10 +679,6 @@
   ],
   "US Economy": [
     {
-      "title": "No jobs report again. But these numbers show how the U.S. economy is doing. - MarketWatch",
-      "pubDate": "Sat, 01 Nov 2025 13:00:00 GMT"
-    },
-    {
       "title": "AI Now Accounts for a Third of US Market Value\u2014What That Means For The Economy - Investopedia",
       "pubDate": "Mon, 03 Nov 2025 14:25:00 GMT"
     },
@@ -765,6 +745,10 @@
     {
       "title": "OpenAI\u2019s Sora Is Letting Teens Generate Videos of School Shootings - Futurism",
       "pubDate": "Sat, 29 Nov 2025 11:45:00 GMT"
+    },
+    {
+      "title": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead - The Wall Street Journal",
+      "pubDate": "Tue, 02 Dec 2025 06:27:00 GMT"
     }
   ],
   "Gaza": [
@@ -985,10 +969,6 @@
   ],
   "National Security": [
     {
-      "title": "Thousands of UFOs spotted off US coastlines raise new national security fears: expert - FOX 9 Minneapolis-St. Paul",
-      "pubDate": "Sun, 02 Nov 2025 15:17:25 GMT"
-    },
-    {
       "title": "Supreme Court takes up Trump\u2019s emergency tariffs, citing national security - Fox Business",
       "pubDate": "Mon, 03 Nov 2025 15:54:14 GMT"
     },
@@ -1035,10 +1015,6 @@
   ],
   "North Korea": [
     {
-      "title": "South Korea launches fifth spy satellite to monitor North Korea - nhk.or.jp",
-      "pubDate": "Sun, 02 Nov 2025 13:22:10 GMT"
-    },
-    {
       "title": "North Korea Threatens US With \u2018More Aggressive Actions\u2019 - Newsweek",
       "pubDate": "Sat, 08 Nov 2025 18:05:00 GMT"
     },
@@ -1065,6 +1041,10 @@
     {
       "title": "North Korea First Unveils Long-Range Missile Resembling Taurus - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Sun, 30 Nov 2025 21:14:15 GMT"
+    },
+    {
+      "title": "North Korea lures engineers to rent identities in fake IT worker scheme - BleepingComputer",
+      "pubDate": "Tue, 02 Dec 2025 14:04:18 GMT"
     }
   ],
   "Iran": [
@@ -1199,6 +1179,10 @@
     {
       "title": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics - Fortune",
       "pubDate": "Thu, 20 Nov 2025 18:37:00 GMT"
+    },
+    {
+      "title": "Elon Musk says he tried to warn Trump about tariffs, which manufacturers say are eroding U.S. jobs - Fortune",
+      "pubDate": "Tue, 02 Dec 2025 17:08:00 GMT"
     }
   ],
   "Pollution": [
@@ -1222,10 +1206,6 @@
     }
   ],
   "Hacking": [
-    {
-      "title": "China-linked hackers exploited Lanscope flaw as a zero-day in attacks - BleepingComputer",
-      "pubDate": "Sat, 01 Nov 2025 14:16:26 GMT"
-    },
     {
       "title": "Inside India\u2019s voyeur web: 80 CCTV dashboards hacked across 20 states; hospitals, schools, homes streamed - The Times of India",
       "pubDate": "Tue, 04 Nov 2025 03:58:00 GMT"
@@ -1351,12 +1331,6 @@
     {
       "title": "Europeans sketch out plan B in race to raid Russian assets for Ukraine - politico.eu",
       "pubDate": "Wed, 26 Nov 2025 03:12:00 GMT"
-    }
-  ],
-  "Health": [
-    {
-      "title": "ACA open enrollment begins with spike in healthcare premiums - BBC",
-      "pubDate": "Sat, 01 Nov 2025 16:47:30 GMT"
     }
   ],
   "Recession": [
@@ -1539,17 +1513,7 @@
       "pubDate": "Mon, 17 Nov 2025 10:53:00 GMT"
     }
   ],
-  "The Pentagon": [
-    {
-      "title": "Pentagon to give Volodymyr Zelensky Tomahawk missiles - The Jerusalem Post",
-      "pubDate": "Sat, 01 Nov 2025 20:35:09 GMT"
-    }
-  ],
   "GPUs": [
-    {
-      "title": "Microsoft CEO Doesn\u2019t Want to Buy NVIDIA\u2019s AI GPUs \u201cBeyond One Generation,\u201d Hints at a Compute Glut Driven by Energy Constraints - Wccftech",
-      "pubDate": "Sat, 01 Nov 2025 16:06:00 GMT"
-    },
     {
       "title": "Tech war: Huawei bets on AI tech to squeeze more performance from GPUs - South China Morning Post",
       "pubDate": "Mon, 17 Nov 2025 06:00:15 GMT"
@@ -1757,6 +1721,30 @@
     {
       "title": "America\u2019s Tariffs Jolted the Global Economy. Its AI Spending Is Helping Save It. - The Wall Street Journal",
       "pubDate": "Mon, 01 Dec 2025 04:00:00 GMT"
+    }
+  ],
+  "Infrastructure": [
+    {
+      "title": "Ukraine carries out record attacks on Russian energy infrastructure - https-//www.semafor.com",
+      "pubDate": "Tue, 02 Dec 2025 13:23:00 GMT"
+    }
+  ],
+  "United Nations": [
+    {
+      "title": "AI threatens to widen inequality among states: UN - Al Jazeera",
+      "pubDate": "Tue, 02 Dec 2025 13:18:45 GMT"
+    }
+  ],
+  "Apple": [
+    {
+      "title": "Exclusive: Apple to resist India order to preload state-run app as political outcry builds - Reuters",
+      "pubDate": "Tue, 02 Dec 2025 15:28:08 GMT"
+    }
+  ],
+  "Renewable Energy": [
+    {
+      "title": "\u2018Renewable\u2019 No More: The Trump Administration Renames the National Renewable Energy Laboratory - Inside Climate News",
+      "pubDate": "Tue, 02 Dec 2025 13:21:45 GMT"
     }
   ]
 }
