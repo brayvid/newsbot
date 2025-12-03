@@ -83,10 +83,6 @@
   ],
   "US Politics": [
     {
-      "title": "Upcoming elections pose early test of Trump\u2019s presidency as government shutdown drags on - CNN",
-      "pubDate": "Sun, 02 Nov 2025 22:38:00 GMT"
-    },
-    {
       "title": "Trump Administration Live Updates: Senate Moves to Vote as Democratic Defectors Relent on Shutdown - The New York Times",
       "pubDate": "Mon, 10 Nov 2025 04:11:00 GMT"
     },
@@ -411,10 +407,6 @@
   ],
   "China": [
     {
-      "title": "China\u2019s Belt and Road Initiative is booming - The Economist",
-      "pubDate": "Sun, 02 Nov 2025 18:12:25 GMT"
-    },
-    {
       "title": "The State of AI: is China about to win the race? - Financial Times",
       "pubDate": "Mon, 03 Nov 2025 17:00:11 GMT"
     },
@@ -529,6 +521,10 @@
     {
       "title": "China to Intensify Crackdown on Virtual Currencies, Including Stablecoins: Report - CoinDesk",
       "pubDate": "Mon, 01 Dec 2025 03:45:50 GMT"
+    },
+    {
+      "title": "Trump Signs Bill to Deepen US-Taiwan Ties Amid China Concerns - Bloomberg.com",
+      "pubDate": "Wed, 03 Dec 2025 07:32:00 GMT"
     }
   ],
   "AI Safety": [
@@ -599,6 +595,10 @@
     {
       "title": "Poetry Can Jailbreak AI Into Making Nuclear Weapons - The Tech Buzz",
       "pubDate": "Fri, 28 Nov 2025 10:49:00 GMT"
+    },
+    {
+      "title": "AI companies' safety practices fail to meet global standards, study shows - Reuters",
+      "pubDate": "Wed, 03 Dec 2025 11:18:04 GMT"
     }
   ],
   "Data Breach": [
@@ -753,10 +753,6 @@
   ],
   "Gaza": [
     {
-      "title": "Hamas demands safe passage from Gaza tunnels in IDF zones - The Jerusalem Post",
-      "pubDate": "Sun, 02 Nov 2025 18:23:08 GMT"
-    },
-    {
       "title": "LIVE: Thousands in overcrowded Gaza shelters amid Israeli shelling - Al Jazeera",
       "pubDate": "Tue, 04 Nov 2025 15:55:25 GMT"
     },
@@ -831,6 +827,10 @@
     {
       "title": "As bodies continue to be pulled from the rubble, Hamas-run health ministry says Gaza death toll passed 70,000 - The Times of Israel",
       "pubDate": "Sat, 29 Nov 2025 16:53:18 GMT"
+    },
+    {
+      "title": "Israel says it will reopen Rafah Crossing within days to allow Gazans to exit to Egypt - The Times of Israel",
+      "pubDate": "Wed, 03 Dec 2025 08:10:14 GMT"
     }
   ],
   "Climate Change": [
@@ -933,6 +933,10 @@
     {
       "title": "Here's what would make Bill Gates support dimming the sun to stop climate change - Axios",
       "pubDate": "Mon, 01 Dec 2025 10:02:04 GMT"
+    },
+    {
+      "title": "Top Journal Retracts Study Predicting Catastrophic Climate Toll - The New York Times",
+      "pubDate": "Wed, 03 Dec 2025 10:03:38 GMT"
     }
   ],
   "FBI": [
@@ -1090,10 +1094,6 @@
     }
   ],
   "US Supreme Court": [
-    {
-      "title": "Supreme Court Confronts Trump and His Tariffs in Test of Presidential Power - The New York Times",
-      "pubDate": "Mon, 03 Nov 2025 10:01:49 GMT"
-    },
     {
       "title": "Supreme Court prepares to weigh tariffs fight in test of Trump's power - CBS News",
       "pubDate": "Tue, 04 Nov 2025 11:00:00 GMT"
@@ -1331,6 +1331,10 @@
     {
       "title": "Europeans sketch out plan B in race to raid Russian assets for Ukraine - politico.eu",
       "pubDate": "Wed, 26 Nov 2025 03:12:00 GMT"
+    },
+    {
+      "title": "Belgium criticises EU proposal to use Russian frozen assets for Ukraine before its unveiling - Reuters",
+      "pubDate": "Wed, 03 Dec 2025 09:32:53 GMT"
     }
   ],
   "Recession": [
@@ -1745,6 +1749,18 @@
     {
       "title": "\u2018Renewable\u2019 No More: The Trump Administration Renames the National Renewable Energy Laboratory - Inside Climate News",
       "pubDate": "Tue, 02 Dec 2025 13:21:45 GMT"
+    }
+  ],
+  "Supply Chain": [
+    {
+      "title": "The AI frenzy is driving a new global supply chain crisis - Yahoo Finance",
+      "pubDate": "Wed, 03 Dec 2025 02:01:00 GMT"
+    }
+  ],
+  "Human Brain": [
+    {
+      "title": "While AI revolutionizes the world, the human brain rots - Genetic Literacy Project",
+      "pubDate": "Wed, 03 Dec 2025 05:11:09 GMT"
     }
   ]
 }
