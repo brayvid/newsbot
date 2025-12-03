@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI Signs $38 Billion Cloud Computing Deal With Amazon - The New York Times",
-      "pubDate": "Mon, 03 Nov 2025 14:00:08 GMT"
-    },
-    {
       "title": "Getty Images largely loses landmark UK lawsuit over AI image generator - Reuters",
       "pubDate": "Tue, 04 Nov 2025 10:51:59 GMT"
     },
@@ -209,10 +205,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia has a new strategy for winter war in Ukraine - Al Jazeera",
-      "pubDate": "Mon, 03 Nov 2025 13:03:04 GMT"
-    },
-    {
       "title": "Russia says Ukrainian troops in Pokrovsk and Kupiansk should surrender to save themselves - Reuters",
       "pubDate": "Wed, 05 Nov 2025 08:34:06 GMT"
     },
@@ -385,6 +377,10 @@
     {
       "title": "Trump Says He Has Made His Choice to Lead the Federal Reserve - Bloomberg.com",
       "pubDate": "Sun, 30 Nov 2025 23:06:42 GMT"
+    },
+    {
+      "title": "Live updates: Trump pardons Henry Cuellar; DHS launches immigration operations in Minneapolis, New Orleans - NBC News",
+      "pubDate": "Wed, 03 Dec 2025 17:29:48 GMT"
     }
   ],
   "Financial Markets": [
@@ -406,10 +402,6 @@
     }
   ],
   "China": [
-    {
-      "title": "The State of AI: is China about to win the race? - Financial Times",
-      "pubDate": "Mon, 03 Nov 2025 17:00:11 GMT"
-    },
     {
       "title": "China Urges US to Avoid \u2018Red Lines\u2019 After Reaching Trade Truce - Bloomberg.com",
       "pubDate": "Tue, 04 Nov 2025 01:12:00 GMT"
@@ -529,10 +521,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Agentic AI and the policy blind spot: Why security can\u2019t wait - Compliance Week",
-      "pubDate": "Mon, 03 Nov 2025 17:41:53 GMT"
-    },
-    {
       "title": "Experts find flaws in hundreds of tests that check AI safety and effectiveness - The Guardian",
       "pubDate": "Tue, 04 Nov 2025 09:56:00 GMT"
     },
@@ -625,6 +613,10 @@
     {
       "title": "South Korean e-commerce firm Coupang says 33.7 million customer accounts breached - Reuters",
       "pubDate": "Sat, 29 Nov 2025 23:01:30 GMT"
+    },
+    {
+      "title": "700Credit data breach affects 18,000 dealerships, 5.6 million customers - Automotive News",
+      "pubDate": "Wed, 03 Dec 2025 11:00:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -678,10 +670,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "AI Now Accounts for a Third of US Market Value\u2014What That Means For The Economy - Investopedia",
-      "pubDate": "Mon, 03 Nov 2025 14:25:00 GMT"
-    },
     {
       "title": "How the government shutdown impacts the U.S. economy - NBC News",
       "pubDate": "Tue, 04 Nov 2025 01:57:02 GMT"
@@ -831,13 +819,13 @@
     {
       "title": "Israel says it will reopen Rafah Crossing within days to allow Gazans to exit to Egypt - The Times of Israel",
       "pubDate": "Wed, 03 Dec 2025 08:10:14 GMT"
+    },
+    {
+      "title": "Puppet Regime: Hamas' Coercive Grip on Aid and NGO Operations in Gaza - NGO Monitor",
+      "pubDate": "Wed, 03 Dec 2025 13:22:03 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "The ground is swallowing homes in this Native village in Alaska. Residents have no choice but to move - The Guardian",
-      "pubDate": "Mon, 03 Nov 2025 17:02:00 GMT"
-    },
     {
       "title": "Wall Street\u2019s AI Energy Agenda Bleeds Into Global Climate Talks - Bloomberg.com",
       "pubDate": "Tue, 04 Nov 2025 11:00:00 GMT"
@@ -973,10 +961,6 @@
   ],
   "National Security": [
     {
-      "title": "Supreme Court takes up Trump\u2019s emergency tariffs, citing national security - Fox Business",
-      "pubDate": "Mon, 03 Nov 2025 15:54:14 GMT"
-    },
-    {
       "title": "Military experts warn security hole in most AI chatbots can sow chaos - Defense News",
       "pubDate": "Mon, 10 Nov 2025 21:50:50 GMT"
     },
@@ -1015,6 +999,10 @@
     {
       "title": "Kogi church attack: Tinubu declare national security emergency but attacks never stop, how military dey respond? - BBC",
       "pubDate": "Mon, 01 Dec 2025 10:41:14 GMT"
+    },
+    {
+      "title": "A Devastating Fire Has Fueled a National Security Crackdown in Hong Kong - The New York Times",
+      "pubDate": "Wed, 03 Dec 2025 15:47:43 GMT"
     }
   ],
   "North Korea": [
@@ -1267,6 +1255,10 @@
     {
       "title": "Netherlands opens fire on suspicious drones near air base housing US nuclear weapons - The Kyiv Independent",
       "pubDate": "Sat, 22 Nov 2025 21:09:24 GMT"
+    },
+    {
+      "title": "U.S. Launches One-Way-Attack Drone Force in the Middle East > U.S. Central Command > Press Release View - centcom.mil",
+      "pubDate": "Wed, 03 Dec 2025 14:07:20 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1437,18 +1429,6 @@
     {
       "title": "India Investigates Deadly Blast as Terrorism - The Wall Street Journal",
       "pubDate": "Tue, 11 Nov 2025 11:08:00 GMT"
-    }
-  ],
-  "Military Intelligence": [
-    {
-      "title": "Former Taiwan Intel Chief Warns of Deep CCP Infiltration in Government, Military, Industry - Vision Times",
-      "pubDate": "Mon, 03 Nov 2025 14:13:28 GMT"
-    }
-  ],
-  "Cloud Computing": [
-    {
-      "title": "Microsoft to ship 60,000 Nvidia AI chips to UAE under US-approved deal - ABC News",
-      "pubDate": "Mon, 03 Nov 2025 17:08:36 GMT"
     }
   ],
   "Energy Storage": [
@@ -1761,6 +1741,18 @@
     {
       "title": "While AI revolutionizes the world, the human brain rots - Genetic Literacy Project",
       "pubDate": "Wed, 03 Dec 2025 05:11:09 GMT"
+    }
+  ],
+  "Quantum Computing": [
+    {
+      "title": "Nobel Winner Warns China Is \u2018Nanoseconds\u2019 Behind in Quantum Race - Bloomberg.com",
+      "pubDate": "Wed, 03 Dec 2025 11:34:49 GMT"
+    }
+  ],
+  "Nuclear Power": [
+    {
+      "title": "South Korea Says the U.S. Agreed to Help It Secure Fuel for Its Reactors - The New York Times",
+      "pubDate": "Wed, 03 Dec 2025 13:06:40 GMT"
     }
   ]
 }
