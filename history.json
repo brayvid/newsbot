@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Getty Images largely loses landmark UK lawsuit over AI image generator - Reuters",
-      "pubDate": "Tue, 04 Nov 2025 10:51:59 GMT"
-    },
-    {
       "title": "Lafourche middle school student arrested, accused of sharing AI nude image of classmate - WDSU",
       "pubDate": "Tue, 11 Nov 2025 01:20:00 GMT"
     },
@@ -75,6 +71,10 @@
     {
       "title": "Judges caution against Artificial Intelligence in courts, flag \u2018hallucinated\u2019 citations - Times of India",
       "pubDate": "Sat, 29 Nov 2025 23:06:00 GMT"
+    },
+    {
+      "title": "At home and at school, artificial intelligence is transforming childhood - The Economist",
+      "pubDate": "Thu, 04 Dec 2025 11:31:16 GMT"
     }
   ],
   "US Politics": [
@@ -139,6 +139,10 @@
     {
       "title": "Hezbollah leader promises response to Israel\u2019s strike killing top commander - Al Jazeera",
       "pubDate": "Fri, 28 Nov 2025 19:30:58 GMT"
+    },
+    {
+      "title": "How Israel\u2019s Settlement Surge in the West Bank Is Displacing Palestinians - The New York Times",
+      "pubDate": "Thu, 04 Dec 2025 10:21:36 GMT"
     }
   ],
   "Ukraine": [
@@ -201,6 +205,10 @@
     {
       "title": "Weak Spots Are Few for Russia in Ukraine Peace Talks - The New York Times",
       "pubDate": "Wed, 03 Dec 2025 13:01:30 GMT"
+    },
+    {
+      "title": "Macron warned US could \u2018betray\u2019 Ukraine in leaked leaders\u2019 call, Spiegel reports - politico.eu",
+      "pubDate": "Thu, 04 Dec 2025 11:32:00 GMT"
     }
   ],
   "Russia": [
@@ -399,10 +407,6 @@
   ],
   "China": [
     {
-      "title": "China sentences infamous Myanmar scam mafia members to death - BBC",
-      "pubDate": "Tue, 04 Nov 2025 11:54:24 GMT"
-    },
-    {
       "title": "China Suspends Some Export Controls on Critical Minerals but Retains Others - The New York Times",
       "pubDate": "Fri, 07 Nov 2025 12:32:22 GMT"
     },
@@ -513,13 +517,13 @@
     {
       "title": "US halted plans to sanction Chinese spy agency to maintain trade truce - Financial Times",
       "pubDate": "Thu, 04 Dec 2025 04:22:52 GMT"
+    },
+    {
+      "title": "Exclusive: China massing military ships across region in show of maritime force, sources say - Reuters",
+      "pubDate": "Thu, 04 Dec 2025 07:11:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Experts find flaws in hundreds of tests that check AI safety and effectiveness - The Guardian",
-      "pubDate": "Tue, 04 Nov 2025 09:56:00 GMT"
-    },
     {
       "title": "AI reasoning models that can \u2018think\u2019 are more vulnerable to jailbreak attacks, new research suggests - Fortune",
       "pubDate": "Fri, 07 Nov 2025 22:00:00 GMT"
@@ -663,6 +667,10 @@
     {
       "title": "CISA Warns of Android 0-Day Vulnerability Exploited in Attacks - Cyber Press",
       "pubDate": "Wed, 03 Dec 2025 18:21:18 GMT"
+    },
+    {
+      "title": "Exclusive | Cybersecurity Startup 7AI Raises $130 Million in Series A Funding - The Wall Street Journal",
+      "pubDate": "Thu, 04 Dec 2025 10:55:00 GMT"
     }
   ],
   "US Economy": [
@@ -819,10 +827,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Wall Street\u2019s AI Energy Agenda Bleeds Into Global Climate Talks - Bloomberg.com",
-      "pubDate": "Tue, 04 Nov 2025 11:00:00 GMT"
-    },
-    {
       "title": "A Post investigation shows where hidden rivers in the sky are fueling deadly floods - The Washington Post",
       "pubDate": "Tue, 04 Nov 2025 17:44:17 GMT"
     },
@@ -921,6 +925,10 @@
     {
       "title": "How do we know the role of climate change in weather events? Attribution science. - Climate Central",
       "pubDate": "Wed, 03 Dec 2025 14:27:17 GMT"
+    },
+    {
+      "title": "\u2018Too hot to handle\u2019: climate change pushing Arab region to limits, says WMO - Financial Times",
+      "pubDate": "Thu, 04 Dec 2025 08:00:08 GMT"
     }
   ],
   "FBI": [
@@ -1079,10 +1087,6 @@
   ],
   "US Supreme Court": [
     {
-      "title": "Supreme Court prepares to weigh tariffs fight in test of Trump's power - CBS News",
-      "pubDate": "Tue, 04 Nov 2025 11:00:00 GMT"
-    },
-    {
       "title": "US Supreme Court rejects bid to overturn same-sex marriage right - Reuters",
       "pubDate": "Mon, 10 Nov 2025 17:57:11 GMT"
     },
@@ -1156,10 +1160,6 @@
     }
   ],
   "Elon Musk": [
-    {
-      "title": "Major Tesla Investor Rejects Elon Musk\u2019s $1 Trillion Pay Deal - WSJ - The Wall Street Journal",
-      "pubDate": "Tue, 04 Nov 2025 10:21:00 GMT"
-    },
     {
       "title": "Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics - Fortune",
       "pubDate": "Thu, 20 Nov 2025 18:37:00 GMT"
@@ -1375,6 +1375,10 @@
     {
       "title": "Australia says the world will follow social media ban as Meta starts blocking teens - Reuters",
       "pubDate": "Thu, 04 Dec 2025 04:42:44 GMT"
+    },
+    {
+      "title": "Meta starts kicking Australian children off Instagram and Facebook - BBC",
+      "pubDate": "Thu, 04 Dec 2025 06:00:44 GMT"
     }
   ],
   "Global Health": [
