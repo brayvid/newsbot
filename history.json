@@ -143,10 +143,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war briefing: Kyiv gets more US-made Patriots and says its forces are holding on in Pokrovsk - The Guardian",
-      "pubDate": "Tue, 04 Nov 2025 04:19:00 GMT"
-    },
-    {
       "title": "Its Forces Worn Down, Ukraine Moves to Revamp Military Service - The New York Times",
       "pubDate": "Tue, 04 Nov 2025 13:26:37 GMT"
     },
@@ -315,6 +311,10 @@
     {
       "title": "Third Russia-Linked Oil Tanker Suffers Explosions at Sea - Bloomberg.com",
       "pubDate": "Mon, 01 Dec 2025 11:11:10 GMT"
+    },
+    {
+      "title": "After US-Russia meeting, Ukraine to begin regrouping with European and American allies - ABC News",
+      "pubDate": "Thu, 04 Dec 2025 03:20:44 GMT"
     }
   ],
   "Donald Trump": [
@@ -398,10 +398,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China Urges US to Avoid \u2018Red Lines\u2019 After Reaching Trade Truce - Bloomberg.com",
-      "pubDate": "Tue, 04 Nov 2025 01:12:00 GMT"
-    },
     {
       "title": "China sentences infamous Myanmar scam mafia members to death - BBC",
       "pubDate": "Tue, 04 Nov 2025 11:54:24 GMT"
@@ -513,6 +509,10 @@
     {
       "title": "Trump Signs Bill to Deepen US-Taiwan Ties Amid China Concerns - Bloomberg.com",
       "pubDate": "Wed, 03 Dec 2025 07:32:00 GMT"
+    },
+    {
+      "title": "US halted plans to sanction Chinese spy agency to maintain trade truce - Financial Times",
+      "pubDate": "Thu, 04 Dec 2025 04:22:52 GMT"
     }
   ],
   "AI Safety": [
@@ -617,10 +617,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "US prosecutors say cybersecurity pros ran cybercrime operation - Reuters",
-      "pubDate": "Tue, 04 Nov 2025 00:45:00 GMT"
-    },
-    {
       "title": "US Congressional Budget Office hit by cybersecurity incident - Reuters",
       "pubDate": "Fri, 07 Nov 2025 15:38:39 GMT"
     },
@@ -663,13 +659,13 @@
     {
       "title": "N. Korean hacking group Lazarus behind 31 attacks over past year: report - Yonhap News Agency",
       "pubDate": "Sun, 30 Nov 2025 02:19:09 GMT"
+    },
+    {
+      "title": "CISA Warns of Android 0-Day Vulnerability Exploited in Attacks - Cyber Press",
+      "pubDate": "Wed, 03 Dec 2025 18:21:18 GMT"
     }
   ],
   "US Economy": [
-    {
-      "title": "How the government shutdown impacts the U.S. economy - NBC News",
-      "pubDate": "Tue, 04 Nov 2025 01:57:02 GMT"
-    },
     {
       "title": "Shutdown strain: US economy reels under layoffs and lost pay; food banks, small firms struggle to cope - The Times of India",
       "pubDate": "Sat, 08 Nov 2025 16:57:00 GMT"
@@ -1195,10 +1191,6 @@
   ],
   "Hacking": [
     {
-      "title": "Inside India\u2019s voyeur web: 80 CCTV dashboards hacked across 20 states; hospitals, schools, homes streamed - The Times of India",
-      "pubDate": "Tue, 04 Nov 2025 03:58:00 GMT"
-    },
-    {
       "title": "U.S. Targets Suspected North Korean Hackers Funding Nuclear Bombs - Newsweek",
       "pubDate": "Wed, 05 Nov 2025 05:57:00 GMT"
     },
@@ -1259,6 +1251,10 @@
     {
       "title": "U.S. Launches One-Way-Attack Drone Force in the Middle East > U.S. Central Command > Press Release View - centcom.mil",
       "pubDate": "Wed, 03 Dec 2025 14:07:20 GMT"
+    },
+    {
+      "title": "Pentagon seeks to acquire, rapidly field over 300,000 small drones - Defense News",
+      "pubDate": "Wed, 03 Dec 2025 20:55:29 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1361,6 +1357,10 @@
     {
       "title": "China's fixed asset investment recession could be the start of a sea change, says expert - MSN",
       "pubDate": "Wed, 26 Nov 2025 09:12:54 GMT"
+    },
+    {
+      "title": "US bankruptcies surge to 15-year high \u2014 Recession alarms flash as filings outpace 2020 crisis - The Economic Times",
+      "pubDate": "Wed, 03 Dec 2025 19:18:45 GMT"
     }
   ],
   "Social Media": [
@@ -1371,6 +1371,10 @@
     {
       "title": "\u2018We\u2019re basically pushers\u2019: Court filing alleges staff at social media giants compared their platforms to drugs - Politico",
       "pubDate": "Sun, 23 Nov 2025 04:26:57 GMT"
+    },
+    {
+      "title": "Australia says the world will follow social media ban as Meta starts blocking teens - Reuters",
+      "pubDate": "Thu, 04 Dec 2025 04:42:44 GMT"
     }
   ],
   "Global Health": [
@@ -1753,6 +1757,12 @@
     {
       "title": "South Korea Says the U.S. Agreed to Help It Secure Fuel for Its Reactors - The New York Times",
       "pubDate": "Wed, 03 Dec 2025 13:06:40 GMT"
+    }
+  ],
+  "Climate Engineering": [
+    {
+      "title": "Private companies have raised millions to block the sun. What could go wrong? - The Washington Post",
+      "pubDate": "Wed, 03 Dec 2025 18:00:11 GMT"
     }
   ]
 }
