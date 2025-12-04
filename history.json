@@ -147,10 +147,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Its Forces Worn Down, Ukraine Moves to Revamp Military Service - The New York Times",
-      "pubDate": "Tue, 04 Nov 2025 13:26:37 GMT"
-    },
-    {
       "title": "Ukraine war latest: Trump laughs as Orban tells him win for Kyiv would be \u2018miracle\u2019 - The Independent",
       "pubDate": "Sat, 08 Nov 2025 05:15:55 GMT"
     },
@@ -209,6 +205,10 @@
     {
       "title": "Macron warned US could \u2018betray\u2019 Ukraine in leaked leaders\u2019 call, Spiegel reports - politico.eu",
       "pubDate": "Thu, 04 Dec 2025 11:32:00 GMT"
+    },
+    {
+      "title": "Putin says there are points he can't agree to in the U.S. proposal to end Ukraine war - NPR",
+      "pubDate": "Thu, 04 Dec 2025 16:57:23 GMT"
     }
   ],
   "Russia": [
@@ -521,6 +521,10 @@
     {
       "title": "Exclusive: China massing military ships across region in show of maritime force, sources say - Reuters",
       "pubDate": "Thu, 04 Dec 2025 07:11:00 GMT"
+    },
+    {
+      "title": "US senators seek to block Nvidia sales of advanced chips to China - Financial Times",
+      "pubDate": "Thu, 04 Dec 2025 19:49:55 GMT"
     }
   ],
   "AI Safety": [
@@ -587,6 +591,10 @@
     {
       "title": "AI companies' safety practices fail to meet global standards, study shows - Reuters",
       "pubDate": "Wed, 03 Dec 2025 11:18:04 GMT"
+    },
+    {
+      "title": "AI safety report warns industry is 'structurally unprepared' for rising risks - Scripps News",
+      "pubDate": "Thu, 04 Dec 2025 21:01:23 GMT"
     }
   ],
   "Data Breach": [
@@ -741,10 +749,6 @@
   ],
   "Gaza": [
     {
-      "title": "LIVE: Thousands in overcrowded Gaza shelters amid Israeli shelling - Al Jazeera",
-      "pubDate": "Tue, 04 Nov 2025 15:55:25 GMT"
-    },
-    {
       "title": "LIVE: Israel kills more Palestinians in Gaza, bombs southern Lebanon - Al Jazeera",
       "pubDate": "Thu, 06 Nov 2025 15:20:35 GMT"
     },
@@ -826,10 +830,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "A Post investigation shows where hidden rivers in the sky are fueling deadly floods - The Washington Post",
-      "pubDate": "Tue, 04 Nov 2025 17:44:17 GMT"
-    },
     {
       "title": "Solar geoengineering in wrong hands could wreak climate havoc, scientists warn - The Guardian",
       "pubDate": "Wed, 05 Nov 2025 00:02:00 GMT"
@@ -1269,6 +1269,10 @@
     {
       "title": "Fed's Waller: December cut appropriate, but January action more uncertain - Fox Business - Reuters",
       "pubDate": "Mon, 24 Nov 2025 15:18:22 GMT"
+    },
+    {
+      "title": "Economists double down on December Fed cut despite policymaker divide: Reuters poll - Reuters",
+      "pubDate": "Thu, 04 Dec 2025 13:40:42 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1295,6 +1299,10 @@
     {
       "title": "DHS: Tiktok user suggested he was building bomb targeting Fort Worth - FOX 4 News Dallas-Fort Worth",
       "pubDate": "Sat, 29 Nov 2025 18:02:43 GMT"
+    },
+    {
+      "title": "ICE Arrests Criminal Illegal Aliens from Afghanistan Released Into Our Country by the Biden Administration - Homeland Security (.gov)",
+      "pubDate": "Thu, 04 Dec 2025 20:40:33 GMT"
     }
   ],
   "Microsoft": [
@@ -1525,6 +1533,10 @@
     {
       "title": "Survey finds 40% of women without children hesitant to have kids due to climate crisis - Women's Agenda",
       "pubDate": "Mon, 10 Nov 2025 00:03:24 GMT"
+    },
+    {
+      "title": "Climate Change Could Slash Global Income by 19% in 26 Years - \u0411\u0443\u043a\u0432\u0438",
+      "pubDate": "Thu, 04 Dec 2025 19:30:43 GMT"
     }
   ],
   "Earth's Magnetic Field": [
@@ -1767,6 +1779,12 @@
     {
       "title": "Private companies have raised millions to block the sun. What could go wrong? - The Washington Post",
       "pubDate": "Wed, 03 Dec 2025 18:00:11 GMT"
+    }
+  ],
+  "Nuclear Fission": [
+    {
+      "title": "Kansas will get the world\u2019s first mile-deep nuclear reactor and the groundbreaking is next week - KCUR",
+      "pubDate": "Thu, 04 Dec 2025 12:03:59 GMT"
     }
   ]
 }
