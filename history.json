@@ -143,6 +143,10 @@
     {
       "title": "How Israel\u2019s Settlement Surge in the West Bank Is Displacing Palestinians - The New York Times",
       "pubDate": "Thu, 04 Dec 2025 10:21:36 GMT"
+    },
+    {
+      "title": "Israel sets 2026 defence budget at $34 billion despite ceasefire in Gaza - Reuters",
+      "pubDate": "Fri, 05 Dec 2025 05:51:07 GMT"
     }
   ],
   "Ukraine": [
@@ -212,10 +216,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia says Ukrainian troops in Pokrovsk and Kupiansk should surrender to save themselves - Reuters",
-      "pubDate": "Wed, 05 Nov 2025 08:34:06 GMT"
-    },
     {
       "title": "German general says Russia could launch limited attack on NATO any time - Reuters",
       "pubDate": "Fri, 07 Nov 2025 07:34:00 GMT"
@@ -389,6 +389,10 @@
     {
       "title": "Live updates: Trump pardons Henry Cuellar; DHS launches immigration operations in Minneapolis, New Orleans - NBC News",
       "pubDate": "Wed, 03 Dec 2025 17:29:48 GMT"
+    },
+    {
+      "title": "Supreme Court to weigh Trump's firing of FTC member in test of presidential power - Reuters",
+      "pubDate": "Fri, 05 Dec 2025 11:04:42 GMT"
     }
   ],
   "Financial Markets": [
@@ -529,6 +533,10 @@
     {
       "title": "Xi joins Macron in southwest China on rare trip with a global leader outside Beijing - Reuters",
       "pubDate": "Fri, 05 Dec 2025 04:01:00 GMT"
+    },
+    {
+      "title": "Chinese Economist Issues Dire Warning Over Debt Crisis - Newsweek",
+      "pubDate": "Fri, 05 Dec 2025 11:03:00 GMT"
     }
   ],
   "AI Safety": [
@@ -1169,6 +1177,10 @@
     {
       "title": "US, Allies Release Guidance on Securing AI-Integrated Operational Technology - ExecutiveGov",
       "pubDate": "Thu, 04 Dec 2025 21:42:23 GMT"
+    },
+    {
+      "title": "CISA Joint Advisory Warns Critical Infrastructure of BRICKSTORM Malware Used by Chinese State-Sponsored Actors - Homeland Security Today",
+      "pubDate": "Fri, 05 Dec 2025 08:43:24 GMT"
     }
   ],
   "Elon Musk": [
@@ -1232,10 +1244,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "African women tricked into making Russian drones: 'My skin was peeling' - BBC",
-      "pubDate": "Wed, 05 Nov 2025 06:23:25 GMT"
-    },
     {
       "title": "Army wants to buy one million drones over next two to three years - Breaking Defense",
       "pubDate": "Fri, 07 Nov 2025 19:20:59 GMT"
@@ -1729,6 +1737,10 @@
     {
       "title": "America\u2019s Tariffs Jolted the Global Economy. Its AI Spending Is Helping Save It. - The Wall Street Journal",
       "pubDate": "Mon, 01 Dec 2025 04:00:00 GMT"
+    },
+    {
+      "title": "Trump tariffs live updates: US may exit USMCA next year; Trump meets Nvidia's Huang to talk AI chip curbs - Yahoo Finance",
+      "pubDate": "Fri, 05 Dec 2025 09:16:56 GMT"
     }
   ],
   "Infrastructure": [
@@ -1795,6 +1807,18 @@
     {
       "title": "De-Dollarisation Campaign: India, Russia, China Tighten Grip Aganst USD \u2013 Will The Currency Survive? - Zee News",
       "pubDate": "Fri, 05 Dec 2025 01:55:03 GMT"
+    }
+  ],
+  "Information Security": [
+    {
+      "title": "NATO Research Sectors Targeted by Russian Calisto Hackers Using ClickFix Code - Cyber Press",
+      "pubDate": "Fri, 05 Dec 2025 11:26:09 GMT"
+    }
+  ],
+  "Technology": [
+    {
+      "title": "Home Office admits facial recognition tech issue with black and Asian subjects - The Guardian",
+      "pubDate": "Fri, 05 Dec 2025 11:20:00 GMT"
     }
   ]
 }
