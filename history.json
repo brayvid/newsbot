@@ -525,6 +525,10 @@
     {
       "title": "US senators seek to block Nvidia sales of advanced chips to China - Financial Times",
       "pubDate": "Thu, 04 Dec 2025 19:49:55 GMT"
+    },
+    {
+      "title": "Xi joins Macron in southwest China on rare trip with a global leader outside Beijing - Reuters",
+      "pubDate": "Fri, 05 Dec 2025 04:01:00 GMT"
     }
   ],
   "AI Safety": [
@@ -595,6 +599,10 @@
     {
       "title": "AI safety report warns industry is 'structurally unprepared' for rising risks - Scripps News",
       "pubDate": "Thu, 04 Dec 2025 21:01:23 GMT"
+    },
+    {
+      "title": "FDA Expands Use of Advanced AI for Safety Reviews and Inspections - Civil Eats",
+      "pubDate": "Thu, 04 Dec 2025 18:43:24 GMT"
     }
   ],
   "Data Breach": [
@@ -831,10 +839,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Solar geoengineering in wrong hands could wreak climate havoc, scientists warn - The Guardian",
-      "pubDate": "Wed, 05 Nov 2025 00:02:00 GMT"
-    },
-    {
       "title": "U.S. skips COP30 climate conference, lobbies to sink new global deals - The Washington Post",
       "pubDate": "Fri, 07 Nov 2025 17:00:57 GMT"
     },
@@ -961,6 +965,10 @@
     {
       "title": "If we don\u2019t control the AI industry, it could end up controlling us, warn two chilling new books - Scroll.in",
       "pubDate": "Sat, 22 Nov 2025 15:00:00 GMT"
+    },
+    {
+      "title": "Exclusive: \"Transformative\" AGI is on the horizon, DeepMind's Hassabis says - Axios",
+      "pubDate": "Fri, 05 Dec 2025 01:33:45 GMT"
     }
   ],
   "National Security": [
@@ -1041,13 +1049,13 @@
     {
       "title": "North Korea lures engineers to rent identities in fake IT worker scheme - BleepingComputer",
       "pubDate": "Tue, 02 Dec 2025 14:04:18 GMT"
+    },
+    {
+      "title": "Russia Sent Abducted Ukrainian Children To North Korea - Forbes",
+      "pubDate": "Fri, 05 Dec 2025 04:50:49 GMT"
     }
   ],
   "Iran": [
-    {
-      "title": "IAEA says Iran must 'seriously improve' nuclear cooperation, FT reports - Reuters",
-      "pubDate": "Wed, 05 Nov 2025 05:55:29 GMT"
-    },
     {
       "title": "Iran plotted to assassinate Israel's ambassador to Mexico, U.S. officials say - Axios",
       "pubDate": "Fri, 07 Nov 2025 15:04:22 GMT"
@@ -1157,6 +1165,10 @@
     {
       "title": "CISA to Broaden AI Deployment for Faster Cyber Defense - CDO Magazine",
       "pubDate": "Fri, 28 Nov 2025 13:17:00 GMT"
+    },
+    {
+      "title": "US, Allies Release Guidance on Securing AI-Integrated Operational Technology - ExecutiveGov",
+      "pubDate": "Thu, 04 Dec 2025 21:42:23 GMT"
     }
   ],
   "Elon Musk": [
@@ -1190,10 +1202,6 @@
     }
   ],
   "Hacking": [
-    {
-      "title": "U.S. Targets Suspected North Korean Hackers Funding Nuclear Bombs - Newsweek",
-      "pubDate": "Wed, 05 Nov 2025 05:57:00 GMT"
-    },
     {
       "title": "Chinese hackers probe Australian, US cyber infrastructure - The Jerusalem Post",
       "pubDate": "Wed, 12 Nov 2025 04:03:41 GMT"
@@ -1331,13 +1339,13 @@
     {
       "title": "Belgium criticises EU proposal to use Russian frozen assets for Ukraine before its unveiling - Reuters",
       "pubDate": "Wed, 03 Dec 2025 09:32:53 GMT"
+    },
+    {
+      "title": "EU leaders race to save Ukraine funding deal as Kyiv\u2019s cash runs low - The Guardian",
+      "pubDate": "Fri, 05 Dec 2025 05:00:00 GMT"
     }
   ],
   "Recession": [
-    {
-      "title": "Bessent says US housing market in 'recession' due to Federal Reserve interest rate policies - Forex Factory",
-      "pubDate": "Wed, 05 Nov 2025 03:10:00 GMT"
-    },
     {
       "title": "Bessent says shut down impact getting worse for economy, Hasset says recession possible - investingLive",
       "pubDate": "Sun, 09 Nov 2025 21:41:25 GMT"
@@ -1480,10 +1488,6 @@
     }
   ],
   "Defense Intelligence Agency": [
-    {
-      "title": "Defense Intelligence Agency Warns of Imminent Nuclear Test - \uc870\uc120\uc77c\ubcf4",
-      "pubDate": "Wed, 05 Nov 2025 05:15:00 GMT"
-    },
     {
       "title": "Ukraine Defense Intelligence Exposes Japan, China, Taiwan Machines in Russian Weapons Production - UNITED24 Media",
       "pubDate": "Mon, 17 Nov 2025 10:38:04 GMT"
@@ -1785,6 +1789,12 @@
     {
       "title": "Kansas will get the world\u2019s first mile-deep nuclear reactor and the groundbreaking is next week - KCUR",
       "pubDate": "Thu, 04 Dec 2025 12:03:59 GMT"
+    }
+  ],
+  "BRICS": [
+    {
+      "title": "De-Dollarisation Campaign: India, Russia, China Tighten Grip Aganst USD \u2013 Will The Currency Survive? - Zee News",
+      "pubDate": "Fri, 05 Dec 2025 01:55:03 GMT"
     }
   ]
 }
