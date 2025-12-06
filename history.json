@@ -79,6 +79,10 @@
     {
       "title": "HHS Launches Artificial Intelligence Strategy - ExecutiveGov",
       "pubDate": "Fri, 05 Dec 2025 20:54:04 GMT"
+    },
+    {
+      "title": "Artificial intelligence research has a slop problem, academics say: \u2018It\u2019s a mess\u2019 - The Guardian",
+      "pubDate": "Sat, 06 Dec 2025 15:02:00 GMT"
     }
   ],
   "US Politics": [
@@ -342,10 +346,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump announces deals with Eli Lilly, Novo Nordisk to slash weight loss drug prices, offer some Medicare coverage - CNBC",
-      "pubDate": "Thu, 06 Nov 2025 17:04:07 GMT"
-    },
     {
       "title": "Donald Trump Signs New Nuclear Deal with Vladimir Putin Ally - Newsweek",
       "pubDate": "Fri, 07 Nov 2025 16:54:00 GMT"
@@ -805,10 +805,6 @@
   ],
   "Gaza": [
     {
-      "title": "LIVE: Israel kills more Palestinians in Gaza, bombs southern Lebanon - Al Jazeera",
-      "pubDate": "Thu, 06 Nov 2025 15:20:35 GMT"
-    },
-    {
       "title": "US and Israel\u2019s controversial plan to build \u2018New Gaza\u2019 sparks alarm - Financial Times",
       "pubDate": "Sat, 08 Nov 2025 05:00:16 GMT"
     },
@@ -989,6 +985,10 @@
     {
       "title": "Oops, Scientists May Have Miscalculated Our Global Warming Timeline - Popular Mechanics",
       "pubDate": "Fri, 05 Dec 2025 16:03:00 GMT"
+    },
+    {
+      "title": "Scientists fear that rapid warming is driving a collapse in the ocean currents that shape climate far and wide. The waters off Greenland might hold the key. - Facebook",
+      "pubDate": "Sat, 06 Dec 2025 22:45:35 GMT"
     }
   ],
   "FBI": [
@@ -1113,6 +1113,10 @@
     {
       "title": "Is China changing tack and accepting North Korea as a nuclear-armed state? - South China Morning Post",
       "pubDate": "Sat, 06 Dec 2025 10:49:24 GMT"
+    },
+    {
+      "title": "US and China drop denuclearization goal, signaling tacit acceptance of North Korean nukes - CHOSUNBIZ - Chosunbiz",
+      "pubDate": "Sat, 06 Dec 2025 22:35:00 GMT"
     }
   ],
   "Iran": [
@@ -1301,6 +1305,10 @@
     {
       "title": "South Korea police say 120,000 home cameras hacked for 'sexploitation' footage - BBC",
       "pubDate": "Mon, 01 Dec 2025 06:04:53 GMT"
+    },
+    {
+      "title": "'Happy Ukrainian Armed Forces Day' \u2014 hackers deface website of Russian company delivering military goods, HUR source claims - The Kyiv Independent",
+      "pubDate": "Sat, 06 Dec 2025 13:41:09 GMT"
     }
   ],
   "Drones": [
@@ -1905,6 +1913,18 @@
     {
       "title": "Study reveals poetic prompting can sometimes jailbreak AI models - Mashable SEA",
       "pubDate": "Fri, 05 Dec 2025 20:16:55 GMT"
+    }
+  ],
+  "Russia, Ukraine": [
+    {
+      "title": "Battlefield Picture Worsening for Ukraine as Trump Pushes Peace Plan - The New York Times",
+      "pubDate": "Sat, 06 Dec 2025 19:54:09 GMT"
+    }
+  ],
+  "Military and Defense": [
+    {
+      "title": "Exclusive: US sets 2027 deadline for Europe-led NATO defense, officials say - Reuters",
+      "pubDate": "Sat, 06 Dec 2025 17:58:27 GMT"
     }
   ]
 }
