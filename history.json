@@ -75,6 +75,10 @@
     {
       "title": "At home and at school, artificial intelligence is transforming childhood - The Economist",
       "pubDate": "Thu, 04 Dec 2025 11:31:16 GMT"
+    },
+    {
+      "title": "HHS Launches Artificial Intelligence Strategy - ExecutiveGov",
+      "pubDate": "Fri, 05 Dec 2025 20:54:04 GMT"
     }
   ],
   "US Politics": [
@@ -397,6 +401,10 @@
     {
       "title": "Donald Trump\u2019s bleak, incoherent foreign-policy strategy - The Economist",
       "pubDate": "Fri, 05 Dec 2025 12:09:15 GMT"
+    },
+    {
+      "title": "Trump strategy document revives Monroe Doctrine, slams Europe - Reuters",
+      "pubDate": "Fri, 05 Dec 2025 19:24:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -615,6 +623,10 @@
     {
       "title": "FDA Expands Use of Advanced AI for Safety Reviews and Inspections - Civil Eats",
       "pubDate": "Thu, 04 Dec 2025 18:43:24 GMT"
+    },
+    {
+      "title": "AI labs like Meta, Deepseek, and Xai earned worst grades possible on an existential safety index - Fortune",
+      "pubDate": "Fri, 05 Dec 2025 22:18:00 GMT"
     }
   ],
   "Data Breach": [
@@ -769,6 +781,10 @@
     {
       "title": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead - The Wall Street Journal",
       "pubDate": "Tue, 02 Dec 2025 06:27:00 GMT"
+    },
+    {
+      "title": "This crazy chart shows just how much cash OpenAI is burning as it chases AI profits - MarketWatch",
+      "pubDate": "Fri, 05 Dec 2025 20:39:00 GMT"
     }
   ],
   "Gaza": [
@@ -1129,6 +1145,10 @@
     {
       "title": "North Dakota court upholds near-total abortion ban - BBC",
       "pubDate": "Sat, 22 Nov 2025 22:28:09 GMT"
+    },
+    {
+      "title": "US Supreme Court agrees to hear case challenging birthright citizenship - BBC",
+      "pubDate": "Fri, 05 Dec 2025 21:54:01 GMT"
     }
   ],
   "Climate": [
@@ -1803,6 +1823,10 @@
     {
       "title": "Nobel Winner Warns China Is \u2018Nanoseconds\u2019 Behind in Quantum Race - Bloomberg.com",
       "pubDate": "Wed, 03 Dec 2025 11:34:49 GMT"
+    },
+    {
+      "title": "Redundantly Encoded Resource States Achieve Deterministic Photonic Quantum Computing with Boosted Fusion Success Beyond 50% - Quantum Zeitgeist",
+      "pubDate": "Fri, 05 Dec 2025 17:56:38 GMT"
     }
   ],
   "Nuclear Power": [
@@ -1851,6 +1875,12 @@
     {
       "title": "CDC vaccine advisory committee votes to remove universal recommendation for hepatitis B shot at birth - ABC News",
       "pubDate": "Fri, 05 Dec 2025 17:22:54 GMT"
+    }
+  ],
+  "Large Language Models": [
+    {
+      "title": "Study reveals poetic prompting can sometimes jailbreak AI models - Mashable SEA",
+      "pubDate": "Fri, 05 Dec 2025 20:16:55 GMT"
     }
   ]
 }
