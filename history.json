@@ -643,6 +643,10 @@
     {
       "title": "Korea aims for AI G3 by leading global AI safety, says institute director - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Sat, 06 Dec 2025 21:01:00 GMT"
+    },
+    {
+      "title": "OpenAI introduces confession mechanism to enhance transparency in large language models - DIGITIMES Asia",
+      "pubDate": "Tue, 09 Dec 2025 02:39:57 GMT"
     }
   ],
   "Data Breach": [
@@ -673,6 +677,10 @@
     {
       "title": "700Credit data breach affects 18,000 dealerships, 5.6 million customers - Automotive News",
       "pubDate": "Wed, 03 Dec 2025 11:00:00 GMT"
+    },
+    {
+      "title": "South Korea Police Raid Coupang HQ Over Historic Data Breach - Bloomberg.com",
+      "pubDate": "Tue, 09 Dec 2025 04:48:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -891,6 +899,10 @@
     {
       "title": "Israel's PM says second phase of Gaza peace plan is close - BBC",
       "pubDate": "Mon, 08 Dec 2025 16:05:47 GMT"
+    },
+    {
+      "title": "Trump\u2019s ceasefire plan for the Israel-Hamas war faces pitfalls as it moves into a new phase - AP News",
+      "pubDate": "Tue, 09 Dec 2025 05:34:00 GMT"
     }
   ],
   "Climate Change": [
@@ -1177,6 +1189,10 @@
     {
       "title": "US Supreme Court agrees to hear case challenging birthright citizenship - BBC",
       "pubDate": "Fri, 05 Dec 2025 21:54:01 GMT"
+    },
+    {
+      "title": "Supreme Court poised to expand Trump\u2019s power over independent agencies - The Washington Post",
+      "pubDate": "Tue, 09 Dec 2025 04:45:29 GMT"
     }
   ],
   "Climate": [
@@ -1365,10 +1381,6 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "Shots fired at federal immigration agents in Chicago, says Department of Homeland Security - NBC News",
-      "pubDate": "Sun, 09 Nov 2025 00:23:53 GMT"
-    },
-    {
       "title": "ICE Arrests Fugitive Murderer Released into American Neighborhoods by the Biden Administration - Homeland Security (.gov)",
       "pubDate": "Tue, 11 Nov 2025 19:01:07 GMT"
     },
@@ -1552,10 +1564,6 @@
     }
   ],
   "US Senate": [
-    {
-      "title": "Senate holds rare Saturday session aimed at ending government shutdown, will reconvene Sunday - CBS News",
-      "pubDate": "Sun, 09 Nov 2025 05:07:14 GMT"
-    },
     {
       "title": "Democrats' bill would strip provision from funding bill that allowed senators to sue over phone records - abcnews.go.com",
       "pubDate": "Tue, 18 Nov 2025 10:22:09 GMT"
@@ -1847,6 +1855,10 @@
     {
       "title": "\u2018Renewable\u2019 No More: The Trump Administration Renames the National Renewable Energy Laboratory - Inside Climate News",
       "pubDate": "Tue, 02 Dec 2025 13:21:45 GMT"
+    },
+    {
+      "title": "Trump Ban on Wind Energy Projects Ruled Illegal by US Judge - Bloomberg.com",
+      "pubDate": "Mon, 08 Dec 2025 23:53:19 GMT"
     }
   ],
   "Supply Chain": [
@@ -1963,6 +1975,18 @@
     {
       "title": "Revealed: Hamas Money Laundering Network In Turkey Linked To Iran - i24NEWS",
       "pubDate": "Sun, 07 Dec 2025 16:20:11 GMT"
+    }
+  ],
+  "NVIDIA": [
+    {
+      "title": "Trump Clears Sale of More Powerful Nvidia A.I. Chips to China - The New York Times",
+      "pubDate": "Mon, 08 Dec 2025 22:30:02 GMT"
+    }
+  ],
+  "US Congress": [
+    {
+      "title": "US Congress unveils bill with curbs on China tech investment and biotech ties - South China Morning Post",
+      "pubDate": "Mon, 08 Dec 2025 22:14:05 GMT"
     }
   ]
 }
