@@ -233,6 +233,10 @@
     {
       "title": "Foreign states using AI videos to undermine support for Ukraine, says Yvette Cooper - The Guardian",
       "pubDate": "Mon, 08 Dec 2025 22:30:00 GMT"
+    },
+    {
+      "title": "Ukraine prepares new peace plan as Zelensky rules out giving up land - BBC",
+      "pubDate": "Tue, 09 Dec 2025 09:39:56 GMT"
     }
   ],
   "Russia": [
@@ -354,10 +358,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump's sweeping student-loan repayment changes are a big step closer to reaching borrowers - Business Insider",
-      "pubDate": "Sun, 09 Nov 2025 09:42:00 GMT"
-    },
     {
       "title": "Epstein Alleged in Emails That Trump Knew of His Conduct - The New York Times",
       "pubDate": "Wed, 12 Nov 2025 17:45:16 GMT"
@@ -569,13 +569,13 @@
     {
       "title": "Chinese jets directed fire-control radar at Japanese aircraft, Japan says - Reuters",
       "pubDate": "Sun, 07 Dec 2025 03:09:00 GMT"
+    },
+    {
+      "title": "U.S. uncovers scheme to reroute Nvidia GPUs worth $160 million to China despite export bans - CNBC",
+      "pubDate": "Tue, 09 Dec 2025 09:59:49 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "OpenAI warns of \u2018potentially catastrophic\u2019 risks from superintelligent AI, outlines global safety measures - The Indian Express",
-      "pubDate": "Sun, 09 Nov 2025 09:34:00 GMT"
-    },
     {
       "title": "Carnegie Mellon prof. Zico Kolter leads an OpenAI safety panel that can halt unsafe AI releases - 90.5 WESA",
       "pubDate": "Sun, 09 Nov 2025 18:00:00 GMT"
@@ -761,8 +761,8 @@
   ],
   "Earthquakes": [
     {
-      "title": "Japan Issues Tsunami Advisory After Strong Earthquake Off Its Coast - The New York Times",
-      "pubDate": "Sun, 09 Nov 2025 09:08:53 GMT"
+      "title": "Japan earthquake live updates: First official megaquake warning issued after 33 hurt by rare 7.5-magnitude tremor - The Independent",
+      "pubDate": "Tue, 09 Dec 2025 10:30:00 GMT"
     }
   ],
   "Bitcoin": [
@@ -1227,6 +1227,10 @@
     {
       "title": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate - The Guardian",
       "pubDate": "Fri, 28 Nov 2025 13:50:00 GMT"
+    },
+    {
+      "title": "2025 \u2018virtually certain\u2019 to be second- or third-hottest year on record, EU data shows - The Guardian",
+      "pubDate": "Tue, 09 Dec 2025 03:00:00 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
@@ -1257,6 +1261,10 @@
     {
       "title": "CISA Joint Advisory Warns Critical Infrastructure of BRICKSTORM Malware Used by Chinese State-Sponsored Actors - Homeland Security Today",
       "pubDate": "Fri, 05 Dec 2025 08:43:24 GMT"
+    },
+    {
+      "title": "China using cyber weapons for societal havoc, chaos in US - The Jerusalem Post",
+      "pubDate": "Tue, 09 Dec 2025 10:24:21 GMT"
     }
   ],
   "Elon Musk": [
@@ -1377,6 +1385,10 @@
     {
       "title": "Economists double down on December Fed cut despite policymaker divide: Reuters poll - Reuters",
       "pubDate": "Thu, 04 Dec 2025 13:40:42 GMT"
+    },
+    {
+      "title": "Federal Reserve set to cut interest rate \u2014 but may signal a pause to come - Pittsburgh Post-Gazette",
+      "pubDate": "Tue, 09 Dec 2025 11:21:35 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1533,6 +1545,10 @@
     {
       "title": "AI Apps Like ChatGPT Have Created \u2018New Era of Terrorism,\u2019 Study Reveals - Algemeiner.com",
       "pubDate": "Tue, 25 Nov 2025 22:35:00 GMT"
+    },
+    {
+      "title": "DeSantis Designates Muslim Advocacy Group a \u2018Terrorist Organization\u2019 - The New York Times",
+      "pubDate": "Tue, 09 Dec 2025 02:39:53 GMT"
     }
   ],
   "Investment": [
