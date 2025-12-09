@@ -83,6 +83,10 @@
     {
       "title": "Artificial intelligence research has a slop problem, academics say: \u2018It\u2019s a mess\u2019 - The Guardian",
       "pubDate": "Sat, 06 Dec 2025 15:02:00 GMT"
+    },
+    {
+      "title": "Trump to issue order creating national AI rule - Reuters",
+      "pubDate": "Mon, 08 Dec 2025 21:27:50 GMT"
     }
   ],
   "US Politics": [
@@ -163,10 +167,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war latest: Trump laughs as Orban tells him win for Kyiv would be \u2018miracle\u2019 - The Independent",
-      "pubDate": "Sat, 08 Nov 2025 05:15:55 GMT"
-    },
-    {
       "title": "Three years after liberation, Ukraine's Kherson faces another kind of siege - The Independent",
       "pubDate": "Mon, 10 Nov 2025 05:24:00 GMT"
     },
@@ -229,6 +229,10 @@
     {
       "title": "US says progress made at talks with Ukraine as Russia attacks infrastructure - BBC",
       "pubDate": "Sat, 06 Dec 2025 10:58:37 GMT"
+    },
+    {
+      "title": "Foreign states using AI videos to undermine support for Ukraine, says Yvette Cooper - The Guardian",
+      "pubDate": "Mon, 08 Dec 2025 22:30:00 GMT"
     }
   ],
   "Russia": [
@@ -351,10 +355,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump tells Senate Republicans to send federal health insurance money 'directly to the people' - CNBC",
-      "pubDate": "Sat, 08 Nov 2025 17:23:15 GMT"
-    },
-    {
       "title": "Trump's sweeping student-loan repayment changes are a big step closer to reaching borrowers - Business Insider",
       "pubDate": "Sun, 09 Nov 2025 09:42:00 GMT"
     },
@@ -417,6 +417,10 @@
     {
       "title": "Trump strategy document revives Monroe Doctrine, slams Europe - Reuters",
       "pubDate": "Fri, 05 Dec 2025 19:24:00 GMT"
+    },
+    {
+      "title": "Trump confirms $12bn in assistance for American farmers amid concerns over trade and high prices \u2013 live - The Guardian",
+      "pubDate": "Mon, 08 Dec 2025 23:15:09 GMT"
     }
   ],
   "Financial Markets": [
@@ -568,10 +572,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "California backs down on AI laws so more tech leaders don\u2019t flee the state - Los Angeles Times",
-      "pubDate": "Sat, 08 Nov 2025 20:47:00 GMT"
-    },
     {
       "title": "OpenAI warns of \u2018potentially catastrophic\u2019 risks from superintelligent AI, outlines global safety measures - The Indian Express",
       "pubDate": "Sun, 09 Nov 2025 09:34:00 GMT"
@@ -731,13 +731,13 @@
     {
       "title": "AI to grow in 2026, raising new security demands - The Jerusalem Post",
       "pubDate": "Sun, 07 Dec 2025 03:08:55 GMT"
+    },
+    {
+      "title": "Initial access brokers involved in more attacks, including on critical infrastructure - Cybersecurity Dive",
+      "pubDate": "Mon, 08 Dec 2025 20:14:42 GMT"
     }
   ],
   "US Economy": [
-    {
-      "title": "Shutdown strain: US economy reels under layoffs and lost pay; food banks, small firms struggle to cope - The Times of India",
-      "pubDate": "Sat, 08 Nov 2025 16:57:00 GMT"
-    },
     {
       "title": "US economy saw stronger-than-expected job growth in September, but the unemployment rate rose - CNN",
       "pubDate": "Thu, 20 Nov 2025 16:06:00 GMT"
@@ -808,14 +808,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "US and Israel\u2019s controversial plan to build \u2018New Gaza\u2019 sparks alarm - Financial Times",
-      "pubDate": "Sat, 08 Nov 2025 05:00:16 GMT"
-    },
-    {
-      "title": "Gaza death toll tops 69,000 as Israel and Hamas exchange more remains - PBS",
-      "pubDate": "Sat, 08 Nov 2025 17:19:53 GMT"
-    },
     {
       "title": "Trump has promised peace for Gaza. Private documents paint a grim picture. - Politico",
       "pubDate": "Tue, 11 Nov 2025 10:55:00 GMT"
@@ -895,6 +887,10 @@
     {
       "title": "Touring the Strip, IDF chief Zamir says Gaza ceasefire line \u2018a new border\u2019 - The Times of Israel",
       "pubDate": "Sun, 07 Dec 2025 16:41:37 GMT"
+    },
+    {
+      "title": "Israel's PM says second phase of Gaza peace plan is close - BBC",
+      "pubDate": "Mon, 08 Dec 2025 16:05:47 GMT"
     }
   ],
   "Climate Change": [
@@ -997,6 +993,10 @@
     {
       "title": "Earth dimming accelerates climate change as sunlight reflection declines - Nation Thailand",
       "pubDate": "Sun, 07 Dec 2025 06:20:00 GMT"
+    },
+    {
+      "title": "Indonesia counts human cost as more climate change warnings sounded - Al Jazeera",
+      "pubDate": "Mon, 08 Dec 2025 12:33:45 GMT"
     }
   ],
   "FBI": [
@@ -1082,10 +1082,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea Threatens US With \u2018More Aggressive Actions\u2019 - Newsweek",
-      "pubDate": "Sat, 08 Nov 2025 18:05:00 GMT"
-    },
     {
       "title": "North Korean troops deployed to clear land mines for Russia - The Telegraph",
       "pubDate": "Sat, 15 Nov 2025 11:58:00 GMT"
@@ -1184,10 +1180,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "COP30 kicks off with urgent call to deliver on climate promises and scale up finance - UN News",
-      "pubDate": "Sat, 08 Nov 2025 23:00:00 GMT"
-    },
     {
       "title": "Climate disasters displaced 250 million people in past 10 years, UN report finds - The Guardian",
       "pubDate": "Sun, 09 Nov 2025 23:02:00 GMT"
@@ -1615,12 +1607,6 @@
       "pubDate": "Sat, 22 Nov 2025 00:45:00 GMT"
     }
   ],
-  "Democracy": [
-    {
-      "title": "Biden says Trump has \u2018taken a wrecking ball\u2019 to democracy in sharp criticism - CNN",
-      "pubDate": "Sat, 08 Nov 2025 05:28:13 GMT"
-    }
-  ],
   "Effects of Global Warming": [
     {
       "title": "Survey finds 40% of women without children hesitant to have kids due to climate crisis - Women's Agenda",
@@ -1897,6 +1883,10 @@
     {
       "title": "Kellogg claims Ukraine peace deal close, with Donetsk, Zaporizhzhia nuclear power plant key sticking points - The Kyiv Independent",
       "pubDate": "Sun, 07 Dec 2025 12:12:48 GMT"
+    },
+    {
+      "title": "India to Open Nuclear Power to Private Investment in $214 Billion Push - Crude Oil Prices Today | OilPrice.com",
+      "pubDate": "Mon, 08 Dec 2025 12:30:00 GMT"
     }
   ],
   "Climate Engineering": [
