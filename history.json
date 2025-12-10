@@ -87,13 +87,13 @@
     {
       "title": "Trump to issue order creating national AI rule - Reuters",
       "pubDate": "Mon, 08 Dec 2025 21:27:50 GMT"
+    },
+    {
+      "title": "U.S. military to use Google Gemini for new AI platform - Axios",
+      "pubDate": "Tue, 09 Dec 2025 18:34:59 GMT"
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump Administration Live Updates: Senate Moves to Vote as Democratic Defectors Relent on Shutdown - The New York Times",
-      "pubDate": "Mon, 10 Nov 2025 04:11:00 GMT"
-    },
     {
       "title": "Senate Passes Bill to Reopen Government Amid Democratic Rift - The New York Times",
       "pubDate": "Tue, 11 Nov 2025 15:22:00 GMT"
@@ -112,14 +112,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Updates: Israel\u2019s Gaza attacks continue; Hamas hands over Goldin\u2019s remains - Al Jazeera",
-      "pubDate": "Sun, 09 Nov 2025 16:01:41 GMT"
-    },
-    {
-      "title": "Jared Kushner arrives in Israel for Gaza talks with Netanyahu, source says - Reuters",
-      "pubDate": "Sun, 09 Nov 2025 17:58:17 GMT"
-    },
     {
       "title": "Scoop: Israel wants Trump to condition F-35 sale to Saudi Arabia on Israel normalization - Axios",
       "pubDate": "Sat, 15 Nov 2025 18:00:19 GMT"
@@ -166,10 +158,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Three years after liberation, Ukraine's Kherson faces another kind of siege - The Independent",
-      "pubDate": "Mon, 10 Nov 2025 05:24:00 GMT"
-    },
     {
       "title": "'No turning back': More and more Ukrainian women join the army to fight Russia - NPR",
       "pubDate": "Tue, 11 Nov 2025 10:00:00 GMT"
@@ -439,10 +427,6 @@
   ],
   "China": [
     {
-      "title": "China\u2019s Deflationary Spiral Hurts Economy Harder Than Official Numbers Suggest - Bloomberg.com",
-      "pubDate": "Sun, 09 Nov 2025 22:00:00 GMT"
-    },
-    {
       "title": "China devises plan to keep US military from getting its rare-earth magnets, WSJ reports - Reuters",
       "pubDate": "Tue, 11 Nov 2025 04:18:00 GMT"
     },
@@ -577,10 +561,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Carnegie Mellon prof. Zico Kolter leads an OpenAI safety panel that can halt unsafe AI releases - 90.5 WESA",
-      "pubDate": "Sun, 09 Nov 2025 18:00:00 GMT"
-    },
-    {
       "title": "Tech companies and UK child safety agencies to test AI tools\u2019 ability to create abuse images - The Guardian",
       "pubDate": "Wed, 12 Nov 2025 02:30:00 GMT"
     },
@@ -650,10 +630,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Data breach at Chinese infosec firm reveals cyber-weapons and target list - theregister.com",
-      "pubDate": "Sun, 09 Nov 2025 23:51:00 GMT"
-    },
     {
       "title": "Hyundai, Kia, And Genesis Suffer Massive Customer Data Breach - thetruthaboutcars.com",
       "pubDate": "Mon, 10 Nov 2025 18:30:00 GMT"
@@ -1009,6 +985,10 @@
     {
       "title": "Indonesia counts human cost as more climate change warnings sounded - Al Jazeera",
       "pubDate": "Mon, 08 Dec 2025 12:33:45 GMT"
+    },
+    {
+      "title": "E.P.A. Erases Mention of Humans Causing Climate Change From Some Web Pages - The New York Times",
+      "pubDate": "Tue, 09 Dec 2025 20:50:54 GMT"
     }
   ],
   "FBI": [
@@ -1018,10 +998,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "'We're At This Intermediate Stage': Ex-Tesla AI Chief Andrej Karpathy Says AGI Is Still A Decade Away - Yahoo Finance",
-      "pubDate": "Sun, 09 Nov 2025 19:32:06 GMT"
-    },
     {
       "title": "Intel\u2019s AI Leader Sachin Katti Joins OpenAI, To Focus On Artificial General Intelligence - NDTV Profit",
       "pubDate": "Tue, 11 Nov 2025 07:54:07 GMT"
@@ -1091,6 +1067,10 @@
     {
       "title": "A Devastating Fire Has Fueled a National Security Crackdown in Hong Kong - The New York Times",
       "pubDate": "Wed, 03 Dec 2025 15:47:43 GMT"
+    },
+    {
+      "title": "Taiwan Invokes National Security Law to Protect TSMC Trade Secrets - The New York Times",
+      "pubDate": "Wed, 10 Dec 2025 05:00:08 GMT"
     }
   ],
   "North Korea": [
@@ -1140,10 +1120,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Another Israel-Iran war increasingly seen as just a matter of time \u2014 New York Times - The Times of Israel",
-      "pubDate": "Sun, 09 Nov 2025 13:34:55 GMT"
-    },
     {
       "title": "Iran confirms seizure of oil tanker in the Strait of Hormuz - CBS News",
       "pubDate": "Sat, 15 Nov 2025 12:21:33 GMT"
@@ -1196,10 +1172,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "Climate disasters displaced 250 million people in past 10 years, UN report finds - The Guardian",
-      "pubDate": "Sun, 09 Nov 2025 23:02:00 GMT"
-    },
     {
       "title": "Trump administration skips COP30 climate summit, leaving California's Newsom to hurl criticism from Brazil - CBS News",
       "pubDate": "Tue, 11 Nov 2025 15:30:00 GMT"
@@ -1455,14 +1427,6 @@
   ],
   "Recession": [
     {
-      "title": "Bessent says shut down impact getting worse for economy, Hasset says recession possible - investingLive",
-      "pubDate": "Sun, 09 Nov 2025 21:41:25 GMT"
-    },
-    {
-      "title": "Shocking jobs data resets recession bets - Yahoo Finance",
-      "pubDate": "Sun, 09 Nov 2025 18:47:00 GMT"
-    },
-    {
       "title": "A recession is ALREADY here for 23 states - laying bare the cracks in the US economy - Daily Mail",
       "pubDate": "Sat, 15 Nov 2025 20:18:24 GMT"
     },
@@ -1499,6 +1463,10 @@
     {
       "title": "Meta starts kicking Australian children off Instagram and Facebook - BBC",
       "pubDate": "Thu, 04 Dec 2025 06:00:44 GMT"
+    },
+    {
+      "title": "Australia launches world's first social media ban for kids under 16 - NBC News",
+      "pubDate": "Wed, 10 Dec 2025 05:00:34 GMT"
     }
   ],
   "Global Health": [
@@ -1513,6 +1481,10 @@
     {
       "title": "Marburg Virus Outbreak in Southern Ethiopia Sparks Global Health Response - \u0411\u0443\u043a\u0432\u0438",
       "pubDate": "Sun, 16 Nov 2025 14:16:34 GMT"
+    },
+    {
+      "title": "Global study reveals massive hidden health burden from violence against women and children - News-Medical",
+      "pubDate": "Wed, 10 Dec 2025 01:41:00 GMT"
     }
   ],
   "Astronomy": [
@@ -1609,10 +1581,6 @@
   ],
   "Vladimir Putin": [
     {
-      "title": "Vladimir Putin did not order nuclear test, Russia reiterates - The Times of India",
-      "pubDate": "Sun, 09 Nov 2025 16:02:00 GMT"
-    },
-    {
       "title": "Russia readies nuclear-capable Burevestnik missile, NATO sounds alarm - Euronews.com",
       "pubDate": "Sun, 16 Nov 2025 11:34:50 GMT"
     },
@@ -1632,10 +1600,6 @@
     }
   ],
   "Effects of Global Warming": [
-    {
-      "title": "Survey finds 40% of women without children hesitant to have kids due to climate crisis - Women's Agenda",
-      "pubDate": "Mon, 10 Nov 2025 00:03:24 GMT"
-    },
     {
       "title": "Climate Change Could Slash Global Income by 19% in 26 Years - \u0411\u0443\u043a\u0432\u0438",
       "pubDate": "Thu, 04 Dec 2025 19:30:43 GMT"
@@ -2003,6 +1967,12 @@
     {
       "title": "US Congress unveils bill with curbs on China tech investment and biotech ties - South China Morning Post",
       "pubDate": "Mon, 08 Dec 2025 22:14:05 GMT"
+    }
+  ],
+  "Quantum": [
+    {
+      "title": "Quantum breakthrough: World\u2019s first 10,000-qubit processor achieves 100\u00d7 scaling leap - Interesting Engineering",
+      "pubDate": "Tue, 09 Dec 2025 21:42:00 GMT"
     }
   ]
 }
