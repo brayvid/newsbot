@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "SoftBank Sells $5.8 Billion Stake in Nvidia to Pay for OpenAI Deals - The New York Times",
-      "pubDate": "Tue, 11 Nov 2025 16:40:31 GMT"
-    },
-    {
       "title": "Anthropic announces $50B investment in new US data centers to meet AI demand - The Hill",
       "pubDate": "Wed, 12 Nov 2025 16:21:00 GMT"
     },
@@ -94,10 +90,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Senate Passes Bill to Reopen Government Amid Democratic Rift - The New York Times",
-      "pubDate": "Tue, 11 Nov 2025 15:22:00 GMT"
-    },
     {
       "title": "Trump pulling out all the stops to welcome Saudi crown prince for first White House visit since Khashoggi killing - CNN",
       "pubDate": "Sun, 16 Nov 2025 10:00:01 GMT"
@@ -339,6 +331,10 @@
     {
       "title": "Zelenskyy warns Russia, China stepping up military-industrial cooperation - Al Jazeera",
       "pubDate": "Wed, 10 Dec 2025 16:08:23 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s gloves are off in its energy war with Russia. How much can it increase the pressure? - CNN",
+      "pubDate": "Thu, 11 Dec 2025 13:56:25 GMT"
     }
   ],
   "Donald Trump": [
@@ -409,10 +405,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "Stock Market Today: S&P 500 Slips; ADP Data Points to Softer Jobs Market \u2014 Live Updates - The Wall Street Journal",
-      "pubDate": "Tue, 11 Nov 2025 17:45:00 GMT"
-    },
-    {
       "title": "Dow rallies 300 points to new record with shutdown set to end Wednesday: Live updates - CNBC",
       "pubDate": "Wed, 12 Nov 2025 17:24:00 GMT"
     },
@@ -422,10 +414,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Bridge partially collapses in southwest China, months after opening - Reuters",
-      "pubDate": "Tue, 11 Nov 2025 15:16:31 GMT"
-    },
     {
       "title": "Xi\u2019s Military Purges Show Unease About China\u2019s Nuclear Forces - The New York Times",
       "pubDate": "Wed, 12 Nov 2025 05:01:06 GMT"
@@ -627,6 +615,10 @@
     {
       "title": "OpenAI introduces confession mechanism to enhance transparency in large language models - DIGITIMES Asia",
       "pubDate": "Tue, 09 Dec 2025 02:39:57 GMT"
+    },
+    {
+      "title": "Attorneys general press AI companies over chatbot safety lapses - ConsumerAffairs",
+      "pubDate": "Thu, 11 Dec 2025 15:15:54 GMT"
     }
   ],
   "Data Breach": [
@@ -788,10 +780,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "UNICEF says Israel blocking 1 million syringes needed to vaccinate Gaza children - NBC News",
-      "pubDate": "Tue, 11 Nov 2025 13:05:39 GMT"
-    },
     {
       "title": "They found a 'bucket of lentils.' Then it blew up. The menace of Gaza's unexploded ordnance - NPR",
       "pubDate": "Wed, 12 Nov 2025 10:03:00 GMT"
@@ -1013,6 +1001,10 @@
     {
       "title": "Exclusive: \"Transformative\" AGI is on the horizon, DeepMind's Hassabis says - Axios",
       "pubDate": "Fri, 05 Dec 2025 01:33:45 GMT"
+    },
+    {
+      "title": "How the U.S. Can Win the AI Race - Time Magazine",
+      "pubDate": "Thu, 11 Dec 2025 12:56:02 GMT"
     }
   ],
   "National Security": [
@@ -1161,10 +1153,6 @@
   ],
   "Climate": [
     {
-      "title": "Trump administration skips COP30 climate summit, leaving California's Newsom to hurl criticism from Brazil - CBS News",
-      "pubDate": "Tue, 11 Nov 2025 15:30:00 GMT"
-    },
-    {
       "title": "Newsom calls Trump an \u2018invasive species\u2019 and \u2018wrecking ball\u2019 in fiery remarks at COP30 climate summit - CNN",
       "pubDate": "Wed, 12 Nov 2025 17:31:29 GMT"
     },
@@ -1199,6 +1187,10 @@
     {
       "title": "Shell facing first UK legal claim over climate impacts of fossil fuels - BBC",
       "pubDate": "Thu, 11 Dec 2025 00:20:34 GMT"
+    },
+    {
+      "title": "Philippines Typhoon Survivors Sue Shell Over Its Role in Climate Change - The Wall Street Journal",
+      "pubDate": "Thu, 11 Dec 2025 16:18:00 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
@@ -1393,6 +1385,10 @@
     {
       "title": "Patch Now: Microsoft Flags Zero-Day & Critical Zero-Click Bugs - Dark Reading | Security",
       "pubDate": "Tue, 11 Nov 2025 21:22:12 GMT"
+    },
+    {
+      "title": "Microsoft Executive Vows to Halt AI Work If It Imperils Humanity - Bloomberg.com",
+      "pubDate": "Thu, 11 Dec 2025 17:00:00 GMT"
     }
   ],
   "European Union": [
@@ -1965,6 +1961,12 @@
     {
       "title": "Quantum breakthrough: World\u2019s first 10,000-qubit processor achieves 100\u00d7 scaling leap - Interesting Engineering",
       "pubDate": "Tue, 09 Dec 2025 21:42:00 GMT"
+    }
+  ],
+  "US Foreign Policy": [
+    {
+      "title": "US House passes bill to bolster Europe\u2019s defence, in apparent rebuke to Trump\u2019s foreign policy strategy - The Guardian",
+      "pubDate": "Thu, 11 Dec 2025 10:23:00 GMT"
     }
   ]
 }
