@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Lafourche middle school student arrested, accused of sharing AI nude image of classmate - WDSU",
-      "pubDate": "Tue, 11 Nov 2025 01:20:00 GMT"
-    },
-    {
       "title": "SoftBank Sells $5.8 Billion Stake in Nvidia to Pay for OpenAI Deals - The New York Times",
       "pubDate": "Tue, 11 Nov 2025 16:40:31 GMT"
     },
@@ -163,10 +159,6 @@
   ],
   "Ukraine": [
     {
-      "title": "'No turning back': More and more Ukrainian women join the army to fight Russia - NPR",
-      "pubDate": "Tue, 11 Nov 2025 10:00:00 GMT"
-    },
-    {
       "title": "Zelensky vows energy sector overhaul after $100m corruption scandal - BBC",
       "pubDate": "Sat, 15 Nov 2025 20:26:30 GMT"
     },
@@ -232,10 +224,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Ukraine war latest: Russian oil depot goes up in flames after direct strike by Kyiv - The Independent",
-      "pubDate": "Tue, 11 Nov 2025 10:58:01 GMT"
-    },
     {
       "title": "Ukraine war briefing: Top banker\u2019s straight talk to Putin over troubled economy - The Guardian",
       "pubDate": "Wed, 12 Nov 2025 01:43:00 GMT"
@@ -435,10 +423,6 @@
   ],
   "China": [
     {
-      "title": "China devises plan to keep US military from getting its rare-earth magnets, WSJ reports - Reuters",
-      "pubDate": "Tue, 11 Nov 2025 04:18:00 GMT"
-    },
-    {
       "title": "Bridge partially collapses in southwest China, months after opening - Reuters",
       "pubDate": "Tue, 11 Nov 2025 15:16:31 GMT"
     },
@@ -569,6 +553,10 @@
     {
       "title": "China will destroy US military in fight over Taiwan, top secret document warns - The Telegraph",
       "pubDate": "Wed, 10 Dec 2025 16:38:00 GMT"
+    },
+    {
+      "title": "US bombers join Japanese jets in show of force after China-Russia drills, Tokyo says - Reuters",
+      "pubDate": "Thu, 11 Dec 2025 07:50:00 GMT"
     }
   ],
   "AI Safety": [
@@ -642,14 +630,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Hyundai, Kia, And Genesis Suffer Massive Customer Data Breach - thetruthaboutcars.com",
-      "pubDate": "Mon, 10 Nov 2025 18:30:00 GMT"
-    },
-    {
-      "title": "How hackers exposed personal info of 1.7M students in NY, prompting data breach settlement - LoHud.com",
-      "pubDate": "Tue, 11 Nov 2025 08:02:39 GMT"
-    },
     {
       "title": "DoorDash confirms data breach impacting users\u2019 phone numbers and physical addresses - TechCrunch",
       "pubDate": "Mon, 17 Nov 2025 15:27:38 GMT"
@@ -735,6 +715,10 @@
     {
       "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups - The Hacker News",
       "pubDate": "Wed, 10 Dec 2025 11:54:00 GMT"
+    },
+    {
+      "title": "Exclusive: Future OpenAI models likely to pose \"high\" cybersecurity risk, it says - Axios",
+      "pubDate": "Thu, 11 Dec 2025 07:23:18 GMT"
     }
   ],
   "US Economy": [
@@ -773,10 +757,6 @@
   ],
   "Fusion Power": [
     {
-      "title": "Department of Energy unveils ambitious plan to tap into unlimited energy source: 'Deliver large-scale integration' - Yahoo",
-      "pubDate": "Tue, 11 Nov 2025 02:30:00 GMT"
-    },
-    {
       "title": "China accelerates efforts towards nuclear fusion with global research program - CCTV.com English",
       "pubDate": "Tue, 25 Nov 2025 03:02:54 GMT"
     },
@@ -808,10 +788,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Trump has promised peace for Gaza. Private documents paint a grim picture. - Politico",
-      "pubDate": "Tue, 11 Nov 2025 10:55:00 GMT"
-    },
     {
       "title": "UNICEF says Israel blocking 1 million syringes needed to vaccinate Gaza children - NBC News",
       "pubDate": "Tue, 11 Nov 2025 13:05:39 GMT"
@@ -899,13 +875,13 @@
     {
       "title": "LIVE: Hundreds of thousands at risk in Gaza as Storm Byron looms - Al Jazeera",
       "pubDate": "Wed, 10 Dec 2025 17:26:15 GMT"
+    },
+    {
+      "title": "LIVE: Baby dies in flooded Gaza tent; Israeli attack kills woman in Jabalia - Al Jazeera",
+      "pubDate": "Thu, 11 Dec 2025 11:08:48 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "COP30: How the world plans to pay its rising climate costs - Reuters",
-      "pubDate": "Tue, 11 Nov 2025 05:01:00 GMT"
-    },
     {
       "title": "Earth's reality check: UN Climate Change Conference COP30 venue flooded in Brazil - Watch - The Times of India",
       "pubDate": "Wed, 12 Nov 2025 03:50:00 GMT"
@@ -1019,10 +995,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "Intel\u2019s AI Leader Sachin Katti Joins OpenAI, To Focus On Artificial General Intelligence - NDTV Profit",
-      "pubDate": "Tue, 11 Nov 2025 07:54:07 GMT"
-    },
-    {
       "title": "AI pioneer Yann Le Cun is quitting Meta over the future of intelligence - France 24",
       "pubDate": "Sun, 16 Nov 2025 15:16:10 GMT"
     },
@@ -1044,10 +1016,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Military experts warn security hole in most AI chatbots can sow chaos - Defense News",
-      "pubDate": "Mon, 10 Nov 2025 21:50:50 GMT"
-    },
     {
       "title": "Trump\u2019s Venezuela war threats roil Latin American leaders - The Washington Post",
       "pubDate": "Sat, 15 Nov 2025 11:44:41 GMT"
@@ -1227,13 +1195,13 @@
     {
       "title": "EU strikes deal on climate target to cut emissions by 90% by 2040 - Reuters",
       "pubDate": "Wed, 10 Dec 2025 10:03:42 GMT"
+    },
+    {
+      "title": "Shell facing first UK legal claim over climate impacts of fossil fuels - BBC",
+      "pubDate": "Thu, 11 Dec 2025 00:20:34 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "CISA Issues Alert on Samsung 0-Day RCE Flaw Actively Exploited in Attacks - GBHackers News",
-      "pubDate": "Tue, 11 Nov 2025 06:53:54 GMT"
-    },
     {
       "title": "Akira Ransomware Targets Over 250 Organizations, Extracts $42 Million in Ransom Payments \u2013 New CISA Report - CyberSecurityNews",
       "pubDate": "Sat, 15 Nov 2025 06:09:37 GMT"
@@ -1363,6 +1331,10 @@
     {
       "title": "Chernobyl radiation shield 'lost safety function' after drone strike, UN watchdog says - BBC",
       "pubDate": "Sun, 07 Dec 2025 12:09:01 GMT"
+    },
+    {
+      "title": "Russia says Ukraine launched major drone attack, including on Moscow - Reuters",
+      "pubDate": "Thu, 11 Dec 2025 05:58:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1411,6 +1383,10 @@
     {
       "title": "ICE Arrests Criminal Illegal Aliens from Afghanistan Released Into Our Country by the Biden Administration - Homeland Security (.gov)",
       "pubDate": "Thu, 04 Dec 2025 20:40:33 GMT"
+    },
+    {
+      "title": "DHS inks contract to create its own fleet of 737 jets for deportations - The Washington Post",
+      "pubDate": "Thu, 11 Dec 2025 01:09:26 GMT"
     }
   ],
   "Microsoft": [
@@ -1553,12 +1529,6 @@
       "pubDate": "Sat, 15 Nov 2025 06:16:00 GMT"
     }
   ],
-  "India": [
-    {
-      "title": "India Investigates Deadly Blast as Terrorism - The Wall Street Journal",
-      "pubDate": "Tue, 11 Nov 2025 11:08:00 GMT"
-    }
-  ],
   "Energy Storage": [
     {
       "title": "EBRD Grants \u20ac22.3m To Power One To Build 36.8 MW Gas-Piston Plants And 31.5 MW Battery Storage To Boost Ukraine\u2019s Energy Security Amid War Damage - SolarQuarter",
@@ -1627,12 +1597,6 @@
     {
       "title": "Climate Change Could Slash Global Income by 19% in 26 Years - \u0411\u0443\u043a\u0432\u0438",
       "pubDate": "Thu, 04 Dec 2025 19:30:43 GMT"
-    }
-  ],
-  "Earth's Magnetic Field": [
-    {
-      "title": "Something strange is happening to Earth\u2019s magnetic field and it could spell doom for satellites, scientists warn - Yahoo",
-      "pubDate": "Tue, 11 Nov 2025 09:56:44 GMT"
     }
   ],
   "US Politics & Government": [
@@ -1933,6 +1897,10 @@
     {
       "title": "Home Office admits facial recognition tech issue with black and Asian subjects - The Guardian",
       "pubDate": "Fri, 05 Dec 2025 11:20:00 GMT"
+    },
+    {
+      "title": "Taiwan probes leaks of vital chip technology - Financial Times",
+      "pubDate": "Thu, 11 Dec 2025 05:00:33 GMT"
     }
   ],
   "Corruption": [
