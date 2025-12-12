@@ -87,6 +87,10 @@
     {
       "title": "HHS Releases Strategy Positioning Artificial Intelligence the Core of Health Innovation | Insights - Holland & Knight",
       "pubDate": "Wed, 10 Dec 2025 17:14:01 GMT"
+    },
+    {
+      "title": "Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans - The Wall Street Journal",
+      "pubDate": "Thu, 11 Dec 2025 21:15:00 GMT"
     }
   ],
   "US Politics": [
@@ -217,10 +221,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukraine war briefing: Top banker\u2019s straight talk to Putin over troubled economy - The Guardian",
-      "pubDate": "Wed, 12 Nov 2025 01:43:00 GMT"
-    },
-    {
       "title": "Zelenskyy condemns Russia\u2019s \u2018wicked\u2019 overnight attack on Ukraine \u2013 Europe live - The Guardian",
       "pubDate": "Fri, 14 Nov 2025 08:44:00 GMT"
     },
@@ -335,6 +335,10 @@
     {
       "title": "Ukraine\u2019s gloves are off in its energy war with Russia. How much can it increase the pressure? - CNN",
       "pubDate": "Thu, 11 Dec 2025 13:56:25 GMT"
+    },
+    {
+      "title": "We must prepare for war with Russia, says Nato chief in stark new warning - BBC",
+      "pubDate": "Thu, 11 Dec 2025 19:16:09 GMT"
     }
   ],
   "Donald Trump": [
@@ -401,6 +405,10 @@
     {
       "title": "Trump confirms $12bn in assistance for American farmers amid concerns over trade and high prices \u2013 live - The Guardian",
       "pubDate": "Mon, 08 Dec 2025 23:15:09 GMT"
+    },
+    {
+      "title": "Trump seeks to cut restrictions on marijuana through planned order - The Washington Post",
+      "pubDate": "Fri, 12 Dec 2025 05:41:45 GMT"
     }
   ],
   "Financial Markets": [
@@ -414,10 +422,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Xi\u2019s Military Purges Show Unease About China\u2019s Nuclear Forces - The New York Times",
-      "pubDate": "Wed, 12 Nov 2025 05:01:06 GMT"
-    },
     {
       "title": "China\u2019s AI Leap: Matching U.S. Rivals in Power and Peril - WebProNews",
       "pubDate": "Fri, 14 Nov 2025 15:31:08 GMT"
@@ -545,13 +549,13 @@
     {
       "title": "US bombers join Japanese jets in show of force after China-Russia drills, Tokyo says - Reuters",
       "pubDate": "Thu, 11 Dec 2025 07:50:00 GMT"
+    },
+    {
+      "title": "China Has Reasons to Say 'No Thanks' to Trump's AI Chip Offer - Bloomberg.com",
+      "pubDate": "Fri, 12 Dec 2025 05:09:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Tech companies and UK child safety agencies to test AI tools\u2019 ability to create abuse images - The Guardian",
-      "pubDate": "Wed, 12 Nov 2025 02:30:00 GMT"
-    },
     {
       "title": "'I'm deeply uncomfortable': Anthropic CEO warns that a cadre of AI leaders, including himself, should not be in charge of the technology\u2019s future - Fortune",
       "pubDate": "Mon, 17 Nov 2025 18:43:00 GMT"
@@ -619,6 +623,10 @@
     {
       "title": "Attorneys general press AI companies over chatbot safety lapses - ConsumerAffairs",
       "pubDate": "Thu, 11 Dec 2025 15:15:54 GMT"
+    },
+    {
+      "title": "US State Attorneys General Demand Greater AI Safety From Tech Giants - AI Business",
+      "pubDate": "Thu, 11 Dec 2025 18:52:38 GMT"
     }
   ],
   "Data Breach": [
@@ -777,6 +785,10 @@
     {
       "title": "This crazy chart shows just how much cash OpenAI is burning as it chases AI profits - MarketWatch",
       "pubDate": "Fri, 05 Dec 2025 20:39:00 GMT"
+    },
+    {
+      "title": "OpenAI launches GPT-5.2 after 'code red' push to counter Google's Gemini 3 - Reuters",
+      "pubDate": "Thu, 11 Dec 2025 21:24:03 GMT"
     }
   ],
   "Gaza": [
@@ -870,10 +882,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Earth's reality check: UN Climate Change Conference COP30 venue flooded in Brazil - Watch - The Times of India",
-      "pubDate": "Wed, 12 Nov 2025 03:50:00 GMT"
-    },
     {
       "title": "COP30: Climate crisis is a health crisis, WHO warns as philanthropies pledge $300m for solutions - UN News",
       "pubDate": "Fri, 14 Nov 2025 16:58:50 GMT"
@@ -1259,10 +1267,6 @@
   ],
   "Hacking": [
     {
-      "title": "Chinese hackers probe Australian, US cyber infrastructure - The Jerusalem Post",
-      "pubDate": "Wed, 12 Nov 2025 04:03:41 GMT"
-    },
-    {
       "title": "Security News This Week: A Major Leak Spills a Chinese Hacking Contractor\u2019s Tools and Targets - WIRED",
       "pubDate": "Sat, 15 Nov 2025 11:30:00 GMT"
     },
@@ -1353,10 +1357,6 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "ICE Arrests Fugitive Murderer Released into American Neighborhoods by the Biden Administration - Homeland Security (.gov)",
-      "pubDate": "Tue, 11 Nov 2025 19:01:07 GMT"
-    },
-    {
       "title": "Homeland Security Department Shifts Its Focus to Immigration Crackdown - The New York Times",
       "pubDate": "Sun, 16 Nov 2025 10:00:22 GMT"
     },
@@ -1382,10 +1382,6 @@
     }
   ],
   "Microsoft": [
-    {
-      "title": "Patch Now: Microsoft Flags Zero-Day & Critical Zero-Click Bugs - Dark Reading | Security",
-      "pubDate": "Tue, 11 Nov 2025 21:22:12 GMT"
-    },
     {
       "title": "Microsoft Executive Vows to Halt AI Work If It Imperils Humanity - Bloomberg.com",
       "pubDate": "Thu, 11 Dec 2025 17:00:00 GMT"
