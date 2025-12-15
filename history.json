@@ -221,10 +221,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia Tried to Cut Ukraine\u2019s Lights. Now It\u2019s Aiming for the Heat. - The New York Times",
-      "pubDate": "Sat, 15 Nov 2025 10:00:37 GMT"
-    },
-    {
       "title": "Ukraine says it attacked Russian oil refinery near Moscow as winter looms - Al Jazeera",
       "pubDate": "Sat, 15 Nov 2025 16:52:30 GMT"
     },
@@ -553,6 +549,10 @@
     {
       "title": "Analyst warns China\u2019s Vanke on brink of default as bailout hopes fade - CNBC",
       "pubDate": "Mon, 15 Dec 2025 04:25:10 GMT"
+    },
+    {
+      "title": "China Nears First Investment Decline in 3 Decades After Sharp Monthly Drop - The New York Times",
+      "pubDate": "Mon, 15 Dec 2025 06:21:58 GMT"
     }
   ],
   "AI Safety": [
@@ -631,6 +631,10 @@
     {
       "title": "Anthropic's Chief Scientist Says We're Rapidly Approaching the Moment That Could Doom Us All - Futurism",
       "pubDate": "Sat, 13 Dec 2025 12:30:00 GMT"
+    },
+    {
+      "title": "There\u2019s a storm gathering over AI regulation - Morning Brew",
+      "pubDate": "Mon, 15 Dec 2025 05:02:35 GMT"
     }
   ],
   "Data Breach": [
@@ -653,6 +657,10 @@
     {
       "title": "South Korea Police Raid Coupang HQ Over Historic Data Breach - Bloomberg.com",
       "pubDate": "Tue, 09 Dec 2025 04:48:00 GMT"
+    },
+    {
+      "title": "700Credit Data Breach Impacts 5.8 Million Individuals - SecurityWeek",
+      "pubDate": "Mon, 15 Dec 2025 09:21:39 GMT"
     }
   ],
   "Cybersecurity": [
@@ -767,6 +775,10 @@
     {
       "title": "Scientists make major breakthrough in effort to build limitless energy device: 'The first in human history' - Yahoo",
       "pubDate": "Sat, 06 Dec 2025 18:30:00 GMT"
+    },
+    {
+      "title": "UK scientists unveil new facility to boost fusion effort for limitless clean energy goal - Interesting Engineering",
+      "pubDate": "Sun, 14 Dec 2025 23:59:00 GMT"
     }
   ],
   "OpenAI": [
@@ -796,10 +808,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "LIVE: Israel closely coordinated Gaza families\u2019 mystery transit to S Africa - Al Jazeera",
-      "pubDate": "Sat, 15 Nov 2025 11:32:36 GMT"
-    },
     {
       "title": "Israel-Gaza live updates: Mixed responses to UN vote approving Trump peace plan - abcnews.go.com",
       "pubDate": "Tue, 18 Nov 2025 20:45:00 GMT"
@@ -1029,10 +1037,6 @@
   ],
   "National Security": [
     {
-      "title": "Trump\u2019s Venezuela war threats roil Latin American leaders - The Washington Post",
-      "pubDate": "Sat, 15 Nov 2025 11:44:41 GMT"
-    },
-    {
       "title": "Narco-Terrorism in the Tri-Border Area: A Hidden Threat to U.S. National Security - Homeland Security Today",
       "pubDate": "Mon, 17 Nov 2025 11:30:57 GMT"
     },
@@ -1074,10 +1078,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korean troops deployed to clear land mines for Russia - The Telegraph",
-      "pubDate": "Sat, 15 Nov 2025 11:58:00 GMT"
-    },
     {
       "title": "N. Korea may possess more than 400 nuclear weapons by 2040: analyst - upi.com",
       "pubDate": "Wed, 26 Nov 2025 09:58:54 GMT"
@@ -1211,10 +1211,6 @@
   ],
   "Cybersecurity and Infrastructure Security Agency": [
     {
-      "title": "Akira Ransomware Targets Over 250 Organizations, Extracts $42 Million in Ransom Payments \u2013 New CISA Report - CyberSecurityNews",
-      "pubDate": "Sat, 15 Nov 2025 06:09:37 GMT"
-    },
-    {
       "title": "CISA Warns of Google Chrome 0-Day Vulnerability Exploited in Attacks - CyberSecurityNews",
       "pubDate": "Thu, 20 Nov 2025 08:58:51 GMT"
     },
@@ -1286,14 +1282,6 @@
     }
   ],
   "Hacking": [
-    {
-      "title": "Security News This Week: A Major Leak Spills a Chinese Hacking Contractor\u2019s Tools and Targets - WIRED",
-      "pubDate": "Sat, 15 Nov 2025 11:30:00 GMT"
-    },
-    {
-      "title": "Russian alleged cyber-hacker faces extradition to US after arrest in Thailand - CNN",
-      "pubDate": "Sat, 15 Nov 2025 07:49:21 GMT"
-    },
     {
       "title": "The Pentagon Is Spending Millions On AI Hacking From Startup Twenty - Forbes",
       "pubDate": "Sat, 15 Nov 2025 13:00:00 GMT"
@@ -1479,10 +1467,6 @@
   ],
   "Global Health": [
     {
-      "title": "Health Advisory for Tourists: Wild Polio Virus Found in Hamburg, Germany \u2013 A Wake-Up Call for Travelers to Germany, Afghanistan, and Pakistan - Travel And Tour World",
-      "pubDate": "Sat, 15 Nov 2025 06:25:19 GMT"
-    },
-    {
       "title": "Marburg Virus Outbreak in Southern Ethiopia Sparks Global Health Response - \u0411\u0443\u043a\u0432\u0438",
       "pubDate": "Sun, 16 Nov 2025 14:16:34 GMT"
     },
@@ -1525,12 +1509,6 @@
     {
       "title": "DeSantis Designates Muslim Advocacy Group a \u2018Terrorist Organization\u2019 - The New York Times",
       "pubDate": "Tue, 09 Dec 2025 02:39:53 GMT"
-    }
-  ],
-  "Investment": [
-    {
-      "title": "China\u2019s Investment Crash Puzzles Economists and Threatens Growth - Bloomberg.com",
-      "pubDate": "Sat, 15 Nov 2025 06:16:00 GMT"
     }
   ],
   "Energy Storage": [
@@ -1915,6 +1893,10 @@
     {
       "title": "Study reveals poetic prompting can sometimes jailbreak AI models - Mashable SEA",
       "pubDate": "Fri, 05 Dec 2025 20:16:55 GMT"
+    },
+    {
+      "title": "It Only Takes A Handful Of Samples To Poison Any Size LLM, Anthropic Finds - Hackaday",
+      "pubDate": "Mon, 15 Dec 2025 03:00:00 GMT"
     }
   ],
   "Russia, Ukraine": [
@@ -1959,6 +1941,10 @@
     {
       "title": "Congress drags on full year funding bills, risking second govt shutdown - The Center Square",
       "pubDate": "Sat, 13 Dec 2025 19:15:00 GMT"
+    },
+    {
+      "title": "Congress could try to pass new election laws before the 2026 midterms - Votebeat",
+      "pubDate": "Mon, 15 Dec 2025 10:00:00 GMT"
     }
   ],
   "Quantum": [
@@ -1995,6 +1981,12 @@
     {
       "title": "Congress races against the clock to avert skyrocketing health care costs for millions - CNN",
       "pubDate": "Sun, 14 Dec 2025 22:54:17 GMT"
+    }
+  ],
+  "United Kingdom": [
+    {
+      "title": "Britain\u2019s new spy chief warns the \u2018front line is everywhere\u2019 as country faces emerging threats - CNN",
+      "pubDate": "Mon, 15 Dec 2025 05:02:00 GMT"
     }
   ]
 }
