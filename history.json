@@ -83,6 +83,10 @@
     {
       "title": "Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans - The Wall Street Journal",
       "pubDate": "Thu, 11 Dec 2025 21:15:00 GMT"
+    },
+    {
+      "title": "Militant groups are experimenting with AI, and the risks are expected to grow - 10tv.com",
+      "pubDate": "Mon, 15 Dec 2025 05:07:00 GMT"
     }
   ],
   "US Politics": [
@@ -545,6 +549,10 @@
     {
       "title": "Philippines says fishermen hurt, boat damaged in China coastguard skirmish - Al Jazeera",
       "pubDate": "Sun, 14 Dec 2025 04:53:55 GMT"
+    },
+    {
+      "title": "Analyst warns China\u2019s Vanke on brink of default as bailout hopes fade - CNBC",
+      "pubDate": "Mon, 15 Dec 2025 04:25:10 GMT"
     }
   ],
   "AI Safety": [
@@ -981,6 +989,10 @@
     {
       "title": "Climate change impacts insurance in Iowa - KWQC",
       "pubDate": "Sun, 14 Dec 2025 00:44:39 GMT"
+    },
+    {
+      "title": "Risk To Amazon Rainforest From Land Use And Climate Change - Eurasia Review",
+      "pubDate": "Sun, 14 Dec 2025 23:07:31 GMT"
     }
   ],
   "FBI": [
@@ -1233,6 +1245,10 @@
     {
       "title": "CISA Adds CVE-2018-4063 to Exploited Vulnerabilities Amid Active Router Attacks - WebProNews",
       "pubDate": "Sat, 13 Dec 2025 23:07:30 GMT"
+    },
+    {
+      "title": "CISA warns of active exploitation of Sierra router and Google Chrome Mac vulnerabilities - Cyber Daily",
+      "pubDate": "Mon, 15 Dec 2025 03:09:27 GMT"
     }
   ],
   "Elon Musk": [
@@ -1300,10 +1316,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Ukraine war briefing: mass production of Ukrainian \u2018Octopus\u2019 interceptor drones begins - The Guardian",
-      "pubDate": "Sat, 15 Nov 2025 04:26:00 GMT"
-    },
     {
       "title": "Russia downs 33 Ukrainian drones overnight, defence ministry says - Reuters",
       "pubDate": "Fri, 21 Nov 2025 05:34:35 GMT"
@@ -1466,10 +1478,6 @@
     }
   ],
   "Global Health": [
-    {
-      "title": "New COP30 report urges urgent action to protect health in a warming world - News-Medical",
-      "pubDate": "Sat, 15 Nov 2025 02:39:00 GMT"
-    },
     {
       "title": "Health Advisory for Tourists: Wild Polio Virus Found in Hamburg, Germany \u2013 A Wake-Up Call for Travelers to Germany, Afghanistan, and Pakistan - Travel And Tour World",
       "pubDate": "Sat, 15 Nov 2025 06:25:19 GMT"
@@ -1919,6 +1927,10 @@
     {
       "title": "Exclusive: US sets 2027 deadline for Europe-led NATO defense, officials say - Reuters",
       "pubDate": "Sat, 06 Dec 2025 17:58:27 GMT"
+    },
+    {
+      "title": "Germany investing in military amid concerns over Putin, uncertainty about U.S. support for European defense - CBS News",
+      "pubDate": "Mon, 15 Dec 2025 00:50:52 GMT"
     }
   ],
   "Taxes": [
@@ -1971,6 +1983,18 @@
     {
       "title": "2 Killed, 8 Injured In Shooting During Final Exams At Brown University In US - NDTV",
       "pubDate": "Sun, 14 Dec 2025 01:14:38 GMT"
+    }
+  ],
+  "Zohran Mamdani": [
+    {
+      "title": "Zohran Mamdani Responds to Bondi Beach Attack: \u201cA Vile Act of Antisemitic Terror\u201d - La Voce di New York",
+      "pubDate": "Sun, 14 Dec 2025 18:22:27 GMT"
+    }
+  ],
+  "Health": [
+    {
+      "title": "Congress races against the clock to avert skyrocketing health care costs for millions - CNN",
+      "pubDate": "Sun, 14 Dec 2025 22:54:17 GMT"
     }
   ]
 }
