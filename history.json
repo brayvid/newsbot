@@ -87,6 +87,10 @@
     {
       "title": "Militant groups are experimenting with AI, and the risks are expected to grow - 10tv.com",
       "pubDate": "Mon, 15 Dec 2025 05:07:00 GMT"
+    },
+    {
+      "title": "China and the United States Are Racing Towards Different Ends in AI - The Equation - Union of Concerned Scientists",
+      "pubDate": "Mon, 15 Dec 2025 12:00:00 GMT"
     }
   ],
   "US Politics": [
@@ -217,13 +221,13 @@
     {
       "title": "Ukraine says Russian drone attack hit civilian Turkish vessel - Reuters",
       "pubDate": "Sat, 13 Dec 2025 17:09:46 GMT"
+    },
+    {
+      "title": "Zelenskyy says US talks \u2018not easy\u2019 but \u2018productive\u2019 as he prepares to meet European leaders in Berlin \u2013 Europe live - The Guardian",
+      "pubDate": "Mon, 15 Dec 2025 09:50:00 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Ukraine says it attacked Russian oil refinery near Moscow as winter looms - Al Jazeera",
-      "pubDate": "Sat, 15 Nov 2025 16:52:30 GMT"
-    },
     {
       "title": "BRICS Shift Deepens: Russia Sets Date for First Chinese Yuan Bonds - CryptoDnes.bg",
       "pubDate": "Sun, 16 Nov 2025 16:33:09 GMT"
@@ -335,6 +339,10 @@
     {
       "title": "One million households without electricity in Ukraine after Russian strikes - BBC",
       "pubDate": "Sat, 13 Dec 2025 12:43:16 GMT"
+    },
+    {
+      "title": "Russia seeks $230bn in damages from Euroclear over seized assets - The Guardian",
+      "pubDate": "Mon, 15 Dec 2025 12:59:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -414,10 +422,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China issues travel warning for Japan over threats to intervene in Taiwan - Al Jazeera",
-      "pubDate": "Sat, 15 Nov 2025 15:56:15 GMT"
-    },
     {
       "title": "China sends coast guard to Senkaku islands amid row with Japan - The Guardian",
       "pubDate": "Sun, 16 Nov 2025 07:03:00 GMT"
@@ -635,6 +639,10 @@
     {
       "title": "There\u2019s a storm gathering over AI regulation - Morning Brew",
       "pubDate": "Mon, 15 Dec 2025 05:02:35 GMT"
+    },
+    {
+      "title": "Major AI Labs Fall Short of Emerging Global Safety Standards - Mexico Business News",
+      "pubDate": "Mon, 15 Dec 2025 14:20:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1075,6 +1083,10 @@
     {
       "title": "Taiwan Invokes National Security Law to Protect TSMC Trade Secrets - The New York Times",
       "pubDate": "Wed, 10 Dec 2025 05:00:08 GMT"
+    },
+    {
+      "title": "Terror plot targeting California disrupted, 4 arrested: Bondi - thehill.com",
+      "pubDate": "Mon, 15 Dec 2025 16:40:00 GMT"
     }
   ],
   "North Korea": [
@@ -1120,10 +1132,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran confirms seizure of oil tanker in the Strait of Hormuz - CBS News",
-      "pubDate": "Sat, 15 Nov 2025 12:21:33 GMT"
-    },
     {
       "title": "Iran's foreign minister says the nation is no longer enriching uranium at any site in the country - NPR",
       "pubDate": "Sun, 16 Nov 2025 11:00:38 GMT"
@@ -1245,6 +1253,10 @@
     {
       "title": "CISA warns of active exploitation of Sierra router and Google Chrome Mac vulnerabilities - Cyber Daily",
       "pubDate": "Mon, 15 Dec 2025 03:09:27 GMT"
+    },
+    {
+      "title": "CISA Unveils 4 Principles for the Secure Integration of AI in Operational Technology - CDO Magazine",
+      "pubDate": "Mon, 15 Dec 2025 10:08:00 GMT"
     }
   ],
   "Elon Musk": [
@@ -1273,19 +1285,11 @@
   ],
   "World News": [
     {
-      "title": "Argentina: 'Huge' explosions rock industrial complex - Times of India",
-      "pubDate": "Sat, 15 Nov 2025 17:40:00 GMT"
-    },
-    {
       "title": "November 30, 2025 \u2014 Trump administration news, Ukraine war talks, Venezuela tensions - CNN",
       "pubDate": "Mon, 01 Dec 2025 03:07:00 GMT"
     }
   ],
   "Hacking": [
-    {
-      "title": "The Pentagon Is Spending Millions On AI Hacking From Startup Twenty - Forbes",
-      "pubDate": "Sat, 15 Nov 2025 13:00:00 GMT"
-    },
     {
       "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability - The Hacker News",
       "pubDate": "Tue, 18 Nov 2025 04:44:00 GMT"
@@ -1486,10 +1490,6 @@
     }
   ],
   "Terrorism": [
-    {
-      "title": "Feds expand terrorism charges in July shooting at Texas immigration detention center - WRAL",
-      "pubDate": "Sat, 15 Nov 2025 17:44:40 GMT"
-    },
     {
       "title": "Terror plot arrests reveal \u2018more dangerous\u2019 online pathway to ISIS radicalization in America - CNN",
       "pubDate": "Sun, 16 Nov 2025 10:00:02 GMT"
@@ -1849,6 +1849,10 @@
     {
       "title": "Kansas will get the world\u2019s first mile-deep nuclear reactor and the groundbreaking is next week - KCUR",
       "pubDate": "Thu, 04 Dec 2025 12:03:59 GMT"
+    },
+    {
+      "title": "DOE using its own land to help pair AI centers, nuclear reactors - Roll Call",
+      "pubDate": "Mon, 15 Dec 2025 16:32:41 GMT"
     }
   ],
   "BRICS": [
