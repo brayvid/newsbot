@@ -95,10 +95,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump pulling out all the stops to welcome Saudi crown prince for first White House visit since Khashoggi killing - CNN",
-      "pubDate": "Sun, 16 Nov 2025 10:00:01 GMT"
-    },
-    {
       "title": "Trump Accuses Democratic Lawmakers of \u201dSEDITIOUS BEHAVIOR, punishable by DEATH!\u201d - Democracy Now!",
       "pubDate": "Fri, 21 Nov 2025 15:01:33 GMT"
     },
@@ -108,10 +104,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israel Vows No Palestinian State as UN Set to Vote on Gaza Plan - Bloomberg.com",
-      "pubDate": "Sun, 16 Nov 2025 14:34:01 GMT"
-    },
     {
       "title": "Palestinians dying at \"alarming rate\" in Israeli prisons since Oct 7, 2023, rights group says - CBS News",
       "pubDate": "Mon, 17 Nov 2025 16:22:00 GMT"
@@ -224,10 +216,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "BRICS Shift Deepens: Russia Sets Date for First Chinese Yuan Bonds - CryptoDnes.bg",
-      "pubDate": "Sun, 16 Nov 2025 16:33:09 GMT"
-    },
     {
       "title": "Ukraine-Russia war latest: Kyiv to buy 100 French fighter jets in historic deal after Zelensky-Macron talks - The Independent",
       "pubDate": "Mon, 17 Nov 2025 11:00:00 GMT"
@@ -423,14 +411,6 @@
   ],
   "China": [
     {
-      "title": "China sends coast guard to Senkaku islands amid row with Japan - The Guardian",
-      "pubDate": "Sun, 16 Nov 2025 07:03:00 GMT"
-    },
-    {
-      "title": "China Escalates Japan Feud With Island Patrols and Warnings to Citizens - The New York Times",
-      "pubDate": "Sun, 16 Nov 2025 10:32:29 GMT"
-    },
-    {
       "title": "Japan says warplanes scrambled as Chinese drone detected near southern island close to Taiwan - CBS News",
       "pubDate": "Mon, 17 Nov 2025 13:06:00 GMT"
     },
@@ -557,6 +537,10 @@
     {
       "title": "China Nears First Investment Decline in 3 Decades After Sharp Monthly Drop - The New York Times",
       "pubDate": "Mon, 15 Dec 2025 06:21:58 GMT"
+    },
+    {
+      "title": "Exclusive | Panama Ports Deal Hits Impasse as China Makes New Demands for Its Approval - The Wall Street Journal",
+      "pubDate": "Tue, 16 Dec 2025 17:57:00 GMT"
     }
   ],
   "AI Safety": [
@@ -647,6 +631,10 @@
     {
       "title": "Coalition of Attorneys General Demands Sweeping AI Safety Reforms Citing Deaths and Child Exploitation - Law.com",
       "pubDate": "Mon, 15 Dec 2025 22:33:00 GMT"
+    },
+    {
+      "title": "Exclusive: Cisco has a new map of AI security and safety threats every company should know - Axios",
+      "pubDate": "Tue, 16 Dec 2025 19:36:59 GMT"
     }
   ],
   "Data Breach": [
@@ -743,6 +731,10 @@
     {
       "title": "Cybersecurity Snapshot: OWASP Ranks Top Agentic AI App Risks, as CISA Lists Most Dangerous Software Flaws - Security Boulevard",
       "pubDate": "Sat, 13 Dec 2025 07:48:30 GMT"
+    },
+    {
+      "title": "AI Overtakes Cybersecurity in State CIO Priorities for 2026 - GovTech",
+      "pubDate": "Tue, 16 Dec 2025 20:12:32 GMT"
     }
   ],
   "US Economy": [
@@ -757,6 +749,10 @@
     {
       "title": "US dollar set for worst week since July as Fed rate cut looms - Reuters",
       "pubDate": "Fri, 28 Nov 2025 19:53:39 GMT"
+    },
+    {
+      "title": "U.S. economy adds 64,000 jobs in November, unemployment rate at 4-year high - Axios",
+      "pubDate": "Tue, 16 Dec 2025 18:59:02 GMT"
     }
   ],
   "Earthquakes": [
@@ -1025,6 +1021,10 @@
     {
       "title": "10 Years After the Paris Climate Deal: What The World Got Right, Wrong, And What Comes Next - Time Magazine",
       "pubDate": "Mon, 15 Dec 2025 19:01:27 GMT"
+    },
+    {
+      "title": "Arctic is hotter than it's been in 125 years, with record-low sea ice: NOAA report - NBC News",
+      "pubDate": "Tue, 16 Dec 2025 18:21:14 GMT"
     }
   ],
   "FBI": [
@@ -1034,10 +1034,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "AI pioneer Yann Le Cun is quitting Meta over the future of intelligence - France 24",
-      "pubDate": "Sun, 16 Nov 2025 15:16:10 GMT"
-    },
     {
       "title": "How Superintelligent AI Could Upend Work and Politics - The Ringer",
       "pubDate": "Tue, 18 Nov 2025 22:27:58 GMT"
@@ -1152,14 +1148,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran's foreign minister says the nation is no longer enriching uranium at any site in the country - NPR",
-      "pubDate": "Sun, 16 Nov 2025 11:00:38 GMT"
-    },
-    {
-      "title": "Iran\u2019s Water Crisis: When Drought Hits Harder Than Sanctions and Bombs - Forbes",
-      "pubDate": "Sun, 16 Nov 2025 18:14:36 GMT"
-    },
     {
       "title": "US-E3 draft resolution at IAEA board demands swift cooperation from Iran - Reuters",
       "pubDate": "Tue, 18 Nov 2025 22:59:44 GMT"
@@ -1389,13 +1377,13 @@
     {
       "title": "Federal Reserve cuts interest rates for third time | Money Matters - WCNC",
       "pubDate": "Mon, 15 Dec 2025 22:11:00 GMT"
+    },
+    {
+      "title": "JPMorgan pulls $350bn from Federal Reserve to buy up Treasuries - Financial Times",
+      "pubDate": "Wed, 17 Dec 2025 05:00:13 GMT"
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "Homeland Security Department Shifts Its Focus to Immigration Crackdown - The New York Times",
-      "pubDate": "Sun, 16 Nov 2025 10:00:22 GMT"
-    },
     {
       "title": "Social Security Data Is Openly Being Shared With DHS to Target Immigrants - WIRED",
       "pubDate": "Tue, 18 Nov 2025 11:00:00 GMT"
@@ -1499,10 +1487,6 @@
   ],
   "Global Health": [
     {
-      "title": "Marburg Virus Outbreak in Southern Ethiopia Sparks Global Health Response - \u0411\u0443\u043a\u0432\u0438",
-      "pubDate": "Sun, 16 Nov 2025 14:16:34 GMT"
-    },
-    {
       "title": "Global study reveals massive hidden health burden from violence against women and children - News-Medical",
       "pubDate": "Wed, 10 Dec 2025 01:41:00 GMT"
     }
@@ -1519,14 +1503,6 @@
   ],
   "Terrorism": [
     {
-      "title": "Terror plot arrests reveal \u2018more dangerous\u2019 online pathway to ISIS radicalization in America - CNN",
-      "pubDate": "Sun, 16 Nov 2025 10:00:02 GMT"
-    },
-    {
-      "title": "State Department to designate Venezuelan cartel as a foreign terrorist organization - CNN",
-      "pubDate": "Mon, 17 Nov 2025 02:06:00 GMT"
-    },
-    {
       "title": "Man accused of setting woman on fire on Chicago train faces federal terrorism charge - NBC News",
       "pubDate": "Fri, 21 Nov 2025 02:43:00 GMT"
     },
@@ -1537,12 +1513,6 @@
     {
       "title": "DeSantis Designates Muslim Advocacy Group a \u2018Terrorist Organization\u2019 - The New York Times",
       "pubDate": "Tue, 09 Dec 2025 02:39:53 GMT"
-    }
-  ],
-  "Energy Storage": [
-    {
-      "title": "EBRD Grants \u20ac22.3m To Power One To Build 36.8 MW Gas-Piston Plants And 31.5 MW Battery Storage To Boost Ukraine\u2019s Energy Security Amid War Damage - SolarQuarter",
-      "pubDate": "Mon, 17 Nov 2025 05:40:21 GMT"
     }
   ],
   "Amazon": [
@@ -1577,17 +1547,7 @@
       "pubDate": "Mon, 17 Nov 2025 10:38:04 GMT"
     }
   ],
-  "United States": [
-    {
-      "title": "Last nuclear treaty between US and Russia nears expiration as Trump and Putin trade testing threats - CNN",
-      "pubDate": "Sun, 16 Nov 2025 10:00:01 GMT"
-    }
-  ],
   "Vladimir Putin": [
-    {
-      "title": "Russia readies nuclear-capable Burevestnik missile, NATO sounds alarm - Euronews.com",
-      "pubDate": "Sun, 16 Nov 2025 11:34:50 GMT"
-    },
     {
       "title": "Putin ally Viktor Orban claims Ukraine has \u2018no chance\u2019 of winning war - The Independent",
       "pubDate": "Mon, 17 Nov 2025 10:53:00 GMT"
@@ -1609,23 +1569,7 @@
       "pubDate": "Thu, 04 Dec 2025 19:30:43 GMT"
     }
   ],
-  "Net Zero Emissions": [
-    {
-      "title": "The climate crisis is expensive: net zero is cheaper for Australia than not doing more - The Guardian",
-      "pubDate": "Sun, 16 Nov 2025 21:57:00 GMT"
-    }
-  ],
-  "Political Corruption": [
-    {
-      "title": "Mexico City Joins Michoacan, Puebla, Sinaloa, Jalisco, Oaxaca and More in Escalating Protests Against Government Corruption and Public Insecurity Significantly Impacting Tourists and Shaking Mexico\u2019s Travel Industry - Travel And Tour World",
-      "pubDate": "Mon, 17 Nov 2025 04:55:30 GMT"
-    }
-  ],
   "Privacy": [
-    {
-      "title": "Senators\u2019 surveillance payday exposes flawed privacy laws - The Hill",
-      "pubDate": "Sun, 16 Nov 2025 19:00:00 GMT"
-    },
     {
       "title": "EU's \"Chat Control\" Moves Forward Despite Privacy Concerns: What 450 Million Europeans Need to Know - Brave New Coin",
       "pubDate": "Thu, 27 Nov 2025 22:09:23 GMT"
@@ -1633,12 +1577,6 @@
     {
       "title": "AI anxiety drives consumer privacy fears as data trust reaches crisis point - PPC Land",
       "pubDate": "Sun, 07 Dec 2025 20:42:11 GMT"
-    }
-  ],
-  "Rain Forests": [
-    {
-      "title": "Australia's rainforests releasing more CO2 than they absorb: Study | This could worsen global warming significantly | Inshorts - Inshorts",
-      "pubDate": "Mon, 17 Nov 2025 05:13:53 GMT"
     }
   ],
   "Mars": [
@@ -1911,6 +1849,10 @@
     {
       "title": "Israeli president pushes back against Trump\u2019s pressure to pardon Netanyahu on corruption charges - Anadolu Ajans\u0131",
       "pubDate": "Sun, 07 Dec 2025 06:30:39 GMT"
+    },
+    {
+      "title": "Inside the $2 Billion Scandal That Paralyzed the Philippines - Bloomberg.com",
+      "pubDate": "Tue, 16 Dec 2025 23:00:05 GMT"
     }
   ],
   "Public Health": [
