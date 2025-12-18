@@ -87,6 +87,10 @@
     {
       "title": "China and the United States Are Racing Towards Different Ends in AI - The Equation - Union of Concerned Scientists",
       "pubDate": "Mon, 15 Dec 2025 12:00:00 GMT"
+    },
+    {
+      "title": "Scarlet Dragon Links Military, Industry to Test Artificial Intelligence for Warfighters - U.S. Department of War (.gov)",
+      "pubDate": "Wed, 17 Dec 2025 18:30:47 GMT"
     }
   ],
   "US Politics": [
@@ -100,10 +104,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Palestinians dying at \"alarming rate\" in Israeli prisons since Oct 7, 2023, rights group says - CBS News",
-      "pubDate": "Mon, 17 Nov 2025 16:22:00 GMT"
-    },
     {
       "title": "Tense calm in far north as Israel prepares to \u2018finish the job\u2019 against Hezbollah - The Guardian",
       "pubDate": "Sat, 22 Nov 2025 09:00:00 GMT"
@@ -138,10 +138,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Video shows gas tanker ship on fire after attack on Ukrainian Danube port - BBC",
-      "pubDate": "Mon, 17 Nov 2025 17:11:45 GMT"
-    },
     {
       "title": "\u2018Dire situation\u2019: Russia gains ground in Ukraine\u2019s Zaporizhia region - Al Jazeera",
       "pubDate": "Tue, 18 Nov 2025 11:28:03 GMT"
@@ -216,10 +212,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Senate to move on Trump-backed Russia sanctions, Graham says - Politico",
-      "pubDate": "Mon, 17 Nov 2025 18:23:40 GMT"
-    },
     {
       "title": "Polish Authorities Say Russia Is Likely Behind Railway Explosion - Bloomberg.com",
       "pubDate": "Tue, 18 Nov 2025 11:23:34 GMT"
@@ -403,17 +395,7 @@
       "pubDate": "Wed, 17 Dec 2025 07:42:27 GMT"
     }
   ],
-  "Financial Markets": [
-    {
-      "title": "Stock Market Today: Dow Drops 557 Points as Selloff Intensifies - The Wall Street Journal",
-      "pubDate": "Mon, 17 Nov 2025 22:30:00 GMT"
-    }
-  ],
   "China": [
-    {
-      "title": "Japan says warplanes scrambled as Chinese drone detected near southern island close to Taiwan - CBS News",
-      "pubDate": "Mon, 17 Nov 2025 13:06:00 GMT"
-    },
     {
       "title": "We Now Have a Better Picture of China\u2019s Global Lending Spree - The New York Times",
       "pubDate": "Tue, 18 Nov 2025 06:00:08 GMT"
@@ -541,13 +523,13 @@
     {
       "title": "Exclusive | Panama Ports Deal Hits Impasse as China Makes New Demands for Its Approval - The Wall Street Journal",
       "pubDate": "Tue, 16 Dec 2025 17:57:00 GMT"
+    },
+    {
+      "title": "Exclusive: How China built its \u2018Manhattan Project\u2019 to rival the West in AI chips - Reuters",
+      "pubDate": "Wed, 17 Dec 2025 15:30:30 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "'I'm deeply uncomfortable': Anthropic CEO warns that a cadre of AI leaders, including himself, should not be in charge of the technology\u2019s future - Fortune",
-      "pubDate": "Mon, 17 Nov 2025 18:43:00 GMT"
-    },
     {
       "title": "The UK\u2019s Contribution to Developing the International Governance of AI Safety and How its Policy Took a Sharp Turn - Opinio Juris",
       "pubDate": "Tue, 18 Nov 2025 13:02:38 GMT"
@@ -638,10 +620,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "DoorDash confirms data breach impacting users\u2019 phone numbers and physical addresses - TechCrunch",
-      "pubDate": "Mon, 17 Nov 2025 15:27:38 GMT"
-    },
     {
       "title": "CodeRED Emergency Alerts Disrupted Across US After Ransomware Breach - Bitdefender",
       "pubDate": "Fri, 28 Nov 2025 11:50:20 GMT"
@@ -911,10 +889,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Cop30: calls for new urgency to talks as studies show global warming may reach 2.5C \u2013 latest updates - The Guardian",
-      "pubDate": "Mon, 17 Nov 2025 16:37:31 GMT"
-    },
-    {
       "title": "A Landmark Court Ruling Looms Over U.S. Absence at COP30 - Inside Climate News",
       "pubDate": "Tue, 18 Nov 2025 10:00:00 GMT"
     },
@@ -1025,6 +999,10 @@
     {
       "title": "Arctic is hotter than it's been in 125 years, with record-low sea ice: NOAA report - NBC News",
       "pubDate": "Tue, 16 Dec 2025 18:21:14 GMT"
+    },
+    {
+      "title": "Hydrogen buildup adds hidden warming risk to energy transition - Interesting Engineering",
+      "pubDate": "Wed, 17 Dec 2025 23:46:00 GMT"
     }
   ],
   "FBI": [
@@ -1056,14 +1034,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "China rapidly expands nuclear test site as Trump revives Cold War tension - The Washington Post",
-      "pubDate": "Mon, 17 Nov 2025 17:31:59 GMT"
-    },
-    {
-      "title": "Dozens of groups call for governments to protect encryption - CyberScoop",
-      "pubDate": "Mon, 17 Nov 2025 20:58:48 GMT"
-    },
     {
       "title": "Mounting Chinese threat prompts CISA to ramp up hiring - SC Media",
       "pubDate": "Tue, 18 Nov 2025 17:13:45 GMT"
@@ -1141,6 +1111,10 @@
     {
       "title": "Russia deepens reliance on North Korea and China for drone production and war support - Odessa Journal",
       "pubDate": "Sun, 07 Dec 2025 17:44:12 GMT"
+    },
+    {
+      "title": "North Korea: Kim Jong-Un Pays Tribute to Father at Kumsusan Palace - WION",
+      "pubDate": "Wed, 17 Dec 2025 16:34:00 GMT"
     }
   ],
   "Iran": [
@@ -1163,13 +1137,13 @@
     {
       "title": "Mossad chief: Israel has duty to ensure Iran cannot restart nuclear program - The Times of Israel",
       "pubDate": "Wed, 17 Dec 2025 09:56:15 GMT"
+    },
+    {
+      "title": "Killing the \u2018brain trust\u2019: How Israel targeted Iran\u2019s nuclear scientists - The Washington Post",
+      "pubDate": "Wed, 17 Dec 2025 18:00:00 GMT"
     }
   ],
   "US Supreme Court": [
-    {
-      "title": "Supreme Court to review US government power to limit asylum processing - Reuters",
-      "pubDate": "Mon, 17 Nov 2025 15:04:30 GMT"
-    },
     {
       "title": "North Dakota court upholds near-total abortion ban - BBC",
       "pubDate": "Sat, 22 Nov 2025 22:28:09 GMT"
@@ -1417,10 +1391,6 @@
   ],
   "European Union": [
     {
-      "title": "Ukraine\u2019s Cash Is Running Low, and Europe Has No Good Plan B - The New York Times",
-      "pubDate": "Mon, 17 Nov 2025 16:08:55 GMT"
-    },
-    {
       "title": "The EU indicates it won't accept the U.S.'s Russia-Ukraine peace deal - NPR",
       "pubDate": "Thu, 20 Nov 2025 21:52:10 GMT"
     },
@@ -1565,12 +1535,6 @@
     {
       "title": "AI anxiety drives consumer privacy fears as data trust reaches crisis point - PPC Land",
       "pubDate": "Sun, 07 Dec 2025 20:42:11 GMT"
-    }
-  ],
-  "Mars": [
-    {
-      "title": "Scientist Say They\u2019ve Found Caves on Mars That May Contain Life - Futurism",
-      "pubDate": "Mon, 17 Nov 2025 14:26:05 GMT"
     }
   ],
   "Space Exploration": [
@@ -1789,6 +1753,10 @@
     {
       "title": "India's atomic energy bill tabled in parliament - World Nuclear News",
       "pubDate": "Mon, 15 Dec 2025 21:12:40 GMT"
+    },
+    {
+      "title": "U.S. Plans Largest Nuclear Power Program Since the 1970s - IEEE Spectrum",
+      "pubDate": "Wed, 17 Dec 2025 14:54:50 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1963,6 +1931,12 @@
     {
       "title": "Trump moves to dismantle major US climate research center in Colorado - USA Today",
       "pubDate": "Wed, 17 Dec 2025 05:08:00 GMT"
+    }
+  ],
+  "Vladimir Putin": [
+    {
+      "title": "US readies new Russia sanctions if Putin rejects peace deal, Bloomberg News reports - Reuters",
+      "pubDate": "Wed, 17 Dec 2025 16:55:02 GMT"
     }
   ]
 }
