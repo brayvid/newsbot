@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Google boss Sundar Pichai warns 'no company immune' if AI bubble bursts - BBC",
-      "pubDate": "Tue, 18 Nov 2025 05:02:04 GMT"
-    },
-    {
       "title": "Google Unveils Gemini's Next Generation, Aiming to Turn Its Search Engine Into a 'Thought Partner' - U.S. News & World Report",
       "pubDate": "Tue, 18 Nov 2025 16:31:00 GMT"
     },
@@ -135,6 +131,10 @@
     {
       "title": "Israeli ambassador to US calls for peace with Lebanon, envisions \u2018Abraham Accords 2.0\u2019 - The Times of Israel",
       "pubDate": "Sat, 06 Dec 2025 10:19:40 GMT"
+    },
+    {
+      "title": "Israel attacking Lebanon every four hours as ceasefire frays - Sky News",
+      "pubDate": "Thu, 18 Dec 2025 04:52:11 GMT"
     }
   ],
   "Ukraine": [
@@ -319,13 +319,13 @@
     {
       "title": "Russia and Ukraine 'on the verge' of deal to end war, deputy foreign minister says - ABC News",
       "pubDate": "Mon, 15 Dec 2025 20:12:47 GMT"
+    },
+    {
+      "title": "US, Russia to hold talks on Ukraine war in Miami this weekend - Politico",
+      "pubDate": "Wed, 17 Dec 2025 19:38:10 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "The prospect of an embarrassing defeat convinced Trump to reverse course on Epstein files - CNN",
-      "pubDate": "Tue, 18 Nov 2025 01:12:00 GMT"
-    },
     {
       "title": "Trump abruptly pulls plan to announce Obamacare extension after \u2018significant congressional backlash\u2019: report - The Independent",
       "pubDate": "Tue, 25 Nov 2025 10:30:00 GMT"
@@ -396,10 +396,6 @@
     }
   ],
   "China": [
-    {
-      "title": "We Now Have a Better Picture of China\u2019s Global Lending Spree - The New York Times",
-      "pubDate": "Tue, 18 Nov 2025 06:00:08 GMT"
-    },
     {
       "title": "Chinese spies using LinkedIn to target British lawmakers, MI5 warns - CNN",
       "pubDate": "Tue, 18 Nov 2025 18:13:20 GMT"
@@ -617,6 +613,10 @@
     {
       "title": "Exclusive: Cisco has a new map of AI security and safety threats every company should know - Axios",
       "pubDate": "Tue, 16 Dec 2025 19:36:59 GMT"
+    },
+    {
+      "title": "AI Pioneers Fear Catastrophic Risks from Superintelligence and Misuse - WebProNews",
+      "pubDate": "Wed, 17 Dec 2025 22:11:31 GMT"
     }
   ],
   "Data Breach": [
@@ -885,6 +885,10 @@
     {
       "title": "ICC rejects Israeli bid to halt Gaza war investigation - Reuters",
       "pubDate": "Mon, 15 Dec 2025 19:41:27 GMT"
+    },
+    {
+      "title": "UN, aid groups warn Gaza operations at risk from Israel impediments - Reuters",
+      "pubDate": "Wed, 17 Dec 2025 22:15:46 GMT"
     }
   ],
   "Climate Change": [
@@ -1115,6 +1119,10 @@
     {
       "title": "North Korea: Kim Jong-Un Pays Tribute to Father at Kumsusan Palace - WION",
       "pubDate": "Wed, 17 Dec 2025 16:34:00 GMT"
+    },
+    {
+      "title": "North Korea Has 200,000 Special Forces Troops Ready to Invade South Korea - 19FortyFive",
+      "pubDate": "Wed, 17 Dec 2025 20:43:04 GMT"
     }
   ],
   "Iran": [
@@ -1239,6 +1247,10 @@
     {
       "title": "CISA Unveils 4 Principles for the Secure Integration of AI in Operational Technology - CDO Magazine",
       "pubDate": "Mon, 15 Dec 2025 10:08:00 GMT"
+    },
+    {
+      "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation - The Hacker News",
+      "pubDate": "Thu, 18 Dec 2025 05:01:00 GMT"
     }
   ],
   "Elon Musk": [
@@ -1273,13 +1285,13 @@
     {
       "title": "Live updates: Australia Bondi Beach shooting kills at least 15, details on suspects emerge - CNN",
       "pubDate": "Mon, 15 Dec 2025 23:50:00 GMT"
+    },
+    {
+      "title": "Vladimir Putin issues chilling nuclear warning as he reveals plans for new security zone - Daily Express US",
+      "pubDate": "Wed, 17 Dec 2025 17:57:30 GMT"
     }
   ],
   "Hacking": [
-    {
-      "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability - The Hacker News",
-      "pubDate": "Tue, 18 Nov 2025 04:44:00 GMT"
-    },
     {
       "title": "N. Korean hacking group Lazarus suspected behind recent crypto hacking: sources - upi.com",
       "pubDate": "Fri, 28 Nov 2025 04:15:25 GMT"
