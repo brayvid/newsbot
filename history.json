@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Google Unveils Gemini's Next Generation, Aiming to Turn Its Search Engine Into a 'Thought Partner' - U.S. News & World Report",
-      "pubDate": "Tue, 18 Nov 2025 16:31:00 GMT"
-    },
-    {
-      "title": "Harnessing artificial intelligence to advance CRISPR-based genome editing technologies - Nature",
-      "pubDate": "Tue, 18 Nov 2025 13:47:48 GMT"
-    },
-    {
       "title": "AI borrowing binge prompts investors to back away from corporate bonds - Reuters",
       "pubDate": "Thu, 20 Nov 2025 05:00:00 GMT"
     },
@@ -87,6 +79,10 @@
     {
       "title": "Scarlet Dragon Links Military, Industry to Test Artificial Intelligence for Warfighters - U.S. Department of War (.gov)",
       "pubDate": "Wed, 17 Dec 2025 18:30:47 GMT"
+    },
+    {
+      "title": "Member State Exchange on Artificial Intelligence and Elections - International IDEA",
+      "pubDate": "Thu, 18 Dec 2025 13:14:23 GMT"
     }
   ],
   "US Politics": [
@@ -138,10 +134,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "\u2018Dire situation\u2019: Russia gains ground in Ukraine\u2019s Zaporizhia region - Al Jazeera",
-      "pubDate": "Tue, 18 Nov 2025 11:28:03 GMT"
-    },
     {
       "title": "Ukraine hits targets in Russia with U.S.-supplied ATACMS missiles, military says - NBC News",
       "pubDate": "Tue, 18 Nov 2025 22:33:48 GMT"
@@ -209,13 +201,13 @@
     {
       "title": "Russian attack on Ukraine's Zaporizhzhia injures 26, governor says - Reuters",
       "pubDate": "Wed, 17 Dec 2025 11:11:22 GMT"
+    },
+    {
+      "title": "Crunch EU summit discusses using frozen Russian assets for Ukraine - Reuters",
+      "pubDate": "Thu, 18 Dec 2025 17:44:16 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Polish Authorities Say Russia Is Likely Behind Railway Explosion - Bloomberg.com",
-      "pubDate": "Tue, 18 Nov 2025 11:23:34 GMT"
-    },
     {
       "title": "Ukraine war live: Nato member evacuates villages after Putin attack - The Independent",
       "pubDate": "Tue, 18 Nov 2025 23:00:00 GMT"
@@ -401,10 +393,6 @@
       "pubDate": "Tue, 18 Nov 2025 18:13:20 GMT"
     },
     {
-      "title": "China and Japan are in a vicious game of chicken over Taiwan - The Economist",
-      "pubDate": "Tue, 18 Nov 2025 18:00:53 GMT"
-    },
-    {
       "title": "China Is Priming Its People and the World for a New Pressure Campaign on Taiwan - The Wall Street Journal",
       "pubDate": "Thu, 20 Nov 2025 04:00:00 GMT"
     },
@@ -527,10 +515,6 @@
   ],
   "AI Safety": [
     {
-      "title": "The UK\u2019s Contribution to Developing the International Governance of AI Safety and How its Policy Took a Sharp Turn - Opinio Juris",
-      "pubDate": "Tue, 18 Nov 2025 13:02:38 GMT"
-    },
-    {
       "title": "Lawmakers press tech and health experts on AI safety and data privacy, hoping to shape future regulation - Scripps News",
       "pubDate": "Wed, 19 Nov 2025 19:33:01 GMT"
     },
@@ -642,10 +626,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "An AI-Powered Cyberattack Is Self-Replicating - Forbes",
-      "pubDate": "Tue, 18 Nov 2025 13:59:27 GMT"
-    },
     {
       "title": "AI-Powered Cybersecurity: New Tools Combat Evolving Threats in Real Time - Tech Times",
       "pubDate": "Sat, 22 Nov 2025 16:25:39 GMT"
@@ -765,6 +745,10 @@
     {
       "title": "UK scientists unveil new facility to boost fusion effort for limitless clean energy goal - Interesting Engineering",
       "pubDate": "Sun, 14 Dec 2025 23:59:00 GMT"
+    },
+    {
+      "title": "Trump Media to Merge With TAE Technologies, a Nuclear Fusion Firm, in a $6 Billion Deal - The New York Times",
+      "pubDate": "Thu, 18 Dec 2025 13:14:23 GMT"
     }
   ],
   "OpenAI": [
@@ -893,14 +877,6 @@
   ],
   "Climate Change": [
     {
-      "title": "A Landmark Court Ruling Looms Over U.S. Absence at COP30 - Inside Climate News",
-      "pubDate": "Tue, 18 Nov 2025 10:00:00 GMT"
-    },
-    {
-      "title": "Pope Leo XIV calls for urgent climate action and says God\u2019s creation is 'crying out' - abcnews.go.com",
-      "pubDate": "Tue, 18 Nov 2025 08:16:24 GMT"
-    },
-    {
       "title": "Brazil pushes for early COP30 climate deal, though divisions persist - Reuters",
       "pubDate": "Tue, 18 Nov 2025 23:36:42 GMT"
     },
@@ -1007,6 +983,10 @@
     {
       "title": "Hydrogen buildup adds hidden warming risk to energy transition - Interesting Engineering",
       "pubDate": "Wed, 17 Dec 2025 23:46:00 GMT"
+    },
+    {
+      "title": "Japan Faces $6-a-Person Lawsuit Over Climate Change Risks - Bloomberg.com",
+      "pubDate": "Thu, 18 Dec 2025 07:43:00 GMT"
     }
   ],
   "FBI": [
@@ -1038,10 +1018,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Mounting Chinese threat prompts CISA to ramp up hiring - SC Media",
-      "pubDate": "Tue, 18 Nov 2025 17:13:45 GMT"
-    },
     {
       "title": "Congressional committee urges swift action on escalating Chinese threats - The Washington Post",
       "pubDate": "Wed, 19 Nov 2025 00:22:51 GMT"
@@ -1123,6 +1099,10 @@
     {
       "title": "North Korea Has 200,000 Special Forces Troops Ready to Invade South Korea - 19FortyFive",
       "pubDate": "Wed, 17 Dec 2025 20:43:04 GMT"
+    },
+    {
+      "title": "Four US presidents failed to stop North Korea\u2019s nuclear buildup. Trump still has a shot - Bulletin of the Atomic Scientists",
+      "pubDate": "Thu, 18 Dec 2025 12:56:15 GMT"
     }
   ],
   "Iran": [
@@ -1251,6 +1231,10 @@
     {
       "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation - The Hacker News",
       "pubDate": "Thu, 18 Dec 2025 05:01:00 GMT"
+    },
+    {
+      "title": "U.S. CISA adds Cisco, SonicWall, and ASUS flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
+      "pubDate": "Thu, 18 Dec 2025 10:18:56 GMT"
     }
   ],
   "Elon Musk": [
@@ -1370,10 +1354,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "Social Security Data Is Openly Being Shared With DHS to Target Immigrants - WIRED",
-      "pubDate": "Tue, 18 Nov 2025 11:00:00 GMT"
-    },
     {
       "title": "'Unprecedented' number of Chinese ships in the Arctic: DHS - ABC News",
       "pubDate": "Tue, 25 Nov 2025 22:49:58 GMT"
@@ -1511,12 +1491,6 @@
       "pubDate": "Wed, 17 Dec 2025 04:42:00 GMT"
     }
   ],
-  "US Senate": [
-    {
-      "title": "Democrats' bill would strip provision from funding bill that allowed senators to sue over phone records - abcnews.go.com",
-      "pubDate": "Tue, 18 Nov 2025 10:22:09 GMT"
-    }
-  ],
   "Central Intelligence Agency": [
     {
       "title": "Colombian President says CIA wants to oust him - MercoPress",
@@ -1547,12 +1521,6 @@
     {
       "title": "AI anxiety drives consumer privacy fears as data trust reaches crisis point - PPC Land",
       "pubDate": "Sun, 07 Dec 2025 20:42:11 GMT"
-    }
-  ],
-  "Space Exploration": [
-    {
-      "title": "Secretive SpaceX satellites operated by US government are shooting disruptive radio signals into space, astronomer accidentally discovers - Live Science",
-      "pubDate": "Tue, 18 Nov 2025 16:30:01 GMT"
     }
   ],
   "Google": [
@@ -1769,6 +1737,10 @@
     {
       "title": "U.S. Plans Largest Nuclear Power Program Since the 1970s - IEEE Spectrum",
       "pubDate": "Wed, 17 Dec 2025 14:54:50 GMT"
+    },
+    {
+      "title": "India's Parliament approves bill to open civil nuclear power sector to private firms - ABC News",
+      "pubDate": "Thu, 18 Dec 2025 16:23:45 GMT"
     }
   ],
   "Climate Engineering": [
