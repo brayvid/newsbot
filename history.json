@@ -135,10 +135,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine hits targets in Russia with U.S.-supplied ATACMS missiles, military says - NBC News",
-      "pubDate": "Tue, 18 Nov 2025 22:33:48 GMT"
-    },
-    {
       "title": "Zelensky to speak to Trump after US proposes Russia-Ukraine peace plan - BBC",
       "pubDate": "Thu, 20 Nov 2025 19:47:32 GMT"
     },
@@ -205,17 +201,13 @@
     {
       "title": "Crunch EU summit discusses using frozen Russian assets for Ukraine - Reuters",
       "pubDate": "Thu, 18 Dec 2025 17:44:16 GMT"
+    },
+    {
+      "title": "Ukraine's Zelenskiy meets Poland's Trump-backed president at key moment in war - Reuters",
+      "pubDate": "Fri, 19 Dec 2025 09:39:53 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Ukraine war live: Nato member evacuates villages after Putin attack - The Independent",
-      "pubDate": "Tue, 18 Nov 2025 23:00:00 GMT"
-    },
-    {
-      "title": "Russian Spy Ship Breaches Allied Waters, Fires Lasers at Military Planes - Newsweek",
-      "pubDate": "Wed, 19 Nov 2025 10:29:00 GMT"
-    },
     {
       "title": "US military officials in Kyiv as Europe warns against reported Russia peace plan - BBC",
       "pubDate": "Thu, 20 Nov 2025 11:55:36 GMT"
@@ -389,10 +381,6 @@
   ],
   "China": [
     {
-      "title": "Chinese spies using LinkedIn to target British lawmakers, MI5 warns - CNN",
-      "pubDate": "Tue, 18 Nov 2025 18:13:20 GMT"
-    },
-    {
       "title": "China Is Priming Its People and the World for a New Pressure Campaign on Taiwan - The Wall Street Journal",
       "pubDate": "Thu, 20 Nov 2025 04:00:00 GMT"
     },
@@ -511,6 +499,10 @@
     {
       "title": "Exclusive: How China built its \u2018Manhattan Project\u2019 to rival the West in AI chips - Reuters",
       "pubDate": "Wed, 17 Dec 2025 15:30:30 GMT"
+    },
+    {
+      "title": "China blamed for UK government cyber attack - Financial Times",
+      "pubDate": "Fri, 19 Dec 2025 10:12:16 GMT"
     }
   ],
   "AI Safety": [
@@ -623,6 +615,10 @@
     {
       "title": "700Credit Data Breach Impacts 5.8 Million Individuals - SecurityWeek",
       "pubDate": "Mon, 15 Dec 2025 09:21:39 GMT"
+    },
+    {
+      "title": "Conduent data breach exposed data of 10.5 million people, including Social Security numbers - Mashable",
+      "pubDate": "Fri, 19 Dec 2025 02:59:39 GMT"
     }
   ],
   "Cybersecurity": [
@@ -779,14 +775,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel-Gaza live updates: Mixed responses to UN vote approving Trump peace plan - abcnews.go.com",
-      "pubDate": "Tue, 18 Nov 2025 20:45:00 GMT"
-    },
-    {
-      "title": "LIVE: 14 killed in Israeli air attacks in Lebanon; air strikes in Gaza - Al Jazeera",
-      "pubDate": "Wed, 19 Nov 2025 11:15:00 GMT"
-    },
-    {
       "title": "7 Km Long, 25 Metres Deep, 80 Rooms: Israel Finds Hamas \"Complex\" Tunnel - NDTV",
       "pubDate": "Fri, 21 Nov 2025 02:32:46 GMT"
     },
@@ -876,14 +864,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Brazil pushes for early COP30 climate deal, though divisions persist - Reuters",
-      "pubDate": "Tue, 18 Nov 2025 23:36:42 GMT"
-    },
-    {
-      "title": "Climate Adaptation Moves Closer to Center Stage at COP30 - Bloomberg.com",
-      "pubDate": "Wed, 19 Nov 2025 10:51:13 GMT"
-    },
     {
       "title": "Human-induced climate change compounded by socio-economic water stressors increased severity of 5-year drought in Iran and Euphrates and Tigris basin \u2013 World Weather Attribution - World Weather Attribution",
       "pubDate": "Fri, 21 Nov 2025 05:04:09 GMT"
@@ -997,10 +977,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "How Superintelligent AI Could Upend Work and Politics - The Ringer",
-      "pubDate": "Tue, 18 Nov 2025 22:27:58 GMT"
-    },
-    {
       "title": "Luma AI secures $900 million to speed up multimodal AGI push - Times of India",
       "pubDate": "Thu, 20 Nov 2025 17:34:00 GMT"
     },
@@ -1018,10 +994,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Congressional committee urges swift action on escalating Chinese threats - The Washington Post",
-      "pubDate": "Wed, 19 Nov 2025 00:22:51 GMT"
-    },
     {
       "title": "USCIS Implements Extra National Security Measures in Wake of National Guard Shooting by Afghan National - Homeland Security Today",
       "pubDate": "Fri, 28 Nov 2025 08:11:54 GMT"
@@ -1106,10 +1078,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "US-E3 draft resolution at IAEA board demands swift cooperation from Iran - Reuters",
-      "pubDate": "Tue, 18 Nov 2025 22:59:44 GMT"
-    },
     {
       "title": "IAEA puts pressure on Iran, targeting 60% enriched uranium - The Jerusalem Post",
       "pubDate": "Wed, 19 Nov 2025 14:45:22 GMT"
@@ -1423,6 +1391,10 @@
     {
       "title": "US bankruptcies surge to 15-year high \u2014 Recession alarms flash as filings outpace 2020 crisis - The Economic Times",
       "pubDate": "Wed, 03 Dec 2025 19:18:45 GMT"
+    },
+    {
+      "title": "Sneaking unemployment rate means the U.S. economy is inching closer to a key recession indicator, says Moody's - Fortune",
+      "pubDate": "Fri, 19 Dec 2025 11:36:00 GMT"
     }
   ],
   "Social Media": [
@@ -1450,10 +1422,6 @@
     }
   ],
   "Astronomy": [
-    {
-      "title": "The James Webb Space Telescope may have finally found the 1st stars in the universe - Space",
-      "pubDate": "Tue, 18 Nov 2025 20:00:00 GMT"
-    },
     {
       "title": "Scientists Claim to Detect Dark Matter for the First Time Ever - Futurism",
       "pubDate": "Sat, 29 Nov 2025 11:00:00 GMT"
@@ -1525,24 +1493,8 @@
   ],
   "Google": [
     {
-      "title": "Google launches Gemini 3, embeds AI model into search immediately - Reuters",
-      "pubDate": "Tue, 18 Nov 2025 18:21:12 GMT"
-    },
-    {
       "title": "How Google Finally Leapfrogged Rivals With New Gemini Rollout - The Wall Street Journal",
       "pubDate": "Sat, 22 Nov 2025 10:30:00 GMT"
-    }
-  ],
-  "Democratic Party": [
-    {
-      "title": "Democratic Lawmakers Tell Military to Refuse Illegal Orders - The New York Times",
-      "pubDate": "Wed, 19 Nov 2025 01:14:50 GMT"
-    }
-  ],
-  "Finance": [
-    {
-      "title": "'Bond King' Jeffrey Gundlach warns of the next financial crisis: 'It has the same trappings as subprime mortgage repackaging in 2006' - Fortune",
-      "pubDate": "Tue, 18 Nov 2025 20:18:00 GMT"
     }
   ],
   "Mark Zuckerberg": [
@@ -1829,6 +1781,10 @@
     {
       "title": "Germany investing in military amid concerns over Putin, uncertainty about U.S. support for European defense - CBS News",
       "pubDate": "Mon, 15 Dec 2025 00:50:52 GMT"
+    },
+    {
+      "title": "Trump signs $1tn annual US defense bill without fanfare - The Guardian",
+      "pubDate": "Fri, 19 Dec 2025 00:31:00 GMT"
     }
   ],
   "Taxes": [
@@ -1847,6 +1803,10 @@
     {
       "title": "Trump Clears Sale of More Powerful Nvidia A.I. Chips to China - The New York Times",
       "pubDate": "Mon, 08 Dec 2025 22:30:02 GMT"
+    },
+    {
+      "title": "Exclusive: US launches review of advanced Nvidia AI chip sales to China, sources say - Reuters",
+      "pubDate": "Fri, 19 Dec 2025 02:27:00 GMT"
     }
   ],
   "US Congress": [
@@ -1921,6 +1881,12 @@
     {
       "title": "US readies new Russia sanctions if Putin rejects peace deal, Bloomberg News reports - Reuters",
       "pubDate": "Wed, 17 Dec 2025 16:55:02 GMT"
+    }
+  ],
+  "US Treasury": [
+    {
+      "title": "China cuts US Treasury holdings to lowest level since 2008 - South China Morning Post",
+      "pubDate": "Fri, 19 Dec 2025 05:05:14 GMT"
     }
   ]
 }
