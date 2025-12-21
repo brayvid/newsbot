@@ -299,6 +299,10 @@
     {
       "title": "Putin vows no more wars if West treats Russia with respect - BBC",
       "pubDate": "Fri, 19 Dec 2025 16:06:31 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Russian oil rig hit in Caspian Sea over 700km from Ukraine - The Guardian",
+      "pubDate": "Sun, 21 Dec 2025 03:29:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -487,6 +491,10 @@
     {
       "title": "China blamed for UK government cyber attack - Financial Times",
       "pubDate": "Fri, 19 Dec 2025 10:12:16 GMT"
+    },
+    {
+      "title": "How China Tried to Dismantle a Major Underground Church - The New York Times",
+      "pubDate": "Sun, 21 Dec 2025 05:01:06 GMT"
     }
   ],
   "AI Safety": [
@@ -747,10 +755,6 @@
   ],
   "Gaza": [
     {
-      "title": "7 Km Long, 25 Metres Deep, 80 Rooms: Israel Finds Hamas \"Complex\" Tunnel - NDTV",
-      "pubDate": "Fri, 21 Nov 2025 02:32:46 GMT"
-    },
-    {
       "title": "Gaza: Two children killed every day during fragile ceasefire, says UNICEF - UN News",
       "pubDate": "Fri, 21 Nov 2025 13:10:32 GMT"
     },
@@ -833,13 +837,13 @@
     {
       "title": "UN, aid groups warn Gaza operations at risk from Israel impediments - Reuters",
       "pubDate": "Wed, 17 Dec 2025 22:15:46 GMT"
+    },
+    {
+      "title": "Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown - NPR",
+      "pubDate": "Sun, 21 Dec 2025 00:03:04 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "Human-induced climate change compounded by socio-economic water stressors increased severity of 5-year drought in Iran and Euphrates and Tigris basin \u2013 World Weather Attribution - World Weather Attribution",
-      "pubDate": "Fri, 21 Nov 2025 05:04:09 GMT"
-    },
     {
       "title": "Brazil Draft COP30 Climate Deal Omits Plan to Exit Fossil Fuels - Bloomberg.com",
       "pubDate": "Fri, 21 Nov 2025 10:57:59 GMT"
@@ -1047,13 +1051,13 @@
     {
       "title": "Four US presidents failed to stop North Korea\u2019s nuclear buildup. Trump still has a shot - Bulletin of the Atomic Scientists",
       "pubDate": "Thu, 18 Dec 2025 12:56:15 GMT"
+    },
+    {
+      "title": "North Korea's KCNA: Japan's ambition for nuclear weapons should be curbed - Reuters",
+      "pubDate": "Sat, 20 Dec 2025 21:56:37 GMT"
     }
   ],
   "Iran": [
-    {
-      "title": "Iran cancels new nuclear inspections it agreed to after bombing campaign - The Washington Post",
-      "pubDate": "Fri, 21 Nov 2025 05:21:59 GMT"
-    },
     {
       "title": "Taps are running dry in Iran. Decades of bad decisions are to blame. - The Washington Post",
       "pubDate": "Mon, 24 Nov 2025 17:31:54 GMT"
@@ -1215,10 +1219,6 @@
   ],
   "Drones": [
     {
-      "title": "Russia downs 33 Ukrainian drones overnight, defence ministry says - Reuters",
-      "pubDate": "Fri, 21 Nov 2025 05:34:35 GMT"
-    },
-    {
       "title": "Netherlands opens fire on suspicious drones near air base housing US nuclear weapons - The Kyiv Independent",
       "pubDate": "Sat, 22 Nov 2025 21:09:24 GMT"
     },
@@ -1249,6 +1249,10 @@
     {
       "title": "Ukraine Claims First Strike by Underwater Drone on Russian Submarine - The New York Times",
       "pubDate": "Mon, 15 Dec 2025 18:43:59 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s long-range drones destroy Russian jet on military base - The Telegraph",
+      "pubDate": "Sat, 20 Dec 2025 18:36:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1303,6 +1307,10 @@
     {
       "title": "Microsoft Executive Vows to Halt AI Work If It Imperils Humanity - Bloomberg.com",
       "pubDate": "Thu, 11 Dec 2025 17:00:00 GMT"
+    },
+    {
+      "title": "OpenAI, Microsoft Sued Over ChatGPT's Alleged Role in Connecticut Murder-Suicide - Decrypt",
+      "pubDate": "Sat, 20 Dec 2025 18:01:02 GMT"
     }
   ],
   "European Union": [
@@ -1381,10 +1389,6 @@
   ],
   "Terrorism": [
     {
-      "title": "Man accused of setting woman on fire on Chicago train faces federal terrorism charge - NBC News",
-      "pubDate": "Fri, 21 Nov 2025 02:43:00 GMT"
-    },
-    {
       "title": "AI Apps Like ChatGPT Have Created \u2018New Era of Terrorism,\u2019 Study Reveals - Algemeiner.com",
       "pubDate": "Tue, 25 Nov 2025 22:35:00 GMT"
     },
@@ -1455,18 +1459,6 @@
     {
       "title": "How Google Finally Leapfrogged Rivals With New Gemini Rollout - The Wall Street Journal",
       "pubDate": "Sat, 22 Nov 2025 10:30:00 GMT"
-    }
-  ],
-  "Cryptocurrency": [
-    {
-      "title": "Cryptocurrency backed by Farage donor is used for Russian war effort, investigators say - The Guardian",
-      "pubDate": "Fri, 21 Nov 2025 05:00:00 GMT"
-    }
-  ],
-  "Intelligence Agencies": [
-    {
-      "title": "Mossad\u2013European intelligence operation launches sweeping crackdown on Hamas global terror network - wfiwradio.com",
-      "pubDate": "Fri, 21 Nov 2025 01:12:40 GMT"
     }
   ],
   "Republican Party": [
@@ -1849,6 +1841,12 @@
     {
       "title": "China cuts US Treasury holdings to lowest level since 2008 - South China Morning Post",
       "pubDate": "Fri, 19 Dec 2025 05:05:14 GMT"
+    }
+  ],
+  "Asia": [
+    {
+      "title": "Thousands Of Passengers Left In Limbo Across Asia As Singapore, Korean, Air China, ANA, Japan, And Other Airlines Cancel 140 and Delay 1,069 Flights In Japan, China, Singapore, South Korea, Indonesia,Thailand and More Including Tokyo, Beijing, Inche - Travel And Tour World",
+      "pubDate": "Sat, 20 Dec 2025 23:00:26 GMT"
     }
   ]
 }
