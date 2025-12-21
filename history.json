@@ -79,10 +79,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump Accuses Democratic Lawmakers of \u201dSEDITIOUS BEHAVIOR, punishable by DEATH!\u201d - Democracy Now!",
-      "pubDate": "Fri, 21 Nov 2025 15:01:33 GMT"
-    },
-    {
       "title": "US: Immigration requests for Afghans \u2018stopped indefinitely\u2019 - CNN",
       "pubDate": "Thu, 27 Nov 2025 06:10:09 GMT"
     }
@@ -126,10 +122,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine faces losing dignity or US support with Trump\u2019s plan to end war, Zelensky says - CNN",
-      "pubDate": "Fri, 21 Nov 2025 15:19:41 GMT"
-    },
     {
       "title": "As Trump Pushes to End Ukraine War, Europe Toils to Have a Say - The New York Times",
       "pubDate": "Tue, 25 Nov 2025 10:31:36 GMT"
@@ -205,6 +197,10 @@
     {
       "title": "Russia-Ukraine war may \u201cgrind on for another 12 to 18 months\u201d - Al Jazeera",
       "pubDate": "Sun, 21 Dec 2025 11:15:52 GMT"
+    },
+    {
+      "title": "US intelligence indicates Putin's war aims in Ukraine are unchanged - Reuters",
+      "pubDate": "Sun, 21 Dec 2025 16:33:50 GMT"
     }
   ],
   "Russia": [
@@ -377,10 +373,6 @@
   ],
   "China": [
     {
-      "title": "US-Philippine task force to reestablish South China Sea \u2018deterrence\u2019 - Defense News",
-      "pubDate": "Fri, 21 Nov 2025 16:09:05 GMT"
-    },
-    {
       "title": "China takes spat with Japan over Taiwan to UN, vows to defend itself - Reuters",
       "pubDate": "Sat, 22 Nov 2025 06:10:49 GMT"
     },
@@ -491,6 +483,10 @@
     {
       "title": "How China Tried to Dismantle a Major Underground Church - The New York Times",
       "pubDate": "Sun, 21 Dec 2025 05:01:06 GMT"
+    },
+    {
+      "title": "US-China ties in focus after Trump labels fentanyl \u2018weapon of mass destruction\u2019 - South China Morning Post",
+      "pubDate": "Sun, 21 Dec 2025 14:00:10 GMT"
     }
   ],
   "AI Safety": [
@@ -751,10 +747,6 @@
   ],
   "Gaza": [
     {
-      "title": "Gaza: Two children killed every day during fragile ceasefire, says UNICEF - UN News",
-      "pubDate": "Fri, 21 Nov 2025 13:10:32 GMT"
-    },
-    {
       "title": "Israel launches strikes in Gaza ceasefire\u2019s latest test as hospitals say more than 20 killed - Politico",
       "pubDate": "Sat, 22 Nov 2025 16:22:36 GMT"
     },
@@ -841,6 +833,10 @@
     {
       "title": "LIVE: Israel continues ceasefire violations; 1 Palestinian killed in Gaza - Al Jazeera",
       "pubDate": "Sun, 21 Dec 2025 11:11:00 GMT"
+    },
+    {
+      "title": "Gaza running out of critical drugs and medical supplies: ministry - TRT World",
+      "pubDate": "Sun, 21 Dec 2025 16:07:50 GMT"
     }
   ],
   "Climate Change": [
@@ -1219,6 +1215,10 @@
     {
       "title": "'Happy Ukrainian Armed Forces Day' \u2014 hackers deface website of Russian company delivering military goods, HUR source claims - The Kyiv Independent",
       "pubDate": "Sat, 06 Dec 2025 13:41:09 GMT"
+    },
+    {
+      "title": "Warning: Microsoft 365 Account Hacking Surge\u2014China & Russia Suspected - Forbes",
+      "pubDate": "Sun, 21 Dec 2025 13:18:07 GMT"
     }
   ],
   "Drones": [
@@ -1340,10 +1340,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "Mexico Economy Dipped Last Quarter, Fueling Recession Fears - Bloomberg.com",
-      "pubDate": "Fri, 21 Nov 2025 15:14:53 GMT"
-    },
     {
       "title": "China's fixed asset investment recession could be the start of a sea change, says expert - MSN",
       "pubDate": "Wed, 26 Nov 2025 09:12:54 GMT"
@@ -1529,6 +1525,10 @@
     {
       "title": "SPACEX HIT 512,440 KG TO ORBIT: 83% OF THE ENTIRE WORLD'S LAUNCH MASS The Q3 2025 launch report is out and it's a bloodbath. SpaceX alone launched 512 tons to orbit. That's more than the next 15 providers COMBINED. U.S. share: 97% Space - x.com",
       "pubDate": "Sat, 29 Nov 2025 03:45:00 GMT"
+    },
+    {
+      "title": "Exclusive | The SpaceX Explosion That Put Flights in Danger - The Wall Street Journal",
+      "pubDate": "Sun, 21 Dec 2025 14:17:00 GMT"
     }
   ],
   "World Economy": [
@@ -1669,6 +1669,10 @@
     {
       "title": "BRICS seek alternatives to US dollar, Brazil official says - Latest news from Azerbaijan",
       "pubDate": "Wed, 17 Dec 2025 10:44:53 GMT"
+    },
+    {
+      "title": "BRICS Ditches Dollar for Gold, Bloc Now Controls 50% of Global Supply - Watcher Guru",
+      "pubDate": "Sun, 21 Dec 2025 16:24:46 GMT"
     }
   ],
   "Information Security": [
@@ -1857,6 +1861,12 @@
     {
       "title": "The US healthcare system hurts poor Americans. It\u2019s about to get worse - The Guardian",
       "pubDate": "Sun, 21 Dec 2025 11:00:00 GMT"
+    }
+  ],
+  "Atlantic Ocean": [
+    {
+      "title": "2 Submerged NATO Nuclear-Armed Missile Submarines Collided in the Atlantic Ocean and It Cost Millions - 19FortyFive",
+      "pubDate": "Sun, 21 Dec 2025 12:38:25 GMT"
     }
   ]
 }
