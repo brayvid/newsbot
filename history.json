@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Is AI making some people delusional? Families and experts are worried - Los Angeles Times",
-      "pubDate": "Fri, 21 Nov 2025 11:00:00 GMT"
-    },
-    {
       "title": "Trump Team Internally Floats Idea of Selling Nvidia H200 Chips to China - Bloomberg.com",
       "pubDate": "Fri, 21 Nov 2025 20:47:12 GMT"
     },
@@ -205,13 +201,13 @@
     {
       "title": "Escalating Russian airstrikes aim to cut Ukraine off from sea, Zelenskiy says - Reuters",
       "pubDate": "Sat, 20 Dec 2025 16:52:24 GMT"
+    },
+    {
+      "title": "Russia-Ukraine war may \u201cgrind on for another 12 to 18 months\u201d - Al Jazeera",
+      "pubDate": "Sun, 21 Dec 2025 11:15:52 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Trump's full 28-point Ukraine-Russia peace plan - Axios",
-      "pubDate": "Fri, 21 Nov 2025 10:50:45 GMT"
-    },
     {
       "title": "Russia\u2019s drone revolution heaps pressure on Ukrainian defenses - CNN",
       "pubDate": "Sat, 22 Nov 2025 11:27:44 GMT"
@@ -373,13 +369,13 @@
     {
       "title": "Trump expands travel ban and restrictions to include an additional 20 countries - NPR",
       "pubDate": "Wed, 17 Dec 2025 07:42:27 GMT"
+    },
+    {
+      "title": "At least 16 files disappear from DOJ site for Epstein documents, including Trump photo - PBS",
+      "pubDate": "Sat, 20 Dec 2025 23:55:24 GMT"
     }
   ],
   "China": [
-    {
-      "title": "Japan Set to Lean on US Allies for Support If China Escalates - Bloomberg.com",
-      "pubDate": "Fri, 21 Nov 2025 11:00:00 GMT"
-    },
     {
       "title": "US-Philippine task force to reestablish South China Sea \u2018deterrence\u2019 - Defense News",
       "pubDate": "Fri, 21 Nov 2025 16:09:05 GMT"
@@ -841,13 +837,13 @@
     {
       "title": "Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown - NPR",
       "pubDate": "Sun, 21 Dec 2025 00:03:04 GMT"
+    },
+    {
+      "title": "LIVE: Israel continues ceasefire violations; 1 Palestinian killed in Gaza - Al Jazeera",
+      "pubDate": "Sun, 21 Dec 2025 11:11:00 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "Brazil Draft COP30 Climate Deal Omits Plan to Exit Fossil Fuels - Bloomberg.com",
-      "pubDate": "Fri, 21 Nov 2025 10:57:59 GMT"
-    },
     {
       "title": "'A lot of fighting': Fossil fuel row breaks out at UN climate summit - BBC",
       "pubDate": "Fri, 21 Nov 2025 21:21:41 GMT"
@@ -953,6 +949,10 @@
     {
       "title": "FBI foils New Year's Eve terror plot in Los Angeles, officials say - BBC",
       "pubDate": "Mon, 15 Dec 2025 18:26:26 GMT"
+    },
+    {
+      "title": "Epstein files include child porn complaint a decade before federal investigation - The Washington Post",
+      "pubDate": "Sun, 21 Dec 2025 04:19:00 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -1073,6 +1073,10 @@
     {
       "title": "Netanyahu plans to brief Trump on possible new Iran strikes - NBC News",
       "pubDate": "Sat, 20 Dec 2025 20:30:43 GMT"
+    },
+    {
+      "title": "IDF chief, while discussing Iran, says military will strike \u2018wherever required\u2019 - The Times of Israel",
+      "pubDate": "Sun, 21 Dec 2025 11:12:21 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1336,10 +1340,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "All the signs that America may be teetering on the brink of recession - The Telegraph",
-      "pubDate": "Fri, 21 Nov 2025 07:00:00 GMT"
-    },
     {
       "title": "Mexico Economy Dipped Last Quarter, Fueling Recession Fears - Bloomberg.com",
       "pubDate": "Fri, 21 Nov 2025 15:14:53 GMT"
@@ -1639,6 +1639,10 @@
     {
       "title": "India's Parliament approves bill to open civil nuclear power sector to private firms - ABC News",
       "pubDate": "Thu, 18 Dec 2025 16:23:45 GMT"
+    },
+    {
+      "title": "Chinese expert warns proliferation risk as South Korea, US plan consultations on nuclear-powered submarines next year - Global Times",
+      "pubDate": "Sun, 21 Dec 2025 05:46:00 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1847,6 +1851,12 @@
     {
       "title": "Thousands Of Passengers Left In Limbo Across Asia As Singapore, Korean, Air China, ANA, Japan, And Other Airlines Cancel 140 and Delay 1,069 Flights In Japan, China, Singapore, South Korea, Indonesia,Thailand and More Including Tokyo, Beijing, Inche - Travel And Tour World",
       "pubDate": "Sat, 20 Dec 2025 23:00:26 GMT"
+    }
+  ],
+  "Health Care": [
+    {
+      "title": "The US healthcare system hurts poor Americans. It\u2019s about to get worse - The Guardian",
+      "pubDate": "Sun, 21 Dec 2025 11:00:00 GMT"
     }
   ]
 }
