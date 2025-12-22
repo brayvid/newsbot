@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Trump Team Internally Floats Idea of Selling Nvidia H200 Chips to China - Bloomberg.com",
-      "pubDate": "Fri, 21 Nov 2025 20:47:12 GMT"
-    },
-    {
-      "title": "The A.I. Boom Is Driving the Economy. What Happens if It Falters? - The New York Times",
-      "pubDate": "Sat, 22 Nov 2025 10:01:41 GMT"
-    },
-    {
       "title": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies - About Amazon",
       "pubDate": "Mon, 24 Nov 2025 16:03:48 GMT"
     },
@@ -75,6 +67,10 @@
     {
       "title": "Member State Exchange on Artificial Intelligence and Elections - International IDEA",
       "pubDate": "Thu, 18 Dec 2025 13:14:23 GMT"
+    },
+    {
+      "title": "Boys at her school shared AI-generated, nude images of her. After a fight, she was the one expelled - ABC News",
+      "pubDate": "Mon, 22 Dec 2025 07:37:23 GMT"
     }
   ],
   "US Politics": [
@@ -84,10 +80,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Tense calm in far north as Israel prepares to \u2018finish the job\u2019 against Hezbollah - The Guardian",
-      "pubDate": "Sat, 22 Nov 2025 09:00:00 GMT"
-    },
     {
       "title": "Israeli Strikes Have Killed at Least 127 Civilians in Lebanon Since Ceasefire, UN Says - U.S. News & World Report",
       "pubDate": "Tue, 25 Nov 2025 10:23:00 GMT"
@@ -204,10 +196,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia\u2019s drone revolution heaps pressure on Ukrainian defenses - CNN",
-      "pubDate": "Sat, 22 Nov 2025 11:27:44 GMT"
-    },
     {
       "title": "In Russian-Occupied Mariupol, Everything Ukrainian Must Go - The New York Times",
       "pubDate": "Sun, 23 Nov 2025 05:01:15 GMT"
@@ -373,10 +361,6 @@
   ],
   "China": [
     {
-      "title": "China takes spat with Japan over Taiwan to UN, vows to defend itself - Reuters",
-      "pubDate": "Sat, 22 Nov 2025 06:10:49 GMT"
-    },
-    {
       "title": "China criticizes Japan's plan to deploy missiles on island near Taiwan - NBC News",
       "pubDate": "Mon, 24 Nov 2025 10:01:04 GMT"
     },
@@ -487,6 +471,10 @@
     {
       "title": "US-China ties in focus after Trump labels fentanyl \u2018weapon of mass destruction\u2019 - South China Morning Post",
       "pubDate": "Sun, 21 Dec 2025 14:00:10 GMT"
+    },
+    {
+      "title": "Exclusive: China likely loaded more than 100 ICBMs in silo fields, Pentagon report says - Reuters",
+      "pubDate": "Mon, 22 Dec 2025 16:20:34 GMT"
     }
   ],
   "AI Safety": [
@@ -599,10 +587,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "AI-Powered Cybersecurity: New Tools Combat Evolving Threats in Real Time - Tech Times",
-      "pubDate": "Sat, 22 Nov 2025 16:25:39 GMT"
-    },
-    {
       "title": "Harvard cyberattack data breach exposes alumni, donors, students and faculty records? Here's complete trut - The Economic Times",
       "pubDate": "Sat, 22 Nov 2025 20:36:46 GMT"
     },
@@ -669,6 +653,10 @@
     {
       "title": "LongNosedGoblin Caught Snooping on Asian Governments - Dark Reading | Security",
       "pubDate": "Fri, 19 Dec 2025 16:55:31 GMT"
+    },
+    {
+      "title": "CISA warns of continued threat activity linked to Brickstorm malware - Cybersecurity Dive",
+      "pubDate": "Mon, 22 Dec 2025 16:30:43 GMT"
     }
   ],
   "US Economy": [
@@ -743,13 +731,13 @@
     {
       "title": "OpenAI launches GPT-5.2 after 'code red' push to counter Google's Gemini 3 - Reuters",
       "pubDate": "Thu, 11 Dec 2025 21:24:03 GMT"
+    },
+    {
+      "title": "OpenAI\u2019s Child Exploitation Reports Increased Sharply This Year - WIRED",
+      "pubDate": "Mon, 22 Dec 2025 16:32:00 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel launches strikes in Gaza ceasefire\u2019s latest test as hospitals say more than 20 killed - Politico",
-      "pubDate": "Sat, 22 Nov 2025 16:22:36 GMT"
-    },
     {
       "title": "Sexual abuse claims emerge from the Israel-Gaza war - NBC News",
       "pubDate": "Tue, 25 Nov 2025 14:12:06 GMT"
@@ -841,14 +829,6 @@
   ],
   "Climate Change": [
     {
-      "title": "'A lot of fighting': Fossil fuel row breaks out at UN climate summit - BBC",
-      "pubDate": "Fri, 21 Nov 2025 21:21:41 GMT"
-    },
-    {
-      "title": "Alaska Native villages have few options and little US help as climate change devours their land - ABC News",
-      "pubDate": "Sat, 22 Nov 2025 14:41:00 GMT"
-    },
-    {
       "title": "N.C. Regulators Say Trump\u2019s Proposed Repeal of the Endangerment Finding Would Increase \u2018Criteria\u2019 Air Pollutants - Inside Climate News",
       "pubDate": "Tue, 25 Nov 2025 23:33:51 GMT"
     },
@@ -939,6 +919,10 @@
     {
       "title": "Climate change's hidden price tag: a drop in our income - University of Arizona News",
       "pubDate": "Fri, 19 Dec 2025 11:12:04 GMT"
+    },
+    {
+      "title": "How climate change could stunt millions of children\u2019s growth - Euronews.com",
+      "pubDate": "Mon, 22 Dec 2025 13:15:18 GMT"
     }
   ],
   "FBI": [
@@ -952,10 +936,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "If we don\u2019t control the AI industry, it could end up controlling us, warn two chilling new books - Scroll.in",
-      "pubDate": "Sat, 22 Nov 2025 15:00:00 GMT"
-    },
     {
       "title": "Exclusive: \"Transformative\" AGI is on the horizon, DeepMind's Hassabis says - Axios",
       "pubDate": "Fri, 05 Dec 2025 01:33:45 GMT"
@@ -993,6 +973,10 @@
     {
       "title": "Pentagon plan calls for major power shifts within U.S. military - The Washington Post",
       "pubDate": "Mon, 15 Dec 2025 22:56:49 GMT"
+    },
+    {
+      "title": "Trump administration halts five offshore wind projects citing national security concerns - KOMO",
+      "pubDate": "Mon, 22 Dec 2025 17:28:37 GMT"
     }
   ],
   "North Korea": [
@@ -1094,10 +1078,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "With the world at COP30, Trump administration rolls back environmental rules - NBC News",
-      "pubDate": "Sat, 22 Nov 2025 11:45:00 GMT"
-    },
     {
       "title": "Canada Lifts Climate Laws for Alberta Oil Sands, Planning Pipeline - The New York Times",
       "pubDate": "Fri, 28 Nov 2025 02:20:34 GMT"
@@ -1261,10 +1241,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "New York Fed chief raises expectations of a rate cut - Axios",
-      "pubDate": "Sat, 22 Nov 2025 04:27:26 GMT"
-    },
-    {
       "title": "Fed's Waller: December cut appropriate, but January action more uncertain - Fox Business - Reuters",
       "pubDate": "Mon, 24 Nov 2025 15:18:22 GMT"
     },
@@ -1305,6 +1281,10 @@
     {
       "title": "T.S.A. Is Providing Air Passenger Data to Immigration Agents for Deportation Effort - The New York Times",
       "pubDate": "Sat, 13 Dec 2025 19:01:00 GMT"
+    },
+    {
+      "title": "INCREASED INCENTIVES: DHS Now Offering $3K Holiday Stipend Through End of The Year Via the CBP Home App for Illegal Aliens to Leave Now - Homeland Security (.gov)",
+      "pubDate": "Mon, 22 Dec 2025 12:44:36 GMT"
     }
   ],
   "Microsoft": [
@@ -1429,12 +1409,6 @@
       "pubDate": "Thu, 27 Nov 2025 21:46:00 GMT"
     }
   ],
-  "GPUs": [
-    {
-      "title": "Trump considers opening up exports of NVIDIA H200 GPUs to China, lawmakers say security risks to big - Cybernews",
-      "pubDate": "Sat, 22 Nov 2025 00:45:00 GMT"
-    }
-  ],
   "Effects of Global Warming": [
     {
       "title": "Climate Change Could Slash Global Income by 19% in 26 Years - \u0411\u0443\u043a\u0432\u0438",
@@ -1449,24 +1423,6 @@
     {
       "title": "AI anxiety drives consumer privacy fears as data trust reaches crisis point - PPC Land",
       "pubDate": "Sun, 07 Dec 2025 20:42:11 GMT"
-    }
-  ],
-  "Google": [
-    {
-      "title": "How Google Finally Leapfrogged Rivals With New Gemini Rollout - The Wall Street Journal",
-      "pubDate": "Sat, 22 Nov 2025 10:30:00 GMT"
-    }
-  ],
-  "Republican Party": [
-    {
-      "title": "Marjorie Taylor Greene to quit Congress after Trump feud - BBC",
-      "pubDate": "Sat, 22 Nov 2025 04:12:35 GMT"
-    }
-  ],
-  "Outer Space": [
-    {
-      "title": "Space junk strike on China's astronaut capsule highlights need for a space rescue service, experts say - Space",
-      "pubDate": "Sat, 22 Nov 2025 14:00:00 GMT"
     }
   ],
   "Planetary Defense": [
