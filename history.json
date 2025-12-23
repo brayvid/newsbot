@@ -197,10 +197,6 @@
   ],
   "Russia": [
     {
-      "title": "In Russian-Occupied Mariupol, Everything Ukrainian Must Go - The New York Times",
-      "pubDate": "Sun, 23 Nov 2025 05:01:15 GMT"
-    },
-    {
       "title": "Russia-Ukraine war live: Nine killed in Kyiv, Rostov in overnight attacks - Al Jazeera",
       "pubDate": "Tue, 25 Nov 2025 09:40:57 GMT"
     },
@@ -283,6 +279,10 @@
     {
       "title": "Ukraine war briefing: Russian oil rig hit in Caspian Sea over 700km from Ukraine - The Guardian",
       "pubDate": "Sun, 21 Dec 2025 03:29:00 GMT"
+    },
+    {
+      "title": "Russia hits Ukraine with 'massive' attack, says Zelensky, after he warned of Christmas strikes - BBC",
+      "pubDate": "Tue, 23 Dec 2025 11:33:57 GMT"
     }
   ],
   "Donald Trump": [
@@ -357,6 +357,10 @@
     {
       "title": "At least 16 files disappear from DOJ site for Epstein documents, including Trump photo - PBS",
       "pubDate": "Sat, 20 Dec 2025 23:55:24 GMT"
+    },
+    {
+      "title": "Trump Administration Live Updates: President Announces Plans for New \u2018Trump Class\u2019 Warships - The New York Times",
+      "pubDate": "Tue, 23 Dec 2025 04:33:00 GMT"
     }
   ],
   "China": [
@@ -475,6 +479,10 @@
     {
       "title": "Exclusive: China likely loaded more than 100 ICBMs in silo fields, Pentagon report says - Reuters",
       "pubDate": "Mon, 22 Dec 2025 16:20:34 GMT"
+    },
+    {
+      "title": "China Delays Plans for Mass Production of Self-Driving Cars After Accident - The New York Times",
+      "pubDate": "Tue, 23 Dec 2025 05:00:09 GMT"
     }
   ],
   "AI Safety": [
@@ -557,6 +565,10 @@
     {
       "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety - TechCrunch",
       "pubDate": "Sat, 20 Dec 2025 18:20:34 GMT"
+    },
+    {
+      "title": "Japan unveils first national AI plan covering growth, safety - Tech in Asia",
+      "pubDate": "Tue, 23 Dec 2025 07:18:00 GMT"
     }
   ],
   "Data Breach": [
@@ -586,10 +598,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Harvard cyberattack data breach exposes alumni, donors, students and faculty records? Here's complete trut - The Economic Times",
-      "pubDate": "Sat, 22 Nov 2025 20:36:46 GMT"
-    },
     {
       "title": "Eroding Global Stability: The Cybersecurity Strategies Of China, Russia, North Korea, And Iran - Small Wars Journal",
       "pubDate": "Wed, 26 Nov 2025 06:01:40 GMT"
@@ -825,6 +833,10 @@
     {
       "title": "Gaza running out of critical drugs and medical supplies: ministry - TRT World",
       "pubDate": "Sun, 21 Dec 2025 16:07:50 GMT"
+    },
+    {
+      "title": "Katz: Israel to build Nucleus Settlements in northern Gaza - The Jerusalem Post",
+      "pubDate": "Tue, 23 Dec 2025 10:37:20 GMT"
     }
   ],
   "Climate Change": [
@@ -1061,10 +1073,6 @@
   ],
   "US Supreme Court": [
     {
-      "title": "North Dakota court upholds near-total abortion ban - BBC",
-      "pubDate": "Sat, 22 Nov 2025 22:28:09 GMT"
-    },
-    {
       "title": "US Supreme Court agrees to hear case challenging birthright citizenship - BBC",
       "pubDate": "Fri, 05 Dec 2025 21:54:01 GMT"
     },
@@ -1203,10 +1211,6 @@
   ],
   "Drones": [
     {
-      "title": "Netherlands opens fire on suspicious drones near air base housing US nuclear weapons - The Kyiv Independent",
-      "pubDate": "Sat, 22 Nov 2025 21:09:24 GMT"
-    },
-    {
       "title": "U.S. Launches One-Way-Attack Drone Force in the Middle East > U.S. Central Command > Press Release View - centcom.mil",
       "pubDate": "Wed, 03 Dec 2025 14:07:20 GMT"
     },
@@ -1335,10 +1339,6 @@
   ],
   "Social Media": [
     {
-      "title": "\u2018We\u2019re basically pushers\u2019: Court filing alleges staff at social media giants compared their platforms to drugs - Politico",
-      "pubDate": "Sun, 23 Nov 2025 04:26:57 GMT"
-    },
-    {
       "title": "Australia says the world will follow social media ban as Meta starts blocking teens - Reuters",
       "pubDate": "Thu, 04 Dec 2025 04:42:44 GMT"
     },
@@ -1383,10 +1383,6 @@
   ],
   "Amazon": [
     {
-      "title": "Amazon recall: Threat-to-life warning issued, items pulled nationwide - AL.com",
-      "pubDate": "Sat, 22 Nov 2025 19:32:00 GMT"
-    },
-    {
       "title": "More than 200,000 power banks sold on Amazon recalled over fire and burn risks - CBS News",
       "pubDate": "Sun, 07 Dec 2025 16:01:03 GMT"
     },
@@ -1423,12 +1419,6 @@
     {
       "title": "AI anxiety drives consumer privacy fears as data trust reaches crisis point - PPC Land",
       "pubDate": "Sun, 07 Dec 2025 20:42:11 GMT"
-    }
-  ],
-  "Planetary Defense": [
-    {
-      "title": "\ud83d\udea8\ud83c\uddef\ud83c\uddf5 THE NEXT FRONTIER OF PLANETARY DEFENSE: AN 11-METER ASTEROID SPINNING LIKE A FRISBEE Japan's Hayabusa2 just got a 2031 mission upgrade - straight into a sci-fi nightmare. New data from ESO's VLT shows its final target, asteroid 19 - x.com",
-      "pubDate": "Sun, 23 Nov 2025 00:10:00 GMT"
     }
   ],
   "Machine Learning": [
@@ -1823,6 +1813,18 @@
     {
       "title": "2 Submerged NATO Nuclear-Armed Missile Submarines Collided in the Atlantic Ocean and It Cost Millions - 19FortyFive",
       "pubDate": "Sun, 21 Dec 2025 12:38:25 GMT"
+    }
+  ],
+  "Military Intelligence": [
+    {
+      "title": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa ANOTHER RUSSIAN GENERAL BLOWN UP IN MOSCOW: PUTIN\u2019S INNER CIRCLE IS SHRINKING FAST Fanil Sarvarov, a top Russian general with ties to military intelligence and Putin\u2019s war machine, was killed by a car bomb in the heart of Moscow o - x.com",
+      "pubDate": "Tue, 23 Dec 2025 05:00:00 GMT"
+    }
+  ],
+  "Battery Technology": [
+    {
+      "title": "The Pentagon and A.I. Giants Have a Weakness. Both Need China\u2019s Batteries, Badly. - The New York Times",
+      "pubDate": "Tue, 23 Dec 2025 05:01:09 GMT"
     }
   ]
 }
