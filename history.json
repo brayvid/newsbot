@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Amazon to invest up to $50 billion to expand AI and supercomputing infrastructure for US government agencies - About Amazon",
-      "pubDate": "Mon, 24 Nov 2025 16:03:48 GMT"
-    },
-    {
       "title": "Foxconn adding nearly 1,400 jobs to build artificial intelligence servers at Racine County plant - WISN",
       "pubDate": "Tue, 25 Nov 2025 22:12:13 GMT"
     },
@@ -75,6 +71,10 @@
     {
       "title": "Chasing an Economic Boom, White House Dismisses Risks of A.I. - The New York Times",
       "pubDate": "Wed, 24 Dec 2025 10:02:31 GMT"
+    },
+    {
+      "title": "Exclusive: Nvidia buying AI chip startup Groq for about $20 billion in its largest acquisition on record - CNBC",
+      "pubDate": "Wed, 24 Dec 2025 20:54:16 GMT"
     }
   ],
   "US Politics": [
@@ -699,6 +699,10 @@
     {
       "title": "U.S. economy adds 64,000 jobs in November, unemployment rate at 4-year high - Axios",
       "pubDate": "Tue, 16 Dec 2025 18:59:02 GMT"
+    },
+    {
+      "title": "We asked experts to rate the U.S. economy in 2025. Here's what they said. - CBS News",
+      "pubDate": "Wed, 24 Dec 2025 15:13:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -1079,13 +1083,13 @@
     {
       "title": "North Korea's KCNA: Japan's ambition for nuclear weapons should be curbed - Reuters",
       "pubDate": "Sat, 20 Dec 2025 21:56:37 GMT"
+    },
+    {
+      "title": "North Korea's Kim Jong Un oversees test-firing of long-range missiles, KCNA says - Reuters",
+      "pubDate": "Wed, 24 Dec 2025 23:06:25 GMT"
     }
   ],
   "Iran": [
-    {
-      "title": "Taps are running dry in Iran. Decades of bad decisions are to blame. - The Washington Post",
-      "pubDate": "Mon, 24 Nov 2025 17:31:54 GMT"
-    },
     {
       "title": "Mossad chief: Israel has duty to ensure Iran cannot restart nuclear program - The Times of Israel",
       "pubDate": "Wed, 17 Dec 2025 09:56:15 GMT"
@@ -1105,6 +1109,10 @@
     {
       "title": "US, Iran spar over nuclear talks at UN Security Council meeting - The Times of Israel",
       "pubDate": "Tue, 23 Dec 2025 21:38:11 GMT"
+    },
+    {
+      "title": "Iran refuses inspection of nuclear sites until IAEA provides new guidelines after bombing - CNN",
+      "pubDate": "Wed, 24 Dec 2025 22:16:46 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1152,10 +1160,6 @@
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "U.S. Cyber Agency Flags Critical Oracle Identity Manager Flaw Amid Evidence of Active Attacks - LinkedIn",
-      "pubDate": "Mon, 24 Nov 2025 16:09:39 GMT"
-    },
     {
       "title": "CISA to Broaden AI Deployment for Faster Cyber Defense - CDO Magazine",
       "pubDate": "Fri, 28 Nov 2025 13:17:00 GMT"
@@ -1285,10 +1289,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "Fed's Waller: December cut appropriate, but January action more uncertain - Fox Business - Reuters",
-      "pubDate": "Mon, 24 Nov 2025 15:18:22 GMT"
-    },
-    {
       "title": "Economists double down on December Fed cut despite policymaker divide: Reuters poll - Reuters",
       "pubDate": "Thu, 04 Dec 2025 13:40:42 GMT"
     },
@@ -1346,10 +1346,6 @@
     }
   ],
   "European Union": [
-    {
-      "title": "Why Europe and the U.S. Are Still Haggling on Trade - The New York Times",
-      "pubDate": "Mon, 24 Nov 2025 15:00:06 GMT"
-    },
     {
       "title": "Europeans sketch out plan B in race to raid Russian assets for Ukraine - politico.eu",
       "pubDate": "Wed, 26 Nov 2025 03:12:00 GMT"
