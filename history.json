@@ -275,6 +275,10 @@
     {
       "title": "Russia hits Ukraine with 'massive' attack, says Zelensky, after he warned of Christmas strikes - BBC",
       "pubDate": "Tue, 23 Dec 2025 11:33:57 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv hits Russian oil refinery with British Storm Shadow missiles - The Guardian",
+      "pubDate": "Fri, 26 Dec 2025 02:06:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -356,10 +360,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Taiwan's President Lai lashes out against Beijing, pledging $40 billion in additional defense budget - CNBC",
-      "pubDate": "Wed, 26 Nov 2025 05:23:26 GMT"
-    },
     {
       "title": "China\u2019s property market is (somehow) worsening - The Economist",
       "pubDate": "Thu, 27 Nov 2025 11:37:22 GMT"
@@ -475,6 +475,10 @@
     {
       "title": "China Is Shifting Its Nuclear Forces to Swifter Footing, Pentagon Says - The New York Times",
       "pubDate": "Wed, 24 Dec 2025 08:06:40 GMT"
+    },
+    {
+      "title": "US and China escalate semiconductor state capitalism amid global supply chain shifts - digitimes",
+      "pubDate": "Fri, 26 Dec 2025 04:09:10 GMT"
     }
   ],
   "AI Safety": [
@@ -561,6 +565,10 @@
     {
       "title": "Pope Leo prepares to outline stance on AI - https-//www.semafor.com",
       "pubDate": "Wed, 24 Dec 2025 23:38:00 GMT"
+    },
+    {
+      "title": "Google DeepMind Warns: AGI May Emerge Suddenly Through AI Collaboration - kmjournal.net",
+      "pubDate": "Fri, 26 Dec 2025 04:26:50 GMT"
     }
   ],
   "Data Breach": [
@@ -587,6 +595,10 @@
     {
       "title": "Conduent data breach exposed data of 10.5 million people, including Social Security numbers - Mashable",
       "pubDate": "Fri, 19 Dec 2025 02:59:39 GMT"
+    },
+    {
+      "title": "Trust Wallet users lose at least $6 million in security breach, ZachXBT finds - The Block",
+      "pubDate": "Fri, 26 Dec 2025 02:02:05 GMT"
     }
   ],
   "Cybersecurity": [
@@ -931,6 +943,10 @@
     {
       "title": "Transforming the global food system is key to curbing climate change and improving health, study finds - Noticias Ambientales",
       "pubDate": "Thu, 25 Dec 2025 20:05:22 GMT"
+    },
+    {
+      "title": "How warming oceans are slowing the Atlantic conveyor belt and reshaping global weather - MSN",
+      "pubDate": "Thu, 25 Dec 2025 19:14:10 GMT"
     }
   ],
   "FBI": [
@@ -1305,6 +1321,10 @@
     {
       "title": "DHS Finalizes Controversial Immigration Rule On H-1B Lottery - Forbes",
       "pubDate": "Tue, 23 Dec 2025 20:13:57 GMT"
+    },
+    {
+      "title": "ICE officers shoot driver during immigration operation in Maryland, authorities say - NBC News",
+      "pubDate": "Thu, 25 Dec 2025 19:45:31 GMT"
     }
   ],
   "Microsoft": [
@@ -1318,10 +1338,6 @@
     }
   ],
   "European Union": [
-    {
-      "title": "Europeans sketch out plan B in race to raid Russian assets for Ukraine - politico.eu",
-      "pubDate": "Wed, 26 Nov 2025 03:12:00 GMT"
-    },
     {
       "title": "Belgium criticises EU proposal to use Russian frozen assets for Ukraine before its unveiling - Reuters",
       "pubDate": "Wed, 03 Dec 2025 09:32:53 GMT"
@@ -1449,22 +1465,10 @@
       "pubDate": "Sun, 07 Dec 2025 20:42:11 GMT"
     }
   ],
-  "Computers": [
-    {
-      "title": "Argonne partnering with Nvidia, Oracle to create super AI computer - CBS News",
-      "pubDate": "Wed, 26 Nov 2025 00:35:00 GMT"
-    }
-  ],
   "Violence": [
     {
       "title": "Violence Is Driving Catastrophic Hunger in Nigeria, U.N. Report Says - The New York Times",
       "pubDate": "Wed, 26 Nov 2025 09:00:00 GMT"
-    }
-  ],
-  "Physics": [
-    {
-      "title": "Physicists Observe a Nuclear \u201cMemory\u201d Thought Impossible - SciTechDaily",
-      "pubDate": "Wed, 26 Nov 2025 00:10:19 GMT"
     }
   ],
   "Income Tax in the United States": [
@@ -1615,6 +1619,10 @@
     {
       "title": "Russia plans a nuclear power plant on the moon within a decade - Reuters",
       "pubDate": "Wed, 24 Dec 2025 20:37:57 GMT"
+    },
+    {
+      "title": "Texas developer pitches recycled Navy nuclear reactors as power source for AI infrastructure - SiliconANGLE",
+      "pubDate": "Thu, 25 Dec 2025 23:26:30 GMT"
     }
   ],
   "Climate Engineering": [
