@@ -73,12 +73,6 @@
       "pubDate": "Wed, 24 Dec 2025 20:54:16 GMT"
     }
   ],
-  "US Politics": [
-    {
-      "title": "US: Immigration requests for Afghans \u2018stopped indefinitely\u2019 - CNN",
-      "pubDate": "Thu, 27 Nov 2025 06:10:09 GMT"
-    }
-  ],
   "Israel": [
     {
       "title": "Israeli Forces Kill Two Palestinians in West Bank After They Appear to Surrender, Video Shows - The New York Times",
@@ -275,6 +269,10 @@
     {
       "title": "Exclusive: Russia likely placing new hypersonic missiles at former airbase in Belarus, researchers find - Reuters",
       "pubDate": "Fri, 26 Dec 2025 19:40:07 GMT"
+    },
+    {
+      "title": "Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks - BBC",
+      "pubDate": "Sat, 27 Dec 2025 09:52:05 GMT"
     }
   ],
   "Donald Trump": [
@@ -352,10 +350,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China\u2019s property market is (somehow) worsening - The Economist",
-      "pubDate": "Thu, 27 Nov 2025 11:37:22 GMT"
-    },
     {
       "title": "Watch How China Came to Dominate Global Shipping Ports - Bloomberg.com",
       "pubDate": "Thu, 27 Nov 2025 22:00:03 GMT"
@@ -599,10 +593,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "State-backed spyware attacks are targeting Signal and WhatsApp users, CISA warns - Bitdefender",
-      "pubDate": "Thu, 27 Nov 2025 09:11:41 GMT"
-    },
-    {
       "title": "Cybersecurity experts alarmed by Snapchat's age-verification plan - abc.net.au",
       "pubDate": "Thu, 27 Nov 2025 19:30:09 GMT"
     },
@@ -829,6 +819,10 @@
     {
       "title": "IDF says troops killed terror operative who crossed ceasefire line in northern Gaza - The Times of Israel",
       "pubDate": "Thu, 25 Dec 2025 19:03:41 GMT"
+    },
+    {
+      "title": "One Gazan Girl\u2019s Fight to Survive Extreme Hunger - The New York Times",
+      "pubDate": "Sat, 27 Dec 2025 09:39:00 GMT"
     }
   ],
   "Climate Change": [
@@ -1129,6 +1123,10 @@
     {
       "title": "How Trump\u2019s attacks on \u2018climate alarmism\u2019 have already transformed U.S. science - The Washington Post",
       "pubDate": "Wed, 24 Dec 2025 18:00:43 GMT"
+    },
+    {
+      "title": "Cyclones, floods and wildfires among 2025\u2019s costliest climate-related disasters - The Guardian",
+      "pubDate": "Sat, 27 Dec 2025 00:03:00 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
@@ -1261,6 +1259,10 @@
     {
       "title": "Death toll rises after Ukraine reports Russian drone strikes - ABC News",
       "pubDate": "Thu, 25 Dec 2025 12:12:16 GMT"
+    },
+    {
+      "title": "The US Must Stop Underestimating Drone Warfare - WIRED",
+      "pubDate": "Sat, 27 Dec 2025 10:00:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1605,6 +1607,10 @@
     {
       "title": "Turkey says Russia gave it $9 billion in new financing for Akkuyu nuclear plant - Reuters",
       "pubDate": "Fri, 26 Dec 2025 21:57:19 GMT"
+    },
+    {
+      "title": "Turkey\u2019s First Nuclear Plant to be Operational in 2026 - The National Herald",
+      "pubDate": "Sat, 27 Dec 2025 03:51:54 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1687,6 +1693,10 @@
     {
       "title": "CDC vaccine advisory committee votes to remove universal recommendation for hepatitis B shot at birth - ABC News",
       "pubDate": "Fri, 05 Dec 2025 17:22:54 GMT"
+    },
+    {
+      "title": "Massachusetts Public Health Officials alert residents about potential exposure to measles in multiple locations as cases increase nationwide - Fall River Reporter",
+      "pubDate": "Sat, 27 Dec 2025 01:54:39 GMT"
     }
   ],
   "Large Language Models": [
@@ -1877,6 +1887,12 @@
     {
       "title": "President Trump launched global tariff wars in 2025. Here\u2019s a recap of his trade actions this year. - Chicago Tribune",
       "pubDate": "Fri, 26 Dec 2025 19:59:02 GMT"
+    }
+  ],
+  "Democracy": [
+    {
+      "title": "In Myanmar, the Election Is Called Fake, but the Human Suffering Is Real - The New York Times",
+      "pubDate": "Sat, 27 Dec 2025 09:10:58 GMT"
     }
   ]
 }
