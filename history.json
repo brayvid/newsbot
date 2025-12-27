@@ -191,10 +191,6 @@
   ],
   "Russia": [
     {
-      "title": "Putin doubles down on demands for Ukrainian territory ahead of talks with US - BBC",
-      "pubDate": "Thu, 27 Nov 2025 22:18:56 GMT"
-    },
-    {
       "title": "Ukraine war latest: Kyiv says Zelensky will never give up territory to Putin - The Independent",
       "pubDate": "Fri, 28 Nov 2025 10:30:00 GMT"
     },
@@ -358,10 +354,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Watch How China Came to Dominate Global Shipping Ports - Bloomberg.com",
-      "pubDate": "Thu, 27 Nov 2025 22:00:03 GMT"
-    },
     {
       "title": "China Wants to Dominate High- and Low-Tech Industries: New Economy - Bloomberg.com",
       "pubDate": "Sat, 29 Nov 2025 11:45:01 GMT"
@@ -597,10 +589,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Cybersecurity experts alarmed by Snapchat's age-verification plan - abc.net.au",
-      "pubDate": "Thu, 27 Nov 2025 19:30:09 GMT"
-    },
-    {
       "title": "Malicious LLMs are letting even unskilled hackers to craft dangerous new malware - TechRadar",
       "pubDate": "Fri, 28 Nov 2025 19:56:00 GMT"
     },
@@ -655,6 +643,10 @@
     {
       "title": "CISA warns of continued threat activity linked to Brickstorm malware - Cybersecurity Dive",
       "pubDate": "Mon, 22 Dec 2025 16:30:43 GMT"
+    },
+    {
+      "title": "OpenAI's ChatGPT Atlas raises cybersecurity concerns amid prompt injection risks - digitimes",
+      "pubDate": "Sat, 27 Dec 2025 12:19:12 GMT"
     }
   ],
   "US Economy": [
@@ -729,13 +721,13 @@
     {
       "title": "OpenAI\u2019s Child Exploitation Reports Increased Sharply This Year - WIRED",
       "pubDate": "Mon, 22 Dec 2025 16:32:00 GMT"
+    },
+    {
+      "title": "OpenAI is hiring a new Head of Preparedness to try to predict and mitigate AI's harms - Engadget",
+      "pubDate": "Sat, 27 Dec 2025 22:03:30 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel still committing genocide in Gaza, Amnesty International says - The Guardian",
-      "pubDate": "Thu, 27 Nov 2025 19:07:00 GMT"
-    },
     {
       "title": "LIVE: Israel bombs Syria, Gaza after extrajudicial killings in West Bank - Al Jazeera",
       "pubDate": "Fri, 28 Nov 2025 10:18:50 GMT"
@@ -834,10 +826,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Dimming the Sun to fight climate change is bad for planet, ministers fear - The Telegraph",
-      "pubDate": "Thu, 27 Nov 2025 19:48:00 GMT"
-    },
     {
       "title": "Revealed: Europe\u2019s water reserves drying up due to climate breakdown - The Guardian",
       "pubDate": "Sat, 29 Nov 2025 06:00:00 GMT"
@@ -941,6 +929,10 @@
     {
       "title": "How warming oceans are slowing the Atlantic conveyor belt and reshaping global weather - MSN",
       "pubDate": "Thu, 25 Dec 2025 19:14:10 GMT"
+    },
+    {
+      "title": "Studies: Extreme weather fueled by climate change is adding to bird declines - The Invading Sea",
+      "pubDate": "Sat, 27 Dec 2025 13:48:06 GMT"
     }
   ],
   "FBI": [
@@ -1083,6 +1075,10 @@
     {
       "title": "Iran refuses inspection of nuclear sites until IAEA provides new guidelines after bombing - CNN",
       "pubDate": "Wed, 24 Dec 2025 22:16:46 GMT"
+    },
+    {
+      "title": "Iran president says US, Israel, Europe waging \u2018full-fledged war\u2019 on country - Al Jazeera",
+      "pubDate": "Sat, 27 Dec 2025 21:22:20 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1289,6 +1285,10 @@
     {
       "title": "JPMorgan pulls $350bn from Federal Reserve to buy up Treasuries - Financial Times",
       "pubDate": "Wed, 17 Dec 2025 05:00:13 GMT"
+    },
+    {
+      "title": "The Federal Reserve cuts interest rates and retirees fear the Social Security increase in 2027 may not be enough - ECOticias.com",
+      "pubDate": "Sat, 27 Dec 2025 21:52:00 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1437,12 +1437,6 @@
       "pubDate": "Tue, 23 Dec 2025 12:03:22 GMT"
     }
   ],
-  "Central Intelligence Agency": [
-    {
-      "title": "D.C. Shooting Suspect Worked With CIA in Afghanistan - The Wall Street Journal",
-      "pubDate": "Thu, 27 Nov 2025 21:46:00 GMT"
-    }
-  ],
   "Effects of Global Warming": [
     {
       "title": "Climate Change Could Slash Global Income by 19% in 26 Years - \u0411\u0443\u043a\u0432\u0438",
@@ -1450,10 +1444,6 @@
     }
   ],
   "Privacy": [
-    {
-      "title": "EU's \"Chat Control\" Moves Forward Despite Privacy Concerns: What 450 Million Europeans Need to Know - Brave New Coin",
-      "pubDate": "Thu, 27 Nov 2025 22:09:23 GMT"
-    },
     {
       "title": "AI anxiety drives consumer privacy fears as data trust reaches crisis point - PPC Land",
       "pubDate": "Sun, 07 Dec 2025 20:42:11 GMT"
@@ -1627,6 +1617,10 @@
     {
       "title": "China hits milestone in building Beishan laboratory for managing nuclear waste - South China Morning Post",
       "pubDate": "Sat, 27 Dec 2025 10:45:22 GMT"
+    },
+    {
+      "title": "Chinese nuclear experts believe Japan could build nukes in less than 3 years - South China Morning Post",
+      "pubDate": "Sat, 27 Dec 2025 12:00:09 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1889,6 +1883,10 @@
     {
       "title": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa ANOTHER RUSSIAN GENERAL BLOWN UP IN MOSCOW: PUTIN\u2019S INNER CIRCLE IS SHRINKING FAST Fanil Sarvarov, a top Russian general with ties to military intelligence and Putin\u2019s war machine, was killed by a car bomb in the heart of Moscow o - x.com",
       "pubDate": "Tue, 23 Dec 2025 05:00:00 GMT"
+    },
+    {
+      "title": "Russia aims to recruit over 400,000 soldiers in 2026, Ukraine's military intelligence chief says - The Kyiv Independent",
+      "pubDate": "Sat, 27 Dec 2025 20:42:02 GMT"
     }
   ],
   "Battery Technology": [
