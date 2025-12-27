@@ -81,10 +81,6 @@
   ],
   "Israel": [
     {
-      "title": "Aid access and hospital operations remain constrained in Gaza - UN News",
-      "pubDate": "Thu, 27 Nov 2025 01:50:51 GMT"
-    },
-    {
       "title": "Israeli Forces Kill Two Palestinians in West Bank After They Appear to Surrender, Video Shows - The New York Times",
       "pubDate": "Fri, 28 Nov 2025 18:15:30 GMT"
     },
@@ -110,10 +106,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Allies worry US demands Ukraine deal before security guarantees - Politico",
-      "pubDate": "Thu, 27 Nov 2025 02:10:00 GMT"
-    },
     {
       "title": "Russian drones, missiles kill one, injure 11 in Kyiv, cause damage - Reuters",
       "pubDate": "Sat, 29 Nov 2025 04:17:00 GMT"
@@ -279,13 +271,13 @@
     {
       "title": "Ukraine war briefing: Kyiv hits Russian oil refinery with British Storm Shadow missiles - The Guardian",
       "pubDate": "Fri, 26 Dec 2025 02:06:00 GMT"
+    },
+    {
+      "title": "Exclusive: Russia likely placing new hypersonic missiles at former airbase in Belarus, researchers find - Reuters",
+      "pubDate": "Fri, 26 Dec 2025 19:40:07 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump once again steps up attacks on TV networks as he threatens to revoke licenses - The Guardian",
-      "pubDate": "Wed, 26 Nov 2025 11:02:00 GMT"
-    },
     {
       "title": "Trump says US will permanently pause migration from 'Third World Countries' - Reuters",
       "pubDate": "Fri, 28 Nov 2025 04:54:00 GMT"
@@ -479,13 +471,13 @@
     {
       "title": "US and China escalate semiconductor state capitalism amid global supply chain shifts - digitimes",
       "pubDate": "Fri, 26 Dec 2025 04:09:10 GMT"
+    },
+    {
+      "title": "China hits US defence firms with sanctions over arms sales to Taiwan - Reuters",
+      "pubDate": "Fri, 26 Dec 2025 22:53:33 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Congress calls Anthropic CEO to testify on Chinese AI cyberattack - Tech in Asia",
-      "pubDate": "Thu, 27 Nov 2025 02:36:00 GMT"
-    },
     {
       "title": "OpenAI responds lawsuit over teen suicide as debate over AI safety intensifies - Techloy",
       "pubDate": "Thu, 27 Nov 2025 13:25:35 GMT"
@@ -599,13 +591,13 @@
     {
       "title": "Trust Wallet users lose at least $6 million in security breach, ZachXBT finds - The Block",
       "pubDate": "Fri, 26 Dec 2025 02:02:05 GMT"
+    },
+    {
+      "title": "Goldman Sachs Says Some Client Data May Have Been Exposed in Third-Party Data Breach - PYMNTS.com",
+      "pubDate": "Fri, 26 Dec 2025 19:09:43 GMT"
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Eroding Global Stability: The Cybersecurity Strategies Of China, Russia, North Korea, And Iran - Small Wars Journal",
-      "pubDate": "Wed, 26 Nov 2025 06:01:40 GMT"
-    },
     {
       "title": "State-backed spyware attacks are targeting Signal and WhatsApp users, CISA warns - Bitdefender",
       "pubDate": "Thu, 27 Nov 2025 09:11:41 GMT"
@@ -1009,10 +1001,6 @@
   ],
   "North Korea": [
     {
-      "title": "N. Korea may possess more than 400 nuclear weapons by 2040: analyst - upi.com",
-      "pubDate": "Wed, 26 Nov 2025 09:58:54 GMT"
-    },
-    {
       "title": "Report Flags Alarming North Korea Nuke Surge - StratNews Global",
       "pubDate": "Sat, 29 Nov 2025 04:37:16 GMT"
     },
@@ -1197,10 +1185,6 @@
   ],
   "Pollution": [
     {
-      "title": "Delhi pollution: Children are hit hardest by toxic air in Indian capital - BBC",
-      "pubDate": "Thu, 27 Nov 2025 01:02:03 GMT"
-    },
-    {
       "title": "Pollution Worsens In Delhi, Air Quality 'Severe' In Most Areas - NDTV",
       "pubDate": "Fri, 28 Nov 2025 03:27:23 GMT"
     }
@@ -1353,10 +1337,6 @@
   ],
   "Recession": [
     {
-      "title": "China's fixed asset investment recession could be the start of a sea change, says expert - MSN",
-      "pubDate": "Wed, 26 Nov 2025 09:12:54 GMT"
-    },
-    {
       "title": "US bankruptcies surge to 15-year high \u2014 Recession alarms flash as filings outpace 2020 crisis - The Economic Times",
       "pubDate": "Wed, 03 Dec 2025 19:18:45 GMT"
     },
@@ -1371,6 +1351,10 @@
     {
       "title": "The US economy keeps powering ahead, defying dire predictions - MSN",
       "pubDate": "Wed, 24 Dec 2025 02:23:33 GMT"
+    },
+    {
+      "title": "Stock markets shaken by Fed outlook shift, global recession worries eyed | tastylive's Macro Money - MSN",
+      "pubDate": "Sat, 27 Dec 2025 01:08:47 GMT"
     }
   ],
   "Social Media": [
@@ -1419,6 +1403,10 @@
     {
       "title": "Turkiye arrests 115 ISIL suspects it says planned holiday attacks - Al Jazeera",
       "pubDate": "Thu, 25 Dec 2025 12:56:15 GMT"
+    },
+    {
+      "title": "US carries out airstrikes in Nigeria, targeting \u2018ISIS terrorists\u2019 - Jurist.org",
+      "pubDate": "Fri, 26 Dec 2025 21:37:44 GMT"
     }
   ],
   "Amazon": [
@@ -1441,10 +1429,6 @@
   ],
   "Central Intelligence Agency": [
     {
-      "title": "Colombian President says CIA wants to oust him - MercoPress",
-      "pubDate": "Wed, 26 Nov 2025 09:27:00 GMT"
-    },
-    {
       "title": "D.C. Shooting Suspect Worked With CIA in Afghanistan - The Wall Street Journal",
       "pubDate": "Thu, 27 Nov 2025 21:46:00 GMT"
     }
@@ -1463,12 +1447,6 @@
     {
       "title": "AI anxiety drives consumer privacy fears as data trust reaches crisis point - PPC Land",
       "pubDate": "Sun, 07 Dec 2025 20:42:11 GMT"
-    }
-  ],
-  "Violence": [
-    {
-      "title": "Violence Is Driving Catastrophic Hunger in Nigeria, U.N. Report Says - The New York Times",
-      "pubDate": "Wed, 26 Nov 2025 09:00:00 GMT"
     }
   ],
   "Income Tax in the United States": [
@@ -1623,6 +1601,10 @@
     {
       "title": "Texas developer pitches recycled Navy nuclear reactors as power source for AI infrastructure - SiliconANGLE",
       "pubDate": "Thu, 25 Dec 2025 23:26:30 GMT"
+    },
+    {
+      "title": "Turkey says Russia gave it $9 billion in new financing for Akkuyu nuclear plant - Reuters",
+      "pubDate": "Fri, 26 Dec 2025 21:57:19 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1889,6 +1871,12 @@
     {
       "title": "Hackers stole over $2.7B in crypto in 2025, data shows - TechCrunch",
       "pubDate": "Tue, 23 Dec 2025 19:00:00 GMT"
+    }
+  ],
+  "Trade War": [
+    {
+      "title": "President Trump launched global tariff wars in 2025. Here\u2019s a recap of his trade actions this year. - Chicago Tribune",
+      "pubDate": "Fri, 26 Dec 2025 19:59:02 GMT"
     }
   ]
 }
