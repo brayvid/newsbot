@@ -71,6 +71,10 @@
     {
       "title": "Exclusive: Nvidia buying AI chip startup Groq for about $20 billion in its largest acquisition on record - CNBC",
       "pubDate": "Wed, 24 Dec 2025 20:54:16 GMT"
+    },
+    {
+      "title": "China issues drafts rules to regulate AI with human-like interaction - Reuters",
+      "pubDate": "Sat, 27 Dec 2025 09:43:34 GMT"
     }
   ],
   "Israel": [
@@ -179,6 +183,10 @@
     {
       "title": "Ukraine peace plan might include demilitarized zones, Zelenskyy says - CBS News",
       "pubDate": "Wed, 24 Dec 2025 11:40:45 GMT"
+    },
+    {
+      "title": "Ukraine-Russia latest: Kyiv strikes are Russia's 'answer to peace', Zelensky says ahead of Trump talks - BBC",
+      "pubDate": "Sat, 27 Dec 2025 17:48:40 GMT"
     }
   ],
   "Russia": [
@@ -473,10 +481,6 @@
   ],
   "AI Safety": [
     {
-      "title": "OpenAI responds lawsuit over teen suicide as debate over AI safety intensifies - Techloy",
-      "pubDate": "Thu, 27 Nov 2025 13:25:35 GMT"
-    },
-    {
       "title": "California, White House Clash Over Who Should Regulate Artificial Intelligence - ABC10",
       "pubDate": "Fri, 28 Nov 2025 01:45:00 GMT"
     },
@@ -671,6 +675,10 @@
     {
       "title": "Japan earthquake live updates: First official megaquake warning issued after 33 hurt by rare 7.5-magnitude tremor - The Independent",
       "pubDate": "Tue, 09 Dec 2025 10:30:00 GMT"
+    },
+    {
+      "title": "Large earthquake rocks Taiwan, felt in Taipei - USA Today",
+      "pubDate": "Sat, 27 Dec 2025 16:11:00 GMT"
     }
   ],
   "Bitcoin": [
@@ -1531,6 +1539,10 @@
     {
       "title": "Trump Ban on Wind Energy Projects Ruled Illegal by US Judge - Bloomberg.com",
       "pubDate": "Mon, 08 Dec 2025 23:53:19 GMT"
+    },
+    {
+      "title": "Massive Solar Plus Storage Facility To Replace Both Coal And Natural Gas - CleanTechnica",
+      "pubDate": "Sat, 27 Dec 2025 10:28:24 GMT"
     }
   ],
   "Supply Chain": [
@@ -1611,6 +1623,10 @@
     {
       "title": "Turkey\u2019s First Nuclear Plant to be Operational in 2026 - The National Herald",
       "pubDate": "Sat, 27 Dec 2025 03:51:54 GMT"
+    },
+    {
+      "title": "China hits milestone in building Beishan laboratory for managing nuclear waste - South China Morning Post",
+      "pubDate": "Sat, 27 Dec 2025 10:45:22 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1687,6 +1703,10 @@
     {
       "title": "Albanian PM\u2019s office petrol bombed as corruption protests flare - politico.eu",
       "pubDate": "Tue, 23 Dec 2025 12:33:00 GMT"
+    },
+    {
+      "title": "Ukraine anti-corruption agency blocked during probe into MPs bribery scheme - politico.eu",
+      "pubDate": "Sat, 27 Dec 2025 12:41:00 GMT"
     }
   ],
   "Public Health": [
@@ -1893,6 +1913,12 @@
     {
       "title": "In Myanmar, the Election Is Called Fake, but the Human Suffering Is Real - The New York Times",
       "pubDate": "Sat, 27 Dec 2025 09:10:58 GMT"
+    }
+  ],
+  "United Nations Security Council": [
+    {
+      "title": "UNSC to hold session on Israel's recognition of Somaliland - The Jerusalem Post",
+      "pubDate": "Sat, 27 Dec 2025 16:24:39 GMT"
     }
   ]
 }
