@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "The U.S. has been cutting cyber defenses as AI boosts attacks - The Washington Post",
-      "pubDate": "Fri, 28 Nov 2025 18:00:31 GMT"
-    },
-    {
       "title": "China's DeepSeek Releases New Open Source AI Model Amid Google's Gemini 3 Roll Out - Investor's Business Daily",
       "pubDate": "Fri, 28 Nov 2025 21:35:00 GMT"
     },
@@ -194,10 +190,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Trump to hand Putin Ukraine\u2019s occupied territories - The Telegraph",
-      "pubDate": "Fri, 28 Nov 2025 12:47:00 GMT"
-    },
     {
       "title": "Ukraine says it hit Russian \u2018shadow fleet\u2019 tankers with underwater drones in Black Sea - CNN",
       "pubDate": "Sat, 29 Nov 2025 12:59:48 GMT"
@@ -465,6 +457,10 @@
     {
       "title": "China hits US defence firms with sanctions over arms sales to Taiwan - Reuters",
       "pubDate": "Fri, 26 Dec 2025 22:53:33 GMT"
+    },
+    {
+      "title": "China expands nuclear warhead manufacturing capacity, research finds - The Washington Post",
+      "pubDate": "Sun, 28 Dec 2025 17:32:03 GMT"
     }
   ],
   "AI Safety": [
@@ -539,6 +535,10 @@
     {
       "title": "Google DeepMind Warns: AGI May Emerge Suddenly Through AI Collaboration - kmjournal.net",
       "pubDate": "Fri, 26 Dec 2025 04:26:50 GMT"
+    },
+    {
+      "title": "Britt calls for Congress to act on AI, saying companies put \u2018profit over actual people\u2019 - The Hill",
+      "pubDate": "Sun, 28 Dec 2025 16:35:00 GMT"
     }
   ],
   "Data Breach": [
@@ -645,6 +645,10 @@
     {
       "title": "We asked experts to rate the U.S. economy in 2025. Here's what they said. - CBS News",
       "pubDate": "Wed, 24 Dec 2025 15:13:00 GMT"
+    },
+    {
+      "title": "The 2025 US economy \u2013 in charts: rising prices, hiring slowdown, rollercoaster growth - The Guardian",
+      "pubDate": "Sun, 28 Dec 2025 12:10:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -967,6 +971,10 @@
     {
       "title": "Trump administration halts five offshore wind projects citing national security concerns - KOMO",
       "pubDate": "Mon, 22 Dec 2025 17:28:37 GMT"
+    },
+    {
+      "title": "Israel deploys first laser air defense system Iron Beam - Haaretz",
+      "pubDate": "Sun, 28 Dec 2025 15:58:00 GMT"
     }
   ],
   "North Korea": [
@@ -1025,6 +1033,10 @@
     {
       "title": "North Korea's Kim Jong Un oversees test-firing of long-range missiles, KCNA says - Reuters",
       "pubDate": "Wed, 24 Dec 2025 23:06:25 GMT"
+    },
+    {
+      "title": "North Korea unveils nuclear-powered strategic submarine - TURDEF",
+      "pubDate": "Sun, 28 Dec 2025 16:05:08 GMT"
     }
   ],
   "Iran": [
@@ -1077,10 +1089,6 @@
   ],
   "Climate": [
     {
-      "title": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate - The Guardian",
-      "pubDate": "Fri, 28 Nov 2025 13:50:00 GMT"
-    },
-    {
       "title": "2025 \u2018virtually certain\u2019 to be second- or third-hottest year on record, EU data shows - The Guardian",
       "pubDate": "Tue, 09 Dec 2025 03:00:00 GMT"
     },
@@ -1106,10 +1114,6 @@
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "CISA to Broaden AI Deployment for Faster Cyber Defense - CDO Magazine",
-      "pubDate": "Fri, 28 Nov 2025 13:17:00 GMT"
-    },
     {
       "title": "US, Allies Release Guidance on Securing AI-Integrated Operational Technology - ExecutiveGov",
       "pubDate": "Thu, 04 Dec 2025 21:42:23 GMT"
@@ -1585,6 +1589,10 @@
     {
       "title": "Zelenskyy defines red lines on land and nuclear plant ahead of Trump meeting - Latest news from Azerbaijan",
       "pubDate": "Sun, 28 Dec 2025 07:30:00 GMT"
+    },
+    {
+      "title": "As Memories of Fukushima Fade, Japan Seeks Bigger Role for Nuclear Power - The Wall Street Journal",
+      "pubDate": "Sun, 28 Dec 2025 16:00:00 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1639,6 +1647,10 @@
     {
       "title": "Taiwan probes leaks of vital chip technology - Financial Times",
       "pubDate": "Thu, 11 Dec 2025 05:00:33 GMT"
+    },
+    {
+      "title": "Sen. Bernie Sanders warns AI is 'the most consequential technology in the history of humanity' - CNN",
+      "pubDate": "Sun, 28 Dec 2025 15:58:37 GMT"
     }
   ],
   "Corruption": [
