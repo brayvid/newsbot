@@ -187,13 +187,13 @@
     {
       "title": "Ukraine-Russia latest: Kyiv strikes are Russia's 'answer to peace', Zelensky says ahead of Trump talks - BBC",
       "pubDate": "Sat, 27 Dec 2025 17:48:40 GMT"
+    },
+    {
+      "title": "Putin says Russia will achieve its Ukraine aims by force if Kyiv doesn't want peace - Reuters",
+      "pubDate": "Sun, 28 Dec 2025 05:32:00 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Ukraine war latest: Kyiv says Zelensky will never give up territory to Putin - The Independent",
-      "pubDate": "Fri, 28 Nov 2025 10:30:00 GMT"
-    },
     {
       "title": "Trump to hand Putin Ukraine\u2019s occupied territories - The Telegraph",
       "pubDate": "Fri, 28 Nov 2025 12:47:00 GMT"
@@ -280,10 +280,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump says US will permanently pause migration from 'Third World Countries' - Reuters",
-      "pubDate": "Fri, 28 Nov 2025 04:54:00 GMT"
-    },
     {
       "title": "Trump\u2019s Response to Shooting Shows Intensified Anti-Immigration Stance - The New York Times",
       "pubDate": "Fri, 28 Nov 2025 20:26:39 GMT"
@@ -473,14 +469,6 @@
   ],
   "AI Safety": [
     {
-      "title": "California, White House Clash Over Who Should Regulate Artificial Intelligence - ABC10",
-      "pubDate": "Fri, 28 Nov 2025 01:45:00 GMT"
-    },
-    {
-      "title": "Poetry Can Jailbreak AI Into Making Nuclear Weapons - The Tech Buzz",
-      "pubDate": "Fri, 28 Nov 2025 10:49:00 GMT"
-    },
-    {
       "title": "AI companies' safety practices fail to meet global standards, study shows - Reuters",
       "pubDate": "Wed, 03 Dec 2025 11:18:04 GMT"
     },
@@ -554,10 +542,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "CodeRED Emergency Alerts Disrupted Across US After Ransomware Breach - Bitdefender",
-      "pubDate": "Fri, 28 Nov 2025 11:50:20 GMT"
-    },
     {
       "title": "South Korean e-commerce firm Coupang says 33.7 million customer accounts breached - Reuters",
       "pubDate": "Sat, 29 Nov 2025 23:01:30 GMT"
@@ -699,10 +683,6 @@
   ],
   "OpenAI": [
     {
-      "title": "OpenAI partners amass $100bn debt pile to fund its ambitions - Financial Times",
-      "pubDate": "Fri, 28 Nov 2025 05:00:22 GMT"
-    },
-    {
       "title": "OpenAI\u2019s Sora Is Letting Teens Generate Videos of School Shootings - Futurism",
       "pubDate": "Sat, 29 Nov 2025 11:45:00 GMT"
     },
@@ -728,10 +708,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "LIVE: Israel bombs Syria, Gaza after extrajudicial killings in West Bank - Al Jazeera",
-      "pubDate": "Fri, 28 Nov 2025 10:18:50 GMT"
-    },
     {
       "title": "As bodies continue to be pulled from the rubble, Hamas-run health ministry says Gaza death toll passed 70,000 - The Times of Israel",
       "pubDate": "Sat, 29 Nov 2025 16:53:18 GMT"
@@ -823,6 +799,10 @@
     {
       "title": "One Gazan Girl\u2019s Fight to Survive Extreme Hunger - The New York Times",
       "pubDate": "Sat, 27 Dec 2025 09:39:00 GMT"
+    },
+    {
+      "title": "Airstrikes, shootings, hypothermia: The harsh reality of life in Gaza under US-backed ceasefire - Sky News",
+      "pubDate": "Sun, 28 Dec 2025 02:31:45 GMT"
     }
   ],
   "Climate Change": [
@@ -961,10 +941,6 @@
   ],
   "National Security": [
     {
-      "title": "USCIS Implements Extra National Security Measures in Wake of National Guard Shooting by Afghan National - Homeland Security Today",
-      "pubDate": "Fri, 28 Nov 2025 08:11:54 GMT"
-    },
-    {
       "title": "Hegseth order on first Caribbean boat strike, officials say: Kill them all - The Washington Post",
       "pubDate": "Sat, 29 Nov 2025 07:54:00 GMT"
     },
@@ -1101,10 +1077,6 @@
   ],
   "Climate": [
     {
-      "title": "Canada Lifts Climate Laws for Alberta Oil Sands, Planning Pipeline - The New York Times",
-      "pubDate": "Fri, 28 Nov 2025 02:20:34 GMT"
-    },
-    {
       "title": "More than 1,000 Amazon workers warn rapid AI rollout threatens jobs and climate - The Guardian",
       "pubDate": "Fri, 28 Nov 2025 13:50:00 GMT"
     },
@@ -1185,12 +1157,6 @@
       "pubDate": "Fri, 05 Dec 2025 11:57:33 GMT"
     }
   ],
-  "Pollution": [
-    {
-      "title": "Pollution Worsens In Delhi, Air Quality 'Severe' In Most Areas - NDTV",
-      "pubDate": "Fri, 28 Nov 2025 03:27:23 GMT"
-    }
-  ],
   "World News": [
     {
       "title": "November 30, 2025 \u2014 Trump administration news, Ukraine war talks, Venezuela tensions - CNN",
@@ -1206,10 +1172,6 @@
     }
   ],
   "Hacking": [
-    {
-      "title": "N. Korean hacking group Lazarus suspected behind recent crypto hacking: sources - upi.com",
-      "pubDate": "Fri, 28 Nov 2025 04:15:25 GMT"
-    },
     {
       "title": "South Korea police say 120,000 home cameras hacked for 'sexploitation' footage - BBC",
       "pubDate": "Mon, 01 Dec 2025 06:04:53 GMT"
@@ -1365,6 +1327,10 @@
     {
       "title": "Stock markets shaken by Fed outlook shift, global recession worries eyed | tastylive's Macro Money - MSN",
       "pubDate": "Sat, 27 Dec 2025 01:08:47 GMT"
+    },
+    {
+      "title": "Palestinian economy remains in deep recession amid Gaza collapse: report - bastillepost.com",
+      "pubDate": "Sun, 28 Dec 2025 05:56:00 GMT"
     }
   ],
   "Social Media": [
@@ -1447,12 +1413,6 @@
     {
       "title": "AI anxiety drives consumer privacy fears as data trust reaches crisis point - PPC Land",
       "pubDate": "Sun, 07 Dec 2025 20:42:11 GMT"
-    }
-  ],
-  "Income Tax in the United States": [
-    {
-      "title": "Trump says he may cut income tax 'completely' because of tariff income - Reuters",
-      "pubDate": "Fri, 28 Nov 2025 04:33:00 GMT"
     }
   ],
   "Software": [
@@ -1621,6 +1581,10 @@
     {
       "title": "Chinese nuclear experts believe Japan could build nukes in less than 3 years - South China Morning Post",
       "pubDate": "Sat, 27 Dec 2025 12:00:09 GMT"
+    },
+    {
+      "title": "Zelenskyy defines red lines on land and nuclear plant ahead of Trump meeting - Latest news from Azerbaijan",
+      "pubDate": "Sun, 28 Dec 2025 07:30:00 GMT"
     }
   ],
   "Climate Engineering": [
