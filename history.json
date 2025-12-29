@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "China's DeepSeek Releases New Open Source AI Model Amid Google's Gemini 3 Roll Out - Investor's Business Daily",
-      "pubDate": "Fri, 28 Nov 2025 21:35:00 GMT"
-    },
-    {
       "title": "Bigger than COVID? The graph that explains why AI is going to be so huge - Sky News",
       "pubDate": "Sat, 29 Nov 2025 03:22:32 GMT"
     },
@@ -74,14 +70,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "Israeli Forces Kill Two Palestinians in West Bank After They Appear to Surrender, Video Shows - The New York Times",
-      "pubDate": "Fri, 28 Nov 2025 18:15:30 GMT"
-    },
-    {
-      "title": "Hezbollah leader promises response to Israel\u2019s strike killing top commander - Al Jazeera",
-      "pubDate": "Fri, 28 Nov 2025 19:30:58 GMT"
-    },
     {
       "title": "How Israel\u2019s Settlement Surge in the West Bank Is Displacing Palestinians - The New York Times",
       "pubDate": "Thu, 04 Dec 2025 10:21:36 GMT"
@@ -272,10 +260,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump\u2019s Response to Shooting Shows Intensified Anti-Immigration Stance - The New York Times",
-      "pubDate": "Fri, 28 Nov 2025 20:26:39 GMT"
-    },
     {
       "title": "Trump says airspace above and around Venezuela should be considered closed - Reuters",
       "pubDate": "Sat, 29 Nov 2025 16:58:06 GMT"
@@ -569,13 +553,13 @@
     {
       "title": "Goldman Sachs Says Some Client Data May Have Been Exposed in Third-Party Data Breach - PYMNTS.com",
       "pubDate": "Fri, 26 Dec 2025 19:09:43 GMT"
+    },
+    {
+      "title": "Cond\u00e9 Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk - Security Affairs",
+      "pubDate": "Sun, 28 Dec 2025 19:51:38 GMT"
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Malicious LLMs are letting even unskilled hackers to craft dangerous new malware - TechRadar",
-      "pubDate": "Fri, 28 Nov 2025 19:56:00 GMT"
-    },
     {
       "title": "FCC Warns of Cybersecurity Risks After Texas, Virginia Breaches - radioworld.com",
       "pubDate": "Sat, 29 Nov 2025 15:01:53 GMT"
@@ -631,13 +615,13 @@
     {
       "title": "OpenAI's ChatGPT Atlas raises cybersecurity concerns amid prompt injection risks - digitimes",
       "pubDate": "Sat, 27 Dec 2025 12:19:12 GMT"
+    },
+    {
+      "title": "MongoBleed (CVE-2025-14847) Now Exploited in the Wild: MongoDB Servers at Critical Risk - CybersecurityNews",
+      "pubDate": "Sun, 28 Dec 2025 15:43:33 GMT"
     }
   ],
   "US Economy": [
-    {
-      "title": "US dollar set for worst week since July as Fed rate cut looms - Reuters",
-      "pubDate": "Fri, 28 Nov 2025 19:53:39 GMT"
-    },
     {
       "title": "U.S. economy adds 64,000 jobs in November, unemployment rate at 4-year high - Axios",
       "pubDate": "Tue, 16 Dec 2025 18:59:02 GMT"
@@ -649,6 +633,10 @@
     {
       "title": "The 2025 US economy \u2013 in charts: rising prices, hiring slowdown, rollercoaster growth - The Guardian",
       "pubDate": "Sun, 28 Dec 2025 12:10:00 GMT"
+    },
+    {
+      "title": "The U.S. economy has slowed this year. Here's what to expect in the New Year - WFAA",
+      "pubDate": "Sun, 28 Dec 2025 14:38:29 GMT"
     }
   ],
   "Earthquakes": [
@@ -917,6 +905,10 @@
     {
       "title": "Studies: Extreme weather fueled by climate change is adding to bird declines - The Invading Sea",
       "pubDate": "Sat, 27 Dec 2025 13:48:06 GMT"
+    },
+    {
+      "title": "Global carbon emissions hit record high, scientists warn of worsening climate disasters - FOX 13 Tampa Bay",
+      "pubDate": "Sun, 28 Dec 2025 19:07:21 GMT"
     }
   ],
   "FBI": [
@@ -1417,19 +1409,13 @@
     {
       "title": "AI anxiety drives consumer privacy fears as data trust reaches crisis point - PPC Land",
       "pubDate": "Sun, 07 Dec 2025 20:42:11 GMT"
-    }
-  ],
-  "Software": [
+    },
     {
-      "title": "Solar flare vulnerability in A320 software forces emergency action by airlines - The Air Current",
-      "pubDate": "Fri, 28 Nov 2025 18:45:07 GMT"
+      "title": "Apple fined $115M in Italy over app store privacy rules - Chicago Star Media",
+      "pubDate": "Sun, 28 Dec 2025 16:42:00 GMT"
     }
   ],
   "NASA": [
-    {
-      "title": "Newly Found Organics in Enceladus\u2019 Plumes - NASA (.gov)",
-      "pubDate": "Fri, 28 Nov 2025 18:25:01 GMT"
-    },
     {
       "title": "NASA Crew-12 mystery: Russian Cosmonaut ousted from space mission for allegedly snapping SpaceX documents - livemint.com",
       "pubDate": "Sat, 06 Dec 2025 21:35:21 GMT"
@@ -1893,6 +1879,12 @@
     {
       "title": "UNSC to hold session on Israel's recognition of Somaliland - The Jerusalem Post",
       "pubDate": "Sat, 27 Dec 2025 16:24:39 GMT"
+    }
+  ],
+  "War and Unrest": [
+    {
+      "title": "Trump hosts Zelensky in Florida and holds call with Putin in latest push for Ukraine peace deal - CNN",
+      "pubDate": "Sun, 28 Dec 2025 22:53:00 GMT"
     }
   ]
 }
