@@ -323,10 +323,6 @@
   ],
   "China": [
     {
-      "title": "China Wants to Dominate High- and Low-Tech Industries: New Economy - Bloomberg.com",
-      "pubDate": "Sat, 29 Nov 2025 11:45:01 GMT"
-    },
-    {
       "title": "China's military firms struggle as corruption purge bites, report says - Reuters",
       "pubDate": "Mon, 01 Dec 2025 00:14:00 GMT"
     },
@@ -655,10 +651,6 @@
   ],
   "Bitcoin": [
     {
-      "title": "Did the U.S. Steal $13 Billion in Bitcoin? China Says the Biggest Crypto Heist Ever Was a Black Ops Job - Disruption Banking",
-      "pubDate": "Sat, 29 Nov 2025 11:16:48 GMT"
-    },
-    {
       "title": "Bitcoin Plunges to Below $86,000 in Risk-Off Start to December - Bloomberg.com",
       "pubDate": "Mon, 01 Dec 2025 10:03:39 GMT"
     }
@@ -678,10 +670,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI\u2019s Sora Is Letting Teens Generate Videos of School Shootings - Futurism",
-      "pubDate": "Sat, 29 Nov 2025 11:45:00 GMT"
-    },
     {
       "title": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead - The Wall Street Journal",
       "pubDate": "Tue, 02 Dec 2025 06:27:00 GMT"
@@ -927,6 +915,10 @@
     {
       "title": "DOJ says it received more than 1 million additional Epstein docs from FBI and SDNY - NBC News",
       "pubDate": "Wed, 24 Dec 2025 21:00:41 GMT"
+    },
+    {
+      "title": "Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR",
+      "pubDate": "Mon, 29 Dec 2025 07:11:44 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -940,10 +932,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Hegseth order on first Caribbean boat strike, officials say: Kill them all - The Washington Post",
-      "pubDate": "Sat, 29 Nov 2025 07:54:00 GMT"
-    },
     {
       "title": "Kogi church attack: Tinubu declare national security emergency but attacks never stop, how military dey respond? - BBC",
       "pubDate": "Mon, 01 Dec 2025 10:41:14 GMT"
@@ -974,10 +962,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "US-North Korea Tensions Rise Amid Military Drills: Implications for Global Stability - Meyka",
-      "pubDate": "Sat, 29 Nov 2025 11:18:39 GMT"
-    },
     {
       "title": "North Korea's Kim stresses Air Force's nuclear war deterrence on its 80th anniversary - Reuters",
       "pubDate": "Sat, 29 Nov 2025 22:17:34 GMT"
@@ -1353,12 +1337,6 @@
       "pubDate": "Wed, 10 Dec 2025 01:41:00 GMT"
     }
   ],
-  "Astronomy": [
-    {
-      "title": "Scientists Claim to Detect Dark Matter for the First Time Ever - Futurism",
-      "pubDate": "Sat, 29 Nov 2025 11:00:00 GMT"
-    }
-  ],
   "Terrorism": [
     {
       "title": "DeSantis Designates Muslim Advocacy Group a \u2018Terrorist Organization\u2019 - The New York Times",
@@ -1583,6 +1561,10 @@
     {
       "title": "New Jersey puts financing framework in place to support 1.2 GW of next-generation nuclear power - Energies Media",
       "pubDate": "Sun, 28 Dec 2025 18:31:26 GMT"
+    },
+    {
+      "title": "Zaporizhzhia power plant could restart in 18 months once the war ends, head says - Reuters",
+      "pubDate": "Mon, 29 Dec 2025 10:00:56 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1671,6 +1653,10 @@
     {
       "title": "Ukraine anti-corruption agency blocked during probe into MPs bribery scheme - politico.eu",
       "pubDate": "Sat, 27 Dec 2025 12:41:00 GMT"
+    },
+    {
+      "title": "Special Counsel Indicts Kim Keon-hee for Abusing Presidential Spouse Status, Corruption - \uc870\uc120\uc77c\ubcf4",
+      "pubDate": "Mon, 29 Dec 2025 06:50:21 GMT"
     }
   ],
   "Public Health": [
@@ -1893,6 +1879,24 @@
     {
       "title": "Trump hosts Zelensky in Florida and holds call with Putin in latest push for Ukraine peace deal - CNN",
       "pubDate": "Sun, 28 Dec 2025 22:53:00 GMT"
+    }
+  ],
+  "Hydroelectric Power": [
+    {
+      "title": "Indus treaty with Pak on hold, India goes for another hydel project on Chenab - India Today",
+      "pubDate": "Mon, 29 Dec 2025 10:55:21 GMT"
+    }
+  ],
+  "New York City": [
+    {
+      "title": "Parts of New York and New England Brace for Ice Storm - The New York Times",
+      "pubDate": "Mon, 29 Dec 2025 10:11:38 GMT"
+    }
+  ],
+  "Democratic Party": [
+    {
+      "title": "Legal Groups Condemn Democratic Party's Judicial Legislation as Unconstitutional - \uc870\uc120\uc77c\ubcf4",
+      "pubDate": "Mon, 29 Dec 2025 06:25:47 GMT"
     }
   ]
 }
