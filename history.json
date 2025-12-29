@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Bigger than COVID? The graph that explains why AI is going to be so huge - Sky News",
-      "pubDate": "Sat, 29 Nov 2025 03:22:32 GMT"
-    },
-    {
       "title": "Judges caution against Artificial Intelligence in courts, flag \u2018hallucinated\u2019 citations - Times of India",
       "pubDate": "Sat, 29 Nov 2025 23:06:00 GMT"
     },
@@ -85,13 +81,13 @@
     {
       "title": "Israel attacking Lebanon every four hours as ceasefire frays - Sky News",
       "pubDate": "Thu, 18 Dec 2025 04:52:11 GMT"
+    },
+    {
+      "title": "In the US, Netanyahu aims to convince Trump that only threat of war can bring peace - The Times of Israel",
+      "pubDate": "Sun, 28 Dec 2025 19:08:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russian drones, missiles kill one, injure 11 in Kyiv, cause damage - Reuters",
-      "pubDate": "Sat, 29 Nov 2025 04:17:00 GMT"
-    },
     {
       "title": "Ukraine peace talks shift to Moscow \u2014 the big unknown is whether Putin will play ball - CNBC",
       "pubDate": "Mon, 01 Dec 2025 09:58:57 GMT"
@@ -557,6 +553,10 @@
     {
       "title": "Cond\u00e9 Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk - Security Affairs",
       "pubDate": "Sun, 28 Dec 2025 19:51:38 GMT"
+    },
+    {
+      "title": "South Korean retail giant Coupang to compensate $1.1 billion to affected users over data breach - CNBC",
+      "pubDate": "Mon, 29 Dec 2025 01:14:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -647,6 +647,10 @@
     {
       "title": "Large earthquake rocks Taiwan, felt in Taipei - USA Today",
       "pubDate": "Sat, 27 Dec 2025 16:11:00 GMT"
+    },
+    {
+      "title": "Magnitude 4.7 earthquake shakes Northern California - Los Angeles Times",
+      "pubDate": "Mon, 29 Dec 2025 04:07:30 GMT"
     }
   ],
   "Bitcoin": [
@@ -799,10 +803,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Revealed: Europe\u2019s water reserves drying up due to climate breakdown - The Guardian",
-      "pubDate": "Sat, 29 Nov 2025 06:00:00 GMT"
-    },
-    {
       "title": "How climate change is mobilizing plastic pollution - earth.com",
       "pubDate": "Sat, 29 Nov 2025 14:35:22 GMT"
     },
@@ -909,6 +909,10 @@
     {
       "title": "Global carbon emissions hit record high, scientists warn of worsening climate disasters - FOX 13 Tampa Bay",
       "pubDate": "Sun, 28 Dec 2025 19:07:21 GMT"
+    },
+    {
+      "title": "IMF: Climate change could cost PH 2% of annual GDP - Inquirer.net",
+      "pubDate": "Sun, 28 Dec 2025 18:04:00 GMT"
     }
   ],
   "FBI": [
@@ -970,10 +974,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "Report Flags Alarming North Korea Nuke Surge - StratNews Global",
-      "pubDate": "Sat, 29 Nov 2025 04:37:16 GMT"
-    },
     {
       "title": "US-North Korea Tensions Rise Amid Military Drills: Implications for Global Stability - Meyka",
       "pubDate": "Sat, 29 Nov 2025 11:18:39 GMT"
@@ -1225,6 +1225,10 @@
     {
       "title": "The US Must Stop Underestimating Drone Warfare - WIRED",
       "pubDate": "Sat, 27 Dec 2025 10:00:00 GMT"
+    },
+    {
+      "title": "\"80 Drones, 36 Hours\": Pakistan Admits 'Nur Khan' Airbase Struck In Op Sindoor - NDTV",
+      "pubDate": "Mon, 29 Dec 2025 03:21:07 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1423,10 +1427,6 @@
   ],
   "SpaceX": [
     {
-      "title": "SPACEX HIT 512,440 KG TO ORBIT: 83% OF THE ENTIRE WORLD'S LAUNCH MASS The Q3 2025 launch report is out and it's a bloodbath. SpaceX alone launched 512 tons to orbit. That's more than the next 15 providers COMBINED. U.S. share: 97% Space - x.com",
-      "pubDate": "Sat, 29 Nov 2025 03:45:00 GMT"
-    },
-    {
       "title": "Exclusive | The SpaceX Explosion That Put Flights in Danger - The Wall Street Journal",
       "pubDate": "Sun, 21 Dec 2025 14:17:00 GMT"
     }
@@ -1579,6 +1579,10 @@
     {
       "title": "As Memories of Fukushima Fade, Japan Seeks Bigger Role for Nuclear Power - The Wall Street Journal",
       "pubDate": "Sun, 28 Dec 2025 16:00:00 GMT"
+    },
+    {
+      "title": "New Jersey puts financing framework in place to support 1.2 GW of next-generation nuclear power - Energies Media",
+      "pubDate": "Sun, 28 Dec 2025 18:31:26 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1623,6 +1627,10 @@
     {
       "title": "NATO Research Sectors Targeted by Russian Calisto Hackers Using ClickFix Code - Cyber Press",
       "pubDate": "Fri, 05 Dec 2025 11:26:09 GMT"
+    },
+    {
+      "title": "Russian Networks Laundered $35 Million From LastPass Breach Through Privacy Tools - Yellow.com",
+      "pubDate": "Sun, 28 Dec 2025 22:46:39 GMT"
     }
   ],
   "Technology": [
