@@ -175,10 +175,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukraine says it hit Russian \u2018shadow fleet\u2019 tankers with underwater drones in Black Sea - CNN",
-      "pubDate": "Sat, 29 Nov 2025 12:59:48 GMT"
-    },
-    {
       "title": "Analysis: After \u2018progress\u2019 in talks to end Ukraine war, US diplomacy faces Kremlin test - CNN",
       "pubDate": "Mon, 01 Dec 2025 05:00:58 GMT"
     },
@@ -256,10 +252,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump says airspace above and around Venezuela should be considered closed - Reuters",
-      "pubDate": "Sat, 29 Nov 2025 16:58:06 GMT"
-    },
     {
       "title": "Trump Says He Has Made His Choice to Lead the Federal Reserve - Bloomberg.com",
       "pubDate": "Sun, 30 Nov 2025 23:06:42 GMT"
@@ -557,10 +549,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "FCC Warns of Cybersecurity Risks After Texas, Virginia Breaches - radioworld.com",
-      "pubDate": "Sat, 29 Nov 2025 15:01:53 GMT"
-    },
-    {
       "title": "N. Korean hacking group Lazarus behind 31 attacks over past year: report - Yonhap News Agency",
       "pubDate": "Sun, 30 Nov 2025 02:19:09 GMT"
     },
@@ -667,6 +655,10 @@
     {
       "title": "Trump Media to Merge With TAE Technologies, a Nuclear Fusion Firm, in a $6 Billion Deal - The New York Times",
       "pubDate": "Thu, 18 Dec 2025 13:14:23 GMT"
+    },
+    {
+      "title": "British nuclear fusion breakthrough: AI tool takes us one step closer to limitless clean energy - MSN",
+      "pubDate": "Mon, 29 Dec 2025 17:17:39 GMT"
     }
   ],
   "OpenAI": [
@@ -692,10 +684,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "As bodies continue to be pulled from the rubble, Hamas-run health ministry says Gaza death toll passed 70,000 - The Times of Israel",
-      "pubDate": "Sat, 29 Nov 2025 16:53:18 GMT"
-    },
     {
       "title": "Israel says it will reopen Rafah Crossing within days to allow Gazans to exit to Egypt - The Times of Israel",
       "pubDate": "Wed, 03 Dec 2025 08:10:14 GMT"
@@ -790,10 +778,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "How climate change is mobilizing plastic pollution - earth.com",
-      "pubDate": "Sat, 29 Nov 2025 14:35:22 GMT"
-    },
     {
       "title": "Australia climate change protest disrupts shipping at coal port, 21 arrested - Deccan Herald",
       "pubDate": "Sun, 30 Nov 2025 04:40:49 GMT"
@@ -1361,6 +1345,10 @@
     {
       "title": "US carries out airstrikes in Nigeria, targeting \u2018ISIS terrorists\u2019 - Jurist.org",
       "pubDate": "Fri, 26 Dec 2025 21:37:44 GMT"
+    },
+    {
+      "title": "Three Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays - CNN",
+      "pubDate": "Mon, 29 Dec 2025 12:02:52 GMT"
     }
   ],
   "Amazon": [
@@ -1395,6 +1383,10 @@
     {
       "title": "Apple fined $115M in Italy over app store privacy rules - Chicago Star Media",
       "pubDate": "Sun, 28 Dec 2025 16:42:00 GMT"
+    },
+    {
+      "title": "Indiana, Kentucky, and Rhode Island Enforce New Privacy Laws - Bloomberg Law News",
+      "pubDate": "Mon, 29 Dec 2025 10:00:00 GMT"
     }
   ],
   "NASA": [
@@ -1437,6 +1429,10 @@
     {
       "title": "US confirms UN ambassador will visit Israel and Jordan as Trump seeks to advance his Gaza plan - The Times of Israel",
       "pubDate": "Sat, 06 Dec 2025 01:51:35 GMT"
+    },
+    {
+      "title": "United Nations: Violence in Sudan Has Displaced More Than 10,000 People in Three Days - Democracy Now!",
+      "pubDate": "Mon, 29 Dec 2025 15:04:50 GMT"
     }
   ],
   "Apple": [
@@ -1467,6 +1463,10 @@
     {
       "title": "The AI frenzy is driving a new global supply chain crisis - Yahoo Finance",
       "pubDate": "Wed, 03 Dec 2025 02:01:00 GMT"
+    },
+    {
+      "title": "Apple assembly partner victim of a supply chain cyberattack - AppleInsider",
+      "pubDate": "Mon, 29 Dec 2025 13:59:00 GMT"
     }
   ],
   "Human Brain": [
@@ -1565,6 +1565,10 @@
     {
       "title": "Zaporizhzhia power plant could restart in 18 months once the war ends, head says - Reuters",
       "pubDate": "Mon, 29 Dec 2025 10:00:56 GMT"
+    },
+    {
+      "title": "Mini nuclear reactors are already losing their glow - Financial Times",
+      "pubDate": "Mon, 29 Dec 2025 11:04:48 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1897,6 +1901,12 @@
     {
       "title": "Legal Groups Condemn Democratic Party's Judicial Legislation as Unconstitutional - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Mon, 29 Dec 2025 06:25:47 GMT"
+    }
+  ],
+  "Protest": [
+    {
+      "title": "Deadly protests and clashes in Syria \u2013 what happened and what\u2019s next? - Al Jazeera",
+      "pubDate": "Mon, 29 Dec 2025 16:09:51 GMT"
     }
   ]
 }
