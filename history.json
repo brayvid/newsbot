@@ -63,6 +63,10 @@
     {
       "title": "The New Billionaires of the A.I. Boom - The New York Times",
       "pubDate": "Mon, 29 Dec 2025 22:53:31 GMT"
+    },
+    {
+      "title": "Meta Pays $2 Billion for Singapore AI Startup Manus - PYMNTS.com",
+      "pubDate": "Tue, 30 Dec 2025 11:45:07 GMT"
     }
   ],
   "Israel": [
@@ -253,6 +257,10 @@
     {
       "title": "Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks - BBC",
       "pubDate": "Sat, 27 Dec 2025 09:52:05 GMT"
+    },
+    {
+      "title": "Russia says its nuclear-capable missiles have entered active service - Syracuse.com",
+      "pubDate": "Tue, 30 Dec 2025 11:22:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -557,10 +565,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "N. Korean hacking group Lazarus behind 31 attacks over past year: report - Yonhap News Agency",
-      "pubDate": "Sun, 30 Nov 2025 02:19:09 GMT"
-    },
-    {
       "title": "CISA Warns of Android 0-Day Vulnerability Exploited in Attacks - Cyber Press",
       "pubDate": "Wed, 03 Dec 2025 18:21:18 GMT"
     },
@@ -787,10 +791,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Australia climate change protest disrupts shipping at coal port, 21 arrested - Deccan Herald",
-      "pubDate": "Sun, 30 Nov 2025 04:40:49 GMT"
-    },
-    {
       "title": "In era of AI and climate change, energy policy must navigate new trade-offs and dilemmas - The Indian Express",
       "pubDate": "Mon, 01 Dec 2025 01:06:46 GMT"
     },
@@ -893,6 +893,10 @@
     {
       "title": "IMF: Climate change could cost PH 2% of annual GDP - Inquirer.net",
       "pubDate": "Sun, 28 Dec 2025 18:04:00 GMT"
+    },
+    {
+      "title": "Glaciers melting from climate change may reawaken the world\u2019s most dangerous volcanoes - CNN",
+      "pubDate": "Tue, 30 Dec 2025 11:49:19 GMT"
     }
   ],
   "FBI": [
@@ -951,6 +955,10 @@
     {
       "title": "Israel deploys first laser air defense system Iron Beam - Haaretz",
       "pubDate": "Sun, 28 Dec 2025 15:58:00 GMT"
+    },
+    {
+      "title": "Saudi Arabia issues national security warning as UAE forces asked to leave Yemen - Reuters",
+      "pubDate": "Tue, 30 Dec 2025 10:58:11 GMT"
     }
   ],
   "North Korea": [
@@ -1031,6 +1039,10 @@
     {
       "title": "Iran president says US, Israel, Europe waging \u2018full-fledged war\u2019 on country - Al Jazeera",
       "pubDate": "Sat, 27 Dec 2025 21:22:20 GMT"
+    },
+    {
+      "title": "Trump threatens military action against Iran rebuilding its nuclear program - WYFF News 4",
+      "pubDate": "Tue, 30 Dec 2025 10:52:00 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1353,6 +1365,10 @@
     {
       "title": "Three Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays - CNN",
       "pubDate": "Mon, 29 Dec 2025 12:02:52 GMT"
+    },
+    {
+      "title": "Bondi Beach terrorists \u2018acted alone\u2019 in attack on Hanukkah event \u2014 Australian police - The Times of Israel",
+      "pubDate": "Tue, 30 Dec 2025 04:44:47 GMT"
     }
   ],
   "Amazon": [
@@ -1921,6 +1937,12 @@
     {
       "title": "New State Laws Aim to Protect Environment, Consumers as Trump Wages All-Out War on Climate - Common Dreams",
       "pubDate": "Mon, 29 Dec 2025 22:02:44 GMT"
+    }
+  ],
+  "Inflation": [
+    {
+      "title": "Iran\u2019s Currency Collapse Pushes Protesters to the Streets - The New York Times",
+      "pubDate": "Tue, 30 Dec 2025 02:27:51 GMT"
     }
   ]
 }
