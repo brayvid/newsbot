@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Judges caution against Artificial Intelligence in courts, flag \u2018hallucinated\u2019 citations - Times of India",
-      "pubDate": "Sat, 29 Nov 2025 23:06:00 GMT"
-    },
-    {
       "title": "At home and at school, artificial intelligence is transforming childhood - The Economist",
       "pubDate": "Thu, 04 Dec 2025 11:31:16 GMT"
     },
@@ -63,6 +59,10 @@
     {
       "title": "China issues drafts rules to regulate AI with human-like interaction - Reuters",
       "pubDate": "Sat, 27 Dec 2025 09:43:34 GMT"
+    },
+    {
+      "title": "The New Billionaires of the A.I. Boom - The New York Times",
+      "pubDate": "Mon, 29 Dec 2025 22:53:31 GMT"
     }
   ],
   "Israel": [
@@ -85,6 +85,10 @@
     {
       "title": "In the US, Netanyahu aims to convince Trump that only threat of war can bring peace - The Times of Israel",
       "pubDate": "Sun, 28 Dec 2025 19:08:00 GMT"
+    },
+    {
+      "title": "Somaliland: Why has Israel recognised the breakaway African state as independent? - BBC",
+      "pubDate": "Mon, 29 Dec 2025 20:14:12 GMT"
     }
   ],
   "Ukraine": [
@@ -311,6 +315,10 @@
     {
       "title": "Trump says US military struck ISIS terrorists in Nigeria - CNN",
       "pubDate": "Thu, 25 Dec 2025 23:19:56 GMT"
+    },
+    {
+      "title": "Trump says US knocked out \u2018big facility\u2019 as part of Venezuela campaign - CNN",
+      "pubDate": "Mon, 29 Dec 2025 14:22:13 GMT"
     }
   ],
   "China": [
@@ -429,6 +437,10 @@
     {
       "title": "China expands nuclear warhead manufacturing capacity, research finds - The Washington Post",
       "pubDate": "Sun, 28 Dec 2025 17:32:03 GMT"
+    },
+    {
+      "title": "China launches massive military drills off Taiwan after U.S. arms package - The Washington Post",
+      "pubDate": "Mon, 29 Dec 2025 22:24:39 GMT"
     }
   ],
   "AI Safety": [
@@ -510,10 +522,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "South Korean e-commerce firm Coupang says 33.7 million customer accounts breached - Reuters",
-      "pubDate": "Sat, 29 Nov 2025 23:01:30 GMT"
-    },
     {
       "title": "700Credit data breach affects 18,000 dealerships, 5.6 million customers - Automotive News",
       "pubDate": "Wed, 03 Dec 2025 11:00:00 GMT"
@@ -947,10 +955,6 @@
   ],
   "North Korea": [
     {
-      "title": "North Korea's Kim stresses Air Force's nuclear war deterrence on its 80th anniversary - Reuters",
-      "pubDate": "Sat, 29 Nov 2025 22:17:34 GMT"
-    },
-    {
       "title": "North Korea First Unveils Long-Range Missile Resembling Taurus - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Sun, 30 Nov 2025 21:14:15 GMT"
     },
@@ -1071,6 +1075,10 @@
     {
       "title": "Cyclones, floods and wildfires among 2025\u2019s costliest climate-related disasters - The Guardian",
       "pubDate": "Sat, 27 Dec 2025 00:03:00 GMT"
+    },
+    {
+      "title": "2025 was one of three hottest years on record, scientists say - ABC News",
+      "pubDate": "Mon, 29 Dec 2025 23:19:42 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
@@ -1222,10 +1230,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "DHS: Tiktok user suggested he was building bomb targeting Fort Worth - FOX 4 News Dallas-Fort Worth",
-      "pubDate": "Sat, 29 Nov 2025 18:02:43 GMT"
-    },
     {
       "title": "ICE Arrests Criminal Illegal Aliens from Afghanistan Released Into Our Country by the Biden Administration - Homeland Security (.gov)",
       "pubDate": "Thu, 04 Dec 2025 20:40:33 GMT"
@@ -1419,6 +1423,10 @@
     {
       "title": "2 killed as Russian overnight attack hits infrastructure in Ukraine, officials say - ABC News",
       "pubDate": "Sun, 07 Dec 2025 11:30:45 GMT"
+    },
+    {
+      "title": "SoftBank to buy DigitalBridge in $4 billion deal to bolster AI infrastructure push - Reuters",
+      "pubDate": "Mon, 29 Dec 2025 16:12:00 GMT"
     }
   ],
   "United Nations": [
@@ -1907,6 +1915,12 @@
     {
       "title": "Deadly protests and clashes in Syria \u2013 what happened and what\u2019s next? - Al Jazeera",
       "pubDate": "Mon, 29 Dec 2025 16:09:51 GMT"
+    }
+  ],
+  "Environment": [
+    {
+      "title": "New State Laws Aim to Protect Environment, Consumers as Trump Wages All-Out War on Climate - Common Dreams",
+      "pubDate": "Mon, 29 Dec 2025 22:02:44 GMT"
     }
   ]
 }
