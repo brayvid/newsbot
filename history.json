@@ -183,10 +183,6 @@
   ],
   "Russia": [
     {
-      "title": "Analysis: After \u2018progress\u2019 in talks to end Ukraine war, US diplomacy faces Kremlin test - CNN",
-      "pubDate": "Mon, 01 Dec 2025 05:00:58 GMT"
-    },
-    {
       "title": "Third Russia-Linked Oil Tanker Suffers Explosions at Sea - Bloomberg.com",
       "pubDate": "Mon, 01 Dec 2025 11:11:10 GMT"
     },
@@ -261,6 +257,10 @@
     {
       "title": "Russia says its nuclear-capable missiles have entered active service - Syracuse.com",
       "pubDate": "Tue, 30 Dec 2025 11:22:00 GMT"
+    },
+    {
+      "title": "Russia says it has moved its nuclear-capable Oreshnik missiles into Belarus \u2013 as it happened - The Guardian",
+      "pubDate": "Tue, 30 Dec 2025 18:25:16 GMT"
     }
   ],
   "Donald Trump": [
@@ -326,14 +326,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China's military firms struggle as corruption purge bites, report says - Reuters",
-      "pubDate": "Mon, 01 Dec 2025 00:14:00 GMT"
-    },
-    {
-      "title": "China to Intensify Crackdown on Virtual Currencies, Including Stablecoins: Report - CoinDesk",
-      "pubDate": "Mon, 01 Dec 2025 03:45:50 GMT"
-    },
     {
       "title": "Trump Signs Bill to Deepen US-Taiwan Ties Amid China Concerns - Bloomberg.com",
       "pubDate": "Wed, 03 Dec 2025 07:32:00 GMT"
@@ -445,6 +437,10 @@
     {
       "title": "China launches massive military drills off Taiwan after U.S. arms package - The Washington Post",
       "pubDate": "Mon, 29 Dec 2025 22:24:39 GMT"
+    },
+    {
+      "title": "Inside China\u2019s Six-Decade Campaign to Dominate Rare Earths - The New York Times",
+      "pubDate": "Wed, 31 Dec 2025 05:00:15 GMT"
     }
   ],
   "AI Safety": [
@@ -527,6 +523,10 @@
     {
       "title": "AI showing signs of self-preservation and humans should be ready to pull plug, says pioneer - The Guardian",
       "pubDate": "Tue, 30 Dec 2025 20:19:00 GMT"
+    },
+    {
+      "title": "China Proposes Comprehensive AI Safety Regulations to Protect Children from Digital Harm - scanx.trade",
+      "pubDate": "Tue, 30 Dec 2025 18:37:23 GMT"
     }
   ],
   "Data Breach": [
@@ -791,13 +791,13 @@
     {
       "title": "Israel says it will bar aid groups, including Doctors Without Borders, from Gaza - NPR",
       "pubDate": "Tue, 30 Dec 2025 16:04:32 GMT"
+    },
+    {
+      "title": "Israel to ban dozens of aid agencies from Gaza as 10 nations warn about suffering - The Guardian",
+      "pubDate": "Tue, 30 Dec 2025 23:56:00 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "In era of AI and climate change, energy policy must navigate new trade-offs and dilemmas - The Indian Express",
-      "pubDate": "Mon, 01 Dec 2025 01:06:46 GMT"
-    },
     {
       "title": "Here's what would make Bill Gates support dimming the sun to stop climate change - Axios",
       "pubDate": "Mon, 01 Dec 2025 10:02:04 GMT"
@@ -1159,10 +1159,6 @@
   ],
   "World News": [
     {
-      "title": "November 30, 2025 \u2014 Trump administration news, Ukraine war talks, Venezuela tensions - CNN",
-      "pubDate": "Mon, 01 Dec 2025 03:07:00 GMT"
-    },
-    {
       "title": "Live updates: Australia Bondi Beach shooting kills at least 15, details on suspects emerge - CNN",
       "pubDate": "Mon, 15 Dec 2025 23:50:00 GMT"
     },
@@ -1259,6 +1255,10 @@
     {
       "title": "The Federal Reserve cuts interest rates and retirees fear the Social Security increase in 2027 may not be enough - ECOticias.com",
       "pubDate": "Sat, 27 Dec 2025 21:52:00 GMT"
+    },
+    {
+      "title": "Deep Divide Inside Fed Raises Questions About Timing of Further Rate Cuts - The New York Times",
+      "pubDate": "Tue, 30 Dec 2025 19:40:01 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1450,10 +1450,6 @@
     }
   ],
   "World Economy": [
-    {
-      "title": "America\u2019s Tariffs Jolted the Global Economy. Its AI Spending Is Helping Save It. - The Wall Street Journal",
-      "pubDate": "Mon, 01 Dec 2025 04:00:00 GMT"
-    },
     {
       "title": "Trump tariffs live updates: US may exit USMCA next year; Trump meets Nvidia's Huang to talk AI chip curbs - Yahoo Finance",
       "pubDate": "Fri, 05 Dec 2025 09:16:56 GMT"
@@ -1765,6 +1761,10 @@
     {
       "title": "Trump signs $1tn annual US defense bill without fanfare - The Guardian",
       "pubDate": "Fri, 19 Dec 2025 00:31:00 GMT"
+    },
+    {
+      "title": "New Pentagon Maps Show the Reach of China's Expanding Missile Force - Business Insider",
+      "pubDate": "Tue, 30 Dec 2025 20:55:00 GMT"
     }
   ],
   "Taxes": [
