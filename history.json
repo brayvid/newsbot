@@ -265,10 +265,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump Says He Has Made His Choice to Lead the Federal Reserve - Bloomberg.com",
-      "pubDate": "Sun, 30 Nov 2025 23:06:42 GMT"
-    },
-    {
       "title": "Live updates: Trump pardons Henry Cuellar; DHS launches immigration operations in Minneapolis, New Orleans - NBC News",
       "pubDate": "Wed, 03 Dec 2025 17:29:48 GMT"
     },
@@ -527,6 +523,10 @@
     {
       "title": "Britt calls for Congress to act on AI, saying companies put \u2018profit over actual people\u2019 - The Hill",
       "pubDate": "Sun, 28 Dec 2025 16:35:00 GMT"
+    },
+    {
+      "title": "AI showing signs of self-preservation and humans should be ready to pull plug, says pioneer - The Guardian",
+      "pubDate": "Tue, 30 Dec 2025 20:19:00 GMT"
     }
   ],
   "Data Breach": [
@@ -963,13 +963,13 @@
     {
       "title": "Saudi Arabia issues national security warning as UAE forces asked to leave Yemen - Reuters",
       "pubDate": "Tue, 30 Dec 2025 10:58:11 GMT"
+    },
+    {
+      "title": "Russia throws wrench in peace negotiations in blaming Ukraine for attack - The Hill",
+      "pubDate": "Tue, 30 Dec 2025 23:39:00 GMT"
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea First Unveils Long-Range Missile Resembling Taurus - \uc870\uc120\uc77c\ubcf4",
-      "pubDate": "Sun, 30 Nov 2025 21:14:15 GMT"
-    },
     {
       "title": "North Korea lures engineers to rent identities in fake IT worker scheme - BleepingComputer",
       "pubDate": "Tue, 02 Dec 2025 14:04:18 GMT"
@@ -1017,6 +1017,10 @@
     {
       "title": "A Russian ship taking nuclear sub reactors to North Korea has sunk. Who did that? - The Telegraph",
       "pubDate": "Tue, 30 Dec 2025 16:54:00 GMT"
+    },
+    {
+      "title": "\u200bAfter Arming russia With Koksan Guns, North Korea Turns to Nuclear-Capable MLRSs - Defense Express",
+      "pubDate": "Tue, 30 Dec 2025 14:23:52 GMT"
     }
   ],
   "Iran": [
@@ -1137,6 +1141,10 @@
     {
       "title": "U.S. CISA adds Cisco, SonicWall, and ASUS flaws to its Known Exploited Vulnerabilities catalog - Security Affairs",
       "pubDate": "Thu, 18 Dec 2025 10:18:56 GMT"
+    },
+    {
+      "title": "FBI, CISA Warn iPhone Users of iMessage Hacks and $260M Scams - WebProNews",
+      "pubDate": "Tue, 30 Dec 2025 14:31:34 GMT"
     }
   ],
   "Elon Musk": [
@@ -1225,6 +1233,10 @@
     {
       "title": "\"80 Drones, 36 Hours\": Pakistan Admits 'Nur Khan' Airbase Struck In Op Sindoor - NDTV",
       "pubDate": "Mon, 29 Dec 2025 03:21:07 GMT"
+    },
+    {
+      "title": "US Media Confirms Strike in Venezuela to be a CIA Covert Operation - ColombiaOne.com",
+      "pubDate": "Tue, 30 Dec 2025 14:59:06 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1381,6 +1393,10 @@
     {
       "title": "Bondi Beach terrorists \u2018acted alone\u2019 in attack on Hanukkah event \u2014 Australian police - The Times of Israel",
       "pubDate": "Tue, 30 Dec 2025 04:44:47 GMT"
+    },
+    {
+      "title": "Lone actors and groups driven by ideology are \u2018most significant terrorism threat\u2019 to New Year\u2019s celebrations, report says - CNN",
+      "pubDate": "Tue, 30 Dec 2025 22:34:17 GMT"
     }
   ],
   "Amazon": [
@@ -1459,6 +1475,10 @@
     {
       "title": "Extensive damage to energy infrastructure leaves parts of Kyiv, Odesa oblasts without scheduled blackouts - The Kyiv Independent",
       "pubDate": "Tue, 30 Dec 2025 14:10:08 GMT"
+    },
+    {
+      "title": "Russia attacks ports in Odesa region, industrial and port infrastructure damaged - Ukrinform",
+      "pubDate": "Tue, 30 Dec 2025 12:23:00 GMT"
     }
   ],
   "United Nations": [
