@@ -97,10 +97,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine peace talks shift to Moscow \u2014 the big unknown is whether Putin will play ball - CNBC",
-      "pubDate": "Mon, 01 Dec 2025 09:58:57 GMT"
-    },
-    {
       "title": "Weak Spots Are Few for Russia in Ukraine Peace Talks - The New York Times",
       "pubDate": "Wed, 03 Dec 2025 13:01:30 GMT"
     },
@@ -182,10 +178,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Third Russia-Linked Oil Tanker Suffers Explosions at Sea - Bloomberg.com",
-      "pubDate": "Mon, 01 Dec 2025 11:11:10 GMT"
-    },
     {
       "title": "After US-Russia meeting, Ukraine to begin regrouping with European and American allies - ABC News",
       "pubDate": "Thu, 04 Dec 2025 03:20:44 GMT"
@@ -323,6 +315,10 @@
     {
       "title": "Trump says US knocked out \u2018big facility\u2019 as part of Venezuela campaign - CNN",
       "pubDate": "Mon, 29 Dec 2025 14:22:13 GMT"
+    },
+    {
+      "title": "Trump vetoes two bipartisan bills, marking first vetoes of second term - CNN",
+      "pubDate": "Wed, 31 Dec 2025 13:48:50 GMT"
     }
   ],
   "China": [
@@ -527,6 +523,10 @@
     {
       "title": "China Proposes Comprehensive AI Safety Regulations to Protect Children from Digital Harm - scanx.trade",
       "pubDate": "Tue, 30 Dec 2025 18:37:23 GMT"
+    },
+    {
+      "title": "NIST Publishes Preliminary Draft of Cybersecurity Framework Profile for Artificial Intelligence for Public Comment - Inside Privacy",
+      "pubDate": "Wed, 31 Dec 2025 19:15:27 GMT"
     }
   ],
   "Data Breach": [
@@ -647,12 +647,6 @@
     {
       "title": "Magnitude 4.7 earthquake shakes Northern California - Los Angeles Times",
       "pubDate": "Mon, 29 Dec 2025 04:07:30 GMT"
-    }
-  ],
-  "Bitcoin": [
-    {
-      "title": "Bitcoin Plunges to Below $86,000 in Risk-Off Start to December - Bloomberg.com",
-      "pubDate": "Mon, 01 Dec 2025 10:03:39 GMT"
     }
   ],
   "Fusion Power": [
@@ -799,10 +793,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Here's what would make Bill Gates support dimming the sun to stop climate change - Axios",
-      "pubDate": "Mon, 01 Dec 2025 10:02:04 GMT"
-    },
-    {
       "title": "Top Journal Retracts Study Predicting Catastrophic Climate Toll - The New York Times",
       "pubDate": "Wed, 03 Dec 2025 10:03:38 GMT"
     },
@@ -932,10 +922,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Kogi church attack: Tinubu declare national security emergency but attacks never stop, how military dey respond? - BBC",
-      "pubDate": "Mon, 01 Dec 2025 10:41:14 GMT"
-    },
     {
       "title": "A Devastating Fire Has Fueled a National Security Crackdown in Hong Kong - The New York Times",
       "pubDate": "Wed, 03 Dec 2025 15:47:43 GMT"
@@ -1168,10 +1154,6 @@
     }
   ],
   "Hacking": [
-    {
-      "title": "South Korea police say 120,000 home cameras hacked for 'sexploitation' footage - BBC",
-      "pubDate": "Mon, 01 Dec 2025 06:04:53 GMT"
-    },
     {
       "title": "'Happy Ukrainian Armed Forces Day' \u2014 hackers deface website of Russian company delivering military goods, HUR source claims - The Kyiv Independent",
       "pubDate": "Sat, 06 Dec 2025 13:41:09 GMT"
@@ -1527,6 +1509,10 @@
     {
       "title": "Apple assembly partner victim of a supply chain cyberattack - AppleInsider",
       "pubDate": "Mon, 29 Dec 2025 13:59:00 GMT"
+    },
+    {
+      "title": "The Dutch Seized A Chinese Chipmaker. Supply Chain Chaos Has Just Begun. - Forbes",
+      "pubDate": "Wed, 31 Dec 2025 17:06:03 GMT"
     }
   ],
   "Human Brain": [
@@ -1787,6 +1773,10 @@
     {
       "title": "Exclusive: US launches review of advanced Nvidia AI chip sales to China, sources say - Reuters",
       "pubDate": "Fri, 19 Dec 2025 02:27:00 GMT"
+    },
+    {
+      "title": "How $160 million worth of export-controlled Nvidia chips were allegedly smuggled into China - CNBC",
+      "pubDate": "Wed, 31 Dec 2025 12:00:01 GMT"
     }
   ],
   "US Congress": [
@@ -1947,6 +1937,10 @@
     {
       "title": "Trump hosts Zelensky in Florida and holds call with Putin in latest push for Ukraine peace deal - CNN",
       "pubDate": "Sun, 28 Dec 2025 22:53:00 GMT"
+    },
+    {
+      "title": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia - The New York Times",
+      "pubDate": "Wed, 31 Dec 2025 17:00:12 GMT"
     }
   ],
   "Hydroelectric Power": [
