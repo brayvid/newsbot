@@ -97,10 +97,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Weak Spots Are Few for Russia in Ukraine Peace Talks - The New York Times",
-      "pubDate": "Wed, 03 Dec 2025 13:01:30 GMT"
-    },
-    {
       "title": "Macron warned US could \u2018betray\u2019 Ukraine in leaked leaders\u2019 call, Spiegel reports - politico.eu",
       "pubDate": "Thu, 04 Dec 2025 11:32:00 GMT"
     },
@@ -257,10 +253,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Live updates: Trump pardons Henry Cuellar; DHS launches immigration operations in Minneapolis, New Orleans - NBC News",
-      "pubDate": "Wed, 03 Dec 2025 17:29:48 GMT"
-    },
-    {
       "title": "Supreme Court to weigh Trump's firing of FTC member in test of presidential power - Reuters",
       "pubDate": "Fri, 05 Dec 2025 11:04:42 GMT"
     },
@@ -322,10 +314,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Trump Signs Bill to Deepen US-Taiwan Ties Amid China Concerns - Bloomberg.com",
-      "pubDate": "Wed, 03 Dec 2025 07:32:00 GMT"
-    },
     {
       "title": "US halted plans to sanction Chinese spy agency to maintain trade truce - Financial Times",
       "pubDate": "Thu, 04 Dec 2025 04:22:52 GMT"
@@ -437,13 +425,13 @@
     {
       "title": "Inside China\u2019s Six-Decade Campaign to Dominate Rare Earths - The New York Times",
       "pubDate": "Wed, 31 Dec 2025 05:00:15 GMT"
+    },
+    {
+      "title": "China taxes condoms, contraceptive drugs in bid to spur birth rate - Reuters",
+      "pubDate": "Fri, 02 Jan 2026 13:54:11 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI companies' safety practices fail to meet global standards, study shows - Reuters",
-      "pubDate": "Wed, 03 Dec 2025 11:18:04 GMT"
-    },
     {
       "title": "AI safety report warns industry is 'structurally unprepared' for rising risks - Scripps News",
       "pubDate": "Thu, 04 Dec 2025 21:01:23 GMT"
@@ -530,10 +518,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "700Credit data breach affects 18,000 dealerships, 5.6 million customers - Automotive News",
-      "pubDate": "Wed, 03 Dec 2025 11:00:00 GMT"
-    },
     {
       "title": "South Korea Police Raid Coupang HQ Over Historic Data Breach - Bloomberg.com",
       "pubDate": "Tue, 09 Dec 2025 04:48:00 GMT"
@@ -669,10 +653,6 @@
   ],
   "OpenAI": [
     {
-      "title": "OpenAI Declares \u2018Code Red\u2019 as Google Threatens AI Lead - The Wall Street Journal",
-      "pubDate": "Tue, 02 Dec 2025 06:27:00 GMT"
-    },
-    {
       "title": "This crazy chart shows just how much cash OpenAI is burning as it chases AI profits - MarketWatch",
       "pubDate": "Fri, 05 Dec 2025 20:39:00 GMT"
     },
@@ -690,14 +670,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel says it will reopen Rafah Crossing within days to allow Gazans to exit to Egypt - The Times of Israel",
-      "pubDate": "Wed, 03 Dec 2025 08:10:14 GMT"
-    },
-    {
-      "title": "Puppet Regime: Hamas' Coercive Grip on Aid and NGO Operations in Gaza - NGO Monitor",
-      "pubDate": "Wed, 03 Dec 2025 13:22:03 GMT"
-    },
     {
       "title": "IDF Chief Says Israel's Gaza Policy Enabled Hamas' October 7 Attack - Haaretz",
       "pubDate": "Fri, 05 Dec 2025 13:54:00 GMT"
@@ -792,14 +764,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Top Journal Retracts Study Predicting Catastrophic Climate Toll - The New York Times",
-      "pubDate": "Wed, 03 Dec 2025 10:03:38 GMT"
-    },
-    {
-      "title": "How do we know the role of climate change in weather events? Attribution science. - Climate Central",
-      "pubDate": "Wed, 03 Dec 2025 14:27:17 GMT"
-    },
     {
       "title": "\u2018Too hot to handle\u2019: climate change pushing Arab region to limits, says WMO - Financial Times",
       "pubDate": "Thu, 04 Dec 2025 08:00:08 GMT"
@@ -923,10 +887,6 @@
   ],
   "National Security": [
     {
-      "title": "A Devastating Fire Has Fueled a National Security Crackdown in Hong Kong - The New York Times",
-      "pubDate": "Wed, 03 Dec 2025 15:47:43 GMT"
-    },
-    {
       "title": "Taiwan Invokes National Security Law to Protect TSMC Trade Secrets - The New York Times",
       "pubDate": "Wed, 10 Dec 2025 05:00:08 GMT"
     },
@@ -956,10 +916,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea lures engineers to rent identities in fake IT worker scheme - BleepingComputer",
-      "pubDate": "Tue, 02 Dec 2025 14:04:18 GMT"
-    },
     {
       "title": "Russia Sent Abducted Ukrainian Children To North Korea - Forbes",
       "pubDate": "Fri, 05 Dec 2025 04:50:49 GMT"
@@ -1041,6 +997,10 @@
     {
       "title": "Trump threatens military action against Iran rebuilding its nuclear program - WYFF News 4",
       "pubDate": "Tue, 30 Dec 2025 10:52:00 GMT"
+    },
+    {
+      "title": "Iran protests sparked by failing economy turn deadly - The Washington Post",
+      "pubDate": "Fri, 02 Jan 2026 10:01:55 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1059,6 +1019,10 @@
     {
       "title": "US Supreme Court rejects Trump's military deployment in Chicago area, for now - Reuters",
       "pubDate": "Wed, 24 Dec 2025 01:25:00 GMT"
+    },
+    {
+      "title": "Drug-User Gun Ban Set for US Supreme Court Argument in March - Bloomberg Law News",
+      "pubDate": "Fri, 02 Jan 2026 17:51:00 GMT"
     }
   ],
   "Climate": [
@@ -1135,10 +1099,6 @@
   ],
   "Elon Musk": [
     {
-      "title": "Elon Musk says he tried to warn Trump about tariffs, which manufacturers say are eroding U.S. jobs - Fortune",
-      "pubDate": "Tue, 02 Dec 2025 17:08:00 GMT"
-    },
-    {
       "title": "Elon Musk\u2019s X Hit With $140 Million Fine in Europe - The New York Times",
       "pubDate": "Fri, 05 Dec 2025 11:57:33 GMT"
     }
@@ -1168,10 +1128,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "U.S. Launches One-Way-Attack Drone Force in the Middle East > U.S. Central Command > Press Release View - centcom.mil",
-      "pubDate": "Wed, 03 Dec 2025 14:07:20 GMT"
-    },
     {
       "title": "Pentagon seeks to acquire, rapidly field over 300,000 small drones - Defense News",
       "pubDate": "Wed, 03 Dec 2025 20:55:29 GMT"
@@ -1280,10 +1236,6 @@
     }
   ],
   "European Union": [
-    {
-      "title": "Belgium criticises EU proposal to use Russian frozen assets for Ukraine before its unveiling - Reuters",
-      "pubDate": "Wed, 03 Dec 2025 09:32:53 GMT"
-    },
     {
       "title": "EU leaders race to save Ukraine funding deal as Kyiv\u2019s cash runs low - The Guardian",
       "pubDate": "Fri, 05 Dec 2025 05:00:00 GMT"
@@ -1429,6 +1381,10 @@
     {
       "title": "Exclusive | The SpaceX Explosion That Put Flights in Danger - The Wall Street Journal",
       "pubDate": "Sun, 21 Dec 2025 14:17:00 GMT"
+    },
+    {
+      "title": "SpaceX will move 4,400 satellites to a lower orbit after China cited safety risk - South China Morning Post",
+      "pubDate": "Fri, 02 Jan 2026 12:00:22 GMT"
     }
   ],
   "World Economy": [
@@ -1438,10 +1394,6 @@
     }
   ],
   "Infrastructure": [
-    {
-      "title": "Ukraine carries out record attacks on Russian energy infrastructure - https-//www.semafor.com",
-      "pubDate": "Tue, 02 Dec 2025 13:23:00 GMT"
-    },
     {
       "title": "2 killed as Russian overnight attack hits infrastructure in Ukraine, officials say - ABC News",
       "pubDate": "Sun, 07 Dec 2025 11:30:45 GMT"
@@ -1461,10 +1413,6 @@
   ],
   "United Nations": [
     {
-      "title": "AI threatens to widen inequality among states: UN - Al Jazeera",
-      "pubDate": "Tue, 02 Dec 2025 13:18:45 GMT"
-    },
-    {
       "title": "US confirms UN ambassador will visit Israel and Jordan as Trump seeks to advance his Gaza plan - The Times of Israel",
       "pubDate": "Sat, 06 Dec 2025 01:51:35 GMT"
     },
@@ -1479,19 +1427,11 @@
   ],
   "Apple": [
     {
-      "title": "Exclusive: Apple to resist India order to preload state-run app as political outcry builds - Reuters",
-      "pubDate": "Tue, 02 Dec 2025 15:28:08 GMT"
-    },
-    {
       "title": "Apple Confirms iPhone Attacks\u2014All Users Must Update Now - Forbes",
       "pubDate": "Sat, 13 Dec 2025 15:26:14 GMT"
     }
   ],
   "Renewable Energy": [
-    {
-      "title": "\u2018Renewable\u2019 No More: The Trump Administration Renames the National Renewable Energy Laboratory - Inside Climate News",
-      "pubDate": "Tue, 02 Dec 2025 13:21:45 GMT"
-    },
     {
       "title": "Trump Ban on Wind Energy Projects Ruled Illegal by US Judge - Bloomberg.com",
       "pubDate": "Mon, 08 Dec 2025 23:53:19 GMT"
@@ -1503,10 +1443,6 @@
   ],
   "Supply Chain": [
     {
-      "title": "The AI frenzy is driving a new global supply chain crisis - Yahoo Finance",
-      "pubDate": "Wed, 03 Dec 2025 02:01:00 GMT"
-    },
-    {
       "title": "Apple assembly partner victim of a supply chain cyberattack - AppleInsider",
       "pubDate": "Mon, 29 Dec 2025 13:59:00 GMT"
     },
@@ -1515,27 +1451,13 @@
       "pubDate": "Wed, 31 Dec 2025 17:06:03 GMT"
     }
   ],
-  "Human Brain": [
-    {
-      "title": "While AI revolutionizes the world, the human brain rots - Genetic Literacy Project",
-      "pubDate": "Wed, 03 Dec 2025 05:11:09 GMT"
-    }
-  ],
   "Quantum Computing": [
-    {
-      "title": "Nobel Winner Warns China Is \u2018Nanoseconds\u2019 Behind in Quantum Race - Bloomberg.com",
-      "pubDate": "Wed, 03 Dec 2025 11:34:49 GMT"
-    },
     {
       "title": "Redundantly Encoded Resource States Achieve Deterministic Photonic Quantum Computing with Boosted Fusion Success Beyond 50% - Quantum Zeitgeist",
       "pubDate": "Fri, 05 Dec 2025 17:56:38 GMT"
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "South Korea Says the U.S. Agreed to Help It Secure Fuel for Its Reactors - The New York Times",
-      "pubDate": "Wed, 03 Dec 2025 13:06:40 GMT"
-    },
     {
       "title": "The Nuclear Energy Wind Blowing in Africa: The Next Stop is Tanzania - Modern Diplomacy",
       "pubDate": "Sun, 07 Dec 2025 10:00:09 GMT"
@@ -1618,10 +1540,6 @@
     }
   ],
   "Climate Engineering": [
-    {
-      "title": "Private companies have raised millions to block the sun. What could go wrong? - The Washington Post",
-      "pubDate": "Wed, 03 Dec 2025 18:00:11 GMT"
-    },
     {
       "title": "Inside the multi-million dollar race to dim the sun and stop climate change - The Independent",
       "pubDate": "Thu, 25 Dec 2025 14:26:00 GMT"
@@ -1953,6 +1871,10 @@
     {
       "title": "Parts of New York and New England Brace for Ice Storm - The New York Times",
       "pubDate": "Mon, 29 Dec 2025 10:11:38 GMT"
+    },
+    {
+      "title": "Mamdani revokes Israel-related executive orders signed by Adams, directs team to focus on housing in first acts as mayor - CNN",
+      "pubDate": "Fri, 02 Jan 2026 16:54:40 GMT"
     }
   ],
   "Democratic Party": [
@@ -1989,6 +1911,12 @@
     {
       "title": "The Amazon is shifting into a 'hypertropical state' not seen for millions of years, scientists warn - MSN",
       "pubDate": "Tue, 30 Dec 2025 15:19:39 GMT"
+    }
+  ],
+  "Mars": [
+    {
+      "title": "NASA Confirms Strongest Signs Yet of Life on Mars With High Degree of Confidence - The Daily Galaxy",
+      "pubDate": "Fri, 02 Jan 2026 13:15:00 GMT"
     }
   ]
 }
