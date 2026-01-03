@@ -175,10 +175,6 @@
   ],
   "Russia": [
     {
-      "title": "After US-Russia meeting, Ukraine to begin regrouping with European and American allies - ABC News",
-      "pubDate": "Thu, 04 Dec 2025 03:20:44 GMT"
-    },
-    {
       "title": "NATO fighters scrambled in Poland as Russia bombards Ukraine - ABC News",
       "pubDate": "Sat, 06 Dec 2025 09:33:45 GMT"
     },
@@ -249,6 +245,10 @@
     {
       "title": "Russia says it has moved its nuclear-capable Oreshnik missiles into Belarus \u2013 as it happened - The Guardian",
       "pubDate": "Tue, 30 Dec 2025 18:25:16 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Russia makes biggest battleground gains since first year of war, analysis shows - The Guardian",
+      "pubDate": "Sat, 03 Jan 2026 02:46:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -311,13 +311,13 @@
     {
       "title": "Trump vetoes two bipartisan bills, marking first vetoes of second term - CNN",
       "pubDate": "Wed, 31 Dec 2025 13:48:50 GMT"
+    },
+    {
+      "title": "No major change in troop levels after Trump says US is \u2018locked and loaded\u2019 to defend Iranian protesters - CNN",
+      "pubDate": "Fri, 02 Jan 2026 20:37:05 GMT"
     }
   ],
   "China": [
-    {
-      "title": "US halted plans to sanction Chinese spy agency to maintain trade truce - Financial Times",
-      "pubDate": "Thu, 04 Dec 2025 04:22:52 GMT"
-    },
     {
       "title": "Exclusive: China massing military ships across region in show of maritime force, sources say - Reuters",
       "pubDate": "Thu, 04 Dec 2025 07:11:00 GMT"
@@ -549,10 +549,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "CISA Warns of Android 0-Day Vulnerability Exploited in Attacks - Cyber Press",
-      "pubDate": "Wed, 03 Dec 2025 18:21:18 GMT"
-    },
-    {
       "title": "Exclusive | Cybersecurity Startup 7AI Raises $130 Million in Series A Funding - The Wall Street Journal",
       "pubDate": "Thu, 04 Dec 2025 10:55:00 GMT"
     },
@@ -631,6 +627,10 @@
     {
       "title": "Magnitude 4.7 earthquake shakes Northern California - Los Angeles Times",
       "pubDate": "Mon, 29 Dec 2025 04:07:30 GMT"
+    },
+    {
+      "title": "Earthquake with 6.5 magnitude rattles southern and central Mexico killing 2 - AP News",
+      "pubDate": "Fri, 02 Jan 2026 21:40:00 GMT"
     }
   ],
   "Fusion Power": [
@@ -761,6 +761,10 @@
     {
       "title": "Israel to ban dozens of aid agencies from Gaza as 10 nations warn about suffering - The Guardian",
       "pubDate": "Tue, 30 Dec 2025 23:56:00 GMT"
+    },
+    {
+      "title": "Angelina Jolie visits Rafah Crossing as Gaza aid groups face Israeli suspension - CNN",
+      "pubDate": "Fri, 02 Jan 2026 22:56:33 GMT"
     }
   ],
   "Climate Change": [
@@ -873,6 +877,10 @@
     {
       "title": "Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR",
       "pubDate": "Mon, 29 Dec 2025 07:11:44 GMT"
+    },
+    {
+      "title": "FBI says undercover operation thwarted ISIS-inspired terror attack - The Washington Post",
+      "pubDate": "Fri, 02 Jan 2026 19:47:00 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -1129,10 +1137,6 @@
   ],
   "Drones": [
     {
-      "title": "Pentagon seeks to acquire, rapidly field over 300,000 small drones - Defense News",
-      "pubDate": "Wed, 03 Dec 2025 20:55:29 GMT"
-    },
-    {
       "title": "Drone strike on Sudan preschool by RSF and ally kills dozens of children - Al Jazeera",
       "pubDate": "Sun, 07 Dec 2025 11:03:34 GMT"
     },
@@ -1247,10 +1251,6 @@
   ],
   "Recession": [
     {
-      "title": "US bankruptcies surge to 15-year high \u2014 Recession alarms flash as filings outpace 2020 crisis - The Economic Times",
-      "pubDate": "Wed, 03 Dec 2025 19:18:45 GMT"
-    },
-    {
       "title": "Sneaking unemployment rate means the U.S. economy is inching closer to a key recession indicator, says Moody's - Fortune",
       "pubDate": "Fri, 19 Dec 2025 11:36:00 GMT"
     },
@@ -1273,17 +1273,13 @@
     {
       "title": "The Countries Most at Risk of Recession in 2026 - Newsweek",
       "pubDate": "Tue, 30 Dec 2025 10:00:00 GMT"
+    },
+    {
+      "title": "Initial Unemployment Claims Down 16K, Lower Than Expected - Advisor Perspectives",
+      "pubDate": "Sat, 03 Jan 2026 01:11:13 GMT"
     }
   ],
   "Social Media": [
-    {
-      "title": "Australia says the world will follow social media ban as Meta starts blocking teens - Reuters",
-      "pubDate": "Thu, 04 Dec 2025 04:42:44 GMT"
-    },
-    {
-      "title": "Meta starts kicking Australian children off Instagram and Facebook - BBC",
-      "pubDate": "Thu, 04 Dec 2025 06:00:44 GMT"
-    },
     {
       "title": "Australia launches world's first social media ban for kids under 16 - NBC News",
       "pubDate": "Wed, 10 Dec 2025 05:00:34 GMT"
@@ -1917,6 +1913,12 @@
     {
       "title": "NASA Confirms Strongest Signs Yet of Life on Mars With High Degree of Confidence - The Daily Galaxy",
       "pubDate": "Fri, 02 Jan 2026 13:15:00 GMT"
+    }
+  ],
+  "Google": [
+    {
+      "title": "Google AI Overviews put people at risk of harm with misleading health advice - The Guardian",
+      "pubDate": "Fri, 02 Jan 2026 18:19:00 GMT"
     }
   ]
 }
