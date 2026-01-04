@@ -67,10 +67,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel sets 2026 defence budget at $34 billion despite ceasefire in Gaza - Reuters",
-      "pubDate": "Fri, 05 Dec 2025 05:51:07 GMT"
-    },
-    {
       "title": "Israeli ambassador to US calls for peace with Lebanon, envisions \u2018Abraham Accords 2.0\u2019 - The Times of Israel",
       "pubDate": "Sat, 06 Dec 2025 10:19:40 GMT"
     },
@@ -155,6 +151,10 @@
     {
       "title": "Putin says Russia will achieve its Ukraine aims by force if Kyiv doesn't want peace - Reuters",
       "pubDate": "Sun, 28 Dec 2025 05:32:00 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Ukraine will fight on if peace talks fail, Zelenskyy vows - The Guardian",
+      "pubDate": "Sun, 04 Jan 2026 03:48:00 GMT"
     }
   ],
   "Russia": [
@@ -299,13 +299,13 @@
     {
       "title": "No major change in troop levels after Trump says US is \u2018locked and loaded\u2019 to defend Iranian protesters - CNN",
       "pubDate": "Fri, 02 Jan 2026 20:37:05 GMT"
+    },
+    {
+      "title": "Venezuela latest: Captured Venezuelan leader Maduro arrives at detention centre after US strikes, reports say - BBC",
+      "pubDate": "Sun, 04 Jan 2026 05:45:30 GMT"
     }
   ],
   "China": [
-    {
-      "title": "Xi joins Macron in southwest China on rare trip with a global leader outside Beijing - Reuters",
-      "pubDate": "Fri, 05 Dec 2025 04:01:00 GMT"
-    },
     {
       "title": "Chinese Economist Issues Dire Warning Over Debt Crisis - Newsweek",
       "pubDate": "Fri, 05 Dec 2025 11:03:00 GMT"
@@ -483,6 +483,10 @@
     {
       "title": "NIST Publishes Preliminary Draft of Cybersecurity Framework Profile for Artificial Intelligence for Public Comment - Inside Privacy",
       "pubDate": "Wed, 31 Dec 2025 19:15:27 GMT"
+    },
+    {
+      "title": "OpenAI to Focus on Safety Amid Deception Risks - Mexico Business News",
+      "pubDate": "Sat, 03 Jan 2026 19:35:54 GMT"
     }
   ],
   "Data Breach": [
@@ -613,6 +617,10 @@
     {
       "title": "British nuclear fusion breakthrough: AI tool takes us one step closer to limitless clean energy - MSN",
       "pubDate": "Mon, 29 Dec 2025 17:17:39 GMT"
+    },
+    {
+      "title": "Scientists make game-changing breakthrough in pursuit of limitless energy source: 'One of the key milestones' - Yahoo",
+      "pubDate": "Sat, 03 Jan 2026 18:30:00 GMT"
     }
   ],
   "OpenAI": [
@@ -729,6 +737,10 @@
     {
       "title": "Angelina Jolie visits Rafah Crossing as Gaza aid groups face Israeli suspension - CNN",
       "pubDate": "Fri, 02 Jan 2026 22:56:33 GMT"
+    },
+    {
+      "title": "International aid groups grapple with what Israel\u2019s ban will mean for their work in Gaza - AP News",
+      "pubDate": "Sun, 04 Jan 2026 05:01:00 GMT"
     }
   ],
   "Climate Change": [
@@ -819,6 +831,10 @@
     {
       "title": "Glaciers melting from climate change may reawaken the world\u2019s most dangerous volcanoes - CNN",
       "pubDate": "Tue, 30 Dec 2025 11:49:19 GMT"
+    },
+    {
+      "title": "Climate Change Forecasts for 2026: Critical Temperatures and Environmental Challenges in Argentina - Noticias Ambientales",
+      "pubDate": "Sat, 03 Jan 2026 20:29:01 GMT"
     }
   ],
   "FBI": [
@@ -844,10 +860,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "Exclusive: \"Transformative\" AGI is on the horizon, DeepMind's Hassabis says - Axios",
-      "pubDate": "Fri, 05 Dec 2025 01:33:45 GMT"
-    },
     {
       "title": "How the U.S. Can Win the AI Race - Time Magazine",
       "pubDate": "Thu, 11 Dec 2025 12:56:02 GMT"
@@ -884,10 +896,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "Russia Sent Abducted Ukrainian Children To North Korea - Forbes",
-      "pubDate": "Fri, 05 Dec 2025 04:50:49 GMT"
-    },
     {
       "title": "Is China changing tack and accepting North Korea as a nuclear-armed state? - South China Morning Post",
       "pubDate": "Sat, 06 Dec 2025 10:49:24 GMT"
@@ -1188,10 +1196,6 @@
     }
   ],
   "European Union": [
-    {
-      "title": "EU leaders race to save Ukraine funding deal as Kyiv\u2019s cash runs low - The Guardian",
-      "pubDate": "Fri, 05 Dec 2025 05:00:00 GMT"
-    },
     {
       "title": "Exclusive: EU, G7 weigh ban on maritime services for Russian oil exports, end to price cap - Reuters",
       "pubDate": "Sat, 06 Dec 2025 07:24:22 GMT"
@@ -1494,10 +1498,6 @@
     }
   ],
   "BRICS": [
-    {
-      "title": "De-Dollarisation Campaign: India, Russia, China Tighten Grip Aganst USD \u2013 Will The Currency Survive? - Zee News",
-      "pubDate": "Fri, 05 Dec 2025 01:55:03 GMT"
-    },
     {
       "title": "BRICS seek alternatives to US dollar, Brazil official says - Latest news from Azerbaijan",
       "pubDate": "Wed, 17 Dec 2025 10:44:53 GMT"
@@ -1843,6 +1843,10 @@
     {
       "title": "Kim Jong Un leads \u2018nuclear\u2019 cruise missile test to deter outside \u2018threats\u2019 - NK News",
       "pubDate": "Tue, 30 Dec 2025 09:25:59 GMT"
+    },
+    {
+      "title": "North Korea fires ballistic missiles as rival South's leader visits China - Reuters",
+      "pubDate": "Sun, 04 Jan 2026 03:32:10 GMT"
     }
   ],
   "Rain Forests": [
