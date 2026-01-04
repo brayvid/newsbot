@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "At home and at school, artificial intelligence is transforming childhood - The Economist",
-      "pubDate": "Thu, 04 Dec 2025 11:31:16 GMT"
-    },
-    {
       "title": "HHS Launches Artificial Intelligence Strategy - ExecutiveGov",
       "pubDate": "Fri, 05 Dec 2025 20:54:04 GMT"
     },
@@ -71,10 +67,6 @@
   ],
   "Israel": [
     {
-      "title": "How Israel\u2019s Settlement Surge in the West Bank Is Displacing Palestinians - The New York Times",
-      "pubDate": "Thu, 04 Dec 2025 10:21:36 GMT"
-    },
-    {
       "title": "Israel sets 2026 defence budget at $34 billion despite ceasefire in Gaza - Reuters",
       "pubDate": "Fri, 05 Dec 2025 05:51:07 GMT"
     },
@@ -96,14 +88,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Macron warned US could \u2018betray\u2019 Ukraine in leaked leaders\u2019 call, Spiegel reports - politico.eu",
-      "pubDate": "Thu, 04 Dec 2025 11:32:00 GMT"
-    },
-    {
-      "title": "Putin says there are points he can't agree to in the U.S. proposal to end Ukraine war - NPR",
-      "pubDate": "Thu, 04 Dec 2025 16:57:23 GMT"
-    },
     {
       "title": "US says progress made at talks with Ukraine as Russia attacks infrastructure - BBC",
       "pubDate": "Sat, 06 Dec 2025 10:58:37 GMT"
@@ -319,14 +303,6 @@
   ],
   "China": [
     {
-      "title": "Exclusive: China massing military ships across region in show of maritime force, sources say - Reuters",
-      "pubDate": "Thu, 04 Dec 2025 07:11:00 GMT"
-    },
-    {
-      "title": "US senators seek to block Nvidia sales of advanced chips to China - Financial Times",
-      "pubDate": "Thu, 04 Dec 2025 19:49:55 GMT"
-    },
-    {
       "title": "Xi joins Macron in southwest China on rare trip with a global leader outside Beijing - Reuters",
       "pubDate": "Fri, 05 Dec 2025 04:01:00 GMT"
     },
@@ -432,14 +408,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI safety report warns industry is 'structurally unprepared' for rising risks - Scripps News",
-      "pubDate": "Thu, 04 Dec 2025 21:01:23 GMT"
-    },
-    {
-      "title": "FDA Expands Use of Advanced AI for Safety Reviews and Inspections - Civil Eats",
-      "pubDate": "Thu, 04 Dec 2025 18:43:24 GMT"
-    },
     {
       "title": "AI labs like Meta, Deepseek, and Xai earned worst grades possible on an existential safety index - Fortune",
       "pubDate": "Fri, 05 Dec 2025 22:18:00 GMT"
@@ -548,10 +516,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Exclusive | Cybersecurity Startup 7AI Raises $130 Million in Series A Funding - The Wall Street Journal",
-      "pubDate": "Thu, 04 Dec 2025 10:55:00 GMT"
-    },
     {
       "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails - The Hacker News",
       "pubDate": "Fri, 05 Dec 2025 17:53:00 GMT"
@@ -768,10 +732,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "\u2018Too hot to handle\u2019: climate change pushing Arab region to limits, says WMO - Financial Times",
-      "pubDate": "Thu, 04 Dec 2025 08:00:08 GMT"
-    },
     {
       "title": "Oops, Scientists May Have Miscalculated Our Global Warming Timeline - Popular Mechanics",
       "pubDate": "Fri, 05 Dec 2025 16:03:00 GMT"
@@ -1065,10 +1025,6 @@
   ],
   "Cybersecurity and Infrastructure Security Agency": [
     {
-      "title": "US, Allies Release Guidance on Securing AI-Integrated Operational Technology - ExecutiveGov",
-      "pubDate": "Thu, 04 Dec 2025 21:42:23 GMT"
-    },
-    {
       "title": "CISA Joint Advisory Warns Critical Infrastructure of BRICKSTORM Malware Used by Chinese State-Sponsored Actors - Homeland Security Today",
       "pubDate": "Fri, 05 Dec 2025 08:43:24 GMT"
     },
@@ -1179,10 +1135,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "Economists double down on December Fed cut despite policymaker divide: Reuters poll - Reuters",
-      "pubDate": "Thu, 04 Dec 2025 13:40:42 GMT"
-    },
-    {
       "title": "Federal Reserve set to cut interest rate \u2014 but may signal a pause to come - Pittsburgh Post-Gazette",
       "pubDate": "Tue, 09 Dec 2025 11:21:35 GMT"
     },
@@ -1204,10 +1156,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "ICE Arrests Criminal Illegal Aliens from Afghanistan Released Into Our Country by the Biden Administration - Homeland Security (.gov)",
-      "pubDate": "Thu, 04 Dec 2025 20:40:33 GMT"
-    },
     {
       "title": "DHS inks contract to create its own fleet of 737 jets for deportations - The Washington Post",
       "pubDate": "Thu, 11 Dec 2025 01:09:26 GMT"
@@ -1345,12 +1293,6 @@
     {
       "title": "North Korean agents are trying to infiltrate Amazon, chief security officer says - NBC News",
       "pubDate": "Tue, 23 Dec 2025 12:03:22 GMT"
-    }
-  ],
-  "Effects of Global Warming": [
-    {
-      "title": "Climate Change Could Slash Global Income by 19% in 26 Years - \u0411\u0443\u043a\u0432\u0438",
-      "pubDate": "Thu, 04 Dec 2025 19:30:43 GMT"
     }
   ],
   "Privacy": [
@@ -1533,6 +1475,10 @@
     {
       "title": "Mini nuclear reactors are already losing their glow - Financial Times",
       "pubDate": "Mon, 29 Dec 2025 11:04:48 GMT"
+    },
+    {
+      "title": "12th blackout at Europe's largest nuclear plant: Russia deliberately disrupts Zaporizhzhia Nuclear Plant to integrate it into its grid - Euromaidan Press",
+      "pubDate": "Sat, 03 Jan 2026 18:26:50 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1542,10 +1488,6 @@
     }
   ],
   "Nuclear Fission": [
-    {
-      "title": "Kansas will get the world\u2019s first mile-deep nuclear reactor and the groundbreaking is next week - KCUR",
-      "pubDate": "Thu, 04 Dec 2025 12:03:59 GMT"
-    },
     {
       "title": "DOE using its own land to help pair AI centers, nuclear reactors - Roll Call",
       "pubDate": "Mon, 15 Dec 2025 16:32:41 GMT"
