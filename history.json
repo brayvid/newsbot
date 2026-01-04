@@ -63,6 +63,10 @@
     {
       "title": "Meta Pays $2 Billion for Singapore AI Startup Manus - PYMNTS.com",
       "pubDate": "Tue, 30 Dec 2025 11:45:07 GMT"
+    },
+    {
+      "title": "MIT Uncovers the Secret to Making AI as Smart as Humans - 36Kr",
+      "pubDate": "Sun, 04 Jan 2026 09:51:52 GMT"
     }
   ],
   "Israel": [
@@ -237,10 +241,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Supreme Court to weigh Trump's firing of FTC member in test of presidential power - Reuters",
-      "pubDate": "Fri, 05 Dec 2025 11:04:42 GMT"
-    },
-    {
       "title": "Donald Trump\u2019s bleak, incoherent foreign-policy strategy - The Economist",
       "pubDate": "Fri, 05 Dec 2025 12:09:15 GMT"
     },
@@ -306,10 +306,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Chinese Economist Issues Dire Warning Over Debt Crisis - Newsweek",
-      "pubDate": "Fri, 05 Dec 2025 11:03:00 GMT"
-    },
     {
       "title": "US Struggles to Revive Manufacturing While Downsizing China\u2019s Role - Bloomberg.com",
       "pubDate": "Sat, 06 Dec 2025 11:45:01 GMT"
@@ -835,6 +831,10 @@
     {
       "title": "Climate Change Forecasts for 2026: Critical Temperatures and Environmental Challenges in Argentina - Noticias Ambientales",
       "pubDate": "Sat, 03 Jan 2026 20:29:01 GMT"
+    },
+    {
+      "title": "Rising Global Threat Of Brain Eating Amoeba Linked To Climate Change: Study - NDTV",
+      "pubDate": "Sun, 04 Jan 2026 08:57:24 GMT"
     }
   ],
   "FBI": [
@@ -939,6 +939,10 @@
     {
       "title": "\u200bAfter Arming russia With Koksan Guns, North Korea Turns to Nuclear-Capable MLRSs - Defense Express",
       "pubDate": "Tue, 30 Dec 2025 14:23:52 GMT"
+    },
+    {
+      "title": "North Korea fires ballistic missiles, condemns US strikes on Venezuela - Reuters",
+      "pubDate": "Sun, 04 Jan 2026 10:53:36 GMT"
     }
   ],
   "Iran": [
@@ -977,6 +981,10 @@
     {
       "title": "Iran protests sparked by failing economy turn deadly - The Washington Post",
       "pubDate": "Fri, 02 Jan 2026 10:01:55 GMT"
+    },
+    {
+      "title": "Rights group says at least 16 dead in Iran during week of protests - Reuters",
+      "pubDate": "Sun, 04 Jan 2026 11:20:53 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1032,10 +1040,6 @@
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "CISA Joint Advisory Warns Critical Infrastructure of BRICKSTORM Malware Used by Chinese State-Sponsored Actors - Homeland Security Today",
-      "pubDate": "Fri, 05 Dec 2025 08:43:24 GMT"
-    },
     {
       "title": "China using cyber weapons for societal havoc, chaos in US - The Jerusalem Post",
       "pubDate": "Tue, 09 Dec 2025 10:24:21 GMT"
@@ -1139,6 +1143,10 @@
     {
       "title": "US Media Confirms Strike in Venezuela to be a CIA Covert Operation - ColombiaOne.com",
       "pubDate": "Tue, 30 Dec 2025 14:59:06 GMT"
+    },
+    {
+      "title": "Ukrainian drones target Moscow, trigger airport closures, Russia says - The Kyiv Independent",
+      "pubDate": "Sun, 04 Jan 2026 11:00:54 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1229,6 +1237,10 @@
     {
       "title": "Initial Unemployment Claims Down 16K, Lower Than Expected - Advisor Perspectives",
       "pubDate": "Sat, 03 Jan 2026 01:11:13 GMT"
+    },
+    {
+      "title": "China trade slump may fuel recession fears across global markets | tastylive's Macro Money - MSN",
+      "pubDate": "Sun, 04 Jan 2026 04:21:51 GMT"
     }
   ],
   "Social Media": [
@@ -1327,12 +1339,6 @@
     {
       "title": "SpaceX will move 4,400 satellites to a lower orbit after China cited safety risk - South China Morning Post",
       "pubDate": "Fri, 02 Jan 2026 12:00:22 GMT"
-    }
-  ],
-  "World Economy": [
-    {
-      "title": "Trump tariffs live updates: US may exit USMCA next year; Trump meets Nvidia's Huang to talk AI chip curbs - Yahoo Finance",
-      "pubDate": "Fri, 05 Dec 2025 09:16:56 GMT"
     }
   ],
   "Infrastructure": [
@@ -1513,19 +1519,11 @@
   ],
   "Information Security": [
     {
-      "title": "NATO Research Sectors Targeted by Russian Calisto Hackers Using ClickFix Code - Cyber Press",
-      "pubDate": "Fri, 05 Dec 2025 11:26:09 GMT"
-    },
-    {
       "title": "Russian Networks Laundered $35 Million From LastPass Breach Through Privacy Tools - Yellow.com",
       "pubDate": "Sun, 28 Dec 2025 22:46:39 GMT"
     }
   ],
   "Technology": [
-    {
-      "title": "Home Office admits facial recognition tech issue with black and Asian subjects - The Guardian",
-      "pubDate": "Fri, 05 Dec 2025 11:20:00 GMT"
-    },
     {
       "title": "Taiwan probes leaks of vital chip technology - Financial Times",
       "pubDate": "Thu, 11 Dec 2025 05:00:33 GMT"
