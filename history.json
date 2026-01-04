@@ -159,6 +159,10 @@
     {
       "title": "Ukraine war briefing: Ukraine will fight on if peace talks fail, Zelenskyy vows - The Guardian",
       "pubDate": "Sun, 04 Jan 2026 03:48:00 GMT"
+    },
+    {
+      "title": "\u2018This is business as usual\u2019: boss of bombed Ukrainian vodka maker seeks to expand exports - The Guardian",
+      "pubDate": "Sun, 04 Jan 2026 09:16:00 GMT"
     }
   ],
   "Russia": [
@@ -241,10 +245,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Donald Trump\u2019s bleak, incoherent foreign-policy strategy - The Economist",
-      "pubDate": "Fri, 05 Dec 2025 12:09:15 GMT"
-    },
-    {
       "title": "Trump strategy document revives Monroe Doctrine, slams Europe - Reuters",
       "pubDate": "Fri, 05 Dec 2025 19:24:00 GMT"
     },
@@ -303,6 +303,10 @@
     {
       "title": "Venezuela latest: Captured Venezuelan leader Maduro arrives at detention centre after US strikes, reports say - BBC",
       "pubDate": "Sun, 04 Jan 2026 05:45:30 GMT"
+    },
+    {
+      "title": "Trump Long Wanted to \u2018Take the Oil.\u2019 He Says He\u2019ll Do It in Venezuela. - The New York Times",
+      "pubDate": "Sun, 04 Jan 2026 16:54:00 GMT"
     }
   ],
   "China": [
@@ -401,6 +405,10 @@
     {
       "title": "China taxes condoms, contraceptive drugs in bid to spur birth rate - Reuters",
       "pubDate": "Fri, 02 Jan 2026 13:54:11 GMT"
+    },
+    {
+      "title": "US strike on Venezuela to embolden China's territorial claims, Taiwan attack unlikely, analysts say - Reuters",
+      "pubDate": "Sun, 04 Jan 2026 09:30:57 GMT"
     }
   ],
   "AI Safety": [
@@ -483,6 +491,10 @@
     {
       "title": "OpenAI to Focus on Safety Amid Deception Risks - Mexico Business News",
       "pubDate": "Sat, 03 Jan 2026 19:35:54 GMT"
+    },
+    {
+      "title": "World \u2018may not have time\u2019 to prepare for AI safety risks, says leading researcher - The Guardian",
+      "pubDate": "Sun, 04 Jan 2026 15:44:00 GMT"
     }
   ],
   "Data Breach": [
@@ -516,10 +528,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails - The Hacker News",
-      "pubDate": "Fri, 05 Dec 2025 17:53:00 GMT"
-    },
     {
       "title": "AI to grow in 2026, raising new security demands - The Jerusalem Post",
       "pubDate": "Sun, 07 Dec 2025 03:08:55 GMT"
@@ -639,10 +647,6 @@
   ],
   "Gaza": [
     {
-      "title": "IDF Chief Says Israel's Gaza Policy Enabled Hamas' October 7 Attack - Haaretz",
-      "pubDate": "Fri, 05 Dec 2025 13:54:00 GMT"
-    },
-    {
       "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at \u2018critical moment\u2019 - Al Jazeera",
       "pubDate": "Sun, 07 Dec 2025 11:40:18 GMT"
     },
@@ -737,13 +741,13 @@
     {
       "title": "International aid groups grapple with what Israel\u2019s ban will mean for their work in Gaza - AP News",
       "pubDate": "Sun, 04 Jan 2026 05:01:00 GMT"
+    },
+    {
+      "title": "Poverty, unemployment skyrocket in the Gaza Strip after Israel\u2019s war - Al Jazeera",
+      "pubDate": "Sun, 04 Jan 2026 07:12:30 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "Oops, Scientists May Have Miscalculated Our Global Warming Timeline - Popular Mechanics",
-      "pubDate": "Fri, 05 Dec 2025 16:03:00 GMT"
-    },
     {
       "title": "Scientists fear that rapid warming is driving a collapse in the ocean currents that shape climate far and wide. The waters off Greenland might hold the key. - Facebook",
       "pubDate": "Sat, 06 Dec 2025 22:45:35 GMT"
@@ -1073,12 +1077,6 @@
       "pubDate": "Tue, 30 Dec 2025 14:31:34 GMT"
     }
   ],
-  "Elon Musk": [
-    {
-      "title": "Elon Musk\u2019s X Hit With $140 Million Fine in Europe - The New York Times",
-      "pubDate": "Fri, 05 Dec 2025 11:57:33 GMT"
-    }
-  ],
   "World News": [
     {
       "title": "Live updates: Australia Bondi Beach shooting kills at least 15, details on suspects emerge - CNN",
@@ -1399,12 +1397,6 @@
       "pubDate": "Wed, 31 Dec 2025 17:06:03 GMT"
     }
   ],
-  "Quantum Computing": [
-    {
-      "title": "Redundantly Encoded Resource States Achieve Deterministic Photonic Quantum Computing with Boosted Fusion Success Beyond 50% - Quantum Zeitgeist",
-      "pubDate": "Fri, 05 Dec 2025 17:56:38 GMT"
-    }
-  ],
   "Nuclear Power": [
     {
       "title": "The Nuclear Energy Wind Blowing in Africa: The Next Stop is Tanzania - Modern Diplomacy",
@@ -1489,6 +1481,10 @@
     {
       "title": "12th blackout at Europe's largest nuclear plant: Russia deliberately disrupts Zaporizhzhia Nuclear Plant to integrate it into its grid - Euromaidan Press",
       "pubDate": "Sat, 03 Jan 2026 18:26:50 GMT"
+    },
+    {
+      "title": "Washington State is Becoming a Major Nuclear Energy Hub - Planetizen",
+      "pubDate": "Sun, 04 Jan 2026 17:00:00 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1564,10 +1560,6 @@
     }
   ],
   "Public Health": [
-    {
-      "title": "CDC vaccine advisory committee votes to remove universal recommendation for hepatitis B shot at birth - ABC News",
-      "pubDate": "Fri, 05 Dec 2025 17:22:54 GMT"
-    },
     {
       "title": "Massachusetts Public Health Officials alert residents about potential exposure to measles in multiple locations as cases increase nationwide - Fall River Reporter",
       "pubDate": "Sat, 27 Dec 2025 01:54:39 GMT"
@@ -1863,6 +1855,12 @@
     {
       "title": "Google AI Overviews put people at risk of harm with misleading health advice - The Guardian",
       "pubDate": "Fri, 02 Jan 2026 18:19:00 GMT"
+    }
+  ],
+  "World Economy": [
+    {
+      "title": "From the AI bubble to Fed fears: the global economic outlook for 2026 - The Guardian",
+      "pubDate": "Sun, 04 Jan 2026 12:00:00 GMT"
     }
   ]
 }
