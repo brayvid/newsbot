@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "HHS Launches Artificial Intelligence Strategy - ExecutiveGov",
-      "pubDate": "Fri, 05 Dec 2025 20:54:04 GMT"
-    },
-    {
       "title": "Artificial intelligence research has a slop problem, academics say: \u2018It\u2019s a mess\u2019 - The Guardian",
       "pubDate": "Sat, 06 Dec 2025 15:02:00 GMT"
     },
@@ -67,6 +63,10 @@
     {
       "title": "MIT Uncovers the Secret to Making AI as Smart as Humans - 36Kr",
       "pubDate": "Sun, 04 Jan 2026 09:51:52 GMT"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella Says AI Bottleneck is Now Electricity Not GPUs Due to Data Center Power Needs - Technetbook",
+      "pubDate": "Sun, 04 Jan 2026 23:08:00 GMT"
     }
   ],
   "Israel": [
@@ -85,6 +85,10 @@
     {
       "title": "Somaliland: Why has Israel recognised the breakaway African state as independent? - BBC",
       "pubDate": "Mon, 29 Dec 2025 20:14:12 GMT"
+    },
+    {
+      "title": "Israel launches deadly strikes in Gaza in new ceasefire violations - Al Jazeera",
+      "pubDate": "Sun, 04 Jan 2026 22:41:15 GMT"
     }
   ],
   "Ukraine": [
@@ -163,6 +167,10 @@
     {
       "title": "\u2018This is business as usual\u2019: boss of bombed Ukrainian vodka maker seeks to expand exports - The Guardian",
       "pubDate": "Sun, 04 Jan 2026 09:16:00 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Kyiv escalating drone attacks on Russia, Moscow claims - The Guardian",
+      "pubDate": "Mon, 05 Jan 2026 03:47:00 GMT"
     }
   ],
   "Russia": [
@@ -244,10 +252,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump strategy document revives Monroe Doctrine, slams Europe - Reuters",
-      "pubDate": "Fri, 05 Dec 2025 19:24:00 GMT"
-    },
     {
       "title": "Trump confirms $12bn in assistance for American farmers amid concerns over trade and high prices \u2013 live - The Guardian",
       "pubDate": "Mon, 08 Dec 2025 23:15:09 GMT"
@@ -413,10 +417,6 @@
   ],
   "AI Safety": [
     {
-      "title": "AI labs like Meta, Deepseek, and Xai earned worst grades possible on an existential safety index - Fortune",
-      "pubDate": "Fri, 05 Dec 2025 22:18:00 GMT"
-    },
-    {
       "title": "Korea aims for AI G3 by leading global AI safety, says institute director - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Sat, 06 Dec 2025 21:01:00 GMT"
     },
@@ -495,6 +495,10 @@
     {
       "title": "World \u2018may not have time\u2019 to prepare for AI safety risks, says leading researcher - The Guardian",
       "pubDate": "Sun, 04 Jan 2026 15:44:00 GMT"
+    },
+    {
+      "title": "AI Safety Window Is Closing as Systems Advance Faster Than Controls, Warns ARIA Expert - CXO Digitalpulse",
+      "pubDate": "Mon, 05 Jan 2026 04:44:48 GMT"
     }
   ],
   "Data Breach": [
@@ -628,10 +632,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "This crazy chart shows just how much cash OpenAI is burning as it chases AI profits - MarketWatch",
-      "pubDate": "Fri, 05 Dec 2025 20:39:00 GMT"
-    },
     {
       "title": "OpenAI launches GPT-5.2 after 'code red' push to counter Google's Gemini 3 - Reuters",
       "pubDate": "Thu, 11 Dec 2025 21:24:03 GMT"
@@ -989,13 +989,13 @@
     {
       "title": "Rights group says at least 16 dead in Iran during week of protests - Reuters",
       "pubDate": "Sun, 04 Jan 2026 11:20:53 GMT"
+    },
+    {
+      "title": "What to know about the protests now shaking Iran as tensions remain high over its nuclear program - AP News",
+      "pubDate": "Mon, 05 Jan 2026 02:27:00 GMT"
     }
   ],
   "US Supreme Court": [
-    {
-      "title": "US Supreme Court agrees to hear case challenging birthright citizenship - BBC",
-      "pubDate": "Fri, 05 Dec 2025 21:54:01 GMT"
-    },
     {
       "title": "Supreme Court poised to expand Trump\u2019s power over independent agencies - The Washington Post",
       "pubDate": "Tue, 09 Dec 2025 04:45:29 GMT"
@@ -1359,10 +1359,6 @@
   ],
   "United Nations": [
     {
-      "title": "US confirms UN ambassador will visit Israel and Jordan as Trump seeks to advance his Gaza plan - The Times of Israel",
-      "pubDate": "Sat, 06 Dec 2025 01:51:35 GMT"
-    },
-    {
       "title": "United Nations: Violence in Sudan Has Displaced More Than 10,000 People in Three Days - Democracy Now!",
       "pubDate": "Mon, 29 Dec 2025 15:04:50 GMT"
     },
@@ -1531,10 +1527,6 @@
   ],
   "Corruption": [
     {
-      "title": "Zelensky\u2019s Government Sabotaged Oversight, Allowing Corruption to Fester - The New York Times",
-      "pubDate": "Fri, 05 Dec 2025 18:55:22 GMT"
-    },
-    {
       "title": "Israeli president pushes back against Trump\u2019s pressure to pardon Netanyahu on corruption charges - Anadolu Ajans\u0131",
       "pubDate": "Sun, 07 Dec 2025 06:30:39 GMT"
     },
@@ -1566,10 +1558,6 @@
     }
   ],
   "Large Language Models": [
-    {
-      "title": "Study reveals poetic prompting can sometimes jailbreak AI models - Mashable SEA",
-      "pubDate": "Fri, 05 Dec 2025 20:16:55 GMT"
-    },
     {
       "title": "It Only Takes A Handful Of Samples To Poison Any Size LLM, Anthropic Finds - Hackaday",
       "pubDate": "Mon, 15 Dec 2025 03:00:00 GMT"
@@ -1861,6 +1849,18 @@
     {
       "title": "From the AI bubble to Fed fears: the global economic outlook for 2026 - The Guardian",
       "pubDate": "Sun, 04 Jan 2026 12:00:00 GMT"
+    }
+  ],
+  "US Politics": [
+    {
+      "title": "How the U.S. captured Maduro in Venezuela: A CIA team, steel doors and a fateful phone call - NBC News",
+      "pubDate": "Sun, 04 Jan 2026 19:02:00 GMT"
+    }
+  ],
+  "Nuclear Fusion": [
+    {
+      "title": "China\u2019s \u201cartificial sun\u201d just broke a fusion limit scientists thought was unbreakable - ScienceDaily",
+      "pubDate": "Sun, 04 Jan 2026 22:24:33 GMT"
     }
   ]
 }
