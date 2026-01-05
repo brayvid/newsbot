@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Artificial intelligence research has a slop problem, academics say: \u2018It\u2019s a mess\u2019 - The Guardian",
-      "pubDate": "Sat, 06 Dec 2025 15:02:00 GMT"
-    },
-    {
       "title": "Trump to issue order creating national AI rule - Reuters",
       "pubDate": "Mon, 08 Dec 2025 21:27:50 GMT"
     },
@@ -71,10 +67,6 @@
   ],
   "Israel": [
     {
-      "title": "Israeli ambassador to US calls for peace with Lebanon, envisions \u2018Abraham Accords 2.0\u2019 - The Times of Israel",
-      "pubDate": "Sat, 06 Dec 2025 10:19:40 GMT"
-    },
-    {
       "title": "Israel attacking Lebanon every four hours as ceasefire frays - Sky News",
       "pubDate": "Thu, 18 Dec 2025 04:52:11 GMT"
     },
@@ -92,10 +84,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "US says progress made at talks with Ukraine as Russia attacks infrastructure - BBC",
-      "pubDate": "Sat, 06 Dec 2025 10:58:37 GMT"
-    },
     {
       "title": "Foreign states using AI videos to undermine support for Ukraine, says Yvette Cooper - The Guardian",
       "pubDate": "Mon, 08 Dec 2025 22:30:00 GMT"
@@ -174,10 +162,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "NATO fighters scrambled in Poland as Russia bombards Ukraine - ABC News",
-      "pubDate": "Sat, 06 Dec 2025 09:33:45 GMT"
-    },
     {
       "title": "As Russia's Africa Corps fights in Mali, witnesses describe atrocities from beheadings to rapes - The Independent",
       "pubDate": "Sun, 07 Dec 2025 05:21:00 GMT"
@@ -314,10 +298,6 @@
     }
   ],
   "China": [
-    {
-      "title": "US Struggles to Revive Manufacturing While Downsizing China\u2019s Role - Bloomberg.com",
-      "pubDate": "Sat, 06 Dec 2025 11:45:01 GMT"
-    },
     {
       "title": "Chinese jets directed fire-control radar at Japanese aircraft, Japan says - Reuters",
       "pubDate": "Sun, 07 Dec 2025 03:09:00 GMT"
@@ -901,10 +881,6 @@
   ],
   "North Korea": [
     {
-      "title": "Is China changing tack and accepting North Korea as a nuclear-armed state? - South China Morning Post",
-      "pubDate": "Sat, 06 Dec 2025 10:49:24 GMT"
-    },
-    {
       "title": "US and China drop denuclearization goal, signaling tacit acceptance of North Korean nukes - CHOSUNBIZ - Chosunbiz",
       "pubDate": "Sat, 06 Dec 2025 22:35:00 GMT"
     },
@@ -1089,10 +1065,6 @@
   ],
   "Hacking": [
     {
-      "title": "'Happy Ukrainian Armed Forces Day' \u2014 hackers deface website of Russian company delivering military goods, HUR source claims - The Kyiv Independent",
-      "pubDate": "Sat, 06 Dec 2025 13:41:09 GMT"
-    },
-    {
       "title": "Warning: Microsoft 365 Account Hacking Surge\u2014China & Russia Suspected - Forbes",
       "pubDate": "Sun, 21 Dec 2025 13:18:07 GMT"
     },
@@ -1199,12 +1171,6 @@
     {
       "title": "OpenAI, Microsoft Sued Over ChatGPT's Alleged Role in Connecticut Murder-Suicide - Decrypt",
       "pubDate": "Sat, 20 Dec 2025 18:01:02 GMT"
-    }
-  ],
-  "European Union": [
-    {
-      "title": "Exclusive: EU, G7 weigh ban on maritime services for Russian oil exports, end to price cap - Reuters",
-      "pubDate": "Sat, 06 Dec 2025 07:24:22 GMT"
     }
   ],
   "Recession": [
@@ -1571,10 +1537,6 @@
   ],
   "Military and Defense": [
     {
-      "title": "Exclusive: US sets 2027 deadline for Europe-led NATO defense, officials say - Reuters",
-      "pubDate": "Sat, 06 Dec 2025 17:58:27 GMT"
-    },
-    {
       "title": "Germany investing in military amid concerns over Putin, uncertainty about U.S. support for European defense - CBS News",
       "pubDate": "Mon, 15 Dec 2025 00:50:52 GMT"
     },
@@ -1861,6 +1823,48 @@
     {
       "title": "China\u2019s \u201cartificial sun\u201d just broke a fusion limit scientists thought was unbreakable - ScienceDaily",
       "pubDate": "Sun, 04 Jan 2026 22:24:33 GMT"
+    }
+  ],
+  "Geopolitics & US Foreign Policy": [
+    {
+      "title": "NATO is done if Trump invades Greenland, Danish PM warns - politico.eu",
+      "pubDate": "Mon, 05 Jan 2026 17:07:00 GMT"
+    }
+  ],
+  "Artificial Intelligence & Ethics": [
+    {
+      "title": "Ashley St Clair alleges Elon Musk\u2019s Grok \u2018undressed\u2019 her childhood images; sparking AI safety concerns - Times of India",
+      "pubDate": "Mon, 05 Jan 2026 06:28:00 GMT"
+    }
+  ],
+  "National Security & Advanced Technology": [
+    {
+      "title": "Quantum Game Theory: The $12.4 Trillion Economics Crisis as Nations Rush to Protect Digital Assets while Quantum Computers Race toward 2028 Encryption-Breaking Capability - The Hindu",
+      "pubDate": "Mon, 05 Jan 2026 07:26:00 GMT"
+    }
+  ],
+  "Space Exploration & Scientific Breakthroughs": [
+    {
+      "title": "Clear and definitive evidence of liquid water, not just ancient ice, found on Mars - ECOticias.com",
+      "pubDate": "Mon, 05 Jan 2026 17:05:53 GMT"
+    }
+  ],
+  "Public Health & Policy": [
+    {
+      "title": "Expanded cervical cancer screenings to be covered by most private insurance - The Washington Post",
+      "pubDate": "Mon, 05 Jan 2026 16:18:15 GMT"
+    }
+  ],
+  "Energy & Climate Innovation": [
+    {
+      "title": "It\u2019s been hidden for millions of years \u2014 46 million-ton hydrogen treasure beneath France - Energies Media",
+      "pubDate": "Mon, 05 Jan 2026 13:37:55 GMT"
+    }
+  ],
+  "Global Economy & Outlook": [
+    {
+      "title": "Top economists split on 2026 predictions as recession risk, tariffs and geopolitics cloud outlook - Pensions & Investments",
+      "pubDate": "Mon, 05 Jan 2026 12:00:00 GMT"
     }
   ]
 }
