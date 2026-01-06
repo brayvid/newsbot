@@ -163,10 +163,6 @@
   ],
   "Russia": [
     {
-      "title": "As Russia's Africa Corps fights in Mali, witnesses describe atrocities from beheadings to rapes - The Independent",
-      "pubDate": "Sun, 07 Dec 2025 05:21:00 GMT"
-    },
-    {
       "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude - BBC",
       "pubDate": "Sun, 07 Dec 2025 07:17:21 GMT"
     },
@@ -302,10 +298,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Chinese jets directed fire-control radar at Japanese aircraft, Japan says - Reuters",
-      "pubDate": "Sun, 07 Dec 2025 03:09:00 GMT"
-    },
     {
       "title": "U.S. uncovers scheme to reroute Nvidia GPUs worth $160 million to China despite export bans - CNBC",
       "pubDate": "Tue, 09 Dec 2025 09:59:49 GMT"
@@ -517,10 +509,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "AI to grow in 2026, raising new security demands - The Jerusalem Post",
-      "pubDate": "Sun, 07 Dec 2025 03:08:55 GMT"
-    },
-    {
       "title": "Initial access brokers involved in more attacks, including on critical infrastructure - Cybersecurity Dive",
       "pubDate": "Mon, 08 Dec 2025 20:14:42 GMT"
     },
@@ -555,6 +543,10 @@
     {
       "title": "MongoBleed (CVE-2025-14847) Now Exploited in the Wild: MongoDB Servers at Critical Risk - CybersecurityNews",
       "pubDate": "Sun, 28 Dec 2025 15:43:33 GMT"
+    },
+    {
+      "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands - The Hacker News",
+      "pubDate": "Tue, 06 Jan 2026 05:08:00 GMT"
     }
   ],
   "US Economy": [
@@ -823,6 +815,10 @@
     {
       "title": "Companies are coming up with plans to block out the sun - The Independent",
       "pubDate": "Mon, 05 Jan 2026 17:43:00 GMT"
+    },
+    {
+      "title": "Scientists just got some ancient clues about future sea-level rise \u2014 and it\u2019s bad news - The Washington Post",
+      "pubDate": "Tue, 06 Jan 2026 00:00:00 GMT"
     }
   ],
   "FBI": [
@@ -1537,12 +1533,6 @@
       "pubDate": "Tue, 30 Dec 2025 20:55:00 GMT"
     }
   ],
-  "Taxes": [
-    {
-      "title": "EU expands carbon border tax to garden tools and washing machines - Financial Times",
-      "pubDate": "Sun, 07 Dec 2025 05:00:27 GMT"
-    }
-  ],
   "Money": [
     {
       "title": "Revealed: Hamas Money Laundering Network In Turkey Linked To Iran - i24NEWS",
@@ -1813,6 +1803,10 @@
     {
       "title": "Six Big Political Questions for 2026 - The New York Times",
       "pubDate": "Mon, 05 Jan 2026 23:00:06 GMT"
+    },
+    {
+      "title": "Trump says the U.S. may reimburse oil companies for rebuilding Venezuela's infrastructure - NBC News",
+      "pubDate": "Mon, 05 Jan 2026 23:10:31 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -1867,6 +1861,28 @@
     {
       "title": "A strange kind of quantumness may be key to quantum computers' success - New Scientist",
       "pubDate": "Mon, 05 Jan 2026 12:01:45 GMT"
+    },
+    {
+      "title": "Israel fighting to keep up in quantum computing arms race - The Jerusalem Post",
+      "pubDate": "Mon, 05 Jan 2026 18:01:43 GMT"
+    }
+  ],
+  "AI & Infrastructure": [
+    {
+      "title": "NIST Launches Centers for AI in Manufacturing and Critical Infrastructure - HPCwire",
+      "pubDate": "Mon, 05 Jan 2026 20:14:04 GMT"
+    }
+  ],
+  "Robotics & AI": [
+    {
+      "title": "Google Gemini Is Taking Control of Humanoid Robots on Auto Factory Floors - WIRED",
+      "pubDate": "Mon, 05 Jan 2026 21:00:00 GMT"
+    }
+  ],
+  "Cryptocurrency Policy": [
+    {
+      "title": "Did DOJ Prosecutors Violate Trump\u2019s Executive Order by Selling the Forfeited Samourai Wallet Bitcoin? - Bitcoin Magazine",
+      "pubDate": "Mon, 05 Jan 2026 19:03:31 GMT"
     }
   ]
 }
