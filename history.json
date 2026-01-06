@@ -159,13 +159,13 @@
     {
       "title": "Ukraine war briefing: Kyiv escalating drone attacks on Russia, Moscow claims - The Guardian",
       "pubDate": "Mon, 05 Jan 2026 03:47:00 GMT"
+    },
+    {
+      "title": "Zelensky\u2019s Assessment Darkens as Europeans Gather to Talk Peace - The New York Times",
+      "pubDate": "Tue, 06 Jan 2026 05:01:05 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Ukrainian city hit by 'massive' strike as peace talks in US conclude - BBC",
-      "pubDate": "Sun, 07 Dec 2025 07:17:21 GMT"
-    },
     {
       "title": "Zelenskyy warns Russia, China stepping up military-industrial cooperation - Al Jazeera",
       "pubDate": "Wed, 10 Dec 2025 16:08:23 GMT"
@@ -623,10 +623,6 @@
   ],
   "Gaza": [
     {
-      "title": "LIVE: Israel targets Gaza as mediators warn ceasefire at \u2018critical moment\u2019 - Al Jazeera",
-      "pubDate": "Sun, 07 Dec 2025 11:40:18 GMT"
-    },
-    {
       "title": "Touring the Strip, IDF chief Zamir says Gaza ceasefire line \u2018a new border\u2019 - The Times of Israel",
       "pubDate": "Sun, 07 Dec 2025 16:41:37 GMT"
     },
@@ -725,10 +721,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Earth dimming accelerates climate change as sunlight reflection declines - Nation Thailand",
-      "pubDate": "Sun, 07 Dec 2025 06:20:00 GMT"
-    },
-    {
       "title": "Indonesia counts human cost as more climate change warnings sounded - Al Jazeera",
       "pubDate": "Mon, 08 Dec 2025 12:33:45 GMT"
     },
@@ -819,6 +811,10 @@
     {
       "title": "Scientists just got some ancient clues about future sea-level rise \u2014 and it\u2019s bad news - The Washington Post",
       "pubDate": "Tue, 06 Jan 2026 00:00:00 GMT"
+    },
+    {
+      "title": "How microplastics are impairing the ocean\u2019s ability to absorb CO2 - Euronews.com",
+      "pubDate": "Tue, 06 Jan 2026 11:06:38 GMT"
     }
   ],
   "FBI": [
@@ -1071,10 +1067,6 @@
   ],
   "Drones": [
     {
-      "title": "Drone strike on Sudan preschool by RSF and ally kills dozens of children - Al Jazeera",
-      "pubDate": "Sun, 07 Dec 2025 11:03:34 GMT"
-    },
-    {
       "title": "Chernobyl radiation shield 'lost safety function' after drone strike, UN watchdog says - BBC",
       "pubDate": "Sun, 07 Dec 2025 12:09:01 GMT"
     },
@@ -1297,10 +1289,6 @@
   ],
   "Infrastructure": [
     {
-      "title": "2 killed as Russian overnight attack hits infrastructure in Ukraine, officials say - ABC News",
-      "pubDate": "Sun, 07 Dec 2025 11:30:45 GMT"
-    },
-    {
       "title": "SoftBank to buy DigitalBridge in $4 billion deal to bolster AI infrastructure push - Reuters",
       "pubDate": "Mon, 29 Dec 2025 16:12:00 GMT"
     },
@@ -1321,6 +1309,10 @@
     {
       "title": "US Pledges $2 Billion For United Nations Humanitarian Aid In 2026 - Barron's",
       "pubDate": "Tue, 30 Dec 2025 12:19:00 GMT"
+    },
+    {
+      "title": "At the U.N., Even Allies Condemn U.S. Action in Venezuela - The New York Times",
+      "pubDate": "Tue, 06 Jan 2026 01:12:02 GMT"
     }
   ],
   "Apple": [
@@ -1350,10 +1342,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "The Nuclear Energy Wind Blowing in Africa: The Next Stop is Tanzania - Modern Diplomacy",
-      "pubDate": "Sun, 07 Dec 2025 10:00:09 GMT"
-    },
     {
       "title": "Kellogg claims Ukraine peace deal close, with Donetsk, Zaporizhzhia nuclear power plant key sticking points - The Kyiv Independent",
       "pubDate": "Sun, 07 Dec 2025 12:12:48 GMT"
@@ -1482,10 +1470,6 @@
     }
   ],
   "Corruption": [
-    {
-      "title": "Israeli president pushes back against Trump\u2019s pressure to pardon Netanyahu on corruption charges - Anadolu Ajans\u0131",
-      "pubDate": "Sun, 07 Dec 2025 06:30:39 GMT"
-    },
     {
       "title": "Inside the $2 Billion Scandal That Paralyzed the Philippines - Bloomberg.com",
       "pubDate": "Tue, 16 Dec 2025 23:00:05 GMT"
@@ -1883,6 +1867,24 @@
     {
       "title": "Did DOJ Prosecutors Violate Trump\u2019s Executive Order by Selling the Forfeited Samourai Wallet Bitcoin? - Bitcoin Magazine",
       "pubDate": "Mon, 05 Jan 2026 19:03:31 GMT"
+    }
+  ],
+  "Geopolitics": [
+    {
+      "title": "Trump\u2019s \u201cAttack\u201d On BRICS: U.S. Raid On Venezuela Crushes Maduro; Are Colombia, Cuba & The Global South \u201cNext Targets\u201d? - EurAsian Times",
+      "pubDate": "Tue, 06 Jan 2026 10:09:41 GMT"
+    }
+  ],
+  "United States": [
+    {
+      "title": "After Venezuela, Trump\u2019s cartel threats put Mexico on edge - Politico",
+      "pubDate": "Tue, 06 Jan 2026 10:55:00 GMT"
+    }
+  ],
+  "AI Ethics": [
+    {
+      "title": "The commitments proposed by DeepSeek's joint owners consist of a package of measures aimed at improving disclosures about the risk of AI 'hallucinations' - facebook.com",
+      "pubDate": "Tue, 06 Jan 2026 05:07:00 GMT"
     }
   ]
 }
