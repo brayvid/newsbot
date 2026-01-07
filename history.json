@@ -63,6 +63,10 @@
     {
       "title": "Microsoft CEO Satya Nadella Says AI Bottleneck is Now Electricity Not GPUs Due to Data Center Power Needs - Technetbook",
       "pubDate": "Sun, 04 Jan 2026 23:08:00 GMT"
+    },
+    {
+      "title": "Elon Musk's xAI raises $20 billion from investors including Nvidia, Cisco, Fidelity - CNBC",
+      "pubDate": "Tue, 06 Jan 2026 20:20:48 GMT"
     }
   ],
   "Israel": [
@@ -471,6 +475,10 @@
     {
       "title": "AI Safety Window Is Closing as Systems Advance Faster Than Controls, Warns ARIA Expert - CXO Digitalpulse",
       "pubDate": "Mon, 05 Jan 2026 04:44:48 GMT"
+    },
+    {
+      "title": "The AI Bioweapon Demo That Caused Alarm in Washington - Time Magazine",
+      "pubDate": "Tue, 06 Jan 2026 15:07:25 GMT"
     }
   ],
   "Data Breach": [
@@ -622,10 +630,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Touring the Strip, IDF chief Zamir says Gaza ceasefire line \u2018a new border\u2019 - The Times of Israel",
-      "pubDate": "Sun, 07 Dec 2025 16:41:37 GMT"
-    },
     {
       "title": "Israel's PM says second phase of Gaza peace plan is close - BBC",
       "pubDate": "Mon, 08 Dec 2025 16:05:47 GMT"
@@ -877,10 +881,6 @@
   ],
   "North Korea": [
     {
-      "title": "Russia deepens reliance on North Korea and China for drone production and war support - Odessa Journal",
-      "pubDate": "Sun, 07 Dec 2025 17:44:12 GMT"
-    },
-    {
       "title": "North Korea: Kim Jong-Un Pays Tribute to Father at Kumsusan Palace - WION",
       "pubDate": "Wed, 17 Dec 2025 16:34:00 GMT"
     },
@@ -961,6 +961,10 @@
     {
       "title": "What to know about the protests now shaking Iran as tensions remain high over its nuclear program - AP News",
       "pubDate": "Mon, 05 Jan 2026 02:27:00 GMT"
+    },
+    {
+      "title": "Iran anti-government protests spread to majority of provinces, videos show - BBC",
+      "pubDate": "Tue, 06 Jan 2026 15:35:23 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1066,10 +1070,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Chernobyl radiation shield 'lost safety function' after drone strike, UN watchdog says - BBC",
-      "pubDate": "Sun, 07 Dec 2025 12:09:01 GMT"
-    },
     {
       "title": "Russia says Ukraine launched major drone attack, including on Moscow - Reuters",
       "pubDate": "Thu, 11 Dec 2025 05:58:00 GMT"
@@ -1247,10 +1247,6 @@
   ],
   "Amazon": [
     {
-      "title": "More than 200,000 power banks sold on Amazon recalled over fire and burn risks - CBS News",
-      "pubDate": "Sun, 07 Dec 2025 16:01:03 GMT"
-    },
-    {
       "title": "OpenAI in talks with Amazon about investment that could exceed $10 billion - CNBC",
       "pubDate": "Wed, 17 Dec 2025 04:42:00 GMT"
     },
@@ -1264,10 +1260,6 @@
     }
   ],
   "Privacy": [
-    {
-      "title": "AI anxiety drives consumer privacy fears as data trust reaches crisis point - PPC Land",
-      "pubDate": "Sun, 07 Dec 2025 20:42:11 GMT"
-    },
     {
       "title": "Apple fined $115M in Italy over app store privacy rules - Chicago Star Media",
       "pubDate": "Sun, 28 Dec 2025 16:42:00 GMT"
@@ -1342,10 +1334,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "Kellogg claims Ukraine peace deal close, with Donetsk, Zaporizhzhia nuclear power plant key sticking points - The Kyiv Independent",
-      "pubDate": "Sun, 07 Dec 2025 12:12:48 GMT"
-    },
     {
       "title": "India to Open Nuclear Power to Private Investment in $214 Billion Push - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Mon, 08 Dec 2025 12:30:00 GMT"
@@ -1495,6 +1483,10 @@
     {
       "title": "Massachusetts Public Health Officials alert residents about potential exposure to measles in multiple locations as cases increase nationwide - Fall River Reporter",
       "pubDate": "Sat, 27 Dec 2025 01:54:39 GMT"
+    },
+    {
+      "title": "Medical Experts Warn Federal Rollback of Childhood Vaccine Schedule Puts Children at Risk - Infectious Disease Special Edition",
+      "pubDate": "Tue, 06 Jan 2026 22:15:55 GMT"
     }
   ],
   "Large Language Models": [
@@ -1515,12 +1507,6 @@
     {
       "title": "New Pentagon Maps Show the Reach of China's Expanding Missile Force - Business Insider",
       "pubDate": "Tue, 30 Dec 2025 20:55:00 GMT"
-    }
-  ],
-  "Money": [
-    {
-      "title": "Revealed: Hamas Money Laundering Network In Turkey Linked To Iran - i24NEWS",
-      "pubDate": "Sun, 07 Dec 2025 16:20:11 GMT"
     }
   ],
   "NVIDIA": [
@@ -1885,6 +1871,18 @@
     {
       "title": "The commitments proposed by DeepSeek's joint owners consist of a package of measures aimed at improving disclosures about the risk of AI 'hallucinations' - facebook.com",
       "pubDate": "Tue, 06 Jan 2026 05:07:00 GMT"
+    }
+  ],
+  "Space Exploration": [
+    {
+      "title": "NASA's 1st human moon mission in 50 years could be month out. What to know - USA Today",
+      "pubDate": "Tue, 06 Jan 2026 19:10:00 GMT"
+    }
+  ],
+  "Financial Markets": [
+    {
+      "title": "Stock market today: Dow crosses 49,000, S&P 500 jumps to new high in record-setting start to year - Yahoo Finance",
+      "pubDate": "Tue, 06 Jan 2026 21:42:17 GMT"
     }
   ]
 }
