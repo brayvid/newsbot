@@ -393,6 +393,10 @@
     {
       "title": "US strike on Venezuela to embolden China's territorial claims, Taiwan attack unlikely, analysts say - Reuters",
       "pubDate": "Sun, 04 Jan 2026 09:30:57 GMT"
+    },
+    {
+      "title": "China bans export of dual-use items to Japan amid tensions over Taiwan - Al Jazeera",
+      "pubDate": "Wed, 07 Jan 2026 05:29:57 GMT"
     }
   ],
   "AI Safety": [
@@ -479,6 +483,10 @@
     {
       "title": "The AI Bioweapon Demo That Caused Alarm in Washington - Time Magazine",
       "pubDate": "Tue, 06 Jan 2026 15:07:25 GMT"
+    },
+    {
+      "title": "US Senator pushes four-year ban on AI toys for child safety - Tech in Asia",
+      "pubDate": "Wed, 07 Jan 2026 01:29:00 GMT"
     }
   ],
   "Data Breach": [
@@ -513,6 +521,10 @@
     {
       "title": "Manage My Health data breach ransom deadline arrives - RNZ",
       "pubDate": "Mon, 05 Jan 2026 15:59:51 GMT"
+    },
+    {
+      "title": "Canadian fugitive arrested in Spain over major Desjardins data leak - Global News",
+      "pubDate": "Tue, 06 Jan 2026 19:46:25 GMT"
     }
   ],
   "Cybersecurity": [
@@ -613,6 +625,10 @@
     {
       "title": "Canada has just broken a world record in nuclear fusion, and the number of neutrons has put the entire energy industry on alert - ECOticias.com",
       "pubDate": "Mon, 05 Jan 2026 20:43:00 GMT"
+    },
+    {
+      "title": "Commonwealth Fusion Systems Accelerates Commercial Fusion With Siemens and Nvidia, Leveraging AI-Powered Digital Twins - Commonwealth Fusion Systems",
+      "pubDate": "Tue, 06 Jan 2026 18:01:55 GMT"
     }
   ],
   "OpenAI": [
@@ -1205,6 +1221,10 @@
     {
       "title": "Global study reveals massive hidden health burden from violence against women and children - News-Medical",
       "pubDate": "Wed, 10 Dec 2025 01:41:00 GMT"
+    },
+    {
+      "title": "Simple change in sepsis treatment could save thousands of lives - UVA Today",
+      "pubDate": "Tue, 06 Jan 2026 19:10:38 GMT"
     }
   ],
   "Terrorism": [
@@ -1883,6 +1903,12 @@
     {
       "title": "Stock market today: Dow crosses 49,000, S&P 500 jumps to new high in record-setting start to year - Yahoo Finance",
       "pubDate": "Tue, 06 Jan 2026 21:42:17 GMT"
+    }
+  ],
+  "Astronomy": [
+    {
+      "title": "Hubble telescope discovers a new type of cosmic object and astronomers are on 'Cloud 9' - Space",
+      "pubDate": "Tue, 06 Jan 2026 19:00:00 GMT"
     }
   ]
 }
