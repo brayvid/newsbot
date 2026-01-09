@@ -225,6 +225,10 @@
     {
       "title": "Russia attacks Ukraine with a new ballistic missile - NBC News",
       "pubDate": "Fri, 09 Jan 2026 17:28:53 GMT"
+    },
+    {
+      "title": "Russia Says It Used Nuclear-Capable Missile to Strike Western Ukraine - The New York Times",
+      "pubDate": "Fri, 09 Jan 2026 19:59:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -291,6 +295,10 @@
     {
       "title": "Trump Says U.S. Oversight of Venezuela Could Last for Years - The New York Times",
       "pubDate": "Thu, 08 Jan 2026 07:27:27 GMT"
+    },
+    {
+      "title": "Trump says US will 'do something on Greenland whether they like it or not' - NBC News",
+      "pubDate": "Fri, 09 Jan 2026 23:15:54 GMT"
     }
   ],
   "China": [
@@ -557,6 +565,10 @@
     {
       "title": "The U.S. economy has slowed this year. Here's what to expect in the New Year - WFAA",
       "pubDate": "Sun, 28 Dec 2025 14:38:29 GMT"
+    },
+    {
+      "title": "U.S. economy adds 50,000 jobs in December, unemployment rate at 4.4% - NBC News",
+      "pubDate": "Fri, 09 Jan 2026 14:16:11 GMT"
     }
   ],
   "Earthquakes": [
@@ -791,6 +803,10 @@
     {
       "title": "2025 in Review: U.S. Billion-Dollar Disasters - Climate Central",
       "pubDate": "Fri, 09 Jan 2026 11:45:39 GMT"
+    },
+    {
+      "title": "Trump pulls US out of another major UN climate treaty - Chemical & Engineering News",
+      "pubDate": "Fri, 09 Jan 2026 19:12:56 GMT"
     }
   ],
   "FBI": [
@@ -937,6 +953,10 @@
     {
       "title": "Iran anti-government protests spread to majority of provinces, videos show - BBC",
       "pubDate": "Tue, 06 Jan 2026 15:35:23 GMT"
+    },
+    {
+      "title": "Live updates: Anti-government protests spread in Iran as authorities cut communications - CNN",
+      "pubDate": "Fri, 09 Jan 2026 23:08:00 GMT"
     }
   ],
   "US Supreme Court": [
@@ -999,6 +1019,10 @@
     {
       "title": "FBI, CISA Warn iPhone Users of iMessage Hacks and $260M Scams - WebProNews",
       "pubDate": "Tue, 30 Dec 2025 14:31:34 GMT"
+    },
+    {
+      "title": "10 emergency directives retired as CISA declares them redundant - TechRadar",
+      "pubDate": "Fri, 09 Jan 2026 19:10:00 GMT"
     }
   ],
   "World News": [
@@ -1871,6 +1895,12 @@
     {
       "title": "Donald Trump to meet oil executives over $100bn Venezuela investment - Financial Times",
       "pubDate": "Fri, 09 Jan 2026 16:39:58 GMT"
+    }
+  ],
+  "US Senate": [
+    {
+      "title": "Senate advances war powers resolution to rein in Trump on Venezuela - abcnews.go.com",
+      "pubDate": "Fri, 09 Jan 2026 22:50:03 GMT"
     }
   ]
 }
