@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "HHS Releases Strategy Positioning Artificial Intelligence the Core of Health Innovation | Insights - Holland & Knight",
-      "pubDate": "Wed, 10 Dec 2025 17:14:01 GMT"
-    },
-    {
       "title": "Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans - The Wall Street Journal",
       "pubDate": "Thu, 11 Dec 2025 21:15:00 GMT"
     },
@@ -81,6 +77,10 @@
     {
       "title": "Israel launches deadly strikes in Gaza in new ceasefire violations - Al Jazeera",
       "pubDate": "Sun, 04 Jan 2026 22:41:15 GMT"
+    },
+    {
+      "title": "Israel\u2019s F-35 Veto: How Tel Aviv\u2019s Opposition Could Block a US Sale to T\u00fcrkiye - Military.com",
+      "pubDate": "Fri, 09 Jan 2026 17:22:00 GMT"
     }
   ],
   "Ukraine": [
@@ -163,10 +163,6 @@
   ],
   "Russia": [
     {
-      "title": "Zelenskyy warns Russia, China stepping up military-industrial cooperation - Al Jazeera",
-      "pubDate": "Wed, 10 Dec 2025 16:08:23 GMT"
-    },
-    {
       "title": "Ukraine\u2019s gloves are off in its energy war with Russia. How much can it increase the pressure? - CNN",
       "pubDate": "Thu, 11 Dec 2025 13:56:25 GMT"
     },
@@ -225,6 +221,10 @@
     {
       "title": "Ukraine war briefing: Russia makes biggest battleground gains since first year of war, analysis shows - The Guardian",
       "pubDate": "Sat, 03 Jan 2026 02:46:00 GMT"
+    },
+    {
+      "title": "Russia attacks Ukraine with a new ballistic missile - NBC News",
+      "pubDate": "Fri, 09 Jan 2026 17:28:53 GMT"
     }
   ],
   "Donald Trump": [
@@ -294,10 +294,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China will destroy US military in fight over Taiwan, top secret document warns - The Telegraph",
-      "pubDate": "Wed, 10 Dec 2025 16:38:00 GMT"
-    },
     {
       "title": "US bombers join Japanese jets in show of force after China-Russia drills, Tokyo says - Reuters",
       "pubDate": "Thu, 11 Dec 2025 07:50:00 GMT"
@@ -619,10 +615,6 @@
   ],
   "Gaza": [
     {
-      "title": "LIVE: Hundreds of thousands at risk in Gaza as Storm Byron looms - Al Jazeera",
-      "pubDate": "Wed, 10 Dec 2025 17:26:15 GMT"
-    },
-    {
       "title": "LIVE: Baby dies in flooded Gaza tent; Israeli attack kills woman in Jabalia - Al Jazeera",
       "pubDate": "Thu, 11 Dec 2025 11:08:48 GMT"
     },
@@ -701,6 +693,10 @@
     {
       "title": "Poverty, unemployment skyrocket in the Gaza Strip after Israel\u2019s war - Al Jazeera",
       "pubDate": "Sun, 04 Jan 2026 07:12:30 GMT"
+    },
+    {
+      "title": "Israeli strikes kill 11 in Gaza after failed rocket launch - Reuters",
+      "pubDate": "Fri, 09 Jan 2026 06:27:00 GMT"
     }
   ],
   "Climate Change": [
@@ -1397,6 +1393,10 @@
     {
       "title": "BRICS and forced labor: How Russia is exploiting an international economic bloc in its crusade against Ukraine - The Hill",
       "pubDate": "Thu, 25 Dec 2025 14:00:00 GMT"
+    },
+    {
+      "title": "Chinese, Russian and Iranian warships arrive in South Africa for naval drills as tensions run high - abcnews.go.com",
+      "pubDate": "Fri, 09 Jan 2026 13:20:07 GMT"
     }
   ],
   "Information Security": [
@@ -1521,6 +1521,10 @@
     {
       "title": "China Developing Options to Threaten Taiwan With \u2018Brute Force,\u2019 Pentagon Says - The Wall Street Journal",
       "pubDate": "Thu, 25 Dec 2025 02:36:00 GMT"
+    },
+    {
+      "title": "The US military's annual suicide report is missing, and the Pentagon isn't offering any answers - Business Insider",
+      "pubDate": "Fri, 09 Jan 2026 13:45:00 GMT"
     }
   ],
   "Engineering": [
@@ -1855,6 +1859,18 @@
     {
       "title": "German President\u2019s sharp critique of US foreign policy reflects Europe\u2019s growing concern over fears of a US-driven \u201cmight-makes-right\u201d order: experts - Global Times",
       "pubDate": "Fri, 09 Jan 2026 09:00:00 GMT"
+    }
+  ],
+  "Internet": [
+    {
+      "title": "Iran pulls internet access as protests surge nationwide - USA Today",
+      "pubDate": "Fri, 09 Jan 2026 15:31:17 GMT"
+    }
+  ],
+  "Investment": [
+    {
+      "title": "Donald Trump to meet oil executives over $100bn Venezuela investment - Financial Times",
+      "pubDate": "Fri, 09 Jan 2026 16:39:58 GMT"
     }
   ]
 }
