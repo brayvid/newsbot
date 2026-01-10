@@ -229,6 +229,10 @@
     {
       "title": "Russia Says It Used Nuclear-Capable Missile to Strike Western Ukraine - The New York Times",
       "pubDate": "Fri, 09 Jan 2026 19:59:00 GMT"
+    },
+    {
+      "title": "Governor of Russia's Belgorod region says 600,000 without power, heat, or water after Ukrainian strike - Reuters",
+      "pubDate": "Sat, 10 Jan 2026 10:07:35 GMT"
     }
   ],
   "Donald Trump": [
@@ -302,10 +306,6 @@
     }
   ],
   "China": [
-    {
-      "title": "US bombers join Japanese jets in show of force after China-Russia drills, Tokyo says - Reuters",
-      "pubDate": "Thu, 11 Dec 2025 07:50:00 GMT"
-    },
     {
       "title": "China Has Reasons to Say 'No Thanks' to Trump's AI Chip Offer - Bloomberg.com",
       "pubDate": "Fri, 12 Dec 2025 05:09:00 GMT"
@@ -479,6 +479,10 @@
     {
       "title": "Watch. India cracks down on AI chatbot Grok: Deepfake and AI safety risks explained - BusinessLine",
       "pubDate": "Fri, 09 Jan 2026 11:01:44 GMT"
+    },
+    {
+      "title": "OpenAI and Common Sense Media Partner on New Kids AI Safety Ballot Measure - KQED",
+      "pubDate": "Sat, 10 Jan 2026 00:36:03 GMT"
     }
   ],
   "Data Breach": [
@@ -517,10 +521,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Exclusive: Future OpenAI models likely to pose \"high\" cybersecurity risk, it says - Axios",
-      "pubDate": "Thu, 11 Dec 2025 07:23:18 GMT"
-    },
-    {
       "title": "Cybersecurity Snapshot: OWASP Ranks Top Agentic AI App Risks, as CISA Lists Most Dangerous Software Flaws - Security Boulevard",
       "pubDate": "Sat, 13 Dec 2025 07:48:30 GMT"
     },
@@ -547,6 +547,10 @@
     {
       "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands - The Hacker News",
       "pubDate": "Tue, 06 Jan 2026 05:08:00 GMT"
+    },
+    {
+      "title": "House Hearing to Focus on Bills to Bolster Energy Sector Cybersecurity (Jan 9, 2026) - VitalLaw.com",
+      "pubDate": "Sat, 10 Jan 2026 02:32:18 GMT"
     }
   ],
   "US Economy": [
@@ -627,10 +631,6 @@
   ],
   "Gaza": [
     {
-      "title": "LIVE: Baby dies in flooded Gaza tent; Israeli attack kills woman in Jabalia - Al Jazeera",
-      "pubDate": "Thu, 11 Dec 2025 11:08:48 GMT"
-    },
-    {
       "title": "Israel says it kills senior Hamas commander Raed Saed in Gaza - Reuters",
       "pubDate": "Sat, 13 Dec 2025 16:39:08 GMT"
     },
@@ -709,6 +709,10 @@
     {
       "title": "Israeli strikes kill 11 in Gaza after failed rocket launch - Reuters",
       "pubDate": "Fri, 09 Jan 2026 06:27:00 GMT"
+    },
+    {
+      "title": "Israel and Hamas Get Ready to Go Back to War in Gaza - The Wall Street Journal",
+      "pubDate": "Sat, 10 Jan 2026 08:33:00 GMT"
     }
   ],
   "Climate Change": [
@@ -807,6 +811,10 @@
     {
       "title": "Trump pulls US out of another major UN climate treaty - Chemical & Engineering News",
       "pubDate": "Fri, 09 Jan 2026 19:12:56 GMT"
+    },
+    {
+      "title": "Climate Change Threatens Way of Life for Native American Tribes in Pacific Northwest - The New York Times",
+      "pubDate": "Sat, 10 Jan 2026 10:01:04 GMT"
     }
   ],
   "FBI": [
@@ -903,6 +911,10 @@
     {
       "title": "New evidence points to North Korean factory\u2019s role in making long-range missiles - NK News",
       "pubDate": "Fri, 09 Jan 2026 08:48:04 GMT"
+    },
+    {
+      "title": "North Korea vows response as it accuses the South of flying drones across the border - abcnews.go.com",
+      "pubDate": "Sat, 10 Jan 2026 05:15:24 GMT"
     }
   ],
   "Iran": [
@@ -967,13 +979,13 @@
     {
       "title": "Drug-User Gun Ban Set for US Supreme Court Argument in March - Bloomberg Law News",
       "pubDate": "Fri, 02 Jan 2026 17:51:00 GMT"
+    },
+    {
+      "title": "US Supreme Court's Next Transgender Rights Battle Could Affect More Than Sports - U.S. News & World Report",
+      "pubDate": "Sat, 10 Jan 2026 11:13:44 GMT"
     }
   ],
   "Climate": [
-    {
-      "title": "Shell facing first UK legal claim over climate impacts of fossil fuels - BBC",
-      "pubDate": "Thu, 11 Dec 2025 00:20:34 GMT"
-    },
     {
       "title": "Philippines Typhoon Survivors Sue Shell Over Its Role in Climate Change - The Wall Street Journal",
       "pubDate": "Thu, 11 Dec 2025 16:18:00 GMT"
@@ -1051,10 +1063,6 @@
   ],
   "Drones": [
     {
-      "title": "Russia says Ukraine launched major drone attack, including on Moscow - Reuters",
-      "pubDate": "Thu, 11 Dec 2025 05:58:00 GMT"
-    },
-    {
       "title": "Six U.N. Peacekeepers Killed in Drone Strike in Sudanese Battle Zone - The New York Times",
       "pubDate": "Sat, 13 Dec 2025 21:33:55 GMT"
     },
@@ -1110,10 +1118,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "DHS inks contract to create its own fleet of 737 jets for deportations - The Washington Post",
-      "pubDate": "Thu, 11 Dec 2025 01:09:26 GMT"
-    },
     {
       "title": "T.S.A. Is Providing Air Passenger Data to Immigration Agents for Deportation Effort - The New York Times",
       "pubDate": "Sat, 13 Dec 2025 19:01:00 GMT"
@@ -1431,10 +1435,6 @@
   ],
   "Technology": [
     {
-      "title": "Taiwan probes leaks of vital chip technology - Financial Times",
-      "pubDate": "Thu, 11 Dec 2025 05:00:33 GMT"
-    },
-    {
       "title": "Sen. Bernie Sanders warns AI is 'the most consequential technology in the history of humanity' - CNN",
       "pubDate": "Sun, 28 Dec 2025 15:58:37 GMT"
     }
@@ -1521,12 +1521,6 @@
     {
       "title": "US Senate advances war powers resolution to stop Trump from taking further military action in Venezuela - The Guardian",
       "pubDate": "Thu, 08 Jan 2026 11:00:00 GMT"
-    }
-  ],
-  "US Foreign Policy": [
-    {
-      "title": "US House passes bill to bolster Europe\u2019s defence, in apparent rebuke to Trump\u2019s foreign policy strategy - The Guardian",
-      "pubDate": "Thu, 11 Dec 2025 10:23:00 GMT"
     }
   ],
   "The Pentagon": [
