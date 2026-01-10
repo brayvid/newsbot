@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Exclusive | AI Hackers Are Coming Dangerously Close to Beating Humans - The Wall Street Journal",
-      "pubDate": "Thu, 11 Dec 2025 21:15:00 GMT"
-    },
-    {
       "title": "Militant groups are experimenting with AI, and the risks are expected to grow - 10tv.com",
       "pubDate": "Mon, 15 Dec 2025 05:07:00 GMT"
     },
@@ -163,13 +159,13 @@
     {
       "title": "Ukraine Hits Another Shadow Fleet Tanker Off Turkish Coast - navalnews.com",
       "pubDate": "Thu, 08 Jan 2026 17:10:22 GMT"
+    },
+    {
+      "title": "Russia hits Ukraine with Oreshnik hypersonic missile: Why it matters - Al Jazeera",
+      "pubDate": "Sat, 10 Jan 2026 12:52:33 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "We must prepare for war with Russia, says Nato chief in stark new warning - BBC",
-      "pubDate": "Thu, 11 Dec 2025 19:16:09 GMT"
-    },
     {
       "title": "One million households without electricity in Ukraine after Russian strikes - BBC",
       "pubDate": "Sat, 13 Dec 2025 12:43:16 GMT"
@@ -397,10 +393,6 @@
   ],
   "AI Safety": [
     {
-      "title": "US State Attorneys General Demand Greater AI Safety From Tech Giants - AI Business",
-      "pubDate": "Thu, 11 Dec 2025 18:52:38 GMT"
-    },
-    {
       "title": "Anthropic's Chief Scientist Says We're Rapidly Approaching the Moment That Could Doom Us All - Futurism",
       "pubDate": "Sat, 13 Dec 2025 12:30:00 GMT"
     },
@@ -573,6 +565,10 @@
     {
       "title": "U.S. economy adds 50,000 jobs in December, unemployment rate at 4.4% - NBC News",
       "pubDate": "Fri, 09 Jan 2026 14:16:11 GMT"
+    },
+    {
+      "title": "Job Gains Cooled in December, Capping Year of Weak Hiring - WSJ - The Wall Street Journal",
+      "pubDate": "Sat, 10 Jan 2026 19:00:29 GMT"
     }
   ],
   "Earthquakes": [
@@ -616,10 +612,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI launches GPT-5.2 after 'code red' push to counter Google's Gemini 3 - Reuters",
-      "pubDate": "Thu, 11 Dec 2025 21:24:03 GMT"
-    },
     {
       "title": "OpenAI\u2019s Child Exploitation Reports Increased Sharply This Year - WIRED",
       "pubDate": "Mon, 22 Dec 2025 16:32:00 GMT"
@@ -717,6 +709,10 @@
     {
       "title": "Extreme cold kills another infant in Gaza as Israel blocks vital aid - Al Jazeera",
       "pubDate": "Sat, 10 Jan 2026 12:56:53 GMT"
+    },
+    {
+      "title": "Israel planning new Gaza City offensive in March, but will need green-light from Trump \u2014 officials - The Times of Israel",
+      "pubDate": "Sat, 10 Jan 2026 20:06:18 GMT"
     }
   ],
   "Climate Change": [
@@ -867,6 +863,10 @@
     {
       "title": "Russia throws wrench in peace negotiations in blaming Ukraine for attack - The Hill",
       "pubDate": "Tue, 30 Dec 2025 23:39:00 GMT"
+    },
+    {
+      "title": "Lithium Has Become a National Security Priority for the United States - Crude Oil Prices Today | OilPrice.com",
+      "pubDate": "Sat, 10 Jan 2026 16:00:00 GMT"
     }
   ],
   "North Korea": [
@@ -1219,6 +1219,10 @@
     {
       "title": "Lone actors and groups driven by ideology are \u2018most significant terrorism threat\u2019 to New Year\u2019s celebrations, report says - CNN",
       "pubDate": "Tue, 30 Dec 2025 22:34:17 GMT"
+    },
+    {
+      "title": "U.S. airstrikes hit ISIS targets in Syria, officials say - CBS News",
+      "pubDate": "Sat, 10 Jan 2026 21:29:00 GMT"
     }
   ],
   "Amazon": [
@@ -1889,6 +1893,10 @@
     {
       "title": "Iran pulls internet access as protests surge nationwide - USA Today",
       "pubDate": "Fri, 09 Jan 2026 15:31:17 GMT"
+    },
+    {
+      "title": "Live updates: Dozens reported killed during Iran protests as internet blackout persists - CNN",
+      "pubDate": "Sat, 10 Jan 2026 23:31:00 GMT"
     }
   ],
   "Investment": [
@@ -1901,6 +1909,12 @@
     {
       "title": "Senate advances war powers resolution to rein in Trump on Venezuela - abcnews.go.com",
       "pubDate": "Fri, 09 Jan 2026 22:50:03 GMT"
+    }
+  ],
+  "Elon Musk": [
+    {
+      "title": "Indonesia becomes the first country to suspend Elon Musk's Grok for generating 'non-consensual sexual deepfakes' - Business Insider",
+      "pubDate": "Sat, 10 Jan 2026 20:06:00 GMT"
     }
   ]
 }
