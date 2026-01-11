@@ -303,6 +303,10 @@
     {
       "title": "Trump says US will 'do something on Greenland whether they like it or not' - NBC News",
       "pubDate": "Fri, 09 Jan 2026 23:15:54 GMT"
+    },
+    {
+      "title": "Smithsonian removes Trump impeachment text as it swaps his portrait - The Washington Post",
+      "pubDate": "Sun, 11 Jan 2026 06:26:11 GMT"
     }
   ],
   "China": [
@@ -823,6 +827,10 @@
     {
       "title": "Climate Change Threatens Way of Life for Native American Tribes in Pacific Northwest - The New York Times",
       "pubDate": "Sat, 10 Jan 2026 10:01:04 GMT"
+    },
+    {
+      "title": "Climate change has now shrunk US salaries by 12%. And worse is to come - BBC Science Focus Magazine",
+      "pubDate": "Sun, 11 Jan 2026 10:00:00 GMT"
     }
   ],
   "FBI": [
@@ -1839,6 +1847,10 @@
     {
       "title": "Israel fighting to keep up in quantum computing arms race - The Jerusalem Post",
       "pubDate": "Mon, 05 Jan 2026 18:01:43 GMT"
+    },
+    {
+      "title": "Are quantum computers finally becoming useful? - Financial Times",
+      "pubDate": "Sun, 11 Jan 2026 05:00:25 GMT"
     }
   ],
   "AI & Infrastructure": [
@@ -1931,6 +1943,18 @@
     {
       "title": "Indonesia becomes the first country to suspend Elon Musk's Grok for generating 'non-consensual sexual deepfakes' - Business Insider",
       "pubDate": "Sat, 10 Jan 2026 20:06:00 GMT"
+    }
+  ],
+  "AI Alignment": [
+    {
+      "title": "OpenAI training its next-gen AI models on real-world tasks by contractors: Report - The Indian Express",
+      "pubDate": "Sun, 11 Jan 2026 07:11:08 GMT"
+    }
+  ],
+  "Electric Vehicle": [
+    {
+      "title": "BYD overtakes Tesla as the world\u2019s largest EV manufacturer - New Atlas",
+      "pubDate": "Sun, 11 Jan 2026 03:05:36 GMT"
     }
   ]
 }
