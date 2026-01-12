@@ -97,10 +97,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine says Russian drone attack hit civilian Turkish vessel - Reuters",
-      "pubDate": "Sat, 13 Dec 2025 17:09:46 GMT"
-    },
-    {
       "title": "Zelenskyy says US talks \u2018not easy\u2019 but \u2018productive\u2019 as he prepares to meet European leaders in Berlin \u2013 Europe live - The Guardian",
       "pubDate": "Mon, 15 Dec 2025 09:50:00 GMT"
     },
@@ -182,10 +178,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "One million households without electricity in Ukraine after Russian strikes - BBC",
-      "pubDate": "Sat, 13 Dec 2025 12:43:16 GMT"
-    },
     {
       "title": "Russia seeks $230bn in damages from Euroclear over seized assets - The Guardian",
       "pubDate": "Mon, 15 Dec 2025 12:59:00 GMT"
@@ -421,10 +413,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Anthropic's Chief Scientist Says We're Rapidly Approaching the Moment That Could Doom Us All - Futurism",
-      "pubDate": "Sat, 13 Dec 2025 12:30:00 GMT"
-    },
-    {
       "title": "There\u2019s a storm gathering over AI regulation - Morning Brew",
       "pubDate": "Mon, 15 Dec 2025 05:02:35 GMT"
     },
@@ -658,10 +646,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel says it kills senior Hamas commander Raed Saed in Gaza - Reuters",
-      "pubDate": "Sat, 13 Dec 2025 16:39:08 GMT"
-    },
     {
       "title": "Israel kills Hamas leader in Gaza, challenging fragile truce - The Washington Post",
       "pubDate": "Sun, 14 Dec 2025 17:35:16 GMT"
@@ -1067,10 +1051,6 @@
   ],
   "Cybersecurity and Infrastructure Security Agency": [
     {
-      "title": "CISA Warns of Google Chromium 0-Day Vulnerability Exploited in Attacks - CybersecurityNews",
-      "pubDate": "Sat, 13 Dec 2025 13:00:57 GMT"
-    },
-    {
       "title": "CISA Adds CVE-2018-4063 to Exploited Vulnerabilities Amid Active Router Attacks - WebProNews",
       "pubDate": "Sat, 13 Dec 2025 23:07:30 GMT"
     },
@@ -1125,6 +1105,10 @@
     {
       "title": "China Accuses U.S. Of Hacking $15B Bitcoin From Alleged Scam Kingpin Chen Zhi - Yellow.com",
       "pubDate": "Mon, 12 Jan 2026 04:00:45 GMT"
+    },
+    {
+      "title": "Hacking hub BreachForums hit by data breach - 324,000 accounts exposed - TechRadar",
+      "pubDate": "Mon, 12 Jan 2026 17:10:00 GMT"
     }
   ],
   "Drones": [
@@ -1255,6 +1239,10 @@
     {
       "title": "US labor share of income falls to lowest on record; 2025 jobs figures weakest outside of official recession since 2003 - World Socialist Web Site",
       "pubDate": "Sat, 10 Jan 2026 06:05:20 GMT"
+    },
+    {
+      "title": "Federal Reserve rate cuts aimed at preventing full economic recession amid rising jobless claims - MSN",
+      "pubDate": "Mon, 12 Jan 2026 12:52:42 GMT"
     }
   ],
   "Global Health": [
@@ -1323,6 +1311,10 @@
     {
       "title": "Indiana, Kentucky, and Rhode Island Enforce New Privacy Laws - Bloomberg Law News",
       "pubDate": "Mon, 29 Dec 2025 10:00:00 GMT"
+    },
+    {
+      "title": "New York\u2019s governor vetoes popular health data privacy bill - Healthcare Brew",
+      "pubDate": "Mon, 12 Jan 2026 16:40:55 GMT"
     }
   ],
   "SpaceX": [
@@ -1363,12 +1355,6 @@
       "pubDate": "Tue, 06 Jan 2026 01:12:02 GMT"
     }
   ],
-  "Apple": [
-    {
-      "title": "Apple Confirms iPhone Attacks\u2014All Users Must Update Now - Forbes",
-      "pubDate": "Sat, 13 Dec 2025 15:26:14 GMT"
-    }
-  ],
   "Renewable Energy": [
     {
       "title": "Massive Solar Plus Storage Facility To Replace Both Coal And Natural Gas - CleanTechnica",
@@ -1386,10 +1372,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "Google Data Centers Are Returning Nuclear Power to Tornado Country - WIRED",
-      "pubDate": "Sat, 13 Dec 2025 12:00:00 GMT"
-    },
     {
       "title": "Google, NextEra to Revive Iowa Nuclear Plant for AI Data Centers - WebProNews",
       "pubDate": "Sat, 13 Dec 2025 23:50:41 GMT"
@@ -1473,6 +1455,10 @@
     {
       "title": "Meta Unveils Sweeping Nuclear-Power Plan to Fuel Its AI Ambitions - The Wall Street Journal",
       "pubDate": "Fri, 09 Jan 2026 11:00:00 GMT"
+    },
+    {
+      "title": "Hochul ratchets up nuclear plans, aims to lead U.S. in building new power reactors - Syracuse.com",
+      "pubDate": "Mon, 12 Jan 2026 13:17:00 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1602,10 +1588,6 @@
     }
   ],
   "The Pentagon": [
-    {
-      "title": "Two U.S. soldiers, one interpreter killed in Syria, Pentagon says - USA Today",
-      "pubDate": "Sat, 13 Dec 2025 17:09:00 GMT"
-    },
     {
       "title": "Pentagon fails its 8th audit in a row - Task & Purpose",
       "pubDate": "Sat, 20 Dec 2025 19:25:33 GMT"
@@ -2013,6 +1995,10 @@
     {
       "title": "OpenAI training its next-gen AI models on real-world tasks by contractors: Report - The Indian Express",
       "pubDate": "Sun, 11 Jan 2026 07:11:08 GMT"
+    },
+    {
+      "title": "Microsoft AI chief warns world risks losing control in AGI race - Communications Today",
+      "pubDate": "Mon, 12 Jan 2026 11:03:35 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -2031,6 +2017,12 @@
     {
       "title": "NASA won\u2019t bring back Mars sample - Yahoo",
       "pubDate": "Sun, 11 Jan 2026 22:19:29 GMT"
+    }
+  ],
+  "Alexandria Ocasio-Cortez": [
+    {
+      "title": "Mamdani, AOC denounce pro-Hamas chants outside Queens synagogue, with mayor using \u2018terrorist\u2019 label for first time - Jewish Telegraphic Agency",
+      "pubDate": "Mon, 12 Jan 2026 11:28:28 GMT"
     }
   ]
 }
