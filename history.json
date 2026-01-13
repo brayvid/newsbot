@@ -667,10 +667,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel kills Hamas leader in Gaza, challenging fragile truce - The Washington Post",
-      "pubDate": "Sun, 14 Dec 2025 17:35:16 GMT"
-    },
-    {
       "title": "Scoop: White House scolded Netanyahu for violating Gaza ceasefire with strike - Axios",
       "pubDate": "Mon, 15 Dec 2025 14:35:09 GMT"
     },
@@ -867,6 +863,10 @@
     {
       "title": "Global ocean heat hit its highest level on record in 2025 - Earth.com",
       "pubDate": "Mon, 12 Jan 2026 19:26:48 GMT"
+    },
+    {
+      "title": "Climate change presses on: Devastating wildfires and intense thunderstorms exacerbate losses for insurers - munichre.com",
+      "pubDate": "Tue, 13 Jan 2026 07:05:05 GMT"
     }
   ],
   "FBI": [
@@ -1361,6 +1361,10 @@
     {
       "title": "At the U.N., Even Allies Condemn U.S. Action in Venezuela - The New York Times",
       "pubDate": "Tue, 06 Jan 2026 01:12:02 GMT"
+    },
+    {
+      "title": "UN International Court of Justice to hear 1st genocide case in over a decade - NPR",
+      "pubDate": "Tue, 13 Jan 2026 11:50:52 GMT"
     }
   ],
   "Renewable Energy": [
@@ -2039,6 +2043,24 @@
     {
       "title": "Gemini will power Apple's Siri - Axios",
       "pubDate": "Tue, 13 Jan 2026 03:10:33 GMT"
+    }
+  ],
+  "Defense Intelligence Agency": [
+    {
+      "title": "US strikes may delay Iran nuclear program by months, sources reveal - The Sun Malaysia",
+      "pubDate": "Tue, 13 Jan 2026 10:11:06 GMT"
+    }
+  ],
+  "World Politics": [
+    {
+      "title": "Iran's Currency Hits 1.47 Million Per Dollar As Economic Crisis Fuels Uprising - International Business Times UK",
+      "pubDate": "Tue, 13 Jan 2026 06:11:00 GMT"
+    }
+  ],
+  "United States Constitution": [
+    {
+      "title": "Tariffs, AI, and the Golden Age of Executive Power - The Daily Economy",
+      "pubDate": "Tue, 13 Jan 2026 11:40:00 GMT"
     }
   ]
 }
