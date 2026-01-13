@@ -75,6 +75,10 @@
     {
       "title": "Apple Teams Up With Google for A.I. in Its Products - The New York Times",
       "pubDate": "Mon, 12 Jan 2026 20:09:59 GMT"
+    },
+    {
+      "title": "Microsoft warns that China is winning AI race outside the west - Financial Times",
+      "pubDate": "Tue, 13 Jan 2026 05:00:19 GMT"
     }
   ],
   "Israel": [
@@ -183,6 +187,10 @@
     {
       "title": "Inside Ukraine\u2019s Quest to Build a Missile to Strike Deep in Russian Territory - The Wall Street Journal",
       "pubDate": "Sun, 11 Jan 2026 03:00:00 GMT"
+    },
+    {
+      "title": "US slams Russia\u2019s \u2018dangerous escalation\u2019 in Ukraine amid new deadly strikes - Al Jazeera",
+      "pubDate": "Tue, 13 Jan 2026 04:19:20 GMT"
     }
   ],
   "Russia": [
@@ -322,10 +330,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Philippines says fishermen hurt, boat damaged in China coastguard skirmish - Al Jazeera",
-      "pubDate": "Sun, 14 Dec 2025 04:53:55 GMT"
-    },
     {
       "title": "Analyst warns China\u2019s Vanke on brink of default as bailout hopes fade - CNBC",
       "pubDate": "Mon, 15 Dec 2025 04:25:10 GMT"
@@ -499,6 +503,10 @@
     {
       "title": "OpenAI and Common Sense Media Partner on New Kids AI Safety Ballot Measure - KQED",
       "pubDate": "Sat, 10 Jan 2026 00:36:03 GMT"
+    },
+    {
+      "title": "UK to investigate Elon Musk\u2019s Grok over \u2018deeply concerning\u2019 deepfakes - Al Jazeera",
+      "pubDate": "Mon, 12 Jan 2026 18:38:46 GMT"
     }
   ],
   "Data Breach": [
@@ -753,10 +761,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Climate change impacts insurance in Iowa - KWQC",
-      "pubDate": "Sun, 14 Dec 2025 00:44:39 GMT"
-    },
-    {
       "title": "Risk To Amazon Rainforest From Land Use And Climate Change - Eurasia Review",
       "pubDate": "Sun, 14 Dec 2025 23:07:31 GMT"
     },
@@ -859,6 +863,10 @@
     {
       "title": "The Scientists Making Antacids for the Sea to Help Counter Global Warming - The New York Times",
       "pubDate": "Sun, 11 Jan 2026 19:36:00 GMT"
+    },
+    {
+      "title": "Global ocean heat hit its highest level on record in 2025 - Earth.com",
+      "pubDate": "Mon, 12 Jan 2026 19:26:48 GMT"
     }
   ],
   "FBI": [
@@ -1023,6 +1031,10 @@
     {
       "title": "Iran warns it will retaliate if US attacks, as hundreds killed in protests - BBC",
       "pubDate": "Sun, 11 Jan 2026 20:32:27 GMT"
+    },
+    {
+      "title": "Live updates: Iran \u2018prepared\u2019 for war but open to US talks as more than 500 reported killed in protests - CNN",
+      "pubDate": "Tue, 13 Jan 2026 03:28:00 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1593,12 +1605,6 @@
       "pubDate": "Fri, 09 Jan 2026 13:45:00 GMT"
     }
   ],
-  "Engineering": [
-    {
-      "title": "2 Killed, 8 Injured In Shooting During Final Exams At Brown University In US - NDTV",
-      "pubDate": "Sun, 14 Dec 2025 01:14:38 GMT"
-    }
-  ],
   "Zohran Mamdani": [
     {
       "title": "Zohran Mamdani Responds to Bondi Beach Attack: \u201cA Vile Act of Antisemitic Terror\u201d - La Voce di New York",
@@ -1827,6 +1833,10 @@
     {
       "title": "Federal Prosecutors Open Investigation Into Fed Chair Powell - The New York Times",
       "pubDate": "Mon, 12 Jan 2026 14:18:00 GMT"
+    },
+    {
+      "title": "Powell pushes back as Trump\u2019s DOJ launches unprecedented investigation into Fed - PBS",
+      "pubDate": "Mon, 12 Jan 2026 23:55:25 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -2023,6 +2033,12 @@
     {
       "title": "Mamdani, AOC denounce pro-Hamas chants outside Queens synagogue, with mayor using \u2018terrorist\u2019 label for first time - Jewish Telegraphic Agency",
       "pubDate": "Mon, 12 Jan 2026 11:28:28 GMT"
+    }
+  ],
+  "Apple": [
+    {
+      "title": "Gemini will power Apple's Siri - Axios",
+      "pubDate": "Tue, 13 Jan 2026 03:10:33 GMT"
     }
   ]
 }
