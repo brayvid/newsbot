@@ -71,6 +71,10 @@
     {
       "title": "Trump Administration Wants to Achieve \u2018Pax Silica\u2019 Through AI. Here\u2019s What That Means - Gizmodo",
       "pubDate": "Sun, 11 Jan 2026 22:14:40 GMT"
+    },
+    {
+      "title": "Apple Teams Up With Google for A.I. in Its Products - The New York Times",
+      "pubDate": "Mon, 12 Jan 2026 20:09:59 GMT"
     }
   ],
   "Israel": [
@@ -93,6 +97,10 @@
     {
       "title": "Israel\u2019s F-35 Veto: How Tel Aviv\u2019s Opposition Could Block a US Sale to T\u00fcrkiye - Military.com",
       "pubDate": "Fri, 09 Jan 2026 17:22:00 GMT"
+    },
+    {
+      "title": "IDF has demolished over 2,500 buildings in Gaza since start of ceasefire \u2013 report - The Times of Israel",
+      "pubDate": "Mon, 12 Jan 2026 22:03:10 GMT"
     }
   ],
   "Ukraine": [
@@ -248,10 +256,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Times Investigation: Ex-Trump DOJ lawyers say 'fraudulent' UC antisemitism probes led them to quit - Los Angeles Times",
-      "pubDate": "Sat, 13 Dec 2025 22:15:29 GMT"
-    },
     {
       "title": "Trump signs executive order labeling fentanyl \u2018weapon of mass destruction\u2019 - Al Jazeera",
       "pubDate": "Mon, 15 Dec 2025 22:54:27 GMT"
@@ -409,6 +413,10 @@
     {
       "title": "With Venezuela raid, US tells China to keep away from the Americas - Reuters",
       "pubDate": "Sun, 11 Jan 2026 13:08:56 GMT"
+    },
+    {
+      "title": "Foreign investment: China overtakes the United States - Table.Briefings",
+      "pubDate": "Mon, 12 Jan 2026 21:58:05 GMT"
     }
   ],
   "AI Safety": [
@@ -529,6 +537,10 @@
     {
       "title": "Second health provider, Canopy Health, hit in major cyber attack - RNZ",
       "pubDate": "Mon, 12 Jan 2026 00:25:04 GMT"
+    },
+    {
+      "title": "Kaiser Permanente to pay $46 million in privacy data breach settlement. Here's how to file a claim. - CBS News",
+      "pubDate": "Mon, 12 Jan 2026 23:20:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -740,10 +752,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Climate Change Kills More in Asia: 1,600 Dead, Rp330 Trillion in Losses - VOI.ID",
-      "pubDate": "Sat, 13 Dec 2025 20:15:00 GMT"
-    },
     {
       "title": "Climate change impacts insurance in Iowa - KWQC",
       "pubDate": "Sun, 14 Dec 2025 00:44:39 GMT"
@@ -1051,10 +1059,6 @@
   ],
   "Cybersecurity and Infrastructure Security Agency": [
     {
-      "title": "CISA Adds CVE-2018-4063 to Exploited Vulnerabilities Amid Active Router Attacks - WebProNews",
-      "pubDate": "Sat, 13 Dec 2025 23:07:30 GMT"
-    },
-    {
       "title": "CISA warns of active exploitation of Sierra router and Google Chrome Mac vulnerabilities - Cyber Daily",
       "pubDate": "Mon, 15 Dec 2025 03:09:27 GMT"
     },
@@ -1113,10 +1117,6 @@
   ],
   "Drones": [
     {
-      "title": "Six U.N. Peacekeepers Killed in Drone Strike in Sudanese Battle Zone - The New York Times",
-      "pubDate": "Sat, 13 Dec 2025 21:33:55 GMT"
-    },
-    {
       "title": "Ukraine Claims First Strike by Underwater Drone on Russian Submarine - The New York Times",
       "pubDate": "Mon, 15 Dec 2025 18:43:59 GMT"
     },
@@ -1172,10 +1172,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "T.S.A. Is Providing Air Passenger Data to Immigration Agents for Deportation Effort - The New York Times",
-      "pubDate": "Sat, 13 Dec 2025 19:01:00 GMT"
-    },
     {
       "title": "INCREASED INCENTIVES: DHS Now Offering $3K Holiday Stipend Through End of The Year Via the CBP Home App for Illegal Aliens to Leave Now - Homeland Security (.gov)",
       "pubDate": "Mon, 22 Dec 2025 12:44:36 GMT"
@@ -1372,10 +1368,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "Google, NextEra to Revive Iowa Nuclear Plant for AI Data Centers - WebProNews",
-      "pubDate": "Sat, 13 Dec 2025 23:50:41 GMT"
-    },
     {
       "title": "India's atomic energy bill tabled in parliament - World Nuclear News",
       "pubDate": "Mon, 15 Dec 2025 21:12:40 GMT"
@@ -1575,10 +1567,6 @@
   ],
   "US Congress": [
     {
-      "title": "Congress drags on full year funding bills, risking second govt shutdown - The Center Square",
-      "pubDate": "Sat, 13 Dec 2025 19:15:00 GMT"
-    },
-    {
       "title": "Congress could try to pass new election laws before the 2026 midterms - Votebeat",
       "pubDate": "Mon, 15 Dec 2025 10:00:00 GMT"
     },
@@ -1765,6 +1753,10 @@
     {
       "title": "New State Laws Aim to Protect Environment, Consumers as Trump Wages All-Out War on Climate - Common Dreams",
       "pubDate": "Mon, 29 Dec 2025 22:02:44 GMT"
+    },
+    {
+      "title": "E.P.A. to Stop Considering Lives Saved by Limiting Air Pollution - The New York Times",
+      "pubDate": "Mon, 12 Jan 2026 16:43:41 GMT"
     }
   ],
   "Inflation": [
@@ -1831,6 +1823,10 @@
     {
       "title": "A \u2018Ticklish Subject\u2019: Trump\u2019s Words on Immigration Often Collide and Contradict - The New York Times",
       "pubDate": "Sat, 10 Jan 2026 15:07:33 GMT"
+    },
+    {
+      "title": "Federal Prosecutors Open Investigation Into Fed Chair Powell - The New York Times",
+      "pubDate": "Mon, 12 Jan 2026 14:18:00 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -2005,6 +2001,10 @@
     {
       "title": "BYD overtakes Tesla as the world\u2019s largest EV manufacturer - New Atlas",
       "pubDate": "Sun, 11 Jan 2026 03:05:36 GMT"
+    },
+    {
+      "title": "Europe and China Take Step to Resolve Dispute on Electric Vehicles - The New York Times",
+      "pubDate": "Mon, 12 Jan 2026 12:31:19 GMT"
     }
   ],
   "Cancer": [
