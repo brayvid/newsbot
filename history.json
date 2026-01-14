@@ -79,6 +79,10 @@
     {
       "title": "Pentagon rolls out major reforms of R&D, AI - Breaking Defense",
       "pubDate": "Tue, 13 Jan 2026 18:40:36 GMT"
+    },
+    {
+      "title": "West Midlands police chief apologises after AI error used to justify Maccabi Tel Aviv ban - The Guardian",
+      "pubDate": "Wed, 14 Jan 2026 09:56:00 GMT"
     }
   ],
   "Israel": [
@@ -108,10 +112,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Zelenskyy says US talks \u2018not easy\u2019 but \u2018productive\u2019 as he prepares to meet European leaders in Berlin \u2013 Europe live - The Guardian",
-      "pubDate": "Mon, 15 Dec 2025 09:50:00 GMT"
-    },
     {
       "title": "US promises Ukraine \u2018Article 5-like\u2019 security, but it's a limited time offer - Politico",
       "pubDate": "Mon, 15 Dec 2025 18:15:10 GMT"
@@ -191,6 +191,10 @@
     {
       "title": "US slams Russia\u2019s \u2018dangerous escalation\u2019 in Ukraine amid new deadly strikes - Al Jazeera",
       "pubDate": "Tue, 13 Jan 2026 04:19:20 GMT"
+    },
+    {
+      "title": "A Russian city gets a taste of the cold devastation to Ukraine\u2019s power grid - The Washington Post",
+      "pubDate": "Wed, 14 Jan 2026 11:32:09 GMT"
     }
   ],
   "Russia": [
@@ -331,10 +335,6 @@
   ],
   "China": [
     {
-      "title": "China Nears First Investment Decline in 3 Decades After Sharp Monthly Drop - The New York Times",
-      "pubDate": "Mon, 15 Dec 2025 06:21:58 GMT"
-    },
-    {
       "title": "Exclusive | Panama Ports Deal Hits Impasse as China Makes New Demands for Its Approval - The Wall Street Journal",
       "pubDate": "Tue, 16 Dec 2025 17:57:00 GMT"
     },
@@ -417,6 +417,10 @@
     {
       "title": "Foreign investment: China overtakes the United States - Table.Briefings",
       "pubDate": "Mon, 12 Jan 2026 21:58:05 GMT"
+    },
+    {
+      "title": "China Announces Record Trade Surplus as Its Exports Flood World Markets - The New York Times",
+      "pubDate": "Wed, 14 Jan 2026 05:57:14 GMT"
     }
   ],
   "AI Safety": [
@@ -503,10 +507,6 @@
   ],
   "Data Breach": [
     {
-      "title": "700Credit Data Breach Impacts 5.8 Million Individuals - SecurityWeek",
-      "pubDate": "Mon, 15 Dec 2025 09:21:39 GMT"
-    },
-    {
       "title": "Conduent data breach exposed data of 10.5 million people, including Social Security numbers - Mashable",
       "pubDate": "Fri, 19 Dec 2025 02:59:39 GMT"
     },
@@ -579,6 +579,10 @@
     {
       "title": "An Instagram data breach reportedly exposed the personal info of 17.5 million users - Engadget",
       "pubDate": "Sat, 10 Jan 2026 19:21:05 GMT"
+    },
+    {
+      "title": "Exclusive: Beijing tells Chinese firms to stop using US and Israeli cybersecurity software, sources say - Reuters",
+      "pubDate": "Wed, 14 Jan 2026 11:09:45 GMT"
     }
   ],
   "US Economy": [
@@ -745,6 +749,10 @@
     {
       "title": "Hamas tells its Gaza agencies to prepare to cede power as part of truce plan - The Times of Israel",
       "pubDate": "Sun, 11 Jan 2026 23:30:00 GMT"
+    },
+    {
+      "title": "U.S. to Name Palestinian Committee to Run Gaza - The New York Times",
+      "pubDate": "Wed, 14 Jan 2026 00:35:53 GMT"
     }
   ],
   "Climate Change": [
@@ -859,6 +867,10 @@
     {
       "title": "Earth to breach 1.5C warming a decade early, scientists say - Financial Times",
       "pubDate": "Wed, 14 Jan 2026 05:00:49 GMT"
+    },
+    {
+      "title": "Many Climate Risks Have Been Underestimated By Policymakers, Study Finds - Forbes",
+      "pubDate": "Wed, 14 Jan 2026 10:59:30 GMT"
     }
   ],
   "FBI": [
@@ -1062,10 +1074,6 @@
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "CISA Unveils 4 Principles for the Secure Integration of AI in Operational Technology - CDO Magazine",
-      "pubDate": "Mon, 15 Dec 2025 10:08:00 GMT"
-    },
     {
       "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation - The Hacker News",
       "pubDate": "Thu, 18 Dec 2025 05:01:00 GMT"
@@ -1561,10 +1569,6 @@
   ],
   "US Congress": [
     {
-      "title": "Congress could try to pass new election laws before the 2026 midterms - Votebeat",
-      "pubDate": "Mon, 15 Dec 2025 10:00:00 GMT"
-    },
-    {
       "title": "US Senate advances war powers resolution to stop Trump from taking further military action in Venezuela - The Guardian",
       "pubDate": "Thu, 08 Jan 2026 11:00:00 GMT"
     }
@@ -1903,6 +1907,10 @@
     {
       "title": "After Venezuela, Trump\u2019s cartel threats put Mexico on edge - Politico",
       "pubDate": "Tue, 06 Jan 2026 10:55:00 GMT"
+    },
+    {
+      "title": "US senators introduce bill to stop Trump seizing Greenland - Al Jazeera",
+      "pubDate": "Wed, 14 Jan 2026 03:22:30 GMT"
     }
   ],
   "AI Ethics": [
