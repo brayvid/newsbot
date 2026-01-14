@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Militant groups are experimenting with AI, and the risks are expected to grow - 10tv.com",
-      "pubDate": "Mon, 15 Dec 2025 05:07:00 GMT"
-    },
-    {
       "title": "China and the United States Are Racing Towards Different Ends in AI - The Equation - Union of Concerned Scientists",
       "pubDate": "Mon, 15 Dec 2025 12:00:00 GMT"
     },
@@ -79,6 +75,10 @@
     {
       "title": "Microsoft warns that China is winning AI race outside the west - Financial Times",
       "pubDate": "Tue, 13 Jan 2026 05:00:19 GMT"
+    },
+    {
+      "title": "Pentagon rolls out major reforms of R&D, AI - Breaking Defense",
+      "pubDate": "Tue, 13 Jan 2026 18:40:36 GMT"
     }
   ],
   "Israel": [
@@ -331,10 +331,6 @@
   ],
   "China": [
     {
-      "title": "Analyst warns China\u2019s Vanke on brink of default as bailout hopes fade - CNBC",
-      "pubDate": "Mon, 15 Dec 2025 04:25:10 GMT"
-    },
-    {
       "title": "China Nears First Investment Decline in 3 Decades After Sharp Monthly Drop - The New York Times",
       "pubDate": "Mon, 15 Dec 2025 06:21:58 GMT"
     },
@@ -424,10 +420,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "There\u2019s a storm gathering over AI regulation - Morning Brew",
-      "pubDate": "Mon, 15 Dec 2025 05:02:35 GMT"
-    },
     {
       "title": "Major AI Labs Fall Short of Emerging Global Safety Standards - Mexico Business News",
       "pubDate": "Mon, 15 Dec 2025 14:20:00 GMT"
@@ -549,6 +541,10 @@
     {
       "title": "Kaiser Permanente to pay $46 million in privacy data breach settlement. Here's how to file a claim. - CBS News",
       "pubDate": "Mon, 12 Jan 2026 23:20:00 GMT"
+    },
+    {
+      "title": "Personal Details of Thousands of Border Patrol and ICE Goons Allegedly Leaked in Huge Data Breach - The Daily Beast",
+      "pubDate": "Tue, 13 Jan 2026 18:25:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -626,10 +622,6 @@
     }
   ],
   "Fusion Power": [
-    {
-      "title": "UK scientists unveil new facility to boost fusion effort for limitless clean energy goal - Interesting Engineering",
-      "pubDate": "Sun, 14 Dec 2025 23:59:00 GMT"
-    },
     {
       "title": "Trump Media to Merge With TAE Technologies, a Nuclear Fusion Firm, in a $6 Billion Deal - The New York Times",
       "pubDate": "Thu, 18 Dec 2025 13:14:23 GMT"
@@ -757,10 +749,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Risk To Amazon Rainforest From Land Use And Climate Change - Eurasia Review",
-      "pubDate": "Sun, 14 Dec 2025 23:07:31 GMT"
-    },
-    {
       "title": "10 Years After the Paris Climate Deal: What The World Got Right, Wrong, And What Comes Next - Time Magazine",
       "pubDate": "Mon, 15 Dec 2025 19:01:27 GMT"
     },
@@ -867,6 +855,10 @@
     {
       "title": "Climate change presses on: Devastating wildfires and intense thunderstorms exacerbate losses for insurers - munichre.com",
       "pubDate": "Tue, 13 Jan 2026 07:05:05 GMT"
+    },
+    {
+      "title": "Earth to breach 1.5C warming a decade early, scientists say - Financial Times",
+      "pubDate": "Wed, 14 Jan 2026 05:00:49 GMT"
     }
   ],
   "FBI": [
@@ -1070,10 +1062,6 @@
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "CISA warns of active exploitation of Sierra router and Google Chrome Mac vulnerabilities - Cyber Daily",
-      "pubDate": "Mon, 15 Dec 2025 03:09:27 GMT"
-    },
     {
       "title": "CISA Unveils 4 Principles for the Secure Integration of AI in Operational Technology - CDO Magazine",
       "pubDate": "Mon, 15 Dec 2025 10:08:00 GMT"
@@ -1543,17 +1531,7 @@
       "pubDate": "Tue, 06 Jan 2026 22:15:55 GMT"
     }
   ],
-  "Large Language Models": [
-    {
-      "title": "It Only Takes A Handful Of Samples To Poison Any Size LLM, Anthropic Finds - Hackaday",
-      "pubDate": "Mon, 15 Dec 2025 03:00:00 GMT"
-    }
-  ],
   "Military and Defense": [
-    {
-      "title": "Germany investing in military amid concerns over Putin, uncertainty about U.S. support for European defense - CBS News",
-      "pubDate": "Mon, 15 Dec 2025 00:50:52 GMT"
-    },
     {
       "title": "Trump signs $1tn annual US defense bill without fanfare - The Guardian",
       "pubDate": "Fri, 19 Dec 2025 00:31:00 GMT"
@@ -1609,23 +1587,7 @@
       "pubDate": "Fri, 09 Jan 2026 13:45:00 GMT"
     }
   ],
-  "Zohran Mamdani": [
-    {
-      "title": "Zohran Mamdani Responds to Bondi Beach Attack: \u201cA Vile Act of Antisemitic Terror\u201d - La Voce di New York",
-      "pubDate": "Sun, 14 Dec 2025 18:22:27 GMT"
-    }
-  ],
-  "Health": [
-    {
-      "title": "Congress races against the clock to avert skyrocketing health care costs for millions - CNN",
-      "pubDate": "Sun, 14 Dec 2025 22:54:17 GMT"
-    }
-  ],
   "United Kingdom": [
-    {
-      "title": "Britain\u2019s new spy chief warns the \u2018front line is everywhere\u2019 as country faces emerging threats - CNN",
-      "pubDate": "Mon, 15 Dec 2025 05:02:00 GMT"
-    },
     {
       "title": "Two men found guilty of UK plot to kill hundreds of Jews as IS fears grow - Reuters",
       "pubDate": "Tue, 23 Dec 2025 20:27:11 GMT"
@@ -1729,6 +1691,10 @@
     {
       "title": "Iran puts 'missile cities' on highest alert since war as regime moves to quash protests - Ynetnews",
       "pubDate": "Sat, 10 Jan 2026 14:42:16 GMT"
+    },
+    {
+      "title": "The death toll from a crackdown on protests in Iran jumps to at least 2,571, activists say - AP News",
+      "pubDate": "Wed, 14 Jan 2026 03:16:00 GMT"
     }
   ],
   "Hydroelectric Power": [
@@ -1841,6 +1807,10 @@
     {
       "title": "Powell pushes back as Trump\u2019s DOJ launches unprecedented investigation into Fed - PBS",
       "pubDate": "Mon, 12 Jan 2026 23:55:25 GMT"
+    },
+    {
+      "title": "A major development in Trump's Fed feud is set to happen next week in the Supreme Court - CNBC",
+      "pubDate": "Tue, 13 Jan 2026 20:05:49 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -2019,6 +1989,10 @@
     {
       "title": "Europe and China Take Step to Resolve Dispute on Electric Vehicles - The New York Times",
       "pubDate": "Mon, 12 Jan 2026 12:31:19 GMT"
+    },
+    {
+      "title": "Tesla agrees to mediation that could resolve US agency's racism lawsuit - Reuters",
+      "pubDate": "Wed, 14 Jan 2026 02:39:00 GMT"
     }
   ],
   "Cancer": [
@@ -2031,6 +2005,10 @@
     {
       "title": "NASA won\u2019t bring back Mars sample - Yahoo",
       "pubDate": "Sun, 11 Jan 2026 22:19:29 GMT"
+    },
+    {
+      "title": "NASA, Department of Energy to Develop Lunar Surface Reactor by 2030 - NASA (.gov)",
+      "pubDate": "Tue, 13 Jan 2026 21:01:41 GMT"
     }
   ],
   "Alexandria Ocasio-Cortez": [
