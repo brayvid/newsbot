@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "China and the United States Are Racing Towards Different Ends in AI - The Equation - Union of Concerned Scientists",
-      "pubDate": "Mon, 15 Dec 2025 12:00:00 GMT"
-    },
-    {
       "title": "Scarlet Dragon Links Military, Industry to Test Artificial Intelligence for Warfighters - U.S. Department of War (.gov)",
       "pubDate": "Wed, 17 Dec 2025 18:30:47 GMT"
     },
@@ -198,10 +194,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia seeks $230bn in damages from Euroclear over seized assets - The Guardian",
-      "pubDate": "Mon, 15 Dec 2025 12:59:00 GMT"
-    },
     {
       "title": "Russia and Ukraine 'on the verge' of deal to end war, deputy foreign minister says - ABC News",
       "pubDate": "Mon, 15 Dec 2025 20:12:47 GMT"
@@ -424,10 +416,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Major AI Labs Fall Short of Emerging Global Safety Standards - Mexico Business News",
-      "pubDate": "Mon, 15 Dec 2025 14:20:00 GMT"
-    },
     {
       "title": "Coalition of Attorneys General Demands Sweeping AI Safety Reforms Citing Deaths and Child Exploitation - Law.com",
       "pubDate": "Mon, 15 Dec 2025 22:33:00 GMT"
@@ -663,10 +651,6 @@
   ],
   "Gaza": [
     {
-      "title": "Scoop: White House scolded Netanyahu for violating Gaza ceasefire with strike - Axios",
-      "pubDate": "Mon, 15 Dec 2025 14:35:09 GMT"
-    },
-    {
       "title": "ICC rejects Israeli bid to halt Gaza war investigation - Reuters",
       "pubDate": "Mon, 15 Dec 2025 19:41:27 GMT"
     },
@@ -897,10 +881,6 @@
   ],
   "National Security": [
     {
-      "title": "Terror plot targeting California disrupted, 4 arrested: Bondi - thehill.com",
-      "pubDate": "Mon, 15 Dec 2025 16:40:00 GMT"
-    },
-    {
       "title": "Pentagon plan calls for major power shifts within U.S. military - The Washington Post",
       "pubDate": "Mon, 15 Dec 2025 22:56:49 GMT"
     },
@@ -1039,6 +1019,10 @@
     {
       "title": "Live updates: Iran \u2018prepared\u2019 for war but open to US talks as more than 500 reported killed in protests - CNN",
       "pubDate": "Tue, 13 Jan 2026 03:28:00 GMT"
+    },
+    {
+      "title": "Iran warns of retaliation if Trump strikes, US withdraws some personnel from bases - Reuters",
+      "pubDate": "Wed, 14 Jan 2026 17:28:53 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1469,12 +1453,6 @@
     {
       "title": "Inside the multi-million dollar race to dim the sun and stop climate change - The Independent",
       "pubDate": "Thu, 25 Dec 2025 14:26:00 GMT"
-    }
-  ],
-  "Nuclear Fission": [
-    {
-      "title": "DOE using its own land to help pair AI centers, nuclear reactors - Roll Call",
-      "pubDate": "Mon, 15 Dec 2025 16:32:41 GMT"
     }
   ],
   "BRICS": [
