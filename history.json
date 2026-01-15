@@ -191,6 +191,10 @@
     {
       "title": "Ukraine\u2019s new defense chief reveals 200,000 soldiers have gone AWOL and 2 million are dodging draft - CNN",
       "pubDate": "Wed, 14 Jan 2026 16:39:52 GMT"
+    },
+    {
+      "title": "Zelensky declares state of emergency in Ukraine's energy sector - BBC",
+      "pubDate": "Thu, 15 Jan 2026 03:35:12 GMT"
     }
   ],
   "Russia": [
@@ -319,6 +323,10 @@
     {
       "title": "Trump weighs potential military intervention in Iran - CNN",
       "pubDate": "Sun, 11 Jan 2026 15:46:29 GMT"
+    },
+    {
+      "title": "Live updates: More than 2,400 protesters killed in Iran as Trump warns against executions - CNN",
+      "pubDate": "Thu, 15 Jan 2026 05:20:00 GMT"
     }
   ],
   "China": [
@@ -1043,6 +1051,10 @@
     {
       "title": "2025 was one of three hottest years on record, scientists say - ABC News",
       "pubDate": "Mon, 29 Dec 2025 23:19:42 GMT"
+    },
+    {
+      "title": "Scientists call another near-record hot year a 'warning shot' from a shifting climate - NPR",
+      "pubDate": "Wed, 14 Jan 2026 18:38:36 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
@@ -1211,12 +1223,20 @@
     {
       "title": "Federal Reserve rate cuts aimed at preventing full economic recession amid rising jobless claims - MSN",
       "pubDate": "Mon, 12 Jan 2026 12:52:42 GMT"
+    },
+    {
+      "title": "State of the Dream 2026: From Regression to Signs of a Black Recession - Joint Center",
+      "pubDate": "Wed, 14 Jan 2026 18:48:12 GMT"
     }
   ],
   "Global Health": [
     {
       "title": "Simple change in sepsis treatment could save thousands of lives - UVA Today",
       "pubDate": "Tue, 06 Jan 2026 19:10:38 GMT"
+    },
+    {
+      "title": "How 1,000 days of war pushed Sudan\u2019s health system to the brink of collapse - arabnews.jp",
+      "pubDate": "Thu, 15 Jan 2026 01:01:13 GMT"
     }
   ],
   "Terrorism": [
@@ -1255,6 +1275,10 @@
     {
       "title": "U.S. airstrikes hit ISIS targets in Syria, officials say - CBS News",
       "pubDate": "Sat, 10 Jan 2026 21:29:00 GMT"
+    },
+    {
+      "title": "Itamar Ben-Gvir switches terrorism death penalty method to hanging - The Jerusalem Post",
+      "pubDate": "Wed, 14 Jan 2026 18:38:00 GMT"
     }
   ],
   "Amazon": [
@@ -1549,12 +1573,6 @@
     {
       "title": "Two men found guilty of UK plot to kill hundreds of Jews as IS fears grow - Reuters",
       "pubDate": "Tue, 23 Dec 2025 20:27:11 GMT"
-    }
-  ],
-  "Northeastern United States": [
-    {
-      "title": "US declares northeast energy emergency as frigid weather hits - MSN",
-      "pubDate": "Tue, 16 Dec 2025 03:13:29 GMT"
     }
   ],
   "Atmospheric Science": [
@@ -2007,6 +2025,12 @@
     {
       "title": "European Defense Companies in Line to Benefit From Bulk of EU\u2019s $105 Billion Ukraine Loan - The Wall Street Journal",
       "pubDate": "Wed, 14 Jan 2026 13:18:00 GMT"
+    }
+  ],
+  "Quantum": [
+    {
+      "title": "Chinese military says it is developing over 10 quantum warfare weapons - South China Morning Post",
+      "pubDate": "Thu, 15 Jan 2026 04:00:09 GMT"
     }
   ]
 }
