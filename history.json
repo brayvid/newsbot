@@ -109,10 +109,6 @@
   ],
   "Ukraine": [
     {
-      "title": "US promises Ukraine \u2018Article 5-like\u2019 security, but it's a limited time offer - Politico",
-      "pubDate": "Mon, 15 Dec 2025 18:15:10 GMT"
-    },
-    {
       "title": "Russian attack on Ukraine's Zaporizhzhia injures 26, governor says - Reuters",
       "pubDate": "Wed, 17 Dec 2025 11:11:22 GMT"
     },
@@ -191,13 +187,13 @@
     {
       "title": "A Russian city gets a taste of the cold devastation to Ukraine\u2019s power grid - The Washington Post",
       "pubDate": "Wed, 14 Jan 2026 11:32:09 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s new defense chief reveals 200,000 soldiers have gone AWOL and 2 million are dodging draft - CNN",
+      "pubDate": "Wed, 14 Jan 2026 16:39:52 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Russia and Ukraine 'on the verge' of deal to end war, deputy foreign minister says - ABC News",
-      "pubDate": "Mon, 15 Dec 2025 20:12:47 GMT"
-    },
     {
       "title": "US, Russia to hold talks on Ukraine war in Miami this weekend - Politico",
       "pubDate": "Wed, 17 Dec 2025 19:38:10 GMT"
@@ -257,13 +253,13 @@
     {
       "title": "Russian Missiles Failed in Venezuela During U.S. Attack - The New York Times",
       "pubDate": "Mon, 12 Jan 2026 10:02:25 GMT"
+    },
+    {
+      "title": "Russia's 'massive' losses in Ukraine have it heading toward a breaking point, NATO's top official says - Business Insider",
+      "pubDate": "Wed, 14 Jan 2026 15:11:00 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump signs executive order labeling fentanyl \u2018weapon of mass destruction\u2019 - Al Jazeera",
-      "pubDate": "Mon, 15 Dec 2025 22:54:27 GMT"
-    },
     {
       "title": "Trump expands travel ban and restrictions to include an additional 20 countries - NPR",
       "pubDate": "Wed, 17 Dec 2025 07:42:27 GMT"
@@ -413,13 +409,13 @@
     {
       "title": "China Announces Record Trade Surplus as Its Exports Flood World Markets - The New York Times",
       "pubDate": "Wed, 14 Jan 2026 05:57:14 GMT"
+    },
+    {
+      "title": "Trump administration clears way for Nvidia H200 chip sales to China with a 25% surcharge - CNBC",
+      "pubDate": "Wed, 14 Jan 2026 21:38:01 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Coalition of Attorneys General Demands Sweeping AI Safety Reforms Citing Deaths and Child Exploitation - Law.com",
-      "pubDate": "Mon, 15 Dec 2025 22:33:00 GMT"
-    },
     {
       "title": "Exclusive: Cisco has a new map of AI security and safety threats every company should know - Axios",
       "pubDate": "Tue, 16 Dec 2025 19:36:59 GMT"
@@ -491,6 +487,10 @@
     {
       "title": "UK to investigate Elon Musk\u2019s Grok over \u2018deeply concerning\u2019 deepfakes - Al Jazeera",
       "pubDate": "Mon, 12 Jan 2026 18:38:46 GMT"
+    },
+    {
+      "title": "White House holds back on national AI framework specifics - Roll Call",
+      "pubDate": "Wed, 14 Jan 2026 21:04:12 GMT"
     }
   ],
   "Data Breach": [
@@ -651,10 +651,6 @@
   ],
   "Gaza": [
     {
-      "title": "ICC rejects Israeli bid to halt Gaza war investigation - Reuters",
-      "pubDate": "Mon, 15 Dec 2025 19:41:27 GMT"
-    },
-    {
       "title": "UN, aid groups warn Gaza operations at risk from Israel impediments - Reuters",
       "pubDate": "Wed, 17 Dec 2025 22:15:46 GMT"
     },
@@ -740,10 +736,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "10 Years After the Paris Climate Deal: What The World Got Right, Wrong, And What Comes Next - Time Magazine",
-      "pubDate": "Mon, 15 Dec 2025 19:01:27 GMT"
-    },
     {
       "title": "Arctic is hotter than it's been in 125 years, with record-low sea ice: NOAA report - NBC News",
       "pubDate": "Tue, 16 Dec 2025 18:21:14 GMT"
@@ -859,10 +851,6 @@
   ],
   "FBI": [
     {
-      "title": "FBI foils New Year's Eve terror plot in Los Angeles, officials say - BBC",
-      "pubDate": "Mon, 15 Dec 2025 18:26:26 GMT"
-    },
-    {
       "title": "Epstein files include child porn complaint a decade before federal investigation - The Washington Post",
       "pubDate": "Sun, 21 Dec 2025 04:19:00 GMT"
     },
@@ -880,10 +868,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Pentagon plan calls for major power shifts within U.S. military - The Washington Post",
-      "pubDate": "Mon, 15 Dec 2025 22:56:49 GMT"
-    },
     {
       "title": "Trump administration halts five offshore wind projects citing national security concerns - KOMO",
       "pubDate": "Mon, 22 Dec 2025 17:28:37 GMT"
@@ -1023,6 +1007,10 @@
     {
       "title": "Iran warns of retaliation if Trump strikes, US withdraws some personnel from bases - Reuters",
       "pubDate": "Wed, 14 Jan 2026 17:28:53 GMT"
+    },
+    {
+      "title": "Live updates: Iran closes its airspace without explanation - AP News",
+      "pubDate": "Wed, 14 Jan 2026 23:34:34 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1073,13 +1061,13 @@
     {
       "title": "10 emergency directives retired as CISA declares them redundant - TechRadar",
       "pubDate": "Fri, 09 Jan 2026 19:10:00 GMT"
+    },
+    {
+      "title": "Federal agencies ordered to patch Microsoft Desktop Windows Manager bug - The Record from Recorded Future News",
+      "pubDate": "Wed, 14 Jan 2026 13:32:03 GMT"
     }
   ],
   "World News": [
-    {
-      "title": "Live updates: Australia Bondi Beach shooting kills at least 15, details on suspects emerge - CNN",
-      "pubDate": "Mon, 15 Dec 2025 23:50:00 GMT"
-    },
     {
       "title": "Vladimir Putin issues chilling nuclear warning as he reveals plans for new security zone - Daily Express US",
       "pubDate": "Wed, 17 Dec 2025 17:57:30 GMT"
@@ -1108,10 +1096,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Ukraine Claims First Strike by Underwater Drone on Russian Submarine - The New York Times",
-      "pubDate": "Mon, 15 Dec 2025 18:43:59 GMT"
-    },
     {
       "title": "Ukraine\u2019s long-range drones destroy Russian jet on military base - The Telegraph",
       "pubDate": "Sat, 20 Dec 2025 18:36:00 GMT"
@@ -1142,10 +1126,6 @@
     }
   ],
   "Federal Reserve": [
-    {
-      "title": "Federal Reserve cuts interest rates for third time | Money Matters - WCNC",
-      "pubDate": "Mon, 15 Dec 2025 22:11:00 GMT"
-    },
     {
       "title": "JPMorgan pulls $350bn from Federal Reserve to buy up Treasuries - Financial Times",
       "pubDate": "Wed, 17 Dec 2025 05:00:13 GMT"
@@ -1364,10 +1344,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "India's atomic energy bill tabled in parliament - World Nuclear News",
-      "pubDate": "Mon, 15 Dec 2025 21:12:40 GMT"
-    },
     {
       "title": "U.S. Plans Largest Nuclear Power Program Since the 1970s - IEEE Spectrum",
       "pubDate": "Wed, 17 Dec 2025 14:54:50 GMT"
@@ -2025,6 +2001,12 @@
     {
       "title": "Tariffs, AI, and the Golden Age of Executive Power - The Daily Economy",
       "pubDate": "Tue, 13 Jan 2026 11:40:00 GMT"
+    }
+  ],
+  "European Union": [
+    {
+      "title": "European Defense Companies in Line to Benefit From Bulk of EU\u2019s $105 Billion Ukraine Loan - The Wall Street Journal",
+      "pubDate": "Wed, 14 Jan 2026 13:18:00 GMT"
     }
   ]
 }
