@@ -335,13 +335,13 @@
     {
       "title": "Trump would want military action in Iran to be swift and decisive, sources say - NBC News",
       "pubDate": "Thu, 15 Jan 2026 00:49:00 GMT"
+    },
+    {
+      "title": "Trump Live Updates: U.S. Seizes 6th Oil Tanker Tied to Venezuela - The New York Times",
+      "pubDate": "Thu, 15 Jan 2026 17:50:19 GMT"
     }
   ],
   "China": [
-    {
-      "title": "Exclusive | Panama Ports Deal Hits Impasse as China Makes New Demands for Its Approval - The Wall Street Journal",
-      "pubDate": "Tue, 16 Dec 2025 17:57:00 GMT"
-    },
     {
       "title": "Exclusive: How China built its \u2018Manhattan Project\u2019 to rival the West in AI chips - Reuters",
       "pubDate": "Wed, 17 Dec 2025 15:30:30 GMT"
@@ -1071,6 +1071,10 @@
     {
       "title": "Scientists call another near-record hot year a 'warning shot' from a shifting climate - NPR",
       "pubDate": "Wed, 14 Jan 2026 18:38:36 GMT"
+    },
+    {
+      "title": "Climate threats lead to huge jumps in Colorado home insurance rates, and the state is seeking solutions - Colorado Public Radio",
+      "pubDate": "Thu, 15 Jan 2026 11:02:16 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
@@ -1531,6 +1535,10 @@
     {
       "title": "Medical Experts Warn Federal Rollback of Childhood Vaccine Schedule Puts Children at Risk - Infectious Disease Special Edition",
       "pubDate": "Tue, 06 Jan 2026 22:15:55 GMT"
+    },
+    {
+      "title": "GOP Cuts Will Cripple Medicaid Enrollment, Warns CEO of Largest Public Health Plan - KFF Health News",
+      "pubDate": "Thu, 15 Jan 2026 10:00:00 GMT"
     }
   ],
   "Military and Defense": [
@@ -2051,6 +2059,24 @@
     {
       "title": "Chinese military says it is developing over 10 quantum warfare weapons - South China Morning Post",
       "pubDate": "Thu, 15 Jan 2026 04:00:09 GMT"
+    }
+  ],
+  "Energy Transition": [
+    {
+      "title": "Global emissions rise 9% since 2015 as energy transition slows - pv magazine USA",
+      "pubDate": "Thu, 15 Jan 2026 15:48:32 GMT"
+    }
+  ],
+  "Health": [
+    {
+      "title": "US health officials reverse course and reinstate $1.9bn to mental health and substance use - The Guardian",
+      "pubDate": "Thu, 15 Jan 2026 14:04:00 GMT"
+    }
+  ],
+  "Affordability": [
+    {
+      "title": "Trump unveils health care affordability plan - The Hill",
+      "pubDate": "Thu, 15 Jan 2026 17:13:00 GMT"
     }
   ]
 }
