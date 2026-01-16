@@ -109,10 +109,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russian attack on Ukraine's Zaporizhzhia injures 26, governor says - Reuters",
-      "pubDate": "Wed, 17 Dec 2025 11:11:22 GMT"
-    },
-    {
       "title": "Crunch EU summit discusses using frozen Russian assets for Ukraine - Reuters",
       "pubDate": "Thu, 18 Dec 2025 17:44:16 GMT"
     },
@@ -269,10 +265,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump expands travel ban and restrictions to include an additional 20 countries - NPR",
-      "pubDate": "Wed, 17 Dec 2025 07:42:27 GMT"
-    },
-    {
       "title": "At least 16 files disappear from DOJ site for Epstein documents, including Trump photo - PBS",
       "pubDate": "Sat, 20 Dec 2025 23:55:24 GMT"
     },
@@ -343,6 +335,10 @@
     {
       "title": "Trump Moves to Make Tech Giants Pay for Surging Power Costs - Bloomberg.com",
       "pubDate": "Fri, 16 Jan 2026 02:33:00 GMT"
+    },
+    {
+      "title": "Trump threatens to invoke Insurrection Act to quell anti-ICE protests in Minnesota - BBC",
+      "pubDate": "Fri, 16 Jan 2026 01:32:41 GMT"
     }
   ],
   "China": [
@@ -859,6 +855,10 @@
     {
       "title": "Damage to the ocean nearly doubles economic cost of climate change, new study finds - ABC News",
       "pubDate": "Thu, 15 Jan 2026 10:07:30 GMT"
+    },
+    {
+      "title": "CLIMATE MATTERS: Research links climate change to income drop - KVOA",
+      "pubDate": "Fri, 16 Jan 2026 00:56:00 GMT"
     }
   ],
   "FBI": [
@@ -952,10 +952,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Mossad chief: Israel has duty to ensure Iran cannot restart nuclear program - The Times of Israel",
-      "pubDate": "Wed, 17 Dec 2025 09:56:15 GMT"
-    },
     {
       "title": "Killing the \u2018brain trust\u2019: How Israel targeted Iran\u2019s nuclear scientists - The Washington Post",
       "pubDate": "Wed, 17 Dec 2025 18:00:00 GMT"
@@ -1453,10 +1449,6 @@
   ],
   "BRICS": [
     {
-      "title": "BRICS seek alternatives to US dollar, Brazil official says - Latest news from Azerbaijan",
-      "pubDate": "Wed, 17 Dec 2025 10:44:53 GMT"
-    },
-    {
       "title": "BRICS Ditches Dollar for Gold, Bloc Now Controls 50% of Global Supply - Watcher Guru",
       "pubDate": "Sun, 21 Dec 2025 16:24:46 GMT"
     },
@@ -1521,6 +1513,10 @@
     {
       "title": "New Pentagon Maps Show the Reach of China's Expanding Missile Force - Business Insider",
       "pubDate": "Tue, 30 Dec 2025 20:55:00 GMT"
+    },
+    {
+      "title": "NATO allies launch Arctic drills as Trump eyes Greenland - Axios",
+      "pubDate": "Fri, 16 Jan 2026 06:44:06 GMT"
     }
   ],
   "NVIDIA": [
@@ -1641,6 +1637,10 @@
     {
       "title": "In Myanmar, the Election Is Called Fake, but the Human Suffering Is Real - The New York Times",
       "pubDate": "Sat, 27 Dec 2025 09:10:58 GMT"
+    },
+    {
+      "title": "A Tale of Two Meetings: Trump Chooses Oil Over Democracy - The New York Times",
+      "pubDate": "Fri, 16 Jan 2026 08:02:31 GMT"
     }
   ],
   "United Nations Security Council": [
@@ -1747,6 +1747,10 @@
     {
       "title": "From the AI bubble to Fed fears: the global economic outlook for 2026 - The Guardian",
       "pubDate": "Sun, 04 Jan 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Exclusive: IMF's growth forecasts to show resilience to global trade shocks, Georgieva says - Reuters",
+      "pubDate": "Fri, 16 Jan 2026 00:26:00 GMT"
     }
   ],
   "US Politics": [
@@ -1887,6 +1891,10 @@
     {
       "title": "From Strategy to Safeguards: Assessing Vietnam\u2019s Readiness for Ethical AI Adoption - Devdiscourse",
       "pubDate": "Fri, 09 Jan 2026 04:06:26 GMT"
+    },
+    {
+      "title": "Businesses are embracing AI, but ethical blind spots are major operational risks - The Media Online",
+      "pubDate": "Fri, 16 Jan 2026 05:30:23 GMT"
     }
   ],
   "Space Exploration": [
