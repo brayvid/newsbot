@@ -79,6 +79,10 @@
     {
       "title": "West Midlands police chief apologises after AI error used to justify Maccabi Tel Aviv ban - The Guardian",
       "pubDate": "Wed, 14 Jan 2026 09:56:00 GMT"
+    },
+    {
+      "title": "Artificial intelligence: Council paves the way for the creation of AI gigafactories - consilium.europa.eu",
+      "pubDate": "Fri, 16 Jan 2026 12:06:42 GMT"
     }
   ],
   "Israel": [
@@ -343,10 +347,6 @@
   ],
   "China": [
     {
-      "title": "Exclusive: How China built its \u2018Manhattan Project\u2019 to rival the West in AI chips - Reuters",
-      "pubDate": "Wed, 17 Dec 2025 15:30:30 GMT"
-    },
-    {
       "title": "China blamed for UK government cyber attack - Financial Times",
       "pubDate": "Fri, 19 Dec 2025 10:12:16 GMT"
     },
@@ -429,6 +429,10 @@
     {
       "title": "Trump administration clears way for Nvidia H200 chip sales to China with a 25% surcharge - CNBC",
       "pubDate": "Wed, 14 Jan 2026 21:38:01 GMT"
+    },
+    {
+      "title": "Canada Strikes Tariffs Deal With China, as Carney Looks to Diversify From U.S. - The New York Times",
+      "pubDate": "Fri, 16 Jan 2026 15:26:56 GMT"
     }
   ],
   "AI Safety": [
@@ -503,6 +507,10 @@
     {
       "title": "White House holds back on national AI framework specifics - Roll Call",
       "pubDate": "Wed, 14 Jan 2026 21:04:12 GMT"
+    },
+    {
+      "title": "FDA\u2019s AI Policy Shift Highlights Urgent Need for AI Safety Research - filmogaz.com",
+      "pubDate": "Fri, 16 Jan 2026 13:20:45 GMT"
     }
   ],
   "Data Breach": [
@@ -903,10 +911,6 @@
   ],
   "North Korea": [
     {
-      "title": "North Korea: Kim Jong-Un Pays Tribute to Father at Kumsusan Palace - WION",
-      "pubDate": "Wed, 17 Dec 2025 16:34:00 GMT"
-    },
-    {
       "title": "North Korea Has 200,000 Special Forces Troops Ready to Invade South Korea - 19FortyFive",
       "pubDate": "Wed, 17 Dec 2025 20:43:04 GMT"
     },
@@ -952,10 +956,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Killing the \u2018brain trust\u2019: How Israel targeted Iran\u2019s nuclear scientists - The Washington Post",
-      "pubDate": "Wed, 17 Dec 2025 18:00:00 GMT"
-    },
     {
       "title": "Netanyahu plans to brief Trump on possible new Iran strikes - NBC News",
       "pubDate": "Sat, 20 Dec 2025 20:30:43 GMT"
@@ -1081,12 +1081,6 @@
     {
       "title": "Federal agencies ordered to patch Microsoft Desktop Windows Manager bug - The Record from Recorded Future News",
       "pubDate": "Wed, 14 Jan 2026 13:32:03 GMT"
-    }
-  ],
-  "World News": [
-    {
-      "title": "Vladimir Putin issues chilling nuclear warning as he reveals plans for new security zone - Daily Express US",
-      "pubDate": "Wed, 17 Dec 2025 17:57:30 GMT"
     }
   ],
   "Hacking": [
@@ -1237,6 +1231,10 @@
     {
       "title": "How 1,000 days of war pushed Sudan\u2019s health system to the brink of collapse - arabnews.jp",
       "pubDate": "Thu, 15 Jan 2026 01:01:13 GMT"
+    },
+    {
+      "title": "Baby wraps treated with insecticide could help slash malaria cases, say researchers - The Telegraph",
+      "pubDate": "Fri, 16 Jan 2026 14:04:00 GMT"
     }
   ],
   "Terrorism": [
@@ -1360,10 +1358,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "U.S. Plans Largest Nuclear Power Program Since the 1970s - IEEE Spectrum",
-      "pubDate": "Wed, 17 Dec 2025 14:54:50 GMT"
-    },
     {
       "title": "India's Parliament approves bill to open civil nuclear power sector to private firms - ABC News",
       "pubDate": "Thu, 18 Dec 2025 16:23:45 GMT"
@@ -1565,12 +1559,6 @@
     {
       "title": "Two men found guilty of UK plot to kill hundreds of Jews as IS fears grow - Reuters",
       "pubDate": "Tue, 23 Dec 2025 20:27:11 GMT"
-    }
-  ],
-  "Vladimir Putin": [
-    {
-      "title": "US readies new Russia sanctions if Putin rejects peace deal, Bloomberg News reports - Reuters",
-      "pubDate": "Wed, 17 Dec 2025 16:55:02 GMT"
     }
   ],
   "US Treasury": [
@@ -1791,6 +1779,10 @@
     {
       "title": "China\u2019s \u201cartificial sun\u201d just broke a fusion limit scientists thought was unbreakable - ScienceDaily",
       "pubDate": "Sun, 04 Jan 2026 22:24:33 GMT"
+    },
+    {
+      "title": "China accelerates nuclear fusion engineering, targeting power generation demonstration by 2030 - Xinhua",
+      "pubDate": "Fri, 16 Jan 2026 15:54:15 GMT"
     }
   ],
   "Geopolitics & US Foreign Policy": [
@@ -1991,6 +1983,10 @@
     {
       "title": "NASA, Department of Energy to Develop Lunar Surface Reactor by 2030 - NASA (.gov)",
       "pubDate": "Tue, 13 Jan 2026 21:01:41 GMT"
+    },
+    {
+      "title": "Artemis 2 rocket rollout latest news: NASA ready to move giant moon rocket - Space",
+      "pubDate": "Fri, 16 Jan 2026 16:36:57 GMT"
     }
   ],
   "Alexandria Ocasio-Cortez": [
@@ -2051,6 +2047,12 @@
     {
       "title": "Trump unveils health care affordability plan - The Hill",
       "pubDate": "Thu, 15 Jan 2026 17:13:00 GMT"
+    }
+  ],
+  "Bitcoin": [
+    {
+      "title": "Jefferies\u2019 Wood Drops Bitcoin on Threat From Quantum Computing - Bloomberg.com",
+      "pubDate": "Fri, 16 Jan 2026 09:04:33 GMT"
     }
   ]
 }
