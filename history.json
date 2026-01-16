@@ -339,6 +339,10 @@
     {
       "title": "Trump Live Updates: U.S. Seizes 6th Oil Tanker Tied to Venezuela - The New York Times",
       "pubDate": "Thu, 15 Jan 2026 17:50:19 GMT"
+    },
+    {
+      "title": "Trump Moves to Make Tech Giants Pay for Surging Power Costs - Bloomberg.com",
+      "pubDate": "Fri, 16 Jan 2026 02:33:00 GMT"
     }
   ],
   "China": [
@@ -432,10 +436,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Exclusive: Cisco has a new map of AI security and safety threats every company should know - Axios",
-      "pubDate": "Tue, 16 Dec 2025 19:36:59 GMT"
-    },
     {
       "title": "AI Pioneers Fear Catastrophic Risks from Superintelligence and Misuse - WebProNews",
       "pubDate": "Wed, 17 Dec 2025 22:11:31 GMT"
@@ -553,10 +553,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "AI Overtakes Cybersecurity in State CIO Priorities for 2026 - GovTech",
-      "pubDate": "Tue, 16 Dec 2025 20:12:32 GMT"
-    },
-    {
       "title": "LongNosedGoblin Caught Snooping on Asian Governments - Dark Reading | Security",
       "pubDate": "Fri, 19 Dec 2025 16:55:31 GMT"
     },
@@ -590,10 +586,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "U.S. economy adds 64,000 jobs in November, unemployment rate at 4-year high - Axios",
-      "pubDate": "Tue, 16 Dec 2025 18:59:02 GMT"
-    },
     {
       "title": "We asked experts to rate the U.S. economy in 2025. Here's what they said. - CBS News",
       "pubDate": "Wed, 24 Dec 2025 15:13:00 GMT"
@@ -756,10 +748,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Arctic is hotter than it's been in 125 years, with record-low sea ice: NOAA report - NBC News",
-      "pubDate": "Tue, 16 Dec 2025 18:21:14 GMT"
-    },
     {
       "title": "Hydrogen buildup adds hidden warming risk to energy transition - Interesting Engineering",
       "pubDate": "Wed, 17 Dec 2025 23:46:00 GMT"
@@ -1159,10 +1147,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "JPMorgan pulls $350bn from Federal Reserve to buy up Treasuries - Financial Times",
-      "pubDate": "Wed, 17 Dec 2025 05:00:13 GMT"
-    },
-    {
       "title": "The Federal Reserve cuts interest rates and retirees fear the Social Security increase in 2027 may not be enough - ECOticias.com",
       "pubDate": "Sat, 27 Dec 2025 21:52:00 GMT"
     },
@@ -1261,10 +1245,6 @@
   ],
   "Terrorism": [
     {
-      "title": "Suspect in Bondi Beach Massacre Is Charged With Murder and Terrorism - The New York Times",
-      "pubDate": "Wed, 17 Dec 2025 05:42:06 GMT"
-    },
-    {
       "title": "Toronto man arrested for terrorism, connection to ISIS: RCMP - CBC",
       "pubDate": "Fri, 19 Dec 2025 17:10:31 GMT"
     },
@@ -1302,10 +1282,6 @@
     }
   ],
   "Amazon": [
-    {
-      "title": "OpenAI in talks with Amazon about investment that could exceed $10 billion - CNBC",
-      "pubDate": "Wed, 17 Dec 2025 04:42:00 GMT"
-    },
     {
       "title": "Warning: Amazon Confirms 5-Year-Long Russian Cyberattack - Forbes",
       "pubDate": "Fri, 19 Dec 2025 12:58:00 GMT"
@@ -1507,10 +1483,6 @@
   ],
   "Corruption": [
     {
-      "title": "Inside the $2 Billion Scandal That Paralyzed the Philippines - Bloomberg.com",
-      "pubDate": "Tue, 16 Dec 2025 23:00:05 GMT"
-    },
-    {
       "title": "Ex-Pakistan PM Imran Khan, wife sentenced to 17 years in corruption case - Al Jazeera",
       "pubDate": "Sat, 20 Dec 2025 15:25:04 GMT"
     },
@@ -1597,12 +1569,6 @@
     {
       "title": "Two men found guilty of UK plot to kill hundreds of Jews as IS fears grow - Reuters",
       "pubDate": "Tue, 23 Dec 2025 20:27:11 GMT"
-    }
-  ],
-  "Atmospheric Science": [
-    {
-      "title": "Trump moves to dismantle major US climate research center in Colorado - USA Today",
-      "pubDate": "Wed, 17 Dec 2025 05:08:00 GMT"
     }
   ],
   "Vladimir Putin": [
