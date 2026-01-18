@@ -79,6 +79,10 @@
     {
       "title": "\u2018We could hit a wall\u2019: why trillions of dollars of risk is no guarantee of AI reward - The Guardian",
       "pubDate": "Sat, 17 Jan 2026 12:02:00 GMT"
+    },
+    {
+      "title": "AI raises average wages by 21% and substantially reduces' wage inequality, researchers find - Fox Business",
+      "pubDate": "Sat, 17 Jan 2026 18:02:00 GMT"
     }
   ],
   "Israel": [
@@ -507,10 +511,6 @@
   ],
   "Data Breach": [
     {
-      "title": "Conduent data breach exposed data of 10.5 million people, including Social Security numbers - Mashable",
-      "pubDate": "Fri, 19 Dec 2025 02:59:39 GMT"
-    },
-    {
       "title": "Trust Wallet users lose at least $6 million in security breach, ZachXBT finds - The Block",
       "pubDate": "Fri, 26 Dec 2025 02:02:05 GMT"
     },
@@ -843,6 +843,10 @@
     {
       "title": "CLIMATE MATTERS: Research links climate change to income drop - KVOA",
       "pubDate": "Fri, 16 Jan 2026 00:56:00 GMT"
+    },
+    {
+      "title": "Subsurface map of Antarctica reveals hidden terrain with the secrets to climate change - MSN",
+      "pubDate": "Sat, 17 Jan 2026 18:55:50 GMT"
     }
   ],
   "FBI": [
@@ -1397,6 +1401,10 @@
     {
       "title": "Hochul ratchets up nuclear plans, aims to lead U.S. in building new power reactors - Syracuse.com",
       "pubDate": "Mon, 12 Jan 2026 13:17:00 GMT"
+    },
+    {
+      "title": "China and Russia dominate nuclear power push with 90% of new reactors - Nikkei Asia",
+      "pubDate": "Sat, 17 Jan 2026 20:01:00 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1465,10 +1473,6 @@
   ],
   "Military and Defense": [
     {
-      "title": "Trump signs $1tn annual US defense bill without fanfare - The Guardian",
-      "pubDate": "Fri, 19 Dec 2025 00:31:00 GMT"
-    },
-    {
       "title": "New Pentagon Maps Show the Reach of China's Expanding Missile Force - Business Insider",
       "pubDate": "Tue, 30 Dec 2025 20:55:00 GMT"
     },
@@ -1478,10 +1482,6 @@
     }
   ],
   "NVIDIA": [
-    {
-      "title": "Exclusive: US launches review of advanced Nvidia AI chip sales to China, sources say - Reuters",
-      "pubDate": "Fri, 19 Dec 2025 02:27:00 GMT"
-    },
     {
       "title": "How $160 million worth of export-controlled Nvidia chips were allegedly smuggled into China - CNBC",
       "pubDate": "Wed, 31 Dec 2025 12:00:01 GMT"
@@ -1526,10 +1526,6 @@
     }
   ],
   "US Treasury": [
-    {
-      "title": "China cuts US Treasury holdings to lowest level since 2008 - South China Morning Post",
-      "pubDate": "Fri, 19 Dec 2025 05:05:14 GMT"
-    },
     {
       "title": "'Rats fleeing the ship': US treasury secretary says Iran's leaders moving funds out of the country - The Times of Israel",
       "pubDate": "Thu, 15 Jan 2026 04:48:50 GMT"
@@ -1639,6 +1635,10 @@
     {
       "title": "Legal Groups Condemn Democratic Party's Judicial Legislation as Unconstitutional - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Mon, 29 Dec 2025 06:25:47 GMT"
+    },
+    {
+      "title": "These Are the 12 States Vying to Kick Off Democrats\u2019 2028 Contest - The New York Times",
+      "pubDate": "Sun, 18 Jan 2026 03:43:35 GMT"
     }
   ],
   "Protest": [
@@ -1941,6 +1941,10 @@
     {
       "title": "Injection turns sleeping tumor immune cells into cancer fighters - ScienceDaily",
       "pubDate": "Sun, 11 Jan 2026 11:13:44 GMT"
+    },
+    {
+      "title": "What science says about how weight-loss drugs affect cancer risk - The Washington Post",
+      "pubDate": "Sat, 17 Jan 2026 18:00:00 GMT"
     }
   ],
   "NASA": [
@@ -2021,6 +2025,18 @@
     {
       "title": "Jefferies\u2019 Wood Drops Bitcoin on Threat From Quantum Computing - Bloomberg.com",
       "pubDate": "Fri, 16 Jan 2026 09:04:33 GMT"
+    }
+  ],
+  "Oceans": [
+    {
+      "title": "World's first legally binding treaty to protect oceans takes effect - Australian Broadcasting Corporation",
+      "pubDate": "Sun, 18 Jan 2026 04:13:54 GMT"
+    }
+  ],
+  "Large Language Models": [
+    {
+      "title": "MIT Recursive Language Models Shatter the LLM Context Window Limit - StartupHub.ai",
+      "pubDate": "Sat, 17 Jan 2026 19:54:04 GMT"
     }
   ]
 }
