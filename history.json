@@ -105,13 +105,13 @@
     {
       "title": "IDF has demolished over 2,500 buildings in Gaza since start of ceasefire \u2013 report - The Times of Israel",
       "pubDate": "Mon, 12 Jan 2026 22:03:10 GMT"
+    },
+    {
+      "title": "Israel far-right ministers reject US-backed postwar Gaza panel - The Guardian",
+      "pubDate": "Sun, 18 Jan 2026 15:17:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine strikes Russian 'shadow fleet' tanker in Mediterranean - Reuters",
-      "pubDate": "Fri, 19 Dec 2025 15:07:50 GMT"
-    },
     {
       "title": "Escalating Russian airstrikes aim to cut Ukraine off from sea, Zelenskiy says - Reuters",
       "pubDate": "Sat, 20 Dec 2025 16:52:24 GMT"
@@ -186,10 +186,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Putin vows no more wars if West treats Russia with respect - BBC",
-      "pubDate": "Fri, 19 Dec 2025 16:06:31 GMT"
-    },
     {
       "title": "Ukraine war briefing: Russian oil rig hit in Caspian Sea over 700km from Ukraine - The Guardian",
       "pubDate": "Sun, 21 Dec 2025 03:29:00 GMT"
@@ -503,6 +499,10 @@
     {
       "title": "FDA\u2019s AI Policy Shift Highlights Urgent Need for AI Safety Research - filmogaz.com",
       "pubDate": "Fri, 16 Jan 2026 13:20:45 GMT"
+    },
+    {
+      "title": "Teen Dies from Overdose After ChatGPT Drug Advice, Sparking AI Regulation Calls - WebProNews",
+      "pubDate": "Sun, 18 Jan 2026 12:10:30 GMT"
     }
   ],
   "Data Breach": [
@@ -544,10 +544,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "LongNosedGoblin Caught Snooping on Asian Governments - Dark Reading | Security",
-      "pubDate": "Fri, 19 Dec 2025 16:55:31 GMT"
-    },
     {
       "title": "CISA warns of continued threat activity linked to Brickstorm malware - Cybersecurity Dive",
       "pubDate": "Mon, 22 Dec 2025 16:30:43 GMT"
@@ -839,6 +835,10 @@
     {
       "title": "Subsurface map of Antarctica reveals hidden terrain with the secrets to climate change - MSN",
       "pubDate": "Sat, 17 Jan 2026 18:55:50 GMT"
+    },
+    {
+      "title": "Why Climate Change Blind Spots Are Becoming Balance Sheet Liabilities - Forbes",
+      "pubDate": "Sun, 18 Jan 2026 17:34:33 GMT"
     }
   ],
   "FBI": [
@@ -983,6 +983,10 @@
     {
       "title": "Live updates: Iran closes its airspace without explanation - AP News",
       "pubDate": "Wed, 14 Jan 2026 23:34:34 GMT"
+    },
+    {
+      "title": "At least 5,000 dead in Iran unrest, official says, as judiciary hints at executions - Reuters",
+      "pubDate": "Sun, 18 Jan 2026 14:01:03 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1139,6 +1143,10 @@
     {
       "title": "OpenAI, Microsoft Sued Over ChatGPT's Alleged Role in Connecticut Murder-Suicide - Decrypt",
       "pubDate": "Sat, 20 Dec 2025 18:01:02 GMT"
+    },
+    {
+      "title": "Microsoft issues emergency OS update for Windows 11 to address major bugs - Windows Central",
+      "pubDate": "Sun, 18 Jan 2026 13:12:05 GMT"
     }
   ],
   "Recession": [
@@ -1207,10 +1215,6 @@
   ],
   "Terrorism": [
     {
-      "title": "Toronto man arrested for terrorism, connection to ISIS: RCMP - CBC",
-      "pubDate": "Fri, 19 Dec 2025 17:10:31 GMT"
-    },
-    {
       "title": "Greta Thunberg arrested for pro-Palestinian protest under UK terrorism law - CNN",
       "pubDate": "Wed, 24 Dec 2025 01:57:00 GMT"
     },
@@ -1244,10 +1248,6 @@
     }
   ],
   "Amazon": [
-    {
-      "title": "Warning: Amazon Confirms 5-Year-Long Russian Cyberattack - Forbes",
-      "pubDate": "Fri, 19 Dec 2025 12:58:00 GMT"
-    },
     {
       "title": "North Korean agents are trying to infiltrate Amazon, chief security officer says - NBC News",
       "pubDate": "Tue, 23 Dec 2025 12:03:22 GMT"
@@ -1313,6 +1313,10 @@
     {
       "title": "Massive Solar Plus Storage Facility To Replace Both Coal And Natural Gas - CleanTechnica",
       "pubDate": "Sat, 27 Dec 2025 10:28:24 GMT"
+    },
+    {
+      "title": "Eight million panels, 100 GW \u2014 China starts assembling its \u2018Great Wall of Energy\u2019 in the desert - Energies Media",
+      "pubDate": "Sun, 18 Jan 2026 11:09:27 GMT"
     }
   ],
   "Supply Chain": [
@@ -1455,6 +1459,10 @@
     {
       "title": "Special Counsel Indicts Kim Keon-hee for Abusing Presidential Spouse Status, Corruption - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Mon, 29 Dec 2025 06:50:21 GMT"
+    },
+    {
+      "title": "Thousands rally in Serbia as students continue fight against corruption - Al Jazeera",
+      "pubDate": "Sun, 18 Jan 2026 06:37:32 GMT"
     }
   ],
   "Public Health": [
