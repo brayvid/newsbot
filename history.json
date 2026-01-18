@@ -109,10 +109,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine's Zelenskiy meets Poland's Trump-backed president at key moment in war - Reuters",
-      "pubDate": "Fri, 19 Dec 2025 09:39:53 GMT"
-    },
-    {
       "title": "Ukraine strikes Russian 'shadow fleet' tanker in Mediterranean - Reuters",
       "pubDate": "Fri, 19 Dec 2025 15:07:50 GMT"
     },
@@ -339,13 +335,13 @@
     {
       "title": "Trump announces 10% tariff on eight European countries until there is a deal to buy Greenland - NBC News",
       "pubDate": "Sat, 17 Jan 2026 20:23:55 GMT"
+    },
+    {
+      "title": "After U.S. Reignites a Trade War Over Greenland, Europe Weighs Going All-Out - The New York Times",
+      "pubDate": "Sun, 18 Jan 2026 11:08:12 GMT"
     }
   ],
   "China": [
-    {
-      "title": "China blamed for UK government cyber attack - Financial Times",
-      "pubDate": "Fri, 19 Dec 2025 10:12:16 GMT"
-    },
     {
       "title": "How China Tried to Dismantle a Major Underground Church - The New York Times",
       "pubDate": "Sun, 21 Dec 2025 05:01:06 GMT"
@@ -737,10 +733,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Climate change's hidden price tag: a drop in our income - University of Arizona News",
-      "pubDate": "Fri, 19 Dec 2025 11:12:04 GMT"
-    },
-    {
       "title": "How climate change could stunt millions of children\u2019s growth - Euronews.com",
       "pubDate": "Mon, 22 Dec 2025 13:15:18 GMT"
     },
@@ -1097,6 +1089,10 @@
     {
       "title": "Ukrainian drones set fire to Russian oil depot after Moscow launches new hypersonic missile - abcnews.go.com",
       "pubDate": "Sat, 10 Jan 2026 12:28:30 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Czechs offer drone-hunting jets as Zelenskyy flags air defence shortages - The Guardian",
+      "pubDate": "Sun, 18 Jan 2026 04:18:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1111,6 +1107,10 @@
     {
       "title": "Tests of Fed\u2019s Independence Intensify as Trump Seeks to Reshape Institution - The New York Times",
       "pubDate": "Wed, 07 Jan 2026 10:01:56 GMT"
+    },
+    {
+      "title": "Will the Supreme Court let Trump take control of the Fed? - USA Today",
+      "pubDate": "Sun, 18 Jan 2026 08:01:00 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1142,10 +1142,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "Sneaking unemployment rate means the U.S. economy is inching closer to a key recession indicator, says Moody's - Fortune",
-      "pubDate": "Fri, 19 Dec 2025 11:36:00 GMT"
-    },
     {
       "title": "Huge unexpected US economic growth kills recession fears - Daily Mail",
       "pubDate": "Tue, 23 Dec 2025 13:50:03 GMT"
@@ -1405,6 +1401,10 @@
     {
       "title": "China and Russia dominate nuclear power push with 90% of new reactors - Nikkei Asia",
       "pubDate": "Sat, 17 Jan 2026 20:01:00 GMT"
+    },
+    {
+      "title": "Ukraine war briefing: Russia readying strikes on nuclear power system, Zelenskyy warns - The Guardian",
+      "pubDate": "Sun, 18 Jan 2026 02:14:00 GMT"
     }
   ],
   "Climate Engineering": [
@@ -1493,6 +1493,10 @@
     {
       "title": "China Tells Tech Companies to Halt Nvidia H200 Chip Orders - The Information",
       "pubDate": "Wed, 07 Jan 2026 15:38:00 GMT"
+    },
+    {
+      "title": "China blocks Nvidia H200 AI chips that US government cleared for export \u2013 report - The Guardian",
+      "pubDate": "Sun, 18 Jan 2026 04:18:00 GMT"
     }
   ],
   "US Congress": [
@@ -1959,6 +1963,10 @@
     {
       "title": "Artemis 2 rocket rollout latest news: NASA ready to move giant moon rocket - Space",
       "pubDate": "Fri, 16 Jan 2026 16:36:57 GMT"
+    },
+    {
+      "title": "Nasa's mega Moon rocket arrives at launch pad for Artemis II mission - BBC",
+      "pubDate": "Sun, 18 Jan 2026 01:22:46 GMT"
     }
   ],
   "Alexandria Ocasio-Cortez": [
@@ -2037,6 +2045,10 @@
     {
       "title": "MIT Recursive Language Models Shatter the LLM Context Window Limit - StartupHub.ai",
       "pubDate": "Sat, 17 Jan 2026 19:54:04 GMT"
+    },
+    {
+      "title": "New Research Shows LLMs Face A Big Copyright Risk - Forbes",
+      "pubDate": "Sun, 18 Jan 2026 06:40:45 GMT"
     }
   ]
 }
