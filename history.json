@@ -113,10 +113,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Escalating Russian airstrikes aim to cut Ukraine off from sea, Zelenskiy says - Reuters",
-      "pubDate": "Sat, 20 Dec 2025 16:52:24 GMT"
-    },
-    {
       "title": "Russia-Ukraine war may \u201cgrind on for another 12 to 18 months\u201d - Al Jazeera",
       "pubDate": "Sun, 21 Dec 2025 11:15:52 GMT"
     },
@@ -183,6 +179,10 @@
     {
       "title": "Zelensky declares state of emergency in Ukraine's energy sector - BBC",
       "pubDate": "Thu, 15 Jan 2026 03:35:12 GMT"
+    },
+    {
+      "title": "Ukrainian battlefield success denies Russia a key city as a bargaining chip - The Washington Post",
+      "pubDate": "Mon, 19 Jan 2026 17:31:57 GMT"
     }
   ],
   "Russia": [
@@ -575,6 +575,10 @@
     {
       "title": "Exclusive: Beijing tells Chinese firms to stop using US and Israeli cybersecurity software, sources say - Reuters",
       "pubDate": "Wed, 14 Jan 2026 11:09:45 GMT"
+    },
+    {
+      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures - The Hacker News",
+      "pubDate": "Mon, 19 Jan 2026 09:09:00 GMT"
     }
   ],
   "US Economy": [
@@ -851,6 +855,10 @@
     {
       "title": "How Wall Street Turned Its Back on Climate Change - The New York Times",
       "pubDate": "Sun, 18 Jan 2026 21:16:00 GMT"
+    },
+    {
+      "title": "Heat inequality: Study measures the toll of climate change in Rio de Janeiro favelas - Reuters",
+      "pubDate": "Mon, 19 Jan 2026 15:27:07 GMT"
     }
   ],
   "FBI": [
@@ -1161,10 +1169,6 @@
   ],
   "Microsoft": [
     {
-      "title": "OpenAI, Microsoft Sued Over ChatGPT's Alleged Role in Connecticut Murder-Suicide - Decrypt",
-      "pubDate": "Sat, 20 Dec 2025 18:01:02 GMT"
-    },
-    {
       "title": "Microsoft issues emergency OS update for Windows 11 to address major bugs - Windows Central",
       "pubDate": "Sun, 18 Jan 2026 13:12:05 GMT"
     }
@@ -1453,6 +1457,10 @@
     {
       "title": "Chinese, Russian and Iranian warships arrive in South Africa for naval drills as tensions run high - abcnews.go.com",
       "pubDate": "Fri, 09 Jan 2026 13:20:07 GMT"
+    },
+    {
+      "title": "Exclusive: India's central bank proposes linking BRICS' digital currencies, sources say - Reuters",
+      "pubDate": "Mon, 19 Jan 2026 10:56:45 GMT"
     }
   ],
   "Information Security": [
@@ -1468,10 +1476,6 @@
     }
   ],
   "Corruption": [
-    {
-      "title": "Ex-Pakistan PM Imran Khan, wife sentenced to 17 years in corruption case - Al Jazeera",
-      "pubDate": "Sat, 20 Dec 2025 15:25:04 GMT"
-    },
     {
       "title": "Albanian PM\u2019s office petrol bombed as corruption protests flare - politico.eu",
       "pubDate": "Tue, 23 Dec 2025 12:33:00 GMT"
@@ -1887,6 +1891,10 @@
     {
       "title": "Businesses are embracing AI, but ethical blind spots are major operational risks - The Media Online",
       "pubDate": "Fri, 16 Jan 2026 05:30:23 GMT"
+    },
+    {
+      "title": "AI Ethics And Regulation: How OpenAI Is Addressing Safety, Children And Global Standards | BT Davos - Business Today",
+      "pubDate": "Mon, 19 Jan 2026 15:18:15 GMT"
     }
   ],
   "Space Exploration": [
