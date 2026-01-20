@@ -249,13 +249,13 @@
     {
       "title": "Ukrainian delegation arrives in US for peace talks as Russia hammers energy sites - ABC News",
       "pubDate": "Sat, 17 Jan 2026 12:17:39 GMT"
+    },
+    {
+      "title": "Russia hits energy system in several regions of Ukraine, Kyiv says - Reuters",
+      "pubDate": "Mon, 19 Jan 2026 15:50:11 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "At least 16 files disappear from DOJ site for Epstein documents, including Trump photo - PBS",
-      "pubDate": "Sat, 20 Dec 2025 23:55:24 GMT"
-    },
     {
       "title": "Trump Administration Live Updates: President Announces Plans for New \u2018Trump Class\u2019 Warships - The New York Times",
       "pubDate": "Tue, 23 Dec 2025 04:33:00 GMT"
@@ -339,6 +339,10 @@
     {
       "title": "January 18, 2026 \u2014 Trump administration news, EU ambassadors hold emergency meeting over Greenland - CNN",
       "pubDate": "Mon, 19 Jan 2026 01:34:00 GMT"
+    },
+    {
+      "title": "Trump Is Pushing the U.S.-Europe Alliance to the Brink Over Greenland - The New York Times",
+      "pubDate": "Mon, 19 Jan 2026 18:38:32 GMT"
     }
   ],
   "China": [
@@ -432,10 +436,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety - TechCrunch",
-      "pubDate": "Sat, 20 Dec 2025 18:20:34 GMT"
-    },
     {
       "title": "Japan unveils first national AI plan covering growth, safety - Tech in Asia",
       "pubDate": "Tue, 23 Dec 2025 07:18:00 GMT"
@@ -579,6 +579,10 @@
     {
       "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures - The Hacker News",
       "pubDate": "Mon, 19 Jan 2026 09:09:00 GMT"
+    },
+    {
+      "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites - The Hacker News",
+      "pubDate": "Mon, 19 Jan 2026 17:21:00 GMT"
     }
   ],
   "US Economy": [
@@ -907,10 +911,6 @@
   ],
   "North Korea": [
     {
-      "title": "North Korea's KCNA: Japan's ambition for nuclear weapons should be curbed - Reuters",
-      "pubDate": "Sat, 20 Dec 2025 21:56:37 GMT"
-    },
-    {
       "title": "North Korea's Kim Jong Un oversees test-firing of long-range missiles, KCNA says - Reuters",
       "pubDate": "Wed, 24 Dec 2025 23:06:25 GMT"
     },
@@ -944,10 +944,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Netanyahu plans to brief Trump on possible new Iran strikes - NBC News",
-      "pubDate": "Sat, 20 Dec 2025 20:30:43 GMT"
-    },
     {
       "title": "IDF chief, while discussing Iran, says military will strike \u2018wherever required\u2019 - The Times of Israel",
       "pubDate": "Sun, 21 Dec 2025 11:12:21 GMT"
@@ -1094,10 +1090,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Ukraine\u2019s long-range drones destroy Russian jet on military base - The Telegraph",
-      "pubDate": "Sat, 20 Dec 2025 18:36:00 GMT"
-    },
     {
       "title": "Death toll rises after Ukraine reports Russian drone strikes - ABC News",
       "pubDate": "Thu, 25 Dec 2025 12:12:16 GMT"
@@ -1505,6 +1497,10 @@
     {
       "title": "GOP Cuts Will Cripple Medicaid Enrollment, Warns CEO of Largest Public Health Plan - KFF Health News",
       "pubDate": "Thu, 15 Jan 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Pediatricians are disregarding the new vaccination schedule - The Washington Post",
+      "pubDate": "Mon, 19 Jan 2026 18:00:30 GMT"
     }
   ],
   "Military and Defense": [
@@ -1543,10 +1539,6 @@
   ],
   "The Pentagon": [
     {
-      "title": "Pentagon fails its 8th audit in a row - Task & Purpose",
-      "pubDate": "Sat, 20 Dec 2025 19:25:33 GMT"
-    },
-    {
       "title": "Pentagon says China\u2019s \u2018historic\u2019 military build-up has made US \u2018vulnerable\u2019 - South China Morning Post",
       "pubDate": "Wed, 24 Dec 2025 02:21:37 GMT"
     },
@@ -1569,12 +1561,6 @@
     {
       "title": "'Rats fleeing the ship': US treasury secretary says Iran's leaders moving funds out of the country - The Times of Israel",
       "pubDate": "Thu, 15 Jan 2026 04:48:50 GMT"
-    }
-  ],
-  "Asia": [
-    {
-      "title": "Thousands Of Passengers Left In Limbo Across Asia As Singapore, Korean, Air China, ANA, Japan, And Other Airlines Cancel 140 and Delay 1,069 Flights In Japan, China, Singapore, South Korea, Indonesia,Thailand and More Including Tokyo, Beijing, Inche - Travel And Tour World",
-      "pubDate": "Sat, 20 Dec 2025 23:00:26 GMT"
     }
   ],
   "Health Care": [
@@ -2101,6 +2087,12 @@
     {
       "title": "Global power grids emerge as strategic choke points in AI and industrial competition race - digitimes",
       "pubDate": "Mon, 19 Jan 2026 04:34:41 GMT"
+    }
+  ],
+  "Violence": [
+    {
+      "title": "Guatemala Declares State of Emergency to Address Gang Violence - The New York Times",
+      "pubDate": "Mon, 19 Jan 2026 13:56:00 GMT"
     }
   ]
 }
