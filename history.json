@@ -187,10 +187,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukraine war briefing: Russian oil rig hit in Caspian Sea over 700km from Ukraine - The Guardian",
-      "pubDate": "Sun, 21 Dec 2025 03:29:00 GMT"
-    },
-    {
       "title": "Russia hits Ukraine with 'massive' attack, says Zelensky, after he warned of Christmas strikes - BBC",
       "pubDate": "Tue, 23 Dec 2025 11:33:57 GMT"
     },
@@ -346,10 +342,6 @@
     }
   ],
   "China": [
-    {
-      "title": "How China Tried to Dismantle a Major Underground Church - The New York Times",
-      "pubDate": "Sun, 21 Dec 2025 05:01:06 GMT"
-    },
     {
       "title": "US-China ties in focus after Trump labels fentanyl \u2018weapon of mass destruction\u2019 - South China Morning Post",
       "pubDate": "Sun, 21 Dec 2025 14:00:10 GMT"
@@ -651,13 +643,13 @@
     {
       "title": "OpenAI is hiring a new Head of Preparedness to try to predict and mitigate AI's harms - Engadget",
       "pubDate": "Sat, 27 Dec 2025 22:03:30 GMT"
+    },
+    {
+      "title": "Exclusive: OpenAI aims to debut first device in 2026 - Axios",
+      "pubDate": "Mon, 19 Jan 2026 18:20:21 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "Apple, Google tell workers on visas to avoid leaving the U.S. amid Trump immigration crackdown - NPR",
-      "pubDate": "Sun, 21 Dec 2025 00:03:04 GMT"
-    },
     {
       "title": "LIVE: Israel continues ceasefire violations; 1 Palestinian killed in Gaza - Al Jazeera",
       "pubDate": "Sun, 21 Dec 2025 11:11:00 GMT"
@@ -866,10 +858,6 @@
     }
   ],
   "FBI": [
-    {
-      "title": "Epstein files include child porn complaint a decade before federal investigation - The Washington Post",
-      "pubDate": "Sun, 21 Dec 2025 04:19:00 GMT"
-    },
     {
       "title": "DOJ says it received more than 1 million additional Epstein docs from FBI and SDNY - NBC News",
       "pubDate": "Wed, 24 Dec 2025 21:00:41 GMT"
@@ -1347,10 +1335,6 @@
   ],
   "Nuclear Power": [
     {
-      "title": "Chinese expert warns proliferation risk as South Korea, US plan consultations on nuclear-powered submarines next year - Global Times",
-      "pubDate": "Sun, 21 Dec 2025 05:46:00 GMT"
-    },
-    {
       "title": "Russia plans a nuclear power plant on the moon within a decade - Reuters",
       "pubDate": "Wed, 24 Dec 2025 20:37:57 GMT"
     },
@@ -1729,6 +1713,10 @@
     {
       "title": "Exclusive: IMF's growth forecasts to show resilience to global trade shocks, Georgieva says - Reuters",
       "pubDate": "Fri, 16 Jan 2026 00:26:00 GMT"
+    },
+    {
+      "title": "World Economic Outlook Update, January 2026: Global Economy: Steady amid Divergent Forces - International Monetary Fund | IMF",
+      "pubDate": "Tue, 20 Jan 2026 01:42:44 GMT"
     }
   ],
   "US Politics": [
@@ -1853,6 +1841,10 @@
     {
       "title": "Trump\u2019s \u201cAttack\u201d On BRICS: U.S. Raid On Venezuela Crushes Maduro; Are Colombia, Cuba & The Global South \u201cNext Targets\u201d? - EurAsian Times",
       "pubDate": "Tue, 06 Jan 2026 10:09:41 GMT"
+    },
+    {
+      "title": "Oil Rises in Asia; Geopolitical Tensions in Focus - The Wall Street Journal",
+      "pubDate": "Tue, 20 Jan 2026 01:30:00 GMT"
     }
   ],
   "United States": [
@@ -1951,6 +1943,10 @@
     {
       "title": "Microsoft AI chief warns world risks losing control in AGI race - Communications Today",
       "pubDate": "Mon, 12 Jan 2026 11:03:35 GMT"
+    },
+    {
+      "title": "Governance Framework Achieves Distributional AGI Safety, Addressing 3 Structural Problems - Quantum Zeitgeist",
+      "pubDate": "Mon, 19 Jan 2026 18:03:36 GMT"
     }
   ],
   "Electric Vehicle": [
