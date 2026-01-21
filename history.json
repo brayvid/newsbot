@@ -331,10 +331,6 @@
   ],
   "China": [
     {
-      "title": "Exclusive: China likely loaded more than 100 ICBMs in silo fields, Pentagon report says - Reuters",
-      "pubDate": "Mon, 22 Dec 2025 16:20:34 GMT"
-    },
-    {
       "title": "China Delays Plans for Mass Production of Self-Driving Cars After Accident - The New York Times",
       "pubDate": "Tue, 23 Dec 2025 05:00:09 GMT"
     },
@@ -529,10 +525,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "CISA warns of continued threat activity linked to Brickstorm malware - Cybersecurity Dive",
-      "pubDate": "Mon, 22 Dec 2025 16:30:43 GMT"
-    },
-    {
       "title": "OpenAI's ChatGPT Atlas raises cybersecurity concerns amid prompt injection risks - digitimes",
       "pubDate": "Sat, 27 Dec 2025 12:19:12 GMT"
     },
@@ -629,10 +621,6 @@
   ],
   "OpenAI": [
     {
-      "title": "OpenAI\u2019s Child Exploitation Reports Increased Sharply This Year - WIRED",
-      "pubDate": "Mon, 22 Dec 2025 16:32:00 GMT"
-    },
-    {
       "title": "OpenAI is hiring a new Head of Preparedness to try to predict and mitigate AI's harms - Engadget",
       "pubDate": "Sat, 27 Dec 2025 22:03:30 GMT"
     },
@@ -721,13 +709,13 @@
     {
       "title": "Live: Israel launches strikes as Netanyahu joins Gaza \u2018board of peace\u2019 - Al Jazeera",
       "pubDate": "Wed, 21 Jan 2026 11:37:30 GMT"
+    },
+    {
+      "title": "Israeli fire kills 11, including journalists and children, Gaza medics say - Reuters",
+      "pubDate": "Wed, 21 Jan 2026 15:37:58 GMT"
     }
   ],
   "Climate Change": [
-    {
-      "title": "How climate change could stunt millions of children\u2019s growth - Euronews.com",
-      "pubDate": "Mon, 22 Dec 2025 13:15:18 GMT"
-    },
     {
       "title": "Trump\u2019s Latest Climate Attack: Offshore Wind Farms - Mother Jones",
       "pubDate": "Tue, 23 Dec 2025 13:06:22 GMT"
@@ -865,10 +853,6 @@
   ],
   "National Security": [
     {
-      "title": "Trump administration halts five offshore wind projects citing national security concerns - KOMO",
-      "pubDate": "Mon, 22 Dec 2025 17:28:37 GMT"
-    },
-    {
       "title": "Israel deploys first laser air defense system Iron Beam - Haaretz",
       "pubDate": "Sun, 28 Dec 2025 15:58:00 GMT"
     },
@@ -887,6 +871,10 @@
     {
       "title": "Pentagon readies 1,500 soldiers to possibly deploy to Minnesota, officials say - The Washington Post",
       "pubDate": "Mon, 19 Jan 2026 01:28:55 GMT"
+    },
+    {
+      "title": "Nature loss is a national security risk, intelligence group warns - BBC",
+      "pubDate": "Wed, 21 Jan 2026 15:08:27 GMT"
     }
   ],
   "North Korea": [
@@ -1089,6 +1077,10 @@
     {
       "title": "Ukraine war briefing: Czechs offer drone-hunting jets as Zelenskyy flags air defence shortages - The Guardian",
       "pubDate": "Sun, 18 Jan 2026 04:18:00 GMT"
+    },
+    {
+      "title": "Ukraine is paying $20,000 to drone firms who can destroy a Russian Shahed, defense minister says - Business Insider",
+      "pubDate": "Wed, 21 Jan 2026 06:03:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1110,10 +1102,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "INCREASED INCENTIVES: DHS Now Offering $3K Holiday Stipend Through End of The Year Via the CBP Home App for Illegal Aliens to Leave Now - Homeland Security (.gov)",
-      "pubDate": "Mon, 22 Dec 2025 12:44:36 GMT"
-    },
     {
       "title": "DHS Finalizes Controversial Immigration Rule On H-1B Lottery - Forbes",
       "pubDate": "Tue, 23 Dec 2025 20:13:57 GMT"
@@ -1199,6 +1187,10 @@
     {
       "title": "The near death \u2014 and last-minute reprieve \u2014 of a trial for an HIV vaccine - NPR",
       "pubDate": "Sat, 17 Jan 2026 12:54:13 GMT"
+    },
+    {
+      "title": "Cholera is surging in Africa. A new generation of vaccines could slow it - The Telegraph",
+      "pubDate": "Wed, 21 Jan 2026 16:03:00 GMT"
     }
   ],
   "Terrorism": [
@@ -2071,6 +2063,10 @@
     {
       "title": "The superintelligence unveiled by Mark Zuckerberg has deeply unsettled experts - Futura, Le m\u00e9dia qui explore le monde",
       "pubDate": "Sun, 18 Jan 2026 12:30:00 GMT"
+    },
+    {
+      "title": "Trump Just Reversed an AI Chip Ban for China\u2014and a Key Tech Leader Says It's Like 'Selling Nuclear Weapons' - inc.com",
+      "pubDate": "Wed, 21 Jan 2026 16:30:17 GMT"
     }
   ],
   "Electric Power Transmission": [
@@ -2089,6 +2085,18 @@
     {
       "title": "A covert CIA team is said to have helped the U.S. military\u2019s raid to seize Venezuela\u2019s president, reflecting the agency\u2019s new focus on the region. - facebook.com",
       "pubDate": "Wed, 21 Jan 2026 05:58:27 GMT"
+    }
+  ],
+  "Nuclear Fission": [
+    {
+      "title": "TEPCO restarts 1st nuclear reactor since Fukushima under close scrutiny - english.kyodonews.net",
+      "pubDate": "Wed, 21 Jan 2026 14:04:51 GMT"
+    }
+  ],
+  "Finland": [
+    {
+      "title": "Finland Invests in Defense, Ready to Mobilize 280,000 Troops Against Russian Aggression - UNITED24 Media",
+      "pubDate": "Wed, 21 Jan 2026 13:47:35 GMT"
     }
   ]
 }
