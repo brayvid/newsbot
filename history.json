@@ -113,14 +113,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia-Ukraine war may \u201cgrind on for another 12 to 18 months\u201d - Al Jazeera",
-      "pubDate": "Sun, 21 Dec 2025 11:15:52 GMT"
-    },
-    {
-      "title": "US intelligence indicates Putin's war aims in Ukraine are unchanged - Reuters",
-      "pubDate": "Sun, 21 Dec 2025 16:33:50 GMT"
-    },
-    {
       "title": "Russia-Ukraine war updates: Darkness in Ukraine after latest Russian attack - Al Jazeera",
       "pubDate": "Tue, 23 Dec 2025 18:38:44 GMT"
     },
@@ -343,10 +335,6 @@
   ],
   "China": [
     {
-      "title": "US-China ties in focus after Trump labels fentanyl \u2018weapon of mass destruction\u2019 - South China Morning Post",
-      "pubDate": "Sun, 21 Dec 2025 14:00:10 GMT"
-    },
-    {
       "title": "Exclusive: China likely loaded more than 100 ICBMs in silo fields, Pentagon report says - Reuters",
       "pubDate": "Mon, 22 Dec 2025 16:20:34 GMT"
     },
@@ -499,6 +487,10 @@
     {
       "title": "Teen Dies from Overdose After ChatGPT Drug Advice, Sparking AI Regulation Calls - WebProNews",
       "pubDate": "Sun, 18 Jan 2026 12:10:30 GMT"
+    },
+    {
+      "title": "Korea sets AI safety rules, first in world - koreaherald.com",
+      "pubDate": "Wed, 21 Jan 2026 03:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -575,6 +567,10 @@
     {
       "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites - The Hacker News",
       "pubDate": "Mon, 19 Jan 2026 17:21:00 GMT"
+    },
+    {
+      "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers - BleepingComputer",
+      "pubDate": "Tue, 20 Jan 2026 18:54:38 GMT"
     }
   ],
   "US Economy": [
@@ -650,14 +646,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "LIVE: Israel continues ceasefire violations; 1 Palestinian killed in Gaza - Al Jazeera",
-      "pubDate": "Sun, 21 Dec 2025 11:11:00 GMT"
-    },
-    {
-      "title": "Gaza running out of critical drugs and medical supplies: ministry - TRT World",
-      "pubDate": "Sun, 21 Dec 2025 16:07:50 GMT"
-    },
     {
       "title": "Katz: Israel to build Nucleus Settlements in northern Gaza - The Jerusalem Post",
       "pubDate": "Tue, 23 Dec 2025 10:37:20 GMT"
@@ -933,10 +921,6 @@
   ],
   "Iran": [
     {
-      "title": "IDF chief, while discussing Iran, says military will strike \u2018wherever required\u2019 - The Times of Israel",
-      "pubDate": "Sun, 21 Dec 2025 11:12:21 GMT"
-    },
-    {
       "title": "US, Iran spar over nuclear talks at UN Security Council meeting - The Times of Israel",
       "pubDate": "Tue, 23 Dec 2025 21:38:11 GMT"
     },
@@ -1056,10 +1040,6 @@
     }
   ],
   "Hacking": [
-    {
-      "title": "Warning: Microsoft 365 Account Hacking Surge\u2014China & Russia Suspected - Forbes",
-      "pubDate": "Sun, 21 Dec 2025 13:18:07 GMT"
-    },
     {
       "title": "Cyberattack disrupts France\u2019s national postal service; this pro-Russian hacking group has claimed respons - Times of India",
       "pubDate": "Wed, 24 Dec 2025 21:00:00 GMT"
@@ -1273,10 +1253,6 @@
   ],
   "SpaceX": [
     {
-      "title": "Exclusive | The SpaceX Explosion That Put Flights in Danger - The Wall Street Journal",
-      "pubDate": "Sun, 21 Dec 2025 14:17:00 GMT"
-    },
-    {
       "title": "SpaceX will move 4,400 satellites to a lower orbit after China cited safety risk - South China Morning Post",
       "pubDate": "Fri, 02 Jan 2026 12:00:22 GMT"
     }
@@ -1423,10 +1399,6 @@
   ],
   "BRICS": [
     {
-      "title": "BRICS Ditches Dollar for Gold, Bloc Now Controls 50% of Global Supply - Watcher Guru",
-      "pubDate": "Sun, 21 Dec 2025 16:24:46 GMT"
-    },
-    {
       "title": "BRICS and forced labor: How Russia is exploiting an international economic bloc in its crusade against Ukraine - The Hill",
       "pubDate": "Thu, 25 Dec 2025 14:00:00 GMT"
     },
@@ -1533,6 +1505,10 @@
     {
       "title": "The US military's annual suicide report is missing, and the Pentagon isn't offering any answers - Business Insider",
       "pubDate": "Fri, 09 Jan 2026 13:45:00 GMT"
+    },
+    {
+      "title": "Pentagon moves to cut U.S. participation in some NATO groups - The Washington Post",
+      "pubDate": "Wed, 21 Jan 2026 04:29:05 GMT"
     }
   ],
   "United Kingdom": [
@@ -1549,18 +1525,8 @@
   ],
   "Health Care": [
     {
-      "title": "The US healthcare system hurts poor Americans. It\u2019s about to get worse - The Guardian",
-      "pubDate": "Sun, 21 Dec 2025 11:00:00 GMT"
-    },
-    {
       "title": "Nearly 15,000 Nurses Go on Strike at Major New York City Hospitals - The New York Times",
       "pubDate": "Mon, 12 Jan 2026 11:23:01 GMT"
-    }
-  ],
-  "Atlantic Ocean": [
-    {
-      "title": "2 Submerged NATO Nuclear-Armed Missile Submarines Collided in the Atlantic Ocean and It Cost Millions - 19FortyFive",
-      "pubDate": "Sun, 21 Dec 2025 12:38:25 GMT"
     }
   ],
   "Military Intelligence": [
@@ -1751,6 +1717,10 @@
     {
       "title": "A major development in Trump's Fed feud is set to happen next week in the Supreme Court - CNBC",
       "pubDate": "Tue, 13 Jan 2026 20:05:49 GMT"
+    },
+    {
+      "title": "Trump Heads to Davos Amid Deep Worries About U.S.-European Alliance - The New York Times",
+      "pubDate": "Wed, 21 Jan 2026 05:00:05 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -2071,6 +2041,10 @@
     {
       "title": "New Research Shows LLMs Face A Big Copyright Risk - Forbes",
       "pubDate": "Sun, 18 Jan 2026 06:40:45 GMT"
+    },
+    {
+      "title": "New research decodes hidden bias in health care LLMs - Northeastern Global News",
+      "pubDate": "Tue, 20 Jan 2026 20:50:47 GMT"
     }
   ],
   "Artificial General Intelligence": [
