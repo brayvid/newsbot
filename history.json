@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Chasing an Economic Boom, White House Dismisses Risks of A.I. - The New York Times",
-      "pubDate": "Wed, 24 Dec 2025 10:02:31 GMT"
-    },
-    {
       "title": "Exclusive: Nvidia buying AI chip startup Groq for about $20 billion in its largest acquisition on record - CNBC",
       "pubDate": "Wed, 24 Dec 2025 20:54:16 GMT"
     },
@@ -117,10 +113,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine peace plan might include demilitarized zones, Zelenskyy says - CBS News",
-      "pubDate": "Wed, 24 Dec 2025 11:40:45 GMT"
-    },
-    {
       "title": "Ukraine-Russia latest: Kyiv strikes are Russia's 'answer to peace', Zelensky says ahead of Trump talks - BBC",
       "pubDate": "Sat, 27 Dec 2025 17:48:40 GMT"
     },
@@ -179,6 +171,10 @@
     {
       "title": "Ukraine peace deal hinges on territory, Kremlin says after US talks - Euronews.com",
       "pubDate": "Fri, 23 Jan 2026 04:45:03 GMT"
+    },
+    {
+      "title": "Document reveals EU-US pitch for $800B postwar Ukraine \u2018prosperity\u2019 plan - politico.eu",
+      "pubDate": "Fri, 23 Jan 2026 13:39:00 GMT"
     }
   ],
   "Russia": [
@@ -335,10 +331,6 @@
   ],
   "China": [
     {
-      "title": "China Is Shifting Its Nuclear Forces to Swifter Footing, Pentagon Says - The New York Times",
-      "pubDate": "Wed, 24 Dec 2025 08:06:40 GMT"
-    },
-    {
       "title": "US and China escalate semiconductor state capitalism amid global supply chain shifts - digitimes",
       "pubDate": "Fri, 26 Dec 2025 04:09:10 GMT"
     },
@@ -401,6 +393,10 @@
     {
       "title": "China flies drone into Taiwan\u2019s airspace for first time - Financial Times",
       "pubDate": "Sat, 17 Jan 2026 14:58:46 GMT"
+    },
+    {
+      "title": "China Tells Alibaba, Tech Firms to Ready Nvidia H200 Orders - Bloomberg",
+      "pubDate": "Fri, 23 Jan 2026 14:40:52 GMT"
     }
   ],
   "AI Safety": [
@@ -554,10 +550,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "We asked experts to rate the U.S. economy in 2025. Here's what they said. - CBS News",
-      "pubDate": "Wed, 24 Dec 2025 15:13:00 GMT"
-    },
     {
       "title": "The 2025 US economy \u2013 in charts: rising prices, hiring slowdown, rollercoaster growth - The Guardian",
       "pubDate": "Sun, 28 Dec 2025 12:10:00 GMT"
@@ -1391,6 +1383,10 @@
     {
       "title": "Exclusive: India's central bank proposes linking BRICS' digital currencies, sources say - Reuters",
       "pubDate": "Mon, 19 Jan 2026 10:56:45 GMT"
+    },
+    {
+      "title": "Why is South Africa upset about Iran joining BRICS naval drills? - Al Jazeera",
+      "pubDate": "Fri, 23 Jan 2026 05:55:29 GMT"
     }
   ],
   "Information Security": [
@@ -1487,6 +1483,10 @@
     {
       "title": "Pentagon moves to cut U.S. participation in some NATO groups - The Washington Post",
       "pubDate": "Wed, 21 Jan 2026 04:29:05 GMT"
+    },
+    {
+      "title": "Pentagon contractor indicted over alleged leak tied to raided Washington Post reporter - The Guardian",
+      "pubDate": "Fri, 23 Jan 2026 16:46:00 GMT"
     }
   ],
   "US Treasury": [
@@ -1693,6 +1693,10 @@
     {
       "title": "Jack Smith testifies in tense House hearing about Trump investigations \u2013 US politics live - The Guardian",
       "pubDate": "Thu, 22 Jan 2026 11:49:00 GMT"
+    },
+    {
+      "title": "Marco Rubio personally signed off on arrests of pro-Palestine students, documents show - The Independent",
+      "pubDate": "Fri, 23 Jan 2026 17:05:00 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -1987,6 +1991,10 @@
     {
       "title": "Global emissions rise 9% since 2015 as energy transition slows - pv magazine USA",
       "pubDate": "Thu, 15 Jan 2026 15:48:32 GMT"
+    },
+    {
+      "title": "U.S. government cuts $83 billion in loans, reversing energy transition funding - pv magazine International",
+      "pubDate": "Fri, 23 Jan 2026 14:47:18 GMT"
     }
   ],
   "Health": [
@@ -2035,6 +2043,10 @@
     {
       "title": "Trump Just Reversed an AI Chip Ban for China\u2014and a Key Tech Leader Says It's Like 'Selling Nuclear Weapons' - inc.com",
       "pubDate": "Wed, 21 Jan 2026 16:30:17 GMT"
+    },
+    {
+      "title": "Google DeepMind co-founder hints AI as smart as humans is almost here, says it will change economy - India Today",
+      "pubDate": "Fri, 23 Jan 2026 12:43:54 GMT"
     }
   ],
   "Electric Power Transmission": [
