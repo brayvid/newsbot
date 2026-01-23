@@ -175,6 +175,10 @@
     {
       "title": "Ukrainian battlefield success denies Russia a key city as a bargaining chip - The Washington Post",
       "pubDate": "Mon, 19 Jan 2026 17:31:57 GMT"
+    },
+    {
+      "title": "Ukraine peace deal hinges on territory, Kremlin says after US talks - Euronews.com",
+      "pubDate": "Fri, 23 Jan 2026 04:45:03 GMT"
     }
   ],
   "Russia": [
@@ -240,10 +244,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Major Release of Epstein Documents Contains Mentions of Trump and Mar-a-Lago Subpoenas - The New York Times",
-      "pubDate": "Wed, 24 Dec 2025 02:35:00 GMT"
-    },
     {
       "title": "Trump says US military struck ISIS terrorists in Nigeria - CNN",
       "pubDate": "Thu, 25 Dec 2025 23:19:56 GMT"
@@ -327,6 +327,10 @@
     {
       "title": "Trump sues JPMorgan Chase and CEO Jamie Dimon for $5B over alleged 'political' debanking - Fox Business",
       "pubDate": "Thu, 22 Jan 2026 16:49:00 GMT"
+    },
+    {
+      "title": "Live updates: Trump meets with Zelensky after unveiling \u2018Board of Peace\u2019 in Davos | CNN Politics - CNN",
+      "pubDate": "Fri, 23 Jan 2026 05:04:00 GMT"
     }
   ],
   "China": [
@@ -569,6 +573,10 @@
     {
       "title": "Job Gains Cooled in December, Capping Year of Weak Hiring - WSJ - The Wall Street Journal",
       "pubDate": "Sat, 10 Jan 2026 19:00:29 GMT"
+    },
+    {
+      "title": "'Some form of crisis is almost inevitable': The $38 trillion national debt will soon be growing faster than the U.S. economy itself, watchdog warns - Fortune",
+      "pubDate": "Thu, 22 Jan 2026 18:08:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -619,13 +627,13 @@
     {
       "title": "Exclusive: OpenAI aims to debut first device in 2026 - Axios",
       "pubDate": "Mon, 19 Jan 2026 18:20:21 GMT"
+    },
+    {
+      "title": "OpenAI Plans to Take a Cut of Customers\u2019 AI-Aided Discoveries - The Information",
+      "pubDate": "Thu, 22 Jan 2026 18:30:00 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "Gaza struggles through war, famine in 2025 - NBC News",
-      "pubDate": "Wed, 24 Dec 2025 02:42:11 GMT"
-    },
     {
       "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat - Al Jazeera",
       "pubDate": "Wed, 24 Dec 2025 21:00:00 GMT"
@@ -963,10 +971,6 @@
   ],
   "US Supreme Court": [
     {
-      "title": "US Supreme Court rejects Trump's military deployment in Chicago area, for now - Reuters",
-      "pubDate": "Wed, 24 Dec 2025 01:25:00 GMT"
-    },
-    {
       "title": "Drug-User Gun Ban Set for US Supreme Court Argument in March - Bloomberg Law News",
       "pubDate": "Fri, 02 Jan 2026 17:51:00 GMT"
     },
@@ -1111,10 +1115,6 @@
   ],
   "Recession": [
     {
-      "title": "The US economy keeps powering ahead, defying dire predictions - MSN",
-      "pubDate": "Wed, 24 Dec 2025 02:23:33 GMT"
-    },
-    {
       "title": "Stock markets shaken by Fed outlook shift, global recession worries eyed | tastylive's Macro Money - MSN",
       "pubDate": "Sat, 27 Dec 2025 01:08:47 GMT"
     },
@@ -1182,10 +1182,6 @@
     }
   ],
   "Terrorism": [
-    {
-      "title": "Greta Thunberg arrested for pro-Palestinian protest under UK terrorism law - CNN",
-      "pubDate": "Wed, 24 Dec 2025 01:57:00 GMT"
-    },
     {
       "title": "Turkiye arrests 115 ISIL suspects it says planned holiday attacks - Al Jazeera",
       "pubDate": "Thu, 25 Dec 2025 12:56:15 GMT"
@@ -1275,6 +1271,10 @@
     {
       "title": "Eight million panels, 100 GW \u2014 China starts assembling its \u2018Great Wall of Energy\u2019 in the desert - Energies Media",
       "pubDate": "Sun, 18 Jan 2026 11:09:27 GMT"
+    },
+    {
+      "title": "Energy Dept. Says It Is Canceling $30 Billion in Clean Energy Loans - The New York Times",
+      "pubDate": "Thu, 22 Jan 2026 22:41:50 GMT"
     }
   ],
   "Supply Chain": [
@@ -1476,10 +1476,6 @@
     }
   ],
   "The Pentagon": [
-    {
-      "title": "Pentagon says China\u2019s \u2018historic\u2019 military build-up has made US \u2018vulnerable\u2019 - South China Morning Post",
-      "pubDate": "Wed, 24 Dec 2025 02:21:37 GMT"
-    },
     {
       "title": "China Developing Options to Threaten Taiwan With \u2018Brute Force,\u2019 Pentagon Says - The Wall Street Journal",
       "pubDate": "Thu, 25 Dec 2025 02:36:00 GMT"
@@ -2075,6 +2071,12 @@
     {
       "title": "White House and China finalize deal to sell control of U.S. TikTok business to investors backed by Trump administration - NBC News",
       "pubDate": "Thu, 22 Jan 2026 23:25:00 GMT"
+    }
+  ],
+  "Self-Driving Cars": [
+    {
+      "title": "Tesla Launches Robotaxi Rides Without a Human Chaperone in Austin - Business Insider",
+      "pubDate": "Thu, 22 Jan 2026 19:51:00 GMT"
     }
   ]
 }
