@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Exclusive: Nvidia buying AI chip startup Groq for about $20 billion in its largest acquisition on record - CNBC",
-      "pubDate": "Wed, 24 Dec 2025 20:54:16 GMT"
-    },
-    {
       "title": "China issues drafts rules to regulate AI with human-like interaction - Reuters",
       "pubDate": "Sat, 27 Dec 2025 09:43:34 GMT"
     },
@@ -237,6 +233,10 @@
     {
       "title": "Russia hits energy system in several regions of Ukraine, Kyiv says - Reuters",
       "pubDate": "Mon, 19 Jan 2026 15:50:11 GMT"
+    },
+    {
+      "title": "Updates: First day of trilateral talks on Russia-Ukraine war ends in UAE - Al Jazeera",
+      "pubDate": "Fri, 23 Jan 2026 21:11:15 GMT"
     }
   ],
   "Donald Trump": [
@@ -400,10 +400,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Pope Leo prepares to outline stance on AI - https-//www.semafor.com",
-      "pubDate": "Wed, 24 Dec 2025 23:38:00 GMT"
-    },
     {
       "title": "Google DeepMind Warns: AGI May Emerge Suddenly Through AI Collaboration - kmjournal.net",
       "pubDate": "Fri, 26 Dec 2025 04:26:50 GMT"
@@ -627,10 +623,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israeli forces kill, wound Palestinians as Netanyahu issues Hamas threat - Al Jazeera",
-      "pubDate": "Wed, 24 Dec 2025 21:00:00 GMT"
-    },
-    {
       "title": "IDF says troops killed terror operative who crossed ceasefire line in northern Gaza - The Times of Israel",
       "pubDate": "Thu, 25 Dec 2025 19:03:41 GMT"
     },
@@ -823,10 +815,6 @@
   ],
   "FBI": [
     {
-      "title": "DOJ says it received more than 1 million additional Epstein docs from FBI and SDNY - NBC News",
-      "pubDate": "Wed, 24 Dec 2025 21:00:41 GMT"
-    },
-    {
       "title": "Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR",
       "pubDate": "Mon, 29 Dec 2025 07:11:44 GMT"
     },
@@ -859,13 +847,13 @@
     {
       "title": "Nature loss is a national security risk, intelligence group warns - BBC",
       "pubDate": "Wed, 21 Jan 2026 15:08:27 GMT"
+    },
+    {
+      "title": "National security experts argue U.S. TikTok deal falls short - PBS",
+      "pubDate": "Fri, 23 Jan 2026 23:35:29 GMT"
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea's Kim Jong Un oversees test-firing of long-range missiles, KCNA says - Reuters",
-      "pubDate": "Wed, 24 Dec 2025 23:06:25 GMT"
-    },
     {
       "title": "North Korea unveils nuclear-powered strategic submarine - TURDEF",
       "pubDate": "Sun, 28 Dec 2025 16:05:08 GMT"
@@ -896,10 +884,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran refuses inspection of nuclear sites until IAEA provides new guidelines after bombing - CNN",
-      "pubDate": "Wed, 24 Dec 2025 22:16:46 GMT"
-    },
     {
       "title": "Iran president says US, Israel, Europe waging \u2018full-fledged war\u2019 on country - Al Jazeera",
       "pubDate": "Sat, 27 Dec 2025 21:22:20 GMT"
@@ -977,10 +961,6 @@
   ],
   "Climate": [
     {
-      "title": "How Trump\u2019s attacks on \u2018climate alarmism\u2019 have already transformed U.S. science - The Washington Post",
-      "pubDate": "Wed, 24 Dec 2025 18:00:43 GMT"
-    },
-    {
       "title": "Cyclones, floods and wildfires among 2025\u2019s costliest climate-related disasters - The Guardian",
       "pubDate": "Sat, 27 Dec 2025 00:03:00 GMT"
     },
@@ -1012,10 +992,6 @@
     }
   ],
   "Hacking": [
-    {
-      "title": "Cyberattack disrupts France\u2019s national postal service; this pro-Russian hacking group has claimed respons - Times of India",
-      "pubDate": "Wed, 24 Dec 2025 21:00:00 GMT"
-    },
     {
       "title": "Chinese hackers targeted email systems of US congressional staff, people familiar say - Nextgov/FCW",
       "pubDate": "Thu, 08 Jan 2026 16:26:00 GMT"
@@ -1280,10 +1256,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "Russia plans a nuclear power plant on the moon within a decade - Reuters",
-      "pubDate": "Wed, 24 Dec 2025 20:37:57 GMT"
-    },
     {
       "title": "Texas developer pitches recycled Navy nuclear reactors as power source for AI infrastructure - SiliconANGLE",
       "pubDate": "Thu, 25 Dec 2025 23:26:30 GMT"
