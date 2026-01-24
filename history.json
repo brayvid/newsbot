@@ -241,10 +241,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump says US military struck ISIS terrorists in Nigeria - CNN",
-      "pubDate": "Thu, 25 Dec 2025 23:19:56 GMT"
-    },
-    {
       "title": "Trump says US knocked out \u2018big facility\u2019 as part of Venezuela campaign - CNN",
       "pubDate": "Mon, 29 Dec 2025 14:22:13 GMT"
     },
@@ -635,10 +631,6 @@
   ],
   "Gaza": [
     {
-      "title": "IDF says troops killed terror operative who crossed ceasefire line in northern Gaza - The Times of Israel",
-      "pubDate": "Thu, 25 Dec 2025 19:03:41 GMT"
-    },
-    {
       "title": "One Gazan Girl\u2019s Fight to Survive Extreme Hunger - The New York Times",
       "pubDate": "Sat, 27 Dec 2025 09:39:00 GMT"
     },
@@ -708,14 +700,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Transforming the global food system is key to curbing climate change and improving health, study finds - Noticias Ambientales",
-      "pubDate": "Thu, 25 Dec 2025 20:05:22 GMT"
-    },
-    {
-      "title": "How warming oceans are slowing the Atlantic conveyor belt and reshaping global weather - MSN",
-      "pubDate": "Thu, 25 Dec 2025 19:14:10 GMT"
-    },
     {
       "title": "Studies: Extreme weather fueled by climate change is adding to bird declines - The Invading Sea",
       "pubDate": "Sat, 27 Dec 2025 13:48:06 GMT"
@@ -1027,10 +1011,6 @@
   ],
   "Drones": [
     {
-      "title": "Death toll rises after Ukraine reports Russian drone strikes - ABC News",
-      "pubDate": "Thu, 25 Dec 2025 12:12:16 GMT"
-    },
-    {
       "title": "The US Must Stop Underestimating Drone Warfare - WIRED",
       "pubDate": "Sat, 27 Dec 2025 10:00:00 GMT"
     },
@@ -1082,10 +1062,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "ICE officers shoot driver during immigration operation in Maryland, authorities say - NBC News",
-      "pubDate": "Thu, 25 Dec 2025 19:45:31 GMT"
-    },
     {
       "title": "DHS restricts congressional visits to ICE facilities in Minneapolis with new policy - NPR",
       "pubDate": "Sun, 11 Jan 2026 18:18:04 GMT"
@@ -1170,10 +1146,6 @@
     }
   ],
   "Terrorism": [
-    {
-      "title": "Turkiye arrests 115 ISIL suspects it says planned holiday attacks - Al Jazeera",
-      "pubDate": "Thu, 25 Dec 2025 12:56:15 GMT"
-    },
     {
       "title": "US carries out airstrikes in Nigeria, targeting \u2018ISIS terrorists\u2019 - Jurist.org",
       "pubDate": "Fri, 26 Dec 2025 21:37:44 GMT"
@@ -1277,10 +1249,6 @@
   ],
   "Nuclear Power": [
     {
-      "title": "Texas developer pitches recycled Navy nuclear reactors as power source for AI infrastructure - SiliconANGLE",
-      "pubDate": "Thu, 25 Dec 2025 23:26:30 GMT"
-    },
-    {
       "title": "Turkey says Russia gave it $9 billion in new financing for Akkuyu nuclear plant - Reuters",
       "pubDate": "Fri, 26 Dec 2025 21:57:19 GMT"
     },
@@ -1357,17 +1325,7 @@
       "pubDate": "Thu, 22 Jan 2026 13:13:24 GMT"
     }
   ],
-  "Climate Engineering": [
-    {
-      "title": "Inside the multi-million dollar race to dim the sun and stop climate change - The Independent",
-      "pubDate": "Thu, 25 Dec 2025 14:26:00 GMT"
-    }
-  ],
   "BRICS": [
-    {
-      "title": "BRICS and forced labor: How Russia is exploiting an international economic bloc in its crusade against Ukraine - The Hill",
-      "pubDate": "Thu, 25 Dec 2025 14:00:00 GMT"
-    },
     {
       "title": "Chinese, Russian and Iranian warships arrive in South Africa for naval drills as tensions run high - abcnews.go.com",
       "pubDate": "Fri, 09 Jan 2026 13:20:07 GMT"
@@ -1549,6 +1507,10 @@
     {
       "title": "Mamdani revokes Israel-related executive orders signed by Adams, directs team to focus on housing in first acts as mayor - CNN",
       "pubDate": "Fri, 02 Jan 2026 16:54:40 GMT"
+    },
+    {
+      "title": "Winter Storm Fern live: three people found dead in New York City as tens of thousands go without power across US - The Guardian",
+      "pubDate": "Sat, 24 Jan 2026 15:37:00 GMT"
     }
   ],
   "Democratic Party": [
@@ -1859,6 +1821,10 @@
     {
       "title": "Donald Trump to meet oil executives over $100bn Venezuela investment - Financial Times",
       "pubDate": "Fri, 09 Jan 2026 16:39:58 GMT"
+    },
+    {
+      "title": "US to invest $1.6bn into rare earths group in bid to shore up key minerals - Financial Times",
+      "pubDate": "Sat, 24 Jan 2026 23:29:49 GMT"
     }
   ],
   "US Senate": [
