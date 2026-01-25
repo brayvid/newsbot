@@ -171,17 +171,13 @@
     {
       "title": "Document reveals EU-US pitch for $800B postwar Ukraine \u2018prosperity\u2019 plan - politico.eu",
       "pubDate": "Fri, 23 Jan 2026 13:39:00 GMT"
+    },
+    {
+      "title": "US security agreement for Ukraine is \u2018100% ready\u2019 to be signed, Zelenskyy says - AP News",
+      "pubDate": "Sun, 25 Jan 2026 17:16:00 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Ukraine war briefing: Kyiv hits Russian oil refinery with British Storm Shadow missiles - The Guardian",
-      "pubDate": "Fri, 26 Dec 2025 02:06:00 GMT"
-    },
-    {
-      "title": "Exclusive: Russia likely placing new hypersonic missiles at former airbase in Belarus, researchers find - Reuters",
-      "pubDate": "Fri, 26 Dec 2025 19:40:07 GMT"
-    },
     {
       "title": "Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks - BBC",
       "pubDate": "Sat, 27 Dec 2025 09:52:05 GMT"
@@ -331,14 +327,6 @@
   ],
   "China": [
     {
-      "title": "US and China escalate semiconductor state capitalism amid global supply chain shifts - digitimes",
-      "pubDate": "Fri, 26 Dec 2025 04:09:10 GMT"
-    },
-    {
-      "title": "China hits US defence firms with sanctions over arms sales to Taiwan - Reuters",
-      "pubDate": "Fri, 26 Dec 2025 22:53:33 GMT"
-    },
-    {
       "title": "China expands nuclear warhead manufacturing capacity, research finds - The Washington Post",
       "pubDate": "Sun, 28 Dec 2025 17:32:03 GMT"
     },
@@ -397,13 +385,13 @@
     {
       "title": "China Tells Alibaba, Tech Firms to Ready Nvidia H200 Orders - Bloomberg",
       "pubDate": "Fri, 23 Jan 2026 14:40:52 GMT"
+    },
+    {
+      "title": "Exclusive | China\u2019s Top General Accused of Giving Nuclear Secrets to U.S. - The Wall Street Journal",
+      "pubDate": "Sun, 25 Jan 2026 17:05:00 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Google DeepMind Warns: AGI May Emerge Suddenly Through AI Collaboration - kmjournal.net",
-      "pubDate": "Fri, 26 Dec 2025 04:26:50 GMT"
-    },
     {
       "title": "Britt calls for Congress to act on AI, saying companies put \u2018profit over actual people\u2019 - The Hill",
       "pubDate": "Sun, 28 Dec 2025 16:35:00 GMT"
@@ -474,14 +462,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Trust Wallet users lose at least $6 million in security breach, ZachXBT finds - The Block",
-      "pubDate": "Fri, 26 Dec 2025 02:02:05 GMT"
-    },
-    {
-      "title": "Goldman Sachs Says Some Client Data May Have Been Exposed in Third-Party Data Breach - PYMNTS.com",
-      "pubDate": "Fri, 26 Dec 2025 19:09:43 GMT"
-    },
     {
       "title": "Cond\u00e9 Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk - Security Affairs",
       "pubDate": "Sun, 28 Dec 2025 19:51:38 GMT"
@@ -939,6 +919,10 @@
     {
       "title": "Commander of Iran\u2019s Revolutionary Guards warns Israel and US of \u2018finger on trigger\u2019 - timesofisrael.com",
       "pubDate": "Thu, 22 Jan 2026 17:10:18 GMT"
+    },
+    {
+      "title": "Iran opposition outlet says regime killed over 36,000 people on January 8-9 - timesofisrael.com",
+      "pubDate": "Sun, 25 Jan 2026 19:00:23 GMT"
     }
   ],
   "US Supreme Court": [
@@ -1059,6 +1043,10 @@
     {
       "title": "Supreme Court considers whether Trump can fire Federal Reserve officials - fox5dc.com",
       "pubDate": "Thu, 22 Jan 2026 22:23:00 GMT"
+    },
+    {
+      "title": "The Fed is expected to stand pat this week. The big question is for how long? - MarketWatch",
+      "pubDate": "Sun, 25 Jan 2026 20:13:00 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1069,6 +1057,10 @@
     {
       "title": "DHS seeking to deport two men who said fellow ICE detainee was killed - The Washington Post",
       "pubDate": "Sat, 17 Jan 2026 23:46:36 GMT"
+    },
+    {
+      "title": "Partial government shutdown more likely over DHS funding fight after Alex Pretti killing - CNBC",
+      "pubDate": "Sun, 25 Jan 2026 14:31:41 GMT"
     }
   ],
   "Microsoft": [
@@ -1146,10 +1138,6 @@
     }
   ],
   "Terrorism": [
-    {
-      "title": "US carries out airstrikes in Nigeria, targeting \u2018ISIS terrorists\u2019 - Jurist.org",
-      "pubDate": "Fri, 26 Dec 2025 21:37:44 GMT"
-    },
     {
       "title": "Three Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays - CNN",
       "pubDate": "Mon, 29 Dec 2025 12:02:52 GMT"
@@ -1248,10 +1236,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "Turkey says Russia gave it $9 billion in new financing for Akkuyu nuclear plant - Reuters",
-      "pubDate": "Fri, 26 Dec 2025 21:57:19 GMT"
-    },
     {
       "title": "Turkey\u2019s First Nuclear Plant to be Operational in 2026 - The National Herald",
       "pubDate": "Sat, 27 Dec 2025 03:51:54 GMT"
@@ -1451,12 +1435,6 @@
     {
       "title": "Russia aims to recruit over 400,000 soldiers in 2026, Ukraine's military intelligence chief says - The Kyiv Independent",
       "pubDate": "Sat, 27 Dec 2025 20:42:02 GMT"
-    }
-  ],
-  "Trade War": [
-    {
-      "title": "President Trump launched global tariff wars in 2025. Here\u2019s a recap of his trade actions this year. - Chicago Tribune",
-      "pubDate": "Fri, 26 Dec 2025 19:59:02 GMT"
     }
   ],
   "Democracy": [
@@ -1661,6 +1639,10 @@
     {
       "title": "China accelerates nuclear fusion engineering, targeting power generation demonstration by 2030 - Xinhua",
       "pubDate": "Fri, 16 Jan 2026 15:54:15 GMT"
+    },
+    {
+      "title": "Chinese scientists make groundbreaking discovery in pursuit of limitless energy: 'A practical and scalable pathway' - The Cool Down",
+      "pubDate": "Sun, 25 Jan 2026 17:00:00 GMT"
     }
   ],
   "Geopolitics & US Foreign Policy": [
@@ -2005,6 +1987,10 @@
     {
       "title": "Google DeepMind co-founder hints AI as smart as humans is almost here, says it will change economy - India Today",
       "pubDate": "Fri, 23 Jan 2026 12:43:54 GMT"
+    },
+    {
+      "title": "The Great AGI Divide: AI\u2019s Top Minds Clash in Davos Over Tech\u2019s Final Frontier - WebProNews",
+      "pubDate": "Sun, 25 Jan 2026 21:24:06 GMT"
     }
   ],
   "Electric Power Transmission": [
