@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "China issues drafts rules to regulate AI with human-like interaction - Reuters",
-      "pubDate": "Sat, 27 Dec 2025 09:43:34 GMT"
-    },
-    {
       "title": "The New Billionaires of the A.I. Boom - The New York Times",
       "pubDate": "Mon, 29 Dec 2025 22:53:31 GMT"
     },
@@ -175,13 +171,13 @@
     {
       "title": "US security agreement for Ukraine is \u2018100% ready\u2019 to be signed, Zelenskyy says - AP News",
       "pubDate": "Sun, 25 Jan 2026 17:16:00 GMT"
+    },
+    {
+      "title": "Ukraine Says It Attacked Small Oil Refinery in Southern Russia - Bloomberg",
+      "pubDate": "Mon, 26 Jan 2026 11:37:55 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks - BBC",
-      "pubDate": "Sat, 27 Dec 2025 09:52:05 GMT"
-    },
     {
       "title": "Russia says its nuclear-capable missiles have entered active service - Syracuse.com",
       "pubDate": "Tue, 30 Dec 2025 11:22:00 GMT"
@@ -233,6 +229,10 @@
     {
       "title": "Updates: First day of trilateral talks on Russia-Ukraine war ends in UAE - Al Jazeera",
       "pubDate": "Fri, 23 Jan 2026 21:11:15 GMT"
+    },
+    {
+      "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals - BBC",
+      "pubDate": "Mon, 26 Jan 2026 00:15:03 GMT"
     }
   ],
   "Donald Trump": [
@@ -615,10 +615,6 @@
   ],
   "Gaza": [
     {
-      "title": "One Gazan Girl\u2019s Fight to Survive Extreme Hunger - The New York Times",
-      "pubDate": "Sat, 27 Dec 2025 09:39:00 GMT"
-    },
-    {
       "title": "Airstrikes, shootings, hypothermia: The harsh reality of life in Gaza under US-backed ceasefire - Sky News",
       "pubDate": "Sun, 28 Dec 2025 02:31:45 GMT"
     },
@@ -985,6 +981,10 @@
     {
       "title": "China remains most persistent cyber threat to American civilian infrastructure - Social News XYZ",
       "pubDate": "Sat, 24 Jan 2026 05:54:26 GMT"
+    },
+    {
+      "title": "CISA Warns of Actively Exploited Critical VMware vCenter RCE Vulnerability - Cyber Press",
+      "pubDate": "Mon, 26 Jan 2026 07:25:55 GMT"
     }
   ],
   "Hacking": [
@@ -999,13 +999,13 @@
     {
       "title": "Hacking hub BreachForums hit by data breach - 324,000 accounts exposed - TechRadar",
       "pubDate": "Mon, 12 Jan 2026 17:10:00 GMT"
+    },
+    {
+      "title": "Researchers say Russian government hackers were behind attempted Poland power outage - TechRadar",
+      "pubDate": "Mon, 26 Jan 2026 11:20:00 GMT"
     }
   ],
   "Drones": [
-    {
-      "title": "The US Must Stop Underestimating Drone Warfare - WIRED",
-      "pubDate": "Sat, 27 Dec 2025 10:00:00 GMT"
-    },
     {
       "title": "\"80 Drones, 36 Hours\": Pakistan Admits 'Nur Khan' Airbase Struck In Op Sindoor - NDTV",
       "pubDate": "Mon, 29 Dec 2025 03:21:07 GMT"
@@ -1029,6 +1029,10 @@
     {
       "title": "Ukraine is paying $20,000 to drone firms who can destroy a Russian Shahed, defense minister says - Business Insider",
       "pubDate": "Wed, 21 Jan 2026 06:03:00 GMT"
+    },
+    {
+      "title": "A Winter Lull in the Fighting? Not in the Age of Drone Warfare. - The New York Times",
+      "pubDate": "Mon, 26 Jan 2026 10:00:27 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1225,10 +1229,6 @@
   ],
   "Renewable Energy": [
     {
-      "title": "Massive Solar Plus Storage Facility To Replace Both Coal And Natural Gas - CleanTechnica",
-      "pubDate": "Sat, 27 Dec 2025 10:28:24 GMT"
-    },
-    {
       "title": "Eight million panels, 100 GW \u2014 China starts assembling its \u2018Great Wall of Energy\u2019 in the desert - Energies Media",
       "pubDate": "Sun, 18 Jan 2026 11:09:27 GMT"
     },
@@ -1248,14 +1248,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "China hits milestone in building Beishan laboratory for managing nuclear waste - South China Morning Post",
-      "pubDate": "Sat, 27 Dec 2025 10:45:22 GMT"
-    },
-    {
-      "title": "Chinese nuclear experts believe Japan could build nukes in less than 3 years - South China Morning Post",
-      "pubDate": "Sat, 27 Dec 2025 12:00:09 GMT"
-    },
     {
       "title": "Zelenskyy defines red lines on land and nuclear plant ahead of Trump meeting - Latest news from Azerbaijan",
       "pubDate": "Sun, 28 Dec 2025 07:30:00 GMT"
@@ -1446,10 +1438,6 @@
     }
   ],
   "Democracy": [
-    {
-      "title": "In Myanmar, the Election Is Called Fake, but the Human Suffering Is Real - The New York Times",
-      "pubDate": "Sat, 27 Dec 2025 09:10:58 GMT"
-    },
     {
       "title": "A Tale of Two Meetings: Trump Chooses Oil Over Democracy - The New York Times",
       "pubDate": "Fri, 16 Jan 2026 08:02:31 GMT"
@@ -2047,6 +2035,18 @@
     {
       "title": "2.8 Days to Disaster: Low Earth Orbit Could Collapse Without Warning - SciTechDaily",
       "pubDate": "Mon, 26 Jan 2026 03:01:21 GMT"
+    }
+  ],
+  "Cyberattack": [
+    {
+      "title": "Enviro-Hub suffers from cyberattack - The Edge Singapore",
+      "pubDate": "Mon, 26 Jan 2026 09:50:34 GMT"
+    }
+  ],
+  "Blockchain": [
+    {
+      "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers - The Hacker News",
+      "pubDate": "Mon, 26 Jan 2026 08:54:00 GMT"
     }
   ]
 }
