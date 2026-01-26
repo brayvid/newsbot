@@ -459,6 +459,10 @@
     {
       "title": "Meta tightens teens access to AI characters amid safety concerns - The News International",
       "pubDate": "Sat, 24 Jan 2026 08:20:00 GMT"
+    },
+    {
+      "title": "AI 'Swarms' Could Escalate Online Misinformation and Manipulation, Researchers Warn - Decrypt",
+      "pubDate": "Sun, 25 Jan 2026 20:01:02 GMT"
     }
   ],
   "Data Breach": [
@@ -787,6 +791,10 @@
     {
       "title": "At Davos, Talk of Climate Change Retreats to the Sidelines - The New York Times",
       "pubDate": "Thu, 22 Jan 2026 20:22:38 GMT"
+    },
+    {
+      "title": "Climate Change Threatening Future of Winter Olympics - RealClearEnergy",
+      "pubDate": "Mon, 26 Jan 2026 05:26:36 GMT"
     }
   ],
   "FBI": [
@@ -923,6 +931,10 @@
     {
       "title": "Iran opposition outlet says regime killed over 36,000 people on January 8-9 - timesofisrael.com",
       "pubDate": "Sun, 25 Jan 2026 19:00:23 GMT"
+    },
+    {
+      "title": "Northern Command chief: IDF ready on all fronts if US attack on Iran sparks retaliation - timesofisrael.com",
+      "pubDate": "Sun, 25 Jan 2026 22:18:45 GMT"
     }
   ],
   "US Supreme Court": [
@@ -940,10 +952,6 @@
     }
   ],
   "Climate": [
-    {
-      "title": "Cyclones, floods and wildfires among 2025\u2019s costliest climate-related disasters - The Guardian",
-      "pubDate": "Sat, 27 Dec 2025 00:03:00 GMT"
-    },
     {
       "title": "2025 was one of three hottest years on record, scientists say - ABC News",
       "pubDate": "Mon, 29 Dec 2025 23:19:42 GMT"
@@ -1047,6 +1055,10 @@
     {
       "title": "The Fed is expected to stand pat this week. The big question is for how long? - MarketWatch",
       "pubDate": "Sun, 25 Jan 2026 20:13:00 GMT"
+    },
+    {
+      "title": "Japan Bond Crash Unleashes a $7 Trillion Risk for Global Markets - Bloomberg.com",
+      "pubDate": "Sun, 25 Jan 2026 22:00:31 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1061,6 +1073,10 @@
     {
       "title": "Partial government shutdown more likely over DHS funding fight after Alex Pretti killing - CNBC",
       "pubDate": "Sun, 25 Jan 2026 14:31:41 GMT"
+    },
+    {
+      "title": "Impeachment, hearings, shutdown: DHS and ICE are under siege by Congress like never before - Axios",
+      "pubDate": "Mon, 26 Jan 2026 02:50:28 GMT"
     }
   ],
   "Microsoft": [
@@ -1070,10 +1086,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "Stock markets shaken by Fed outlook shift, global recession worries eyed | tastylive's Macro Money - MSN",
-      "pubDate": "Sat, 27 Dec 2025 01:08:47 GMT"
-    },
     {
       "title": "Palestinian economy remains in deep recession amid Gaza collapse: report - bastillepost.com",
       "pubDate": "Sun, 28 Dec 2025 05:56:00 GMT"
@@ -1237,10 +1249,6 @@
   ],
   "Nuclear Power": [
     {
-      "title": "Turkey\u2019s First Nuclear Plant to be Operational in 2026 - The National Herald",
-      "pubDate": "Sat, 27 Dec 2025 03:51:54 GMT"
-    },
-    {
       "title": "China hits milestone in building Beishan laboratory for managing nuclear waste - South China Morning Post",
       "pubDate": "Sat, 27 Dec 2025 10:45:22 GMT"
     },
@@ -1347,13 +1355,13 @@
     {
       "title": "Thousands rally in Serbia as students continue fight against corruption - Al Jazeera",
       "pubDate": "Sun, 18 Jan 2026 06:37:32 GMT"
+    },
+    {
+      "title": "China launches corruption probe into top military commanders - Defence Blog",
+      "pubDate": "Sun, 25 Jan 2026 21:17:14 GMT"
     }
   ],
   "Public Health": [
-    {
-      "title": "Massachusetts Public Health Officials alert residents about potential exposure to measles in multiple locations as cases increase nationwide - Fall River Reporter",
-      "pubDate": "Sat, 27 Dec 2025 01:54:39 GMT"
-    },
     {
       "title": "Medical Experts Warn Federal Rollback of Childhood Vaccine Schedule Puts Children at Risk - Infectious Disease Special Edition",
       "pubDate": "Tue, 06 Jan 2026 22:15:55 GMT"
@@ -2033,6 +2041,12 @@
     {
       "title": "Tesla Launches Robotaxi Rides Without a Human Chaperone in Austin - Business Insider",
       "pubDate": "Thu, 22 Jan 2026 19:51:00 GMT"
+    }
+  ],
+  "Outer Space": [
+    {
+      "title": "2.8 Days to Disaster: Low Earth Orbit Could Collapse Without Warning - SciTechDaily",
+      "pubDate": "Mon, 26 Jan 2026 03:01:21 GMT"
     }
   ]
 }
