@@ -75,6 +75,10 @@
     {
       "title": "AI is already writing almost one-third of new software code - EurekAlert!",
       "pubDate": "Thu, 22 Jan 2026 19:13:45 GMT"
+    },
+    {
+      "title": "Government by AI? Trump Administration Plans to Write Regulations Using Artificial Intelligence - ProPublica",
+      "pubDate": "Mon, 26 Jan 2026 10:30:00 GMT"
     }
   ],
   "Israel": [
@@ -104,10 +108,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine-Russia latest: Kyiv strikes are Russia's 'answer to peace', Zelensky says ahead of Trump talks - BBC",
-      "pubDate": "Sat, 27 Dec 2025 17:48:40 GMT"
-    },
     {
       "title": "Putin says Russia will achieve its Ukraine aims by force if Kyiv doesn't want peace - Reuters",
       "pubDate": "Sun, 28 Dec 2025 05:32:00 GMT"
@@ -501,10 +501,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "OpenAI's ChatGPT Atlas raises cybersecurity concerns amid prompt injection risks - digitimes",
-      "pubDate": "Sat, 27 Dec 2025 12:19:12 GMT"
-    },
-    {
       "title": "MongoBleed (CVE-2025-14847) Now Exploited in the Wild: MongoDB Servers at Critical Risk - CybersecurityNews",
       "pubDate": "Sun, 28 Dec 2025 15:43:33 GMT"
     },
@@ -560,10 +556,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Large earthquake rocks Taiwan, felt in Taipei - USA Today",
-      "pubDate": "Sat, 27 Dec 2025 16:11:00 GMT"
-    },
     {
       "title": "Magnitude 4.7 earthquake shakes Northern California - Los Angeles Times",
       "pubDate": "Mon, 29 Dec 2025 04:07:30 GMT"
@@ -681,10 +673,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Studies: Extreme weather fueled by climate change is adding to bird declines - The Invading Sea",
-      "pubDate": "Sat, 27 Dec 2025 13:48:06 GMT"
-    },
-    {
       "title": "Global carbon emissions hit record high, scientists warn of worsening climate disasters - FOX 13 Tampa Bay",
       "pubDate": "Sun, 28 Dec 2025 19:07:21 GMT"
     },
@@ -791,6 +779,10 @@
     {
       "title": "Climate Change Threatening Future of Winter Olympics - RealClearEnergy",
       "pubDate": "Mon, 26 Jan 2026 05:26:36 GMT"
+    },
+    {
+      "title": "Termination shock could make the cost of climate damage even higher - New Scientist",
+      "pubDate": "Mon, 26 Jan 2026 12:01:14 GMT"
     }
   ],
   "FBI": [
@@ -1321,6 +1313,10 @@
     {
       "title": "Why is South Africa upset about Iran joining BRICS naval drills? - Al Jazeera",
       "pubDate": "Fri, 23 Jan 2026 05:55:29 GMT"
+    },
+    {
+      "title": "Berliner Zeitung: BRICS will launch its payment system \u2014 sanctions will become useless - EADaily",
+      "pubDate": "Mon, 26 Jan 2026 08:15:00 GMT"
     }
   ],
   "Information Security": [
@@ -1336,10 +1332,6 @@
     }
   ],
   "Corruption": [
-    {
-      "title": "Ukraine anti-corruption agency blocked during probe into MPs bribery scheme - politico.eu",
-      "pubDate": "Sat, 27 Dec 2025 12:41:00 GMT"
-    },
     {
       "title": "Special Counsel Indicts Kim Keon-hee for Abusing Presidential Spouse Status, Corruption - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Mon, 29 Dec 2025 06:50:21 GMT"
@@ -1441,12 +1433,6 @@
     {
       "title": "A Tale of Two Meetings: Trump Chooses Oil Over Democracy - The New York Times",
       "pubDate": "Fri, 16 Jan 2026 08:02:31 GMT"
-    }
-  ],
-  "United Nations Security Council": [
-    {
-      "title": "UNSC to hold session on Israel's recognition of Somaliland - The Jerusalem Post",
-      "pubDate": "Sat, 27 Dec 2025 16:24:39 GMT"
     }
   ],
   "War and Unrest": [
@@ -1625,6 +1611,10 @@
     {
       "title": "HUD Demands Public Housing Officials Check for Undocumented Immigrants - nytimes.com",
       "pubDate": "Fri, 23 Jan 2026 23:55:04 GMT"
+    },
+    {
+      "title": "Democrats vow to oppose homeland security funds after Minnesota shooting as shutdown risk grows - ABC News",
+      "pubDate": "Mon, 26 Jan 2026 08:14:44 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -1723,6 +1713,10 @@
     {
       "title": "Oil Rises in Asia; Geopolitical Tensions in Focus - The Wall Street Journal",
       "pubDate": "Tue, 20 Jan 2026 01:30:00 GMT"
+    },
+    {
+      "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate - The New York Times",
+      "pubDate": "Mon, 26 Jan 2026 17:28:06 GMT"
     }
   ],
   "United States": [
@@ -1759,12 +1753,20 @@
     {
       "title": "Anthropic revises Claude's AI rules to strengthen ethics, user safety - NewsBytes",
       "pubDate": "Thu, 22 Jan 2026 06:23:52 GMT"
+    },
+    {
+      "title": "Deepfake \u2018Nudify\u2019 Technology Is Getting Darker\u2014and More Dangerous - WIRED",
+      "pubDate": "Mon, 26 Jan 2026 11:30:00 GMT"
     }
   ],
   "Space Exploration": [
     {
       "title": "NASA's 1st human moon mission in 50 years could be month out. What to know - USA Today",
       "pubDate": "Tue, 06 Jan 2026 19:10:00 GMT"
+    },
+    {
+      "title": "Scientists Have Discovered a Fascinating New Way Jupiter's Moon Europa Could Support Life - The Debrief",
+      "pubDate": "Mon, 26 Jan 2026 13:30:08 GMT"
     }
   ],
   "Financial Markets": [
