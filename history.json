@@ -113,10 +113,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Putin says Russia will achieve its Ukraine aims by force if Kyiv doesn't want peace - Reuters",
-      "pubDate": "Sun, 28 Dec 2025 05:32:00 GMT"
-    },
-    {
       "title": "Ukraine war briefing: Ukraine will fight on if peace talks fail, Zelenskyy vows - The Guardian",
       "pubDate": "Sun, 04 Jan 2026 03:48:00 GMT"
     },
@@ -179,6 +175,10 @@
     {
       "title": "Ukraine Says It Attacked Small Oil Refinery in Southern Russia - Bloomberg",
       "pubDate": "Mon, 26 Jan 2026 11:37:55 GMT"
+    },
+    {
+      "title": "US links security guarantees for Ukraine to peace deal ceding territory - Financial Times",
+      "pubDate": "Tue, 27 Jan 2026 05:00:17 GMT"
     }
   ],
   "Russia": [
@@ -535,6 +535,10 @@
     {
       "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers - BleepingComputer",
       "pubDate": "Tue, 20 Jan 2026 18:54:38 GMT"
+    },
+    {
+      "title": "AI-driven cyber war is near, Israel cyber chief warns - jpost.com",
+      "pubDate": "Tue, 27 Jan 2026 09:50:30 GMT"
     }
   ],
   "US Economy": [
@@ -606,10 +610,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Airstrikes, shootings, hypothermia: The harsh reality of life in Gaza under US-backed ceasefire - Sky News",
-      "pubDate": "Sun, 28 Dec 2025 02:31:45 GMT"
-    },
     {
       "title": "Israel says it will bar aid groups, including Doctors Without Borders, from Gaza - NPR",
       "pubDate": "Tue, 30 Dec 2025 16:04:32 GMT"
@@ -791,6 +791,10 @@
     {
       "title": "How Does Climate Change Affect Winter Storms? - The New York Times",
       "pubDate": "Mon, 26 Jan 2026 23:12:42 GMT"
+    },
+    {
+      "title": "California's iconic Highway 1 is fighting a losing battle against climate change. Can it survive? - latimes.com",
+      "pubDate": "Tue, 27 Jan 2026 11:00:00 GMT"
     }
   ],
   "FBI": [
@@ -1033,6 +1037,10 @@
     {
       "title": "A Winter Lull in the Fighting? Not in the Age of Drone Warfare. - The New York Times",
       "pubDate": "Mon, 26 Jan 2026 10:00:27 GMT"
+    },
+    {
+      "title": "Russian drones injure Ukrainian children and a pregnant woman as Zelenskyy urges swifter diplomacy - The Hill",
+      "pubDate": "Tue, 27 Jan 2026 10:32:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1081,6 +1089,10 @@
     {
       "title": "Funding deal begins to unravel as Senate Democrats vow to oppose DHS bill over Alex Pretti shooting in Minnesota - PBS",
       "pubDate": "Mon, 26 Jan 2026 14:53:37 GMT"
+    },
+    {
+      "title": "Border Patrol agents involved in shooting of Alex Pretti were wearing body cameras, DHS says - kstp.com",
+      "pubDate": "Tue, 27 Jan 2026 05:07:30 GMT"
     }
   ],
   "Microsoft": [
@@ -1090,10 +1102,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "Palestinian economy remains in deep recession amid Gaza collapse: report - bastillepost.com",
-      "pubDate": "Sun, 28 Dec 2025 05:56:00 GMT"
-    },
     {
       "title": "The Countries Most at Risk of Recession in 2026 - Newsweek",
       "pubDate": "Tue, 30 Dec 2025 10:00:00 GMT"
@@ -1249,10 +1257,6 @@
   ],
   "Nuclear Power": [
     {
-      "title": "Zelenskyy defines red lines on land and nuclear plant ahead of Trump meeting - Latest news from Azerbaijan",
-      "pubDate": "Sun, 28 Dec 2025 07:30:00 GMT"
-    },
-    {
       "title": "As Memories of Fukushima Fade, Japan Seeks Bigger Role for Nuclear Power - The Wall Street Journal",
       "pubDate": "Sun, 28 Dec 2025 16:00:00 GMT"
     },
@@ -1351,6 +1355,10 @@
     {
       "title": "China launches corruption probe into top military commanders - Defence Blog",
       "pubDate": "Sun, 25 Jan 2026 21:17:14 GMT"
+    },
+    {
+      "title": "Senior PEA officials exposed in crypto mining corruption scandal - Bangkok Post",
+      "pubDate": "Tue, 27 Jan 2026 06:34:00 GMT"
     }
   ],
   "Public Health": [
@@ -2045,6 +2053,10 @@
     {
       "title": "Enviro-Hub suffers from cyberattack - The Edge Singapore",
       "pubDate": "Mon, 26 Jan 2026 09:50:34 GMT"
+    },
+    {
+      "title": "Nike Cyberattack: Company Probes Alleged 1.4TB Leak - The Cyber Express",
+      "pubDate": "Tue, 27 Jan 2026 07:30:55 GMT"
     }
   ],
   "Blockchain": [
