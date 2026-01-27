@@ -179,6 +179,10 @@
     {
       "title": "US links security guarantees for Ukraine to peace deal ceding territory - Financial Times",
       "pubDate": "Tue, 27 Jan 2026 05:00:17 GMT"
+    },
+    {
+      "title": "Russian drones kill 1 and injure children in Ukraine as Zelenskyy urges speedier diplomacy - ABC News",
+      "pubDate": "Tue, 27 Jan 2026 13:10:18 GMT"
     }
   ],
   "Russia": [
@@ -331,10 +335,6 @@
   ],
   "China": [
     {
-      "title": "China expands nuclear warhead manufacturing capacity, research finds - The Washington Post",
-      "pubDate": "Sun, 28 Dec 2025 17:32:03 GMT"
-    },
-    {
       "title": "China launches massive military drills off Taiwan after U.S. arms package - The Washington Post",
       "pubDate": "Mon, 29 Dec 2025 22:24:39 GMT"
     },
@@ -396,10 +396,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Britt calls for Congress to act on AI, saying companies put \u2018profit over actual people\u2019 - The Hill",
-      "pubDate": "Sun, 28 Dec 2025 16:35:00 GMT"
-    },
     {
       "title": "AI showing signs of self-preservation and humans should be ready to pull plug, says pioneer - The Guardian",
       "pubDate": "Tue, 30 Dec 2025 20:19:00 GMT"
@@ -505,10 +501,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "MongoBleed (CVE-2025-14847) Now Exploited in the Wild: MongoDB Servers at Critical Risk - CybersecurityNews",
-      "pubDate": "Sun, 28 Dec 2025 15:43:33 GMT"
-    },
-    {
       "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands - The Hacker News",
       "pubDate": "Tue, 06 Jan 2026 05:08:00 GMT"
     },
@@ -543,14 +535,6 @@
   ],
   "US Economy": [
     {
-      "title": "The 2025 US economy \u2013 in charts: rising prices, hiring slowdown, rollercoaster growth - The Guardian",
-      "pubDate": "Sun, 28 Dec 2025 12:10:00 GMT"
-    },
-    {
-      "title": "The U.S. economy has slowed this year. Here's what to expect in the New Year - WFAA",
-      "pubDate": "Sun, 28 Dec 2025 14:38:29 GMT"
-    },
-    {
       "title": "U.S. economy adds 50,000 jobs in December, unemployment rate at 4.4% - NBC News",
       "pubDate": "Fri, 09 Jan 2026 14:16:11 GMT"
     },
@@ -561,6 +545,10 @@
     {
       "title": "'Some form of crisis is almost inevitable': The $38 trillion national debt will soon be growing faster than the U.S. economy itself, watchdog warns - Fortune",
       "pubDate": "Thu, 22 Jan 2026 18:08:00 GMT"
+    },
+    {
+      "title": "Fed, Signaling Little Urgency, Prepares to Pause on Rate Cuts - The New York Times",
+      "pubDate": "Tue, 27 Jan 2026 14:55:58 GMT"
     }
   ],
   "Earthquakes": [
@@ -795,6 +783,10 @@
     {
       "title": "California's iconic Highway 1 is fighting a losing battle against climate change. Can it survive? - latimes.com",
       "pubDate": "Tue, 27 Jan 2026 11:00:00 GMT"
+    },
+    {
+      "title": "Trump officially pulls US out of landmark Paris climate agreement for second time - The Independent",
+      "pubDate": "Tue, 27 Jan 2026 15:52:00 GMT"
     }
   ],
   "FBI": [
@@ -808,10 +800,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Israel deploys first laser air defense system Iron Beam - Haaretz",
-      "pubDate": "Sun, 28 Dec 2025 15:58:00 GMT"
-    },
     {
       "title": "Saudi Arabia issues national security warning as UAE forces asked to leave Yemen - Reuters",
       "pubDate": "Tue, 30 Dec 2025 10:58:11 GMT"
@@ -838,10 +826,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea unveils nuclear-powered strategic submarine - TURDEF",
-      "pubDate": "Sun, 28 Dec 2025 16:05:08 GMT"
-    },
     {
       "title": "A Russian ship taking nuclear sub reactors to North Korea has sunk. Who did that? - The Telegraph",
       "pubDate": "Tue, 30 Dec 2025 16:54:00 GMT"
@@ -1185,10 +1169,6 @@
   ],
   "Privacy": [
     {
-      "title": "Apple fined $115M in Italy over app store privacy rules - Chicago Star Media",
-      "pubDate": "Sun, 28 Dec 2025 16:42:00 GMT"
-    },
-    {
       "title": "Indiana, Kentucky, and Rhode Island Enforce New Privacy Laws - Bloomberg Law News",
       "pubDate": "Mon, 29 Dec 2025 10:00:00 GMT"
     },
@@ -1256,10 +1236,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "As Memories of Fukushima Fade, Japan Seeks Bigger Role for Nuclear Power - The Wall Street Journal",
-      "pubDate": "Sun, 28 Dec 2025 16:00:00 GMT"
-    },
     {
       "title": "New Jersey puts financing framework in place to support 1.2 GW of next-generation nuclear power - Energies Media",
       "pubDate": "Sun, 28 Dec 2025 18:31:26 GMT"
@@ -1335,12 +1311,6 @@
     {
       "title": "Russian Networks Laundered $35 Million From LastPass Breach Through Privacy Tools - Yellow.com",
       "pubDate": "Sun, 28 Dec 2025 22:46:39 GMT"
-    }
-  ],
-  "Technology": [
-    {
-      "title": "Sen. Bernie Sanders warns AI is 'the most consequential technology in the history of humanity' - CNN",
-      "pubDate": "Sun, 28 Dec 2025 15:58:37 GMT"
     }
   ],
   "Corruption": [
@@ -1625,6 +1595,10 @@
     {
       "title": "Democrats vow to oppose homeland security funds after Minnesota shooting as shutdown risk grows - ABC News",
       "pubDate": "Mon, 26 Jan 2026 08:14:44 GMT"
+    },
+    {
+      "title": "Democrats Vow Not to Fund ICE After Shooting, Imperiling Spending Deal - The New York Times",
+      "pubDate": "Tue, 27 Jan 2026 15:59:57 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -1727,6 +1701,10 @@
     {
       "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate - The New York Times",
       "pubDate": "Mon, 26 Jan 2026 17:28:06 GMT"
+    },
+    {
+      "title": "North Korea test-launches 2 ballistic missiles toward sea, Japan and South Korea say - ABC News",
+      "pubDate": "Tue, 27 Jan 2026 11:44:53 GMT"
     }
   ],
   "United States": [
@@ -1795,6 +1773,10 @@
     {
       "title": "German President\u2019s sharp critique of US foreign policy reflects Europe\u2019s growing concern over fears of a US-driven \u201cmight-makes-right\u201d order: experts - Global Times",
       "pubDate": "Fri, 09 Jan 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Trump tariffs live updates: EU, India seal trade deal in rebuff to Trump as he threatens S. Korea tariff boost - Yahoo Finance",
+      "pubDate": "Tue, 27 Jan 2026 16:42:00 GMT"
     }
   ],
   "Internet": [
