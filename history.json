@@ -83,13 +83,13 @@
     {
       "title": "European Union opens investigation into Elon Musk's AI chatbot Grok over sexual deepfakes - CBS News",
       "pubDate": "Mon, 26 Jan 2026 22:51:00 GMT"
+    },
+    {
+      "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar. - The New York Times",
+      "pubDate": "Tue, 27 Jan 2026 16:29:55 GMT"
     }
   ],
   "Israel": [
-    {
-      "title": "In the US, Netanyahu aims to convince Trump that only threat of war can bring peace - The Times of Israel",
-      "pubDate": "Sun, 28 Dec 2025 19:08:00 GMT"
-    },
     {
       "title": "Somaliland: Why has Israel recognised the breakaway African state as independent? - BBC",
       "pubDate": "Mon, 29 Dec 2025 20:14:12 GMT"
@@ -241,6 +241,10 @@
     {
       "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals - BBC",
       "pubDate": "Mon, 26 Jan 2026 00:15:03 GMT"
+    },
+    {
+      "title": "Troop Casualties in Ukraine War Near 2 Million, Study Finds - The New York Times",
+      "pubDate": "Tue, 27 Jan 2026 17:54:11 GMT"
     }
   ],
   "Donald Trump": [
@@ -467,10 +471,6 @@
   ],
   "Data Breach": [
     {
-      "title": "Cond\u00e9 Nast faces major data breach: 2.3M WIRED records leaked, 40M more at risk - Security Affairs",
-      "pubDate": "Sun, 28 Dec 2025 19:51:38 GMT"
-    },
-    {
       "title": "South Korean retail giant Coupang to compensate $1.1 billion to affected users over data breach - CNBC",
       "pubDate": "Mon, 29 Dec 2025 01:14:00 GMT"
     },
@@ -531,6 +531,10 @@
     {
       "title": "AI-driven cyber war is near, Israel cyber chief warns - jpost.com",
       "pubDate": "Tue, 27 Jan 2026 09:50:30 GMT"
+    },
+    {
+      "title": "Trump\u2019s acting cyber chief uploaded sensitive files into a public version of ChatGPT - Politico",
+      "pubDate": "Tue, 27 Jan 2026 20:30:00 GMT"
     }
   ],
   "US Economy": [
@@ -664,14 +668,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Global carbon emissions hit record high, scientists warn of worsening climate disasters - FOX 13 Tampa Bay",
-      "pubDate": "Sun, 28 Dec 2025 19:07:21 GMT"
-    },
-    {
-      "title": "IMF: Climate change could cost PH 2% of annual GDP - Inquirer.net",
-      "pubDate": "Sun, 28 Dec 2025 18:04:00 GMT"
-    },
     {
       "title": "Glaciers melting from climate change may reawaken the world\u2019s most dangerous volcanoes - CNN",
       "pubDate": "Tue, 30 Dec 2025 11:49:19 GMT"
@@ -1237,10 +1233,6 @@
   ],
   "Nuclear Power": [
     {
-      "title": "New Jersey puts financing framework in place to support 1.2 GW of next-generation nuclear power - Energies Media",
-      "pubDate": "Sun, 28 Dec 2025 18:31:26 GMT"
-    },
-    {
       "title": "Zaporizhzhia power plant could restart in 18 months once the war ends, head says - Reuters",
       "pubDate": "Mon, 29 Dec 2025 10:00:56 GMT"
     },
@@ -1305,12 +1297,6 @@
     {
       "title": "Berliner Zeitung: BRICS will launch its payment system \u2014 sanctions will become useless - EADaily",
       "pubDate": "Mon, 26 Jan 2026 08:15:00 GMT"
-    }
-  ],
-  "Information Security": [
-    {
-      "title": "Russian Networks Laundered $35 Million From LastPass Breach Through Privacy Tools - Yellow.com",
-      "pubDate": "Sun, 28 Dec 2025 22:46:39 GMT"
     }
   ],
   "Corruption": [
@@ -1416,10 +1402,6 @@
     }
   ],
   "War and Unrest": [
-    {
-      "title": "Trump hosts Zelensky in Florida and holds call with Putin in latest push for Ukraine peace deal - CNN",
-      "pubDate": "Sun, 28 Dec 2025 22:53:00 GMT"
-    },
     {
       "title": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia - The New York Times",
       "pubDate": "Wed, 31 Dec 2025 17:00:12 GMT"
@@ -1981,6 +1963,10 @@
     {
       "title": "The Great AGI Divide: AI\u2019s Top Minds Clash in Davos Over Tech\u2019s Final Frontier - WebProNews",
       "pubDate": "Sun, 25 Jan 2026 21:24:06 GMT"
+    },
+    {
+      "title": "How China Caught Up on AI\u2014and May Now Win the Future - Time Magazine",
+      "pubDate": "Tue, 27 Jan 2026 16:16:05 GMT"
     }
   ],
   "Electric Power Transmission": [
@@ -2051,6 +2037,22 @@
     {
       "title": "French MPs take first step to ban social media for under-15s - BBC",
       "pubDate": "Mon, 26 Jan 2026 21:46:41 GMT"
+    },
+    {
+      "title": "Social Media Giants Face Landmark Legal Tests on Child Safety - The New York Times",
+      "pubDate": "Tue, 27 Jan 2026 16:58:47 GMT"
+    }
+  ],
+  "Immigration and Customs Enforcement": [
+    {
+      "title": "US to send ICE agents to Winter Olympics, prompting Italian anger - BBC",
+      "pubDate": "Tue, 27 Jan 2026 19:13:55 GMT"
+    }
+  ],
+  "Power Grid": [
+    {
+      "title": "The Race Against the Clock to Fix a Power Grid Meltdown - WSJ - The Wall Street Journal",
+      "pubDate": "Tue, 27 Jan 2026 17:00:00 GMT"
     }
   ]
 }
