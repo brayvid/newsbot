@@ -183,6 +183,10 @@
     {
       "title": "Russian drones kill 1 and injure children in Ukraine as Zelenskyy urges speedier diplomacy - ABC News",
       "pubDate": "Tue, 27 Jan 2026 13:10:18 GMT"
+    },
+    {
+      "title": "Russian air attack kills two in Kyiv region, Ukraine says - Reuters",
+      "pubDate": "Wed, 28 Jan 2026 07:45:00 GMT"
     }
   ],
   "Russia": [
@@ -335,6 +339,10 @@
     {
       "title": "Justice Department investigating a growing number of Trump political foes - NBC News",
       "pubDate": "Sat, 24 Jan 2026 10:23:00 GMT"
+    },
+    {
+      "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting - BBC",
+      "pubDate": "Wed, 28 Jan 2026 05:38:48 GMT"
     }
   ],
   "China": [
@@ -397,6 +405,10 @@
     {
       "title": "Exclusive | China\u2019s Top General Accused of Giving Nuclear Secrets to U.S. - The Wall Street Journal",
       "pubDate": "Sun, 25 Jan 2026 17:05:00 GMT"
+    },
+    {
+      "title": "Exclusive: China gives nod to ByteDance, Alibaba and Tencent to buy Nvidia's H200 chips - sources - Reuters",
+      "pubDate": "Wed, 28 Jan 2026 08:46:26 GMT"
     }
   ],
   "AI Safety": [
@@ -470,10 +482,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "South Korean retail giant Coupang to compensate $1.1 billion to affected users over data breach - CNBC",
-      "pubDate": "Mon, 29 Dec 2025 01:14:00 GMT"
-    },
     {
       "title": "Manage My Health data breach ransom deadline arrives - RNZ",
       "pubDate": "Mon, 05 Jan 2026 15:59:51 GMT"
@@ -556,10 +564,6 @@
     }
   ],
   "Earthquakes": [
-    {
-      "title": "Magnitude 4.7 earthquake shakes Northern California - Los Angeles Times",
-      "pubDate": "Mon, 29 Dec 2025 04:07:30 GMT"
-    },
     {
       "title": "Earthquake with 6.5 magnitude rattles southern and central Mexico killing 2 - AP News",
       "pubDate": "Fri, 02 Jan 2026 21:40:00 GMT"
@@ -787,10 +791,6 @@
   ],
   "FBI": [
     {
-      "title": "Pipe bomb suspect told FBI he targeted U.S. political parties, memo says - NPR",
-      "pubDate": "Mon, 29 Dec 2025 07:11:44 GMT"
-    },
-    {
       "title": "FBI says undercover operation thwarted ISIS-inspired terror attack - The Washington Post",
       "pubDate": "Fri, 02 Jan 2026 19:47:00 GMT"
     }
@@ -991,10 +991,6 @@
   ],
   "Drones": [
     {
-      "title": "\"80 Drones, 36 Hours\": Pakistan Admits 'Nur Khan' Airbase Struck In Op Sindoor - NDTV",
-      "pubDate": "Mon, 29 Dec 2025 03:21:07 GMT"
-    },
-    {
       "title": "US Media Confirms Strike in Venezuela to be a CIA Covert Operation - ColombiaOne.com",
       "pubDate": "Tue, 30 Dec 2025 14:59:06 GMT"
     },
@@ -1047,6 +1043,10 @@
     {
       "title": "Japan Bond Crash Unleashes a $7 Trillion Risk for Global Markets - Bloomberg.com",
       "pubDate": "Sun, 25 Jan 2026 22:00:31 GMT"
+    },
+    {
+      "title": "Federal Reserve may keep rates unchanged for months as economy shows signs of health - clickondetroit.com",
+      "pubDate": "Wed, 28 Jan 2026 11:51:07 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1143,10 +1143,6 @@
   ],
   "Terrorism": [
     {
-      "title": "Three Turkish police officers killed by ISIS militants as authorities step up raids over winter holidays - CNN",
-      "pubDate": "Mon, 29 Dec 2025 12:02:52 GMT"
-    },
-    {
       "title": "Bondi Beach terrorists \u2018acted alone\u2019 in attack on Hanukkah event \u2014 Australian police - The Times of Israel",
       "pubDate": "Tue, 30 Dec 2025 04:44:47 GMT"
     },
@@ -1161,13 +1157,13 @@
     {
       "title": "Itamar Ben-Gvir switches terrorism death penalty method to hanging - The Jerusalem Post",
       "pubDate": "Wed, 14 Jan 2026 18:38:00 GMT"
+    },
+    {
+      "title": "Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls \u2018terrorism\u2019 - CNN",
+      "pubDate": "Wed, 28 Jan 2026 10:34:23 GMT"
     }
   ],
   "Privacy": [
-    {
-      "title": "Indiana, Kentucky, and Rhode Island Enforce New Privacy Laws - Bloomberg Law News",
-      "pubDate": "Mon, 29 Dec 2025 10:00:00 GMT"
-    },
     {
       "title": "New York\u2019s governor vetoes popular health data privacy bill - Healthcare Brew",
       "pubDate": "Mon, 12 Jan 2026 16:40:55 GMT"
@@ -1233,14 +1229,6 @@
   ],
   "Nuclear Power": [
     {
-      "title": "Zaporizhzhia power plant could restart in 18 months once the war ends, head says - Reuters",
-      "pubDate": "Mon, 29 Dec 2025 10:00:56 GMT"
-    },
-    {
-      "title": "Mini nuclear reactors are already losing their glow - Financial Times",
-      "pubDate": "Mon, 29 Dec 2025 11:04:48 GMT"
-    },
-    {
       "title": "12th blackout at Europe's largest nuclear plant: Russia deliberately disrupts Zaporizhzhia Nuclear Plant to integrate it into its grid - Euromaidan Press",
       "pubDate": "Sat, 03 Jan 2026 18:26:50 GMT"
     },
@@ -1300,10 +1288,6 @@
     }
   ],
   "Corruption": [
-    {
-      "title": "Special Counsel Indicts Kim Keon-hee for Abusing Presidential Spouse Status, Corruption - \uc870\uc120\uc77c\ubcf4",
-      "pubDate": "Mon, 29 Dec 2025 06:50:21 GMT"
-    },
     {
       "title": "Thousands rally in Serbia as students continue fight against corruption - Al Jazeera",
       "pubDate": "Sun, 18 Jan 2026 06:37:32 GMT"
@@ -1415,17 +1399,7 @@
       "pubDate": "Wed, 14 Jan 2026 03:16:00 GMT"
     }
   ],
-  "Hydroelectric Power": [
-    {
-      "title": "Indus treaty with Pak on hold, India goes for another hydel project on Chenab - India Today",
-      "pubDate": "Mon, 29 Dec 2025 10:55:21 GMT"
-    }
-  ],
   "New York City": [
-    {
-      "title": "Parts of New York and New England Brace for Ice Storm - The New York Times",
-      "pubDate": "Mon, 29 Dec 2025 10:11:38 GMT"
-    },
     {
       "title": "Mamdani revokes Israel-related executive orders signed by Adams, directs team to focus on housing in first acts as mayor - CNN",
       "pubDate": "Fri, 02 Jan 2026 16:54:40 GMT"
@@ -1436,10 +1410,6 @@
     }
   ],
   "Democratic Party": [
-    {
-      "title": "Legal Groups Condemn Democratic Party's Judicial Legislation as Unconstitutional - \uc870\uc120\uc77c\ubcf4",
-      "pubDate": "Mon, 29 Dec 2025 06:25:47 GMT"
-    },
     {
       "title": "These Are the 12 States Vying to Kick Off Democrats\u2019 2028 Contest - The New York Times",
       "pubDate": "Sun, 18 Jan 2026 03:43:35 GMT"
@@ -2053,6 +2023,12 @@
     {
       "title": "The Race Against the Clock to Fix a Power Grid Meltdown - WSJ - The Wall Street Journal",
       "pubDate": "Tue, 27 Jan 2026 17:00:00 GMT"
+    }
+  ],
+  "Mark Zuckerberg": [
+    {
+      "title": "Meta CEO Zuckerberg blocked curbs on sex-talking chatbots for minors, court filing alleges - Reuters",
+      "pubDate": "Wed, 28 Jan 2026 03:14:00 GMT"
     }
   ]
 }
