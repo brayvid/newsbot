@@ -83,6 +83,10 @@
     {
       "title": "Artificial intelligence will cost jobs, admits Liz Kendall - The Guardian",
       "pubDate": "Wed, 28 Jan 2026 18:33:00 GMT"
+    },
+    {
+      "title": "Exclusive: China conditionally approves DeepSeek to buy Nvidia's H200 chips - sources - Reuters",
+      "pubDate": "Fri, 30 Jan 2026 06:51:00 GMT"
     }
   ],
   "Israel": [
@@ -339,10 +343,6 @@
   ],
   "China": [
     {
-      "title": "Inside China\u2019s Six-Decade Campaign to Dominate Rare Earths - The New York Times",
-      "pubDate": "Wed, 31 Dec 2025 05:00:15 GMT"
-    },
-    {
       "title": "China taxes condoms, contraceptive drugs in bid to spur birth rate - Reuters",
       "pubDate": "Fri, 02 Jan 2026 13:54:11 GMT"
     },
@@ -459,6 +459,10 @@
     {
       "title": "AI 'Swarms' Could Escalate Online Misinformation and Manipulation, Researchers Warn - Decrypt",
       "pubDate": "Sun, 25 Jan 2026 20:01:02 GMT"
+    },
+    {
+      "title": "South Korea Enacts Global Milestone Of AI Safety Laws Including Covering Mental Health Impacts - Forbes",
+      "pubDate": "Fri, 30 Jan 2026 08:15:00 GMT"
     }
   ],
   "Data Breach": [
@@ -759,6 +763,10 @@
     {
       "title": "Dutch Court Orders Netherlands to Protect Bonaire From Climate Change - The New York Times",
       "pubDate": "Wed, 28 Jan 2026 20:34:47 GMT"
+    },
+    {
+      "title": "Climate Litigation Updates (January 30, 2026) - Sabin Center for Climate Change Law",
+      "pubDate": "Fri, 30 Jan 2026 03:13:47 GMT"
     }
   ],
   "FBI": [
@@ -965,6 +973,10 @@
     {
       "title": "Russian drones injure Ukrainian children and a pregnant woman as Zelenskyy urges swifter diplomacy - The Hill",
       "pubDate": "Tue, 27 Jan 2026 10:32:00 GMT"
+    },
+    {
+      "title": "Poland Inks $4.3 Billion Deal for \u2018Drone Wall\u2019 to Deter Russia - Bloomberg.com",
+      "pubDate": "Fri, 30 Jan 2026 09:49:13 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1232,10 +1244,6 @@
     }
   ],
   "NVIDIA": [
-    {
-      "title": "How $160 million worth of export-controlled Nvidia chips were allegedly smuggled into China - CNBC",
-      "pubDate": "Wed, 31 Dec 2025 12:00:01 GMT"
-    },
     {
       "title": "Nvidia Details New A.I. Chips and Autonomous Car Project With Mercedes - The New York Times",
       "pubDate": "Mon, 05 Jan 2026 23:01:32 GMT"
@@ -1941,6 +1949,18 @@
     {
       "title": "Live updates: Democrats and White House reach deal to avert shutdown and fund Homeland Security for now - AP News",
       "pubDate": "Thu, 29 Jan 2026 23:37:00 GMT"
+    }
+  ],
+  "Taiwan": [
+    {
+      "title": "Xi\u2019s Military Purge May Set Back His Taiwan Ambitions - The New York Times",
+      "pubDate": "Fri, 30 Jan 2026 08:40:00 GMT"
+    }
+  ],
+  "Automation": [
+    {
+      "title": "Physical AI becomes central to LG\u2019s robotics and automation ambitions - Digital Watch Observatory",
+      "pubDate": "Fri, 30 Jan 2026 08:35:00 GMT"
     }
   ]
 }
