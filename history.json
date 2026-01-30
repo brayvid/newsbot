@@ -187,6 +187,10 @@
     {
       "title": "Russia says it's ready for Zelensky-Putin meeting \u2014 but only if Ukraine's president travels to Moscow - kyivindependent.com",
       "pubDate": "Wed, 28 Jan 2026 13:47:03 GMT"
+    },
+    {
+      "title": "Confusion in Kyiv and Moscow after Trump says Putin agreed to pause attacks for a week - NBC News",
+      "pubDate": "Fri, 30 Jan 2026 17:02:05 GMT"
     }
   ],
   "Russia": [
@@ -248,10 +252,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump vetoes two bipartisan bills, marking first vetoes of second term - CNN",
-      "pubDate": "Wed, 31 Dec 2025 13:48:50 GMT"
-    },
     {
       "title": "No major change in troop levels after Trump says US is \u2018locked and loaded\u2019 to defend Iranian protesters - CNN",
       "pubDate": "Fri, 02 Jan 2026 20:37:05 GMT"
@@ -1139,12 +1139,6 @@
       "pubDate": "Thu, 22 Jan 2026 22:41:50 GMT"
     }
   ],
-  "Supply Chain": [
-    {
-      "title": "The Dutch Seized A Chinese Chipmaker. Supply Chain Chaos Has Just Begun. - Forbes",
-      "pubDate": "Wed, 31 Dec 2025 17:06:03 GMT"
-    }
-  ],
   "Nuclear Power": [
     {
       "title": "12th blackout at Europe's largest nuclear plant: Russia deliberately disrupts Zaporizhzhia Nuclear Plant to integrate it into its grid - Euromaidan Press",
@@ -1235,6 +1229,10 @@
     {
       "title": "Pediatricians are disregarding the new vaccination schedule - The Washington Post",
       "pubDate": "Mon, 19 Jan 2026 18:00:30 GMT"
+    },
+    {
+      "title": "In one South Carolina county, measles starts to feel like next pandemic - BBC",
+      "pubDate": "Fri, 30 Jan 2026 11:32:26 GMT"
     }
   ],
   "Military and Defense": [
@@ -1304,10 +1302,6 @@
     }
   ],
   "War and Unrest": [
-    {
-      "title": "In Ukraine, an Arsenal of Killer A.I. Drones Is Being Born in War Against Russia - The New York Times",
-      "pubDate": "Wed, 31 Dec 2025 17:00:12 GMT"
-    },
     {
       "title": "Iran puts 'missile cities' on highest alert since war as regime moves to quash protests - Ynetnews",
       "pubDate": "Sat, 10 Jan 2026 14:42:16 GMT"
@@ -1961,6 +1955,18 @@
     {
       "title": "Physical AI becomes central to LG\u2019s robotics and automation ambitions - Digital Watch Observatory",
       "pubDate": "Fri, 30 Jan 2026 08:35:00 GMT"
+    }
+  ],
+  "Department of Justice": [
+    {
+      "title": "Justice Dept. Opens Civil Rights Investigation Into ICE Killing of Alex Pretti: Minnesota Live Updates - The New York Times",
+      "pubDate": "Fri, 30 Jan 2026 17:44:45 GMT"
+    }
+  ],
+  "Trade War": [
+    {
+      "title": "Bombardier stock dives on Trump threats of 50% tariff on Canadian planes - Al Jazeera",
+      "pubDate": "Fri, 30 Jan 2026 17:31:42 GMT"
     }
   ]
 }
