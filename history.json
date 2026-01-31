@@ -339,6 +339,10 @@
     {
       "title": "Trump Live Updates: Rubio Testifies on Venezuela, President Threatens Iran - The New York Times",
       "pubDate": "Wed, 28 Jan 2026 23:40:10 GMT"
+    },
+    {
+      "title": "Updates: Trump doubles down on Iran threats as US puts more sanctions - Al Jazeera",
+      "pubDate": "Fri, 30 Jan 2026 20:32:18 GMT"
     }
   ],
   "China": [
@@ -401,10 +405,6 @@
   ],
   "AI Safety": [
     {
-      "title": "NIST Publishes Preliminary Draft of Cybersecurity Framework Profile for Artificial Intelligence for Public Comment - Inside Privacy",
-      "pubDate": "Wed, 31 Dec 2025 19:15:27 GMT"
-    },
-    {
       "title": "OpenAI to Focus on Safety Amid Deception Risks - Mexico Business News",
       "pubDate": "Sat, 03 Jan 2026 19:35:54 GMT"
     },
@@ -463,6 +463,10 @@
     {
       "title": "South Korea Enacts Global Milestone Of AI Safety Laws Including Covering Mental Health Impacts - Forbes",
       "pubDate": "Fri, 30 Jan 2026 08:15:00 GMT"
+    },
+    {
+      "title": "NIOSH Issues Guidance on Managing AI Safety Risks in the Workplace - Lab Manager",
+      "pubDate": "Fri, 30 Jan 2026 13:01:06 GMT"
     }
   ],
   "Data Breach": [
@@ -1003,6 +1007,10 @@
     {
       "title": "Federal Reserve may keep rates unchanged for months as economy shows signs of health - clickondetroit.com",
       "pubDate": "Wed, 28 Jan 2026 11:51:07 GMT"
+    },
+    {
+      "title": "Trump nominates Kevin Warsh as new Federal Reserve chair - BBC",
+      "pubDate": "Fri, 30 Jan 2026 15:22:30 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1127,6 +1135,10 @@
     {
       "title": "UN International Court of Justice to hear 1st genocide case in over a decade - NPR",
       "pubDate": "Tue, 13 Jan 2026 11:50:52 GMT"
+    },
+    {
+      "title": "UN risks 'imminent financial collapse', secretary general warns - BBC",
+      "pubDate": "Fri, 30 Jan 2026 16:24:18 GMT"
     }
   ],
   "Renewable Energy": [
@@ -1589,6 +1601,10 @@
     {
       "title": "Deepfake \u2018Nudify\u2019 Technology Is Getting Darker\u2014and More Dangerous - WIRED",
       "pubDate": "Mon, 26 Jan 2026 11:30:00 GMT"
+    },
+    {
+      "title": "Key Discovery Points: Understanding the Ethics of AI for the Rest of Us - JD Supra",
+      "pubDate": "Fri, 30 Jan 2026 23:32:20 GMT"
     }
   ],
   "Space Exploration": [
@@ -1961,12 +1977,22 @@
     {
       "title": "Justice Dept. Opens Civil Rights Investigation Into ICE Killing of Alex Pretti: Minnesota Live Updates - The New York Times",
       "pubDate": "Fri, 30 Jan 2026 17:44:45 GMT"
+    },
+    {
+      "title": "DOJ releases tranche of Epstein files, says it has met its legal obligations - NPR",
+      "pubDate": "Fri, 30 Jan 2026 22:32:13 GMT"
     }
   ],
   "Trade War": [
     {
       "title": "Bombardier stock dives on Trump threats of 50% tariff on Canadian planes - Al Jazeera",
       "pubDate": "Fri, 30 Jan 2026 17:31:42 GMT"
+    }
+  ],
+  "Space Debris": [
+    {
+      "title": "Out-of-control Chinese rocket crashes in ocean after UK prepped emergency alert - The Sun",
+      "pubDate": "Fri, 30 Jan 2026 12:25:00 GMT"
     }
   ]
 }
