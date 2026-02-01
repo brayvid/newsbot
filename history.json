@@ -105,6 +105,10 @@
     {
       "title": "Israel far-right ministers reject US-backed postwar Gaza panel - The Guardian",
       "pubDate": "Sun, 18 Jan 2026 15:17:00 GMT"
+    },
+    {
+      "title": "Israel to ban MSF from working in Gaza over refusal to provide staff list - BBC",
+      "pubDate": "Sun, 01 Feb 2026 13:20:38 GMT"
     }
   ],
   "Ukraine": [
@@ -249,6 +253,10 @@
     {
       "title": "Al-Sharaa meets Putin as Russia seeks to secure military bases in Syria - Al Jazeera",
       "pubDate": "Wed, 28 Jan 2026 16:30:13 GMT"
+    },
+    {
+      "title": "15 Ukrainian miners killed in Russian drone strike on bus - CNN",
+      "pubDate": "Sun, 01 Feb 2026 16:46:35 GMT"
     }
   ],
   "Donald Trump": [
@@ -350,10 +358,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China taxes condoms, contraceptive drugs in bid to spur birth rate - Reuters",
-      "pubDate": "Fri, 02 Jan 2026 13:54:11 GMT"
-    },
     {
       "title": "US strike on Venezuela to embolden China's territorial claims, Taiwan attack unlikely, analysts say - Reuters",
       "pubDate": "Sun, 04 Jan 2026 09:30:57 GMT"
@@ -783,6 +787,10 @@
     {
       "title": "Climate Litigation Updates (January 30, 2026) - Sabin Center for Climate Change Law",
       "pubDate": "Fri, 30 Jan 2026 03:13:47 GMT"
+    },
+    {
+      "title": "Fossil fuel firms may have to pay for climate damage under proposed UN tax - The Guardian",
+      "pubDate": "Sun, 01 Feb 2026 12:02:00 GMT"
     }
   ],
   "FBI": [
@@ -828,10 +836,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran protests sparked by failing economy turn deadly - The Washington Post",
-      "pubDate": "Fri, 02 Jan 2026 10:01:55 GMT"
-    },
     {
       "title": "Rights group says at least 16 dead in Iran during week of protests - Reuters",
       "pubDate": "Sun, 04 Jan 2026 11:20:53 GMT"
@@ -902,10 +906,6 @@
     }
   ],
   "US Supreme Court": [
-    {
-      "title": "Drug-User Gun Ban Set for US Supreme Court Argument in March - Bloomberg Law News",
-      "pubDate": "Fri, 02 Jan 2026 17:51:00 GMT"
-    },
     {
       "title": "US Supreme Court's Next Transgender Rights Battle Could Affect More Than Sports - U.S. News & World Report",
       "pubDate": "Sat, 10 Jan 2026 11:13:44 GMT"
@@ -1141,12 +1141,6 @@
       "pubDate": "Mon, 12 Jan 2026 16:40:55 GMT"
     }
   ],
-  "SpaceX": [
-    {
-      "title": "SpaceX will move 4,400 satellites to a lower orbit after China cited safety risk - South China Morning Post",
-      "pubDate": "Fri, 02 Jan 2026 12:00:22 GMT"
-    }
-  ],
   "United Nations": [
     {
       "title": "At the U.N., Even Allies Condemn U.S. Action in Venezuela - The New York Times",
@@ -1345,10 +1339,6 @@
   ],
   "New York City": [
     {
-      "title": "Mamdani revokes Israel-related executive orders signed by Adams, directs team to focus on housing in first acts as mayor - CNN",
-      "pubDate": "Fri, 02 Jan 2026 16:54:40 GMT"
-    },
-    {
       "title": "Winter Storm Fern live: three people found dead in New York City as tens of thousands go without power across US - The Guardian",
       "pubDate": "Sat, 24 Jan 2026 15:37:00 GMT"
     }
@@ -1383,12 +1373,6 @@
     {
       "title": "North Korea\u2019s Kim fires vice premier, calls him \u2018a goat yoked to pull an ox cart\u2019 - CNN",
       "pubDate": "Wed, 21 Jan 2026 01:07:00 GMT"
-    }
-  ],
-  "Mars": [
-    {
-      "title": "NASA Confirms Strongest Signs Yet of Life on Mars With High Degree of Confidence - The Daily Galaxy",
-      "pubDate": "Fri, 02 Jan 2026 13:15:00 GMT"
     }
   ],
   "Google": [
@@ -1549,6 +1533,10 @@
     {
       "title": "Are quantum computers finally becoming useful? - Financial Times",
       "pubDate": "Sun, 11 Jan 2026 05:00:25 GMT"
+    },
+    {
+      "title": "New Discovery In Laser Technology Could Change Everything For Quantum Computing - bgr.com",
+      "pubDate": "Sun, 01 Feb 2026 11:17:00 GMT"
     }
   ],
   "AI & Infrastructure": [
@@ -1629,6 +1617,10 @@
     {
       "title": "Key Discovery Points: Understanding the Ethics of AI for the Rest of Us - JD Supra",
       "pubDate": "Fri, 30 Jan 2026 23:32:20 GMT"
+    },
+    {
+      "title": "Google helped Israeli military contractor with AI, whistleblower alleges - The Washington Post",
+      "pubDate": "Sun, 01 Feb 2026 17:31:50 GMT"
     }
   ],
   "Space Exploration": [
@@ -1991,6 +1983,10 @@
     {
       "title": "Live updates: Democrats and White House reach deal to avert shutdown and fund Homeland Security for now - AP News",
       "pubDate": "Thu, 29 Jan 2026 23:37:00 GMT"
+    },
+    {
+      "title": "Government Shutdown Update: Here\u2019s When It Could End, According To House Leaders - Forbes",
+      "pubDate": "Sun, 01 Feb 2026 15:54:13 GMT"
     }
   ],
   "Taiwan": [
@@ -2029,6 +2025,12 @@
     {
       "title": "Out-of-control Chinese rocket crashes in ocean after UK prepped emergency alert - The Sun",
       "pubDate": "Fri, 30 Jan 2026 12:25:00 GMT"
+    }
+  ],
+  "Epstein Files": [
+    {
+      "title": "Slovakia PM's national security adviser resigns over Epstein links - BBC",
+      "pubDate": "Sun, 01 Feb 2026 08:37:23 GMT"
     }
   ]
 }
