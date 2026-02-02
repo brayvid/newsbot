@@ -87,6 +87,10 @@
     {
       "title": "Exclusive: China conditionally approves DeepSeek to buy Nvidia's H200 chips - sources - Reuters",
       "pubDate": "Fri, 30 Jan 2026 06:51:00 GMT"
+    },
+    {
+      "title": "Trump\u2019s AI push exposes a divide in the MAGA movement - CNN",
+      "pubDate": "Mon, 02 Feb 2026 10:00:46 GMT"
     }
   ],
   "Israel": [
@@ -195,13 +199,13 @@
     {
       "title": "Confusion in Kyiv and Moscow after Trump says Putin agreed to pause attacks for a week - NBC News",
       "pubDate": "Fri, 30 Jan 2026 17:02:05 GMT"
+    },
+    {
+      "title": "Twelve miners killed by Russian strike in Ukraine, officials say - BBC",
+      "pubDate": "Mon, 02 Feb 2026 07:00:55 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Ukraine war briefing: Russia makes biggest battleground gains since first year of war, analysis shows - The Guardian",
-      "pubDate": "Sat, 03 Jan 2026 02:46:00 GMT"
-    },
     {
       "title": "Russia attacks Ukraine with a new ballistic missile - NBC News",
       "pubDate": "Fri, 09 Jan 2026 17:28:53 GMT"
@@ -260,10 +264,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "No major change in troop levels after Trump says US is \u2018locked and loaded\u2019 to defend Iranian protesters - CNN",
-      "pubDate": "Fri, 02 Jan 2026 20:37:05 GMT"
-    },
     {
       "title": "Venezuela latest: Captured Venezuelan leader Maduro arrives at detention centre after US strikes, reports say - BBC",
       "pubDate": "Sun, 04 Jan 2026 05:45:30 GMT"
@@ -409,6 +409,10 @@
     {
       "title": "Exclusive: China gives nod to ByteDance, Alibaba and Tencent to buy Nvidia's H200 chips - sources - Reuters",
       "pubDate": "Wed, 28 Jan 2026 08:46:26 GMT"
+    },
+    {
+      "title": "Trump\u2019s Embrace of Weaker Dollar Gives China an Opening - Bloomberg.com",
+      "pubDate": "Mon, 02 Feb 2026 10:59:02 GMT"
     }
   ],
   "AI Safety": [
@@ -565,10 +569,6 @@
   ],
   "Earthquakes": [
     {
-      "title": "Earthquake with 6.5 magnitude rattles southern and central Mexico killing 2 - AP News",
-      "pubDate": "Fri, 02 Jan 2026 21:40:00 GMT"
-    },
-    {
       "title": "4.7 magnitude earthquake rattles Wyoming and parts of Utah early Thursday morning - fox13now.com",
       "pubDate": "Thu, 22 Jan 2026 14:58:59 GMT"
     }
@@ -602,10 +602,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Angelina Jolie visits Rafah Crossing as Gaza aid groups face Israeli suspension - CNN",
-      "pubDate": "Fri, 02 Jan 2026 22:56:33 GMT"
-    },
     {
       "title": "International aid groups grapple with what Israel\u2019s ban will mean for their work in Gaza - AP News",
       "pubDate": "Sun, 04 Jan 2026 05:01:00 GMT"
@@ -793,12 +789,6 @@
       "pubDate": "Sun, 01 Feb 2026 12:02:00 GMT"
     }
   ],
-  "FBI": [
-    {
-      "title": "FBI says undercover operation thwarted ISIS-inspired terror attack - The Washington Post",
-      "pubDate": "Fri, 02 Jan 2026 19:47:00 GMT"
-    }
-  ],
   "National Security": [
     {
       "title": "Lithium Has Become a National Security Priority for the United States - Crude Oil Prices Today | OilPrice.com",
@@ -815,6 +805,10 @@
     {
       "title": "National security experts argue U.S. TikTok deal falls short - PBS",
       "pubDate": "Fri, 23 Jan 2026 23:35:29 GMT"
+    },
+    {
+      "title": "Trump\u2019s UAE Chip Deal Is a National Security Risk - Bloomberg",
+      "pubDate": "Mon, 02 Feb 2026 10:00:26 GMT"
     }
   ],
   "North Korea": [
@@ -1066,10 +1060,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "Initial Unemployment Claims Down 16K, Lower Than Expected - Advisor Perspectives",
-      "pubDate": "Sat, 03 Jan 2026 01:11:13 GMT"
-    },
     {
       "title": "China trade slump may fuel recession fears across global markets | tastylive's Macro Money - MSN",
       "pubDate": "Sun, 04 Jan 2026 04:21:51 GMT"
@@ -1376,10 +1366,6 @@
     }
   ],
   "Google": [
-    {
-      "title": "Google AI Overviews put people at risk of harm with misleading health advice - The Guardian",
-      "pubDate": "Fri, 02 Jan 2026 18:19:00 GMT"
-    },
     {
       "title": "\u2018Dangerous and alarming\u2019: Google removes some of its AI summaries after users\u2019 health put at risk - The Guardian",
       "pubDate": "Mon, 12 Jan 2026 02:30:00 GMT"
@@ -1987,6 +1973,10 @@
     {
       "title": "Government Shutdown Update: Here\u2019s When It Could End, According To House Leaders - Forbes",
       "pubDate": "Sun, 01 Feb 2026 15:54:13 GMT"
+    },
+    {
+      "title": "Speaker Johnson is moving to end the shutdown by Tuesday \u2014 without Democratic support - Axios",
+      "pubDate": "Mon, 02 Feb 2026 04:24:29 GMT"
     }
   ],
   "Taiwan": [
@@ -2013,6 +2003,10 @@
     {
       "title": "January 30, 2026 \u2014 DOJ releases millions of pages of documents in Epstein investigation - CNN",
       "pubDate": "Sat, 31 Jan 2026 04:15:03 GMT"
+    },
+    {
+      "title": "Epstein victims' lawyers ask court to order DOJ to take down Epstein files website - ABC News",
+      "pubDate": "Mon, 02 Feb 2026 02:48:45 GMT"
     }
   ],
   "Trade War": [
@@ -2031,6 +2025,12 @@
     {
       "title": "Slovakia PM's national security adviser resigns over Epstein links - BBC",
       "pubDate": "Sun, 01 Feb 2026 08:37:23 GMT"
+    }
+  ],
+  "Energy Storage": [
+    {
+      "title": "Tesla energy storage deployments jumped in \u2018crucial AI transformation year'; company expects margin compression in 2026 - Energy-Storage.News",
+      "pubDate": "Mon, 02 Feb 2026 09:27:08 GMT"
     }
   ]
 }
