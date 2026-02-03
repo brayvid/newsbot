@@ -121,10 +121,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war briefing: Ukraine will fight on if peace talks fail, Zelenskyy vows - The Guardian",
-      "pubDate": "Sun, 04 Jan 2026 03:48:00 GMT"
-    },
-    {
       "title": "\u2018This is business as usual\u2019: boss of bombed Ukrainian vodka maker seeks to expand exports - The Guardian",
       "pubDate": "Sun, 04 Jan 2026 09:16:00 GMT"
     },
@@ -272,10 +268,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Venezuela latest: Captured Venezuelan leader Maduro arrives at detention centre after US strikes, reports say - BBC",
-      "pubDate": "Sun, 04 Jan 2026 05:45:30 GMT"
-    },
     {
       "title": "Trump Long Wanted to \u2018Take the Oil.\u2019 He Says He\u2019ll Do It in Venezuela. - The New York Times",
       "pubDate": "Sun, 04 Jan 2026 16:54:00 GMT"
@@ -555,6 +547,10 @@
     {
       "title": "Trump\u2019s acting cyber chief uploaded sensitive files into a public version of ChatGPT - Politico",
       "pubDate": "Tue, 27 Jan 2026 20:30:00 GMT"
+    },
+    {
+      "title": "Notepad++ says Chinese government hackers hijacked its software updates for months - TechCrunch",
+      "pubDate": "Mon, 02 Feb 2026 18:09:34 GMT"
     }
   ],
   "US Economy": [
@@ -606,10 +602,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "International aid groups grapple with what Israel\u2019s ban will mean for their work in Gaza - AP News",
-      "pubDate": "Sun, 04 Jan 2026 05:01:00 GMT"
-    },
     {
       "title": "Poverty, unemployment skyrocket in the Gaza Strip after Israel\u2019s war - Al Jazeera",
       "pubDate": "Sun, 04 Jan 2026 07:12:30 GMT"
@@ -1065,10 +1057,6 @@
   ],
   "Recession": [
     {
-      "title": "China trade slump may fuel recession fears across global markets | tastylive's Macro Money - MSN",
-      "pubDate": "Sun, 04 Jan 2026 04:21:51 GMT"
-    },
-    {
       "title": "AI spending props up economy that would \"already be in recession\" - MSN",
       "pubDate": "Thu, 08 Jan 2026 14:50:32 GMT"
     },
@@ -1357,10 +1345,6 @@
   ],
   "Kim Jong Un": [
     {
-      "title": "North Korea fires ballistic missiles as rival South's leader visits China - Reuters",
-      "pubDate": "Sun, 04 Jan 2026 03:32:10 GMT"
-    },
-    {
       "title": "North Korea\u2019s Kim fires vice premier, calls him \u2018a goat yoked to pull an ox cart\u2019 - CNN",
       "pubDate": "Wed, 21 Jan 2026 01:07:00 GMT"
     }
@@ -1607,6 +1591,10 @@
     {
       "title": "Google helped Israeli military contractor with AI, whistleblower alleges - The Washington Post",
       "pubDate": "Sun, 01 Feb 2026 17:31:50 GMT"
+    },
+    {
+      "title": "Inside Project Panama: 2 million books scanned and destroyed by Anthropic AI to train machines - Times of India",
+      "pubDate": "Mon, 02 Feb 2026 21:42:00 GMT"
     }
   ],
   "Space Exploration": [
@@ -1977,6 +1965,10 @@
     {
       "title": "Speaker Johnson is moving to end the shutdown by Tuesday \u2014 without Democratic support - Axios",
       "pubDate": "Mon, 02 Feb 2026 04:24:29 GMT"
+    },
+    {
+      "title": "Government shutdown nears possible end as funding fight turns to the House - CBS News",
+      "pubDate": "Tue, 03 Feb 2026 04:18:08 GMT"
     }
   ],
   "Taiwan": [
@@ -2031,6 +2023,24 @@
     {
       "title": "Tesla energy storage deployments jumped in \u2018crucial AI transformation year'; company expects margin compression in 2026 - Energy-Storage.News",
       "pubDate": "Mon, 02 Feb 2026 09:27:08 GMT"
+    }
+  ],
+  "Elections": [
+    {
+      "title": "Trump, in an Escalation, Calls for Republicans to \u2018Nationalize\u2019 Elections - The New York Times",
+      "pubDate": "Mon, 02 Feb 2026 22:21:49 GMT"
+    }
+  ],
+  "India": [
+    {
+      "title": "Trump Announces Initial Trade Deal With India, Cutting Tariffs to 18% - The New York Times",
+      "pubDate": "Tue, 03 Feb 2026 00:37:12 GMT"
+    }
+  ],
+  "Artemis Program": [
+    {
+      "title": "NASA rocket that will return astronauts to the moon hit by fuel leak during practice countdown - PBS",
+      "pubDate": "Mon, 02 Feb 2026 21:44:21 GMT"
     }
   ]
 }
