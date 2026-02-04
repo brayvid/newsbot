@@ -117,10 +117,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine war briefing: Kyiv escalating drone attacks on Russia, Moscow claims - The Guardian",
-      "pubDate": "Mon, 05 Jan 2026 03:47:00 GMT"
-    },
-    {
       "title": "Zelensky\u2019s Assessment Darkens as Europeans Gather to Talk Peace - The New York Times",
       "pubDate": "Tue, 06 Jan 2026 05:01:05 GMT"
     },
@@ -265,6 +261,10 @@
     {
       "title": "Russian hits Ukraine energy sites in 'most powerful blow\" so far this year - BBC",
       "pubDate": "Tue, 03 Feb 2026 13:17:53 GMT"
+    },
+    {
+      "title": "Russia: Crackdown on Dissent Escalates - Human Rights Watch",
+      "pubDate": "Wed, 04 Feb 2026 05:01:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -351,6 +351,10 @@
     {
       "title": "Trump taps Fed critic Kevin Warsh to succeed Jerome Powell as chairman - The Washington Post",
       "pubDate": "Sat, 31 Jan 2026 00:51:40 GMT"
+    },
+    {
+      "title": "After Republicans push Clintons to testify on Epstein, Democrats warn they'll haul in Trump - NBC News",
+      "pubDate": "Tue, 03 Feb 2026 21:05:00 GMT"
     }
   ],
   "China": [
@@ -412,10 +416,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI Safety Window Is Closing as Systems Advance Faster Than Controls, Warns ARIA Expert - CXO Digitalpulse",
-      "pubDate": "Mon, 05 Jan 2026 04:44:48 GMT"
-    },
     {
       "title": "The AI Bioweapon Demo That Caused Alarm in Washington - Time Magazine",
       "pubDate": "Tue, 06 Jan 2026 15:07:25 GMT"
@@ -591,6 +591,10 @@
     {
       "title": "OpenAI Plans to Take a Cut of Customers\u2019 AI-Aided Discoveries - The Information",
       "pubDate": "Thu, 22 Jan 2026 18:30:00 GMT"
+    },
+    {
+      "title": "Nvidia, OpenAI appear stalled on their mega deal. But the AI giants still need each other - CNBC",
+      "pubDate": "Tue, 03 Feb 2026 22:22:05 GMT"
     }
   ],
   "Gaza": [
@@ -802,10 +806,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "What to know about the protests now shaking Iran as tensions remain high over its nuclear program - AP News",
-      "pubDate": "Mon, 05 Jan 2026 02:27:00 GMT"
-    },
     {
       "title": "Iran anti-government protests spread to majority of provinces, videos show - BBC",
       "pubDate": "Tue, 06 Jan 2026 15:35:23 GMT"
@@ -1415,6 +1415,10 @@
     {
       "title": "Chinese scientists make groundbreaking discovery in pursuit of limitless energy: 'A practical and scalable pathway' - The Cool Down",
       "pubDate": "Sun, 25 Jan 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Controllable Nuclear Fusion Secures Another 500 Million Yuan in Financing - 36 Kr",
+      "pubDate": "Wed, 04 Feb 2026 03:13:08 GMT"
     }
   ],
   "Geopolitics & US Foreign Policy": [
@@ -1945,6 +1949,10 @@
     {
       "title": "Government shutdown nears possible end as funding fight turns to the House - CBS News",
       "pubDate": "Tue, 03 Feb 2026 04:18:08 GMT"
+    },
+    {
+      "title": "Congress ends shutdown, approves $1.2T in funding \u2014 and sets up DHS cliff - Politico",
+      "pubDate": "Tue, 03 Feb 2026 19:27:29 GMT"
     }
   ],
   "Taiwan": [
@@ -2029,6 +2037,12 @@
     {
       "title": "NASA rocket that will return astronauts to the moon hit by fuel leak during practice countdown - PBS",
       "pubDate": "Mon, 02 Feb 2026 21:44:21 GMT"
+    }
+  ],
+  "Middle East": [
+    {
+      "title": "Seif al-Islam el-Qaddafi, Son of Libyan Dictator, Is Killed in Attack, Lawyer Says - The New York Times",
+      "pubDate": "Tue, 03 Feb 2026 23:24:40 GMT"
     }
   ]
 }
