@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Microsoft CEO Satya Nadella Says AI Bottleneck is Now Electricity Not GPUs Due to Data Center Power Needs - Technetbook",
-      "pubDate": "Sun, 04 Jan 2026 23:08:00 GMT"
-    },
-    {
       "title": "Elon Musk's xAI raises $20 billion from investors including Nvidia, Cisco, Fidelity - CNBC",
       "pubDate": "Tue, 06 Jan 2026 20:20:48 GMT"
     },
@@ -95,13 +91,13 @@
     {
       "title": "Opinion | Where Is A.I. Taking Us? Eight Leading Thinkers Share Their Visions. - The New York Times",
       "pubDate": "Tue, 03 Feb 2026 11:33:01 GMT"
+    },
+    {
+      "title": "More companies are pointing to AI as they lay off employees - CBS News",
+      "pubDate": "Tue, 03 Feb 2026 22:44:00 GMT"
     }
   ],
   "Israel": [
-    {
-      "title": "Israel launches deadly strikes in Gaza in new ceasefire violations - Al Jazeera",
-      "pubDate": "Sun, 04 Jan 2026 22:41:15 GMT"
-    },
     {
       "title": "Israel\u2019s F-35 Veto: How Tel Aviv\u2019s Opposition Could Block a US Sale to T\u00fcrkiye - Military.com",
       "pubDate": "Fri, 09 Jan 2026 17:22:00 GMT"
@@ -265,13 +261,13 @@
     {
       "title": "15 Ukrainian miners killed in Russian drone strike on bus - CNN",
       "pubDate": "Sun, 01 Feb 2026 16:46:35 GMT"
+    },
+    {
+      "title": "Russian hits Ukraine energy sites in 'most powerful blow\" so far this year - BBC",
+      "pubDate": "Tue, 03 Feb 2026 13:17:53 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump Long Wanted to \u2018Take the Oil.\u2019 He Says He\u2019ll Do It in Venezuela. - The New York Times",
-      "pubDate": "Sun, 04 Jan 2026 16:54:00 GMT"
-    },
     {
       "title": "Maduro enters not guilty plea in New York City court: Live updates - CNN",
       "pubDate": "Mon, 05 Jan 2026 23:41:00 GMT"
@@ -416,10 +412,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "World \u2018may not have time\u2019 to prepare for AI safety risks, says leading researcher - The Guardian",
-      "pubDate": "Sun, 04 Jan 2026 15:44:00 GMT"
-    },
     {
       "title": "AI Safety Window Is Closing as Systems Advance Faster Than Controls, Warns ARIA Expert - CXO Digitalpulse",
       "pubDate": "Mon, 05 Jan 2026 04:44:48 GMT"
@@ -967,6 +959,10 @@
     {
       "title": "Poland Inks $4.3 Billion Deal for \u2018Drone Wall\u2019 to Deter Russia - Bloomberg.com",
       "pubDate": "Fri, 30 Jan 2026 09:49:13 GMT"
+    },
+    {
+      "title": "US fighter jet shoots down Iranian drone approaching US aircraft carrier - ABC News",
+      "pubDate": "Tue, 03 Feb 2026 18:56:15 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1132,10 +1128,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "Washington State is Becoming a Major Nuclear Energy Hub - Planetizen",
-      "pubDate": "Sun, 04 Jan 2026 17:00:00 GMT"
-    },
     {
       "title": "Watchdog halts a Japanese nuclear plant's safety review after seismic data found to be fabricated - ABC News",
       "pubDate": "Wed, 07 Jan 2026 12:04:27 GMT"
@@ -1351,10 +1343,6 @@
   ],
   "US Politics": [
     {
-      "title": "How the U.S. captured Maduro in Venezuela: A CIA team, steel doors and a fateful phone call - NBC News",
-      "pubDate": "Sun, 04 Jan 2026 19:02:00 GMT"
-    },
-    {
       "title": "Six Big Political Questions for 2026 - The New York Times",
       "pubDate": "Mon, 05 Jan 2026 23:00:06 GMT"
     },
@@ -1413,13 +1401,13 @@
     {
       "title": "Senate passes $1.2T government funding deal \u2014 but a brief shutdown is certain - Politico",
       "pubDate": "Sat, 31 Jan 2026 00:28:38 GMT"
+    },
+    {
+      "title": "Donald Trump signs bill to end partial US government shutdown - Financial Times",
+      "pubDate": "Tue, 03 Feb 2026 20:31:34 GMT"
     }
   ],
   "Nuclear Fusion": [
-    {
-      "title": "China\u2019s \u201cartificial sun\u201d just broke a fusion limit scientists thought was unbreakable - ScienceDaily",
-      "pubDate": "Sun, 04 Jan 2026 22:24:33 GMT"
-    },
     {
       "title": "China accelerates nuclear fusion engineering, targeting power generation demonstration by 2030 - Xinhua",
       "pubDate": "Fri, 16 Jan 2026 15:54:15 GMT"
@@ -1659,6 +1647,10 @@
     {
       "title": "Musk Seeks Up to $134 Billion Damages From OpenAI, Microsoft - Bloomberg",
       "pubDate": "Sat, 17 Jan 2026 16:36:44 GMT"
+    },
+    {
+      "title": "Paris prosecutors summon Elon Musk after raid on X's French offices - NBC News",
+      "pubDate": "Tue, 03 Feb 2026 20:46:47 GMT"
     }
   ],
   "AI Alignment": [
@@ -2005,6 +1997,10 @@
     {
       "title": "Why are we not talking about Donald Trump in the Epstein files? | Trump100 - Sky News",
       "pubDate": "Tue, 03 Feb 2026 11:14:55 GMT"
+    },
+    {
+      "title": "Melinda French Gates says Bill Gates 'has to answer' for being in the Epstein files - NBC News",
+      "pubDate": "Tue, 03 Feb 2026 20:43:40 GMT"
     }
   ],
   "Energy Storage": [
