@@ -95,6 +95,10 @@
     {
       "title": "More companies are pointing to AI as they lay off employees - CBS News",
       "pubDate": "Tue, 03 Feb 2026 22:44:00 GMT"
+    },
+    {
+      "title": "Global software stocks hit by Anthropic wake-up call on AI disruption - Reuters",
+      "pubDate": "Wed, 04 Feb 2026 09:56:02 GMT"
     }
   ],
   "Israel": [
@@ -1405,6 +1409,10 @@
     {
       "title": "Donald Trump signs bill to end partial US government shutdown - Financial Times",
       "pubDate": "Tue, 03 Feb 2026 20:31:34 GMT"
+    },
+    {
+      "title": "House Democrats help Mike Johnson end government shutdown, fund DHS and ICE - Axios",
+      "pubDate": "Wed, 04 Feb 2026 05:51:26 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -1427,18 +1435,6 @@
       "pubDate": "Mon, 05 Jan 2026 17:07:00 GMT"
     }
   ],
-  "Artificial Intelligence & Ethics": [
-    {
-      "title": "Ashley St Clair alleges Elon Musk\u2019s Grok \u2018undressed\u2019 her childhood images; sparking AI safety concerns - Times of India",
-      "pubDate": "Mon, 05 Jan 2026 06:28:00 GMT"
-    }
-  ],
-  "National Security & Advanced Technology": [
-    {
-      "title": "Quantum Game Theory: The $12.4 Trillion Economics Crisis as Nations Rush to Protect Digital Assets while Quantum Computers Race toward 2028 Encryption-Breaking Capability - The Hindu",
-      "pubDate": "Mon, 05 Jan 2026 07:26:00 GMT"
-    }
-  ],
   "Space Exploration & Scientific Breakthroughs": [
     {
       "title": "Clear and definitive evidence of liquid water, not just ancient ice, found on Mars - ECOticias.com",
@@ -1457,17 +1453,7 @@
       "pubDate": "Mon, 05 Jan 2026 13:37:55 GMT"
     }
   ],
-  "Global Economy & Outlook": [
-    {
-      "title": "Top economists split on 2026 predictions as recession risk, tariffs and geopolitics cloud outlook - Pensions & Investments",
-      "pubDate": "Mon, 05 Jan 2026 12:00:00 GMT"
-    }
-  ],
   "Quantum Computing": [
-    {
-      "title": "A strange kind of quantumness may be key to quantum computers' success - New Scientist",
-      "pubDate": "Mon, 05 Jan 2026 12:01:45 GMT"
-    },
     {
       "title": "Israel fighting to keep up in quantum computing arms race - The Jerusalem Post",
       "pubDate": "Mon, 05 Jan 2026 18:01:43 GMT"
@@ -1515,6 +1501,10 @@
     {
       "title": "North Korea test-launches 2 ballistic missiles toward sea, Japan and South Korea say - ABC News",
       "pubDate": "Tue, 27 Jan 2026 11:44:53 GMT"
+    },
+    {
+      "title": "China\u2019s Xi and Russia\u2019s Putin hold talks by video - AP News",
+      "pubDate": "Wed, 04 Feb 2026 10:02:00 GMT"
     }
   ],
   "United States": [
@@ -1585,6 +1575,10 @@
     {
       "title": "Artemis II astronaut Christina Koch will see Earth like no human has before - Axios",
       "pubDate": "Tue, 03 Feb 2026 11:02:38 GMT"
+    },
+    {
+      "title": "Artificial Intelligence just drove NASA's robotic rover on Mars for the first time - BBC Sky at Night Magazine",
+      "pubDate": "Wed, 04 Feb 2026 09:51:09 GMT"
     }
   ],
   "Financial Markets": [
@@ -1901,6 +1895,10 @@
     {
       "title": "Social Media Giants Face Landmark Legal Tests on Child Safety - The New York Times",
       "pubDate": "Tue, 27 Jan 2026 16:58:47 GMT"
+    },
+    {
+      "title": "Elon Musk calls Spanish PM a \u2018tyrant\u2019 over plan to ban under-16s from social media and curb hateful content - The Guardian",
+      "pubDate": "Wed, 04 Feb 2026 01:13:00 GMT"
     }
   ],
   "Immigration and Customs Enforcement": [
@@ -2043,6 +2041,10 @@
     {
       "title": "Seif al-Islam el-Qaddafi, Son of Libyan Dictator, Is Killed in Attack, Lawyer Says - The New York Times",
       "pubDate": "Tue, 03 Feb 2026 23:24:40 GMT"
+    },
+    {
+      "title": "LIVE: Israeli attacks across Gaza kill 21 Palestinians since dawn - Al Jazeera",
+      "pubDate": "Wed, 04 Feb 2026 10:57:12 GMT"
     }
   ]
 }
