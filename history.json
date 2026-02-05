@@ -379,6 +379,10 @@
     {
       "title": "Trump says America should move on from Epstein - it may not be that easy - BBC",
       "pubDate": "Thu, 05 Feb 2026 03:27:44 GMT"
+    },
+    {
+      "title": "Revealed: private jet owned by Trump friend used by ICE to deport Palestinians to West Bank - The Guardian",
+      "pubDate": "Thu, 05 Feb 2026 17:32:00 GMT"
     }
   ],
   "China": [
@@ -440,10 +444,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "The AI Bioweapon Demo That Caused Alarm in Washington - Time Magazine",
-      "pubDate": "Tue, 06 Jan 2026 15:07:25 GMT"
-    },
     {
       "title": "US Senator pushes four-year ban on AI toys for child safety - Tech in Asia",
       "pubDate": "Wed, 07 Jan 2026 01:29:00 GMT"
@@ -593,6 +593,10 @@
     {
       "title": "Fed, Signaling Little Urgency, Prepares to Pause on Rate Cuts - The New York Times",
       "pubDate": "Tue, 27 Jan 2026 14:55:58 GMT"
+    },
+    {
+      "title": "U.S. Economy Shed Nearly 1 Million Job Openings Last Year - The Wall Street Journal",
+      "pubDate": "Thu, 05 Feb 2026 15:41:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -602,10 +606,6 @@
     }
   ],
   "Fusion Power": [
-    {
-      "title": "Commonwealth Fusion Systems Accelerates Commercial Fusion With Siemens and Nvidia, Leveraging AI-Powered Digital Twins - Commonwealth Fusion Systems",
-      "pubDate": "Tue, 06 Jan 2026 18:01:55 GMT"
-    },
     {
       "title": "US lab sees first dual-view shockwave to unlock stable nuclear fusion - Interesting Engineering",
       "pubDate": "Sun, 11 Jan 2026 10:49:00 GMT"
@@ -827,10 +827,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran anti-government protests spread to majority of provinces, videos show - BBC",
-      "pubDate": "Tue, 06 Jan 2026 15:35:23 GMT"
-    },
-    {
       "title": "Live updates: Anti-government protests spread in Iran as authorities cut communications - CNN",
       "pubDate": "Fri, 09 Jan 2026 23:08:00 GMT"
     },
@@ -1021,6 +1017,10 @@
     {
       "title": "Trump nominates Kevin Warsh as new Federal Reserve chair - BBC",
       "pubDate": "Fri, 30 Jan 2026 15:22:30 GMT"
+    },
+    {
+      "title": "Most want Supreme Court to rule against Trump on tariffs, Federal Reserve removal: Polling - The Hill",
+      "pubDate": "Thu, 05 Feb 2026 17:09:00 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1519,6 +1519,10 @@
     {
       "title": "When Guardrails Collapse: What the Grok Controversy Reveals About the Future of AI Ethics - Australian Institute of International Affairs",
       "pubDate": "Thu, 05 Feb 2026 02:51:54 GMT"
+    },
+    {
+      "title": "Mexico Unveils National Declaration on Ethical AI to Guide Public Policy and Protect Human Rights - BABL AI",
+      "pubDate": "Thu, 05 Feb 2026 13:00:29 GMT"
     }
   ],
   "Space Exploration": [
@@ -1787,6 +1791,10 @@
     {
       "title": "How China Caught Up on AI\u2014and May Now Win the Future - Time Magazine",
       "pubDate": "Tue, 27 Jan 2026 16:16:05 GMT"
+    },
+    {
+      "title": "Forget AGI, business leaders are still trying to figure out how to make AI work - Computer Weekly",
+      "pubDate": "Thu, 05 Feb 2026 10:24:55 GMT"
     }
   ],
   "Electric Power Transmission": [
@@ -2025,6 +2033,18 @@
     {
       "title": "U.S.-Iran nuclear talks back on after Arab leaders lobby White House - Axios",
       "pubDate": "Wed, 04 Feb 2026 20:50:08 GMT"
+    }
+  ],
+  "Anthropic": [
+    {
+      "title": "Anthropic's newest AI model uncovered 500 zero-day software flaws in testing - Axios",
+      "pubDate": "Thu, 05 Feb 2026 17:45:12 GMT"
+    }
+  ],
+  "Semiconductors": [
+    {
+      "title": "TSMC to make advanced AI semiconductors in Japan in boost for its chipmaking ambitions - The Tribune-Democrat",
+      "pubDate": "Thu, 05 Feb 2026 10:41:00 GMT"
     }
   ]
 }
