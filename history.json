@@ -103,6 +103,10 @@
     {
       "title": "Google parent beats on revenue, projects significant AI spending increase - CNBC",
       "pubDate": "Wed, 04 Feb 2026 17:00:01 GMT"
+    },
+    {
+      "title": "Labor unions urge Gov. Gavin Newsom, California lawmakers to rein in artificial intelligence - Yahoo",
+      "pubDate": "Thu, 05 Feb 2026 02:21:00 GMT"
     }
   ],
   "Israel": [
@@ -124,10 +128,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Zelensky\u2019s Assessment Darkens as Europeans Gather to Talk Peace - The New York Times",
-      "pubDate": "Tue, 06 Jan 2026 05:01:05 GMT"
-    },
     {
       "title": "Ukraine Hits Another Shadow Fleet Tanker Off Turkish Coast - navalnews.com",
       "pubDate": "Thu, 08 Jan 2026 17:10:22 GMT"
@@ -273,6 +273,10 @@
     {
       "title": "Russia: Crackdown on Dissent Escalates - Human Rights Watch",
       "pubDate": "Wed, 04 Feb 2026 05:01:00 GMT"
+    },
+    {
+      "title": "Sanctions having \u2018significant impact\u2019 on Russian economy, says EU special envoy - The Guardian",
+      "pubDate": "Thu, 05 Feb 2026 05:00:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -479,6 +483,10 @@
     {
       "title": "U.S. Withholds Support From Global AI Safety Report - AOL.com",
       "pubDate": "Tue, 03 Feb 2026 05:30:19 GMT"
+    },
+    {
+      "title": "AI Safety Tests Are Failing: 210 Benchmarks Reveal Critical Flaws - Quantum Zeitgeist",
+      "pubDate": "Thu, 05 Feb 2026 00:40:25 GMT"
     }
   ],
   "Data Breach": [
@@ -501,13 +509,13 @@
     {
       "title": "149 million passwords for Gmail, Facebook, Instagram and other popular services exposed online \u2014 how to stay safe after this major leak - Tom's Guide",
       "pubDate": "Sat, 24 Jan 2026 02:32:26 GMT"
+    },
+    {
+      "title": "Massive Chinese data breach allegedly spills 8.7 billion records - here's what we know - TechRadar",
+      "pubDate": "Wed, 04 Feb 2026 19:35:00 GMT"
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands - The Hacker News",
-      "pubDate": "Tue, 06 Jan 2026 05:08:00 GMT"
-    },
     {
       "title": "House Hearing to Focus on Bills to Bolster Energy Sector Cybersecurity (Jan 9, 2026) - VitalLaw.com",
       "pubDate": "Sat, 10 Jan 2026 02:32:18 GMT"
@@ -547,6 +555,10 @@
     {
       "title": "The Social Security data breach is a national-security disaster that could hurt Americans for the rest of their lives: whistleblower - MarketWatch",
       "pubDate": "Wed, 04 Feb 2026 17:42:00 GMT"
+    },
+    {
+      "title": "Cybersecurity experts warn Android users about malicious apps on Google Play - KUTV",
+      "pubDate": "Thu, 05 Feb 2026 04:07:18 GMT"
     }
   ],
   "US Economy": [
@@ -889,6 +901,10 @@
     {
       "title": "Post-COP 30 Modeling Shows World Is Far Off Track for Climate Goals - Inside Climate News",
       "pubDate": "Sat, 24 Jan 2026 09:45:00 GMT"
+    },
+    {
+      "title": "Flawed economic models mean climate crisis could crash global economy, experts warn - The Guardian",
+      "pubDate": "Thu, 05 Feb 2026 00:03:00 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
@@ -1100,10 +1116,6 @@
     }
   ],
   "United Nations": [
-    {
-      "title": "At the U.N., Even Allies Condemn U.S. Action in Venezuela - The New York Times",
-      "pubDate": "Tue, 06 Jan 2026 01:12:02 GMT"
-    },
     {
       "title": "UN International Court of Justice to hear 1st genocide case in over a decade - NPR",
       "pubDate": "Tue, 13 Jan 2026 11:50:52 GMT"
@@ -1460,10 +1472,6 @@
     }
   ],
   "AI Ethics": [
-    {
-      "title": "The commitments proposed by DeepSeek's joint owners consist of a package of measures aimed at improving disclosures about the risk of AI 'hallucinations' - facebook.com",
-      "pubDate": "Tue, 06 Jan 2026 05:07:00 GMT"
-    },
     {
       "title": "From Strategy to Safeguards: Assessing Vietnam\u2019s Readiness for Ethical AI Adoption - Devdiscourse",
       "pubDate": "Fri, 09 Jan 2026 04:06:26 GMT"
@@ -1953,6 +1961,10 @@
     {
       "title": "Melinda French Gates says Bill Gates 'has to answer' for being in the Epstein files - NBC News",
       "pubDate": "Tue, 03 Feb 2026 20:43:40 GMT"
+    },
+    {
+      "title": "Jeffrey Epstein\u2019s Money Mingled With Silicon Valley Start-Ups - The New York Times",
+      "pubDate": "Thu, 05 Feb 2026 05:00:11 GMT"
     }
   ],
   "Energy Storage": [
