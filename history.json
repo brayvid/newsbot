@@ -115,6 +115,10 @@
     {
       "title": "Kaiser workers launch war against AI, protesting potential job losses and patient harm - latimes.com",
       "pubDate": "Fri, 06 Feb 2026 11:00:00 GMT"
+    },
+    {
+      "title": "Big Tech's $600 billion spending plans exacerbate investors' AI headache - Reuters",
+      "pubDate": "Fri, 06 Feb 2026 10:49:48 GMT"
     }
   ],
   "Israel": [
@@ -449,6 +453,10 @@
     {
       "title": "Trump to Launch $12 Billion Critical Mineral Stockpile to Blunt Reliance on China - Bloomberg",
       "pubDate": "Mon, 02 Feb 2026 13:16:27 GMT"
+    },
+    {
+      "title": "U.S. accuses China of secret nuclear testing as it calls for broad new arms treaty after New START - NBC News",
+      "pubDate": "Fri, 06 Feb 2026 14:21:45 GMT"
     }
   ],
   "AI Safety": [
@@ -507,6 +515,10 @@
     {
       "title": "AI Safety Tests Are Failing: 210 Benchmarks Reveal Critical Flaws - Quantum Zeitgeist",
       "pubDate": "Thu, 05 Feb 2026 00:40:25 GMT"
+    },
+    {
+      "title": "New York Enacts RAISE Act, Setting Nation-Leading Rules for Frontier AI Safety - CDO Magazine",
+      "pubDate": "Fri, 06 Feb 2026 13:28:00 GMT"
     }
   ],
   "Data Breach": [
@@ -1247,10 +1259,6 @@
   ],
   "NVIDIA": [
     {
-      "title": "China Tells Tech Companies to Halt Nvidia H200 Chip Orders - The Information",
-      "pubDate": "Wed, 07 Jan 2026 15:38:00 GMT"
-    },
-    {
       "title": "China blocks Nvidia H200 AI chips that US government cleared for export \u2013 report - The Guardian",
       "pubDate": "Sun, 18 Jan 2026 04:18:00 GMT"
     },
@@ -1321,6 +1329,10 @@
     {
       "title": "These Are the 12 States Vying to Kick Off Democrats\u2019 2028 Contest - The New York Times",
       "pubDate": "Sun, 18 Jan 2026 03:43:35 GMT"
+    },
+    {
+      "title": "A Pro-Israel Group\u2019s Move Backfires as Gaza Tensions Flare in Midterms - The New York Times",
+      "pubDate": "Fri, 06 Feb 2026 17:24:21 GMT"
     }
   ],
   "Protest": [
@@ -1991,6 +2003,10 @@
     {
       "title": "Epstein built ties to Russians and sought to meet Putin, files show - The Washington Post",
       "pubDate": "Fri, 06 Feb 2026 11:32:02 GMT"
+    },
+    {
+      "title": "What the Epstein Files Tell Us \u2013 And Don't Tell Us \u2014 About His Ties to Russia - The Moscow Times",
+      "pubDate": "Fri, 06 Feb 2026 16:49:51 GMT"
     }
   ],
   "Energy Storage": [
@@ -2053,6 +2069,18 @@
     {
       "title": "January Layoffs Surge Across US, Jobs Report Says - Forbes",
       "pubDate": "Thu, 05 Feb 2026 15:38:54 GMT"
+    }
+  ],
+  "Military Intelligence": [
+    {
+      "title": "Ukraine War, Day 1,443: Russia's Deputy Director of Military Intelligence Critically Wounded in Moscow Shooting - EA WorldView",
+      "pubDate": "Fri, 06 Feb 2026 16:25:53 GMT"
+    }
+  ],
+  "Europe": [
+    {
+      "title": "Europe Accuses TikTok of \u2018Addictive Design\u2019 and Pushes for Change - The New York Times",
+      "pubDate": "Fri, 06 Feb 2026 12:06:58 GMT"
     }
   ]
 }
