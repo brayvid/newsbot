@@ -119,13 +119,13 @@
     {
       "title": "The AI boom is so huge it\u2019s causing shortages everywhere else - The Washington Post",
       "pubDate": "Sat, 07 Feb 2026 18:00:00 GMT"
+    },
+    {
+      "title": "US companies accused of \u2018AI washing\u2019 in citing artificial intelligence for job losses - The Guardian",
+      "pubDate": "Sun, 08 Feb 2026 16:03:00 GMT"
     }
   ],
   "Israel": [
-    {
-      "title": "Israel\u2019s F-35 Veto: How Tel Aviv\u2019s Opposition Could Block a US Sale to T\u00fcrkiye - Military.com",
-      "pubDate": "Fri, 09 Jan 2026 17:22:00 GMT"
-    },
     {
       "title": "IDF has demolished over 2,500 buildings in Gaza since start of ceasefire \u2013 report - The Times of Israel",
       "pubDate": "Mon, 12 Jan 2026 22:03:10 GMT"
@@ -226,10 +226,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia attacks Ukraine with a new ballistic missile - NBC News",
-      "pubDate": "Fri, 09 Jan 2026 17:28:53 GMT"
-    },
     {
       "title": "Russia Says It Used Nuclear-Capable Missile to Strike Western Ukraine - The New York Times",
       "pubDate": "Fri, 09 Jan 2026 19:59:00 GMT"
@@ -465,10 +461,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Watch. India cracks down on AI chatbot Grok: Deepfake and AI safety risks explained - BusinessLine",
-      "pubDate": "Fri, 09 Jan 2026 11:01:44 GMT"
-    },
-    {
       "title": "OpenAI and Common Sense Media Partner on New Kids AI Safety Ballot Measure - KQED",
       "pubDate": "Sat, 10 Jan 2026 00:36:03 GMT"
     },
@@ -553,6 +545,10 @@
     {
       "title": "Massive Chinese data breach allegedly spills 8.7 billion records - here's what we know - TechRadar",
       "pubDate": "Wed, 04 Feb 2026 19:35:00 GMT"
+    },
+    {
+      "title": "SoundCloud data breach exposes 29.8 million user accounts - foxnews.com",
+      "pubDate": "Sun, 08 Feb 2026 14:01:15 GMT"
     }
   ],
   "Cybersecurity": [
@@ -607,10 +603,6 @@
   ],
   "US Economy": [
     {
-      "title": "U.S. economy adds 50,000 jobs in December, unemployment rate at 4.4% - NBC News",
-      "pubDate": "Fri, 09 Jan 2026 14:16:11 GMT"
-    },
-    {
       "title": "Job Gains Cooled in December, Capping Year of Weak Hiring - WSJ - The Wall Street Journal",
       "pubDate": "Sat, 10 Jan 2026 19:00:29 GMT"
     },
@@ -654,10 +646,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israeli strikes kill 11 in Gaza after failed rocket launch - Reuters",
-      "pubDate": "Fri, 09 Jan 2026 06:27:00 GMT"
-    },
     {
       "title": "Israel and Hamas Get Ready to Go Back to War in Gaza - The Wall Street Journal",
       "pubDate": "Sat, 10 Jan 2026 08:33:00 GMT"
@@ -712,10 +700,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "2025 in Review: U.S. Billion-Dollar Disasters - Climate Central",
-      "pubDate": "Fri, 09 Jan 2026 11:45:39 GMT"
-    },
     {
       "title": "Trump pulls US out of another major UN climate treaty - Chemical & Engineering News",
       "pubDate": "Fri, 09 Jan 2026 19:12:56 GMT"
@@ -852,10 +836,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "New evidence points to North Korean factory\u2019s role in making long-range missiles - NK News",
-      "pubDate": "Fri, 09 Jan 2026 08:48:04 GMT"
-    },
     {
       "title": "North Korea vows response as it accuses the South of flying drones across the border - abcnews.go.com",
       "pubDate": "Sat, 10 Jan 2026 05:15:24 GMT"
@@ -1201,10 +1181,6 @@
   ],
   "Nuclear Power": [
     {
-      "title": "Meta Unveils Sweeping Nuclear-Power Plan to Fuel Its AI Ambitions - The Wall Street Journal",
-      "pubDate": "Fri, 09 Jan 2026 11:00:00 GMT"
-    },
-    {
       "title": "Hochul ratchets up nuclear plans, aims to lead U.S. in building new power reactors - Syracuse.com",
       "pubDate": "Mon, 12 Jan 2026 13:17:00 GMT"
     },
@@ -1223,13 +1199,13 @@
     {
       "title": "Japan suspends world's largest nuclear plant hours after restart - BBC",
       "pubDate": "Thu, 22 Jan 2026 13:13:24 GMT"
+    },
+    {
+      "title": "US Government Seeking Volunteers to Store Nuclear Sludge - Futurism",
+      "pubDate": "Sun, 08 Feb 2026 14:45:00 GMT"
     }
   ],
   "BRICS": [
-    {
-      "title": "Chinese, Russian and Iranian warships arrive in South Africa for naval drills as tensions run high - abcnews.go.com",
-      "pubDate": "Fri, 09 Jan 2026 13:20:07 GMT"
-    },
     {
       "title": "Exclusive: India's central bank proposes linking BRICS' digital currencies, sources say - Reuters",
       "pubDate": "Mon, 19 Jan 2026 10:56:45 GMT"
@@ -1296,10 +1272,6 @@
     }
   ],
   "The Pentagon": [
-    {
-      "title": "The US military's annual suicide report is missing, and the Pentagon isn't offering any answers - Business Insider",
-      "pubDate": "Fri, 09 Jan 2026 13:45:00 GMT"
-    },
     {
       "title": "Pentagon moves to cut U.S. participation in some NATO groups - The Washington Post",
       "pubDate": "Wed, 21 Jan 2026 04:29:05 GMT"
@@ -1392,10 +1364,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "The US in brief: Distrust and disharmony in Minneapolis - The Economist",
-      "pubDate": "Fri, 09 Jan 2026 11:42:51 GMT"
-    },
     {
       "title": "A \u2018Ticklish Subject\u2019: Trump\u2019s Words on Immigration Often Collide and Contradict - The New York Times",
       "pubDate": "Sat, 10 Jan 2026 15:07:33 GMT"
@@ -1511,10 +1479,6 @@
   ],
   "AI Ethics": [
     {
-      "title": "From Strategy to Safeguards: Assessing Vietnam\u2019s Readiness for Ethical AI Adoption - Devdiscourse",
-      "pubDate": "Fri, 09 Jan 2026 04:06:26 GMT"
-    },
-    {
       "title": "Businesses are embracing AI, but ethical blind spots are major operational risks - The Media Online",
       "pubDate": "Fri, 16 Jan 2026 05:30:23 GMT"
     },
@@ -1581,29 +1545,17 @@
   ],
   "International Relations": [
     {
-      "title": "German President\u2019s sharp critique of US foreign policy reflects Europe\u2019s growing concern over fears of a US-driven \u201cmight-makes-right\u201d order: experts - Global Times",
-      "pubDate": "Fri, 09 Jan 2026 09:00:00 GMT"
-    },
-    {
       "title": "Trump tariffs live updates: EU, India seal trade deal in rebuff to Trump as he threatens S. Korea tariff boost - Yahoo Finance",
       "pubDate": "Tue, 27 Jan 2026 16:42:00 GMT"
     }
   ],
   "Internet": [
     {
-      "title": "Iran pulls internet access as protests surge nationwide - USA Today",
-      "pubDate": "Fri, 09 Jan 2026 15:31:17 GMT"
-    },
-    {
       "title": "Live updates: Dozens reported killed during Iran protests as internet blackout persists - CNN",
       "pubDate": "Sat, 10 Jan 2026 23:31:00 GMT"
     }
   ],
   "Investment": [
-    {
-      "title": "Donald Trump to meet oil executives over $100bn Venezuela investment - Financial Times",
-      "pubDate": "Fri, 09 Jan 2026 16:39:58 GMT"
-    },
     {
       "title": "US to invest $1.6bn into rare earths group in bid to shore up key minerals - Financial Times",
       "pubDate": "Sat, 24 Jan 2026 23:29:49 GMT"
@@ -2113,6 +2065,10 @@
     {
       "title": "Ukraine War, Day 1,443: Russia's Deputy Director of Military Intelligence Critically Wounded in Moscow Shooting - EA WorldView",
       "pubDate": "Fri, 06 Feb 2026 16:25:53 GMT"
+    },
+    {
+      "title": "Russia detains suspect in shooting of top military intelligence officer in Moscow - TRT World",
+      "pubDate": "Sun, 08 Feb 2026 11:37:43 GMT"
     }
   ],
   "Europe": [
@@ -2137,6 +2093,18 @@
     {
       "title": "Dow surges 1,200 points for first close above 50,000 in sharp rebound from tech rout: Live updates - CNBC",
       "pubDate": "Fri, 06 Feb 2026 19:49:36 GMT"
+    }
+  ],
+  "Autonomous Vehicles": [
+    {
+      "title": "Waymo Reveals Its Driverless Cars Are \"Guided\" By Remote Workers In Philippines: \"Phone-A-Friend\" - NDTV",
+      "pubDate": "Sun, 08 Feb 2026 13:47:19 GMT"
+    }
+  ],
+  "Japan": [
+    {
+      "title": "Japan's governing party on course for landslide election win - BBC",
+      "pubDate": "Sun, 08 Feb 2026 16:52:15 GMT"
     }
   ]
 }
