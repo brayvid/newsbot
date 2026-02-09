@@ -123,6 +123,10 @@
     {
       "title": "US companies accused of \u2018AI washing\u2019 in citing artificial intelligence for job losses - The Guardian",
       "pubDate": "Sun, 08 Feb 2026 16:03:00 GMT"
+    },
+    {
+      "title": "As AI enters the operating room, reports arise of botched surgeries and misidentified body parts - Reuters",
+      "pubDate": "Mon, 09 Feb 2026 11:30:00 GMT"
     }
   ],
   "Israel": [
@@ -226,10 +230,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Governor of Russia's Belgorod region says 600,000 without power, heat, or water after Ukrainian strike - Reuters",
-      "pubDate": "Sat, 10 Jan 2026 10:07:35 GMT"
-    },
     {
       "title": "A Russian Videographer Reveals How Putin Shapes the Next Generation - The New York Times",
       "pubDate": "Sun, 11 Jan 2026 10:01:06 GMT"
@@ -449,6 +449,10 @@
     {
       "title": "U.S. accuses China of secret nuclear testing as it calls for broad new arms treaty after New START - NBC News",
       "pubDate": "Fri, 06 Feb 2026 14:21:45 GMT"
+    },
+    {
+      "title": "China critic and former media tycoon Jimmy Lai is sentenced to 20 years in a Hong Kong security case - NPR",
+      "pubDate": "Mon, 09 Feb 2026 07:52:28 GMT"
     }
   ],
   "AI Safety": [
@@ -635,10 +639,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel and Hamas Get Ready to Go Back to War in Gaza - The Wall Street Journal",
-      "pubDate": "Sat, 10 Jan 2026 08:33:00 GMT"
-    },
-    {
       "title": "Extreme cold kills another infant in Gaza as Israel blocks vital aid - Al Jazeera",
       "pubDate": "Sat, 10 Jan 2026 12:56:53 GMT"
     },
@@ -688,10 +688,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Climate Change Threatens Way of Life for Native American Tribes in Pacific Northwest - The New York Times",
-      "pubDate": "Sat, 10 Jan 2026 10:01:04 GMT"
-    },
     {
       "title": "Climate change has now shrunk US salaries by 12%. And worse is to come - BBC Science Focus Magazine",
       "pubDate": "Sun, 11 Jan 2026 10:00:00 GMT"
@@ -901,10 +897,6 @@
   ],
   "US Supreme Court": [
     {
-      "title": "US Supreme Court's Next Transgender Rights Battle Could Affect More Than Sports - U.S. News & World Report",
-      "pubDate": "Sat, 10 Jan 2026 11:13:44 GMT"
-    },
-    {
       "title": "Supreme Court to Consider Landmark Case on FCC\u2019s Authority to Issue Fines - TVTechnology",
       "pubDate": "Sat, 10 Jan 2026 20:28:45 GMT"
     }
@@ -961,6 +953,10 @@
     {
       "title": "China hacked Downing Street phones for years - The Telegraph",
       "pubDate": "Mon, 26 Jan 2026 19:17:00 GMT"
+    },
+    {
+      "title": "Hackers breach govt systems in 37 countries in vast spying plot - The Economic Times",
+      "pubDate": "Mon, 09 Feb 2026 00:30:00 GMT"
     }
   ],
   "Drones": [
@@ -1315,6 +1311,10 @@
     {
       "title": "E.P.A. to Stop Considering Lives Saved by Limiting Air Pollution - The New York Times",
       "pubDate": "Mon, 12 Jan 2026 16:43:41 GMT"
+    },
+    {
+      "title": "EU faces \u20ac440bn cost from PFAS pollution \u2013 report - Ecotextile News",
+      "pubDate": "Mon, 09 Feb 2026 09:22:42 GMT"
     }
   ],
   "Kim Jong Un": [
@@ -1929,6 +1929,10 @@
     {
       "title": "Key participant in 2012 Benghazi attack has been brought to U.S. to face charges, DOJ says - NBC News",
       "pubDate": "Fri, 06 Feb 2026 19:20:51 GMT"
+    },
+    {
+      "title": "Judge orders DOJ to unseal records on Georgia 2020 ballot raid by Tuesday - cbsnews.com",
+      "pubDate": "Mon, 09 Feb 2026 00:09:00 GMT"
     }
   ],
   "Trade War": [
@@ -2101,6 +2105,18 @@
     {
       "title": "Russian officials are warning Putin that a financial crisis could arrive this summer, report says - Fortune",
       "pubDate": "Sun, 08 Feb 2026 21:14:00 GMT"
+    }
+  ],
+  "Real Estate": [
+    {
+      "title": "S&P is already predicting China's property slump will be worse than it expected this year - CNBC",
+      "pubDate": "Mon, 09 Feb 2026 11:45:03 GMT"
+    }
+  ],
+  "Black Holes": [
+    {
+      "title": "It\u2019s Historic: Two Black Holes Have Just Been Photographed Together for the First Time - Futura, Le m\u00e9dia qui explore le monde",
+      "pubDate": "Mon, 09 Feb 2026 11:46:11 GMT"
     }
   ]
 }
