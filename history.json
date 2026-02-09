@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Are we in an AI bubble? What 40 tech leaders and analysts are saying, in one chart - CNBC",
-      "pubDate": "Sat, 10 Jan 2026 13:00:01 GMT"
-    },
-    {
       "title": "New Mexico should lead on artificial intelligence \u2014 the stakes are too high - Santa Fe New Mexican",
       "pubDate": "Sun, 11 Jan 2026 04:00:00 GMT"
     },
@@ -127,6 +123,10 @@
     {
       "title": "As AI enters the operating room, reports arise of botched surgeries and misidentified body parts - Reuters",
       "pubDate": "Mon, 09 Feb 2026 11:30:00 GMT"
+    },
+    {
+      "title": "Trump set off a surge of AI in the federal government. See what happened. - The Washington Post",
+      "pubDate": "Mon, 09 Feb 2026 17:32:20 GMT"
     }
   ],
   "Israel": [
@@ -144,10 +144,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Russia hits Ukraine with Oreshnik hypersonic missile: Why it matters - Al Jazeera",
-      "pubDate": "Sat, 10 Jan 2026 12:52:33 GMT"
-    },
     {
       "title": "Inside Ukraine\u2019s Quest to Build a Missile to Strike Deep in Russian Territory - The Wall Street Journal",
       "pubDate": "Sun, 11 Jan 2026 03:00:00 GMT"
@@ -227,6 +223,10 @@
     {
       "title": "At Ukraine\u2019s Request, Starlink Denies Internet Access to Russian Troops - The New York Times",
       "pubDate": "Thu, 05 Feb 2026 21:55:26 GMT"
+    },
+    {
+      "title": "EU Parliament to vote on \u20ac90B Ukraine loan Wednesday - politico.eu",
+      "pubDate": "Mon, 09 Feb 2026 17:42:00 GMT"
     }
   ],
   "Russia": [
@@ -297,6 +297,10 @@
     {
       "title": "US wants Russia and Ukraine to end war by June, says Zelensky - BBC",
       "pubDate": "Sat, 07 Feb 2026 14:05:01 GMT"
+    },
+    {
+      "title": "Russian military scrambles to find Starlink alternative after access blocked - The Guardian",
+      "pubDate": "Mon, 09 Feb 2026 16:26:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -395,14 +399,6 @@
   ],
   "China": [
     {
-      "title": "China is closing in on US technology lead despite constraints, AI researchers say - Reuters",
-      "pubDate": "Sat, 10 Jan 2026 15:43:28 GMT"
-    },
-    {
-      "title": "How China and Russia are using Maduro\u2019s capture to sway U.S. discourse - The Washington Post",
-      "pubDate": "Sat, 10 Jan 2026 18:00:38 GMT"
-    },
-    {
       "title": "With Venezuela raid, US tells China to keep away from the Americas - Reuters",
       "pubDate": "Sun, 11 Jan 2026 13:08:56 GMT"
     },
@@ -453,6 +449,10 @@
     {
       "title": "China critic and former media tycoon Jimmy Lai is sentenced to 20 years in a Hong Kong security case - NPR",
       "pubDate": "Mon, 09 Feb 2026 07:52:28 GMT"
+    },
+    {
+      "title": "China Urges Banks to Curb Exposure to US Treasuries - Bloomberg.com",
+      "pubDate": "Mon, 09 Feb 2026 06:14:00 GMT"
     }
   ],
   "AI Safety": [
@@ -519,6 +519,10 @@
     {
       "title": "The Ouroboros Moment: OpenAI Says Its Newest AI Was Built by AI Itself \u2014 And the Industry Is Taking Notice - WebProNews",
       "pubDate": "Sun, 08 Feb 2026 20:59:36 GMT"
+    },
+    {
+      "title": "How Microsoft obliterated safety guardrails on popular AI models - with just one prompt - ZDNET",
+      "pubDate": "Mon, 09 Feb 2026 17:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -638,10 +642,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Extreme cold kills another infant in Gaza as Israel blocks vital aid - Al Jazeera",
-      "pubDate": "Sat, 10 Jan 2026 12:56:53 GMT"
-    },
     {
       "title": "Israel planning new Gaza City offensive in March, but will need green-light from Trump \u2014 officials - The Times of Israel",
       "pubDate": "Sat, 10 Jan 2026 20:06:18 GMT"
@@ -794,10 +794,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Lithium Has Become a National Security Priority for the United States - Crude Oil Prices Today | OilPrice.com",
-      "pubDate": "Sat, 10 Jan 2026 16:00:00 GMT"
-    },
     {
       "title": "Pentagon readies 1,500 soldiers to possibly deploy to Minnesota, officials say - The Washington Post",
       "pubDate": "Mon, 19 Jan 2026 01:28:55 GMT"
@@ -960,10 +956,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Ukrainian drones set fire to Russian oil depot after Moscow launches new hypersonic missile - abcnews.go.com",
-      "pubDate": "Sat, 10 Jan 2026 12:28:30 GMT"
-    },
     {
       "title": "Ukraine war briefing: Czechs offer drone-hunting jets as Zelenskyy flags air defence shortages - The Guardian",
       "pubDate": "Sun, 18 Jan 2026 04:18:00 GMT"
@@ -1273,10 +1265,6 @@
   ],
   "War and Unrest": [
     {
-      "title": "Iran puts 'missile cities' on highest alert since war as regime moves to quash protests - Ynetnews",
-      "pubDate": "Sat, 10 Jan 2026 14:42:16 GMT"
-    },
-    {
       "title": "The death toll from a crackdown on protests in Iran jumps to at least 2,571, activists say - AP News",
       "pubDate": "Wed, 14 Jan 2026 03:16:00 GMT"
     }
@@ -1340,10 +1328,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "A \u2018Ticklish Subject\u2019: Trump\u2019s Words on Immigration Often Collide and Contradict - The New York Times",
-      "pubDate": "Sat, 10 Jan 2026 15:07:33 GMT"
-    },
     {
       "title": "Federal Prosecutors Open Investigation Into Fed Chair Powell - The New York Times",
       "pubDate": "Mon, 12 Jan 2026 14:18:00 GMT"
@@ -1891,6 +1875,10 @@
     {
       "title": "Congress ends shutdown, approves $1.2T in funding \u2014 and sets up DHS cliff - Politico",
       "pubDate": "Tue, 03 Feb 2026 19:27:29 GMT"
+    },
+    {
+      "title": "Second Government Shutdown Looms As DHS Funding Fight Takes Center Stage | TRENDING - KGET.com",
+      "pubDate": "Mon, 09 Feb 2026 14:57:30 GMT"
     }
   ],
   "Taiwan": [
