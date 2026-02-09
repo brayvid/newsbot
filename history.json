@@ -453,10 +453,6 @@
   ],
   "AI Safety": [
     {
-      "title": "OpenAI and Common Sense Media Partner on New Kids AI Safety Ballot Measure - KQED",
-      "pubDate": "Sat, 10 Jan 2026 00:36:03 GMT"
-    },
-    {
       "title": "UK to investigate Elon Musk\u2019s Grok over \u2018deeply concerning\u2019 deepfakes - Al Jazeera",
       "pubDate": "Mon, 12 Jan 2026 18:38:46 GMT"
     },
@@ -548,10 +544,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "House Hearing to Focus on Bills to Bolster Energy Sector Cybersecurity (Jan 9, 2026) - VitalLaw.com",
-      "pubDate": "Sat, 10 Jan 2026 02:32:18 GMT"
-    },
     {
       "title": "An Instagram data breach reportedly exposed the personal info of 17.5 million users - Engadget",
       "pubDate": "Sat, 10 Jan 2026 19:21:05 GMT"
@@ -829,10 +821,6 @@
   ],
   "North Korea": [
     {
-      "title": "North Korea vows response as it accuses the South of flying drones across the border - abcnews.go.com",
-      "pubDate": "Sat, 10 Jan 2026 05:15:24 GMT"
-    },
-    {
       "title": "North Korea says latest missile tests involve hypersonic weapons system - The North State Journal",
       "pubDate": "Sun, 11 Jan 2026 16:58:31 GMT"
     },
@@ -1084,10 +1072,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "US labor share of income falls to lowest on record; 2025 jobs figures weakest outside of official recession since 2003 - World Socialist Web Site",
-      "pubDate": "Sat, 10 Jan 2026 06:05:20 GMT"
-    },
     {
       "title": "Federal Reserve rate cuts aimed at preventing full economic recession amid rising jobless claims - MSN",
       "pubDate": "Mon, 12 Jan 2026 12:52:42 GMT"
@@ -1999,6 +1983,10 @@
     {
       "title": "Epstein files: Republican lawmaker Massie calls for Trump Commerce chief Lutnick to resign - CNBC",
       "pubDate": "Sun, 08 Feb 2026 19:27:58 GMT"
+    },
+    {
+      "title": "Epstein files: Congressional lawmakers call for Trump Commerce chief Lutnick to resign, or be fired - CNBC",
+      "pubDate": "Sun, 08 Feb 2026 19:27:58 GMT"
     }
   ],
   "Energy Storage": [
@@ -2107,6 +2095,12 @@
     {
       "title": "Japan's governing party on course for landslide election win - BBC",
       "pubDate": "Sun, 08 Feb 2026 16:52:15 GMT"
+    }
+  ],
+  "Finance": [
+    {
+      "title": "Russian officials are warning Putin that a financial crisis could arrive this summer, report says - Fortune",
+      "pubDate": "Sun, 08 Feb 2026 21:14:00 GMT"
     }
   ]
 }
