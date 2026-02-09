@@ -227,10 +227,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia Says It Used Nuclear-Capable Missile to Strike Western Ukraine - The New York Times",
-      "pubDate": "Fri, 09 Jan 2026 19:59:00 GMT"
-    },
-    {
       "title": "Governor of Russia's Belgorod region says 600,000 without power, heat, or water after Ukrainian strike - Reuters",
       "pubDate": "Sat, 10 Jan 2026 10:07:35 GMT"
     },
@@ -304,10 +300,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump says US will 'do something on Greenland whether they like it or not' - NBC News",
-      "pubDate": "Fri, 09 Jan 2026 23:15:54 GMT"
-    },
     {
       "title": "Smithsonian removes Trump impeachment text as it swaps his portrait - The Washington Post",
       "pubDate": "Sun, 11 Jan 2026 06:26:11 GMT"
@@ -523,6 +515,10 @@
     {
       "title": "New York CEO Dan Herbatschek of Ramsey Theory Capital Delivers New Real-Time Governance for Enterprise AI Systems as AI Safety Laws Accelerate - The Manila Times",
       "pubDate": "Sat, 07 Feb 2026 16:51:05 GMT"
+    },
+    {
+      "title": "The Ouroboros Moment: OpenAI Says Its Newest AI Was Built by AI Itself \u2014 And the Industry Is Taking Notice - WebProNews",
+      "pubDate": "Sun, 08 Feb 2026 20:59:36 GMT"
     }
   ],
   "Data Breach": [
@@ -701,10 +697,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Trump pulls US out of another major UN climate treaty - Chemical & Engineering News",
-      "pubDate": "Fri, 09 Jan 2026 19:12:56 GMT"
-    },
-    {
       "title": "Climate Change Threatens Way of Life for Native American Tribes in Pacific Northwest - The New York Times",
       "pubDate": "Sat, 10 Jan 2026 10:01:04 GMT"
     },
@@ -851,10 +843,6 @@
   ],
   "Iran": [
     {
-      "title": "Live updates: Anti-government protests spread in Iran as authorities cut communications - CNN",
-      "pubDate": "Fri, 09 Jan 2026 23:08:00 GMT"
-    },
-    {
       "title": "Death toll in Iran protest crackdown passes 100 as Trump said \u2018seriously considering\u2019 strike - The Times of Israel",
       "pubDate": "Sun, 11 Jan 2026 04:41:23 GMT"
     },
@@ -917,6 +905,10 @@
     {
       "title": "US-Iran updates: FM Araghchi says latest round of talks \u2018a good start\u2019 - Al Jazeera",
       "pubDate": "Fri, 06 Feb 2026 15:07:01 GMT"
+    },
+    {
+      "title": "Iran sentences Nobel laureate Mohammadi to seven more years in prison - Al Jazeera",
+      "pubDate": "Sun, 08 Feb 2026 21:22:30 GMT"
     }
   ],
   "US Supreme Court": [
@@ -952,10 +944,6 @@
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "10 emergency directives retired as CISA declares them redundant - TechRadar",
-      "pubDate": "Fri, 09 Jan 2026 19:10:00 GMT"
-    },
     {
       "title": "Federal agencies ordered to patch Microsoft Desktop Windows Manager bug - The Record from Recorded Future News",
       "pubDate": "Wed, 14 Jan 2026 13:32:03 GMT"
@@ -1083,6 +1071,10 @@
     {
       "title": "DHS warned its independent watchdog that Noem can kill its investigations, senator says - NBC News",
       "pubDate": "Fri, 06 Feb 2026 23:42:05 GMT"
+    },
+    {
+      "title": "The Department of Homeland Security Is Demanding That Google Turn Over Information About Random Critics - Yahoo",
+      "pubDate": "Sun, 08 Feb 2026 20:00:00 GMT"
     }
   ],
   "Microsoft": [
@@ -1451,6 +1443,10 @@
     {
       "title": "Record-breaking quantum simulator could unlock new materials - New Scientist",
       "pubDate": "Wed, 04 Feb 2026 16:01:35 GMT"
+    },
+    {
+      "title": "This Maryland lab\u2019s quantum computer could cure cancer \u2014 and steal passwords - The Washington Post",
+      "pubDate": "Sun, 08 Feb 2026 18:00:00 GMT"
     }
   ],
   "Geopolitics": [
@@ -1469,6 +1465,10 @@
     {
       "title": "China\u2019s Xi and Russia\u2019s Putin hold talks by video - AP News",
       "pubDate": "Wed, 04 Feb 2026 10:02:00 GMT"
+    },
+    {
+      "title": "Geopolitics: Without decisive action, defeatist Europe is heading toward growing dependence on China - Table.Briefings",
+      "pubDate": "Sun, 08 Feb 2026 21:23:19 GMT"
     }
   ],
   "United States": [
@@ -1541,6 +1541,10 @@
     {
       "title": "Bitcoin-Led Crypto Rout Erases Nearly $500 Billion in a Week - Bloomberg.com",
       "pubDate": "Wed, 04 Feb 2026 15:18:24 GMT"
+    },
+    {
+      "title": "Risks Rise for Bitcoin, Gold, and Silver as Goldman Sachs Warns $80 Billion in Stock Selling - Yahoo Finance",
+      "pubDate": "Sun, 08 Feb 2026 21:13:15 GMT"
     }
   ],
   "International Relations": [
@@ -1563,12 +1567,6 @@
     {
       "title": "Nvidia CEO Huang denies he is unhappy with OpenAI, says 'huge' investment planned at 'trillion-dollar dinner' - CNBC",
       "pubDate": "Sat, 31 Jan 2026 14:36:51 GMT"
-    }
-  ],
-  "US Senate": [
-    {
-      "title": "Senate advances war powers resolution to rein in Trump on Venezuela - abcnews.go.com",
-      "pubDate": "Fri, 09 Jan 2026 22:50:03 GMT"
     }
   ],
   "Elon Musk": [
@@ -1997,6 +1995,10 @@
     {
       "title": "How Epstein lured his victims: the women behind the black boxes - The Times",
       "pubDate": "Sat, 07 Feb 2026 22:15:00 GMT"
+    },
+    {
+      "title": "Epstein files: Republican lawmaker Massie calls for Trump Commerce chief Lutnick to resign - CNBC",
+      "pubDate": "Sun, 08 Feb 2026 19:27:58 GMT"
     }
   ],
   "Energy Storage": [
