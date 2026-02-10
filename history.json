@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "New Mexico should lead on artificial intelligence \u2014 the stakes are too high - Santa Fe New Mexican",
-      "pubDate": "Sun, 11 Jan 2026 04:00:00 GMT"
-    },
-    {
       "title": "How artificial intelligence is reshaping the future of war - The Hill",
       "pubDate": "Sun, 11 Jan 2026 12:10:00 GMT"
     },
@@ -127,6 +123,10 @@
     {
       "title": "Trump set off a surge of AI in the federal government. See what happened. - The Washington Post",
       "pubDate": "Mon, 09 Feb 2026 17:32:20 GMT"
+    },
+    {
+      "title": "China's Alibaba launches AI model to power robots as tech giants talk up 'physical AI' - CNBC",
+      "pubDate": "Tue, 10 Feb 2026 11:05:49 GMT"
     }
   ],
   "Israel": [
@@ -144,10 +144,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Inside Ukraine\u2019s Quest to Build a Missile to Strike Deep in Russian Territory - The Wall Street Journal",
-      "pubDate": "Sun, 11 Jan 2026 03:00:00 GMT"
-    },
     {
       "title": "US slams Russia\u2019s \u2018dangerous escalation\u2019 in Ukraine amid new deadly strikes - Al Jazeera",
       "pubDate": "Tue, 13 Jan 2026 04:19:20 GMT"
@@ -231,10 +227,6 @@
   ],
   "Russia": [
     {
-      "title": "A Russian Videographer Reveals How Putin Shapes the Next Generation - The New York Times",
-      "pubDate": "Sun, 11 Jan 2026 10:01:06 GMT"
-    },
-    {
       "title": "Russian Missiles Failed in Venezuela During U.S. Attack - The New York Times",
       "pubDate": "Mon, 12 Jan 2026 10:02:25 GMT"
     },
@@ -304,10 +296,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Smithsonian removes Trump impeachment text as it swaps his portrait - The Washington Post",
-      "pubDate": "Sun, 11 Jan 2026 06:26:11 GMT"
-    },
     {
       "title": "Trump weighs potential military intervention in Iran - CNN",
       "pubDate": "Sun, 11 Jan 2026 15:46:29 GMT"
@@ -523,6 +511,10 @@
     {
       "title": "How Microsoft obliterated safety guardrails on popular AI models - with just one prompt - ZDNET",
       "pubDate": "Mon, 09 Feb 2026 17:00:00 GMT"
+    },
+    {
+      "title": "Anthropic's Head Of AI Safety Quits, Warns Of 'World In Peril' In Cryptic Resignation Letter - NDTV",
+      "pubDate": "Tue, 10 Feb 2026 07:05:15 GMT"
     }
   ],
   "Data Breach": [
@@ -552,10 +544,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "An Instagram data breach reportedly exposed the personal info of 17.5 million users - Engadget",
-      "pubDate": "Sat, 10 Jan 2026 19:21:05 GMT"
-    },
     {
       "title": "Exclusive: Beijing tells Chinese firms to stop using US and Israeli cybersecurity software, sources say - Reuters",
       "pubDate": "Wed, 14 Jan 2026 11:09:45 GMT"
@@ -599,10 +587,6 @@
   ],
   "US Economy": [
     {
-      "title": "Job Gains Cooled in December, Capping Year of Weak Hiring - WSJ - The Wall Street Journal",
-      "pubDate": "Sat, 10 Jan 2026 19:00:29 GMT"
-    },
-    {
       "title": "'Some form of crisis is almost inevitable': The $38 trillion national debt will soon be growing faster than the U.S. economy itself, watchdog warns - Fortune",
       "pubDate": "Thu, 22 Jan 2026 18:08:00 GMT"
     },
@@ -619,12 +603,10 @@
     {
       "title": "4.7 magnitude earthquake rattles Wyoming and parts of Utah early Thursday morning - fox13now.com",
       "pubDate": "Thu, 22 Jan 2026 14:58:59 GMT"
-    }
-  ],
-  "Fusion Power": [
+    },
     {
-      "title": "US lab sees first dual-view shockwave to unlock stable nuclear fusion - Interesting Engineering",
-      "pubDate": "Sun, 11 Jan 2026 10:49:00 GMT"
+      "title": "Scientists Map the Invisible Fault That Could Trigger the Next Major Earthquake - SciTechDaily",
+      "pubDate": "Tue, 10 Feb 2026 01:38:49 GMT"
     }
   ],
   "OpenAI": [
@@ -642,10 +624,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Israel planning new Gaza City offensive in March, but will need green-light from Trump \u2014 officials - The Times of Israel",
-      "pubDate": "Sat, 10 Jan 2026 20:06:18 GMT"
-    },
     {
       "title": "Hamas tells its Gaza agencies to prepare to cede power as part of truce plan - The Times of Israel",
       "pubDate": "Sun, 11 Jan 2026 23:30:00 GMT"
@@ -688,14 +666,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Climate change has now shrunk US salaries by 12%. And worse is to come - BBC Science Focus Magazine",
-      "pubDate": "Sun, 11 Jan 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Nigeria and South Africa plan to boost fossil fuel production, risking their climate change pledges - The Conversation",
-      "pubDate": "Sun, 11 Jan 2026 08:20:28 GMT"
-    },
     {
       "title": "The Scientists Making Antacids for the Sea to Help Counter Global Warming - The New York Times",
       "pubDate": "Sun, 11 Jan 2026 19:36:00 GMT"
@@ -823,10 +793,6 @@
   ],
   "Iran": [
     {
-      "title": "Death toll in Iran protest crackdown passes 100 as Trump said \u2018seriously considering\u2019 strike - The Times of Israel",
-      "pubDate": "Sun, 11 Jan 2026 04:41:23 GMT"
-    },
-    {
       "title": "Iran warns it will retaliate if US attacks, as hundreds killed in protests - BBC",
       "pubDate": "Sun, 11 Jan 2026 20:32:27 GMT"
     },
@@ -891,12 +857,6 @@
       "pubDate": "Sun, 08 Feb 2026 21:22:30 GMT"
     }
   ],
-  "US Supreme Court": [
-    {
-      "title": "Supreme Court to Consider Landmark Case on FCC\u2019s Authority to Issue Fines - TVTechnology",
-      "pubDate": "Sat, 10 Jan 2026 20:28:45 GMT"
-    }
-  ],
   "Climate": [
     {
       "title": "Scientists call another near-record hot year a 'warning shot' from a shifting climate - NPR",
@@ -953,6 +913,10 @@
     {
       "title": "Hackers breach govt systems in 37 countries in vast spying plot - The Economic Times",
       "pubDate": "Mon, 09 Feb 2026 00:30:00 GMT"
+    },
+    {
+      "title": "Karma strikes as AI hacking platform WormGPT gets hacked itself - Cybernews",
+      "pubDate": "Tue, 10 Feb 2026 09:45:00 GMT"
     }
   ],
   "Drones": [
@@ -1096,10 +1060,6 @@
     }
   ],
   "Terrorism": [
-    {
-      "title": "U.S. airstrikes hit ISIS targets in Syria, officials say - CBS News",
-      "pubDate": "Sat, 10 Jan 2026 21:29:00 GMT"
-    },
     {
       "title": "Itamar Ben-Gvir switches terrorism death penalty method to hanging - The Jerusalem Post",
       "pubDate": "Wed, 14 Jan 2026 18:38:00 GMT"
@@ -1401,10 +1361,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "Are quantum computers finally becoming useful? - Financial Times",
-      "pubDate": "Sun, 11 Jan 2026 05:00:25 GMT"
-    },
-    {
       "title": "New Discovery In Laser Technology Could Change Everything For Quantum Computing - bgr.com",
       "pubDate": "Sun, 01 Feb 2026 11:17:00 GMT"
     },
@@ -1521,12 +1477,6 @@
       "pubDate": "Tue, 27 Jan 2026 16:42:00 GMT"
     }
   ],
-  "Internet": [
-    {
-      "title": "Live updates: Dozens reported killed during Iran protests as internet blackout persists - CNN",
-      "pubDate": "Sat, 10 Jan 2026 23:31:00 GMT"
-    }
-  ],
   "Investment": [
     {
       "title": "US to invest $1.6bn into rare earths group in bid to shore up key minerals - Financial Times",
@@ -1538,10 +1488,6 @@
     }
   ],
   "Elon Musk": [
-    {
-      "title": "Indonesia becomes the first country to suspend Elon Musk's Grok for generating 'non-consensual sexual deepfakes' - Business Insider",
-      "pubDate": "Sat, 10 Jan 2026 20:06:00 GMT"
-    },
     {
       "title": "Iran uses kill switch to jam Starlink as protests rage on. Did China or Russia help? - India Today",
       "pubDate": "Mon, 12 Jan 2026 08:29:57 GMT"
@@ -1557,10 +1503,6 @@
   ],
   "AI Alignment": [
     {
-      "title": "OpenAI training its next-gen AI models on real-world tasks by contractors: Report - The Indian Express",
-      "pubDate": "Sun, 11 Jan 2026 07:11:08 GMT"
-    },
-    {
       "title": "Microsoft AI chief warns world risks losing control in AGI race - Communications Today",
       "pubDate": "Mon, 12 Jan 2026 11:03:35 GMT"
     },
@@ -1575,10 +1517,6 @@
   ],
   "Electric Vehicle": [
     {
-      "title": "BYD overtakes Tesla as the world\u2019s largest EV manufacturer - New Atlas",
-      "pubDate": "Sun, 11 Jan 2026 03:05:36 GMT"
-    },
-    {
       "title": "Europe and China Take Step to Resolve Dispute on Electric Vehicles - The New York Times",
       "pubDate": "Mon, 12 Jan 2026 12:31:19 GMT"
     },
@@ -1588,10 +1526,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "Injection turns sleeping tumor immune cells into cancer fighters - ScienceDaily",
-      "pubDate": "Sun, 11 Jan 2026 11:13:44 GMT"
-    },
     {
       "title": "What science says about how weight-loss drugs affect cancer risk - The Washington Post",
       "pubDate": "Sat, 17 Jan 2026 18:00:00 GMT"
@@ -1613,6 +1547,10 @@
     {
       "title": "Nasa's mega Moon rocket arrives at launch pad for Artemis II mission - BBC",
       "pubDate": "Sun, 18 Jan 2026 01:22:46 GMT"
+    },
+    {
+      "title": "NASA finds Earth\u2019s magnetic field may be the hidden reason oxygen has lasted for millions of years - Times of India",
+      "pubDate": "Tue, 10 Feb 2026 02:30:00 GMT"
     }
   ],
   "Alexandria Ocasio-Cortez": [
@@ -1823,6 +1761,10 @@
     {
       "title": "Elon Musk calls Spanish PM a \u2018tyrant\u2019 over plan to ban under-16s from social media and curb hateful content - The Guardian",
       "pubDate": "Wed, 04 Feb 2026 01:13:00 GMT"
+    },
+    {
+      "title": "Landmark trial accusing social media companies of addicting children to their platforms begins - AP News",
+      "pubDate": "Tue, 10 Feb 2026 03:01:00 GMT"
     }
   ],
   "Immigration and Customs Enforcement": [
@@ -2105,6 +2047,12 @@
     {
       "title": "It\u2019s Historic: Two Black Holes Have Just Been Photographed Together for the First Time - Futura, Le m\u00e9dia qui explore le monde",
       "pubDate": "Mon, 09 Feb 2026 11:46:11 GMT"
+    }
+  ],
+  "Big Tech": [
+    {
+      "title": "US plans Big Tech carve-out from next chip tariffs, FT reports - Reuters",
+      "pubDate": "Tue, 10 Feb 2026 00:04:40 GMT"
     }
   ]
 }
