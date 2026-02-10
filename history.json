@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "How artificial intelligence is reshaping the future of war - The Hill",
-      "pubDate": "Sun, 11 Jan 2026 12:10:00 GMT"
-    },
-    {
       "title": "Trump Administration Wants to Achieve \u2018Pax Silica\u2019 Through AI. Here\u2019s What That Means - Gizmodo",
       "pubDate": "Sun, 11 Jan 2026 22:14:40 GMT"
     },
@@ -127,6 +123,10 @@
     {
       "title": "China's Alibaba launches AI model to power robots as tech giants talk up 'physical AI' - CNBC",
       "pubDate": "Tue, 10 Feb 2026 11:05:49 GMT"
+    },
+    {
+      "title": "China enlists AI to sniff out corruption in public bidding - Reuters",
+      "pubDate": "Tue, 10 Feb 2026 15:55:30 GMT"
     }
   ],
   "Israel": [
@@ -297,10 +297,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump weighs potential military intervention in Iran - CNN",
-      "pubDate": "Sun, 11 Jan 2026 15:46:29 GMT"
-    },
-    {
       "title": "Live updates: More than 2,400 protesters killed in Iran as Trump warns against executions - CNN",
       "pubDate": "Thu, 15 Jan 2026 05:20:00 GMT"
     },
@@ -386,10 +382,6 @@
     }
   ],
   "China": [
-    {
-      "title": "With Venezuela raid, US tells China to keep away from the Americas - Reuters",
-      "pubDate": "Sun, 11 Jan 2026 13:08:56 GMT"
-    },
     {
       "title": "Foreign investment: China overtakes the United States - Table.Briefings",
       "pubDate": "Mon, 12 Jan 2026 21:58:05 GMT"
@@ -761,6 +753,10 @@
     {
       "title": "Icy weather highlights open questions about climate change effects - USA Today",
       "pubDate": "Sat, 07 Feb 2026 19:29:00 GMT"
+    },
+    {
+      "title": "EPA set to repeal landmark finding that climate change endangers the public - The Hill",
+      "pubDate": "Tue, 10 Feb 2026 14:55:00 GMT"
     }
   ],
   "National Security": [
@@ -782,10 +778,6 @@
     }
   ],
   "North Korea": [
-    {
-      "title": "North Korea says latest missile tests involve hypersonic weapons system - The North State Journal",
-      "pubDate": "Sun, 11 Jan 2026 16:58:31 GMT"
-    },
     {
       "title": "U.S. to Allow Aid to North Korea to Resume, While Outreach Stalls - The Wall Street Journal",
       "pubDate": "Fri, 06 Feb 2026 08:25:00 GMT"
@@ -891,6 +883,10 @@
     {
       "title": "CISA Warns of Actively Exploited Critical VMware vCenter RCE Vulnerability - Cyber Press",
       "pubDate": "Mon, 26 Jan 2026 07:25:55 GMT"
+    },
+    {
+      "title": "After major Poland energy grid cyberattack, CISA issues warning to U.S. audience - CyberScoop",
+      "pubDate": "Tue, 10 Feb 2026 16:04:46 GMT"
     }
   ],
   "Hacking": [
@@ -1675,6 +1671,10 @@
     {
       "title": "Claude Opus 4.6 Raises Eyebrows by Suggesting It Might Be Conscious - The Hans India",
       "pubDate": "Fri, 06 Feb 2026 11:18:05 GMT"
+    },
+    {
+      "title": "AI could trigger a global jobs market collapse by 2027 if left unchecked, former Google ethicist warns - Fortune",
+      "pubDate": "Tue, 10 Feb 2026 17:31:00 GMT"
     }
   ],
   "Electric Power Transmission": [
@@ -2017,6 +2017,10 @@
     {
       "title": "Dow surges 1,200 points for first close above 50,000 in sharp rebound from tech rout: Live updates - CNBC",
       "pubDate": "Fri, 06 Feb 2026 19:49:36 GMT"
+    },
+    {
+      "title": "Economic growth is still heating the planet. Is there any way out? - The Guardian",
+      "pubDate": "Tue, 10 Feb 2026 12:26:00 GMT"
     }
   ],
   "Autonomous Vehicles": [
@@ -2053,6 +2057,12 @@
     {
       "title": "US plans Big Tech carve-out from next chip tariffs, FT reports - Reuters",
       "pubDate": "Tue, 10 Feb 2026 00:04:40 GMT"
+    }
+  ],
+  "Benjamin Netanyahu": [
+    {
+      "title": "Netanyahu rushes to Washington for talks with Trump over Iran - The Times",
+      "pubDate": "Tue, 10 Feb 2026 08:30:00 GMT"
     }
   ]
 }
