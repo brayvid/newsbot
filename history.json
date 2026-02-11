@@ -127,6 +127,10 @@
     {
       "title": "Adam Schiff And John Curtis Introduce Bill To Require Tech To Disclose Copyrighted Works Used In AI Training Models - Deadline",
       "pubDate": "Tue, 10 Feb 2026 14:30:00 GMT"
+    },
+    {
+      "title": "OpenAI opening ChatGPT access to Pentagon - The Hill",
+      "pubDate": "Wed, 11 Feb 2026 15:26:00 GMT"
     }
   ],
   "Israel": [
@@ -891,10 +895,6 @@
   ],
   "Hacking": [
     {
-      "title": "Hacking hub BreachForums hit by data breach - 324,000 accounts exposed - TechRadar",
-      "pubDate": "Mon, 12 Jan 2026 17:10:00 GMT"
-    },
-    {
       "title": "Researchers say Russian government hackers were behind attempted Poland power outage - TechRadar",
       "pubDate": "Mon, 26 Jan 2026 11:20:00 GMT"
     },
@@ -1017,10 +1017,6 @@
   ],
   "Recession": [
     {
-      "title": "Federal Reserve rate cuts aimed at preventing full economic recession amid rising jobless claims - MSN",
-      "pubDate": "Mon, 12 Jan 2026 12:52:42 GMT"
-    },
-    {
       "title": "State of the Dream 2026: From Regression to Signs of a Black Recession - Joint Center",
       "pubDate": "Wed, 14 Jan 2026 18:48:12 GMT"
     },
@@ -1071,10 +1067,6 @@
   ],
   "Privacy": [
     {
-      "title": "New York\u2019s governor vetoes popular health data privacy bill - Healthcare Brew",
-      "pubDate": "Mon, 12 Jan 2026 16:40:55 GMT"
-    },
-    {
       "title": "Protecting the right to privacy in the age of surveillance - Cape Gazette",
       "pubDate": "Tue, 03 Feb 2026 10:08:25 GMT"
     }
@@ -1100,10 +1092,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "Hochul ratchets up nuclear plans, aims to lead U.S. in building new power reactors - Syracuse.com",
-      "pubDate": "Mon, 12 Jan 2026 13:17:00 GMT"
-    },
     {
       "title": "China and Russia dominate nuclear power push with 90% of new reactors - Nikkei Asia",
       "pubDate": "Sat, 17 Jan 2026 20:01:00 GMT"
@@ -1247,10 +1235,6 @@
   ],
   "Environment": [
     {
-      "title": "E.P.A. to Stop Considering Lives Saved by Limiting Air Pollution - The New York Times",
-      "pubDate": "Mon, 12 Jan 2026 16:43:41 GMT"
-    },
-    {
       "title": "EU faces \u20ac440bn cost from PFAS pollution \u2013 report - Ecotextile News",
       "pubDate": "Mon, 09 Feb 2026 09:22:42 GMT"
     }
@@ -1272,10 +1256,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Federal Prosecutors Open Investigation Into Fed Chair Powell - The New York Times",
-      "pubDate": "Mon, 12 Jan 2026 14:18:00 GMT"
-    },
     {
       "title": "Powell pushes back as Trump\u2019s DOJ launches unprecedented investigation into Fed - PBS",
       "pubDate": "Mon, 12 Jan 2026 23:55:25 GMT"
@@ -1501,10 +1481,6 @@
   ],
   "Electric Vehicle": [
     {
-      "title": "Europe and China Take Step to Resolve Dispute on Electric Vehicles - The New York Times",
-      "pubDate": "Mon, 12 Jan 2026 12:31:19 GMT"
-    },
-    {
       "title": "Tesla agrees to mediation that could resolve US agency's racism lawsuit - Reuters",
       "pubDate": "Wed, 14 Jan 2026 02:39:00 GMT"
     }
@@ -1719,6 +1695,10 @@
     {
       "title": "EU Discloses January Cyberattack That Exposed Some Staff Data - bloomberg.com",
       "pubDate": "Fri, 06 Feb 2026 21:34:08 GMT"
+    },
+    {
+      "title": "Leaked Documents Show China Rehearsing Cyberattacks on Neighbors\u2019 Critical Infrastructure - Homeland Security Today",
+      "pubDate": "Wed, 11 Feb 2026 11:41:27 GMT"
     }
   ],
   "Blockchain": [
@@ -1903,6 +1883,10 @@
     {
       "title": "House Dem identifies \u2018wealthy, powerful men\u2019 DOJ redacted in Epstein files - Politico",
       "pubDate": "Tue, 10 Feb 2026 19:56:17 GMT"
+    },
+    {
+      "title": "Trump is in the unredacted Epstein files \"more than a million times,\" Raskin alleges - Axios",
+      "pubDate": "Wed, 11 Feb 2026 09:32:40 GMT"
     }
   ],
   "Energy Storage": [
@@ -2039,6 +2023,10 @@
     {
       "title": "US plans Big Tech carve-out from next chip tariffs, FT reports - Reuters",
       "pubDate": "Tue, 10 Feb 2026 00:04:40 GMT"
+    },
+    {
+      "title": "Big Tech Is Now Big on Debt and That Changes Everything - Bloomberg.com",
+      "pubDate": "Wed, 11 Feb 2026 17:37:12 GMT"
     }
   ],
   "Benjamin Netanyahu": [
@@ -2051,6 +2039,24 @@
     {
       "title": "Tumbler Ridge Live Updates: 9 Killed in Shooting at School and Home in British Columbia - The New York Times",
       "pubDate": "Wed, 11 Feb 2026 11:22:15 GMT"
+    }
+  ],
+  "DeepMind": [
+    {
+      "title": "How Demis Hassabis is leading Google through an innovator\u2019s dilemma\u2014and made OpenAI declare 'code red' - Fortune",
+      "pubDate": "Wed, 11 Feb 2026 10:00:00 GMT"
+    }
+  ],
+  "National Security Agency": [
+    {
+      "title": "Exclusive / NSA pick warns of China pursuing AI chips for weapons - Semafor",
+      "pubDate": "Wed, 11 Feb 2026 09:59:00 GMT"
+    }
+  ],
+  "Science": [
+    {
+      "title": "Nanoplastics hindering cognitive abilities of fish, international research shows - Phys.org",
+      "pubDate": "Wed, 11 Feb 2026 11:44:45 GMT"
     }
   ]
 }
