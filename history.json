@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Trump Administration Wants to Achieve \u2018Pax Silica\u2019 Through AI. Here\u2019s What That Means - Gizmodo",
-      "pubDate": "Sun, 11 Jan 2026 22:14:40 GMT"
-    },
-    {
       "title": "Apple Teams Up With Google for A.I. in Its Products - The New York Times",
       "pubDate": "Mon, 12 Jan 2026 20:09:59 GMT"
     },
@@ -127,6 +123,10 @@
     {
       "title": "China enlists AI to sniff out corruption in public bidding - Reuters",
       "pubDate": "Tue, 10 Feb 2026 15:55:30 GMT"
+    },
+    {
+      "title": "Adam Schiff And John Curtis Introduce Bill To Require Tech To Disclose Copyrighted Works Used In AI Training Models - Deadline",
+      "pubDate": "Tue, 10 Feb 2026 14:30:00 GMT"
     }
   ],
   "Israel": [
@@ -223,6 +223,10 @@
     {
       "title": "EU Parliament to vote on \u20ac90B Ukraine loan Wednesday - politico.eu",
       "pubDate": "Mon, 09 Feb 2026 17:42:00 GMT"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Russian losses mount as Putin\u2019s forces battle in key city - The Independent",
+      "pubDate": "Tue, 10 Feb 2026 23:54:11 GMT"
     }
   ],
   "Russia": [
@@ -293,6 +297,10 @@
     {
       "title": "Russian military scrambles to find Starlink alternative after access blocked - The Guardian",
       "pubDate": "Mon, 09 Feb 2026 16:26:00 GMT"
+    },
+    {
+      "title": "Norway defence chief says Russia could invade to protect nuclear assets - The Guardian",
+      "pubDate": "Tue, 10 Feb 2026 17:38:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -617,10 +625,6 @@
   ],
   "Gaza": [
     {
-      "title": "Hamas tells its Gaza agencies to prepare to cede power as part of truce plan - The Times of Israel",
-      "pubDate": "Sun, 11 Jan 2026 23:30:00 GMT"
-    },
-    {
       "title": "U.S. to Name Palestinian Committee to Run Gaza - The New York Times",
       "pubDate": "Wed, 14 Jan 2026 00:35:53 GMT"
     },
@@ -658,10 +662,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "The Scientists Making Antacids for the Sea to Help Counter Global Warming - The New York Times",
-      "pubDate": "Sun, 11 Jan 2026 19:36:00 GMT"
-    },
     {
       "title": "Global ocean heat hit its highest level on record in 2025 - Earth.com",
       "pubDate": "Mon, 12 Jan 2026 19:26:48 GMT"
@@ -757,6 +757,10 @@
     {
       "title": "EPA set to repeal landmark finding that climate change endangers the public - The Hill",
       "pubDate": "Tue, 10 Feb 2026 14:55:00 GMT"
+    },
+    {
+      "title": "Climate Change Is Erased From a Manual for Federal Judges - The New York Times",
+      "pubDate": "Tue, 10 Feb 2026 20:02:06 GMT"
     }
   ],
   "National Security": [
@@ -784,10 +788,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran warns it will retaliate if US attacks, as hundreds killed in protests - BBC",
-      "pubDate": "Sun, 11 Jan 2026 20:32:27 GMT"
-    },
     {
       "title": "Live updates: Iran \u2018prepared\u2019 for war but open to US talks as more than 500 reported killed in protests - CNN",
       "pubDate": "Tue, 13 Jan 2026 03:28:00 GMT"
@@ -973,10 +973,6 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "DHS restricts congressional visits to ICE facilities in Minneapolis with new policy - NPR",
-      "pubDate": "Sun, 11 Jan 2026 18:18:04 GMT"
-    },
-    {
       "title": "DHS seeking to deport two men who said fellow ICE detainee was killed - The Washington Post",
       "pubDate": "Sat, 17 Jan 2026 23:46:36 GMT"
     },
@@ -1011,6 +1007,10 @@
     {
       "title": "The Department of Homeland Security Is Demanding That Google Turn Over Information About Random Critics - Yahoo",
       "pubDate": "Sun, 08 Feb 2026 20:00:00 GMT"
+    },
+    {
+      "title": "Democrats reject latest White House offer on ICE reforms with Homeland Security funding hanging in the balance - CBS News",
+      "pubDate": "Tue, 10 Feb 2026 11:54:35 GMT"
     }
   ],
   "Microsoft": [
@@ -1339,6 +1339,10 @@
     {
       "title": "Supreme Court allows California to use new voting map boosting Democrats - BBC",
       "pubDate": "Wed, 04 Feb 2026 20:20:30 GMT"
+    },
+    {
+      "title": "National Governors Association meeting with Trump will not be held after Democrats uninvited - FOX 5 DC",
+      "pubDate": "Tue, 10 Feb 2026 23:25:17 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -1528,10 +1532,6 @@
     }
   ],
   "NASA": [
-    {
-      "title": "NASA won\u2019t bring back Mars sample - Yahoo",
-      "pubDate": "Sun, 11 Jan 2026 22:19:29 GMT"
-    },
     {
       "title": "NASA, Department of Energy to Develop Lunar Surface Reactor by 2030 - NASA (.gov)",
       "pubDate": "Tue, 13 Jan 2026 21:01:41 GMT"
@@ -1921,6 +1921,10 @@
     {
       "title": "Epstein files: Congressional lawmakers call for Trump Commerce chief Lutnick to resign, or be fired - CNBC",
       "pubDate": "Sun, 08 Feb 2026 19:27:58 GMT"
+    },
+    {
+      "title": "House Dem identifies \u2018wealthy, powerful men\u2019 DOJ redacted in Epstein files - Politico",
+      "pubDate": "Tue, 10 Feb 2026 19:56:17 GMT"
     }
   ],
   "Energy Storage": [
