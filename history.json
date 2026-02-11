@@ -227,13 +227,13 @@
     {
       "title": "Ukraine-Russia war latest: Russian losses mount as Putin\u2019s forces battle in key city - The Independent",
       "pubDate": "Tue, 10 Feb 2026 23:54:11 GMT"
+    },
+    {
+      "title": "Ukraine's nuclear plants still work at limited capacity after Russian strikes - Reuters",
+      "pubDate": "Wed, 11 Feb 2026 11:16:19 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Russian Missiles Failed in Venezuela During U.S. Attack - The New York Times",
-      "pubDate": "Mon, 12 Jan 2026 10:02:25 GMT"
-    },
     {
       "title": "Russia's 'massive' losses in Ukraine have it heading toward a breaking point, NATO's top official says - Business Insider",
       "pubDate": "Wed, 14 Jan 2026 15:11:00 GMT"
@@ -387,6 +387,10 @@
     {
       "title": "\u2018I Didn\u2019t Make a Mistake\u2019: Trump Declines to Apologize for Racist Video of Obamas - The New York Times",
       "pubDate": "Sat, 07 Feb 2026 16:23:00 GMT"
+    },
+    {
+      "title": "Trump to Meet Netanyahu in Washington Amid Tensions With Iran - The New York Times",
+      "pubDate": "Wed, 11 Feb 2026 10:46:27 GMT"
     }
   ],
   "China": [
@@ -518,10 +522,6 @@
     }
   ],
   "Data Breach": [
-    {
-      "title": "Second health provider, Canopy Health, hit in major cyber attack - RNZ",
-      "pubDate": "Mon, 12 Jan 2026 00:25:04 GMT"
-    },
     {
       "title": "Kaiser Permanente to pay $46 million in privacy data breach settlement. Here's how to file a claim. - CBS News",
       "pubDate": "Mon, 12 Jan 2026 23:20:00 GMT"
@@ -891,10 +891,6 @@
   ],
   "Hacking": [
     {
-      "title": "China Accuses U.S. Of Hacking $15B Bitcoin From Alleged Scam Kingpin Chen Zhi - Yellow.com",
-      "pubDate": "Mon, 12 Jan 2026 04:00:45 GMT"
-    },
-    {
       "title": "Hacking hub BreachForums hit by data breach - 324,000 accounts exposed - TechRadar",
       "pubDate": "Mon, 12 Jan 2026 17:10:00 GMT"
     },
@@ -1067,6 +1063,10 @@
     {
       "title": "Westminster man pleads guilty to federal terrorism charge - The Denver Post",
       "pubDate": "Fri, 06 Feb 2026 20:41:24 GMT"
+    },
+    {
+      "title": "Artificial Intelligence and Terrorism: a Warning from Chinese and American Experts - Le Figaro",
+      "pubDate": "Wed, 11 Feb 2026 04:00:00 GMT"
     }
   ],
   "Privacy": [
@@ -1207,12 +1207,6 @@
       "pubDate": "Thu, 15 Jan 2026 04:48:50 GMT"
     }
   ],
-  "Health Care": [
-    {
-      "title": "Nearly 15,000 Nurses Go on Strike at Major New York City Hospitals - The New York Times",
-      "pubDate": "Mon, 12 Jan 2026 11:23:01 GMT"
-    }
-  ],
   "Democracy": [
     {
       "title": "A Tale of Two Meetings: Trump Chooses Oil Over Democracy - The New York Times",
@@ -1265,12 +1259,6 @@
     {
       "title": "North Korea\u2019s Kim fires vice premier, calls him \u2018a goat yoked to pull an ox cart\u2019 - CNN",
       "pubDate": "Wed, 21 Jan 2026 01:07:00 GMT"
-    }
-  ],
-  "Google": [
-    {
-      "title": "\u2018Dangerous and alarming\u2019: Google removes some of its AI summaries after users\u2019 health put at risk - The Guardian",
-      "pubDate": "Mon, 12 Jan 2026 02:30:00 GMT"
     }
   ],
   "World Economy": [
@@ -1489,10 +1477,6 @@
   ],
   "Elon Musk": [
     {
-      "title": "Iran uses kill switch to jam Starlink as protests rage on. Did China or Russia help? - India Today",
-      "pubDate": "Mon, 12 Jan 2026 08:29:57 GMT"
-    },
-    {
       "title": "Musk Seeks Up to $134 Billion Damages From OpenAI, Microsoft - Bloomberg",
       "pubDate": "Sat, 17 Jan 2026 16:36:44 GMT"
     },
@@ -1503,16 +1487,16 @@
   ],
   "AI Alignment": [
     {
-      "title": "Microsoft AI chief warns world risks losing control in AGI race - Communications Today",
-      "pubDate": "Mon, 12 Jan 2026 11:03:35 GMT"
-    },
-    {
       "title": "Governance Framework Achieves Distributional AGI Safety, Addressing 3 Structural Problems - Quantum Zeitgeist",
       "pubDate": "Mon, 19 Jan 2026 18:03:36 GMT"
     },
     {
       "title": "Rational but wrong: How AI misinterprets choices and quietly skews decisions - Devdiscourse",
       "pubDate": "Fri, 06 Feb 2026 05:52:33 GMT"
+    },
+    {
+      "title": "Anthropic hires philosopher to teach Claude AI manners and morals - India Today",
+      "pubDate": "Wed, 11 Feb 2026 10:25:11 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1547,12 +1531,6 @@
     {
       "title": "NASA finds Earth\u2019s magnetic field may be the hidden reason oxygen has lasted for millions of years - Times of India",
       "pubDate": "Tue, 10 Feb 2026 02:30:00 GMT"
-    }
-  ],
-  "Alexandria Ocasio-Cortez": [
-    {
-      "title": "Mamdani, AOC denounce pro-Hamas chants outside Queens synagogue, with mayor using \u2018terrorist\u2019 label for first time - Jewish Telegraphic Agency",
-      "pubDate": "Mon, 12 Jan 2026 11:28:28 GMT"
     }
   ],
   "Apple": [
@@ -2067,6 +2045,12 @@
     {
       "title": "Netanyahu rushes to Washington for talks with Trump over Iran - The Times",
       "pubDate": "Tue, 10 Feb 2026 08:30:00 GMT"
+    }
+  ],
+  "Canada": [
+    {
+      "title": "Tumbler Ridge Live Updates: 9 Killed in Shooting at School and Home in British Columbia - The New York Times",
+      "pubDate": "Wed, 11 Feb 2026 11:22:15 GMT"
     }
   ]
 }
