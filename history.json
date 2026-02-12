@@ -659,10 +659,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Climate change presses on: Devastating wildfires and intense thunderstorms exacerbate losses for insurers - munichre.com",
-      "pubDate": "Tue, 13 Jan 2026 07:05:05 GMT"
-    },
-    {
       "title": "Earth to breach 1.5C warming a decade early, scientists say - Financial Times",
       "pubDate": "Wed, 14 Jan 2026 05:00:49 GMT"
     },
@@ -999,6 +995,10 @@
     {
       "title": "Democrats will block new stopgap to fund Homeland Security Department - The Hill",
       "pubDate": "Wed, 11 Feb 2026 15:04:00 GMT"
+    },
+    {
+      "title": "DHS Funding Lapse Could Stall Cyber Progress, CISA and Secret Service Warn - MeriTalk",
+      "pubDate": "Thu, 12 Feb 2026 03:19:07 GMT"
     }
   ],
   "Microsoft": [
@@ -1064,10 +1064,6 @@
     }
   ],
   "United Nations": [
-    {
-      "title": "UN International Court of Justice to hear 1st genocide case in over a decade - NPR",
-      "pubDate": "Tue, 13 Jan 2026 11:50:52 GMT"
-    },
     {
       "title": "UN risks 'imminent financial collapse', secretary general warns - BBC",
       "pubDate": "Fri, 30 Jan 2026 16:24:18 GMT"
@@ -1179,6 +1175,10 @@
     {
       "title": "Pentagon contractor indicted over alleged leak tied to raided Washington Post reporter - The Guardian",
       "pubDate": "Fri, 23 Jan 2026 16:46:00 GMT"
+    },
+    {
+      "title": "Exclusive | Pentagon Prepares Second Aircraft Carrier to Deploy to the Middle East - WSJ - The Wall Street Journal",
+      "pubDate": "Thu, 12 Feb 2026 01:32:00 GMT"
     }
   ],
   "US Treasury": [
@@ -1505,24 +1505,6 @@
       "pubDate": "Tue, 10 Feb 2026 02:30:00 GMT"
     }
   ],
-  "Defense Intelligence Agency": [
-    {
-      "title": "US strikes may delay Iran nuclear program by months, sources reveal - The Sun Malaysia",
-      "pubDate": "Tue, 13 Jan 2026 10:11:06 GMT"
-    }
-  ],
-  "World Politics": [
-    {
-      "title": "Iran's Currency Hits 1.47 Million Per Dollar As Economic Crisis Fuels Uprising - International Business Times UK",
-      "pubDate": "Tue, 13 Jan 2026 06:11:00 GMT"
-    }
-  ],
-  "United States Constitution": [
-    {
-      "title": "Tariffs, AI, and the Golden Age of Executive Power - The Daily Economy",
-      "pubDate": "Tue, 13 Jan 2026 11:40:00 GMT"
-    }
-  ],
   "European Union": [
     {
       "title": "European Defense Companies in Line to Benefit From Bulk of EU\u2019s $105 Billion Ukraine Loan - The Wall Street Journal",
@@ -1689,6 +1671,10 @@
     {
       "title": "Leaked Documents Show China Rehearsing Cyberattacks on Neighbors\u2019 Critical Infrastructure - Homeland Security Today",
       "pubDate": "Wed, 11 Feb 2026 11:41:27 GMT"
+    },
+    {
+      "title": "Google: China's APT31 used Gemini to plan cyberattacks against US orgs - theregister.com",
+      "pubDate": "Thu, 12 Feb 2026 07:00:00 GMT"
     }
   ],
   "Blockchain": [
@@ -1779,6 +1765,10 @@
     {
       "title": "US must be prudent when supplying arms to Taiwan, Xi tells Trump - BBC",
       "pubDate": "Thu, 05 Feb 2026 08:36:16 GMT"
+    },
+    {
+      "title": "Taiwan leader warns countries in region 'next' in case of China attack: AFP interview - France 24",
+      "pubDate": "Thu, 12 Feb 2026 01:57:10 GMT"
     }
   ],
   "Automation": [
@@ -2073,6 +2063,18 @@
     {
       "title": "Border Officials Are Said to Have Caused El Paso Closure by Firing Anti-Drone Laser - The New York Times",
       "pubDate": "Wed, 11 Feb 2026 18:29:39 GMT"
+    }
+  ],
+  "Immigration": [
+    {
+      "title": "Trump administration working to expand effort to strip citizenship from foreign-born Americans - NBC News",
+      "pubDate": "Thu, 12 Feb 2026 10:00:00 GMT"
+    }
+  ],
+  "Unemployment": [
+    {
+      "title": "Khan Academy CEO warns even a 10% workforce reduction due to AI 'will feel like a depression' - Fortune",
+      "pubDate": "Thu, 12 Feb 2026 10:36:00 GMT"
     }
   ]
 }
