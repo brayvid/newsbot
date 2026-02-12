@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Microsoft warns that China is winning AI race outside the west - Financial Times",
-      "pubDate": "Tue, 13 Jan 2026 05:00:19 GMT"
-    },
-    {
       "title": "Pentagon rolls out major reforms of R&D, AI - Breaking Defense",
       "pubDate": "Tue, 13 Jan 2026 18:40:36 GMT"
     },
@@ -140,10 +136,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "US slams Russia\u2019s \u2018dangerous escalation\u2019 in Ukraine amid new deadly strikes - Al Jazeera",
-      "pubDate": "Tue, 13 Jan 2026 04:19:20 GMT"
-    },
     {
       "title": "A Russian city gets a taste of the cold devastation to Ukraine\u2019s power grid - The Washington Post",
       "pubDate": "Wed, 14 Jan 2026 11:32:09 GMT"
@@ -297,6 +289,10 @@
     {
       "title": "Norway defence chief says Russia could invade to protect nuclear assets - The Guardian",
       "pubDate": "Tue, 10 Feb 2026 17:38:00 GMT"
+    },
+    {
+      "title": "Russia moves to block WhatsApp in messaging app crackdown - BBC",
+      "pubDate": "Thu, 12 Feb 2026 03:57:46 GMT"
     }
   ],
   "Donald Trump": [
@@ -593,6 +589,10 @@
     {
       "title": "January job growth tops expectations, but economists question sustainability - The Christian Science Monitor",
       "pubDate": "Wed, 11 Feb 2026 21:54:32 GMT"
+    },
+    {
+      "title": "Healthcare Work Propels U.S. to Strongest Job Growth in More Than a Year - The Wall Street Journal",
+      "pubDate": "Wed, 11 Feb 2026 22:22:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -784,10 +784,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Live updates: Iran \u2018prepared\u2019 for war but open to US talks as more than 500 reported killed in protests - CNN",
-      "pubDate": "Tue, 13 Jan 2026 03:28:00 GMT"
-    },
     {
       "title": "Iran warns of retaliation if Trump strikes, US withdraws some personnel from bases - Reuters",
       "pubDate": "Wed, 14 Jan 2026 17:28:53 GMT"
@@ -1401,6 +1397,10 @@
     {
       "title": "Mexico Unveils National Declaration on Ethical AI to Guide Public Policy and Protect Human Rights - BABL AI",
       "pubDate": "Thu, 05 Feb 2026 13:00:29 GMT"
+    },
+    {
+      "title": "AI safety researchers exit Anthropic, OpenAI; flag ethical concerns - The Economic Times",
+      "pubDate": "Thu, 12 Feb 2026 04:32:22 GMT"
     }
   ],
   "Space Exploration": [
@@ -1503,12 +1503,6 @@
     {
       "title": "NASA finds Earth\u2019s magnetic field may be the hidden reason oxygen has lasted for millions of years - Times of India",
       "pubDate": "Tue, 10 Feb 2026 02:30:00 GMT"
-    }
-  ],
-  "Apple": [
-    {
-      "title": "Gemini will power Apple's Siri - Axios",
-      "pubDate": "Tue, 13 Jan 2026 03:10:33 GMT"
     }
   ],
   "Defense Intelligence Agency": [
@@ -1887,6 +1881,10 @@
     {
       "title": "Epstein files scrubbed to protect 'elite, powerful men,' Rep. Ro Khanna says - PBS",
       "pubDate": "Wed, 11 Feb 2026 23:28:05 GMT"
+    },
+    {
+      "title": "Published Epstein files included video showing the face of an undercover FBI employee - CNN",
+      "pubDate": "Thu, 12 Feb 2026 01:23:00 GMT"
     }
   ],
   "Energy Storage": [
@@ -2057,6 +2055,24 @@
     {
       "title": "Nanoplastics hindering cognitive abilities of fish, international research shows - Phys.org",
       "pubDate": "Wed, 11 Feb 2026 11:44:45 GMT"
+    }
+  ],
+  "DOJ": [
+    {
+      "title": "IRS improperly disclosed confidential immigrant tax data to DHS - The Washington Post",
+      "pubDate": "Thu, 12 Feb 2026 04:46:29 GMT"
+    }
+  ],
+  "Google Cloud": [
+    {
+      "title": "Investigators wrangled video from Nancy Guthrie\u2019s Google Nest camera out of \u2018backend systems\u2019 - NBC News",
+      "pubDate": "Wed, 11 Feb 2026 20:07:00 GMT"
+    }
+  ],
+  "Technology": [
+    {
+      "title": "Border Officials Are Said to Have Caused El Paso Closure by Firing Anti-Drone Laser - The New York Times",
+      "pubDate": "Wed, 11 Feb 2026 18:29:39 GMT"
     }
   ]
 }
