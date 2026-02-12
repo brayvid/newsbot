@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Apple Teams Up With Google for A.I. in Its Products - The New York Times",
-      "pubDate": "Mon, 12 Jan 2026 20:09:59 GMT"
-    },
-    {
       "title": "Microsoft warns that China is winning AI race outside the west - Financial Times",
       "pubDate": "Tue, 13 Jan 2026 05:00:19 GMT"
     },
@@ -134,10 +130,6 @@
     }
   ],
   "Israel": [
-    {
-      "title": "IDF has demolished over 2,500 buildings in Gaza since start of ceasefire \u2013 report - The Times of Israel",
-      "pubDate": "Mon, 12 Jan 2026 22:03:10 GMT"
-    },
     {
       "title": "Israel far-right ministers reject US-backed postwar Gaza panel - The Guardian",
       "pubDate": "Sun, 18 Jan 2026 15:17:00 GMT"
@@ -399,10 +391,6 @@
   ],
   "China": [
     {
-      "title": "Foreign investment: China overtakes the United States - Table.Briefings",
-      "pubDate": "Mon, 12 Jan 2026 21:58:05 GMT"
-    },
-    {
       "title": "China Announces Record Trade Surplus as Its Exports Flood World Markets - The New York Times",
       "pubDate": "Wed, 14 Jan 2026 05:57:14 GMT"
     },
@@ -449,13 +437,13 @@
     {
       "title": "China Urges Banks to Curb Exposure to US Treasuries - Bloomberg.com",
       "pubDate": "Mon, 09 Feb 2026 06:14:00 GMT"
+    },
+    {
+      "title": "China showcases new Moon ship and reusable rocket in one extraordinary test - Ars Technica",
+      "pubDate": "Wed, 11 Feb 2026 19:35:41 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "UK to investigate Elon Musk\u2019s Grok over \u2018deeply concerning\u2019 deepfakes - Al Jazeera",
-      "pubDate": "Mon, 12 Jan 2026 18:38:46 GMT"
-    },
     {
       "title": "White House holds back on national AI framework specifics - Roll Call",
       "pubDate": "Wed, 14 Jan 2026 21:04:12 GMT"
@@ -523,13 +511,13 @@
     {
       "title": "Anthropic's Head Of AI Safety Quits, Warns Of 'World In Peril' In Cryptic Resignation Letter - NDTV",
       "pubDate": "Tue, 10 Feb 2026 07:05:15 GMT"
+    },
+    {
+      "title": "Anthropic says latest model could be misused for \"heinous crimes\" like chemical weapons - Axios",
+      "pubDate": "Wed, 11 Feb 2026 13:58:31 GMT"
     }
   ],
   "Data Breach": [
-    {
-      "title": "Kaiser Permanente to pay $46 million in privacy data breach settlement. Here's how to file a claim. - CBS News",
-      "pubDate": "Mon, 12 Jan 2026 23:20:00 GMT"
-    },
     {
       "title": "Personal Details of Thousands of Border Patrol and ICE Goons Allegedly Leaked in Huge Data Breach - The Daily Beast",
       "pubDate": "Tue, 13 Jan 2026 18:25:00 GMT"
@@ -601,6 +589,10 @@
     {
       "title": "U.S. Economy Shed Nearly 1 Million Job Openings Last Year - The Wall Street Journal",
       "pubDate": "Thu, 05 Feb 2026 15:41:00 GMT"
+    },
+    {
+      "title": "January job growth tops expectations, but economists question sustainability - The Christian Science Monitor",
+      "pubDate": "Wed, 11 Feb 2026 21:54:32 GMT"
     }
   ],
   "Earthquakes": [
@@ -666,10 +658,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Global ocean heat hit its highest level on record in 2025 - Earth.com",
-      "pubDate": "Mon, 12 Jan 2026 19:26:48 GMT"
-    },
     {
       "title": "Climate change presses on: Devastating wildfires and intense thunderstorms exacerbate losses for insurers - munichre.com",
       "pubDate": "Tue, 13 Jan 2026 07:05:05 GMT"
@@ -765,6 +753,10 @@
     {
       "title": "Climate Change Is Erased From a Manual for Federal Judges - The New York Times",
       "pubDate": "Tue, 10 Feb 2026 20:02:06 GMT"
+    },
+    {
+      "title": "Scientists thought they understood global warming. Then the past three years happened. - The Washington Post",
+      "pubDate": "Wed, 11 Feb 2026 18:00:05 GMT"
     }
   ],
   "National Security": [
@@ -1007,6 +999,10 @@
     {
       "title": "Democrats reject latest White House offer on ICE reforms with Homeland Security funding hanging in the balance - CBS News",
       "pubDate": "Tue, 10 Feb 2026 11:54:35 GMT"
+    },
+    {
+      "title": "Democrats will block new stopgap to fund Homeland Security Department - The Hill",
+      "pubDate": "Wed, 11 Feb 2026 15:04:00 GMT"
     }
   ],
   "Microsoft": [
@@ -1257,10 +1253,6 @@
   ],
   "US Politics": [
     {
-      "title": "Powell pushes back as Trump\u2019s DOJ launches unprecedented investigation into Fed - PBS",
-      "pubDate": "Mon, 12 Jan 2026 23:55:25 GMT"
-    },
-    {
       "title": "A major development in Trump's Fed feud is set to happen next week in the Supreme Court - CNBC",
       "pubDate": "Tue, 13 Jan 2026 20:05:49 GMT"
     },
@@ -1477,6 +1469,10 @@
     {
       "title": "Anthropic hires philosopher to teach Claude AI manners and morals - India Today",
       "pubDate": "Wed, 11 Feb 2026 10:25:11 GMT"
+    },
+    {
+      "title": "OpenAI disbands mission alignment team, which focused on 'safe' and 'trustworthy' AI development - TechCrunch",
+      "pubDate": "Wed, 11 Feb 2026 21:57:18 GMT"
     }
   ],
   "Electric Vehicle": [
@@ -1887,6 +1883,10 @@
     {
       "title": "Trump is in the unredacted Epstein files \"more than a million times,\" Raskin alleges - Axios",
       "pubDate": "Wed, 11 Feb 2026 09:32:40 GMT"
+    },
+    {
+      "title": "Epstein files scrubbed to protect 'elite, powerful men,' Rep. Ro Khanna says - PBS",
+      "pubDate": "Wed, 11 Feb 2026 23:28:05 GMT"
     }
   ],
   "Energy Storage": [
