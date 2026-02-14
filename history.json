@@ -137,10 +137,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Zelensky declares state of emergency in Ukraine's energy sector - BBC",
-      "pubDate": "Thu, 15 Jan 2026 03:35:12 GMT"
-    },
-    {
       "title": "Ukrainian battlefield success denies Russia a key city as a bargaining chip - The Washington Post",
       "pubDate": "Mon, 19 Jan 2026 17:31:57 GMT"
     },
@@ -289,14 +285,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Live updates: More than 2,400 protesters killed in Iran as Trump warns against executions - CNN",
-      "pubDate": "Thu, 15 Jan 2026 05:20:00 GMT"
-    },
-    {
-      "title": "Trump would want military action in Iran to be swift and decisive, sources say - NBC News",
-      "pubDate": "Thu, 15 Jan 2026 00:49:00 GMT"
-    },
-    {
       "title": "Trump Live Updates: U.S. Seizes 6th Oil Tanker Tied to Venezuela - The New York Times",
       "pubDate": "Thu, 15 Jan 2026 17:50:19 GMT"
     },
@@ -383,6 +371,10 @@
     {
       "title": "Trump Live Updates: House Backs Resolution to End Canada Tariffs - The New York Times",
       "pubDate": "Thu, 12 Feb 2026 17:15:03 GMT"
+    },
+    {
+      "title": "Trump says he will issue executive order to get voter-ID requirements before midterms - CNBC",
+      "pubDate": "Fri, 13 Feb 2026 21:51:48 GMT"
     }
   ],
   "China": [
@@ -507,6 +499,10 @@
     {
       "title": "Claude AI safety test sparks outrage after simulated threats to prevent being switched off - The Economic Times",
       "pubDate": "Fri, 13 Feb 2026 12:25:13 GMT"
+    },
+    {
+      "title": "Connecticut AI Legislation to Prioritize Child, Consumer Safety - GovTech",
+      "pubDate": "Fri, 13 Feb 2026 18:58:37 GMT"
     }
   ],
   "Data Breach": [
@@ -585,6 +581,10 @@
     {
       "title": "Healthcare Work Propels U.S. to Strongest Job Growth in More Than a Year - The Wall Street Journal",
       "pubDate": "Wed, 11 Feb 2026 22:22:00 GMT"
+    },
+    {
+      "title": "White House Sees Win After 2 Strong Economic Reports - The New York Times",
+      "pubDate": "Fri, 13 Feb 2026 21:06:21 GMT"
     }
   ],
   "Earthquakes": [
@@ -612,10 +612,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "White House announces \"phase two\" of Gaza ceasefire deal - Axios",
-      "pubDate": "Thu, 15 Jan 2026 03:55:00 GMT"
-    },
     {
       "title": "Trump plans to charge $1 billion for permanent seat on \u2018Board of Peace\u2019 - The Washington Post",
       "pubDate": "Mon, 19 Jan 2026 05:16:42 GMT"
@@ -815,6 +811,10 @@
     {
       "title": "As Diplomats Talk, Pentagon Prepares for Possible War With Iran - The New York Times",
       "pubDate": "Fri, 13 Feb 2026 17:15:58 GMT"
+    },
+    {
+      "title": "Exclusive: US military preparing for potentially weeks-long Iran operations - Reuters",
+      "pubDate": "Fri, 13 Feb 2026 23:05:27 GMT"
     }
   ],
   "Climate": [
@@ -999,10 +999,6 @@
   ],
   "Global Health": [
     {
-      "title": "How 1,000 days of war pushed Sudan\u2019s health system to the brink of collapse - arabnews.jp",
-      "pubDate": "Thu, 15 Jan 2026 01:01:13 GMT"
-    },
-    {
       "title": "Baby wraps treated with insecticide could help slash malaria cases, say researchers - The Telegraph",
       "pubDate": "Fri, 16 Jan 2026 14:04:00 GMT"
     },
@@ -1155,12 +1151,6 @@
     {
       "title": "Exclusive | Pentagon Prepares Second Aircraft Carrier to Deploy to the Middle East - WSJ - The Wall Street Journal",
       "pubDate": "Thu, 12 Feb 2026 01:32:00 GMT"
-    }
-  ],
-  "US Treasury": [
-    {
-      "title": "'Rats fleeing the ship': US treasury secretary says Iran's leaders moving funds out of the country - The Times of Israel",
-      "pubDate": "Thu, 15 Jan 2026 04:48:50 GMT"
     }
   ],
   "Democracy": [
@@ -1473,12 +1463,6 @@
     {
       "title": "NASA finds Earth\u2019s magnetic field may be the hidden reason oxygen has lasted for millions of years - Times of India",
       "pubDate": "Tue, 10 Feb 2026 02:30:00 GMT"
-    }
-  ],
-  "Quantum": [
-    {
-      "title": "Chinese military says it is developing over 10 quantum warfare weapons - South China Morning Post",
-      "pubDate": "Thu, 15 Jan 2026 04:00:09 GMT"
     }
   ],
   "Energy Transition": [
@@ -1847,6 +1831,10 @@
     {
       "title": "Ex-Leader of Norway Charged With Corruption Linked to Epstein - The New York Times",
       "pubDate": "Fri, 13 Feb 2026 02:49:49 GMT"
+    },
+    {
+      "title": "Four men in unredacted files named by Ro Khanna have no ties to Epstein - The Guardian",
+      "pubDate": "Fri, 13 Feb 2026 21:39:00 GMT"
     }
   ],
   "Energy Storage": [
