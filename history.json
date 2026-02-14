@@ -137,10 +137,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine\u2019s new defense chief reveals 200,000 soldiers have gone AWOL and 2 million are dodging draft - CNN",
-      "pubDate": "Wed, 14 Jan 2026 16:39:52 GMT"
-    },
-    {
       "title": "Zelensky declares state of emergency in Ukraine's energy sector - BBC",
       "pubDate": "Thu, 15 Jan 2026 03:35:12 GMT"
     },
@@ -222,10 +218,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia's 'massive' losses in Ukraine have it heading toward a breaking point, NATO's top official says - Business Insider",
-      "pubDate": "Wed, 14 Jan 2026 15:11:00 GMT"
-    },
     {
       "title": "Russia Knocks Out the Heat in Ukraine - The New York Times",
       "pubDate": "Thu, 15 Jan 2026 10:28:22 GMT"
@@ -395,10 +387,6 @@
   ],
   "China": [
     {
-      "title": "Trump administration clears way for Nvidia H200 chip sales to China with a 25% surcharge - CNBC",
-      "pubDate": "Wed, 14 Jan 2026 21:38:01 GMT"
-    },
-    {
       "title": "Canada Strikes Tariffs Deal With China, as Carney Looks to Diversify From U.S. - The New York Times",
       "pubDate": "Fri, 16 Jan 2026 15:26:56 GMT"
     },
@@ -444,10 +432,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "White House holds back on national AI framework specifics - Roll Call",
-      "pubDate": "Wed, 14 Jan 2026 21:04:12 GMT"
-    },
     {
       "title": "FDA\u2019s AI Policy Shift Highlights Urgent Need for AI Safety Research - filmogaz.com",
       "pubDate": "Fri, 16 Jan 2026 13:20:45 GMT"
@@ -519,6 +503,10 @@
     {
       "title": "Anthropic AI safety researcher quits with 'world in peril' warning - BBC",
       "pubDate": "Thu, 12 Feb 2026 12:21:10 GMT"
+    },
+    {
+      "title": "Claude AI safety test sparks outrage after simulated threats to prevent being switched off - The Economic Times",
+      "pubDate": "Fri, 13 Feb 2026 12:25:13 GMT"
     }
   ],
   "Data Breach": [
@@ -777,14 +765,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran warns of retaliation if Trump strikes, US withdraws some personnel from bases - Reuters",
-      "pubDate": "Wed, 14 Jan 2026 17:28:53 GMT"
-    },
-    {
-      "title": "Live updates: Iran closes its airspace without explanation - AP News",
-      "pubDate": "Wed, 14 Jan 2026 23:34:34 GMT"
-    },
-    {
       "title": "At least 5,000 dead in Iran unrest, official says, as judiciary hints at executions - Reuters",
       "pubDate": "Sun, 18 Jan 2026 14:01:03 GMT"
     },
@@ -831,13 +811,13 @@
     {
       "title": "Iran sentences Nobel laureate Mohammadi to seven more years in prison - Al Jazeera",
       "pubDate": "Sun, 08 Feb 2026 21:22:30 GMT"
+    },
+    {
+      "title": "As Diplomats Talk, Pentagon Prepares for Possible War With Iran - The New York Times",
+      "pubDate": "Fri, 13 Feb 2026 17:15:58 GMT"
     }
   ],
   "Climate": [
-    {
-      "title": "Scientists call another near-record hot year a 'warning shot' from a shifting climate - NPR",
-      "pubDate": "Wed, 14 Jan 2026 18:38:36 GMT"
-    },
     {
       "title": "Climate threats lead to huge jumps in Colorado home insurance rates, and the state is seeking solutions - Colorado Public Radio",
       "pubDate": "Thu, 15 Jan 2026 11:02:16 GMT"
@@ -860,10 +840,6 @@
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "Federal agencies ordered to patch Microsoft Desktop Windows Manager bug - The Record from Recorded Future News",
-      "pubDate": "Wed, 14 Jan 2026 13:32:03 GMT"
-    },
     {
       "title": "China remains most persistent cyber threat to American civilian infrastructure - Social News XYZ",
       "pubDate": "Sat, 24 Jan 2026 05:54:26 GMT"
@@ -1003,6 +979,10 @@
     {
       "title": "Partial government shutdown looms as ICE negotiations stall - The Washington Post",
       "pubDate": "Thu, 12 Feb 2026 16:31:40 GMT"
+    },
+    {
+      "title": "What to know about the Homeland Security shutdown starting this weekend - AP News",
+      "pubDate": "Fri, 13 Feb 2026 21:56:00 GMT"
     }
   ],
   "Microsoft": [
@@ -1012,10 +992,6 @@
     }
   ],
   "Recession": [
-    {
-      "title": "State of the Dream 2026: From Regression to Signs of a Black Recession - Joint Center",
-      "pubDate": "Wed, 14 Jan 2026 18:48:12 GMT"
-    },
     {
       "title": "Capital One CEO Says Capping Card Rates Threatens Recession - Bloomberg.com",
       "pubDate": "Thu, 22 Jan 2026 23:22:25 GMT"
@@ -1044,10 +1020,6 @@
     }
   ],
   "Terrorism": [
-    {
-      "title": "Itamar Ben-Gvir switches terrorism death penalty method to hanging - The Jerusalem Post",
-      "pubDate": "Wed, 14 Jan 2026 18:38:00 GMT"
-    },
     {
       "title": "Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls \u2018terrorism\u2019 - CNN",
       "pubDate": "Wed, 28 Jan 2026 10:34:23 GMT"
@@ -1501,12 +1473,6 @@
     {
       "title": "NASA finds Earth\u2019s magnetic field may be the hidden reason oxygen has lasted for millions of years - Times of India",
       "pubDate": "Tue, 10 Feb 2026 02:30:00 GMT"
-    }
-  ],
-  "European Union": [
-    {
-      "title": "European Defense Companies in Line to Benefit From Bulk of EU\u2019s $105 Billion Ukraine Loan - The Wall Street Journal",
-      "pubDate": "Wed, 14 Jan 2026 13:18:00 GMT"
     }
   ],
   "Quantum": [
@@ -2025,6 +1991,10 @@
     {
       "title": "Big Tech Is Now Big on Debt and That Changes Everything - Bloomberg.com",
       "pubDate": "Wed, 11 Feb 2026 17:37:12 GMT"
+    },
+    {
+      "title": "Nvidia shares go cold even as Big Tech spending on AI balloons - Yahoo Finance",
+      "pubDate": "Fri, 13 Feb 2026 19:44:45 GMT"
     }
   ],
   "Benjamin Netanyahu": [
