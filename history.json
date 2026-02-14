@@ -215,10 +215,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia Knocks Out the Heat in Ukraine - The New York Times",
-      "pubDate": "Thu, 15 Jan 2026 10:28:22 GMT"
-    },
-    {
       "title": "Ukrainian delegation arrives in US for peace talks as Russia hammers energy sites - ABC News",
       "pubDate": "Sat, 17 Jan 2026 12:17:39 GMT"
     },
@@ -503,6 +499,10 @@
     {
       "title": "Connecticut AI Legislation to Prioritize Child, Consumer Safety - GovTech",
       "pubDate": "Fri, 13 Feb 2026 18:58:37 GMT"
+    },
+    {
+      "title": "Anthropic Donates $20 Million for AI Regulation While OpenAI Abstains - \u0411\u0443\u043a\u0432\u0438",
+      "pubDate": "Sat, 14 Feb 2026 01:26:54 GMT"
     }
   ],
   "Data Breach": [
@@ -609,6 +609,10 @@
     {
       "title": "Nvidia, OpenAI appear stalled on their mega deal. But the AI giants still need each other - CNBC",
       "pubDate": "Tue, 03 Feb 2026 22:22:05 GMT"
+    },
+    {
+      "title": "Microsoft AI CEO Mustafa Suleyman confirms company is 'dumping' OpenAI, says: My personal mission at Micr - Times of India",
+      "pubDate": "Sat, 14 Feb 2026 05:38:00 GMT"
     }
   ],
   "Gaza": [
@@ -642,10 +646,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Damage to the ocean nearly doubles economic cost of climate change, new study finds - ABC News",
-      "pubDate": "Thu, 15 Jan 2026 10:07:30 GMT"
-    },
     {
       "title": "CLIMATE MATTERS: Research links climate change to income drop - KVOA",
       "pubDate": "Fri, 16 Jan 2026 00:56:00 GMT"
@@ -819,10 +819,6 @@
   ],
   "Climate": [
     {
-      "title": "Climate threats lead to huge jumps in Colorado home insurance rates, and the state is seeking solutions - Colorado Public Radio",
-      "pubDate": "Thu, 15 Jan 2026 11:02:16 GMT"
-    },
-    {
       "title": "Post-COP 30 Modeling Shows World Is Far Off Track for Climate Goals - Inside Climate News",
       "pubDate": "Sat, 24 Jan 2026 09:45:00 GMT"
     },
@@ -837,6 +833,10 @@
     {
       "title": "Trump just blew up a load-bearing pillar of climate regulation in the US. What happens now? - vox.com",
       "pubDate": "Thu, 12 Feb 2026 16:55:00 GMT"
+    },
+    {
+      "title": "Italian PM Meloni offers climate\u2011shock debt suspension for African states - Reuters",
+      "pubDate": "Sat, 14 Feb 2026 08:55:19 GMT"
     }
   ],
   "Cybersecurity and Infrastructure Security Agency": [
@@ -1106,10 +1106,6 @@
     }
   ],
   "Public Health": [
-    {
-      "title": "GOP Cuts Will Cripple Medicaid Enrollment, Warns CEO of Largest Public Health Plan - KFF Health News",
-      "pubDate": "Thu, 15 Jan 2026 10:00:00 GMT"
-    },
     {
       "title": "Pediatricians are disregarding the new vaccination schedule - The Washington Post",
       "pubDate": "Mon, 19 Jan 2026 18:00:30 GMT"
@@ -1421,6 +1417,10 @@
     {
       "title": "Paris prosecutors summon Elon Musk after raid on X's French offices - NBC News",
       "pubDate": "Tue, 03 Feb 2026 20:46:47 GMT"
+    },
+    {
+      "title": "Elon Musk declares victory with Medicaid data release - Axios",
+      "pubDate": "Sat, 14 Feb 2026 06:01:21 GMT"
     }
   ],
   "AI Alignment": [
@@ -1627,6 +1627,10 @@
     {
       "title": "Google: China's APT31 used Gemini to plan cyberattacks against US orgs - theregister.com",
       "pubDate": "Thu, 12 Feb 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Pro-Iran Hacking Group Claims Cyberattacks Targeting Israeli National Organizations In Support Of Lebanese Hizbullah - MEMRI | Middle East Media Research Institute",
+      "pubDate": "Sat, 14 Feb 2026 01:12:31 GMT"
     }
   ],
   "Blockchain": [
