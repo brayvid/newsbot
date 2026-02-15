@@ -215,6 +215,10 @@
     {
       "title": "Ukraine says its drones hit nearly 1,100 miles into Russia in one of its deepest strikes, security official says - Business Insider",
       "pubDate": "Thu, 12 Feb 2026 15:36:00 GMT"
+    },
+    {
+      "title": "Ukraine wants 20-year US security guarantee to sign peace deal - The Guardian",
+      "pubDate": "Sat, 14 Feb 2026 20:34:00 GMT"
     }
   ],
   "Russia": [
@@ -288,14 +292,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump Moves to Make Tech Giants Pay for Surging Power Costs - Bloomberg.com",
-      "pubDate": "Fri, 16 Jan 2026 02:33:00 GMT"
-    },
-    {
-      "title": "Trump threatens to invoke Insurrection Act to quell anti-ICE protests in Minnesota - BBC",
-      "pubDate": "Fri, 16 Jan 2026 01:32:41 GMT"
-    },
     {
       "title": "Trump announces 10% tariff on eight European countries until there is a deal to buy Greenland - NBC News",
       "pubDate": "Sat, 17 Jan 2026 20:23:55 GMT"
@@ -511,6 +507,10 @@
     {
       "title": "AI bot criticises engineer for rejecting its code, sparking concerns over AI bullying and safety - Times of India",
       "pubDate": "Sat, 14 Feb 2026 20:56:00 GMT"
+    },
+    {
+      "title": "AI Safety Alarm: Yoshua Bengio and Global Experts Warn Artificial Intelligence Could Slip Beyond Human Control - kmjournal.net",
+      "pubDate": "Sun, 15 Feb 2026 01:25:47 GMT"
     }
   ],
   "Data Breach": [
@@ -567,6 +567,10 @@
     {
       "title": "Exclusive: Palo Alto chose not to tie China to hacking campaign for fear of retaliation from Beijing, sources say - Reuters",
       "pubDate": "Thu, 12 Feb 2026 18:03:25 GMT"
+    },
+    {
+      "title": "Massive Cyberattack Exposes Thousands of Personal Records in Iceland - Iceland Review",
+      "pubDate": "Sun, 15 Feb 2026 00:30:53 GMT"
     }
   ],
   "US Economy": [
@@ -654,10 +658,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "CLIMATE MATTERS: Research links climate change to income drop - KVOA",
-      "pubDate": "Fri, 16 Jan 2026 00:56:00 GMT"
-    },
     {
       "title": "Subsurface map of Antarctica reveals hidden terrain with the secrets to climate change - MSN",
       "pubDate": "Sat, 17 Jan 2026 18:55:50 GMT"
@@ -1207,10 +1207,6 @@
   ],
   "World Economy": [
     {
-      "title": "Exclusive: IMF's growth forecasts to show resilience to global trade shocks, Georgieva says - Reuters",
-      "pubDate": "Fri, 16 Jan 2026 00:26:00 GMT"
-    },
-    {
       "title": "World Economic Outlook Update, January 2026: Global Economy: Steady amid Divergent Forces - International Monetary Fund | IMF",
       "pubDate": "Tue, 20 Jan 2026 01:42:44 GMT"
     }
@@ -1320,10 +1316,6 @@
     }
   ],
   "AI Ethics": [
-    {
-      "title": "Businesses are embracing AI, but ethical blind spots are major operational risks - The Media Online",
-      "pubDate": "Fri, 16 Jan 2026 05:30:23 GMT"
-    },
     {
       "title": "AI Ethics And Regulation: How OpenAI Is Addressing Safety, Children And Global Standards | BT Davos - Business Today",
       "pubDate": "Mon, 19 Jan 2026 15:18:15 GMT"
@@ -1839,6 +1831,10 @@
     {
       "title": "Hollywood talent agent Casey Wasserman to sell company over Epstein files revelations - CNN",
       "pubDate": "Sat, 14 Feb 2026 16:00:46 GMT"
+    },
+    {
+      "title": "Epstein files fallout takes down elite figures in Europe, while U.S. reckoning is muted - NPR",
+      "pubDate": "Sat, 14 Feb 2026 23:04:44 GMT"
     }
   ],
   "Energy Storage": [
@@ -2065,6 +2061,18 @@
     {
       "title": "California launches civil rights probe into botched evacuations in historically Black Altadena - Los Angeles Times",
       "pubDate": "Fri, 13 Feb 2026 00:34:10 GMT"
+    }
+  ],
+  "Fusion Power": [
+    {
+      "title": "China has just broken a barrier that physicists believed to be unbreakable for decades, and its 150 million-degree artificial sun could bring us closer than ever to the energy of the stars - ECOticias.com",
+      "pubDate": "Sat, 14 Feb 2026 20:00:00 GMT"
+    }
+  ],
+  "Interest Rates": [
+    {
+      "title": "US debt spiral could start soon as interest rate on borrowing tops GDP growth - Fortune",
+      "pubDate": "Sat, 14 Feb 2026 18:53:00 GMT"
     }
   ]
 }
