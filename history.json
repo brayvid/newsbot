@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Artificial intelligence: Council paves the way for the creation of AI gigafactories - consilium.europa.eu",
-      "pubDate": "Fri, 16 Jan 2026 12:06:42 GMT"
-    },
-    {
       "title": "\u2018We could hit a wall\u2019: why trillions of dollars of risk is no guarantee of AI reward - The Guardian",
       "pubDate": "Sat, 17 Jan 2026 12:02:00 GMT"
     },
@@ -375,10 +371,6 @@
   ],
   "China": [
     {
-      "title": "Canada Strikes Tariffs Deal With China, as Carney Looks to Diversify From U.S. - The New York Times",
-      "pubDate": "Fri, 16 Jan 2026 15:26:56 GMT"
-    },
-    {
       "title": "China flies drone into Taiwan\u2019s airspace for first time - Financial Times",
       "pubDate": "Sat, 17 Jan 2026 14:58:46 GMT"
     },
@@ -420,10 +412,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "FDA\u2019s AI Policy Shift Highlights Urgent Need for AI Safety Research - filmogaz.com",
-      "pubDate": "Fri, 16 Jan 2026 13:20:45 GMT"
-    },
     {
       "title": "Teen Dies from Overdose After ChatGPT Drug Advice, Sparking AI Regulation Calls - WebProNews",
       "pubDate": "Sun, 18 Jan 2026 12:10:30 GMT"
@@ -511,6 +499,10 @@
     {
       "title": "AI Safety Alarm: Yoshua Bengio and Global Experts Warn Artificial Intelligence Could Slip Beyond Human Control - kmjournal.net",
       "pubDate": "Sun, 15 Feb 2026 01:25:47 GMT"
+    },
+    {
+      "title": "Trump leans on Utah Republicans to scrap AI safety bill - Financial Times",
+      "pubDate": "Sun, 15 Feb 2026 15:14:59 GMT"
     }
   ],
   "Data Breach": [
@@ -655,6 +647,10 @@
     {
       "title": "Updates: Gaza struggles for clean water, Hamas says ceasefire \u2018meaningless\u2019 - Al Jazeera",
       "pubDate": "Sat, 07 Feb 2026 19:36:35 GMT"
+    },
+    {
+      "title": "Updates: Israel kills 11 Palestinians in Gaza in 24 hours - Al Jazeera",
+      "pubDate": "Sun, 15 Feb 2026 15:05:19 GMT"
     }
   ],
   "Climate Change": [
@@ -823,6 +819,10 @@
     {
       "title": "Exclusive: US military preparing for potentially weeks-long Iran operations - Reuters",
       "pubDate": "Fri, 13 Feb 2026 23:05:27 GMT"
+    },
+    {
+      "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran - BBC",
+      "pubDate": "Sun, 15 Feb 2026 15:07:40 GMT"
     }
   ],
   "Climate": [
@@ -1007,10 +1007,6 @@
   ],
   "Global Health": [
     {
-      "title": "Baby wraps treated with insecticide could help slash malaria cases, say researchers - The Telegraph",
-      "pubDate": "Fri, 16 Jan 2026 14:04:00 GMT"
-    },
-    {
       "title": "The near death \u2014 and last-minute reprieve \u2014 of a trial for an HIV vaccine - NPR",
       "pubDate": "Sat, 17 Jan 2026 12:54:13 GMT"
     },
@@ -1123,12 +1119,6 @@
       "pubDate": "Fri, 30 Jan 2026 11:32:26 GMT"
     }
   ],
-  "Military and Defense": [
-    {
-      "title": "NATO allies launch Arctic drills as Trump eyes Greenland - Axios",
-      "pubDate": "Fri, 16 Jan 2026 06:44:06 GMT"
-    }
-  ],
   "NVIDIA": [
     {
       "title": "China blocks Nvidia H200 AI chips that US government cleared for export \u2013 report - The Guardian",
@@ -1155,12 +1145,6 @@
     {
       "title": "Exclusive | Pentagon Prepares Second Aircraft Carrier to Deploy to the Middle East - WSJ - The Wall Street Journal",
       "pubDate": "Thu, 12 Feb 2026 01:32:00 GMT"
-    }
-  ],
-  "Democracy": [
-    {
-      "title": "A Tale of Two Meetings: Trump Chooses Oil Over Democracy - The New York Times",
-      "pubDate": "Fri, 16 Jan 2026 08:02:31 GMT"
     }
   ],
   "New York City": [
@@ -1262,10 +1246,6 @@
     }
   ],
   "Nuclear Fusion": [
-    {
-      "title": "China accelerates nuclear fusion engineering, targeting power generation demonstration by 2030 - Xinhua",
-      "pubDate": "Fri, 16 Jan 2026 15:54:15 GMT"
-    },
     {
       "title": "Chinese scientists make groundbreaking discovery in pursuit of limitless energy: 'A practical and scalable pathway' - The Cool Down",
       "pubDate": "Sun, 25 Jan 2026 17:00:00 GMT"
@@ -1457,10 +1437,6 @@
   ],
   "NASA": [
     {
-      "title": "Artemis 2 rocket rollout latest news: NASA ready to move giant moon rocket - Space",
-      "pubDate": "Fri, 16 Jan 2026 16:36:57 GMT"
-    },
-    {
       "title": "Nasa's mega Moon rocket arrives at launch pad for Artemis II mission - BBC",
       "pubDate": "Sun, 18 Jan 2026 01:22:46 GMT"
     },
@@ -1476,10 +1452,6 @@
     }
   ],
   "Bitcoin": [
-    {
-      "title": "Jefferies\u2019 Wood Drops Bitcoin on Threat From Quantum Computing - Bloomberg.com",
-      "pubDate": "Fri, 16 Jan 2026 09:04:33 GMT"
-    },
     {
       "title": "Bitcoin price news: BTC stuck at $89,000 as gold surges to fresh record - CoinDesk",
       "pubDate": "Wed, 28 Jan 2026 21:39:19 GMT"
@@ -1503,6 +1475,10 @@
     {
       "title": "New research decodes hidden bias in health care LLMs - Northeastern Global News",
       "pubDate": "Tue, 20 Jan 2026 20:50:47 GMT"
+    },
+    {
+      "title": "LLMs violate boundaries during mental health dialogues, study finds - Tech Xplore",
+      "pubDate": "Sun, 15 Feb 2026 15:50:01 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -1835,6 +1811,10 @@
     {
       "title": "Epstein files fallout takes down elite figures in Europe, while U.S. reckoning is muted - NPR",
       "pubDate": "Sat, 14 Feb 2026 23:04:44 GMT"
+    },
+    {
+      "title": "Mace slams DOJ over letter about completing Epstein files release: \u2018They\u2019re missing names\u2019 - The Hill",
+      "pubDate": "Sun, 15 Feb 2026 23:10:00 GMT"
     }
   ],
   "Energy Storage": [
@@ -1923,6 +1903,10 @@
     {
       "title": "Deadly attacks hit Kordofan as scrutiny grows over drone warfare in Sudan - Radio Dabanga",
       "pubDate": "Fri, 06 Feb 2026 19:37:18 GMT"
+    },
+    {
+      "title": "Ukrainian drone strike sparks fire at Russian Black Sea port ahead of talks with U.S. - CBS News",
+      "pubDate": "Sun, 15 Feb 2026 13:16:42 GMT"
     }
   ],
   "Universe": [
@@ -2073,6 +2057,12 @@
     {
       "title": "US debt spiral could start soon as interest rate on borrowing tops GDP growth - Fortune",
       "pubDate": "Sat, 14 Feb 2026 18:53:00 GMT"
+    }
+  ],
+  "European Union": [
+    {
+      "title": "EU foreign policy chief criticises \u2018fashionable euro-bashing\u2019 by US - The Guardian",
+      "pubDate": "Sun, 15 Feb 2026 20:42:00 GMT"
     }
   ]
 }
