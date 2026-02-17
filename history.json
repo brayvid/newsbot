@@ -119,10 +119,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel far-right ministers reject US-backed postwar Gaza panel - The Guardian",
-      "pubDate": "Sun, 18 Jan 2026 15:17:00 GMT"
-    },
-    {
       "title": "Israel to ban MSF from working in Gaza over refusal to provide staff list - BBC",
       "pubDate": "Sun, 01 Feb 2026 13:20:38 GMT"
     }
@@ -207,6 +203,10 @@
     {
       "title": "Ukraine wants 20-year US security guarantee to sign peace deal - The Guardian",
       "pubDate": "Sat, 14 Feb 2026 20:34:00 GMT"
+    },
+    {
+      "title": "Deadly explosion rocks Russian military site near St Petersburg - Al Jazeera",
+      "pubDate": "Tue, 17 Feb 2026 17:36:46 GMT"
     }
   ],
   "Russia": [
@@ -276,10 +276,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "After U.S. Reignites a Trade War Over Greenland, Europe Weighs Going All-Out - The New York Times",
-      "pubDate": "Sun, 18 Jan 2026 11:08:12 GMT"
-    },
     {
       "title": "January 18, 2026 \u2014 Trump administration news, EU ambassadors hold emergency meeting over Greenland - CNN",
       "pubDate": "Mon, 19 Jan 2026 01:34:00 GMT"
@@ -355,6 +351,10 @@
     {
       "title": "Trump says he will be 'indirectly' involved in Iran nuclear talks - BBC",
       "pubDate": "Tue, 17 Feb 2026 05:14:21 GMT"
+    },
+    {
+      "title": "Whirlwind day of diplomacy as US holds talks on Iran and Ukraine in Geneva - CNN",
+      "pubDate": "Tue, 17 Feb 2026 16:53:00 GMT"
     }
   ],
   "China": [
@@ -396,10 +396,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Teen Dies from Overdose After ChatGPT Drug Advice, Sparking AI Regulation Calls - WebProNews",
-      "pubDate": "Sun, 18 Jan 2026 12:10:30 GMT"
-    },
     {
       "title": "Korea sets AI safety rules, first in world - koreaherald.com",
       "pubDate": "Wed, 21 Jan 2026 03:00:00 GMT"
@@ -495,6 +491,10 @@
     {
       "title": "AI safety shake-up: Top researchers quit OpenAI and Anthropic, warning of risks - Scripps News",
       "pubDate": "Tue, 17 Feb 2026 03:36:06 GMT"
+    },
+    {
+      "title": "AI 'Arms Race' Risks Human Extinction, Warns Top Computing Expert - Barron's",
+      "pubDate": "Tue, 17 Feb 2026 13:11:00 GMT"
     }
   ],
   "Data Breach": [
@@ -651,10 +651,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Why Climate Change Blind Spots Are Becoming Balance Sheet Liabilities - Forbes",
-      "pubDate": "Sun, 18 Jan 2026 17:34:33 GMT"
-    },
-    {
       "title": "How Wall Street Turned Its Back on Climate Change - The New York Times",
       "pubDate": "Sun, 18 Jan 2026 21:16:00 GMT"
     },
@@ -764,10 +760,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "At least 5,000 dead in Iran unrest, official says, as judiciary hints at executions - Reuters",
-      "pubDate": "Sun, 18 Jan 2026 14:01:03 GMT"
-    },
     {
       "title": "Iran warns against any US strike as judiciary hints at unrest-linked executions - Reuters",
       "pubDate": "Sun, 18 Jan 2026 20:40:08 GMT"
@@ -907,10 +899,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "Will the Supreme Court let Trump take control of the Fed? - USA Today",
-      "pubDate": "Sun, 18 Jan 2026 08:01:00 GMT"
-    },
-    {
       "title": "Supreme Court considers whether Trump can fire Federal Reserve officials - fox5dc.com",
       "pubDate": "Thu, 22 Jan 2026 22:23:00 GMT"
     },
@@ -995,12 +983,10 @@
     {
       "title": "US Homeland Security Department\u2019s funding negotiations stall - Al Jazeera",
       "pubDate": "Mon, 16 Feb 2026 22:32:53 GMT"
-    }
-  ],
-  "Microsoft": [
+    },
     {
-      "title": "Microsoft issues emergency OS update for Windows 11 to address major bugs - Windows Central",
-      "pubDate": "Sun, 18 Jan 2026 13:12:05 GMT"
+      "title": "DHS shutdown has no clear off-ramp: 5 takeaways - The Hill",
+      "pubDate": "Tue, 17 Feb 2026 11:00:00 GMT"
     }
   ],
   "Recession": [
@@ -1047,10 +1033,6 @@
   ],
   "Renewable Energy": [
     {
-      "title": "Eight million panels, 100 GW \u2014 China starts assembling its \u2018Great Wall of Energy\u2019 in the desert - Energies Media",
-      "pubDate": "Sun, 18 Jan 2026 11:09:27 GMT"
-    },
-    {
       "title": "Energy Dept. Says It Is Canceling $30 Billion in Clean Energy Loans - The New York Times",
       "pubDate": "Thu, 22 Jan 2026 22:41:50 GMT"
     }
@@ -1088,10 +1070,6 @@
     }
   ],
   "Corruption": [
-    {
-      "title": "Thousands rally in Serbia as students continue fight against corruption - Al Jazeera",
-      "pubDate": "Sun, 18 Jan 2026 06:37:32 GMT"
-    },
     {
       "title": "China launches corruption probe into top military commanders - Defence Blog",
       "pubDate": "Sun, 25 Jan 2026 21:17:14 GMT"
@@ -1433,10 +1411,6 @@
   ],
   "Large Language Models": [
     {
-      "title": "New Research Shows LLMs Face A Big Copyright Risk - Forbes",
-      "pubDate": "Sun, 18 Jan 2026 06:40:45 GMT"
-    },
-    {
       "title": "New research decodes hidden bias in health care LLMs - Northeastern Global News",
       "pubDate": "Tue, 20 Jan 2026 20:50:47 GMT"
     },
@@ -1446,10 +1420,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "The superintelligence unveiled by Mark Zuckerberg has deeply unsettled experts - Futura, Le m\u00e9dia qui explore le monde",
-      "pubDate": "Sun, 18 Jan 2026 12:30:00 GMT"
-    },
     {
       "title": "Trump Just Reversed an AI Chip Ban for China\u2014and a Key Tech Leader Says It's Like 'Selling Nuclear Weapons' - inc.com",
       "pubDate": "Wed, 21 Jan 2026 16:30:17 GMT"
@@ -1481,6 +1451,10 @@
     {
       "title": "The existential AI threat is here \u2014 and some AI leaders are fleeing - Axios",
       "pubDate": "Thu, 12 Feb 2026 10:28:27 GMT"
+    },
+    {
+      "title": "We are two years away from artificial general intelligence: Vinod Khosla - Forbes India",
+      "pubDate": "Tue, 17 Feb 2026 12:57:52 GMT"
     }
   ],
   "Electric Power Transmission": [
@@ -1787,6 +1761,10 @@
     {
       "title": "Khanna says 'stop protecting predators' as DOJ gives reasoning for redacting Epstein files - PBS",
       "pubDate": "Mon, 16 Feb 2026 23:40:51 GMT"
+    },
+    {
+      "title": "The Epstein files have brought a wave of resignations and investigations - The Washington Post",
+      "pubDate": "Tue, 17 Feb 2026 17:31:46 GMT"
     }
   ],
   "Energy Storage": [
@@ -2021,6 +1999,10 @@
     {
       "title": "California launches civil rights probe into botched evacuations in historically Black Altadena - Los Angeles Times",
       "pubDate": "Fri, 13 Feb 2026 00:34:10 GMT"
+    },
+    {
+      "title": "Jesse Jackson, a leading voice for civil rights, dies at 84 - The Washington Post",
+      "pubDate": "Tue, 17 Feb 2026 17:45:37 GMT"
     }
   ],
   "Fusion Power": [
