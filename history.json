@@ -351,6 +351,10 @@
     {
       "title": "Trump says he will issue executive order to get voter-ID requirements before midterms - CNBC",
       "pubDate": "Fri, 13 Feb 2026 21:51:48 GMT"
+    },
+    {
+      "title": "Trump says he will be 'indirectly' involved in Iran nuclear talks - BBC",
+      "pubDate": "Tue, 17 Feb 2026 05:14:21 GMT"
     }
   ],
   "China": [
@@ -487,6 +491,10 @@
     {
       "title": "'The world is in peril' \u2014 the signs of a dark AI reckoning are starting to pile up - TechRadar",
       "pubDate": "Mon, 16 Feb 2026 17:00:00 GMT"
+    },
+    {
+      "title": "AI safety shake-up: Top researchers quit OpenAI and Anthropic, warning of risks - Scripps News",
+      "pubDate": "Tue, 17 Feb 2026 03:36:06 GMT"
     }
   ],
   "Data Breach": [
@@ -725,6 +733,10 @@
     {
       "title": "EU ill-prepared for worsening climate change, advisers say - Reuters",
       "pubDate": "Mon, 16 Feb 2026 23:04:32 GMT"
+    },
+    {
+      "title": "\u2018Daunting but doable\u2019: Europe urged to prepare for 3C of global heating - The Guardian",
+      "pubDate": "Mon, 16 Feb 2026 23:03:00 GMT"
     }
   ],
   "National Security": [
@@ -873,10 +885,6 @@
   ],
   "Drones": [
     {
-      "title": "Ukraine war briefing: Czechs offer drone-hunting jets as Zelenskyy flags air defence shortages - The Guardian",
-      "pubDate": "Sun, 18 Jan 2026 04:18:00 GMT"
-    },
-    {
       "title": "Ukraine is paying $20,000 to drone firms who can destroy a Russian Shahed, defense minister says - Business Insider",
       "pubDate": "Wed, 21 Jan 2026 06:03:00 GMT"
     },
@@ -983,6 +991,10 @@
     {
       "title": "Live updates: DHS shuts down without funding deal; House and Senate out all week - The Hill",
       "pubDate": "Mon, 16 Feb 2026 13:39:00 GMT"
+    },
+    {
+      "title": "US Homeland Security Department\u2019s funding negotiations stall - Al Jazeera",
+      "pubDate": "Mon, 16 Feb 2026 22:32:53 GMT"
     }
   ],
   "Microsoft": [
@@ -1045,10 +1057,6 @@
   ],
   "Nuclear Power": [
     {
-      "title": "Ukraine war briefing: Russia readying strikes on nuclear power system, Zelenskyy warns - The Guardian",
-      "pubDate": "Sun, 18 Jan 2026 02:14:00 GMT"
-    },
-    {
       "title": "Russia To Wipe Out Ukraine Nuclear Power Plants? Zelensky's Big Alarm, SOS To European Allies - Times of India",
       "pubDate": "Sun, 18 Jan 2026 18:09:59 GMT"
     },
@@ -1105,10 +1113,6 @@
   ],
   "NVIDIA": [
     {
-      "title": "China blocks Nvidia H200 AI chips that US government cleared for export \u2013 report - The Guardian",
-      "pubDate": "Sun, 18 Jan 2026 04:18:00 GMT"
-    },
-    {
       "title": "Nvidia\u2019s Huang Plans to Visit China as He Works to Reopen Market - Bloomberg.com",
       "pubDate": "Wed, 21 Jan 2026 02:10:00 GMT"
     },
@@ -1138,10 +1142,6 @@
     }
   ],
   "Democratic Party": [
-    {
-      "title": "These Are the 12 States Vying to Kick Off Democrats\u2019 2028 Contest - The New York Times",
-      "pubDate": "Sun, 18 Jan 2026 03:43:35 GMT"
-    },
     {
       "title": "A Pro-Israel Group\u2019s Move Backfires as Gaza Tensions Flare in Midterms - The New York Times",
       "pubDate": "Fri, 06 Feb 2026 17:24:21 GMT"
@@ -1415,10 +1415,6 @@
   ],
   "NASA": [
     {
-      "title": "Nasa's mega Moon rocket arrives at launch pad for Artemis II mission - BBC",
-      "pubDate": "Sun, 18 Jan 2026 01:22:46 GMT"
-    },
-    {
       "title": "NASA finds Earth\u2019s magnetic field may be the hidden reason oxygen has lasted for millions of years - Times of India",
       "pubDate": "Tue, 10 Feb 2026 02:30:00 GMT"
     }
@@ -1433,12 +1429,6 @@
     {
       "title": "Bitcoin price news: BTC stuck at $89,000 as gold surges to fresh record - CoinDesk",
       "pubDate": "Wed, 28 Jan 2026 21:39:19 GMT"
-    }
-  ],
-  "Oceans": [
-    {
-      "title": "World's first legally binding treaty to protect oceans takes effect - Australian Broadcasting Corporation",
-      "pubDate": "Sun, 18 Jan 2026 04:13:54 GMT"
     }
   ],
   "Large Language Models": [
@@ -1569,6 +1559,10 @@
     {
       "title": "Pro-Iran Hacking Group Claims Cyberattacks Targeting Israeli National Organizations In Support Of Lebanese Hizbullah - MEMRI | Middle East Media Research Institute",
       "pubDate": "Sat, 14 Feb 2026 01:12:31 GMT"
+    },
+    {
+      "title": "SHOT: Russian cyberattack targets Ukraine\u2019s Starlink authorisation service - PHOTO - Caliber.Az",
+      "pubDate": "Tue, 17 Feb 2026 05:46:08 GMT"
     }
   ],
   "Blockchain": [
@@ -1789,6 +1783,10 @@
     {
       "title": "Mace slams DOJ over letter about completing Epstein files release: \u2018They\u2019re missing names\u2019 - The Hill",
       "pubDate": "Sun, 15 Feb 2026 23:10:00 GMT"
+    },
+    {
+      "title": "Khanna says 'stop protecting predators' as DOJ gives reasoning for redacting Epstein files - PBS",
+      "pubDate": "Mon, 16 Feb 2026 23:40:51 GMT"
     }
   ],
   "Energy Storage": [
@@ -1843,6 +1841,10 @@
     {
       "title": "Anthropic Puts $20 Million Into a Super PAC Operation to Counter OpenAI - The New York Times",
       "pubDate": "Thu, 12 Feb 2026 12:00:06 GMT"
+    },
+    {
+      "title": "Exclusive: Pentagon warns Anthropic will \"pay a price\" as feud escalates - Axios",
+      "pubDate": "Mon, 16 Feb 2026 18:40:18 GMT"
     }
   ],
   "Semiconductors": [
