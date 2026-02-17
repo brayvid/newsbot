@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "\u2018We could hit a wall\u2019: why trillions of dollars of risk is no guarantee of AI reward - The Guardian",
-      "pubDate": "Sat, 17 Jan 2026 12:02:00 GMT"
-    },
-    {
-      "title": "AI raises average wages by 21% and substantially reduces' wage inequality, researchers find - Fox Business",
-      "pubDate": "Sat, 17 Jan 2026 18:02:00 GMT"
-    },
-    {
       "title": "EPA pokes Musk over using unpermitted turbines for AI - Politico",
       "pubDate": "Thu, 22 Jan 2026 17:00:00 GMT"
     },
@@ -219,10 +211,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukrainian delegation arrives in US for peace talks as Russia hammers energy sites - ABC News",
-      "pubDate": "Sat, 17 Jan 2026 12:17:39 GMT"
-    },
-    {
       "title": "Russia hits energy system in several regions of Ukraine, Kyiv says - Reuters",
       "pubDate": "Mon, 19 Jan 2026 15:50:11 GMT"
     },
@@ -288,10 +276,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump announces 10% tariff on eight European countries until there is a deal to buy Greenland - NBC News",
-      "pubDate": "Sat, 17 Jan 2026 20:23:55 GMT"
-    },
     {
       "title": "After U.S. Reignites a Trade War Over Greenland, Europe Weighs Going All-Out - The New York Times",
       "pubDate": "Sun, 18 Jan 2026 11:08:12 GMT"
@@ -370,10 +354,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China flies drone into Taiwan\u2019s airspace for first time - Financial Times",
-      "pubDate": "Sat, 17 Jan 2026 14:58:46 GMT"
-    },
     {
       "title": "China Tells Alibaba, Tech Firms to Ready Nvidia H200 Orders - Bloomberg",
       "pubDate": "Fri, 23 Jan 2026 14:40:52 GMT"
@@ -503,6 +483,10 @@
     {
       "title": "Trump leans on Utah Republicans to scrap AI safety bill - Financial Times",
       "pubDate": "Sun, 15 Feb 2026 15:14:59 GMT"
+    },
+    {
+      "title": "'The world is in peril' \u2014 the signs of a dark AI reckoning are starting to pile up - TechRadar",
+      "pubDate": "Mon, 16 Feb 2026 17:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -563,6 +547,10 @@
     {
       "title": "Massive Cyberattack Exposes Thousands of Personal Records in Iceland - Iceland Review",
       "pubDate": "Sun, 15 Feb 2026 00:30:53 GMT"
+    },
+    {
+      "title": "Safe and Inclusive E\u2011Society: How Lithuania Is Bracing for AI\u2011Driven Cyber Fraud - The Hacker News",
+      "pubDate": "Mon, 16 Feb 2026 11:55:00 GMT"
     }
   ],
   "US Economy": [
@@ -655,10 +643,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Subsurface map of Antarctica reveals hidden terrain with the secrets to climate change - MSN",
-      "pubDate": "Sat, 17 Jan 2026 18:55:50 GMT"
-    },
-    {
       "title": "Why Climate Change Blind Spots Are Becoming Balance Sheet Liabilities - Forbes",
       "pubDate": "Sun, 18 Jan 2026 17:34:33 GMT"
     },
@@ -737,6 +721,10 @@
     {
       "title": "Burgum calls energy transition a \u2018fantasy\u2019 as EPA guts climate regulations - E&E News by POLITICO",
       "pubDate": "Thu, 12 Feb 2026 21:00:00 GMT"
+    },
+    {
+      "title": "EU ill-prepared for worsening climate change, advisers say - Reuters",
+      "pubDate": "Mon, 16 Feb 2026 23:04:32 GMT"
     }
   ],
   "National Security": [
@@ -823,6 +811,10 @@
     {
       "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran - BBC",
       "pubDate": "Sun, 15 Feb 2026 15:07:40 GMT"
+    },
+    {
+      "title": "US build-up of warships and fighter jets tracked near Iran - BBC",
+      "pubDate": "Mon, 16 Feb 2026 18:17:18 GMT"
     }
   ],
   "Climate": [
@@ -937,10 +929,6 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "DHS seeking to deport two men who said fellow ICE detainee was killed - The Washington Post",
-      "pubDate": "Sat, 17 Jan 2026 23:46:36 GMT"
-    },
-    {
       "title": "Partial government shutdown more likely over DHS funding fight after Alex Pretti killing - CNBC",
       "pubDate": "Sun, 25 Jan 2026 14:31:41 GMT"
     },
@@ -991,6 +979,10 @@
     {
       "title": "What to know about the Homeland Security shutdown starting this weekend - AP News",
       "pubDate": "Fri, 13 Feb 2026 21:56:00 GMT"
+    },
+    {
+      "title": "Live updates: DHS shuts down without funding deal; House and Senate out all week - The Hill",
+      "pubDate": "Mon, 16 Feb 2026 13:39:00 GMT"
     }
   ],
   "Microsoft": [
@@ -1006,10 +998,6 @@
     }
   ],
   "Global Health": [
-    {
-      "title": "The near death \u2014 and last-minute reprieve \u2014 of a trial for an HIV vaccine - NPR",
-      "pubDate": "Sat, 17 Jan 2026 12:54:13 GMT"
-    },
     {
       "title": "Cholera is surging in Africa. A new generation of vaccines could slow it - The Telegraph",
       "pubDate": "Wed, 21 Jan 2026 16:03:00 GMT"
@@ -1056,10 +1044,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "China and Russia dominate nuclear power push with 90% of new reactors - Nikkei Asia",
-      "pubDate": "Sat, 17 Jan 2026 20:01:00 GMT"
-    },
     {
       "title": "Ukraine war briefing: Russia readying strikes on nuclear power system, Zelenskyy warns - The Guardian",
       "pubDate": "Sun, 18 Jan 2026 02:14:00 GMT"
@@ -1339,6 +1323,10 @@
     {
       "title": "AI agent creates dating profile for user without consent, sparks ethics debate - storyboard18.com",
       "pubDate": "Fri, 13 Feb 2026 05:55:52 GMT"
+    },
+    {
+      "title": "The economics of AI outweigh ethics for tech CEOs, business leader says - CNN",
+      "pubDate": "Mon, 16 Feb 2026 18:21:40 GMT"
     }
   ],
   "Space Exploration": [
@@ -1391,10 +1379,6 @@
   ],
   "Elon Musk": [
     {
-      "title": "Musk Seeks Up to $134 Billion Damages From OpenAI, Microsoft - Bloomberg",
-      "pubDate": "Sat, 17 Jan 2026 16:36:44 GMT"
-    },
-    {
       "title": "Paris prosecutors summon Elon Musk after raid on X's French offices - NBC News",
       "pubDate": "Tue, 03 Feb 2026 20:46:47 GMT"
     },
@@ -1429,12 +1413,6 @@
       "pubDate": "Thu, 12 Feb 2026 17:45:13 GMT"
     }
   ],
-  "Cancer": [
-    {
-      "title": "What science says about how weight-loss drugs affect cancer risk - The Washington Post",
-      "pubDate": "Sat, 17 Jan 2026 18:00:00 GMT"
-    }
-  ],
   "NASA": [
     {
       "title": "Nasa's mega Moon rocket arrives at launch pad for Artemis II mission - BBC",
@@ -1464,10 +1442,6 @@
     }
   ],
   "Large Language Models": [
-    {
-      "title": "MIT Recursive Language Models Shatter the LLM Context Window Limit - StartupHub.ai",
-      "pubDate": "Sat, 17 Jan 2026 19:54:04 GMT"
-    },
     {
       "title": "New Research Shows LLMs Face A Big Copyright Risk - Forbes",
       "pubDate": "Sun, 18 Jan 2026 06:40:45 GMT"
@@ -2063,6 +2037,12 @@
     {
       "title": "EU foreign policy chief criticises \u2018fashionable euro-bashing\u2019 by US - The Guardian",
       "pubDate": "Sun, 15 Feb 2026 20:42:00 GMT"
+    }
+  ],
+  "Google": [
+    {
+      "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews - The Guardian",
+      "pubDate": "Mon, 16 Feb 2026 21:24:00 GMT"
     }
   ]
 }
