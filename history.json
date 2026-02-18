@@ -277,13 +277,13 @@
     {
       "title": "Ukraine-Russia war: Zelensky says Trump only asks Kyiv for concessions not Moscow - The Independent",
       "pubDate": "Sat, 14 Feb 2026 23:18:37 GMT"
+    },
+    {
+      "title": "Russia Preparing Mass Naval Drone Strikes in Black Sea, Ukrainian Intel Warns - UNITED24 Media",
+      "pubDate": "Wed, 18 Feb 2026 09:40:20 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "January 18, 2026 \u2014 Trump administration news, EU ambassadors hold emergency meeting over Greenland - CNN",
-      "pubDate": "Mon, 19 Jan 2026 01:34:00 GMT"
-    },
     {
       "title": "Trump Is Pushing the U.S.-Europe Alliance to the Brink Over Greenland - The New York Times",
       "pubDate": "Mon, 19 Jan 2026 18:38:32 GMT"
@@ -521,10 +521,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures - The Hacker News",
-      "pubDate": "Mon, 19 Jan 2026 09:09:00 GMT"
-    },
-    {
       "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites - The Hacker News",
       "pubDate": "Mon, 19 Jan 2026 17:21:00 GMT"
     },
@@ -624,10 +620,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Trump plans to charge $1 billion for permanent seat on \u2018Board of Peace\u2019 - The Washington Post",
-      "pubDate": "Mon, 19 Jan 2026 05:16:42 GMT"
-    },
     {
       "title": "Live: Israel launches strikes as Netanyahu joins Gaza \u2018board of peace\u2019 - Al Jazeera",
       "pubDate": "Wed, 21 Jan 2026 11:37:30 GMT"
@@ -740,10 +732,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Pentagon readies 1,500 soldiers to possibly deploy to Minnesota, officials say - The Washington Post",
-      "pubDate": "Mon, 19 Jan 2026 01:28:55 GMT"
-    },
     {
       "title": "Nature loss is a national security risk, intelligence group warns - BBC",
       "pubDate": "Wed, 21 Jan 2026 15:08:27 GMT"
@@ -1048,10 +1036,6 @@
     }
   ],
   "BRICS": [
-    {
-      "title": "Exclusive: India's central bank proposes linking BRICS' digital currencies, sources say - Reuters",
-      "pubDate": "Mon, 19 Jan 2026 10:56:45 GMT"
-    },
     {
       "title": "Why is South Africa upset about Iran joining BRICS naval drills? - Al Jazeera",
       "pubDate": "Fri, 23 Jan 2026 05:55:29 GMT"
@@ -1465,12 +1449,6 @@
       "pubDate": "Tue, 17 Feb 2026 12:57:52 GMT"
     }
   ],
-  "Electric Power Transmission": [
-    {
-      "title": "Global power grids emerge as strategic choke points in AI and industrial competition race - digitimes",
-      "pubDate": "Mon, 19 Jan 2026 04:34:41 GMT"
-    }
-  ],
   "Violence": [
     {
       "title": "Guatemala Declares State of Emergency to Address Gang Violence - The New York Times",
@@ -1545,6 +1523,10 @@
     {
       "title": "SHOT: Russian cyberattack targets Ukraine\u2019s Starlink authorisation service - PHOTO - Caliber.Az",
       "pubDate": "Tue, 17 Feb 2026 05:46:08 GMT"
+    },
+    {
+      "title": "Cyber Attack on Dutch Telecom Giant Odido Exposes Customer Data of 6.2 Million - CPO Magazine",
+      "pubDate": "Wed, 18 Feb 2026 11:00:00 GMT"
     }
   ],
   "Blockchain": [
@@ -1799,6 +1781,10 @@
     {
       "title": "Trump Announces Initial Trade Deal With India, Cutting Tariffs to 18% - The New York Times",
       "pubDate": "Tue, 03 Feb 2026 00:37:12 GMT"
+    },
+    {
+      "title": "India tells university to leave AI summit after presenting Chinese robot as its own, sources say - Reuters",
+      "pubDate": "Wed, 18 Feb 2026 07:53:41 GMT"
     }
   ],
   "Artemis Program": [
@@ -1933,6 +1919,10 @@
     {
       "title": "Nvidia shares go cold even as Big Tech spending on AI balloons - Yahoo Finance",
       "pubDate": "Fri, 13 Feb 2026 19:44:45 GMT"
+    },
+    {
+      "title": "How a Social Media Addiction Trial Threatens Big Tech - Bloomberg",
+      "pubDate": "Wed, 18 Feb 2026 10:30:00 GMT"
     }
   ],
   "Benjamin Netanyahu": [
@@ -2043,6 +2033,12 @@
     {
       "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews - The Guardian",
       "pubDate": "Mon, 16 Feb 2026 21:24:00 GMT"
+    }
+  ],
+  "Asteroids": [
+    {
+      "title": "City Killing Asteroids: NASA Scientist Warns of Unstoppable Threats to Earth - Meyka",
+      "pubDate": "Wed, 18 Feb 2026 08:03:45 GMT"
     }
   ]
 }
