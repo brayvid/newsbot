@@ -119,6 +119,10 @@
     {
       "title": "Fed's Barr casts doubt on AI as rate-cutting tool - Yahoo Finance",
       "pubDate": "Tue, 17 Feb 2026 19:08:11 GMT"
+    },
+    {
+      "title": "EU needs to abandon AI \u2018doomerism,\u2019 White House official says - politico.eu",
+      "pubDate": "Wed, 18 Feb 2026 12:12:00 GMT"
     }
   ],
   "Israel": [
@@ -128,10 +132,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukrainian battlefield success denies Russia a key city as a bargaining chip - The Washington Post",
-      "pubDate": "Mon, 19 Jan 2026 17:31:57 GMT"
-    },
     {
       "title": "Ukraine peace deal hinges on territory, Kremlin says after US talks - Euronews.com",
       "pubDate": "Fri, 23 Jan 2026 04:45:03 GMT"
@@ -214,10 +214,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia hits energy system in several regions of Ukraine, Kyiv says - Reuters",
-      "pubDate": "Mon, 19 Jan 2026 15:50:11 GMT"
-    },
     {
       "title": "Updates: First day of trilateral talks on Russia-Ukraine war ends in UAE - Al Jazeera",
       "pubDate": "Fri, 23 Jan 2026 21:11:15 GMT"
@@ -397,6 +393,10 @@
     {
       "title": "China showcases new Moon ship and reusable rocket in one extraordinary test - Ars Technica",
       "pubDate": "Wed, 11 Feb 2026 19:35:41 GMT"
+    },
+    {
+      "title": "The Complicated Stakes of the AI Race Between the U.S. and China - Time Magazine",
+      "pubDate": "Wed, 18 Feb 2026 17:10:35 GMT"
     }
   ],
   "AI Safety": [
@@ -503,6 +503,10 @@
     {
       "title": "White House moves to kill Utah's AI safety bill with $1M penalty cap - PPC Land",
       "pubDate": "Tue, 17 Feb 2026 21:53:04 GMT"
+    },
+    {
+      "title": "OpenAI has deleted the word \u2018safely\u2019 from its mission; will AI serve society or shareholders? - WMNF 88.5 FM",
+      "pubDate": "Wed, 18 Feb 2026 10:11:51 GMT"
     }
   ],
   "Data Breach": [
@@ -520,10 +524,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites - The Hacker News",
-      "pubDate": "Mon, 19 Jan 2026 17:21:00 GMT"
-    },
     {
       "title": "EU plans cybersecurity overhaul to block foreign high-risk suppliers - BleepingComputer",
       "pubDate": "Tue, 20 Jan 2026 18:54:38 GMT"
@@ -651,10 +651,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Heat inequality: Study measures the toll of climate change in Rio de Janeiro favelas - Reuters",
-      "pubDate": "Mon, 19 Jan 2026 15:27:07 GMT"
-    },
-    {
       "title": "Earth's Moving Surface Plays Bigger Role In Climate Change Than We Knew - NDTV",
       "pubDate": "Wed, 21 Jan 2026 09:09:29 GMT"
     },
@@ -729,6 +725,10 @@
     {
       "title": "\u2018Daunting but doable\u2019: Europe urged to prepare for 3C of global heating - The Guardian",
       "pubDate": "Mon, 16 Feb 2026 23:03:00 GMT"
+    },
+    {
+      "title": "As Trump Obliterates Climate Efforts, States Try to Fill the Gap - The New York Times",
+      "pubDate": "Wed, 18 Feb 2026 14:22:13 GMT"
     }
   ],
   "National Security": [
@@ -1061,10 +1061,6 @@
   ],
   "Public Health": [
     {
-      "title": "Pediatricians are disregarding the new vaccination schedule - The Washington Post",
-      "pubDate": "Mon, 19 Jan 2026 18:00:30 GMT"
-    },
-    {
       "title": "In one South Carolina county, measles starts to feel like next pandemic - BBC",
       "pubDate": "Fri, 30 Jan 2026 11:32:26 GMT"
     }
@@ -1247,10 +1243,6 @@
   ],
   "AI Ethics": [
     {
-      "title": "AI Ethics And Regulation: How OpenAI Is Addressing Safety, Children And Global Standards | BT Davos - Business Today",
-      "pubDate": "Mon, 19 Jan 2026 15:18:15 GMT"
-    },
-    {
       "title": "Before AI Summit, an ethics checklist - The Indian Express",
       "pubDate": "Wed, 21 Jan 2026 02:08:00 GMT"
     },
@@ -1293,6 +1285,10 @@
     {
       "title": "The economics of AI outweigh ethics for tech CEOs, business leader says - CNN",
       "pubDate": "Mon, 16 Feb 2026 18:21:40 GMT"
+    },
+    {
+      "title": "Pentagon vs. Anthropic: When AI Ethics Meets National Security \u2014 The High-Stakes Showdown Shaking Defense Tech - abacusnews.com",
+      "pubDate": "Wed, 18 Feb 2026 14:31:20 GMT"
     }
   ],
   "Space Exploration": [
@@ -1447,12 +1443,10 @@
     {
       "title": "We are two years away from artificial general intelligence: Vinod Khosla - Forbes India",
       "pubDate": "Tue, 17 Feb 2026 12:57:52 GMT"
-    }
-  ],
-  "Violence": [
+    },
     {
-      "title": "Guatemala Declares State of Emergency to Address Gang Violence - The New York Times",
-      "pubDate": "Mon, 19 Jan 2026 13:56:00 GMT"
+      "title": "DeepMind's CEO said there are still 3 areas where AGI systems can't match real intelligence - Business Insider",
+      "pubDate": "Wed, 18 Feb 2026 08:28:21 GMT"
     }
   ],
   "Central Intelligence Agency": [
@@ -1923,6 +1917,10 @@
     {
       "title": "How a Social Media Addiction Trial Threatens Big Tech - Bloomberg",
       "pubDate": "Wed, 18 Feb 2026 10:30:00 GMT"
+    },
+    {
+      "title": "Meta CEO to testify in high-stakes trial that could cost Big Tech billions - Fox Business",
+      "pubDate": "Wed, 18 Feb 2026 10:00:00 GMT"
     }
   ],
   "Benjamin Netanyahu": [
