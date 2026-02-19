@@ -127,6 +127,10 @@
     {
       "title": "US appeals court orders lawyer to pay $2,500 over AI hallucinations in brief - Reuters",
       "pubDate": "Wed, 18 Feb 2026 22:54:27 GMT"
+    },
+    {
+      "title": "Money Talks as India Searches for Its Place in Global A.I. - The New York Times",
+      "pubDate": "Thu, 19 Feb 2026 05:01:22 GMT"
     }
   ],
   "Israel": [
@@ -1143,12 +1147,6 @@
       "pubDate": "Wed, 21 Jan 2026 01:07:00 GMT"
     }
   ],
-  "World Economy": [
-    {
-      "title": "World Economic Outlook Update, January 2026: Global Economy: Steady amid Divergent Forces - International Monetary Fund | IMF",
-      "pubDate": "Tue, 20 Jan 2026 01:42:44 GMT"
-    }
-  ],
   "US Politics": [
     {
       "title": "Trump Heads to Davos Amid Deep Worries About U.S.-European Alliance - The New York Times",
@@ -1224,10 +1222,6 @@
     }
   ],
   "Geopolitics": [
-    {
-      "title": "Oil Rises in Asia; Geopolitical Tensions in Focus - The Wall Street Journal",
-      "pubDate": "Tue, 20 Jan 2026 01:30:00 GMT"
-    },
     {
       "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate - The New York Times",
       "pubDate": "Mon, 26 Jan 2026 17:28:06 GMT"
@@ -1367,6 +1361,10 @@
     {
       "title": "Elon Musk's Grok faces another EU investigation over nonconsensual AI images - Mashable",
       "pubDate": "Tue, 17 Feb 2026 19:48:25 GMT"
+    },
+    {
+      "title": "News | AI pushes Elon Musk toward new data center frontiers in space - CoStar",
+      "pubDate": "Thu, 19 Feb 2026 00:42:33 GMT"
     }
   ],
   "AI Alignment": [
@@ -1413,6 +1411,10 @@
     {
       "title": "LLMs violate boundaries during mental health dialogues, study finds - Tech Xplore",
       "pubDate": "Sun, 15 Feb 2026 15:50:01 GMT"
+    },
+    {
+      "title": "Sarvam rolls out 105-bn parameter AI LLM model - Times of India",
+      "pubDate": "Thu, 19 Feb 2026 00:21:00 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -1827,6 +1829,10 @@
     {
       "title": "Exclusive: Pentagon warns Anthropic will \"pay a price\" as feud escalates - Axios",
       "pubDate": "Mon, 16 Feb 2026 18:40:18 GMT"
+    },
+    {
+      "title": "Anthropic CEO: AI to surpass humans in 'small number of years' - Yahoo Finance UK",
+      "pubDate": "Thu, 19 Feb 2026 05:37:00 GMT"
     }
   ],
   "Semiconductors": [
@@ -1951,6 +1957,10 @@
     {
       "title": "How Demis Hassabis is leading Google through an innovator\u2019s dilemma\u2014and made OpenAI declare 'code red' - Fortune",
       "pubDate": "Wed, 11 Feb 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Former Google DeepMind Scientist Targets $4 Billion Valuation for New AI Lab - PYMNTS.com",
+      "pubDate": "Wed, 18 Feb 2026 19:52:20 GMT"
     }
   ],
   "National Security Agency": [
@@ -2049,6 +2059,18 @@
     {
       "title": "City Killing Asteroids: NASA Scientist Warns of Unstoppable Threats to Earth - Meyka",
       "pubDate": "Wed, 18 Feb 2026 08:03:45 GMT"
+    }
+  ],
+  "Demis Hassabis": [
+    {
+      "title": "Watch DeepMind CEO Warns of AI Risks, Urges Global Cooperation - Bloomberg.com",
+      "pubDate": "Thu, 19 Feb 2026 00:00:00 GMT"
+    }
+  ],
+  "Perplexity": [
+    {
+      "title": "OpenAI, Google, and Perplexity near approval to host AI directly for the U.S. government (exclusive) - Fast Company",
+      "pubDate": "Thu, 19 Feb 2026 05:31:06 GMT"
     }
   ]
 }
