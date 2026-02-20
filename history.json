@@ -421,10 +421,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Korea sets AI safety rules, first in world - koreaherald.com",
-      "pubDate": "Wed, 21 Jan 2026 03:00:00 GMT"
-    },
-    {
       "title": "Meta tightens teens access to AI characters amid safety concerns - The News International",
       "pubDate": "Sat, 24 Jan 2026 08:20:00 GMT"
     },
@@ -613,6 +609,10 @@
     {
       "title": "White House Sees Win After 2 Strong Economic Reports - The New York Times",
       "pubDate": "Fri, 13 Feb 2026 21:06:21 GMT"
+    },
+    {
+      "title": "The U.S. economy has grown faster than anyone predicted. Here\u2019s why. - MarketWatch",
+      "pubDate": "Thu, 19 Feb 2026 20:37:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -1119,19 +1119,11 @@
   ],
   "NVIDIA": [
     {
-      "title": "Nvidia\u2019s Huang Plans to Visit China as He Works to Reopen Market - Bloomberg.com",
-      "pubDate": "Wed, 21 Jan 2026 02:10:00 GMT"
-    },
-    {
       "title": "Nvidia, Microsoft, Amazon in talks to invest up to $60 billion in OpenAI, The Information reports - Reuters",
       "pubDate": "Thu, 29 Jan 2026 03:49:00 GMT"
     }
   ],
   "The Pentagon": [
-    {
-      "title": "Pentagon moves to cut U.S. participation in some NATO groups - The Washington Post",
-      "pubDate": "Wed, 21 Jan 2026 04:29:05 GMT"
-    },
     {
       "title": "Pentagon contractor indicted over alleged leak tied to raided Washington Post reporter - The Guardian",
       "pubDate": "Fri, 23 Jan 2026 16:46:00 GMT"
@@ -1159,10 +1151,6 @@
   ],
   "Protest": [
     {
-      "title": "Leaked photos show hundreds killed in Iran's brutal crackdown - BBC",
-      "pubDate": "Wed, 21 Jan 2026 05:56:20 GMT"
-    },
-    {
       "title": "Businesses close, Minnesotans to stay home Friday in protest of ICE - Star Tribune",
       "pubDate": "Thu, 22 Jan 2026 19:30:00 GMT"
     }
@@ -1177,17 +1165,7 @@
       "pubDate": "Fri, 13 Feb 2026 08:48:17 GMT"
     }
   ],
-  "Kim Jong Un": [
-    {
-      "title": "North Korea\u2019s Kim fires vice premier, calls him \u2018a goat yoked to pull an ox cart\u2019 - CNN",
-      "pubDate": "Wed, 21 Jan 2026 01:07:00 GMT"
-    }
-  ],
   "US Politics": [
-    {
-      "title": "Trump Heads to Davos Amid Deep Worries About U.S.-European Alliance - The New York Times",
-      "pubDate": "Wed, 21 Jan 2026 05:00:05 GMT"
-    },
     {
       "title": "Jack Smith testifies in tense House hearing about Trump investigations \u2013 US politics live - The Guardian",
       "pubDate": "Thu, 22 Jan 2026 11:49:00 GMT"
@@ -1285,10 +1263,6 @@
   ],
   "AI Ethics": [
     {
-      "title": "Before AI Summit, an ethics checklist - The Indian Express",
-      "pubDate": "Wed, 21 Jan 2026 02:08:00 GMT"
-    },
-    {
       "title": "Anthropic revises Claude's AI rules to strengthen ethics, user safety - NewsBytes",
       "pubDate": "Thu, 22 Jan 2026 06:23:52 GMT"
     },
@@ -1357,6 +1331,10 @@
     {
       "title": "Europe's most powerful rocket launches for 1st time, carrying 32 Amazon internet satellites to orbit (video) - Space",
       "pubDate": "Thu, 12 Feb 2026 17:21:18 GMT"
+    },
+    {
+      "title": "NASA designates botched Boeing Starliner test flight a \u2018Type A mishap\u2019 in new report - CNN",
+      "pubDate": "Thu, 19 Feb 2026 20:38:16 GMT"
     }
   ],
   "Financial Markets": [
@@ -1504,10 +1482,6 @@
     }
   ],
   "Central Intelligence Agency": [
-    {
-      "title": "A covert CIA team is said to have helped the U.S. military\u2019s raid to seize Venezuela\u2019s president, reflecting the agency\u2019s new focus on the region. - facebook.com",
-      "pubDate": "Wed, 21 Jan 2026 05:58:27 GMT"
-    },
     {
       "title": "Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over \u2018CIA activities\u2019 - Yahoo",
       "pubDate": "Fri, 06 Feb 2026 18:02:44 GMT"
@@ -1827,6 +1801,10 @@
     {
       "title": "Epstein files could be just tip of the iceberg for Andrew investigation - BBC",
       "pubDate": "Thu, 19 Feb 2026 20:17:08 GMT"
+    },
+    {
+      "title": "Did Epstein Use Memory-Erasing Technology? 2014 Email With Senior MIT Figure Raises Fresh Questions - Times Now",
+      "pubDate": "Fri, 20 Feb 2026 05:32:55 GMT"
     }
   ],
   "Energy Storage": [
