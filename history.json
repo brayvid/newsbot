@@ -135,12 +135,20 @@
     {
       "title": "Reliance to invest $110bn in AI as India's data center sector heats up - Nikkei Asia",
       "pubDate": "Thu, 19 Feb 2026 05:59:00 GMT"
+    },
+    {
+      "title": "AI Boom Faces Power Crisis Without Global Renewable Surge - Crude Oil Prices Today | OilPrice.com",
+      "pubDate": "Fri, 20 Feb 2026 12:00:00 GMT"
     }
   ],
   "Israel": [
     {
       "title": "Israel to ban MSF from working in Gaza over refusal to provide staff list - BBC",
       "pubDate": "Sun, 01 Feb 2026 13:20:38 GMT"
+    },
+    {
+      "title": "Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say - NPR",
+      "pubDate": "Fri, 20 Feb 2026 08:56:41 GMT"
     }
   ],
   "Ukraine": [
@@ -583,6 +591,10 @@
     {
       "title": "The AI world\u2019s \u2018connective tissue\u2019 is woefully insecure, Cisco warns - Cybersecurity Dive",
       "pubDate": "Thu, 19 Feb 2026 16:43:39 GMT"
+    },
+    {
+      "title": "Chinese Hackers Bypassed a U.S. Government VPN, Raising New Cybersecurity Concerns - Yahoo",
+      "pubDate": "Fri, 20 Feb 2026 17:09:49 GMT"
     }
   ],
   "US Economy": [
@@ -613,6 +625,10 @@
     {
       "title": "The U.S. economy has grown faster than anyone predicted. Here\u2019s why. - MarketWatch",
       "pubDate": "Thu, 19 Feb 2026 20:37:00 GMT"
+    },
+    {
+      "title": "US economic growth slowed in fourth quarter of 2025 amid government shutdown - The Guardian",
+      "pubDate": "Fri, 20 Feb 2026 15:31:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -641,14 +657,6 @@
   ],
   "Gaza": [
     {
-      "title": "Live: Israel launches strikes as Netanyahu joins Gaza \u2018board of peace\u2019 - Al Jazeera",
-      "pubDate": "Wed, 21 Jan 2026 11:37:30 GMT"
-    },
-    {
-      "title": "Israeli fire kills 11, including journalists and children, Gaza medics say - Reuters",
-      "pubDate": "Wed, 21 Jan 2026 15:37:58 GMT"
-    },
-    {
       "title": "Israel Says It Will Reopen Gaza-Egypt Border, a Palestinian Lifeline, in Days - The New York Times",
       "pubDate": "Mon, 26 Jan 2026 13:02:49 GMT"
     },
@@ -674,10 +682,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Earth's Moving Surface Plays Bigger Role In Climate Change Than We Knew - NDTV",
-      "pubDate": "Wed, 21 Jan 2026 09:09:29 GMT"
-    },
     {
       "title": "At Davos, Talk of Climate Change Retreats to the Sidelines - The New York Times",
       "pubDate": "Thu, 22 Jan 2026 20:22:38 GMT"
@@ -760,10 +764,6 @@
     }
   ],
   "National Security": [
-    {
-      "title": "Nature loss is a national security risk, intelligence group warns - BBC",
-      "pubDate": "Wed, 21 Jan 2026 15:08:27 GMT"
-    },
     {
       "title": "National security experts argue U.S. TikTok deal falls short - PBS",
       "pubDate": "Fri, 23 Jan 2026 23:35:29 GMT"
@@ -905,10 +905,6 @@
   ],
   "Drones": [
     {
-      "title": "Ukraine is paying $20,000 to drone firms who can destroy a Russian Shahed, defense minister says - Business Insider",
-      "pubDate": "Wed, 21 Jan 2026 06:03:00 GMT"
-    },
-    {
       "title": "A Winter Lull in the Fighting? Not in the Age of Drone Warfare. - The New York Times",
       "pubDate": "Mon, 26 Jan 2026 10:00:27 GMT"
     },
@@ -1036,10 +1032,6 @@
     }
   ],
   "Global Health": [
-    {
-      "title": "Cholera is surging in Africa. A new generation of vaccines could slow it - The Telegraph",
-      "pubDate": "Wed, 21 Jan 2026 16:03:00 GMT"
-    },
     {
       "title": "US set to quit World Health Organization - Reuters",
       "pubDate": "Thu, 22 Jan 2026 15:12:44 GMT"
@@ -1233,6 +1225,10 @@
     {
       "title": "This Maryland lab\u2019s quantum computer could cure cancer \u2014 and steal passwords - The Washington Post",
       "pubDate": "Sun, 08 Feb 2026 18:00:00 GMT"
+    },
+    {
+      "title": "Physicists may have found the missing link for quantum computers - EurekAlert!",
+      "pubDate": "Fri, 20 Feb 2026 14:48:26 GMT"
     }
   ],
   "Geopolitics": [
@@ -1433,10 +1429,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "Trump Just Reversed an AI Chip Ban for China\u2014and a Key Tech Leader Says It's Like 'Selling Nuclear Weapons' - inc.com",
-      "pubDate": "Wed, 21 Jan 2026 16:30:17 GMT"
-    },
-    {
       "title": "Google DeepMind co-founder hints AI as smart as humans is almost here, says it will change economy - India Today",
       "pubDate": "Fri, 23 Jan 2026 12:43:54 GMT"
     },
@@ -1485,18 +1477,6 @@
     {
       "title": "Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over \u2018CIA activities\u2019 - Yahoo",
       "pubDate": "Fri, 06 Feb 2026 18:02:44 GMT"
-    }
-  ],
-  "Nuclear Fission": [
-    {
-      "title": "TEPCO restarts 1st nuclear reactor since Fukushima under close scrutiny - english.kyodonews.net",
-      "pubDate": "Wed, 21 Jan 2026 14:04:51 GMT"
-    }
-  ],
-  "Finland": [
-    {
-      "title": "Finland Invests in Defense, Ready to Mobilize 280,000 Troops Against Russian Aggression - UNITED24 Media",
-      "pubDate": "Wed, 21 Jan 2026 13:47:35 GMT"
     }
   ],
   "Business": [
@@ -1805,6 +1785,10 @@
     {
       "title": "Did Epstein Use Memory-Erasing Technology? 2014 Email With Senior MIT Figure Raises Fresh Questions - Times Now",
       "pubDate": "Fri, 20 Feb 2026 05:32:55 GMT"
+    },
+    {
+      "title": "A Once Prominent American Statesman Faces Fallout From the Epstein Files - The New York Times - The New York Times",
+      "pubDate": "Fri, 20 Feb 2026 10:02:53 GMT"
     }
   ],
   "Energy Storage": [
