@@ -149,14 +149,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine peace deal hinges on territory, Kremlin says after US talks - Euronews.com",
-      "pubDate": "Fri, 23 Jan 2026 04:45:03 GMT"
-    },
-    {
-      "title": "Document reveals EU-US pitch for $800B postwar Ukraine \u2018prosperity\u2019 plan - politico.eu",
-      "pubDate": "Fri, 23 Jan 2026 13:39:00 GMT"
-    },
-    {
       "title": "US security agreement for Ukraine is \u2018100% ready\u2019 to be signed, Zelenskyy says - AP News",
       "pubDate": "Sun, 25 Jan 2026 17:16:00 GMT"
     },
@@ -231,6 +223,10 @@
     {
       "title": "Ukraine strikes a key industrial site deep inside Russia - AP News",
       "pubDate": "Sat, 21 Feb 2026 16:50:00 GMT"
+    },
+    {
+      "title": "Russia hits Ukraine energy infrastructure with major missile, drone strikes, Kyiv says - Reuters",
+      "pubDate": "Sun, 22 Feb 2026 06:26:50 GMT"
     }
   ],
   "Russia": [
@@ -313,10 +309,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Live updates: Trump meets with Zelensky after unveiling \u2018Board of Peace\u2019 in Davos | CNN Politics - CNN",
-      "pubDate": "Fri, 23 Jan 2026 05:04:00 GMT"
-    },
-    {
       "title": "Justice Department investigating a growing number of Trump political foes - NBC News",
       "pubDate": "Sat, 24 Jan 2026 10:23:00 GMT"
     },
@@ -383,13 +375,13 @@
     {
       "title": "Live Updates: Trump Says U.S. Will Commit $10 Billion to Board of Peace for Gaza Redevelopment - The New York Times",
       "pubDate": "Thu, 19 Feb 2026 17:25:53 GMT"
+    },
+    {
+      "title": "Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says - The New York Times",
+      "pubDate": "Sun, 22 Feb 2026 14:19:15 GMT"
     }
   ],
   "China": [
-    {
-      "title": "China Tells Alibaba, Tech Firms to Ready Nvidia H200 Orders - Bloomberg",
-      "pubDate": "Fri, 23 Jan 2026 14:40:52 GMT"
-    },
     {
       "title": "Exclusive | China\u2019s Top General Accused of Giving Nuclear Secrets to U.S. - The Wall Street Journal",
       "pubDate": "Sun, 25 Jan 2026 17:05:00 GMT"
@@ -839,6 +831,10 @@
     {
       "title": "Exclusive | Trump Weighs Initial Limited Strike to Force Iran Into Nuclear Deal - The Wall Street Journal",
       "pubDate": "Thu, 19 Feb 2026 21:20:00 GMT"
+    },
+    {
+      "title": "Iran agreed secret shoulder-fired missile deal with Russia - Financial Times",
+      "pubDate": "Sun, 22 Feb 2026 16:00:07 GMT"
     }
   ],
   "Climate": [
@@ -1063,10 +1059,6 @@
   ],
   "BRICS": [
     {
-      "title": "Why is South Africa upset about Iran joining BRICS naval drills? - Al Jazeera",
-      "pubDate": "Fri, 23 Jan 2026 05:55:29 GMT"
-    },
-    {
       "title": "Berliner Zeitung: BRICS will launch its payment system \u2014 sanctions will become useless - EADaily",
       "pubDate": "Mon, 26 Jan 2026 08:15:00 GMT"
     },
@@ -1099,10 +1091,6 @@
   ],
   "The Pentagon": [
     {
-      "title": "Pentagon contractor indicted over alleged leak tied to raided Washington Post reporter - The Guardian",
-      "pubDate": "Fri, 23 Jan 2026 16:46:00 GMT"
-    },
-    {
       "title": "Exclusive | Pentagon Prepares Second Aircraft Carrier to Deploy to the Middle East - WSJ - The Wall Street Journal",
       "pubDate": "Thu, 12 Feb 2026 01:32:00 GMT"
     }
@@ -1134,10 +1122,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Marco Rubio personally signed off on arrests of pro-Palestine students, documents show - The Independent",
-      "pubDate": "Fri, 23 Jan 2026 17:05:00 GMT"
-    },
     {
       "title": "HUD Demands Public Housing Officials Check for Undocumented Immigrants - nytimes.com",
       "pubDate": "Fri, 23 Jan 2026 23:55:04 GMT"
@@ -1277,6 +1261,10 @@
     {
       "title": "Addressing Bias, Privacy, Security, and Patient Autonomy in Artificial Intelligence (AI)-Driven Healthcare: A Review of Current Guidelines - Cureus",
       "pubDate": "Sat, 21 Feb 2026 02:27:53 GMT"
+    },
+    {
+      "title": "After a deadly raid, an AI power struggle erupts at the Pentagon - The Washington Post",
+      "pubDate": "Sun, 22 Feb 2026 17:31:53 GMT"
     }
   ],
   "Space Exploration": [
@@ -1377,12 +1365,6 @@
       "pubDate": "Tue, 10 Feb 2026 02:30:00 GMT"
     }
   ],
-  "Energy Transition": [
-    {
-      "title": "U.S. government cuts $83 billion in loans, reversing energy transition funding - pv magazine International",
-      "pubDate": "Fri, 23 Jan 2026 14:47:18 GMT"
-    }
-  ],
   "Bitcoin": [
     {
       "title": "Bitcoin price news: BTC stuck at $89,000 as gold surges to fresh record - CoinDesk",
@@ -1400,10 +1382,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "Google DeepMind co-founder hints AI as smart as humans is almost here, says it will change economy - India Today",
-      "pubDate": "Fri, 23 Jan 2026 12:43:54 GMT"
-    },
     {
       "title": "The Great AGI Divide: AI\u2019s Top Minds Clash in Davos Over Tech\u2019s Final Frontier - WebProNews",
       "pubDate": "Sun, 25 Jan 2026 21:24:06 GMT"
