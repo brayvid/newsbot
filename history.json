@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "EPA pokes Musk over using unpermitted turbines for AI - Politico",
-      "pubDate": "Thu, 22 Jan 2026 17:00:00 GMT"
-    },
-    {
-      "title": "AI is already writing almost one-third of new software code - EurekAlert!",
-      "pubDate": "Thu, 22 Jan 2026 19:13:45 GMT"
-    },
-    {
       "title": "Government by AI? Trump Administration Plans to Write Regulations Using Artificial Intelligence - ProPublica",
       "pubDate": "Mon, 26 Jan 2026 10:30:00 GMT"
     },
@@ -235,6 +227,10 @@
     {
       "title": "Deadly explosion rocks Russian military site near St Petersburg - Al Jazeera",
       "pubDate": "Tue, 17 Feb 2026 17:36:46 GMT"
+    },
+    {
+      "title": "Ukraine strikes a key industrial site deep inside Russia - AP News",
+      "pubDate": "Sat, 21 Feb 2026 16:50:00 GMT"
     }
   ],
   "Russia": [
@@ -316,10 +312,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump sues JPMorgan Chase and CEO Jamie Dimon for $5B over alleged 'political' debanking - Fox Business",
-      "pubDate": "Thu, 22 Jan 2026 16:49:00 GMT"
-    },
     {
       "title": "Live updates: Trump meets with Zelensky after unveiling \u2018Board of Peace\u2019 in Davos | CNN Politics - CNN",
       "pubDate": "Fri, 23 Jan 2026 05:04:00 GMT"
@@ -561,6 +553,10 @@
     {
       "title": "SoundCloud data breach exposes 29.8 million user accounts - foxnews.com",
       "pubDate": "Sun, 08 Feb 2026 14:01:15 GMT"
+    },
+    {
+      "title": "PayPal Data Breach Confirmed\u2014Money Was Stolen, Passwords Now Reset - Forbes",
+      "pubDate": "Sat, 21 Feb 2026 12:55:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -615,10 +611,6 @@
   ],
   "US Economy": [
     {
-      "title": "'Some form of crisis is almost inevitable': The $38 trillion national debt will soon be growing faster than the U.S. economy itself, watchdog warns - Fortune",
-      "pubDate": "Thu, 22 Jan 2026 18:08:00 GMT"
-    },
-    {
       "title": "Fed, Signaling Little Urgency, Prepares to Pause on Rate Cuts - The New York Times",
       "pubDate": "Tue, 27 Jan 2026 14:55:58 GMT"
     },
@@ -649,19 +641,11 @@
   ],
   "Earthquakes": [
     {
-      "title": "4.7 magnitude earthquake rattles Wyoming and parts of Utah early Thursday morning - fox13now.com",
-      "pubDate": "Thu, 22 Jan 2026 14:58:59 GMT"
-    },
-    {
       "title": "Scientists Map the Invisible Fault That Could Trigger the Next Major Earthquake - SciTechDaily",
       "pubDate": "Tue, 10 Feb 2026 01:38:49 GMT"
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI Plans to Take a Cut of Customers\u2019 AI-Aided Discoveries - The Information",
-      "pubDate": "Thu, 22 Jan 2026 18:30:00 GMT"
-    },
     {
       "title": "Nvidia, OpenAI appear stalled on their mega deal. But the AI giants still need each other - CNBC",
       "pubDate": "Tue, 03 Feb 2026 22:22:05 GMT"
@@ -669,6 +653,10 @@
     {
       "title": "Microsoft AI CEO Mustafa Suleyman confirms company is 'dumping' OpenAI, says: My personal mission at Micr - Times of India",
       "pubDate": "Sat, 14 Feb 2026 05:38:00 GMT"
+    },
+    {
+      "title": "Exclusive | OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago - The Wall Street Journal",
+      "pubDate": "Sat, 21 Feb 2026 17:04:00 GMT"
     }
   ],
   "Gaza": [
@@ -698,10 +686,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "At Davos, Talk of Climate Change Retreats to the Sidelines - The New York Times",
-      "pubDate": "Thu, 22 Jan 2026 20:22:38 GMT"
-    },
     {
       "title": "Climate Change Threatening Future of Winter Olympics - RealClearEnergy",
       "pubDate": "Mon, 26 Jan 2026 05:26:36 GMT"
@@ -796,10 +780,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Commander of Iran\u2019s Revolutionary Guards warns Israel and US of \u2018finger on trigger\u2019 - timesofisrael.com",
-      "pubDate": "Thu, 22 Jan 2026 17:10:18 GMT"
-    },
     {
       "title": "Iran opposition outlet says regime killed over 36,000 people on January 8-9 - timesofisrael.com",
       "pubDate": "Sun, 25 Jan 2026 19:00:23 GMT"
@@ -947,10 +927,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "Supreme Court considers whether Trump can fire Federal Reserve officials - fox5dc.com",
-      "pubDate": "Thu, 22 Jan 2026 22:23:00 GMT"
-    },
-    {
       "title": "The Fed is expected to stand pat this week. The big question is for how long? - MarketWatch",
       "pubDate": "Sun, 25 Jan 2026 20:13:00 GMT"
     },
@@ -1041,18 +1017,6 @@
       "pubDate": "Thu, 19 Feb 2026 23:45:19 GMT"
     }
   ],
-  "Recession": [
-    {
-      "title": "Capital One CEO Says Capping Card Rates Threatens Recession - Bloomberg.com",
-      "pubDate": "Thu, 22 Jan 2026 23:22:25 GMT"
-    }
-  ],
-  "Global Health": [
-    {
-      "title": "US set to quit World Health Organization - Reuters",
-      "pubDate": "Thu, 22 Jan 2026 15:12:44 GMT"
-    }
-  ],
   "Terrorism": [
     {
       "title": "Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls \u2018terrorism\u2019 - CNN",
@@ -1087,20 +1051,14 @@
       "pubDate": "Sat, 21 Feb 2026 06:59:00 GMT"
     }
   ],
-  "Renewable Energy": [
-    {
-      "title": "Energy Dept. Says It Is Canceling $30 Billion in Clean Energy Loans - The New York Times",
-      "pubDate": "Thu, 22 Jan 2026 22:41:50 GMT"
-    }
-  ],
   "Nuclear Power": [
-    {
-      "title": "Japan suspends world's largest nuclear plant hours after restart - BBC",
-      "pubDate": "Thu, 22 Jan 2026 13:13:24 GMT"
-    },
     {
       "title": "US Government Seeking Volunteers to Store Nuclear Sludge - Futurism",
       "pubDate": "Sun, 08 Feb 2026 14:45:00 GMT"
+    },
+    {
+      "title": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power - NPR",
+      "pubDate": "Sat, 21 Feb 2026 15:23:17 GMT"
     }
   ],
   "BRICS": [
@@ -1163,12 +1121,6 @@
     {
       "title": "White House Rejects Democrats\u2019 Offer for Deal to Reopen D.H.S. - The New York Times",
       "pubDate": "Tue, 17 Feb 2026 23:07:22 GMT"
-    }
-  ],
-  "Protest": [
-    {
-      "title": "Businesses close, Minnesotans to stay home Friday in protest of ICE - Star Tribune",
-      "pubDate": "Thu, 22 Jan 2026 19:30:00 GMT"
     }
   ],
   "Environment": [
@@ -1499,18 +1451,6 @@
       "pubDate": "Fri, 06 Feb 2026 18:02:44 GMT"
     }
   ],
-  "Business": [
-    {
-      "title": "White House and China finalize deal to sell control of U.S. TikTok business to investors backed by Trump administration - NBC News",
-      "pubDate": "Thu, 22 Jan 2026 23:25:00 GMT"
-    }
-  ],
-  "Self-Driving Cars": [
-    {
-      "title": "Tesla Launches Robotaxi Rides Without a Human Chaperone in Austin - Business Insider",
-      "pubDate": "Thu, 22 Jan 2026 19:51:00 GMT"
-    }
-  ],
   "Outer Space": [
     {
       "title": "2.8 Days to Disaster: Low Earth Orbit Could Collapse Without Warning - SciTechDaily",
@@ -1813,6 +1753,10 @@
     {
       "title": "Epstein files place renewed attention on US authorities\u2019 failure to stop him - The Guardian",
       "pubDate": "Sat, 21 Feb 2026 11:10:00 GMT"
+    },
+    {
+      "title": "Ghislaine Maxwell fights release of more Epstein documents, calling disclosure law unconstitutional - AP News",
+      "pubDate": "Sat, 21 Feb 2026 19:39:00 GMT"
     }
   ],
   "Energy Storage": [
@@ -1845,6 +1789,10 @@
     {
       "title": "NASA rocket that will return astronauts to the moon hit by fuel leak during practice countdown - PBS",
       "pubDate": "Mon, 02 Feb 2026 21:44:21 GMT"
+    },
+    {
+      "title": "NASA delays astronaut moon mission again after new rocket problem - AP News",
+      "pubDate": "Sat, 21 Feb 2026 20:51:00 GMT"
     }
   ],
   "Middle East": [
