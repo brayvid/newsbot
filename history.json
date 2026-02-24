@@ -157,10 +157,6 @@
   ],
   "Ukraine": [
     {
-      "title": "US security agreement for Ukraine is \u2018100% ready\u2019 to be signed, Zelenskyy says - AP News",
-      "pubDate": "Sun, 25 Jan 2026 17:16:00 GMT"
-    },
-    {
       "title": "Ukraine Says It Attacked Small Oil Refinery in Southern Russia - Bloomberg",
       "pubDate": "Mon, 26 Jan 2026 11:37:55 GMT"
     },
@@ -235,6 +231,10 @@
     {
       "title": "Russia hits Ukraine energy infrastructure with major missile, drone strikes, Kyiv says - Reuters",
       "pubDate": "Sun, 22 Feb 2026 06:26:50 GMT"
+    },
+    {
+      "title": "Ukraine marks four years since Russia's full invasion as Moscow says its 'goals' not yet achieved - BBC",
+      "pubDate": "Tue, 24 Feb 2026 17:14:30 GMT"
     }
   ],
   "Russia": [
@@ -313,6 +313,10 @@
     {
       "title": "How Russia Put Its Future at Risk by Remaking Its Economy for War - The New York Times",
       "pubDate": "Tue, 24 Feb 2026 05:01:17 GMT"
+    },
+    {
+      "title": "Russia accuses Ukraine of seeking to acquire nuclear weapon with help from UK and France - Reuters",
+      "pubDate": "Tue, 24 Feb 2026 16:29:36 GMT"
     }
   ],
   "Donald Trump": [
@@ -387,13 +391,13 @@
     {
       "title": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack - The New York Times",
       "pubDate": "Sun, 22 Feb 2026 21:50:06 GMT"
+    },
+    {
+      "title": "Trump to address economy, tariffs and foreign policy in 2026 State of the Union address - CNN",
+      "pubDate": "Tue, 24 Feb 2026 17:16:00 GMT"
     }
   ],
   "China": [
-    {
-      "title": "Exclusive | China\u2019s Top General Accused of Giving Nuclear Secrets to U.S. - The Wall Street Journal",
-      "pubDate": "Sun, 25 Jan 2026 17:05:00 GMT"
-    },
     {
       "title": "Exclusive: China gives nod to ByteDance, Alibaba and Tencent to buy Nvidia's H200 chips - sources - Reuters",
       "pubDate": "Wed, 28 Jan 2026 08:46:26 GMT"
@@ -789,6 +793,10 @@
     {
       "title": "Supreme Court agrees to hear from oil and gas companies trying to block climate change lawsuits - AP News",
       "pubDate": "Mon, 23 Feb 2026 20:58:00 GMT"
+    },
+    {
+      "title": "Uncertainties of enhanced rock weathering for climate-change mitigation - Nature",
+      "pubDate": "Tue, 24 Feb 2026 08:47:41 GMT"
     }
   ],
   "National Security": [
@@ -871,6 +879,10 @@
     {
       "title": "Trump's top general warns of Iran strike risks - Axios",
       "pubDate": "Mon, 23 Feb 2026 17:53:20 GMT"
+    },
+    {
+      "title": "Exclusive: Iran nears deal to buy supersonic anti-ship missiles from China - Reuters",
+      "pubDate": "Tue, 24 Feb 2026 09:44:55 GMT"
     }
   ],
   "Climate": [
@@ -972,10 +984,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "Partial government shutdown more likely over DHS funding fight after Alex Pretti killing - CNBC",
-      "pubDate": "Sun, 25 Jan 2026 14:31:41 GMT"
-    },
     {
       "title": "Impeachment, hearings, shutdown: DHS and ICE are under siege by Congress like never before - Axios",
       "pubDate": "Mon, 26 Jan 2026 02:50:28 GMT"
@@ -1186,10 +1194,6 @@
     }
   ],
   "Nuclear Fusion": [
-    {
-      "title": "Chinese scientists make groundbreaking discovery in pursuit of limitless energy: 'A practical and scalable pathway' - The Cool Down",
-      "pubDate": "Sun, 25 Jan 2026 17:00:00 GMT"
-    },
     {
       "title": "Controllable Nuclear Fusion Secures Another 500 Million Yuan in Financing - 36 Kr",
       "pubDate": "Wed, 04 Feb 2026 03:13:08 GMT"
@@ -2129,6 +2133,18 @@
     {
       "title": "The US Army hasn't faced serious threats from above in years. The war in Ukraine is forcing a rethink. - Business Insider",
       "pubDate": "Tue, 24 Feb 2026 10:52:00 GMT"
+    }
+  ],
+  "Meta": [
+    {
+      "title": "Meta and AMD Agree to AI Chips Deal Worth More Than $100 Billion - WSJ",
+      "pubDate": "Tue, 24 Feb 2026 14:34:00 GMT"
+    }
+  ],
+  "Cancer": [
+    {
+      "title": "Scientists engineer bacteria to eat cancer tumors from the inside out - ScienceDaily",
+      "pubDate": "Tue, 24 Feb 2026 08:43:38 GMT"
     }
   ]
 }
