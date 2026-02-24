@@ -139,6 +139,10 @@
     {
       "title": "Trump unveils \u2018Tech Corps\u2019 to promote American AI abroad - CNBC",
       "pubDate": "Mon, 23 Feb 2026 02:43:00 GMT"
+    },
+    {
+      "title": "US AI giant accuses Chinese rivals of mass data theft - The Guardian",
+      "pubDate": "Mon, 23 Feb 2026 23:15:00 GMT"
     }
   ],
   "Israel": [
@@ -309,10 +313,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Justice Department investigating a growing number of Trump political foes - NBC News",
-      "pubDate": "Sat, 24 Jan 2026 10:23:00 GMT"
-    },
-    {
       "title": "Trump says government will 'de-escalate' in Minnesota following Pretti shooting - BBC",
       "pubDate": "Wed, 28 Jan 2026 05:38:48 GMT"
     },
@@ -428,10 +428,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Meta tightens teens access to AI characters amid safety concerns - The News International",
-      "pubDate": "Sat, 24 Jan 2026 08:20:00 GMT"
-    },
     {
       "title": "AI 'Swarms' Could Escalate Online Misinformation and Manipulation, Researchers Warn - Decrypt",
       "pubDate": "Sun, 25 Jan 2026 20:01:02 GMT"
@@ -765,6 +761,10 @@
     {
       "title": "AI data centre surge would put UK\u2019s climate change targets at risk - The Times",
       "pubDate": "Sun, 22 Feb 2026 18:30:57 GMT"
+    },
+    {
+      "title": "Supreme Court agrees to hear from oil and gas companies trying to block climate change lawsuits - AP News",
+      "pubDate": "Mon, 23 Feb 2026 20:58:00 GMT"
     }
   ],
   "National Security": [
@@ -843,13 +843,13 @@
     {
       "title": "Iran agreed secret shoulder-fired missile deal with Russia - Financial Times",
       "pubDate": "Sun, 22 Feb 2026 16:00:07 GMT"
+    },
+    {
+      "title": "Trump's top general warns of Iran strike risks - Axios",
+      "pubDate": "Mon, 23 Feb 2026 17:53:20 GMT"
     }
   ],
   "Climate": [
-    {
-      "title": "Post-COP 30 Modeling Shows World Is Far Off Track for Climate Goals - Inside Climate News",
-      "pubDate": "Sat, 24 Jan 2026 09:45:00 GMT"
-    },
     {
       "title": "Flawed economic models mean climate crisis could crash global economy, experts warn - The Guardian",
       "pubDate": "Thu, 05 Feb 2026 00:03:00 GMT"
@@ -1099,12 +1099,6 @@
       "pubDate": "Thu, 12 Feb 2026 01:32:00 GMT"
     }
   ],
-  "New York City": [
-    {
-      "title": "Winter Storm Fern live: three people found dead in New York City as tens of thousands go without power across US - The Guardian",
-      "pubDate": "Sat, 24 Jan 2026 15:37:00 GMT"
-    }
-  ],
   "Democratic Party": [
     {
       "title": "A Pro-Israel Group\u2019s Move Backfires as Gaza Tensions Flare in Midterms - The New York Times",
@@ -1314,10 +1308,6 @@
     }
   ],
   "Investment": [
-    {
-      "title": "US to invest $1.6bn into rare earths group in bid to shore up key minerals - Financial Times",
-      "pubDate": "Sat, 24 Jan 2026 23:29:49 GMT"
-    },
     {
       "title": "Nvidia CEO Huang denies he is unhappy with OpenAI, says 'huge' investment planned at 'trillion-dollar dinner' - CNBC",
       "pubDate": "Sat, 31 Jan 2026 14:36:51 GMT"
@@ -1743,6 +1733,10 @@
     {
       "title": "After Epstein revelations, Europe vows accountability while U.S. holds back - The Washington Post",
       "pubDate": "Sun, 22 Feb 2026 18:00:02 GMT"
+    },
+    {
+      "title": "Former British ambassador to the U.S. arrested after Epstein files release - NBC News",
+      "pubDate": "Mon, 23 Feb 2026 22:49:27 GMT"
     }
   ],
   "Energy Storage": [
@@ -1779,6 +1773,10 @@
     {
       "title": "NASA delays astronaut moon mission again after new rocket problem - AP News",
       "pubDate": "Sat, 21 Feb 2026 20:51:00 GMT"
+    },
+    {
+      "title": "NASA's Artemis moon mission is in trouble again. Here's what we know - USA Today",
+      "pubDate": "Mon, 23 Feb 2026 18:22:00 GMT"
     }
   ],
   "Middle East": [
@@ -2061,6 +2059,10 @@
     {
       "title": "Trump Imposes 10% Global Tariff After Supreme Court Rules Against Him: Live Updates - The New York Times",
       "pubDate": "Sat, 21 Feb 2026 01:39:00 GMT"
+    },
+    {
+      "title": "Trump tariffs live updates: Trump raises 'global' tariff to 15%; EU postpones vote on US deal - Yahoo Finance",
+      "pubDate": "Mon, 23 Feb 2026 16:49:54 GMT"
     }
   ],
   "Hungary": [
