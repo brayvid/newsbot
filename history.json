@@ -673,10 +673,6 @@
   ],
   "Gaza": [
     {
-      "title": "Israel Says It Will Reopen Gaza-Egypt Border, a Palestinian Lifeline, in Days - The New York Times",
-      "pubDate": "Mon, 26 Jan 2026 13:02:49 GMT"
-    },
-    {
       "title": "Updates: Gaza under Israel fire as \u2018desperate\u2019 Palestinians seek supplies - Al Jazeera",
       "pubDate": "Wed, 28 Jan 2026 13:20:44 GMT"
     },
@@ -941,10 +937,6 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "Funding deal begins to unravel as Senate Democrats vow to oppose DHS bill over Alex Pretti shooting in Minnesota - PBS",
-      "pubDate": "Mon, 26 Jan 2026 14:53:37 GMT"
-    },
-    {
       "title": "Border Patrol agents involved in shooting of Alex Pretti were wearing body cameras, DHS says - kstp.com",
       "pubDate": "Tue, 27 Jan 2026 05:07:30 GMT"
     },
@@ -1163,10 +1155,6 @@
   ],
   "Geopolitics": [
     {
-      "title": "As U.S. Warships Get Closer, Iran Ramps Up Threats to Retaliate - The New York Times",
-      "pubDate": "Mon, 26 Jan 2026 17:28:06 GMT"
-    },
-    {
       "title": "North Korea test-launches 2 ballistic missiles toward sea, Japan and South Korea say - ABC News",
       "pubDate": "Tue, 27 Jan 2026 11:44:53 GMT"
     },
@@ -1238,10 +1226,6 @@
     }
   ],
   "Space Exploration": [
-    {
-      "title": "Scientists Have Discovered a Fascinating New Way Jupiter's Moon Europa Could Support Life - The Debrief",
-      "pubDate": "Mon, 26 Jan 2026 13:30:08 GMT"
-    },
     {
       "title": "NASA delays the first Artemis moonshot with astronauts because of extreme cold at the launch site - ABC News",
       "pubDate": "Sat, 31 Jan 2026 08:46:59 GMT"
@@ -1709,6 +1693,10 @@
     {
       "title": "Ex-UK ambassador Mandelson released on bail after arrest in Epstein probe - Al Jazeera",
       "pubDate": "Tue, 24 Feb 2026 10:14:21 GMT"
+    },
+    {
+      "title": "Bill Gates apologizes to Gates Foundation staff over Epstein ties, admits to having affairs - CBS News",
+      "pubDate": "Wed, 25 Feb 2026 16:23:13 GMT"
     }
   ],
   "Energy Storage": [
@@ -2069,6 +2057,10 @@
     {
       "title": "The US Army hasn't faced serious threats from above in years. The war in Ukraine is forcing a rethink. - Business Insider",
       "pubDate": "Tue, 24 Feb 2026 10:52:00 GMT"
+    },
+    {
+      "title": "Japan to deploy missiles on island near Taiwan by 2031 - BBC",
+      "pubDate": "Wed, 25 Feb 2026 06:00:50 GMT"
     }
   ],
   "Meta": [
@@ -2087,6 +2079,30 @@
     {
       "title": "Goldman Sachs warns AI-fueled layoffs could raise the unemployment rate this year: Chart - Yahoo Finance",
       "pubDate": "Tue, 24 Feb 2026 15:42:51 GMT"
+    }
+  ],
+  "Oceans": [
+    {
+      "title": "Ocean warming drives a nearly 20% annual decline in fish biomass, research confirms - Phys.org",
+      "pubDate": "Wed, 25 Feb 2026 10:00:04 GMT"
+    }
+  ],
+  "Astronomy": [
+    {
+      "title": "World's largest radio telescope array pierces heart of our Milky Way: 'This is just the beginning' - Space",
+      "pubDate": "Wed, 25 Feb 2026 13:00:00 GMT"
+    }
+  ],
+  "World Economy": [
+    {
+      "title": "World Trade Surged in 2025 Despite Higher Tariffs - WSJ",
+      "pubDate": "Wed, 25 Feb 2026 11:47:00 GMT"
+    }
+  ],
+  "Human Brain": [
+    {
+      "title": "Superagers' brains have a 'resilience signature,' and it's all about neuron growth - Medical Xpress",
+      "pubDate": "Wed, 25 Feb 2026 16:00:01 GMT"
     }
   ]
 }
