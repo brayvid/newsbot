@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Government by AI? Trump Administration Plans to Write Regulations Using Artificial Intelligence - ProPublica",
-      "pubDate": "Mon, 26 Jan 2026 10:30:00 GMT"
-    },
-    {
       "title": "European Union opens investigation into Elon Musk's AI chatbot Grok over sexual deepfakes - CBS News",
       "pubDate": "Mon, 26 Jan 2026 22:51:00 GMT"
     },
@@ -161,10 +157,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine Says It Attacked Small Oil Refinery in Southern Russia - Bloomberg",
-      "pubDate": "Mon, 26 Jan 2026 11:37:55 GMT"
-    },
-    {
       "title": "US links security guarantees for Ukraine to peace deal ceding territory - Financial Times",
       "pubDate": "Tue, 27 Jan 2026 05:00:17 GMT"
     },
@@ -242,10 +234,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia using Interpol's wanted list to target critics abroad, leak reveals - BBC",
-      "pubDate": "Mon, 26 Jan 2026 00:15:03 GMT"
-    },
     {
       "title": "Troop Casualties in Ukraine War Near 2 Million, Study Finds - The New York Times",
       "pubDate": "Tue, 27 Jan 2026 17:54:11 GMT"
@@ -711,14 +699,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Climate Change Threatening Future of Winter Olympics - RealClearEnergy",
-      "pubDate": "Mon, 26 Jan 2026 05:26:36 GMT"
-    },
-    {
-      "title": "Termination shock could make the cost of climate damage even higher - New Scientist",
-      "pubDate": "Mon, 26 Jan 2026 12:01:14 GMT"
-    },
-    {
       "title": "How Does Climate Change Affect Winter Storms? - The New York Times",
       "pubDate": "Mon, 26 Jan 2026 23:12:42 GMT"
     },
@@ -901,19 +881,11 @@
   ],
   "Cybersecurity and Infrastructure Security Agency": [
     {
-      "title": "CISA Warns of Actively Exploited Critical VMware vCenter RCE Vulnerability - Cyber Press",
-      "pubDate": "Mon, 26 Jan 2026 07:25:55 GMT"
-    },
-    {
       "title": "After major Poland energy grid cyberattack, CISA issues warning to U.S. audience - CyberScoop",
       "pubDate": "Tue, 10 Feb 2026 16:04:46 GMT"
     }
   ],
   "Hacking": [
-    {
-      "title": "Researchers say Russian government hackers were behind attempted Poland power outage - TechRadar",
-      "pubDate": "Mon, 26 Jan 2026 11:20:00 GMT"
-    },
     {
       "title": "China hacked Downing Street phones for years - The Telegraph",
       "pubDate": "Mon, 26 Jan 2026 19:17:00 GMT"
@@ -928,10 +900,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "A Winter Lull in the Fighting? Not in the Age of Drone Warfare. - The New York Times",
-      "pubDate": "Mon, 26 Jan 2026 10:00:27 GMT"
-    },
     {
       "title": "Russian drones injure Ukrainian children and a pregnant woman as Zelenskyy urges swifter diplomacy - The Hill",
       "pubDate": "Tue, 27 Jan 2026 10:32:00 GMT"
@@ -972,10 +940,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "Impeachment, hearings, shutdown: DHS and ICE are under siege by Congress like never before - Axios",
-      "pubDate": "Mon, 26 Jan 2026 02:50:28 GMT"
-    },
     {
       "title": "Funding deal begins to unravel as Senate Democrats vow to oppose DHS bill over Alex Pretti shooting in Minnesota - PBS",
       "pubDate": "Mon, 26 Jan 2026 14:53:37 GMT"
@@ -1091,10 +1055,6 @@
   ],
   "BRICS": [
     {
-      "title": "Berliner Zeitung: BRICS will launch its payment system \u2014 sanctions will become useless - EADaily",
-      "pubDate": "Mon, 26 Jan 2026 08:15:00 GMT"
-    },
-    {
       "title": "BRICS Payment Settlement: The Quest and Implications - Modern Diplomacy",
       "pubDate": "Wed, 28 Jan 2026 23:00:52 GMT"
     }
@@ -1148,10 +1108,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Democrats vow to oppose homeland security funds after Minnesota shooting as shutdown risk grows - ABC News",
-      "pubDate": "Mon, 26 Jan 2026 08:14:44 GMT"
-    },
     {
       "title": "Democrats Vow Not to Fund ICE After Shooting, Imperiling Spending Deal - The New York Times",
       "pubDate": "Tue, 27 Jan 2026 15:59:57 GMT"
@@ -1232,10 +1188,6 @@
     }
   ],
   "AI Ethics": [
-    {
-      "title": "Deepfake \u2018Nudify\u2019 Technology Is Getting Darker\u2014and More Dangerous - WIRED",
-      "pubDate": "Mon, 26 Jan 2026 11:30:00 GMT"
-    },
     {
       "title": "Key Discovery Points: Understanding the Ethics of AI for the Rest of Us - JD Supra",
       "pubDate": "Fri, 30 Jan 2026 23:32:20 GMT"
@@ -1379,6 +1331,10 @@
     {
       "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - TechCrunch",
       "pubDate": "Tue, 24 Feb 2026 00:57:14 GMT"
+    },
+    {
+      "title": "Alignment Is Not About Values. It\u2019s About Error Detection - HackerNoon",
+      "pubDate": "Wed, 25 Feb 2026 04:50:45 GMT"
     }
   ],
   "NASA": [
@@ -1447,17 +1403,7 @@
       "pubDate": "Fri, 06 Feb 2026 18:02:44 GMT"
     }
   ],
-  "Outer Space": [
-    {
-      "title": "2.8 Days to Disaster: Low Earth Orbit Could Collapse Without Warning - SciTechDaily",
-      "pubDate": "Mon, 26 Jan 2026 03:01:21 GMT"
-    }
-  ],
   "Cyberattack": [
-    {
-      "title": "Enviro-Hub suffers from cyberattack - The Edge Singapore",
-      "pubDate": "Mon, 26 Jan 2026 09:50:34 GMT"
-    },
     {
       "title": "Nike Cyberattack: Company Probes Alleged 1.4TB Leak - The Cyber Express",
       "pubDate": "Tue, 27 Jan 2026 07:30:55 GMT"
@@ -1485,12 +1431,6 @@
     {
       "title": "Cyber Attack on Dutch Telecom Giant Odido Exposes Customer Data of 6.2 Million - CPO Magazine",
       "pubDate": "Wed, 18 Feb 2026 11:00:00 GMT"
-    }
-  ],
-  "Blockchain": [
-    {
-      "title": "Konni Hackers Deploy AI-Generated PowerShell Backdoor Against Blockchain Developers - The Hacker News",
-      "pubDate": "Mon, 26 Jan 2026 08:54:00 GMT"
     }
   ],
   "Social Media": [
