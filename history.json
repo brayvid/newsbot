@@ -143,6 +143,10 @@
     {
       "title": "US AI giant accuses Chinese rivals of mass data theft - The Guardian",
       "pubDate": "Mon, 23 Feb 2026 23:15:00 GMT"
+    },
+    {
+      "title": "Pentagon Gives A.I. Company an Ultimatum - The New York Times",
+      "pubDate": "Tue, 24 Feb 2026 23:09:48 GMT"
     }
   ],
   "Israel": [
@@ -444,10 +448,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI 'Swarms' Could Escalate Online Misinformation and Manipulation, Researchers Warn - Decrypt",
-      "pubDate": "Sun, 25 Jan 2026 20:01:02 GMT"
-    },
     {
       "title": "South Korea Enacts Global Milestone Of AI Safety Laws Including Covering Mental Health Impacts - Forbes",
       "pubDate": "Fri, 30 Jan 2026 08:15:00 GMT"
@@ -813,14 +813,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran opposition outlet says regime killed over 36,000 people on January 8-9 - timesofisrael.com",
-      "pubDate": "Sun, 25 Jan 2026 19:00:23 GMT"
-    },
-    {
-      "title": "Northern Command chief: IDF ready on all fronts if US attack on Iran sparks retaliation - timesofisrael.com",
-      "pubDate": "Sun, 25 Jan 2026 22:18:45 GMT"
-    },
-    {
       "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf - BBC",
       "pubDate": "Wed, 28 Jan 2026 18:58:42 GMT"
     },
@@ -963,14 +955,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "The Fed is expected to stand pat this week. The big question is for how long? - MarketWatch",
-      "pubDate": "Sun, 25 Jan 2026 20:13:00 GMT"
-    },
-    {
-      "title": "Japan Bond Crash Unleashes a $7 Trillion Risk for Global Markets - Bloomberg.com",
-      "pubDate": "Sun, 25 Jan 2026 22:00:31 GMT"
-    },
-    {
       "title": "Federal Reserve may keep rates unchanged for months as economy shows signs of health - clickondetroit.com",
       "pubDate": "Wed, 28 Jan 2026 11:51:07 GMT"
     },
@@ -981,6 +965,10 @@
     {
       "title": "Most want Supreme Court to rule against Trump on tariffs, Federal Reserve removal: Polling - The Hill",
       "pubDate": "Thu, 05 Feb 2026 17:09:00 GMT"
+    },
+    {
+      "title": "Federal Reserve governor warns AI could lead to rise in unemployment rate - The Hill",
+      "pubDate": "Tue, 24 Feb 2026 17:15:00 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1069,6 +1057,10 @@
     {
       "title": "FBI and Las Vegas police investigate suspected case of terrorism - The Guardian",
       "pubDate": "Sat, 21 Feb 2026 04:02:00 GMT"
+    },
+    {
+      "title": "Russia Moves Closer to Banning Telegram App, Saying It Foments Terrorism - The New York Times",
+      "pubDate": "Tue, 24 Feb 2026 17:22:39 GMT"
     }
   ],
   "Privacy": [
@@ -1108,10 +1100,6 @@
     }
   ],
   "Corruption": [
-    {
-      "title": "China launches corruption probe into top military commanders - Defence Blog",
-      "pubDate": "Sun, 25 Jan 2026 21:17:14 GMT"
-    },
     {
       "title": "Senior PEA officials exposed in crypto mining corruption scandal - Bangkok Post",
       "pubDate": "Tue, 27 Jan 2026 06:34:00 GMT"
@@ -1417,10 +1405,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "The Great AGI Divide: AI\u2019s Top Minds Clash in Davos Over Tech\u2019s Final Frontier - WebProNews",
-      "pubDate": "Sun, 25 Jan 2026 21:24:06 GMT"
-    },
-    {
       "title": "How China Caught Up on AI\u2014and May Now Win the Future - Time Magazine",
       "pubDate": "Tue, 27 Jan 2026 16:16:05 GMT"
     },
@@ -1603,6 +1587,10 @@
     {
       "title": "Tokyo involvement in Taiwan would amount to aggression against Beijing: UN envoy - South China Morning Post",
       "pubDate": "Thu, 19 Feb 2026 10:00:09 GMT"
+    },
+    {
+      "title": "Tim Cook Warned by CIA That China Could Move on Taiwan by 2027 - MacRumors",
+      "pubDate": "Tue, 24 Feb 2026 12:03:52 GMT"
     }
   ],
   "Automation": [
@@ -1921,12 +1909,20 @@
     {
       "title": "Japan's governing party on course for landslide election win - BBC",
       "pubDate": "Sun, 08 Feb 2026 16:52:15 GMT"
+    },
+    {
+      "title": "Drive to Unlock $840 Billion in Cash Lifts Japan Stocks Outlook - Bloomberg",
+      "pubDate": "Tue, 24 Feb 2026 22:00:00 GMT"
     }
   ],
   "Finance": [
     {
       "title": "Russian officials are warning Putin that a financial crisis could arrive this summer, report says - Fortune",
       "pubDate": "Sun, 08 Feb 2026 21:14:00 GMT"
+    },
+    {
+      "title": "Jamie Dimon warns markets resemble pre-financial crisis era: 'I see a couple of people doing some dumb things' - Yahoo Finance",
+      "pubDate": "Tue, 24 Feb 2026 13:37:19 GMT"
     }
   ],
   "Real Estate": [
@@ -2145,6 +2141,12 @@
     {
       "title": "Scientists engineer bacteria to eat cancer tumors from the inside out - ScienceDaily",
       "pubDate": "Tue, 24 Feb 2026 08:43:38 GMT"
+    }
+  ],
+  "Goldman Sachs": [
+    {
+      "title": "Goldman Sachs warns AI-fueled layoffs could raise the unemployment rate this year: Chart - Yahoo Finance",
+      "pubDate": "Tue, 24 Feb 2026 15:42:51 GMT"
     }
   ]
 }
