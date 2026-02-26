@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "European Union opens investigation into Elon Musk's AI chatbot Grok over sexual deepfakes - CBS News",
-      "pubDate": "Mon, 26 Jan 2026 22:51:00 GMT"
-    },
-    {
       "title": "Microsoft Pledged to Save Water. In the A.I. Era, It Expects Water Use to Soar. - The New York Times",
       "pubDate": "Tue, 27 Jan 2026 16:29:55 GMT"
     },
@@ -143,6 +139,10 @@
     {
       "title": "Pentagon Gives A.I. Company an Ultimatum - The New York Times",
       "pubDate": "Tue, 24 Feb 2026 23:09:48 GMT"
+    },
+    {
+      "title": "When Chatbots Are Used to Plan Violence, Is There a Duty to Warn? - The New York Times",
+      "pubDate": "Thu, 26 Feb 2026 10:33:19 GMT"
     }
   ],
   "Israel": [
@@ -153,13 +153,13 @@
     {
       "title": "Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say - NPR",
       "pubDate": "Fri, 20 Feb 2026 08:56:41 GMT"
+    },
+    {
+      "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows - BBC",
+      "pubDate": "Thu, 26 Feb 2026 06:01:11 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "US links security guarantees for Ukraine to peace deal ceding territory - Financial Times",
-      "pubDate": "Tue, 27 Jan 2026 05:00:17 GMT"
-    },
     {
       "title": "Russian drones kill 1 and injure children in Ukraine as Zelenskyy urges speedier diplomacy - ABC News",
       "pubDate": "Tue, 27 Jan 2026 13:10:18 GMT"
@@ -309,6 +309,10 @@
     {
       "title": "Russia accuses Ukraine of seeking to acquire nuclear weapon with help from UK and France - Reuters",
       "pubDate": "Tue, 24 Feb 2026 16:29:36 GMT"
+    },
+    {
+      "title": "Exclusive: Ukraine images indicate Russia used missile at heart of nuclear pact collapse - Reuters",
+      "pubDate": "Thu, 26 Feb 2026 07:46:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -433,6 +437,10 @@
     {
       "title": "China slams dozens of Japanese companies with export curbs - Financial Times",
       "pubDate": "Tue, 24 Feb 2026 08:35:07 GMT"
+    },
+    {
+      "title": "How China is masking drone flights in potential Taiwan rehearsal - Reuters",
+      "pubDate": "Thu, 26 Feb 2026 05:05:00 GMT"
     }
   ],
   "AI Safety": [
@@ -557,10 +565,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "AI-driven cyber war is near, Israel cyber chief warns - jpost.com",
-      "pubDate": "Tue, 27 Jan 2026 09:50:30 GMT"
-    },
-    {
       "title": "Trump\u2019s acting cyber chief uploaded sensitive files into a public version of ChatGPT - Politico",
       "pubDate": "Tue, 27 Jan 2026 20:30:00 GMT"
     },
@@ -649,6 +653,10 @@
     {
       "title": "Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means for global trade, U.S. economy - CNBC",
       "pubDate": "Mon, 23 Feb 2026 22:53:54 GMT"
+    },
+    {
+      "title": "IMF sees \u2018buoyant\u2019 US economy accelerating this year but warns of risks from tariffs, rising debt - WAVY.com",
+      "pubDate": "Wed, 25 Feb 2026 23:59:24 GMT"
     }
   ],
   "Earthquakes": [
@@ -694,14 +702,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "How Does Climate Change Affect Winter Storms? - The New York Times",
-      "pubDate": "Mon, 26 Jan 2026 23:12:42 GMT"
-    },
-    {
-      "title": "California's iconic Highway 1 is fighting a losing battle against climate change. Can it survive? - latimes.com",
-      "pubDate": "Tue, 27 Jan 2026 11:00:00 GMT"
-    },
     {
       "title": "Trump officially pulls US out of landmark Paris climate agreement for second time - The Independent",
       "pubDate": "Tue, 27 Jan 2026 15:52:00 GMT"
@@ -773,6 +773,10 @@
     {
       "title": "Uncertainties of enhanced rock weathering for climate-change mitigation - Nature",
       "pubDate": "Tue, 24 Feb 2026 08:47:41 GMT"
+    },
+    {
+      "title": "Tropical plants flowering months earlier or later because of climate crisis \u2013 study - The Guardian",
+      "pubDate": "Thu, 26 Feb 2026 02:30:00 GMT"
     }
   ],
   "National Security": [
@@ -883,10 +887,6 @@
   ],
   "Hacking": [
     {
-      "title": "China hacked Downing Street phones for years - The Telegraph",
-      "pubDate": "Mon, 26 Jan 2026 19:17:00 GMT"
-    },
-    {
       "title": "Hackers breach govt systems in 37 countries in vast spying plot - The Economic Times",
       "pubDate": "Mon, 09 Feb 2026 00:30:00 GMT"
     },
@@ -896,10 +896,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Russian drones injure Ukrainian children and a pregnant woman as Zelenskyy urges swifter diplomacy - The Hill",
-      "pubDate": "Tue, 27 Jan 2026 10:32:00 GMT"
-    },
     {
       "title": "Poland Inks $4.3 Billion Deal for \u2018Drone Wall\u2019 to Deter Russia - Bloomberg.com",
       "pubDate": "Fri, 30 Jan 2026 09:49:13 GMT"
@@ -936,10 +932,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "Border Patrol agents involved in shooting of Alex Pretti were wearing body cameras, DHS says - kstp.com",
-      "pubDate": "Tue, 27 Jan 2026 05:07:30 GMT"
-    },
     {
       "title": "Trump orders DHS to stay away from protests in Democratic-led cities unless federal help sought - Reuters",
       "pubDate": "Sat, 31 Jan 2026 21:13:47 GMT"
@@ -1051,12 +1043,6 @@
       "pubDate": "Wed, 28 Jan 2026 23:00:52 GMT"
     }
   ],
-  "Corruption": [
-    {
-      "title": "Senior PEA officials exposed in crypto mining corruption scandal - Bangkok Post",
-      "pubDate": "Tue, 27 Jan 2026 06:34:00 GMT"
-    }
-  ],
   "Public Health": [
     {
       "title": "In one South Carolina county, measles starts to feel like next pandemic - BBC",
@@ -1154,10 +1140,6 @@
     }
   ],
   "Geopolitics": [
-    {
-      "title": "North Korea test-launches 2 ballistic missiles toward sea, Japan and South Korea say - ABC News",
-      "pubDate": "Tue, 27 Jan 2026 11:44:53 GMT"
-    },
     {
       "title": "China\u2019s Xi and Russia\u2019s Putin hold talks by video - AP News",
       "pubDate": "Wed, 04 Feb 2026 10:02:00 GMT"
@@ -1389,10 +1371,6 @@
   ],
   "Cyberattack": [
     {
-      "title": "Nike Cyberattack: Company Probes Alleged 1.4TB Leak - The Cyber Express",
-      "pubDate": "Tue, 27 Jan 2026 07:30:55 GMT"
-    },
-    {
       "title": "EU Discloses January Cyberattack That Exposed Some Staff Data - bloomberg.com",
       "pubDate": "Fri, 06 Feb 2026 21:34:08 GMT"
     },
@@ -1418,10 +1396,6 @@
     }
   ],
   "Social Media": [
-    {
-      "title": "French MPs take first step to ban social media for under-15s - BBC",
-      "pubDate": "Mon, 26 Jan 2026 21:46:41 GMT"
-    },
     {
       "title": "Social Media Giants Face Landmark Legal Tests on Child Safety - The New York Times",
       "pubDate": "Tue, 27 Jan 2026 16:58:47 GMT"
@@ -1707,6 +1681,10 @@
     {
       "title": "Energy company develops massive 'bubble battery' that could revolutionize power grid: 'This is incredible' - The Cool Down",
       "pubDate": "Tue, 03 Feb 2026 05:40:00 GMT"
+    },
+    {
+      "title": "Leaving water in batteries nearly doubles energy storage - New Atlas",
+      "pubDate": "Thu, 26 Feb 2026 06:21:35 GMT"
     }
   ],
   "Elections": [
