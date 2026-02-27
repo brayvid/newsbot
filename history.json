@@ -157,14 +157,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russian air attack kills two in Kyiv region, Ukraine says - Reuters",
-      "pubDate": "Wed, 28 Jan 2026 07:45:00 GMT"
-    },
-    {
-      "title": "Russia says it's ready for Zelensky-Putin meeting \u2014 but only if Ukraine's president travels to Moscow - kyivindependent.com",
-      "pubDate": "Wed, 28 Jan 2026 13:47:03 GMT"
-    },
-    {
       "title": "Confusion in Kyiv and Moscow after Trump says Putin agreed to pause attacks for a week - NBC News",
       "pubDate": "Fri, 30 Jan 2026 17:02:05 GMT"
     },
@@ -226,10 +218,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Al-Sharaa meets Putin as Russia seeks to secure military bases in Syria - Al Jazeera",
-      "pubDate": "Wed, 28 Jan 2026 16:30:13 GMT"
-    },
     {
       "title": "15 Ukrainian miners killed in Russian drone strike on bus - CNN",
       "pubDate": "Sun, 01 Feb 2026 16:46:35 GMT"
@@ -378,10 +366,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Exclusive: China gives nod to ByteDance, Alibaba and Tencent to buy Nvidia's H200 chips - sources - Reuters",
-      "pubDate": "Wed, 28 Jan 2026 08:46:26 GMT"
-    },
     {
       "title": "Trump\u2019s Embrace of Weaker Dollar Gives China an Opening - Bloomberg.com",
       "pubDate": "Mon, 02 Feb 2026 10:59:02 GMT"
@@ -599,6 +583,10 @@
     {
       "title": "Ransomware Surges 49% as AI Makes Cyberattacks Faster and Easier, IBM Says - TipRanks",
       "pubDate": "Thu, 26 Feb 2026 19:52:27 GMT"
+    },
+    {
+      "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses - WIRED",
+      "pubDate": "Fri, 27 Feb 2026 10:00:00 GMT"
     }
   ],
   "US Economy": [
@@ -660,10 +648,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Updates: Gaza under Israel fire as \u2018desperate\u2019 Palestinians seek supplies - Al Jazeera",
-      "pubDate": "Wed, 28 Jan 2026 13:20:44 GMT"
-    },
     {
       "title": "Updates: Israel kills 31, including children, in Gaza ceasefire violation - Al Jazeera",
       "pubDate": "Sat, 31 Jan 2026 20:01:29 GMT"
@@ -757,6 +741,10 @@
     {
       "title": "California Becomes First State To Require Climate Change Reporting - Forbes",
       "pubDate": "Fri, 27 Feb 2026 01:44:02 GMT"
+    },
+    {
+      "title": "Study: Grasslands could shrink by half due to climate change - CNN",
+      "pubDate": "Fri, 27 Feb 2026 09:18:55 GMT"
     }
   ],
   "National Security": [
@@ -895,10 +883,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "Federal Reserve may keep rates unchanged for months as economy shows signs of health - clickondetroit.com",
-      "pubDate": "Wed, 28 Jan 2026 11:51:07 GMT"
-    },
-    {
       "title": "Trump nominates Kevin Warsh as new Federal Reserve chair - BBC",
       "pubDate": "Fri, 30 Jan 2026 15:22:30 GMT"
     },
@@ -971,10 +955,6 @@
   ],
   "Terrorism": [
     {
-      "title": "Russia strikes civilian train in Ukraine, killing five, in an attack Zelensky calls \u2018terrorism\u2019 - CNN",
-      "pubDate": "Wed, 28 Jan 2026 10:34:23 GMT"
-    },
-    {
       "title": "Westminster man pleads guilty to federal terrorism charge - The Denver Post",
       "pubDate": "Fri, 06 Feb 2026 20:41:24 GMT"
     },
@@ -1027,6 +1007,10 @@
     {
       "title": "In one South Carolina county, measles starts to feel like next pandemic - BBC",
       "pubDate": "Fri, 30 Jan 2026 11:32:26 GMT"
+    },
+    {
+      "title": "The US has surpassed 1,100 measles cases in two months. Expect more deaths next - CNN",
+      "pubDate": "Fri, 27 Feb 2026 15:17:18 GMT"
     }
   ],
   "NVIDIA": [
@@ -1113,6 +1097,10 @@
     {
       "title": "Physicists may have found the missing link for quantum computers - EurekAlert!",
       "pubDate": "Fri, 20 Feb 2026 14:48:26 GMT"
+    },
+    {
+      "title": "Researchers may have observed triplet superconductivity - the holy grail in quantum computing - The Brighter Side of News",
+      "pubDate": "Fri, 27 Feb 2026 15:07:00 GMT"
     }
   ],
   "Geopolitics": [
@@ -1895,6 +1883,10 @@
     {
       "title": "Columbia University says US immigration agents lied to detain student - Al Jazeera",
       "pubDate": "Thu, 26 Feb 2026 22:12:44 GMT"
+    },
+    {
+      "title": "911 calls capture kids burning with fever, struggling to breathe at ICE detention center - NBC News",
+      "pubDate": "Fri, 27 Feb 2026 10:00:00 GMT"
     }
   ],
   "Unemployment": [
@@ -2035,6 +2027,10 @@
     {
       "title": "World's largest radio telescope array pierces heart of our Milky Way: 'This is just the beginning' - Space",
       "pubDate": "Wed, 25 Feb 2026 13:00:00 GMT"
+    },
+    {
+      "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe - ScienceDaily",
+      "pubDate": "Fri, 27 Feb 2026 17:16:36 GMT"
     }
   ],
   "World Economy": [
@@ -2047,6 +2043,12 @@
     {
       "title": "Superagers' brains have a 'resilience signature,' and it's all about neuron growth - Medical Xpress",
       "pubDate": "Wed, 25 Feb 2026 16:00:01 GMT"
+    }
+  ],
+  "Medicine": [
+    {
+      "title": "Scientists turn methane into medicine in stunning breakthrough - ScienceDaily",
+      "pubDate": "Fri, 27 Feb 2026 15:53:35 GMT"
     }
   ]
 }
