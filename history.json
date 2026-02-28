@@ -139,6 +139,10 @@
     {
       "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times",
       "pubDate": "Sat, 28 Feb 2026 03:49:20 GMT"
+    },
+    {
+      "title": "Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life. - The Guardian",
+      "pubDate": "Sat, 28 Feb 2026 10:00:00 GMT"
     }
   ],
   "Israel": [
@@ -587,6 +591,10 @@
     {
       "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses - WIRED",
       "pubDate": "Fri, 27 Feb 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Social Security numbers of over 1.2M \u2018potentially\u2019 exposed in UH cyberattack - Honolulu Star-Advertiser",
+      "pubDate": "Sat, 28 Feb 2026 10:07:14 GMT"
     }
   ],
   "US Economy": [
@@ -741,6 +749,10 @@
     {
       "title": "Study: Grasslands could shrink by half due to climate change - CNN",
       "pubDate": "Fri, 27 Feb 2026 09:18:55 GMT"
+    },
+    {
+      "title": "A Tiny Caribbean Island Sued the Netherlands Over Climate Change, and Won - Inside Climate News",
+      "pubDate": "Sat, 28 Feb 2026 09:50:00 GMT"
     }
   ],
   "National Security": [
@@ -815,6 +827,10 @@
     {
       "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme - BBC",
       "pubDate": "Fri, 27 Feb 2026 22:21:35 GMT"
+    },
+    {
+      "title": "Iran targeted with cyberattacks as Israel and US carry out strikes - The Times of Israel",
+      "pubDate": "Sat, 28 Feb 2026 08:04:04 GMT"
     }
   ],
   "Climate": [
@@ -1679,6 +1695,10 @@
     {
       "title": "TSMC to make advanced AI semiconductors in Japan in boost for its chipmaking ambitions - The Tribune-Democrat",
       "pubDate": "Thu, 05 Feb 2026 10:41:00 GMT"
+    },
+    {
+      "title": "India\u2019s semiconductor market to hit $103 billlion by 2030, fuelled by AI, EVs, and defence - The Economic Times",
+      "pubDate": "Sat, 28 Feb 2026 06:11:16 GMT"
     }
   ],
   "Economic": [
@@ -2027,6 +2047,18 @@
     {
       "title": "Scientists turn methane into medicine in stunning breakthrough - ScienceDaily",
       "pubDate": "Fri, 27 Feb 2026 15:53:35 GMT"
+    }
+  ],
+  "Renewable Energy": [
+    {
+      "title": "Google is building the world\u2019s largest battery system with a massive 100 hours of power in Minnesota - Fortune",
+      "pubDate": "Sat, 28 Feb 2026 07:58:00 GMT"
+    }
+  ],
+  "Biology": [
+    {
+      "title": "Scientists discover microbe that breaks a fundamental rule of the genetic code - ScienceDaily",
+      "pubDate": "Sat, 28 Feb 2026 06:49:30 GMT"
     }
   ]
 }
