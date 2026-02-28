@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Artificial intelligence will cost jobs, admits Liz Kendall - The Guardian",
-      "pubDate": "Wed, 28 Jan 2026 18:33:00 GMT"
-    },
-    {
       "title": "Exclusive: China conditionally approves DeepSeek to buy Nvidia's H200 chips - sources - Reuters",
       "pubDate": "Fri, 30 Jan 2026 06:51:00 GMT"
     },
@@ -139,6 +135,10 @@
     {
       "title": "When Chatbots Are Used to Plan Violence, Is There a Duty to Warn? - The New York Times",
       "pubDate": "Thu, 26 Feb 2026 10:33:19 GMT"
+    },
+    {
+      "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times",
+      "pubDate": "Sat, 28 Feb 2026 03:49:20 GMT"
     }
   ],
   "Israel": [
@@ -293,10 +293,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump Live Updates: Rubio Testifies on Venezuela, President Threatens Iran - The New York Times",
-      "pubDate": "Wed, 28 Jan 2026 23:40:10 GMT"
-    },
-    {
       "title": "Updates: Trump doubles down on Iran threats as US puts more sanctions - Al Jazeera",
       "pubDate": "Fri, 30 Jan 2026 20:32:18 GMT"
     },
@@ -409,6 +405,10 @@
     {
       "title": "How China is masking drone flights in potential Taiwan rehearsal - Reuters",
       "pubDate": "Thu, 26 Feb 2026 05:05:00 GMT"
+    },
+    {
+      "title": "Former U.S. Air Force Officer Is Accused of Training Chinese Military Pilots - The New York Times",
+      "pubDate": "Sat, 28 Feb 2026 05:06:32 GMT"
     }
   ],
   "AI Safety": [
@@ -667,10 +667,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Dutch Court Orders Netherlands to Protect Bonaire From Climate Change - The New York Times",
-      "pubDate": "Wed, 28 Jan 2026 20:34:47 GMT"
-    },
-    {
       "title": "Climate Litigation Updates (January 30, 2026) - Sabin Center for Climate Change Law",
       "pubDate": "Fri, 30 Jan 2026 03:13:47 GMT"
     },
@@ -761,14 +757,6 @@
   ],
   "Iran": [
     {
-      "title": "Trump warns Iran 'time is running out' for nuclear deal as US military builds up in Gulf - BBC",
-      "pubDate": "Wed, 28 Jan 2026 18:58:42 GMT"
-    },
-    {
-      "title": "Iran threatens to hit \u2018heart of Tel Aviv\u2019 in response to any US attack - timesofisrael.com",
-      "pubDate": "Wed, 28 Jan 2026 21:18:00 GMT"
-    },
-    {
       "title": "Updates: Iran announces naval drills near US warships amid tension - Al Jazeera",
       "pubDate": "Sat, 31 Jan 2026 06:36:12 GMT"
     },
@@ -823,6 +811,10 @@
     {
       "title": "Exclusive: Iran nears deal to buy supersonic anti-ship missiles from China - Reuters",
       "pubDate": "Tue, 24 Feb 2026 09:44:55 GMT"
+    },
+    {
+      "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme - BBC",
+      "pubDate": "Fri, 27 Feb 2026 22:21:35 GMT"
     }
   ],
   "Climate": [
@@ -951,6 +943,10 @@
     {
       "title": "White House plays hardball with Democrats over DHS shutdown - The Hill",
       "pubDate": "Tue, 24 Feb 2026 11:00:00 GMT"
+    },
+    {
+      "title": "DHS funding impasse here to stay as administration ratchets up pressure - Politico",
+      "pubDate": "Sat, 28 Feb 2026 00:30:00 GMT"
     }
   ],
   "Terrorism": [
@@ -997,12 +993,6 @@
       "pubDate": "Sat, 21 Feb 2026 15:23:17 GMT"
     }
   ],
-  "BRICS": [
-    {
-      "title": "BRICS Payment Settlement: The Quest and Implications - Modern Diplomacy",
-      "pubDate": "Wed, 28 Jan 2026 23:00:52 GMT"
-    }
-  ],
   "Public Health": [
     {
       "title": "In one South Carolina county, measles starts to feel like next pandemic - BBC",
@@ -1011,12 +1001,6 @@
     {
       "title": "The US has surpassed 1,100 measles cases in two months. Expect more deaths next - CNN",
       "pubDate": "Fri, 27 Feb 2026 15:17:18 GMT"
-    }
-  ],
-  "NVIDIA": [
-    {
-      "title": "Nvidia, Microsoft, Amazon in talks to invest up to $60 billion in OpenAI, The Information reports - Reuters",
-      "pubDate": "Thu, 29 Jan 2026 03:49:00 GMT"
     }
   ],
   "The Pentagon": [
@@ -1050,10 +1034,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Trump and Schumer Move Toward Possible Deal to Avert a Shutdown - The New York Times",
-      "pubDate": "Thu, 29 Jan 2026 04:19:22 GMT"
-    },
     {
       "title": "Senate passes $1.2T government funding deal \u2014 but a brief shutdown is certain - Politico",
       "pubDate": "Sat, 31 Jan 2026 00:28:38 GMT"
@@ -1173,6 +1153,10 @@
     {
       "title": "Anthropic refuses Pentagon\u2019s new terms, standing firm on lethal autonomous weapons and mass surveillance - The Verge",
       "pubDate": "Thu, 26 Feb 2026 23:22:44 GMT"
+    },
+    {
+      "title": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI - The Guardian",
+      "pubDate": "Fri, 27 Feb 2026 21:47:00 GMT"
     }
   ],
   "Space Exploration": [
@@ -1269,12 +1253,10 @@
     {
       "title": "NASA finds Earth\u2019s magnetic field may be the hidden reason oxygen has lasted for millions of years - Times of India",
       "pubDate": "Tue, 10 Feb 2026 02:30:00 GMT"
-    }
-  ],
-  "Bitcoin": [
+    },
     {
-      "title": "Bitcoin price news: BTC stuck at $89,000 as gold surges to fresh record - CoinDesk",
-      "pubDate": "Wed, 28 Jan 2026 21:39:19 GMT"
+      "title": "NASA announces major overhaul to its Artemis moon program - NBC News",
+      "pubDate": "Fri, 27 Feb 2026 22:43:47 GMT"
     }
   ],
   "Large Language Models": [
@@ -1367,18 +1349,6 @@
     {
       "title": "Mark Zuckerberg Takes the Stand in Social Media Addiction Trial - The New York Times",
       "pubDate": "Thu, 19 Feb 2026 02:14:22 GMT"
-    }
-  ],
-  "United Nations Security Council": [
-    {
-      "title": "Somalia chairs U.N. Security Council for first time since 1972 - hiiraan.com",
-      "pubDate": "Wed, 28 Jan 2026 20:27:26 GMT"
-    }
-  ],
-  "James Webb Space Telescope": [
-    {
-      "title": "Dark matter shown in newest images from James Webb Space Telescope - USA Today",
-      "pubDate": "Thu, 29 Jan 2026 02:35:00 GMT"
     }
   ],
   "Government Shutdown": [
@@ -1613,6 +1583,10 @@
     {
       "title": "Bill Gates apologizes to Gates Foundation staff over Epstein ties, admits to having affairs - CBS News",
       "pubDate": "Wed, 25 Feb 2026 16:23:13 GMT"
+    },
+    {
+      "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes - BBC",
+      "pubDate": "Sat, 28 Feb 2026 03:43:56 GMT"
     }
   ],
   "Energy Storage": [
