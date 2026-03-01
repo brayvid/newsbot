@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Exclusive: China conditionally approves DeepSeek to buy Nvidia's H200 chips - sources - Reuters",
-      "pubDate": "Fri, 30 Jan 2026 06:51:00 GMT"
-    },
-    {
       "title": "Trump\u2019s AI push exposes a divide in the MAGA movement - CNN",
       "pubDate": "Mon, 02 Feb 2026 10:00:46 GMT"
     },
@@ -417,10 +413,6 @@
   ],
   "AI Safety": [
     {
-      "title": "South Korea Enacts Global Milestone Of AI Safety Laws Including Covering Mental Health Impacts - Forbes",
-      "pubDate": "Fri, 30 Jan 2026 08:15:00 GMT"
-    },
-    {
       "title": "NIOSH Issues Guidance on Managing AI Safety Risks in the Workplace - Lab Manager",
       "pubDate": "Fri, 30 Jan 2026 13:01:06 GMT"
     },
@@ -519,6 +511,10 @@
     {
       "title": "Meta Director of AI Safety Allows AI Agent to Accidentally Delete Her Inbox - 404 Media",
       "pubDate": "Mon, 23 Feb 2026 20:04:13 GMT"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei pushes back against Donald Trump administration in CBS News interview over AI military access dispute. In a CBS News exclusive, Anthropic CEO Dario Amodei said the U.S. government\u2019s decision to label the company a nation - LinkedIn",
+      "pubDate": "Sun, 01 Mar 2026 11:33:05 GMT"
     }
   ],
   "Data Breach": [
@@ -633,6 +629,10 @@
     {
       "title": "IMF sees \u2018buoyant\u2019 US economy accelerating this year but warns of risks from tariffs, rising debt - WAVY.com",
       "pubDate": "Wed, 25 Feb 2026 23:59:24 GMT"
+    },
+    {
+      "title": "Trump is accelerating the world\u2019s slow drift from dollar dominance | Heather Stewart - The Guardian",
+      "pubDate": "Sun, 01 Mar 2026 10:49:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -674,10 +674,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Climate Litigation Updates (January 30, 2026) - Sabin Center for Climate Change Law",
-      "pubDate": "Fri, 30 Jan 2026 03:13:47 GMT"
-    },
     {
       "title": "Fossil fuel firms may have to pay for climate damage under proposed UN tax - The Guardian",
       "pubDate": "Sun, 01 Feb 2026 12:02:00 GMT"
@@ -831,6 +827,10 @@
     {
       "title": "Iran targeted with cyberattacks as Israel and US carry out strikes - The Times of Israel",
       "pubDate": "Sat, 28 Feb 2026 08:04:04 GMT"
+    },
+    {
+      "title": "Live updates: Trump urges regime change as Iran's supreme leader is killed after U.S., Israel attack - NBC News",
+      "pubDate": "Sun, 01 Mar 2026 11:29:22 GMT"
     }
   ],
   "Climate": [
@@ -872,10 +872,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Poland Inks $4.3 Billion Deal for \u2018Drone Wall\u2019 to Deter Russia - Bloomberg.com",
-      "pubDate": "Fri, 30 Jan 2026 09:49:13 GMT"
-    },
     {
       "title": "US fighter jet shoots down Iranian drone approaching US aircraft carrier - ABC News",
       "pubDate": "Tue, 03 Feb 2026 18:56:15 GMT"
@@ -1011,10 +1007,6 @@
   ],
   "Public Health": [
     {
-      "title": "In one South Carolina county, measles starts to feel like next pandemic - BBC",
-      "pubDate": "Fri, 30 Jan 2026 11:32:26 GMT"
-    },
-    {
       "title": "The US has surpassed 1,100 measles cases in two months. Expect more deaths next - CNN",
       "pubDate": "Fri, 27 Feb 2026 15:17:18 GMT"
     }
@@ -1027,6 +1019,10 @@
     {
       "title": "Pentagon Flags Risks of a Major Operation Against Iran - WSJ",
       "pubDate": "Mon, 23 Feb 2026 21:35:00 GMT"
+    },
+    {
+      "title": "At the Pentagon, OpenAI is In and Anthropic Is Out - The New York Times",
+      "pubDate": "Sun, 01 Mar 2026 00:13:05 GMT"
     }
   ],
   "Democratic Party": [
@@ -1097,6 +1093,10 @@
     {
       "title": "Researchers may have observed triplet superconductivity - the holy grail in quantum computing - The Brighter Side of News",
       "pubDate": "Fri, 27 Feb 2026 15:07:00 GMT"
+    },
+    {
+      "title": "Large-scale ion-trap quantum computing systems inch closer to reality with US\u2019 new breakthrough - Interesting Engineering",
+      "pubDate": "Sun, 01 Mar 2026 06:23:00 GMT"
     }
   ],
   "Geopolitics": [
@@ -1369,10 +1369,6 @@
   ],
   "Government Shutdown": [
     {
-      "title": "Live updates: Democrats and White House reach deal to avert shutdown and fund Homeland Security for now - AP News",
-      "pubDate": "Thu, 29 Jan 2026 23:37:00 GMT"
-    },
-    {
       "title": "Government Shutdown Update: Here\u2019s When It Could End, According To House Leaders - Forbes",
       "pubDate": "Sun, 01 Feb 2026 15:54:13 GMT"
     },
@@ -1395,10 +1391,6 @@
   ],
   "Taiwan": [
     {
-      "title": "Xi\u2019s Military Purge May Set Back His Taiwan Ambitions - The New York Times",
-      "pubDate": "Fri, 30 Jan 2026 08:40:00 GMT"
-    },
-    {
       "title": "US must be prudent when supplying arms to Taiwan, Xi tells Trump - BBC",
       "pubDate": "Thu, 05 Feb 2026 08:36:16 GMT"
     },
@@ -1413,12 +1405,6 @@
     {
       "title": "Tim Cook Warned by CIA That China Could Move on Taiwan by 2027 - MacRumors",
       "pubDate": "Tue, 24 Feb 2026 12:03:52 GMT"
-    }
-  ],
-  "Automation": [
-    {
-      "title": "Physical AI becomes central to LG\u2019s robotics and automation ambitions - Digital Watch Observatory",
-      "pubDate": "Fri, 30 Jan 2026 08:35:00 GMT"
     }
   ],
   "Department of Justice": [
@@ -2059,6 +2045,18 @@
     {
       "title": "Scientists discover microbe that breaks a fundamental rule of the genetic code - ScienceDaily",
       "pubDate": "Sat, 28 Feb 2026 06:49:30 GMT"
+    }
+  ],
+  "Power Grid": [
+    {
+      "title": "Exclusive | A New Threat to Power Grids: Data Centers Unplugging at Once - WSJ",
+      "pubDate": "Sun, 01 Mar 2026 10:30:00 GMT"
+    }
+  ],
+  "Measles": [
+    {
+      "title": "Measles outbreaks are costing the U.S. millions of dollars. The true losses can't be counted. - NBC News",
+      "pubDate": "Sun, 01 Mar 2026 11:00:00 GMT"
     }
   ]
 }
