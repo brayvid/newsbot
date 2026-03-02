@@ -139,6 +139,10 @@
     {
       "title": "Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life. - The Guardian",
       "pubDate": "Sat, 28 Feb 2026 10:00:00 GMT"
+    },
+    {
+      "title": "SAP CEO Klein Reorganizes Board to Focus on Developing AI - Bloomberg.com",
+      "pubDate": "Mon, 02 Mar 2026 12:54:24 GMT"
     }
   ],
   "Israel": [
@@ -156,10 +160,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Confusion in Kyiv and Moscow after Trump says Putin agreed to pause attacks for a week - NBC News",
-      "pubDate": "Fri, 30 Jan 2026 17:02:05 GMT"
-    },
     {
       "title": "Twelve miners killed by Russian strike in Ukraine, officials say - BBC",
       "pubDate": "Mon, 02 Feb 2026 07:00:55 GMT"
@@ -293,14 +293,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Updates: Trump doubles down on Iran threats as US puts more sanctions - Al Jazeera",
-      "pubDate": "Fri, 30 Jan 2026 20:32:18 GMT"
-    },
-    {
-      "title": "Trump taps Fed critic Kevin Warsh to succeed Jerome Powell as chairman - The Washington Post",
-      "pubDate": "Sat, 31 Jan 2026 00:51:40 GMT"
-    },
-    {
       "title": "After Republicans push Clintons to testify on Epstein, Democrats warn they'll haul in Trump - NBC News",
       "pubDate": "Tue, 03 Feb 2026 21:05:00 GMT"
     },
@@ -413,14 +405,6 @@
   ],
   "AI Safety": [
     {
-      "title": "NIOSH Issues Guidance on Managing AI Safety Risks in the Workplace - Lab Manager",
-      "pubDate": "Fri, 30 Jan 2026 13:01:06 GMT"
-    },
-    {
-      "title": "AI Chatbots Named Top Health Tech Danger for 2026, Safety Group Warns - MyChesCo",
-      "pubDate": "Sat, 31 Jan 2026 01:00:00 GMT"
-    },
-    {
       "title": "U.S. Withholds Support From Global AI Safety Report - AOL.com",
       "pubDate": "Tue, 03 Feb 2026 05:30:19 GMT"
     },
@@ -515,6 +499,10 @@
     {
       "title": "Anthropic CEO Dario Amodei pushes back against Donald Trump administration in CBS News interview over AI military access dispute. In a CBS News exclusive, Anthropic CEO Dario Amodei said the U.S. government\u2019s decision to label the company a nation - LinkedIn",
       "pubDate": "Sun, 01 Mar 2026 11:33:05 GMT"
+    },
+    {
+      "title": "Treasury terminates Anthropic AI use after Trump's order - Axios",
+      "pubDate": "Mon, 02 Mar 2026 17:07:54 GMT"
     }
   ],
   "Data Breach": [
@@ -529,6 +517,10 @@
     {
       "title": "PayPal Data Breach Confirmed\u2014Money Was Stolen, Passwords Now Reset - Forbes",
       "pubDate": "Sat, 21 Feb 2026 12:55:00 GMT"
+    },
+    {
+      "title": "Data Breach Exposes 25 Million Americans in What Texas Calls the Largest US Hack in History - Yahoo",
+      "pubDate": "Mon, 02 Mar 2026 15:25:55 GMT"
     }
   ],
   "Cybersecurity": [
@@ -749,6 +741,10 @@
     {
       "title": "A Tiny Caribbean Island Sued the Netherlands Over Climate Change, and Won - Inside Climate News",
       "pubDate": "Sat, 28 Feb 2026 09:50:00 GMT"
+    },
+    {
+      "title": "A Crisis in the Alps: Airbnb, Climate Change and Americans - The New York Times",
+      "pubDate": "Mon, 02 Mar 2026 10:00:47 GMT"
     }
   ],
   "National Security": [
@@ -764,10 +760,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Updates: Iran announces naval drills near US warships amid tension - Al Jazeera",
-      "pubDate": "Sat, 31 Jan 2026 06:36:12 GMT"
-    },
     {
       "title": "Exclusive: Iran fears US strike may reignite protests, imperil rule, sources say - Reuters",
       "pubDate": "Mon, 02 Feb 2026 17:33:33 GMT"
@@ -887,10 +879,6 @@
   ],
   "Federal Reserve": [
     {
-      "title": "Trump nominates Kevin Warsh as new Federal Reserve chair - BBC",
-      "pubDate": "Fri, 30 Jan 2026 15:22:30 GMT"
-    },
-    {
       "title": "Most want Supreme Court to rule against Trump on tariffs, Federal Reserve removal: Polling - The Hill",
       "pubDate": "Thu, 05 Feb 2026 17:09:00 GMT"
     },
@@ -987,10 +975,6 @@
   ],
   "United Nations": [
     {
-      "title": "UN risks 'imminent financial collapse', secretary general warns - BBC",
-      "pubDate": "Fri, 30 Jan 2026 16:24:18 GMT"
-    },
-    {
       "title": "UN warns! The world is entering \u2018water bankruptcy\u2019 and billions could be in serious danger - The Times of India",
       "pubDate": "Sat, 21 Feb 2026 06:59:00 GMT"
     }
@@ -1046,10 +1030,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Senate passes $1.2T government funding deal \u2014 but a brief shutdown is certain - Politico",
-      "pubDate": "Sat, 31 Jan 2026 00:28:38 GMT"
-    },
     {
       "title": "Donald Trump signs bill to end partial US government shutdown - Financial Times",
       "pubDate": "Tue, 03 Feb 2026 20:31:34 GMT"
@@ -1119,10 +1099,6 @@
   ],
   "AI Ethics": [
     {
-      "title": "Key Discovery Points: Understanding the Ethics of AI for the Rest of Us - JD Supra",
-      "pubDate": "Fri, 30 Jan 2026 23:32:20 GMT"
-    },
-    {
       "title": "Google helped Israeli military contractor with AI, whistleblower alleges - The Washington Post",
       "pubDate": "Sun, 01 Feb 2026 17:31:50 GMT"
     },
@@ -1177,10 +1153,6 @@
   ],
   "Space Exploration": [
     {
-      "title": "NASA delays the first Artemis moonshot with astronauts because of extreme cold at the launch site - ABC News",
-      "pubDate": "Sat, 31 Jan 2026 08:46:59 GMT"
-    },
-    {
       "title": "Artemis II astronaut Christina Koch will see Earth like no human has before - Axios",
       "pubDate": "Tue, 03 Feb 2026 11:02:38 GMT"
     },
@@ -1209,12 +1181,6 @@
     {
       "title": "Risks Rise for Bitcoin, Gold, and Silver as Goldman Sachs Warns $80 Billion in Stock Selling - Yahoo Finance",
       "pubDate": "Sun, 08 Feb 2026 21:13:15 GMT"
-    }
-  ],
-  "Investment": [
-    {
-      "title": "Nvidia CEO Huang denies he is unhappy with OpenAI, says 'huge' investment planned at 'trillion-dollar dinner' - CNBC",
-      "pubDate": "Sat, 31 Jan 2026 14:36:51 GMT"
     }
   ],
   "Elon Musk": [
@@ -1409,18 +1375,6 @@
   ],
   "Department of Justice": [
     {
-      "title": "Justice Dept. Opens Civil Rights Investigation Into ICE Killing of Alex Pretti: Minnesota Live Updates - The New York Times",
-      "pubDate": "Fri, 30 Jan 2026 17:44:45 GMT"
-    },
-    {
-      "title": "DOJ releases tranche of Epstein files, says it has met its legal obligations - NPR",
-      "pubDate": "Fri, 30 Jan 2026 22:32:13 GMT"
-    },
-    {
-      "title": "January 30, 2026 \u2014 DOJ releases millions of pages of documents in Epstein investigation - CNN",
-      "pubDate": "Sat, 31 Jan 2026 04:15:03 GMT"
-    },
-    {
       "title": "Epstein victims' lawyers ask court to order DOJ to take down Epstein files website - ABC News",
       "pubDate": "Mon, 02 Feb 2026 02:48:45 GMT"
     },
@@ -1435,18 +1389,6 @@
     {
       "title": "Justice Department Exposed Cooperating Witnesses in Epstein Files - The New York Times - The New York Times",
       "pubDate": "Thu, 26 Feb 2026 19:15:28 GMT"
-    }
-  ],
-  "Trade War": [
-    {
-      "title": "Bombardier stock dives on Trump threats of 50% tariff on Canadian planes - Al Jazeera",
-      "pubDate": "Fri, 30 Jan 2026 17:31:42 GMT"
-    }
-  ],
-  "Space Debris": [
-    {
-      "title": "Out-of-control Chinese rocket crashes in ocean after UK prepped emergency alert - The Sun",
-      "pubDate": "Fri, 30 Jan 2026 12:25:00 GMT"
     }
   ],
   "Epstein Files": [
@@ -2057,6 +1999,12 @@
     {
       "title": "Measles outbreaks are costing the U.S. millions of dollars. The true losses can't be counted. - NBC News",
       "pubDate": "Sun, 01 Mar 2026 11:00:00 GMT"
+    }
+  ],
+  "War and Unrest": [
+    {
+      "title": "Live updates: Trump warns Iran about larger strikes as war spirals in Middle East - CNN",
+      "pubDate": "Mon, 02 Mar 2026 17:47:00 GMT"
     }
   ]
 }
