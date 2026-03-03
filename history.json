@@ -413,6 +413,10 @@
     {
       "title": "Former U.S. Air Force Officer Is Accused of Training Chinese Military Pilots - The New York Times",
       "pubDate": "Sat, 28 Feb 2026 05:06:32 GMT"
+    },
+    {
+      "title": "China Could Dominate the Physical AI Future - Time Magazine",
+      "pubDate": "Tue, 03 Mar 2026 11:24:36 GMT"
     }
   ],
   "AI Safety": [
@@ -657,6 +661,10 @@
     {
       "title": "Exclusive | OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago - The Wall Street Journal",
       "pubDate": "Sat, 21 Feb 2026 17:04:00 GMT"
+    },
+    {
+      "title": "OpenAI Amending Pentagon Agreement, CEO Altman Confirms - Meyka",
+      "pubDate": "Tue, 03 Mar 2026 09:34:10 GMT"
     }
   ],
   "Gaza": [
@@ -985,6 +993,10 @@
     {
       "title": "UN warns! The world is entering \u2018water bankruptcy\u2019 and billions could be in serious danger - The Times of India",
       "pubDate": "Sat, 21 Feb 2026 06:59:00 GMT"
+    },
+    {
+      "title": "UN urges investigation into 'horrific' attack on Iran school - Reuters",
+      "pubDate": "Tue, 03 Mar 2026 10:40:02 GMT"
     }
   ],
   "Nuclear Power": [
@@ -1066,10 +1078,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "New Discovery In Laser Technology Could Change Everything For Quantum Computing - bgr.com",
-      "pubDate": "Sun, 01 Feb 2026 11:17:00 GMT"
-    },
     {
       "title": "Record-breaking quantum simulator could unlock new materials - New Scientist",
       "pubDate": "Wed, 04 Feb 2026 16:01:35 GMT"
@@ -1259,6 +1267,10 @@
     {
       "title": "NASA announces major overhaul to its Artemis moon program - NBC News",
       "pubDate": "Fri, 27 Feb 2026 22:43:47 GMT"
+    },
+    {
+      "title": "NASA Announces Major Change to Plans For Putting Humans on The Moon - ScienceAlert",
+      "pubDate": "Tue, 03 Mar 2026 00:42:19 GMT"
     }
   ],
   "Large Language Models": [
@@ -1412,10 +1424,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Slovakia PM's national security adviser resigns over Epstein links - BBC",
-      "pubDate": "Sun, 01 Feb 2026 08:37:23 GMT"
-    },
     {
       "title": "Why are we not talking about Donald Trump in the Epstein files? | Trump100 - Sky News",
       "pubDate": "Tue, 03 Feb 2026 11:14:55 GMT"
@@ -2037,6 +2045,10 @@
     {
       "title": "Amazon says drone strikes damaged 3 facilities in UAE and Bahrain - CNBC",
       "pubDate": "Tue, 03 Mar 2026 01:44:00 GMT"
+    },
+    {
+      "title": "Exclusive: U.S. Marines fired on protesters storming consulate in Karachi, officials say - Reuters",
+      "pubDate": "Tue, 03 Mar 2026 02:15:00 GMT"
     }
   ],
   "US Supreme Court": [
@@ -2059,6 +2071,18 @@
     {
       "title": "AI Tools for Cancer Pathology May Rely on Hidden Shortcuts That Impact on Predictive Power - GEN - Genetic Engineering and Biotechnology News",
       "pubDate": "Mon, 02 Mar 2026 19:30:27 GMT"
+    }
+  ],
+  "US Treasury": [
+    {
+      "title": "US Treasury Releases New AI Risk Management Resources for Financial Institutions - Lexology",
+      "pubDate": "Tue, 03 Mar 2026 08:07:45 GMT"
+    }
+  ],
+  "Cryptography": [
+    {
+      "title": "Google Chrome Introduces Merkle Tree Certificates to Strengthen HTTPS Against Quantum Attacks - cyberpress.org",
+      "pubDate": "Tue, 03 Mar 2026 10:48:02 GMT"
     }
   ]
 }
