@@ -155,16 +155,16 @@
   ],
   "Israel": [
     {
-      "title": "Israel to ban MSF from working in Gaza over refusal to provide staff list - BBC",
-      "pubDate": "Sun, 01 Feb 2026 13:20:38 GMT"
-    },
-    {
       "title": "Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say - NPR",
       "pubDate": "Fri, 20 Feb 2026 08:56:41 GMT"
     },
     {
       "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows - BBC",
       "pubDate": "Thu, 26 Feb 2026 06:01:11 GMT"
+    },
+    {
+      "title": "Live Updates: U.S.-Israeli war with Iran spreads, as Iran's neighbors warn strikes won't \"go unanswered\" - CBS News",
+      "pubDate": "Tue, 03 Mar 2026 17:31:00 GMT"
     }
   ],
   "Ukraine": [
@@ -226,10 +226,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "15 Ukrainian miners killed in Russian drone strike on bus - CNN",
-      "pubDate": "Sun, 01 Feb 2026 16:46:35 GMT"
-    },
     {
       "title": "Russian hits Ukraine energy sites in 'most powerful blow\" so far this year - BBC",
       "pubDate": "Tue, 03 Feb 2026 13:17:53 GMT"
@@ -297,6 +293,10 @@
     {
       "title": "Exclusive: Ukraine images indicate Russia used missile at heart of nuclear pact collapse - Reuters",
       "pubDate": "Thu, 26 Feb 2026 07:46:00 GMT"
+    },
+    {
+      "title": "Zelensky fears Trump's Iran war could hurt Ukraine - BBC",
+      "pubDate": "Tue, 03 Mar 2026 13:41:43 GMT"
     }
   ],
   "Donald Trump": [
@@ -363,6 +363,10 @@
     {
       "title": "Live updates: Trump won\u2019t rule out ground forces in Iran; 6 U.S. service members killed since start of war - NBC News",
       "pubDate": "Mon, 02 Mar 2026 23:45:28 GMT"
+    },
+    {
+      "title": "Live updates: Israel hits Beirut and Tehran as Trump warns Iran of escalated strikes - CNN",
+      "pubDate": "Tue, 03 Mar 2026 17:21:00 GMT"
     }
   ],
   "China": [
@@ -417,6 +421,10 @@
     {
       "title": "China Could Dominate the Physical AI Future - Time Magazine",
       "pubDate": "Tue, 03 Mar 2026 11:24:36 GMT"
+    },
+    {
+      "title": "U.S. considers caps on Nvidia chips for China - Los Angeles Times",
+      "pubDate": "Tue, 03 Mar 2026 17:28:34 GMT"
     }
   ],
   "AI Safety": [
@@ -683,10 +691,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Fossil fuel firms may have to pay for climate damage under proposed UN tax - The Guardian",
-      "pubDate": "Sun, 01 Feb 2026 12:02:00 GMT"
-    },
-    {
       "title": "A Trump \u2018Blockade\u2019 Is Stalling Hundreds of Wind and Solar Projects Nationwide - The New York Times",
       "pubDate": "Wed, 04 Feb 2026 17:12:54 GMT"
     },
@@ -843,6 +847,10 @@
     {
       "title": "Live updates: Trump urges regime change as Iran's supreme leader is killed after U.S., Israel attack - NBC News",
       "pubDate": "Sun, 01 Mar 2026 11:29:22 GMT"
+    },
+    {
+      "title": "Live updates: US Gulf allies fend off attacks as Trump warns Iran of \u2018big wave\u2019 of strikes - CNN",
+      "pubDate": "Tue, 03 Mar 2026 11:40:00 GMT"
     }
   ],
   "Climate": [
@@ -1115,13 +1123,13 @@
     {
       "title": "US sends over 50 fighter jets near Iran amid nuclear talks - The Jerusalem Post",
       "pubDate": "Tue, 17 Feb 2026 18:11:52 GMT"
+    },
+    {
+      "title": "Iran Oil Disruption: Geopolitics and Global Energy Markets - VanEck",
+      "pubDate": "Tue, 03 Mar 2026 15:55:44 GMT"
     }
   ],
   "AI Ethics": [
-    {
-      "title": "Google helped Israeli military contractor with AI, whistleblower alleges - The Washington Post",
-      "pubDate": "Sun, 01 Feb 2026 17:31:50 GMT"
-    },
     {
       "title": "Inside Project Panama: 2 million books scanned and destroyed by Anthropic AI to train machines - Times of India",
       "pubDate": "Mon, 02 Feb 2026 21:42:00 GMT"
@@ -1366,10 +1374,6 @@
     }
   ],
   "Government Shutdown": [
-    {
-      "title": "Government Shutdown Update: Here\u2019s When It Could End, According To House Leaders - Forbes",
-      "pubDate": "Sun, 01 Feb 2026 15:54:13 GMT"
-    },
     {
       "title": "Speaker Johnson is moving to end the shutdown by Tuesday \u2014 without Democratic support - Axios",
       "pubDate": "Mon, 02 Feb 2026 04:24:29 GMT"
@@ -1617,6 +1621,10 @@
     {
       "title": "Live Updates: U.S. and Israel Conduct Strikes on Iran - The New York Times",
       "pubDate": "Sat, 28 Feb 2026 11:47:51 GMT"
+    },
+    {
+      "title": "Middle East crisis live: Israel launches fresh attacks on Tehran and Beirut - The Guardian",
+      "pubDate": "Tue, 03 Mar 2026 16:42:00 GMT"
     }
   ],
   "US Foreign Policy": [
