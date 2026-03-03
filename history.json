@@ -147,6 +147,10 @@
     {
       "title": "US Supreme Court declines to hear dispute over copyrights for AI-generated material - Reuters",
       "pubDate": "Mon, 02 Mar 2026 15:01:45 GMT"
+    },
+    {
+      "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times",
+      "pubDate": "Mon, 02 Mar 2026 21:16:00 GMT"
     }
   ],
   "Israel": [
@@ -1049,6 +1053,10 @@
     {
       "title": "National Governors Association meeting with Trump will not be held after Democrats uninvited - FOX 5 DC",
       "pubDate": "Tue, 10 Feb 2026 23:25:17 GMT"
+    },
+    {
+      "title": "Congress searches for shutdown off-ramp as DHS employees start missing pay - Government Executive",
+      "pubDate": "Mon, 02 Mar 2026 21:30:00 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -1175,6 +1183,10 @@
     {
       "title": "NASA will return Artemis moon rocket to hangar for more repairs - Los Angeles Times",
       "pubDate": "Sun, 22 Feb 2026 21:46:03 GMT"
+    },
+    {
+      "title": "Artemis, and the New Space Race: Mission delays underscore technical challenges as the United States and China compete to establish long-term dominance at the lunar south pole. - AAPG",
+      "pubDate": "Mon, 02 Mar 2026 23:30:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -1807,6 +1819,10 @@
     {
       "title": "Apple Ramps Up Work on Glasses, Pendant, and Camera AirPods for AI Era - Bloomberg.com",
       "pubDate": "Tue, 17 Feb 2026 18:02:57 GMT"
+    },
+    {
+      "title": "U.S. Mulls Per-Customer Cap on Nvidia Chip Sale to China - The Information",
+      "pubDate": "Tue, 03 Mar 2026 05:31:00 GMT"
     }
   ],
   "Immigration": [
@@ -2017,18 +2033,32 @@
     {
       "title": "Live updates: Trump warns Iran about larger strikes as war spirals in Middle East - CNN",
       "pubDate": "Mon, 02 Mar 2026 17:47:00 GMT"
+    },
+    {
+      "title": "Amazon says drone strikes damaged 3 facilities in UAE and Bahrain - CNBC",
+      "pubDate": "Tue, 03 Mar 2026 01:44:00 GMT"
     }
   ],
   "US Supreme Court": [
     {
       "title": "Supreme Court blocks California restrictions on schools notifying parents about students' transgender status - NBC News",
       "pubDate": "Mon, 02 Mar 2026 23:31:00 GMT"
+    },
+    {
+      "title": "Supreme Court could loosen law barring marijuana users from owning guns - WDIV",
+      "pubDate": "Mon, 02 Mar 2026 19:54:58 GMT"
     }
   ],
   "Abiogenesis": [
     {
       "title": "Did life arise from chemical chaos or was it \"seeded\" from space? New research published in 2025 re-evaluates the origin of life on Earth, applies mathematical calculations to abiogenesis, and reignites the debate about extraterrestrial civilizations. - CPG Click Petr\u00f3leo e G\u00e1s",
       "pubDate": "Mon, 02 Mar 2026 13:35:00 GMT"
+    }
+  ],
+  "Health": [
+    {
+      "title": "AI Tools for Cancer Pathology May Rely on Hidden Shortcuts That Impact on Predictive Power - GEN - Genetic Engineering and Biotechnology News",
+      "pubDate": "Mon, 02 Mar 2026 19:30:27 GMT"
     }
   ]
 }
