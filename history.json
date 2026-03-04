@@ -151,6 +151,10 @@
     {
       "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times",
       "pubDate": "Mon, 02 Mar 2026 21:16:00 GMT"
+    },
+    {
+      "title": "From algorithms to atoms: How artificial intelligence is accelerating the discovery of next-generation energy materials - EurekAlert!",
+      "pubDate": "Wed, 04 Mar 2026 03:15:36 GMT"
     }
   ],
   "Israel": [
@@ -615,6 +619,10 @@
     {
       "title": "Social Security numbers of over 1.2M \u2018potentially\u2019 exposed in UH cyberattack - Honolulu Star-Advertiser",
       "pubDate": "Sat, 28 Feb 2026 10:07:14 GMT"
+    },
+    {
+      "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED",
+      "pubDate": "Tue, 03 Mar 2026 19:01:00 GMT"
     }
   ],
   "US Economy": [
@@ -1093,6 +1101,10 @@
     {
       "title": "Congress searches for shutdown off-ramp as DHS employees start missing pay - Government Executive",
       "pubDate": "Mon, 02 Mar 2026 21:30:00 GMT"
+    },
+    {
+      "title": "Cory Booker Catches Kristi Noem Lying Under Oath Multiple Times - The New Republic",
+      "pubDate": "Tue, 03 Mar 2026 20:15:50 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -1237,6 +1249,10 @@
     {
       "title": "Global Markets Whipsaw After U.S.-Israel Attack on Iran - The New York Times",
       "pubDate": "Mon, 02 Mar 2026 22:09:00 GMT"
+    },
+    {
+      "title": "Stocks and Bonds Sink as Oil Surge Rattles Traders: Markets Wrap - Bloomberg.com",
+      "pubDate": "Tue, 03 Mar 2026 21:59:15 GMT"
     }
   ],
   "Elon Musk": [
@@ -1395,10 +1411,6 @@
   ],
   "Government Shutdown": [
     {
-      "title": "Speaker Johnson is moving to end the shutdown by Tuesday \u2014 without Democratic support - Axios",
-      "pubDate": "Mon, 02 Feb 2026 04:24:29 GMT"
-    },
-    {
       "title": "Government shutdown nears possible end as funding fight turns to the House - CBS News",
       "pubDate": "Tue, 03 Feb 2026 04:18:08 GMT"
     },
@@ -1431,10 +1443,6 @@
   ],
   "Department of Justice": [
     {
-      "title": "Epstein victims' lawyers ask court to order DOJ to take down Epstein files website - ABC News",
-      "pubDate": "Mon, 02 Feb 2026 02:48:45 GMT"
-    },
-    {
       "title": "Key participant in 2012 Benghazi attack has been brought to U.S. to face charges, DOJ says - NBC News",
       "pubDate": "Fri, 06 Feb 2026 19:20:51 GMT"
     },
@@ -1445,6 +1453,10 @@
     {
       "title": "Justice Department Exposed Cooperating Witnesses in Epstein Files - The New York Times - The New York Times",
       "pubDate": "Thu, 26 Feb 2026 19:15:28 GMT"
+    },
+    {
+      "title": "There Are 47,635 Epstein Files Offline for Review, DOJ Says - WSJ",
+      "pubDate": "Tue, 03 Mar 2026 23:05:00 GMT"
     }
   ],
   "Epstein Files": [
@@ -2081,6 +2093,10 @@
     {
       "title": "Exclusive: U.S. Marines fired on protesters storming consulate in Karachi, officials say - Reuters",
       "pubDate": "Tue, 03 Mar 2026 02:15:00 GMT"
+    },
+    {
+      "title": "US banks on high alert for cyberattacks as Iran war escalates - Reuters",
+      "pubDate": "Tue, 03 Mar 2026 19:55:27 GMT"
     }
   ],
   "US Supreme Court": [
@@ -2121,6 +2137,12 @@
     {
       "title": "From Anthropic to Iran: Who sets the limits on AI\u2019s use in war and surveillance? - The Conversation",
       "pubDate": "Tue, 03 Mar 2026 16:39:08 GMT"
+    }
+  ],
+  "Sustainable Energy": [
+    {
+      "title": "How green hydrogen can help counter climate change - University of Nevada, Reno",
+      "pubDate": "Tue, 03 Mar 2026 20:09:41 GMT"
     }
   ]
 }
