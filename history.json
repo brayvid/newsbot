@@ -165,6 +165,10 @@
     {
       "title": "Live Updates: U.S.-Israeli war with Iran spreads, as Iran's neighbors warn strikes won't \"go unanswered\" - CBS News",
       "pubDate": "Tue, 03 Mar 2026 17:31:00 GMT"
+    },
+    {
+      "title": "Drone Strikes U.S. Consulate in Dubai as Iran Escalates Attacks \u2014 Live Updates - WSJ",
+      "pubDate": "Tue, 03 Mar 2026 22:43:00 GMT"
     }
   ],
   "Ukraine": [
@@ -367,6 +371,10 @@
     {
       "title": "Live updates: Israel hits Beirut and Tehran as Trump warns Iran of escalated strikes - CNN",
       "pubDate": "Tue, 03 Mar 2026 17:21:00 GMT"
+    },
+    {
+      "title": "Trump threatens to cut off trade with Spain over Iran, defense spending - Fox Business",
+      "pubDate": "Tue, 03 Mar 2026 19:35:00 GMT"
     }
   ],
   "China": [
@@ -851,6 +859,10 @@
     {
       "title": "Live updates: US Gulf allies fend off attacks as Trump warns Iran of \u2018big wave\u2019 of strikes - CNN",
       "pubDate": "Tue, 03 Mar 2026 11:40:00 GMT"
+    },
+    {
+      "title": "Iran Live Updates: Trump Says U.S. Went to War to Pre-empt Iranian Attacks - The New York Times",
+      "pubDate": "Tue, 03 Mar 2026 23:47:00 GMT"
     }
   ],
   "Climate": [
@@ -1035,6 +1047,10 @@
     {
       "title": "At the Pentagon, OpenAI is In and Anthropic Is Out - The New York Times",
       "pubDate": "Sun, 01 Mar 2026 00:13:05 GMT"
+    },
+    {
+      "title": "Pentagon releases names of first U.S. service members killed in Iran war - CBS News",
+      "pubDate": "Tue, 03 Mar 2026 23:04:53 GMT"
     }
   ],
   "Democratic Party": [
@@ -1177,6 +1193,10 @@
     {
       "title": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI - The Guardian",
       "pubDate": "Fri, 27 Feb 2026 21:47:00 GMT"
+    },
+    {
+      "title": "The Pentagon Wants to Use AI to Kill People Without Checks. Is Anthropic Really Pushing Back? - Zeteo | Substack",
+      "pubDate": "Tue, 03 Mar 2026 16:02:19 GMT"
     }
   ],
   "Space Exploration": [
@@ -1625,6 +1645,10 @@
     {
       "title": "Middle East crisis live: Israel launches fresh attacks on Tehran and Beirut - The Guardian",
       "pubDate": "Tue, 03 Mar 2026 16:42:00 GMT"
+    },
+    {
+      "title": "Middle East crisis live: US military says it has hit more than 1,700 targets since it began war on Iran - The Guardian",
+      "pubDate": "Tue, 03 Mar 2026 22:44:00 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2091,6 +2115,12 @@
     {
       "title": "Google Chrome Introduces Merkle Tree Certificates to Strengthen HTTPS Against Quantum Attacks - cyberpress.org",
       "pubDate": "Tue, 03 Mar 2026 10:48:02 GMT"
+    }
+  ],
+  "Mass Surveillance": [
+    {
+      "title": "From Anthropic to Iran: Who sets the limits on AI\u2019s use in war and surveillance? - The Conversation",
+      "pubDate": "Tue, 03 Mar 2026 16:39:08 GMT"
     }
   ]
 }
