@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Trump\u2019s AI push exposes a divide in the MAGA movement - CNN",
-      "pubDate": "Mon, 02 Feb 2026 10:00:46 GMT"
-    },
-    {
       "title": "Elon Musk Merges SpaceX With His A.I. Start-Up xAI - The New York Times",
       "pubDate": "Mon, 02 Feb 2026 21:52:06 GMT"
     },
@@ -155,6 +151,10 @@
     {
       "title": "From algorithms to atoms: How artificial intelligence is accelerating the discovery of next-generation energy materials - EurekAlert!",
       "pubDate": "Wed, 04 Mar 2026 03:15:36 GMT"
+    },
+    {
+      "title": "Anthropic, The Pentagon And The New Battle Over Artificial Intelligence - Forbes",
+      "pubDate": "Wed, 04 Mar 2026 11:00:00 GMT"
     }
   ],
   "Israel": [
@@ -176,10 +176,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Twelve miners killed by Russian strike in Ukraine, officials say - BBC",
-      "pubDate": "Mon, 02 Feb 2026 07:00:55 GMT"
-    },
     {
       "title": "Kenyan job seekers were lured to Russia, then sent to die in Ukraine - The Washington Post",
       "pubDate": "Mon, 02 Feb 2026 18:00:34 GMT"
@@ -383,10 +379,6 @@
   ],
   "China": [
     {
-      "title": "Trump\u2019s Embrace of Weaker Dollar Gives China an Opening - Bloomberg.com",
-      "pubDate": "Mon, 02 Feb 2026 10:59:02 GMT"
-    },
-    {
       "title": "Trump to Launch $12 Billion Critical Mineral Stockpile to Blunt Reliance on China - Bloomberg",
       "pubDate": "Mon, 02 Feb 2026 13:16:27 GMT"
     },
@@ -437,6 +429,10 @@
     {
       "title": "U.S. considers caps on Nvidia chips for China - Los Angeles Times",
       "pubDate": "Tue, 03 Mar 2026 17:28:34 GMT"
+    },
+    {
+      "title": "Russia, China raise diplomatic voices against US-Israeli attacks on Iran - Al Jazeera",
+      "pubDate": "Wed, 04 Mar 2026 03:05:33 GMT"
     }
   ],
   "AI Safety": [
@@ -539,6 +535,10 @@
     {
       "title": "Treasury terminates Anthropic AI use after Trump's order - Axios",
       "pubDate": "Mon, 02 Mar 2026 17:07:54 GMT"
+    },
+    {
+      "title": "OpenAI Secures Pentagon Deal as Anthropic Sidelined Over AI Safety Concerns - National Today",
+      "pubDate": "Wed, 04 Mar 2026 06:06:21 GMT"
     }
   ],
   "Data Breach": [
@@ -785,12 +785,6 @@
     {
       "title": "Australian wildlife in \u2018harm\u2019s way\u2019, with volunteers left to \u2018pick up the pieces\u2019 amid climate crisis, fires and floods - The Guardian",
       "pubDate": "Mon, 02 Mar 2026 20:41:00 GMT"
-    }
-  ],
-  "National Security": [
-    {
-      "title": "Trump\u2019s UAE Chip Deal Is a National Security Risk - Bloomberg",
-      "pubDate": "Mon, 02 Feb 2026 10:00:26 GMT"
     }
   ],
   "North Korea": [
@@ -1253,6 +1247,10 @@
     {
       "title": "Stocks and Bonds Sink as Oil Surge Rattles Traders: Markets Wrap - Bloomberg.com",
       "pubDate": "Tue, 03 Mar 2026 21:59:15 GMT"
+    },
+    {
+      "title": "South Korea\u2019s stock market suffers biggest drop in history amid US-Iran war - Al Jazeera",
+      "pubDate": "Wed, 04 Mar 2026 09:57:56 GMT"
     }
   ],
   "Elon Musk": [
@@ -1595,13 +1593,13 @@
     {
       "title": "Bill Clinton asked about hot tub photo and testifies he knew 'nothing' of Epstein crimes - BBC",
       "pubDate": "Sat, 28 Feb 2026 03:43:56 GMT"
+    },
+    {
+      "title": "Bill Gates, Kathryn Ruemmler among new targets in House Oversight\u2019s Epstein investigation investigation - Politico",
+      "pubDate": "Wed, 04 Mar 2026 04:05:11 GMT"
     }
   ],
   "Energy Storage": [
-    {
-      "title": "Tesla energy storage deployments jumped in \u2018crucial AI transformation year'; company expects margin compression in 2026 - Energy-Storage.News",
-      "pubDate": "Mon, 02 Feb 2026 09:27:08 GMT"
-    },
     {
       "title": "Energy company develops massive 'bubble battery' that could revolutionize power grid: 'This is incredible' - The Cool Down",
       "pubDate": "Tue, 03 Feb 2026 05:40:00 GMT"
@@ -1661,6 +1659,10 @@
     {
       "title": "Middle East crisis live: US military says it has hit more than 1,700 targets since it began war on Iran - The Guardian",
       "pubDate": "Tue, 03 Mar 2026 22:44:00 GMT"
+    },
+    {
+      "title": "Middle East crisis live: Israel launches \u2018wave of strikes\u2019 on Tehran and threatens to assassinate new leader - The Guardian",
+      "pubDate": "Wed, 04 Mar 2026 11:26:00 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2143,6 +2145,12 @@
     {
       "title": "How green hydrogen can help counter climate change - University of Nevada, Reno",
       "pubDate": "Tue, 03 Mar 2026 20:09:41 GMT"
+    }
+  ],
+  "Trade War": [
+    {
+      "title": "Spain's Pedro S\u00e1nchez hits back at Trump threat to sever trade saying 'no to war' - BBC",
+      "pubDate": "Wed, 04 Mar 2026 08:52:28 GMT"
     }
   ]
 }
