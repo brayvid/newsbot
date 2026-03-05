@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Elon Musk Merges SpaceX With His A.I. Start-Up xAI - The New York Times",
-      "pubDate": "Mon, 02 Feb 2026 21:52:06 GMT"
-    },
-    {
       "title": "Opinion | Where Is A.I. Taking Us? Eight Leading Thinkers Share Their Visions. - The New York Times",
       "pubDate": "Tue, 03 Feb 2026 11:33:01 GMT"
     },
@@ -155,6 +151,10 @@
     {
       "title": "Anthropic, The Pentagon And The New Battle Over Artificial Intelligence - Forbes",
       "pubDate": "Wed, 04 Mar 2026 11:00:00 GMT"
+    },
+    {
+      "title": "Google faces lawsuit after Gemini chatbot allegedly instructed man to kill himself - The Guardian",
+      "pubDate": "Wed, 04 Mar 2026 19:06:00 GMT"
     }
   ],
   "Israel": [
@@ -173,13 +173,13 @@
     {
       "title": "Drone Strikes U.S. Consulate in Dubai as Iran Escalates Attacks \u2014 Live Updates - WSJ",
       "pubDate": "Tue, 03 Mar 2026 22:43:00 GMT"
+    },
+    {
+      "title": "US submarine sank Iranian warship, Hegseth says \u2013 as it happened - The Guardian",
+      "pubDate": "Thu, 05 Mar 2026 04:09:00 GMT"
     }
   ],
   "Ukraine": [
-    {
-      "title": "Kenyan job seekers were lured to Russia, then sent to die in Ukraine - The Washington Post",
-      "pubDate": "Mon, 02 Feb 2026 18:00:34 GMT"
-    },
     {
       "title": "Thousands without heating on icy night in Ukraine as Russia attacks before talks - The Guardian",
       "pubDate": "Tue, 03 Feb 2026 11:32:00 GMT"
@@ -375,13 +375,13 @@
     {
       "title": "Trump threatens to cut off trade with Spain over Iran, defense spending - Fox Business",
       "pubDate": "Tue, 03 Mar 2026 19:35:00 GMT"
+    },
+    {
+      "title": "Iran launches new missile barrage at Israel as US Senate backs Trump's war powers - BBC",
+      "pubDate": "Thu, 05 Mar 2026 05:49:46 GMT"
     }
   ],
   "China": [
-    {
-      "title": "Trump to Launch $12 Billion Critical Mineral Stockpile to Blunt Reliance on China - Bloomberg",
-      "pubDate": "Mon, 02 Feb 2026 13:16:27 GMT"
-    },
     {
       "title": "U.S. accuses China of secret nuclear testing as it calls for broad new arms treaty after New START - NBC News",
       "pubDate": "Fri, 06 Feb 2026 14:21:45 GMT"
@@ -433,13 +433,13 @@
     {
       "title": "Russia, China raise diplomatic voices against US-Israeli attacks on Iran - Al Jazeera",
       "pubDate": "Wed, 04 Mar 2026 03:05:33 GMT"
+    },
+    {
+      "title": "China sets lowest economic growth target since 1991 - BBC",
+      "pubDate": "Thu, 05 Mar 2026 03:10:52 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "U.S. Withholds Support From Global AI Safety Report - AOL.com",
-      "pubDate": "Tue, 03 Feb 2026 05:30:19 GMT"
-    },
     {
       "title": "AI Safety Tests Are Failing: 210 Benchmarks Reveal Critical Flaws - Quantum Zeitgeist",
       "pubDate": "Thu, 05 Feb 2026 00:40:25 GMT"
@@ -560,10 +560,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Notepad++ says Chinese government hackers hijacked its software updates for months - TechCrunch",
-      "pubDate": "Mon, 02 Feb 2026 18:09:34 GMT"
-    },
     {
       "title": "The Social Security data breach is a national-security disaster that could hurt Americans for the rest of their lives: whistleblower - MarketWatch",
       "pubDate": "Wed, 04 Feb 2026 17:42:00 GMT"
@@ -785,6 +781,10 @@
     {
       "title": "Australian wildlife in \u2018harm\u2019s way\u2019, with volunteers left to \u2018pick up the pieces\u2019 amid climate crisis, fires and floods - The Guardian",
       "pubDate": "Mon, 02 Mar 2026 20:41:00 GMT"
+    },
+    {
+      "title": "Global sea levels have been underestimated due to poor modelling, research suggests - The Guardian",
+      "pubDate": "Thu, 05 Mar 2026 02:30:00 GMT"
     }
   ],
   "North Korea": [
@@ -794,10 +794,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Exclusive: Iran fears US strike may reignite protests, imperil rule, sources say - Reuters",
-      "pubDate": "Mon, 02 Feb 2026 17:33:33 GMT"
-    },
     {
       "title": "Iran\u2019s Revolutionary Guards seize 2 foreign-crewed oil tankers in Gulf - The Times of Israel",
       "pubDate": "Thu, 05 Feb 2026 11:21:40 GMT"
@@ -865,6 +861,10 @@
     {
       "title": "Iran Live Updates: Trump Says U.S. Went to War to Pre-empt Iranian Attacks - The New York Times",
       "pubDate": "Tue, 03 Mar 2026 23:47:00 GMT"
+    },
+    {
+      "title": "Live updates: U.S. has struck or sunk over 20 Iranian ships, CENTCOM says - NBC News",
+      "pubDate": "Thu, 05 Mar 2026 05:47:11 GMT"
     }
   ],
   "Climate": [
@@ -1153,10 +1153,6 @@
   ],
   "AI Ethics": [
     {
-      "title": "Inside Project Panama: 2 million books scanned and destroyed by Anthropic AI to train machines - Times of India",
-      "pubDate": "Mon, 02 Feb 2026 21:42:00 GMT"
-    },
-    {
       "title": "When Guardrails Collapse: What the Grok Controversy Reveals About the Future of AI Ethics - Australian Institute of International Affairs",
       "pubDate": "Thu, 05 Feb 2026 02:51:54 GMT"
     },
@@ -1409,10 +1405,6 @@
   ],
   "Government Shutdown": [
     {
-      "title": "Government shutdown nears possible end as funding fight turns to the House - CBS News",
-      "pubDate": "Tue, 03 Feb 2026 04:18:08 GMT"
-    },
-    {
       "title": "Congress ends shutdown, approves $1.2T in funding \u2014 and sets up DHS cliff - Politico",
       "pubDate": "Tue, 03 Feb 2026 19:27:29 GMT"
     },
@@ -1597,39 +1589,25 @@
     {
       "title": "Bill Gates, Kathryn Ruemmler among new targets in House Oversight\u2019s Epstein investigation investigation - Politico",
       "pubDate": "Wed, 04 Mar 2026 04:05:11 GMT"
+    },
+    {
+      "title": "Epstein files: House committee subpoenas Attorney General Pam Bondi - CNBC",
+      "pubDate": "Wed, 04 Mar 2026 20:46:54 GMT"
     }
   ],
   "Energy Storage": [
-    {
-      "title": "Energy company develops massive 'bubble battery' that could revolutionize power grid: 'This is incredible' - The Cool Down",
-      "pubDate": "Tue, 03 Feb 2026 05:40:00 GMT"
-    },
     {
       "title": "Leaving water in batteries nearly doubles energy storage - New Atlas",
       "pubDate": "Thu, 26 Feb 2026 06:21:35 GMT"
     }
   ],
-  "Elections": [
-    {
-      "title": "Trump, in an Escalation, Calls for Republicans to \u2018Nationalize\u2019 Elections - The New York Times",
-      "pubDate": "Mon, 02 Feb 2026 22:21:49 GMT"
-    }
-  ],
   "India": [
-    {
-      "title": "Trump Announces Initial Trade Deal With India, Cutting Tariffs to 18% - The New York Times",
-      "pubDate": "Tue, 03 Feb 2026 00:37:12 GMT"
-    },
     {
       "title": "India tells university to leave AI summit after presenting Chinese robot as its own, sources say - Reuters",
       "pubDate": "Wed, 18 Feb 2026 07:53:41 GMT"
     }
   ],
   "Artemis Program": [
-    {
-      "title": "NASA rocket that will return astronauts to the moon hit by fuel leak during practice countdown - PBS",
-      "pubDate": "Mon, 02 Feb 2026 21:44:21 GMT"
-    },
     {
       "title": "NASA delays astronaut moon mission again after new rocket problem - AP News",
       "pubDate": "Sat, 21 Feb 2026 20:51:00 GMT"
