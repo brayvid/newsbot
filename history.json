@@ -147,6 +147,10 @@
     {
       "title": "Google faces lawsuit after Gemini chatbot allegedly instructed man to kill himself - The Guardian",
       "pubDate": "Wed, 04 Mar 2026 19:06:00 GMT"
+    },
+    {
+      "title": "US Considers Requiring Permits for Nvidia, AMD Global AI Chip Sales - Yahoo Finance",
+      "pubDate": "Fri, 06 Mar 2026 03:50:00 GMT"
     }
   ],
   "Israel": [
@@ -218,10 +222,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia: Crackdown on Dissent Escalates - Human Rights Watch",
-      "pubDate": "Wed, 04 Feb 2026 05:01:00 GMT"
-    },
     {
       "title": "Sanctions having \u2018significant impact\u2019 on Russian economy, says EU special envoy - The Guardian",
       "pubDate": "Thu, 05 Feb 2026 05:00:00 GMT"
@@ -849,6 +849,10 @@
     {
       "title": "Iran Live Updates: U.S. and Israeli Strikes, Beirut Evacuations and Trump War Powers Vote - The New York Times",
       "pubDate": "Thu, 05 Mar 2026 23:35:52 GMT"
+    },
+    {
+      "title": "Iran war live: Military academy among locations hit by US, Israeli attacks - Al Jazeera",
+      "pubDate": "Fri, 06 Mar 2026 05:33:17 GMT"
     }
   ],
   "Climate": [
@@ -965,6 +969,10 @@
     {
       "title": "DHS funding impasse here to stay as administration ratchets up pressure - Politico",
       "pubDate": "Sat, 28 Feb 2026 00:30:00 GMT"
+    },
+    {
+      "title": "Trump removes DHS Secretary Kristi Noem after controversial tenure - The Washington Post",
+      "pubDate": "Fri, 06 Mar 2026 05:31:48 GMT"
     }
   ],
   "Terrorism": [
@@ -1051,10 +1059,6 @@
   ],
   "US Politics": [
     {
-      "title": "House Democrats help Mike Johnson end government shutdown, fund DHS and ICE - Axios",
-      "pubDate": "Wed, 04 Feb 2026 05:51:26 GMT"
-    },
-    {
       "title": "Supreme Court allows California to use new voting map boosting Democrats - BBC",
       "pubDate": "Wed, 04 Feb 2026 20:20:30 GMT"
     },
@@ -1073,12 +1077,6 @@
     {
       "title": "Trump fires Kristi Noem as homeland security secretary - NBC News",
       "pubDate": "Thu, 05 Mar 2026 22:21:19 GMT"
-    }
-  ],
-  "Nuclear Fusion": [
-    {
-      "title": "Controllable Nuclear Fusion Secures Another 500 Million Yuan in Financing - 36 Kr",
-      "pubDate": "Wed, 04 Feb 2026 03:13:08 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1101,6 +1099,10 @@
     {
       "title": "Large-scale ion-trap quantum computing systems inch closer to reality with US\u2019 new breakthrough - Interesting Engineering",
       "pubDate": "Sun, 01 Mar 2026 06:23:00 GMT"
+    },
+    {
+      "title": "IBM and University Researchers Create a Never-Before-Seen Molecule and Prove its Exotic Nature with Quantum Computing - IBM Newsroom",
+      "pubDate": "Thu, 05 Mar 2026 19:00:57 GMT"
     }
   ],
   "Geopolitics": [
@@ -1195,6 +1197,10 @@
     {
       "title": "Artemis, and the New Space Race: Mission delays underscore technical challenges as the United States and China compete to establish long-term dominance at the lunar south pole. - AAPG",
       "pubDate": "Mon, 02 Mar 2026 23:30:00 GMT"
+    },
+    {
+      "title": "NASA commissions SpaceX to launch asteroid-tracking telescope - Earth.com",
+      "pubDate": "Fri, 06 Mar 2026 00:45:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -1354,10 +1360,6 @@
     }
   ],
   "Social Media": [
-    {
-      "title": "Elon Musk calls Spanish PM a \u2018tyrant\u2019 over plan to ban under-16s from social media and curb hateful content - The Guardian",
-      "pubDate": "Wed, 04 Feb 2026 01:13:00 GMT"
-    },
     {
       "title": "Landmark trial accusing social media companies of addicting children to their platforms begins - AP News",
       "pubDate": "Tue, 10 Feb 2026 03:01:00 GMT"
@@ -1547,6 +1549,10 @@
     {
       "title": "Epstein files: House committee subpoenas Attorney General Pam Bondi - CNBC",
       "pubDate": "Wed, 04 Mar 2026 20:46:54 GMT"
+    },
+    {
+      "title": "DOJ Releases Missing Interviews With Woman Who Made Claims Against Trump in Epstein Files - The New York Times",
+      "pubDate": "Fri, 06 Mar 2026 01:57:07 GMT"
     }
   ],
   "Energy Storage": [
@@ -2091,6 +2097,12 @@
     {
       "title": "Spain's Pedro S\u00e1nchez hits back at Trump threat to sever trade saying 'no to war' - BBC",
       "pubDate": "Wed, 04 Mar 2026 08:52:28 GMT"
+    }
+  ],
+  "Battery Technology": [
+    {
+      "title": "BYD Launches Ultra Fast Charging Blade Battery 2.0 and Flash Charging Station - Zecar",
+      "pubDate": "Fri, 06 Mar 2026 03:28:25 GMT"
     }
   ]
 }
