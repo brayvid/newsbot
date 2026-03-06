@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Opinion | Where Is A.I. Taking Us? Eight Leading Thinkers Share Their Visions. - The New York Times",
-      "pubDate": "Tue, 03 Feb 2026 11:33:01 GMT"
-    },
-    {
-      "title": "More companies are pointing to AI as they lay off employees - CBS News",
-      "pubDate": "Tue, 03 Feb 2026 22:44:00 GMT"
-    },
-    {
       "title": "Global software stocks hit by Anthropic wake-up call on AI disruption - Reuters",
       "pubDate": "Wed, 04 Feb 2026 09:56:02 GMT"
     },
@@ -181,10 +173,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Thousands without heating on icy night in Ukraine as Russia attacks before talks - The Guardian",
-      "pubDate": "Tue, 03 Feb 2026 11:32:00 GMT"
-    },
-    {
       "title": "Russia-Ukraine Peace Talks Stretch Into a Second Day - The New York Times",
       "pubDate": "Thu, 05 Feb 2026 09:10:22 GMT"
     },
@@ -230,10 +218,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russian hits Ukraine energy sites in 'most powerful blow\" so far this year - BBC",
-      "pubDate": "Tue, 03 Feb 2026 13:17:53 GMT"
-    },
     {
       "title": "Russia: Crackdown on Dissent Escalates - Human Rights Watch",
       "pubDate": "Wed, 04 Feb 2026 05:01:00 GMT"
@@ -304,10 +288,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "After Republicans push Clintons to testify on Epstein, Democrats warn they'll haul in Trump - NBC News",
-      "pubDate": "Tue, 03 Feb 2026 21:05:00 GMT"
-    },
     {
       "title": "Trump says America should move on from Epstein - it may not be that easy - BBC",
       "pubDate": "Thu, 05 Feb 2026 03:27:44 GMT"
@@ -539,6 +519,10 @@
     {
       "title": "OpenAI Secures Pentagon Deal as Anthropic Sidelined Over AI Safety Concerns - National Today",
       "pubDate": "Wed, 04 Mar 2026 06:06:21 GMT"
+    },
+    {
+      "title": "Anthropic Reopens Talks with Pentagon After Feud Over AI Safety - Bloomberg",
+      "pubDate": "Thu, 05 Mar 2026 15:59:36 GMT"
     }
   ],
   "Data Breach": [
@@ -670,10 +654,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "Nvidia, OpenAI appear stalled on their mega deal. But the AI giants still need each other - CNBC",
-      "pubDate": "Tue, 03 Feb 2026 22:22:05 GMT"
-    },
     {
       "title": "Microsoft AI CEO Mustafa Suleyman confirms company is 'dumping' OpenAI, says: My personal mission at Micr - Times of India",
       "pubDate": "Sat, 14 Feb 2026 05:38:00 GMT"
@@ -865,6 +845,10 @@
     {
       "title": "Live updates: U.S. has struck or sunk over 20 Iranian ships, CENTCOM says - NBC News",
       "pubDate": "Thu, 05 Mar 2026 05:47:11 GMT"
+    },
+    {
+      "title": "Iran Live Updates: U.S. and Israeli Strikes, Beirut Evacuations and Trump War Powers Vote - The New York Times",
+      "pubDate": "Thu, 05 Mar 2026 23:35:52 GMT"
     }
   ],
   "Climate": [
@@ -906,10 +890,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "US fighter jet shoots down Iranian drone approaching US aircraft carrier - ABC News",
-      "pubDate": "Tue, 03 Feb 2026 18:56:15 GMT"
-    },
     {
       "title": "UN Human Rights Chief Raises Alarm After Drone Strikes Kill More Than 50 Civilians in Sudan - U.S. News & World Report",
       "pubDate": "Wed, 18 Feb 2026 16:28:00 GMT"
@@ -1005,12 +985,6 @@
       "pubDate": "Tue, 24 Feb 2026 17:22:39 GMT"
     }
   ],
-  "Privacy": [
-    {
-      "title": "Protecting the right to privacy in the age of surveillance - Cape Gazette",
-      "pubDate": "Tue, 03 Feb 2026 10:08:25 GMT"
-    }
-  ],
   "United Nations": [
     {
       "title": "UN warns! The world is entering \u2018water bankruptcy\u2019 and billions could be in serious danger - The Times of India",
@@ -1077,10 +1051,6 @@
   ],
   "US Politics": [
     {
-      "title": "Donald Trump signs bill to end partial US government shutdown - Financial Times",
-      "pubDate": "Tue, 03 Feb 2026 20:31:34 GMT"
-    },
-    {
       "title": "House Democrats help Mike Johnson end government shutdown, fund DHS and ICE - Axios",
       "pubDate": "Wed, 04 Feb 2026 05:51:26 GMT"
     },
@@ -1099,6 +1069,10 @@
     {
       "title": "Cory Booker Catches Kristi Noem Lying Under Oath Multiple Times - The New Republic",
       "pubDate": "Tue, 03 Mar 2026 20:15:50 GMT"
+    },
+    {
+      "title": "Trump fires Kristi Noem as homeland security secretary - NBC News",
+      "pubDate": "Thu, 05 Mar 2026 22:21:19 GMT"
     }
   ],
   "Nuclear Fusion": [
@@ -1203,10 +1177,6 @@
   ],
   "Space Exploration": [
     {
-      "title": "Artemis II astronaut Christina Koch will see Earth like no human has before - Axios",
-      "pubDate": "Tue, 03 Feb 2026 11:02:38 GMT"
-    },
-    {
       "title": "Artificial Intelligence just drove NASA's robotic rover on Mars for the first time - BBC Sky at Night Magazine",
       "pubDate": "Wed, 04 Feb 2026 09:51:09 GMT"
     },
@@ -1250,10 +1220,6 @@
     }
   ],
   "Elon Musk": [
-    {
-      "title": "Paris prosecutors summon Elon Musk after raid on X's French offices - NBC News",
-      "pubDate": "Tue, 03 Feb 2026 20:46:47 GMT"
-    },
     {
       "title": "Elon Musk declares victory with Medicaid data release - Axios",
       "pubDate": "Sat, 14 Feb 2026 06:01:21 GMT"
@@ -1405,10 +1371,6 @@
   ],
   "Government Shutdown": [
     {
-      "title": "Congress ends shutdown, approves $1.2T in funding \u2014 and sets up DHS cliff - Politico",
-      "pubDate": "Tue, 03 Feb 2026 19:27:29 GMT"
-    },
-    {
       "title": "Second Government Shutdown Looms As DHS Funding Fight Takes Center Stage | TRENDING - KGET.com",
       "pubDate": "Mon, 09 Feb 2026 14:57:30 GMT"
     }
@@ -1450,14 +1412,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Why are we not talking about Donald Trump in the Epstein files? | Trump100 - Sky News",
-      "pubDate": "Tue, 03 Feb 2026 11:14:55 GMT"
-    },
-    {
-      "title": "Melinda French Gates says Bill Gates 'has to answer' for being in the Epstein files - NBC News",
-      "pubDate": "Tue, 03 Feb 2026 20:43:40 GMT"
-    },
     {
       "title": "Jeffrey Epstein\u2019s Money Mingled With Silicon Valley Start-Ups - The New York Times",
       "pubDate": "Thu, 05 Feb 2026 05:00:11 GMT"
@@ -1618,10 +1572,6 @@
     }
   ],
   "Middle East": [
-    {
-      "title": "Seif al-Islam el-Qaddafi, Son of Libyan Dictator, Is Killed in Attack, Lawyer Says - The New York Times",
-      "pubDate": "Tue, 03 Feb 2026 23:24:40 GMT"
-    },
     {
       "title": "LIVE: Israeli attacks across Gaza kill 21 Palestinians since dawn - Al Jazeera",
       "pubDate": "Wed, 04 Feb 2026 10:57:12 GMT"
@@ -1957,6 +1907,10 @@
     {
       "title": "$3.8B in Michigan tariffs in limbo after Supreme Court ruling - Axios",
       "pubDate": "Tue, 24 Feb 2026 11:37:25 GMT"
+    },
+    {
+      "title": "States Sue to Stop Trump From Reviving Steep Tariffs - The New York Times",
+      "pubDate": "Thu, 05 Mar 2026 18:18:05 GMT"
     }
   ],
   "Hungary": [
@@ -1969,6 +1923,10 @@
     {
       "title": "FBI arrests engineers for leaking tech secrets to Iran - The Jerusalem Post",
       "pubDate": "Fri, 20 Feb 2026 21:58:14 GMT"
+    },
+    {
+      "title": "FBI investigating \u2018suspicious\u2019 cyber activities on critical surveillance network - CNN",
+      "pubDate": "Thu, 05 Mar 2026 18:17:56 GMT"
     }
   ],
   "Military and Defense": [
@@ -2023,6 +1981,10 @@
     {
       "title": "World Trade Surged in 2025 Despite Higher Tariffs - WSJ",
       "pubDate": "Wed, 25 Feb 2026 11:47:00 GMT"
+    },
+    {
+      "title": "Surging energy prices and threats to shipping. How the Middle East war could hurt the global economy - CNN",
+      "pubDate": "Thu, 05 Mar 2026 22:45:58 GMT"
     }
   ],
   "Human Brain": [
