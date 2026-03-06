@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Global software stocks hit by Anthropic wake-up call on AI disruption - Reuters",
-      "pubDate": "Wed, 04 Feb 2026 09:56:02 GMT"
-    },
-    {
       "title": "Google parent beats on revenue, projects significant AI spending increase - CNBC",
       "pubDate": "Wed, 04 Feb 2026 17:00:01 GMT"
     },
@@ -151,6 +147,10 @@
     {
       "title": "US Considers Requiring Permits for Nvidia, AMD Global AI Chip Sales - Yahoo Finance",
       "pubDate": "Fri, 06 Mar 2026 03:50:00 GMT"
+    },
+    {
+      "title": "SoftBank Seeks Record Loan of Up to $40 Billion for OpenAI Stake - Bloomberg.com",
+      "pubDate": "Fri, 06 Mar 2026 04:06:00 GMT"
     }
   ],
   "Israel": [
@@ -645,6 +645,10 @@
     {
       "title": "Trump is accelerating the world\u2019s slow drift from dollar dominance | Heather Stewart - The Guardian",
       "pubDate": "Sun, 01 Mar 2026 10:49:00 GMT"
+    },
+    {
+      "title": "Trump tariffs live updates: Judge says US must start issuing tariffs refunds, states challenge fresh tariffs - Yahoo Finance",
+      "pubDate": "Fri, 06 Mar 2026 11:49:30 GMT"
     }
   ],
   "Earthquakes": [
@@ -765,6 +769,10 @@
     {
       "title": "Global sea levels have been underestimated due to poor modelling, research suggests - The Guardian",
       "pubDate": "Thu, 05 Mar 2026 02:30:00 GMT"
+    },
+    {
+      "title": "As New York Energy Costs Surge, Attention Turns to Landmark Climate Law - The New York Times",
+      "pubDate": "Fri, 06 Mar 2026 01:50:00 GMT"
     }
   ],
   "North Korea": [
@@ -1077,6 +1085,10 @@
     {
       "title": "Trump fires Kristi Noem as homeland security secretary - NBC News",
       "pubDate": "Thu, 05 Mar 2026 22:21:19 GMT"
+    },
+    {
+      "title": "Bulletproof Vests and Rolex Watches: The Rise and Fall of Kristi Noem - The New York Times",
+      "pubDate": "Fri, 06 Mar 2026 03:56:06 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1106,10 +1118,6 @@
     }
   ],
   "Geopolitics": [
-    {
-      "title": "China\u2019s Xi and Russia\u2019s Putin hold talks by video - AP News",
-      "pubDate": "Wed, 04 Feb 2026 10:02:00 GMT"
-    },
     {
       "title": "Geopolitics: Without decisive action, defeatist Europe is heading toward growing dependence on China - Table.Briefings",
       "pubDate": "Sun, 08 Feb 2026 21:23:19 GMT"
@@ -1179,10 +1187,6 @@
   ],
   "Space Exploration": [
     {
-      "title": "Artificial Intelligence just drove NASA's robotic rover on Mars for the first time - BBC Sky at Night Magazine",
-      "pubDate": "Wed, 04 Feb 2026 09:51:09 GMT"
-    },
-    {
       "title": "Europe's most powerful rocket launches for 1st time, carrying 32 Amazon internet satellites to orbit (video) - Space",
       "pubDate": "Thu, 12 Feb 2026 17:21:18 GMT"
     },
@@ -1201,6 +1205,10 @@
     {
       "title": "NASA commissions SpaceX to launch asteroid-tracking telescope - Earth.com",
       "pubDate": "Fri, 06 Mar 2026 00:45:00 GMT"
+    },
+    {
+      "title": "NASA confirms: Asteroid 2024 YR4 will NOT hit the Moon in 2032 after new orbit calculations - The Times of India",
+      "pubDate": "Fri, 06 Mar 2026 05:44:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -1578,10 +1586,6 @@
     }
   ],
   "Middle East": [
-    {
-      "title": "LIVE: Israeli attacks across Gaza kill 21 Palestinians since dawn - Al Jazeera",
-      "pubDate": "Wed, 04 Feb 2026 10:57:12 GMT"
-    },
     {
       "title": "Live Updates: U.S. and Israel Conduct Strikes on Iran - The New York Times",
       "pubDate": "Sat, 28 Feb 2026 11:47:51 GMT"
@@ -1991,6 +1995,10 @@
     {
       "title": "Surging energy prices and threats to shipping. How the Middle East war could hurt the global economy - CNN",
       "pubDate": "Thu, 05 Mar 2026 22:45:58 GMT"
+    },
+    {
+      "title": "Middle East war: Oil hits highest level since start of Iran crisis - Financial Times",
+      "pubDate": "Fri, 06 Mar 2026 10:43:08 GMT"
     }
   ],
   "Human Brain": [
@@ -2103,6 +2111,12 @@
     {
       "title": "BYD Launches Ultra Fast Charging Blade Battery 2.0 and Flash Charging Station - Zecar",
       "pubDate": "Fri, 06 Mar 2026 03:28:25 GMT"
+    }
+  ],
+  "World News": [
+    {
+      "title": "Middle East crisis live: Israel bombards Tehran and Beirut as US says attacks to intensify - The Guardian",
+      "pubDate": "Fri, 06 Mar 2026 10:56:00 GMT"
     }
   ]
 }
