@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Labor unions urge Gov. Gavin Newsom, California lawmakers to rein in artificial intelligence - Yahoo",
-      "pubDate": "Thu, 05 Feb 2026 02:21:00 GMT"
-    },
-    {
       "title": "China warns of security risks linked to OpenClaw open-source AI agent - Reuters",
       "pubDate": "Thu, 05 Feb 2026 09:43:07 GMT"
     },
@@ -151,6 +147,10 @@
     {
       "title": "Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible - Fortune",
       "pubDate": "Fri, 06 Mar 2026 16:38:00 GMT"
+    },
+    {
+      "title": "Oracle and OpenAI End Plans to Expand Flagship Data Center - Bloomberg.com",
+      "pubDate": "Sat, 07 Mar 2026 00:11:00 GMT"
     }
   ],
   "Israel": [
@@ -223,10 +223,6 @@
   ],
   "Russia": [
     {
-      "title": "Sanctions having \u2018significant impact\u2019 on Russian economy, says EU special envoy - The Guardian",
-      "pubDate": "Thu, 05 Feb 2026 05:00:00 GMT"
-    },
-    {
       "title": "As West goes after Russia\u2019s oil fleet, Moscow fears for its war funding - The Washington Post",
       "pubDate": "Thu, 05 Feb 2026 11:32:09 GMT"
     },
@@ -288,10 +284,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump says America should move on from Epstein - it may not be that easy - BBC",
-      "pubDate": "Thu, 05 Feb 2026 03:27:44 GMT"
-    },
     {
       "title": "Revealed: private jet owned by Trump friend used by ICE to deport Palestinians to West Bank - The Guardian",
       "pubDate": "Thu, 05 Feb 2026 17:32:00 GMT"
@@ -421,10 +413,6 @@
   ],
   "AI Safety": [
     {
-      "title": "AI Safety Tests Are Failing: 210 Benchmarks Reveal Critical Flaws - Quantum Zeitgeist",
-      "pubDate": "Thu, 05 Feb 2026 00:40:25 GMT"
-    },
-    {
       "title": "New York Enacts RAISE Act, Setting Nation-Leading Rules for Frontier AI Safety - CDO Magazine",
       "pubDate": "Fri, 06 Feb 2026 13:28:00 GMT"
     },
@@ -540,10 +528,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Cybersecurity experts warn Android users about malicious apps on Google Play - KUTV",
-      "pubDate": "Thu, 05 Feb 2026 04:07:18 GMT"
-    },
     {
       "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries - The Hacker News",
       "pubDate": "Fri, 06 Feb 2026 05:49:00 GMT"
@@ -769,6 +753,10 @@
     {
       "title": "Scientists are trying to solve the mystery of whether global warming is speeding up. A new study says it has the answer - CNN",
       "pubDate": "Fri, 06 Mar 2026 14:00:33 GMT"
+    },
+    {
+      "title": "Humanity heating planet faster than ever before, study finds | Climate crisis - The Guardian",
+      "pubDate": "Fri, 06 Mar 2026 23:50:00 GMT"
     }
   ],
   "North Korea": [
@@ -1133,10 +1121,6 @@
   ],
   "AI Ethics": [
     {
-      "title": "When Guardrails Collapse: What the Grok Controversy Reveals About the Future of AI Ethics - Australian Institute of International Affairs",
-      "pubDate": "Thu, 05 Feb 2026 02:51:54 GMT"
-    },
-    {
       "title": "Mexico Unveils National Declaration on Ethical AI to Guide Public Policy and Protect Human Rights - BABL AI",
       "pubDate": "Thu, 05 Feb 2026 13:00:29 GMT"
     },
@@ -1419,10 +1403,6 @@
   ],
   "Epstein Files": [
     {
-      "title": "Jeffrey Epstein\u2019s Money Mingled With Silicon Valley Start-Ups - The New York Times",
-      "pubDate": "Thu, 05 Feb 2026 05:00:11 GMT"
-    },
-    {
       "title": "Latest Jeffrey Epstein file disclosures rock the rich and powerful: Top takeaways - NBC News",
       "pubDate": "Thu, 05 Feb 2026 17:41:00 GMT"
     },
@@ -1557,6 +1537,10 @@
     {
       "title": "DOJ Releases Missing Interviews With Woman Who Made Claims Against Trump in Epstein Files - The New York Times",
       "pubDate": "Fri, 06 Mar 2026 01:57:07 GMT"
+    },
+    {
+      "title": "Epstein files: DOJ releases previously withheld FBI reports about sex abuse allegation against Trump - ABC News",
+      "pubDate": "Sat, 07 Mar 2026 04:44:59 GMT"
     }
   ],
   "Energy Storage": [
@@ -1977,6 +1961,10 @@
     {
       "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe - ScienceDaily",
       "pubDate": "Fri, 27 Feb 2026 17:16:36 GMT"
+    },
+    {
+      "title": "The universe is humming with ripples in spacetime: Scientists just doubled our catalog of black hole and neutron star collisions - Space",
+      "pubDate": "Fri, 06 Mar 2026 21:00:00 GMT"
     }
   ],
   "World Economy": [
@@ -2113,6 +2101,24 @@
     {
       "title": "Middle East crisis live: Israel bombards Tehran and Beirut as US says attacks to intensify - The Guardian",
       "pubDate": "Fri, 06 Mar 2026 10:56:00 GMT"
+    }
+  ],
+  "Infrastructure": [
+    {
+      "title": "Iran and proxy militias strike energy infrastructure, US bases, and Gulf capitals on March 6 - Long War Journal",
+      "pubDate": "Fri, 06 Mar 2026 22:55:18 GMT"
+    }
+  ],
+  "Layoffs": [
+    {
+      "title": "Tech jobs are getting demolished in ways not seen since 2008 and the dot-com bust - Business Insider",
+      "pubDate": "Fri, 06 Mar 2026 18:16:00 GMT"
+    }
+  ],
+  "Asia": [
+    {
+      "title": "China quietly eclipsing a weakened Russia in Central Asia - Asia Times",
+      "pubDate": "Sat, 07 Mar 2026 04:50:38 GMT"
     }
   ]
 }
