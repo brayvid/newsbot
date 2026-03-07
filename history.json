@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "China warns of security risks linked to OpenClaw open-source AI agent - Reuters",
-      "pubDate": "Thu, 05 Feb 2026 09:43:07 GMT"
-    },
-    {
       "title": "Artificial Intelligence Task Force to guide responsible use of emerging technology - Marquette Today",
       "pubDate": "Thu, 05 Feb 2026 20:21:40 GMT"
     },
@@ -177,10 +173,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia-Ukraine Peace Talks Stretch Into a Second Day - The New York Times",
-      "pubDate": "Thu, 05 Feb 2026 09:10:22 GMT"
-    },
-    {
       "title": "At Ukraine\u2019s Request, Starlink Denies Internet Access to Russian Troops - The New York Times",
       "pubDate": "Thu, 05 Feb 2026 21:55:26 GMT"
     },
@@ -219,13 +211,13 @@
     {
       "title": "Ukraine marks four years since Russia's full invasion as Moscow says its 'goals' not yet achieved - BBC",
       "pubDate": "Tue, 24 Feb 2026 17:14:30 GMT"
+    },
+    {
+      "title": "Russia Hits Ukraine With Deadly Barrage of Missiles and Drones - The New York Times",
+      "pubDate": "Sat, 07 Mar 2026 11:42:55 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "As West goes after Russia\u2019s oil fleet, Moscow fears for its war funding - The Washington Post",
-      "pubDate": "Thu, 05 Feb 2026 11:32:09 GMT"
-    },
     {
       "title": "Scoop: U.S. and Russia agree to observe New START nuclear pact after expiration - Axios",
       "pubDate": "Thu, 05 Feb 2026 18:45:00 GMT"
@@ -767,10 +759,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran\u2019s Revolutionary Guards seize 2 foreign-crewed oil tankers in Gulf - The Times of Israel",
-      "pubDate": "Thu, 05 Feb 2026 11:21:40 GMT"
-    },
-    {
       "title": "US-Iran updates: FM Araghchi says latest round of talks \u2018a good start\u2019 - Al Jazeera",
       "pubDate": "Fri, 06 Feb 2026 15:07:01 GMT"
     },
@@ -1279,10 +1267,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "Forget AGI, business leaders are still trying to figure out how to make AI work - Computer Weekly",
-      "pubDate": "Thu, 05 Feb 2026 10:24:55 GMT"
-    },
-    {
       "title": "Claude Opus 4.6 Raises Eyebrows by Suggesting It Might Be Conscious - The Hans India",
       "pubDate": "Fri, 06 Feb 2026 11:18:05 GMT"
     },
@@ -1366,10 +1350,6 @@
     }
   ],
   "Taiwan": [
-    {
-      "title": "US must be prudent when supplying arms to Taiwan, Xi tells Trump - BBC",
-      "pubDate": "Thu, 05 Feb 2026 08:36:16 GMT"
-    },
     {
       "title": "Taiwan leader warns countries in region 'next' in case of China attack: AFP interview - France 24",
       "pubDate": "Thu, 12 Feb 2026 01:57:10 GMT"
@@ -1541,6 +1521,10 @@
     {
       "title": "Epstein files: DOJ releases previously withheld FBI reports about sex abuse allegation against Trump - ABC News",
       "pubDate": "Sat, 07 Mar 2026 04:44:59 GMT"
+    },
+    {
+      "title": "Justice Dept. releases missing Epstein documents with Trump allegations - The Washington Post",
+      "pubDate": "Sat, 07 Mar 2026 03:47:24 GMT"
     }
   ],
   "Energy Storage": [
@@ -1605,13 +1589,13 @@
     {
       "title": "Anthropic CEO: AI to surpass humans in 'small number of years' - Yahoo Finance UK",
       "pubDate": "Thu, 19 Feb 2026 05:37:00 GMT"
+    },
+    {
+      "title": "US draws up strict new AI guidelines amid Anthropic clash - Financial Times",
+      "pubDate": "Sat, 07 Mar 2026 00:02:22 GMT"
     }
   ],
   "Semiconductors": [
-    {
-      "title": "TSMC to make advanced AI semiconductors in Japan in boost for its chipmaking ambitions - The Tribune-Democrat",
-      "pubDate": "Thu, 05 Feb 2026 10:41:00 GMT"
-    },
     {
       "title": "India\u2019s semiconductor market to hit $103 billlion by 2030, fuelled by AI, EVs, and defence - The Economic Times",
       "pubDate": "Sat, 28 Feb 2026 06:11:16 GMT"
@@ -1705,6 +1689,10 @@
     {
       "title": "Caught on camera: Black hole seen tearing a star apart for the first time - The Times of India",
       "pubDate": "Fri, 27 Feb 2026 01:30:00 GMT"
+    },
+    {
+      "title": "Astronomers are capturing video of a black hole for the first time - CBC",
+      "pubDate": "Sat, 07 Mar 2026 09:00:00 GMT"
     }
   ],
   "Big Tech": [
@@ -2095,6 +2083,10 @@
     {
       "title": "China puts a sodium-ion battery into an EV for the first time \u2014 it can drive 248 miles on a single charge - Live Science",
       "pubDate": "Fri, 06 Mar 2026 12:00:00 GMT"
+    },
+    {
+      "title": "'A huge leap if true': Chinese researchers say this semi-solid-state EV battery delivers a 620-mile range \u2014 and could soon break the 1,000-mile barrier - TechRadar",
+      "pubDate": "Sat, 07 Mar 2026 01:02:02 GMT"
     }
   ],
   "World News": [
@@ -2119,6 +2111,18 @@
     {
       "title": "China quietly eclipsing a weakened Russia in Central Asia - Asia Times",
       "pubDate": "Sat, 07 Mar 2026 04:50:38 GMT"
+    }
+  ],
+  "Kristi Noem": [
+    {
+      "title": "Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line. - The New York Times",
+      "pubDate": "Sat, 07 Mar 2026 02:33:52 GMT"
+    }
+  ],
+  "Planetary Defense": [
+    {
+      "title": "NASA Successfully Alters Asteroid Path in Historic Planetary Defense Test - Fine Day 102.3",
+      "pubDate": "Sat, 07 Mar 2026 03:11:04 GMT"
     }
   ]
 }
