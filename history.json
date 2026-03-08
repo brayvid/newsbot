@@ -139,6 +139,10 @@
     {
       "title": "AI chatbots point vulnerable social media users to illegal online casinos, analysis shows - The Guardian",
       "pubDate": "Sun, 08 Mar 2026 08:40:00 GMT"
+    },
+    {
+      "title": "OpenAI robotics chief quits over AI\u2019s potential use for war and surveillance - France 24",
+      "pubDate": "Sun, 08 Mar 2026 05:26:37 GMT"
     }
   ],
   "Israel": [
@@ -161,6 +165,10 @@
     {
       "title": "US submarine sank Iranian warship, Hegseth says \u2013 as it happened - The Guardian",
       "pubDate": "Thu, 05 Mar 2026 04:09:00 GMT"
+    },
+    {
+      "title": "Israel escalates attacks across Lebanon as two soldiers killed - Al Jazeera",
+      "pubDate": "Sun, 08 Mar 2026 16:41:15 GMT"
     }
   ],
   "Ukraine": [
@@ -331,10 +339,6 @@
   ],
   "China": [
     {
-      "title": "U.S. accuses China of secret nuclear testing as it calls for broad new arms treaty after New START - NBC News",
-      "pubDate": "Fri, 06 Feb 2026 14:21:45 GMT"
-    },
-    {
       "title": "China critic and former media tycoon Jimmy Lai is sentenced to 20 years in a Hong Kong security case - NPR",
       "pubDate": "Mon, 09 Feb 2026 07:52:28 GMT"
     },
@@ -392,10 +396,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "New York Enacts RAISE Act, Setting Nation-Leading Rules for Frontier AI Safety - CDO Magazine",
-      "pubDate": "Fri, 06 Feb 2026 13:28:00 GMT"
-    },
     {
       "title": "California ballot proposal looking to create AI Safety Commission cleared for signature gathering - ABC10",
       "pubDate": "Fri, 06 Feb 2026 20:41:00 GMT"
@@ -729,13 +729,13 @@
     {
       "title": "Humanity heating planet faster than ever before, study finds | Climate crisis - The Guardian",
       "pubDate": "Fri, 06 Mar 2026 23:50:00 GMT"
+    },
+    {
+      "title": "A deadly climate change effect is even worse than feared, study finds - USA Today",
+      "pubDate": "Sun, 08 Mar 2026 11:02:00 GMT"
     }
   ],
   "Iran": [
-    {
-      "title": "US-Iran updates: FM Araghchi says latest round of talks \u2018a good start\u2019 - Al Jazeera",
-      "pubDate": "Fri, 06 Feb 2026 15:07:01 GMT"
-    },
     {
       "title": "Iran sentences Nobel laureate Mohammadi to seven more years in prison - Al Jazeera",
       "pubDate": "Sun, 08 Feb 2026 21:22:30 GMT"
@@ -823,10 +823,6 @@
   ],
   "Climate": [
     {
-      "title": "Climate \u2018Superfund\u2019 Bills Spread Nationwide, Despite Legal Battles - The New York Times",
-      "pubDate": "Fri, 06 Feb 2026 16:03:19 GMT"
-    },
-    {
       "title": "Trump just blew up a load-bearing pillar of climate regulation in the US. What happens now? - vox.com",
       "pubDate": "Thu, 12 Feb 2026 16:55:00 GMT"
     },
@@ -863,6 +859,10 @@
     {
       "title": "Russia Downs 113 Ukrainian Drones in Massive Overnight Attack - kurdistan24.net",
       "pubDate": "Thu, 19 Feb 2026 08:47:39 GMT"
+    },
+    {
+      "title": "Drones Strike Key Oil Pumping Hub in Russia\u2019s Krasnodar Region, Massive Fire Reported - UNITED24 Media",
+      "pubDate": "Sun, 08 Mar 2026 10:00:16 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1233,10 +1233,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "Claude Opus 4.6 Raises Eyebrows by Suggesting It Might Be Conscious - The Hans India",
-      "pubDate": "Fri, 06 Feb 2026 11:18:05 GMT"
-    },
-    {
       "title": "AI could trigger a global jobs market collapse by 2027 if left unchecked, former Google ethicist warns - Fortune",
       "pubDate": "Tue, 10 Feb 2026 17:31:00 GMT"
     },
@@ -1348,14 +1344,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Epstein built ties to Russians and sought to meet Putin, files show - The Washington Post",
-      "pubDate": "Fri, 06 Feb 2026 11:32:02 GMT"
-    },
-    {
-      "title": "What the Epstein Files Tell Us \u2013 And Don't Tell Us \u2014 About His Ties to Russia - The Moscow Times",
-      "pubDate": "Fri, 06 Feb 2026 16:49:51 GMT"
-    },
     {
       "title": "Members of Congress will be able to view unredacted Epstein files next week - NBC News",
       "pubDate": "Fri, 06 Feb 2026 22:58:06 GMT"
@@ -1561,18 +1549,8 @@
   ],
   "Military Intelligence": [
     {
-      "title": "Ukraine War, Day 1,443: Russia's Deputy Director of Military Intelligence Critically Wounded in Moscow Shooting - EA WorldView",
-      "pubDate": "Fri, 06 Feb 2026 16:25:53 GMT"
-    },
-    {
       "title": "Russia detains suspect in shooting of top military intelligence officer in Moscow - TRT World",
       "pubDate": "Sun, 08 Feb 2026 11:37:43 GMT"
-    }
-  ],
-  "Europe": [
-    {
-      "title": "Europe Accuses TikTok of \u2018Addictive Design\u2019 and Pushes for Change - The New York Times",
-      "pubDate": "Fri, 06 Feb 2026 12:06:58 GMT"
     }
   ],
   "Drone Warfare": [
@@ -2045,6 +2023,10 @@
     {
       "title": "Middle East crisis live: Israel bombards Tehran and Beirut as US says attacks to intensify - The Guardian",
       "pubDate": "Fri, 06 Mar 2026 10:56:00 GMT"
+    },
+    {
+      "title": "US Iran war news LIVE updates: Indian among two dead in Saudi Arabia; Iraq's oil production falls by 70% | World News - Hindustan Times",
+      "pubDate": "Sun, 08 Mar 2026 16:37:17 GMT"
     }
   ],
   "Infrastructure": [
@@ -2079,6 +2061,12 @@
     {
       "title": "NASA Successfully Alters Asteroid Path in Historic Planetary Defense Test - Fine Day 102.3",
       "pubDate": "Sat, 07 Mar 2026 03:11:04 GMT"
+    }
+  ],
+  "Petroleum": [
+    {
+      "title": "Oil prices are soaring, but Trump is downplaying the need to tap the Strategic Petroleum Reserve - Times West Virginian",
+      "pubDate": "Sun, 08 Mar 2026 10:00:00 GMT"
     }
   ]
 }
