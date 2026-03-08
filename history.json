@@ -1,18 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Artificial Intelligence Task Force to guide responsible use of emerging technology - Marquette Today",
-      "pubDate": "Thu, 05 Feb 2026 20:21:40 GMT"
-    },
-    {
-      "title": "Kaiser workers launch war against AI, protesting potential job losses and patient harm - latimes.com",
-      "pubDate": "Fri, 06 Feb 2026 11:00:00 GMT"
-    },
-    {
-      "title": "Big Tech's $600 billion spending plans exacerbate investors' AI headache - Reuters",
-      "pubDate": "Fri, 06 Feb 2026 10:49:48 GMT"
-    },
-    {
       "title": "The AI boom is so huge it\u2019s causing shortages everywhere else - The Washington Post",
       "pubDate": "Sat, 07 Feb 2026 18:00:00 GMT"
     },
@@ -147,6 +135,10 @@
     {
       "title": "Oracle and OpenAI End Plans to Expand Flagship Data Center - Bloomberg.com",
       "pubDate": "Sat, 07 Mar 2026 00:11:00 GMT"
+    },
+    {
+      "title": "AI chatbots point vulnerable social media users to illegal online casinos, analysis shows - The Guardian",
+      "pubDate": "Sun, 08 Mar 2026 08:40:00 GMT"
     }
   ],
   "Israel": [
@@ -172,10 +164,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "At Ukraine\u2019s Request, Starlink Denies Internet Access to Russian Troops - The New York Times",
-      "pubDate": "Thu, 05 Feb 2026 21:55:26 GMT"
-    },
     {
       "title": "EU Parliament to vote on \u20ac90B Ukraine loan Wednesday - politico.eu",
       "pubDate": "Mon, 09 Feb 2026 17:42:00 GMT"
@@ -218,10 +206,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Scoop: U.S. and Russia agree to observe New START nuclear pact after expiration - Axios",
-      "pubDate": "Thu, 05 Feb 2026 18:45:00 GMT"
-    },
     {
       "title": "US wants Russia and Ukraine to end war by June, says Zelensky - BBC",
       "pubDate": "Sat, 07 Feb 2026 14:05:01 GMT"
@@ -276,10 +260,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Revealed: private jet owned by Trump friend used by ICE to deport Palestinians to West Bank - The Guardian",
-      "pubDate": "Thu, 05 Feb 2026 17:32:00 GMT"
-    },
     {
       "title": "Trump imposes tariffs on countries that import from Iran as nuclear talks resume - The Times of Israel",
       "pubDate": "Fri, 06 Feb 2026 23:13:00 GMT"
@@ -343,6 +323,10 @@
     {
       "title": "Iran launches new missile barrage at Israel as US Senate backs Trump's war powers - BBC",
       "pubDate": "Thu, 05 Mar 2026 05:49:46 GMT"
+    },
+    {
+      "title": "U.S. and Israel vow more strikes as Trump attends dignified transfer of fallen troops - NBC News",
+      "pubDate": "Sun, 08 Mar 2026 07:28:42 GMT"
     }
   ],
   "China": [
@@ -401,6 +385,10 @@
     {
       "title": "China sets lowest economic growth target since 1991 - BBC",
       "pubDate": "Thu, 05 Mar 2026 03:10:52 GMT"
+    },
+    {
+      "title": "China warns of spread of \u2018flames of war\u2019 from Iran - CNN",
+      "pubDate": "Sun, 08 Mar 2026 10:30:00 GMT"
     }
   ],
   "AI Safety": [
@@ -521,10 +509,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries - The Hacker News",
-      "pubDate": "Fri, 06 Feb 2026 05:49:00 GMT"
-    },
-    {
       "title": "Exclusive: Palo Alto chose not to tie China to hacking campaign for fear of retaliation from Beijing, sources say - Reuters",
       "pubDate": "Thu, 12 Feb 2026 18:03:25 GMT"
     },
@@ -571,13 +555,13 @@
     {
       "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED",
       "pubDate": "Tue, 03 Mar 2026 19:01:00 GMT"
+    },
+    {
+      "title": "Ukraine Is Teaching Cybersecurity to the World - Kyiv Post",
+      "pubDate": "Sun, 08 Mar 2026 06:56:24 GMT"
     }
   ],
   "US Economy": [
-    {
-      "title": "U.S. Economy Shed Nearly 1 Million Job Openings Last Year - The Wall Street Journal",
-      "pubDate": "Thu, 05 Feb 2026 15:41:00 GMT"
-    },
     {
       "title": "January job growth tops expectations, but economists question sustainability - The Christian Science Monitor",
       "pubDate": "Wed, 11 Feb 2026 21:54:32 GMT"
@@ -658,10 +642,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "*Climate Change and Wildlife: Advancing Research and On-the-Ground Solutions - The Wildlife Society",
-      "pubDate": "Thu, 05 Feb 2026 15:35:25 GMT"
-    },
     {
       "title": "Icy weather highlights open questions about climate change effects - USA Today",
       "pubDate": "Sat, 07 Feb 2026 19:29:00 GMT"
@@ -751,12 +731,6 @@
       "pubDate": "Fri, 06 Mar 2026 23:50:00 GMT"
     }
   ],
-  "North Korea": [
-    {
-      "title": "U.S. to Allow Aid to North Korea to Resume, While Outreach Stalls - The Wall Street Journal",
-      "pubDate": "Fri, 06 Feb 2026 08:25:00 GMT"
-    }
-  ],
   "Iran": [
     {
       "title": "US-Iran updates: FM Araghchi says latest round of talks \u2018a good start\u2019 - Al Jazeera",
@@ -841,6 +815,10 @@
     {
       "title": "Iran Live Updates: Trump Demands Iran's 'Unconditional Surrender' as War's Economic Cost Climbs - The New York Times",
       "pubDate": "Fri, 06 Mar 2026 23:45:54 GMT"
+    },
+    {
+      "title": "Middle East crisis live: Israel warns it will pursue Iran\u2019s next supreme leader; fire engulfs Kuwait city tower as Iranian strikes hit the Gulf - The Guardian",
+      "pubDate": "Sun, 08 Mar 2026 10:22:10 GMT"
     }
   ],
   "Climate": [
@@ -889,19 +867,11 @@
   ],
   "Federal Reserve": [
     {
-      "title": "Most want Supreme Court to rule against Trump on tariffs, Federal Reserve removal: Polling - The Hill",
-      "pubDate": "Thu, 05 Feb 2026 17:09:00 GMT"
-    },
-    {
       "title": "Federal Reserve governor warns AI could lead to rise in unemployment rate - The Hill",
       "pubDate": "Tue, 24 Feb 2026 17:15:00 GMT"
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "Senators Clash Over Immigration Enforcement, Risking a D.H.S. Shutdown - The New York Times",
-      "pubDate": "Thu, 05 Feb 2026 22:44:47 GMT"
-    },
     {
       "title": "DHS warned its independent watchdog that Noem can kill its investigations, senator says - NBC News",
       "pubDate": "Fri, 06 Feb 2026 23:42:05 GMT"
@@ -961,6 +931,10 @@
     {
       "title": "US senator seeks perjury investigation into Kristi Noem over DHS spending - The Guardian",
       "pubDate": "Fri, 06 Mar 2026 17:17:00 GMT"
+    },
+    {
+      "title": "Trump Ousts Noem as Homeland Security Secretary - The New York Times",
+      "pubDate": "Sun, 08 Mar 2026 05:52:36 GMT"
     }
   ],
   "Terrorism": [
@@ -1109,10 +1083,6 @@
   ],
   "AI Ethics": [
     {
-      "title": "Mexico Unveils National Declaration on Ethical AI to Guide Public Policy and Protect Human Rights - BABL AI",
-      "pubDate": "Thu, 05 Feb 2026 13:00:29 GMT"
-    },
-    {
       "title": "AI safety researchers exit Anthropic, OpenAI; flag ethical concerns - The Economic Times",
       "pubDate": "Thu, 12 Feb 2026 04:32:22 GMT"
     },
@@ -1216,10 +1186,6 @@
     }
   ],
   "AI Alignment": [
-    {
-      "title": "Rational but wrong: How AI misinterprets choices and quietly skews decisions - Devdiscourse",
-      "pubDate": "Fri, 06 Feb 2026 05:52:33 GMT"
-    },
     {
       "title": "Anthropic hires philosopher to teach Claude AI manners and morals - India Today",
       "pubDate": "Wed, 11 Feb 2026 10:25:11 GMT"
@@ -1382,10 +1348,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Latest Jeffrey Epstein file disclosures rock the rich and powerful: Top takeaways - NBC News",
-      "pubDate": "Thu, 05 Feb 2026 17:41:00 GMT"
-    },
     {
       "title": "Epstein built ties to Russians and sought to meet Putin, files show - The Washington Post",
       "pubDate": "Fri, 06 Feb 2026 11:32:02 GMT"
@@ -1575,10 +1537,6 @@
   ],
   "Anthropic": [
     {
-      "title": "Anthropic's newest AI model uncovered 500 zero-day software flaws in testing - Axios",
-      "pubDate": "Thu, 05 Feb 2026 17:45:12 GMT"
-    },
-    {
       "title": "Anthropic Puts $20 Million Into a Super PAC Operation to Counter OpenAI - The New York Times",
       "pubDate": "Thu, 12 Feb 2026 12:00:06 GMT"
     },
@@ -1599,12 +1557,6 @@
     {
       "title": "India\u2019s semiconductor market to hit $103 billlion by 2030, fuelled by AI, EVs, and defence - The Economic Times",
       "pubDate": "Sat, 28 Feb 2026 06:11:16 GMT"
-    }
-  ],
-  "Economic": [
-    {
-      "title": "January Layoffs Surge Across US, Jobs Report Says - Forbes",
-      "pubDate": "Thu, 05 Feb 2026 15:38:54 GMT"
     }
   ],
   "Military Intelligence": [
@@ -2105,6 +2057,10 @@
     {
       "title": "Tech jobs are getting demolished in ways not seen since 2008 and the dot-com bust - Business Insider",
       "pubDate": "Fri, 06 Mar 2026 18:16:00 GMT"
+    },
+    {
+      "title": "Judge Voids Mass Layoffs at Voice of America - The New York Times",
+      "pubDate": "Sun, 08 Mar 2026 03:18:13 GMT"
     }
   ],
   "Asia": [
