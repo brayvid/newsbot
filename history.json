@@ -143,6 +143,10 @@
     {
       "title": "OpenAI robotics chief quits over AI\u2019s potential use for war and surveillance - France 24",
       "pubDate": "Sun, 08 Mar 2026 05:26:37 GMT"
+    },
+    {
+      "title": "AI Achieves First Fields Medal Result, Blazes Through 200,000 Lines of Code in Two Weeks, Shakes Up Math Community - 36 Kr",
+      "pubDate": "Mon, 09 Mar 2026 04:04:20 GMT"
     }
   ],
   "Israel": [
@@ -269,10 +273,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump imposes tariffs on countries that import from Iran as nuclear talks resume - The Times of Israel",
-      "pubDate": "Fri, 06 Feb 2026 23:13:00 GMT"
-    },
-    {
       "title": "\u2018I Didn\u2019t Make a Mistake\u2019: Trump Declines to Apologize for Racist Video of Obamas - The New York Times",
       "pubDate": "Sat, 07 Feb 2026 16:23:00 GMT"
     },
@@ -397,10 +397,6 @@
   ],
   "AI Safety": [
     {
-      "title": "California ballot proposal looking to create AI Safety Commission cleared for signature gathering - ABC10",
-      "pubDate": "Fri, 06 Feb 2026 20:41:00 GMT"
-    },
-    {
       "title": "New York CEO Dan Herbatschek of Ramsey Theory Capital Delivers New Real-Time Governance for Enterprise AI Systems as AI Safety Laws Accelerate - The Manila Times",
       "pubDate": "Sat, 07 Feb 2026 16:51:05 GMT"
     },
@@ -491,6 +487,10 @@
     {
       "title": "Anthropic Reopens Talks with Pentagon After Feud Over AI Safety - Bloomberg",
       "pubDate": "Thu, 05 Mar 2026 15:59:36 GMT"
+    },
+    {
+      "title": "Amazon, Google, Microsoft urged by 700,000 US tech workers to reject Pentagon push to remove AI safety guardrails - Storyboard18",
+      "pubDate": "Mon, 09 Mar 2026 04:31:56 GMT"
     }
   ],
   "Data Breach": [
@@ -559,6 +559,10 @@
     {
       "title": "Ukraine Is Teaching Cybersecurity to the World - Kyiv Post",
       "pubDate": "Sun, 08 Mar 2026 06:56:24 GMT"
+    },
+    {
+      "title": "FBI investigating breach that reportedly hit wiretapping net - theregister.com",
+      "pubDate": "Sun, 08 Mar 2026 23:14:00 GMT"
     }
   ],
   "US Economy": [
@@ -819,6 +823,10 @@
     {
       "title": "Middle East crisis live: Israel warns it will pursue Iran\u2019s next supreme leader; fire engulfs Kuwait city tower as Iranian strikes hit the Gulf - The Guardian",
       "pubDate": "Sun, 08 Mar 2026 10:22:10 GMT"
+    },
+    {
+      "title": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran - Al Jazeera",
+      "pubDate": "Mon, 09 Mar 2026 04:03:19 GMT"
     }
   ],
   "Climate": [
@@ -872,10 +880,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "DHS warned its independent watchdog that Noem can kill its investigations, senator says - NBC News",
-      "pubDate": "Fri, 06 Feb 2026 23:42:05 GMT"
-    },
     {
       "title": "The Department of Homeland Security Is Demanding That Google Turn Over Information About Random Critics - Yahoo",
       "pubDate": "Sun, 08 Feb 2026 20:00:00 GMT"
@@ -939,10 +943,6 @@
   ],
   "Terrorism": [
     {
-      "title": "Westminster man pleads guilty to federal terrorism charge - The Denver Post",
-      "pubDate": "Fri, 06 Feb 2026 20:41:24 GMT"
-    },
-    {
       "title": "Artificial Intelligence and Terrorism: a Warning from Chinese and American Experts - Le Figaro",
       "pubDate": "Wed, 11 Feb 2026 04:00:00 GMT"
     },
@@ -1001,10 +1001,6 @@
   ],
   "Democratic Party": [
     {
-      "title": "A Pro-Israel Group\u2019s Move Backfires as Gaza Tensions Flare in Midterms - The New York Times",
-      "pubDate": "Fri, 06 Feb 2026 17:24:21 GMT"
-    },
-    {
       "title": "White House Rejects Democrats\u2019 Offer for Deal to Reopen D.H.S. - The New York Times",
       "pubDate": "Tue, 17 Feb 2026 23:07:22 GMT"
     }
@@ -1039,6 +1035,10 @@
     {
       "title": "Bulletproof Vests and Rolex Watches: The Rise and Fall of Kristi Noem - The New York Times",
       "pubDate": "Fri, 06 Mar 2026 03:56:06 GMT"
+    },
+    {
+      "title": "Trump says he won't sign bills until Congress overhauls voting - NPR",
+      "pubDate": "Sun, 08 Mar 2026 19:48:23 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1257,17 +1257,7 @@
       "pubDate": "Thu, 19 Feb 2026 16:04:38 GMT"
     }
   ],
-  "Central Intelligence Agency": [
-    {
-      "title": "Senator, who has repeatedly warned about secret US government surveillance, sounds new alarm over \u2018CIA activities\u2019 - Yahoo",
-      "pubDate": "Fri, 06 Feb 2026 18:02:44 GMT"
-    }
-  ],
   "Cyberattack": [
-    {
-      "title": "EU Discloses January Cyberattack That Exposed Some Staff Data - bloomberg.com",
-      "pubDate": "Fri, 06 Feb 2026 21:34:08 GMT"
-    },
     {
       "title": "Leaked Documents Show China Rehearsing Cyberattacks on Neighbors\u2019 Critical Infrastructure - Homeland Security Today",
       "pubDate": "Wed, 11 Feb 2026 11:41:27 GMT"
@@ -1327,10 +1317,6 @@
   ],
   "Department of Justice": [
     {
-      "title": "Key participant in 2012 Benghazi attack has been brought to U.S. to face charges, DOJ says - NBC News",
-      "pubDate": "Fri, 06 Feb 2026 19:20:51 GMT"
-    },
-    {
       "title": "Judge orders DOJ to unseal records on Georgia 2020 ballot raid by Tuesday - cbsnews.com",
       "pubDate": "Mon, 09 Feb 2026 00:09:00 GMT"
     },
@@ -1344,10 +1330,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Members of Congress will be able to view unredacted Epstein files next week - NBC News",
-      "pubDate": "Fri, 06 Feb 2026 22:58:06 GMT"
-    },
     {
       "title": "How Epstein lured his victims: the women behind the black boxes - The Times",
       "pubDate": "Sat, 07 Feb 2026 22:15:00 GMT"
@@ -1555,25 +1537,11 @@
   ],
   "Drone Warfare": [
     {
-      "title": "Deadly attacks hit Kordofan as scrutiny grows over drone warfare in Sudan - Radio Dabanga",
-      "pubDate": "Fri, 06 Feb 2026 19:37:18 GMT"
-    },
-    {
       "title": "Ukrainian drone strike sparks fire at Russian Black Sea port ahead of talks with U.S. - CBS News",
       "pubDate": "Sun, 15 Feb 2026 13:16:42 GMT"
     }
   ],
-  "Universe": [
-    {
-      "title": "'Invisible scaffolding of the universe' revealed in ambitious new James Webb telescope images - Live Science",
-      "pubDate": "Fri, 06 Feb 2026 22:04:42 GMT"
-    }
-  ],
   "Economics": [
-    {
-      "title": "Dow surges 1,200 points for first close above 50,000 in sharp rebound from tech rout: Live updates - CNBC",
-      "pubDate": "Fri, 06 Feb 2026 19:49:36 GMT"
-    },
     {
       "title": "Economic growth is still heating the planet. Is there any way out? - The Guardian",
       "pubDate": "Tue, 10 Feb 2026 12:26:00 GMT"
@@ -1897,6 +1865,10 @@
     {
       "title": "Middle East war: Oil hits highest level since start of Iran crisis - Financial Times",
       "pubDate": "Fri, 06 Mar 2026 10:43:08 GMT"
+    },
+    {
+      "title": "Surging Oil Prices Threaten NVIDIA, Amazon, and Meta - 24/7 Wall St.",
+      "pubDate": "Mon, 09 Mar 2026 00:15:56 GMT"
     }
   ],
   "Human Brain": [
@@ -2067,6 +2039,12 @@
     {
       "title": "Oil prices are soaring, but Trump is downplaying the need to tap the Strategic Petroleum Reserve - Times West Virginian",
       "pubDate": "Sun, 08 Mar 2026 10:00:00 GMT"
+    }
+  ],
+  "Domestic Terrorism": [
+    {
+      "title": "FBI launches terrorism investigation after homemade explosive device ignited outside of NYC Mayor Mamdani's residence - CBS News",
+      "pubDate": "Sun, 08 Mar 2026 20:06:00 GMT"
     }
   ]
 }
