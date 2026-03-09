@@ -219,10 +219,6 @@
   ],
   "Russia": [
     {
-      "title": "US wants Russia and Ukraine to end war by June, says Zelensky - BBC",
-      "pubDate": "Sat, 07 Feb 2026 14:05:01 GMT"
-    },
-    {
       "title": "Russian military scrambles to find Starlink alternative after access blocked - The Guardian",
       "pubDate": "Mon, 09 Feb 2026 16:26:00 GMT"
     },
@@ -272,10 +268,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "\u2018I Didn\u2019t Make a Mistake\u2019: Trump Declines to Apologize for Racist Video of Obamas - The New York Times",
-      "pubDate": "Sat, 07 Feb 2026 16:23:00 GMT"
-    },
     {
       "title": "Trump to Meet Netanyahu in Washington Amid Tensions With Iran - The New York Times",
       "pubDate": "Wed, 11 Feb 2026 10:46:27 GMT"
@@ -396,10 +388,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "New York CEO Dan Herbatschek of Ramsey Theory Capital Delivers New Real-Time Governance for Enterprise AI Systems as AI Safety Laws Accelerate - The Manila Times",
-      "pubDate": "Sat, 07 Feb 2026 16:51:05 GMT"
-    },
     {
       "title": "The Ouroboros Moment: OpenAI Says Its Newest AI Was Built by AI Itself \u2014 And the Industry Is Taking Notice - WebProNews",
       "pubDate": "Sun, 08 Feb 2026 20:59:36 GMT"
@@ -839,6 +827,10 @@
     {
       "title": "Iran latest: Oil price passes $100 for first time since 2022 as Starmer warns of economic impact - BBC",
       "pubDate": "Mon, 09 Mar 2026 10:50:11 GMT"
+    },
+    {
+      "title": "Iran Live Updates: Oil Prices Soar as Fighting Escalates; Iran Picks Khamenei's Son as Leader, Defying Trump - The New York Times",
+      "pubDate": "Mon, 09 Mar 2026 16:47:32 GMT"
     }
   ],
   "Climate": [
@@ -995,6 +987,10 @@
     {
       "title": "The US has surpassed 1,100 measles cases in two months. Expect more deaths next - CNN",
       "pubDate": "Fri, 27 Feb 2026 15:17:18 GMT"
+    },
+    {
+      "title": "Scientists Get a Glimpse of How New Pandemics Are Made - The New York Times",
+      "pubDate": "Mon, 09 Mar 2026 09:01:58 GMT"
     }
   ],
   "The Pentagon": [
@@ -1163,6 +1159,10 @@
     {
       "title": "NASA confirms: Asteroid 2024 YR4 will NOT hit the Moon in 2032 after new orbit calculations - The Times of India",
       "pubDate": "Fri, 06 Mar 2026 05:44:00 GMT"
+    },
+    {
+      "title": "Congress wants the International Space Station to keep flying until 2032. Here's why - Space",
+      "pubDate": "Mon, 09 Mar 2026 10:00:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -2073,6 +2073,12 @@
     {
       "title": "FBI launches terrorism investigation after homemade explosive device ignited outside of NYC Mayor Mamdani's residence - CBS News",
       "pubDate": "Sun, 08 Mar 2026 20:06:00 GMT"
+    }
+  ],
+  "Robotics": [
+    {
+      "title": "Nvidia and ABB launch partnership for AI-enabled autonomous robots - Financial Times",
+      "pubDate": "Mon, 09 Mar 2026 13:23:30 GMT"
     }
   ]
 }
