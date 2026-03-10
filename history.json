@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "US companies accused of \u2018AI washing\u2019 in citing artificial intelligence for job losses - The Guardian",
-      "pubDate": "Sun, 08 Feb 2026 16:03:00 GMT"
-    },
-    {
       "title": "As AI enters the operating room, reports arise of botched surgeries and misidentified body parts - Reuters",
       "pubDate": "Mon, 09 Feb 2026 11:30:00 GMT"
     },
@@ -487,10 +483,6 @@
   ],
   "Data Breach": [
     {
-      "title": "SoundCloud data breach exposes 29.8 million user accounts - foxnews.com",
-      "pubDate": "Sun, 08 Feb 2026 14:01:15 GMT"
-    },
-    {
       "title": "PayPal Data Breach Confirmed\u2014Money Was Stolen, Passwords Now Reset - Forbes",
       "pubDate": "Sat, 21 Feb 2026 12:55:00 GMT"
     },
@@ -555,6 +547,10 @@
     {
       "title": "FBI investigating breach that reportedly hit wiretapping net - theregister.com",
       "pubDate": "Sun, 08 Mar 2026 23:14:00 GMT"
+    },
+    {
+      "title": "February 2025 Cyberattack Affected More Than 230K Bell Ambulance Patients - The HIPAA Journal",
+      "pubDate": "Tue, 10 Mar 2026 14:23:26 GMT"
     }
   ],
   "US Economy": [
@@ -875,6 +871,10 @@
     {
       "title": "Drones Strike Key Oil Pumping Hub in Russia\u2019s Krasnodar Region, Massive Fire Reported - UNITED24 Media",
       "pubDate": "Sun, 08 Mar 2026 10:00:16 GMT"
+    },
+    {
+      "title": "Exclusive: U.S. dismissed Ukraine deal for anti-Iran drone tech last year - Axios",
+      "pubDate": "Tue, 10 Mar 2026 10:58:11 GMT"
     }
   ],
   "Federal Reserve": [
@@ -978,10 +978,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "US Government Seeking Volunteers to Store Nuclear Sludge - Futurism",
-      "pubDate": "Sun, 08 Feb 2026 14:45:00 GMT"
-    },
     {
       "title": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power - NPR",
       "pubDate": "Sat, 21 Feb 2026 15:23:17 GMT"
@@ -1557,12 +1553,6 @@
       "pubDate": "Sat, 28 Feb 2026 06:11:16 GMT"
     }
   ],
-  "Military Intelligence": [
-    {
-      "title": "Russia detains suspect in shooting of top military intelligence officer in Moscow - TRT World",
-      "pubDate": "Sun, 08 Feb 2026 11:37:43 GMT"
-    }
-  ],
   "Drone Warfare": [
     {
       "title": "Ukrainian drone strike sparks fire at Russian Black Sea port ahead of talks with U.S. - CBS News",
@@ -1575,17 +1565,7 @@
       "pubDate": "Tue, 10 Feb 2026 12:26:00 GMT"
     }
   ],
-  "Autonomous Vehicles": [
-    {
-      "title": "Waymo Reveals Its Driverless Cars Are \"Guided\" By Remote Workers In Philippines: \"Phone-A-Friend\" - NDTV",
-      "pubDate": "Sun, 08 Feb 2026 13:47:19 GMT"
-    }
-  ],
   "Japan": [
-    {
-      "title": "Japan's governing party on course for landslide election win - BBC",
-      "pubDate": "Sun, 08 Feb 2026 16:52:15 GMT"
-    },
     {
       "title": "Drive to Unlock $840 Billion in Cash Lifts Japan Stocks Outlook - Bloomberg",
       "pubDate": "Tue, 24 Feb 2026 22:00:00 GMT"
@@ -1911,12 +1891,20 @@
     {
       "title": "Superagers' brains have a 'resilience signature,' and it's all about neuron growth - Medical Xpress",
       "pubDate": "Wed, 25 Feb 2026 16:00:01 GMT"
+    },
+    {
+      "title": "Scientists Teach A Dish Of Human Neurons To Play DOOM - 80 Level",
+      "pubDate": "Tue, 10 Mar 2026 15:35:35 GMT"
     }
   ],
   "Medicine": [
     {
       "title": "Scientists turn methane into medicine in stunning breakthrough - ScienceDaily",
       "pubDate": "Fri, 27 Feb 2026 15:53:35 GMT"
+    },
+    {
+      "title": "These diseases were thought to be incurable. Now AI is unlocking new treatments - BBC",
+      "pubDate": "Tue, 10 Mar 2026 10:00:00 GMT"
     }
   ],
   "Renewable Energy": [
@@ -2091,6 +2079,12 @@
     {
       "title": "Nvidia and ABB launch partnership for AI-enabled autonomous robots - Financial Times",
       "pubDate": "Mon, 09 Mar 2026 13:23:30 GMT"
+    }
+  ],
+  "Internet Security": [
+    {
+      "title": "AI Just Made Executives the Easiest Targets on the Internet - Security Boulevard",
+      "pubDate": "Tue, 10 Mar 2026 11:26:15 GMT"
     }
   ]
 }
