@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "The AI boom is so huge it\u2019s causing shortages everywhere else - The Washington Post",
-      "pubDate": "Sat, 07 Feb 2026 18:00:00 GMT"
-    },
-    {
       "title": "US companies accused of \u2018AI washing\u2019 in citing artificial intelligence for job losses - The Guardian",
       "pubDate": "Sun, 08 Feb 2026 16:03:00 GMT"
     },
@@ -483,6 +479,10 @@
     {
       "title": "Chatbot lawsuits push AI safety fight to the courts - Axios",
       "pubDate": "Mon, 09 Mar 2026 08:27:31 GMT"
+    },
+    {
+      "title": "Anthropic Sues U.S. Defense Department, Pete Hegseth for Targeting the Company - WSJ",
+      "pubDate": "Tue, 10 Mar 2026 06:34:00 GMT"
     }
   ],
   "Data Breach": [
@@ -621,13 +621,13 @@
     {
       "title": "OpenAI Amending Pentagon Agreement, CEO Altman Confirms - Meyka",
       "pubDate": "Tue, 03 Mar 2026 09:34:10 GMT"
+    },
+    {
+      "title": "Family sues ChatGPT-maker OpenAI over school shooting in Canada - AP News",
+      "pubDate": "Tue, 10 Mar 2026 01:53:00 GMT"
     }
   ],
   "Gaza": [
-    {
-      "title": "Updates: Gaza struggles for clean water, Hamas says ceasefire \u2018meaningless\u2019 - Al Jazeera",
-      "pubDate": "Sat, 07 Feb 2026 19:36:35 GMT"
-    },
     {
       "title": "Updates: Israel kills 11 Palestinians in Gaza in 24 hours - Al Jazeera",
       "pubDate": "Sun, 15 Feb 2026 15:05:19 GMT"
@@ -638,10 +638,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Icy weather highlights open questions about climate change effects - USA Today",
-      "pubDate": "Sat, 07 Feb 2026 19:29:00 GMT"
-    },
     {
       "title": "EPA set to repeal landmark finding that climate change endangers the public - The Hill",
       "pubDate": "Tue, 10 Feb 2026 14:55:00 GMT"
@@ -831,6 +827,10 @@
     {
       "title": "Iran Live Updates: Oil Prices Soar as Fighting Escalates; Iran Picks Khamenei's Son as Leader, Defying Trump - The New York Times",
       "pubDate": "Mon, 09 Mar 2026 16:47:32 GMT"
+    },
+    {
+      "title": "Live updates: Iran warns it will blockade oil until attacks end as Trump threatens 'death, fire and fury' - NBC News",
+      "pubDate": "Tue, 10 Mar 2026 10:46:08 GMT"
     }
   ],
   "Climate": [
@@ -961,6 +961,10 @@
     {
       "title": "Russia Moves Closer to Banning Telegram App, Saying It Foments Terrorism - The New York Times",
       "pubDate": "Tue, 24 Feb 2026 17:22:39 GMT"
+    },
+    {
+      "title": "Two men charged in 'ISIS-inspired' Gracie Mansion explosive terror plot - ABC7 New York",
+      "pubDate": "Tue, 10 Mar 2026 09:54:21 GMT"
     }
   ],
   "United Nations": [
@@ -1347,10 +1351,6 @@
   ],
   "Epstein Files": [
     {
-      "title": "How Epstein lured his victims: the women behind the black boxes - The Times",
-      "pubDate": "Sat, 07 Feb 2026 22:15:00 GMT"
-    },
-    {
       "title": "Epstein files: Republican lawmaker Massie calls for Trump Commerce chief Lutnick to resign - CNBC",
       "pubDate": "Sun, 08 Feb 2026 19:27:58 GMT"
     },
@@ -1473,6 +1473,10 @@
     {
       "title": "Justice Dept. releases missing Epstein documents with Trump allegations - The Washington Post",
       "pubDate": "Sat, 07 Mar 2026 03:47:24 GMT"
+    },
+    {
+      "title": "New Mexico Department of Justice begins search of Epstein's Zorro Ranch - Santa Fe New Mexican",
+      "pubDate": "Tue, 10 Mar 2026 05:30:00 GMT"
     }
   ],
   "Energy Storage": [
@@ -1823,6 +1827,10 @@
     {
       "title": "FBI investigating \u2018suspicious\u2019 cyber activities on critical surveillance network - CNN",
       "pubDate": "Thu, 05 Mar 2026 18:17:56 GMT"
+    },
+    {
+      "title": "FBI obtains voting data from Arizona GOP\u2019s 2020 review that confirmed Trump\u2019s loss - The Washington Post",
+      "pubDate": "Tue, 10 Mar 2026 04:06:30 GMT"
     }
   ],
   "Military and Defense": [
@@ -1961,6 +1969,10 @@
     {
       "title": "Supreme Court could loosen law barring marijuana users from owning guns - WDIV",
       "pubDate": "Mon, 02 Mar 2026 19:54:58 GMT"
+    },
+    {
+      "title": "Two Supreme Court Justices Debate Handling of Trump Emergency Cases - The New York Times",
+      "pubDate": "Tue, 10 Mar 2026 01:22:13 GMT"
     }
   ],
   "Abiogenesis": [
