@@ -1,22 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Trump set off a surge of AI in the federal government. See what happened. - The Washington Post",
-      "pubDate": "Mon, 09 Feb 2026 17:32:20 GMT"
-    },
-    {
-      "title": "China's Alibaba launches AI model to power robots as tech giants talk up 'physical AI' - CNBC",
-      "pubDate": "Tue, 10 Feb 2026 11:05:49 GMT"
-    },
-    {
-      "title": "China enlists AI to sniff out corruption in public bidding - Reuters",
-      "pubDate": "Tue, 10 Feb 2026 15:55:30 GMT"
-    },
-    {
-      "title": "Adam Schiff And John Curtis Introduce Bill To Require Tech To Disclose Copyrighted Works Used In AI Training Models - Deadline",
-      "pubDate": "Tue, 10 Feb 2026 14:30:00 GMT"
-    },
-    {
       "title": "OpenAI opening ChatGPT access to Pentagon - The Hill",
       "pubDate": "Wed, 11 Feb 2026 15:26:00 GMT"
     },
@@ -169,10 +153,6 @@
   ],
   "Ukraine": [
     {
-      "title": "EU Parliament to vote on \u20ac90B Ukraine loan Wednesday - politico.eu",
-      "pubDate": "Mon, 09 Feb 2026 17:42:00 GMT"
-    },
-    {
       "title": "Ukraine-Russia war latest: Russian losses mount as Putin\u2019s forces battle in key city - The Independent",
       "pubDate": "Tue, 10 Feb 2026 23:54:11 GMT"
     },
@@ -207,13 +187,13 @@
     {
       "title": "Russia Hits Ukraine With Deadly Barrage of Missiles and Drones - The New York Times",
       "pubDate": "Sat, 07 Mar 2026 11:42:55 GMT"
+    },
+    {
+      "title": "Ukraine strikes Russian electronics plant that builds missile components - The Washington Post",
+      "pubDate": "Thu, 12 Mar 2026 17:23:47 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Norway defence chief says Russia could invade to protect nuclear assets - The Guardian",
-      "pubDate": "Tue, 10 Feb 2026 17:38:00 GMT"
-    },
     {
       "title": "Russia moves to block WhatsApp in messaging app crackdown - BBC",
       "pubDate": "Thu, 12 Feb 2026 03:57:46 GMT"
@@ -372,10 +352,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Anthropic's Head Of AI Safety Quits, Warns Of 'World In Peril' In Cryptic Resignation Letter - NDTV",
-      "pubDate": "Tue, 10 Feb 2026 07:05:15 GMT"
-    },
     {
       "title": "Anthropic says latest model could be misused for \"heinous crimes\" like chemical weapons - Axios",
       "pubDate": "Wed, 11 Feb 2026 13:58:31 GMT"
@@ -595,12 +571,6 @@
       "pubDate": "Tue, 10 Mar 2026 20:13:24 GMT"
     }
   ],
-  "Earthquakes": [
-    {
-      "title": "Scientists Map the Invisible Fault That Could Trigger the Next Major Earthquake - SciTechDaily",
-      "pubDate": "Tue, 10 Feb 2026 01:38:49 GMT"
-    }
-  ],
   "OpenAI": [
     {
       "title": "Microsoft AI CEO Mustafa Suleyman confirms company is 'dumping' OpenAI, says: My personal mission at Micr - Times of India",
@@ -630,14 +600,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "EPA set to repeal landmark finding that climate change endangers the public - The Hill",
-      "pubDate": "Tue, 10 Feb 2026 14:55:00 GMT"
-    },
-    {
-      "title": "Climate Change Is Erased From a Manual for Federal Judges - The New York Times",
-      "pubDate": "Tue, 10 Feb 2026 20:02:06 GMT"
-    },
     {
       "title": "Scientists thought they understood global warming. Then the past three years happened. - The Washington Post",
       "pubDate": "Wed, 11 Feb 2026 18:00:05 GMT"
@@ -835,6 +797,10 @@
     {
       "title": "'Largest ever' oil reserve release agreed by 32 countries, as Strait of Hormuz ships attacked - BBC",
       "pubDate": "Wed, 11 Mar 2026 16:18:26 GMT"
+    },
+    {
+      "title": "Iran War Live Updates: Israel Strikes Beirut as Iran's Supreme Leader Says Strait of Hormuz Must Remain Closed - The New York Times",
+      "pubDate": "Thu, 12 Mar 2026 22:42:10 GMT"
     }
   ],
   "Climate": [
@@ -849,18 +815,6 @@
     {
       "title": "U.S. Tells International Energy Agency to Drop Its Focus on Climate Change - The New York Times",
       "pubDate": "Thu, 19 Feb 2026 19:29:48 GMT"
-    }
-  ],
-  "Cybersecurity and Infrastructure Security Agency": [
-    {
-      "title": "After major Poland energy grid cyberattack, CISA issues warning to U.S. audience - CyberScoop",
-      "pubDate": "Tue, 10 Feb 2026 16:04:46 GMT"
-    }
-  ],
-  "Hacking": [
-    {
-      "title": "Karma strikes as AI hacking platform WormGPT gets hacked itself - Cybernews",
-      "pubDate": "Tue, 10 Feb 2026 09:45:00 GMT"
     }
   ],
   "Drones": [
@@ -892,10 +846,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "Democrats reject latest White House offer on ICE reforms with Homeland Security funding hanging in the balance - CBS News",
-      "pubDate": "Tue, 10 Feb 2026 11:54:35 GMT"
-    },
     {
       "title": "Democrats will block new stopgap to fund Homeland Security Department - The Hill",
       "pubDate": "Wed, 11 Feb 2026 15:04:00 GMT"
@@ -1017,6 +967,10 @@
     {
       "title": "Pentagon says about 140 troops wounded, 8 severely, in war with Iran - The Washington Post",
       "pubDate": "Wed, 11 Mar 2026 05:50:11 GMT"
+    },
+    {
+      "title": "Pentagon: First week of Iran war cost about $11B - Politico",
+      "pubDate": "Thu, 12 Mar 2026 18:08:43 GMT"
     }
   ],
   "Democratic Party": [
@@ -1217,10 +1171,6 @@
   ],
   "NASA": [
     {
-      "title": "NASA finds Earth\u2019s magnetic field may be the hidden reason oxygen has lasted for millions of years - Times of India",
-      "pubDate": "Tue, 10 Feb 2026 02:30:00 GMT"
-    },
-    {
       "title": "NASA announces major overhaul to its Artemis moon program - NBC News",
       "pubDate": "Fri, 27 Feb 2026 22:43:47 GMT"
     },
@@ -1240,10 +1190,6 @@
     }
   ],
   "Artificial General Intelligence": [
-    {
-      "title": "AI could trigger a global jobs market collapse by 2027 if left unchecked, former Google ethicist warns - Fortune",
-      "pubDate": "Tue, 10 Feb 2026 17:31:00 GMT"
-    },
     {
       "title": "The existential AI threat is here \u2014 and some AI leaders are fleeing - Axios",
       "pubDate": "Thu, 12 Feb 2026 10:28:27 GMT"
@@ -1293,10 +1239,6 @@
   ],
   "Social Media": [
     {
-      "title": "Landmark trial accusing social media companies of addicting children to their platforms begins - AP News",
-      "pubDate": "Tue, 10 Feb 2026 03:01:00 GMT"
-    },
-    {
       "title": "Indonesia to ban social media for children under 16 - The Guardian",
       "pubDate": "Fri, 06 Mar 2026 16:25:00 GMT"
     }
@@ -1332,10 +1274,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "House Dem identifies \u2018wealthy, powerful men\u2019 DOJ redacted in Epstein files - Politico",
-      "pubDate": "Tue, 10 Feb 2026 19:56:17 GMT"
-    },
     {
       "title": "Trump is in the unredacted Epstein files \"more than a million times,\" Raskin alleges - Axios",
       "pubDate": "Wed, 11 Feb 2026 09:32:40 GMT"
@@ -1557,12 +1495,6 @@
       "pubDate": "Sun, 15 Feb 2026 13:16:42 GMT"
     }
   ],
-  "Economics": [
-    {
-      "title": "Economic growth is still heating the planet. Is there any way out? - The Guardian",
-      "pubDate": "Tue, 10 Feb 2026 12:26:00 GMT"
-    }
-  ],
   "Japan": [
     {
       "title": "Drive to Unlock $840 Billion in Cash Lifts Japan Stocks Outlook - Bloomberg",
@@ -1587,10 +1519,6 @@
   ],
   "Big Tech": [
     {
-      "title": "US plans Big Tech carve-out from next chip tariffs, FT reports - Reuters",
-      "pubDate": "Tue, 10 Feb 2026 00:04:40 GMT"
-    },
-    {
       "title": "Big Tech Is Now Big on Debt and That Changes Everything - Bloomberg.com",
       "pubDate": "Wed, 11 Feb 2026 17:37:12 GMT"
     },
@@ -1605,12 +1533,6 @@
     {
       "title": "Meta CEO to testify in high-stakes trial that could cost Big Tech billions - Fox Business",
       "pubDate": "Wed, 18 Feb 2026 10:00:00 GMT"
-    }
-  ],
-  "Benjamin Netanyahu": [
-    {
-      "title": "Netanyahu rushes to Washington for talks with Trump over Iran - The Times",
-      "pubDate": "Tue, 10 Feb 2026 08:30:00 GMT"
     }
   ],
   "Canada": [
@@ -2089,6 +2011,18 @@
     {
       "title": "U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says - The New York Times",
       "pubDate": "Wed, 11 Mar 2026 14:45:43 GMT"
+    }
+  ],
+  "Scott Bessent": [
+    {
+      "title": "Iran War: U.S. Navy will escort oil tankers through Strait of Hormuz when 'militarily possible,' Bessent tells Sky News - CNBC",
+      "pubDate": "Thu, 12 Mar 2026 19:05:48 GMT"
+    }
+  ],
+  "UN Security Council": [
+    {
+      "title": "US and allies clash with Russia and China at UN over Iran nuclear program - Reuters",
+      "pubDate": "Thu, 12 Mar 2026 18:46:43 GMT"
     }
   ]
 }
