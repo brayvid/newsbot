@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "OpenAI opening ChatGPT access to Pentagon - The Hill",
-      "pubDate": "Wed, 11 Feb 2026 15:26:00 GMT"
-    },
-    {
       "title": "Actor takes legal action to stop Albania's government from using her image for 'AI minister' - NBC News",
       "pubDate": "Thu, 12 Feb 2026 14:31:35 GMT"
     },
@@ -157,10 +153,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine's nuclear plants still work at limited capacity after Russian strikes - Reuters",
-      "pubDate": "Wed, 11 Feb 2026 11:16:19 GMT"
-    },
-    {
       "title": "Ukraine says its drones hit nearly 1,100 miles into Russia in one of its deepest strikes, security official says - Business Insider",
       "pubDate": "Thu, 12 Feb 2026 15:36:00 GMT"
     },
@@ -233,6 +225,10 @@
     {
       "title": "Zelensky fears Trump's Iran war could hurt Ukraine - BBC",
       "pubDate": "Tue, 03 Mar 2026 13:41:43 GMT"
+    },
+    {
+      "title": "Trump administration allows for Russian oil sales as energy prices soar - The Washington Post",
+      "pubDate": "Fri, 13 Mar 2026 16:13:56 GMT"
     }
   ],
   "Donald Trump": [
@@ -295,6 +291,10 @@
     {
       "title": "Live Updates: Trump vows to end war soon as Iran hits ships, threatens banks, and toll on U.S. forces emerges - CBS News",
       "pubDate": "Wed, 11 Mar 2026 16:50:00 GMT"
+    },
+    {
+      "title": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome - Reuters",
+      "pubDate": "Fri, 13 Mar 2026 05:02:00 GMT"
     }
   ],
   "China": [
@@ -348,10 +348,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Anthropic says latest model could be misused for \"heinous crimes\" like chemical weapons - Axios",
-      "pubDate": "Wed, 11 Feb 2026 13:58:31 GMT"
-    },
     {
       "title": "Anthropic AI safety researcher quits with 'world in peril' warning - BBC",
       "pubDate": "Thu, 12 Feb 2026 12:21:10 GMT"
@@ -801,6 +797,10 @@
     {
       "title": "Iran War Live Updates: U.S. Refueling Plane Crashes in Iraq, Military Says - The New York Times",
       "pubDate": "Fri, 13 Mar 2026 04:30:39 GMT"
+    },
+    {
+      "title": "How one of Iran's most destructive weapons could threaten the U.S. - Axios",
+      "pubDate": "Fri, 13 Mar 2026 16:36:37 GMT"
     }
   ],
   "Climate": [
@@ -850,10 +850,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "Democrats will block new stopgap to fund Homeland Security Department - The Hill",
-      "pubDate": "Wed, 11 Feb 2026 15:04:00 GMT"
-    },
     {
       "title": "DHS Funding Lapse Could Stall Cyber Progress, CISA and Secret Service Warn - MeriTalk",
       "pubDate": "Thu, 12 Feb 2026 03:19:07 GMT"
@@ -1083,6 +1079,10 @@
     {
       "title": "Democrats drafting AI guardrails for autonomous weapons, domestic spying - Axios",
       "pubDate": "Thu, 12 Mar 2026 19:54:43 GMT"
+    },
+    {
+      "title": "AI ethics debate remains US-centered as global concerns take back seat | Daily Sabah - Daily Sabah",
+      "pubDate": "Fri, 13 Mar 2026 13:13:00 GMT"
     }
   ],
   "Space Exploration": [
@@ -1209,10 +1209,6 @@
   ],
   "Cyberattack": [
     {
-      "title": "Leaked Documents Show China Rehearsing Cyberattacks on Neighbors\u2019 Critical Infrastructure - Homeland Security Today",
-      "pubDate": "Wed, 11 Feb 2026 11:41:27 GMT"
-    },
-    {
       "title": "Google: China's APT31 used Gemini to plan cyberattacks against US orgs - theregister.com",
       "pubDate": "Thu, 12 Feb 2026 07:00:00 GMT"
     },
@@ -1231,6 +1227,10 @@
     {
       "title": "Stryker Hit With Suspected Iran-Linked Cyberattack - WSJ",
       "pubDate": "Wed, 11 Mar 2026 15:03:00 GMT"
+    },
+    {
+      "title": "The Big One: Cyberattack that could cripple food and drink - FoodNavigator.com",
+      "pubDate": "Fri, 13 Mar 2026 14:48:28 GMT"
     }
   ],
   "Social Media": [
@@ -1441,6 +1441,10 @@
     {
       "title": "Hasty redeployment of US missiles from South Korea to Middle East leaves Seoul rattled - The Guardian",
       "pubDate": "Wed, 11 Mar 2026 05:43:00 GMT"
+    },
+    {
+      "title": "Pentagon Is Moving Additional Marines, Warships to the Middle East - WSJ",
+      "pubDate": "Fri, 13 Mar 2026 16:10:07 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -1511,6 +1515,10 @@
     {
       "title": "Astronomers are capturing video of a black hole for the first time - CBC",
       "pubDate": "Sat, 07 Mar 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Have astronomers found a runaway monster black hole or just a very weird galaxy? - Scientific American",
+      "pubDate": "Fri, 13 Mar 2026 10:45:00 GMT"
     }
   ],
   "Big Tech": [
@@ -1533,10 +1541,6 @@
   ],
   "Canada": [
     {
-      "title": "Tumbler Ridge Live Updates: 9 Killed in Shooting at School and Home in British Columbia - The New York Times",
-      "pubDate": "Wed, 11 Feb 2026 11:22:15 GMT"
-    },
-    {
       "title": "Canada seeks answers from OpenAI for failing to alert police after suspending school shooter\u2019s account - The Guardian",
       "pubDate": "Mon, 23 Feb 2026 22:56:00 GMT"
     },
@@ -1555,12 +1559,6 @@
     {
       "title": "Gen. Joshua Rudd confirmed as NSA, Cyber Command head - The Washington Post",
       "pubDate": "Tue, 10 Mar 2026 22:18:50 GMT"
-    }
-  ],
-  "Science": [
-    {
-      "title": "Nanoplastics hindering cognitive abilities of fish, international research shows - Phys.org",
-      "pubDate": "Wed, 11 Feb 2026 11:44:45 GMT"
     }
   ],
   "DOJ": [
