@@ -153,10 +153,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine-Russia war latest: Russian losses mount as Putin\u2019s forces battle in key city - The Independent",
-      "pubDate": "Tue, 10 Feb 2026 23:54:11 GMT"
-    },
-    {
       "title": "Ukraine's nuclear plants still work at limited capacity after Russian strikes - Reuters",
       "pubDate": "Wed, 11 Feb 2026 11:16:19 GMT"
     },
@@ -801,6 +797,10 @@
     {
       "title": "Iran War Live Updates: Israel Strikes Beirut as Iran's Supreme Leader Says Strait of Hormuz Must Remain Closed - The New York Times",
       "pubDate": "Thu, 12 Mar 2026 22:42:10 GMT"
+    },
+    {
+      "title": "Iran War Live Updates: U.S. Refueling Plane Crashes in Iraq, Military Says - The New York Times",
+      "pubDate": "Fri, 13 Mar 2026 04:30:39 GMT"
     }
   ],
   "Climate": [
@@ -843,6 +843,10 @@
     {
       "title": "Federal Reserve governor warns AI could lead to rise in unemployment rate - The Hill",
       "pubDate": "Tue, 24 Feb 2026 17:15:00 GMT"
+    },
+    {
+      "title": "Federal Reserve to loosen capital requirements for big US banks - Financial Times",
+      "pubDate": "Thu, 12 Mar 2026 20:40:20 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -904,10 +908,6 @@
     }
   ],
   "Terrorism": [
-    {
-      "title": "Artificial Intelligence and Terrorism: a Warning from Chinese and American Experts - Le Figaro",
-      "pubDate": "Wed, 11 Feb 2026 04:00:00 GMT"
-    },
     {
       "title": "FBI and Las Vegas police investigate suspected case of terrorism - The Guardian",
       "pubDate": "Sat, 21 Feb 2026 04:02:00 GMT"
@@ -986,10 +986,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "National Governors Association meeting with Trump will not be held after Democrats uninvited - FOX 5 DC",
-      "pubDate": "Tue, 10 Feb 2026 23:25:17 GMT"
-    },
     {
       "title": "Congress searches for shutdown off-ramp as DHS employees start missing pay - Government Executive",
       "pubDate": "Mon, 02 Mar 2026 21:30:00 GMT"
@@ -1083,6 +1079,10 @@
     {
       "title": "The Pentagon Wants to Use AI to Kill People Without Checks. Is Anthropic Really Pushing Back? - Zeteo | Substack",
       "pubDate": "Tue, 03 Mar 2026 16:02:19 GMT"
+    },
+    {
+      "title": "Democrats drafting AI guardrails for autonomous weapons, domestic spying - Axios",
+      "pubDate": "Thu, 12 Mar 2026 19:54:43 GMT"
     }
   ],
   "Space Exploration": [
@@ -1261,6 +1261,10 @@
     {
       "title": "Tim Cook Warned by CIA That China Could Move on Taiwan by 2027 - MacRumors",
       "pubDate": "Tue, 24 Feb 2026 12:03:52 GMT"
+    },
+    {
+      "title": "Exclusive: New US weapons for Taiwan could be approved after Trump's China trip, sources say - Reuters",
+      "pubDate": "Fri, 13 Mar 2026 04:04:34 GMT"
     }
   ],
   "Department of Justice": [
@@ -1837,6 +1841,10 @@
     {
       "title": "Exclusive | A New Threat to Power Grids: Data Centers Unplugging at Once - WSJ",
       "pubDate": "Sun, 01 Mar 2026 10:30:00 GMT"
+    },
+    {
+      "title": "US Department of Energy to invest $1.9 billion for power grid upgrades - Reuters",
+      "pubDate": "Thu, 12 Mar 2026 19:39:03 GMT"
     }
   ],
   "Measles": [
@@ -2023,6 +2031,18 @@
     {
       "title": "US and allies clash with Russia and China at UN over Iran nuclear program - Reuters",
       "pubDate": "Thu, 12 Mar 2026 18:46:43 GMT"
+    }
+  ],
+  "Africa": [
+    {
+      "title": "Netherlands joins South Africa's ICJ case against Israel over Gaza genocide - Haaretz",
+      "pubDate": "Thu, 12 Mar 2026 20:15:00 GMT"
+    }
+  ],
+  "Adobe": [
+    {
+      "title": "Adobe CEO Shantanu Narayen says he will step down after company installs successor - CNBC",
+      "pubDate": "Thu, 12 Mar 2026 20:10:43 GMT"
     }
   ]
 }
