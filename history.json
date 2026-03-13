@@ -123,6 +123,10 @@
     {
       "title": "Without effective regulation of AI, society is facing a head-on collision with a driverless car - The Guardian",
       "pubDate": "Tue, 10 Mar 2026 22:40:00 GMT"
+    },
+    {
+      "title": "Morgan Stanley warns an AI breakthrough Is coming in 2026 \u2014 and most of the world isn't ready - Fortune",
+      "pubDate": "Fri, 13 Mar 2026 08:20:00 GMT"
     }
   ],
   "Israel": [
@@ -232,10 +236,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump to Meet Netanyahu in Washington Amid Tensions With Iran - The New York Times",
-      "pubDate": "Wed, 11 Feb 2026 10:46:27 GMT"
-    },
     {
       "title": "U.S. Attorney Chosen to Replace Trump Pick Is Quickly Fired by White House - The New York Times",
       "pubDate": "Thu, 12 Feb 2026 13:08:00 GMT"
@@ -1149,10 +1149,6 @@
   ],
   "AI Alignment": [
     {
-      "title": "Anthropic hires philosopher to teach Claude AI manners and morals - India Today",
-      "pubDate": "Wed, 11 Feb 2026 10:25:11 GMT"
-    },
-    {
       "title": "OpenAI disbands mission alignment team, which focused on 'safe' and 'trustworthy' AI development - TechCrunch",
       "pubDate": "Wed, 11 Feb 2026 21:57:18 GMT"
     },
@@ -1278,10 +1274,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Trump is in the unredacted Epstein files \"more than a million times,\" Raskin alleges - Axios",
-      "pubDate": "Wed, 11 Feb 2026 09:32:40 GMT"
-    },
     {
       "title": "Epstein files scrubbed to protect 'elite, powerful men,' Rep. Ro Khanna says - PBS",
       "pubDate": "Wed, 11 Feb 2026 23:28:05 GMT"
@@ -1547,23 +1539,19 @@
     {
       "title": "Canada seeks answers from OpenAI for failing to alert police after suspending school shooter\u2019s account - The Guardian",
       "pubDate": "Mon, 23 Feb 2026 22:56:00 GMT"
+    },
+    {
+      "title": "Canada launches tens of billions in Arctic military investment - Financial Times",
+      "pubDate": "Fri, 13 Mar 2026 00:41:43 GMT"
     }
   ],
   "DeepMind": [
-    {
-      "title": "How Demis Hassabis is leading Google through an innovator\u2019s dilemma\u2014and made OpenAI declare 'code red' - Fortune",
-      "pubDate": "Wed, 11 Feb 2026 10:00:00 GMT"
-    },
     {
       "title": "Former Google DeepMind Scientist Targets $4 Billion Valuation for New AI Lab - PYMNTS.com",
       "pubDate": "Wed, 18 Feb 2026 19:52:20 GMT"
     }
   ],
   "National Security Agency": [
-    {
-      "title": "Exclusive / NSA pick warns of China pursuing AI chips for weapons - Semafor",
-      "pubDate": "Wed, 11 Feb 2026 09:59:00 GMT"
-    },
     {
       "title": "Gen. Joshua Rudd confirmed as NSA, Cyber Command head - The Washington Post",
       "pubDate": "Tue, 10 Mar 2026 22:18:50 GMT"
@@ -1651,6 +1639,10 @@
     {
       "title": "China has just broken a barrier that physicists believed to be unbreakable for decades, and its 150 million-degree artificial sun could bring us closer than ever to the energy of the stars - ECOticias.com",
       "pubDate": "Sat, 14 Feb 2026 20:00:00 GMT"
+    },
+    {
+      "title": "The Fusion Countdown - A Small Oxford Lab Just Shattered the Global Record for Sustained Energy - mnutrailblazer.com",
+      "pubDate": "Fri, 13 Mar 2026 06:46:24 GMT"
     }
   ],
   "Interest Rates": [
@@ -1675,6 +1667,10 @@
     {
       "title": "City Killing Asteroids: NASA Scientist Warns of Unstoppable Threats to Earth - Meyka",
       "pubDate": "Wed, 18 Feb 2026 08:03:45 GMT"
+    },
+    {
+      "title": "A football-field-size asteroid hit the North Sea and sent a 330-foot tsunami racing across Europe - The Times of India",
+      "pubDate": "Fri, 13 Mar 2026 06:31:00 GMT"
     }
   ],
   "Demis Hassabis": [
@@ -1759,6 +1755,10 @@
     {
       "title": "Half of Colorectal Cancer Cases Now Occur in Those Under 65, Study Shows - The New York Times",
       "pubDate": "Mon, 02 Mar 2026 12:00:02 GMT"
+    },
+    {
+      "title": "The US slashed research for cancer, Alzheimer\u2019s, mental health \u2014 and nearly everything else - Vox",
+      "pubDate": "Fri, 13 Mar 2026 10:30:00 GMT"
     }
   ],
   "Goldman Sachs": [
@@ -2037,12 +2037,22 @@
     {
       "title": "Netherlands joins South Africa's ICJ case against Israel over Gaza genocide - Haaretz",
       "pubDate": "Thu, 12 Mar 2026 20:15:00 GMT"
+    },
+    {
+      "title": "Oil at $100 a Barrel Promises Boon for Africa's Largest Country - Bloomberg.com",
+      "pubDate": "Fri, 13 Mar 2026 07:00:02 GMT"
     }
   ],
   "Adobe": [
     {
       "title": "Adobe CEO Shantanu Narayen says he will step down after company installs successor - CNBC",
       "pubDate": "Thu, 12 Mar 2026 20:10:43 GMT"
+    }
+  ],
+  "Globalization": [
+    {
+      "title": "How the Iran War Threatens the Global Food, Energy and Other Supplies - The New York Times",
+      "pubDate": "Fri, 13 Mar 2026 04:00:34 GMT"
     }
   ]
 }
