@@ -217,13 +217,13 @@
     {
       "title": "Trump administration allows for Russian oil sales as energy prices soar - The Washington Post",
       "pubDate": "Fri, 13 Mar 2026 16:13:56 GMT"
+    },
+    {
+      "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment - BBC",
+      "pubDate": "Sat, 14 Mar 2026 21:50:22 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Trump Live Updates: House Backs Resolution to End Canada Tariffs - The New York Times",
-      "pubDate": "Thu, 12 Feb 2026 17:15:03 GMT"
-    },
     {
       "title": "Trump says he will issue executive order to get voter-ID requirements before midterms - CNBC",
       "pubDate": "Fri, 13 Feb 2026 21:51:48 GMT"
@@ -411,6 +411,10 @@
     {
       "title": "Why AI\u2019s Next Breakthrough Must Be Rooted In Ethics And Safety - Forbes",
       "pubDate": "Tue, 10 Mar 2026 20:49:00 GMT"
+    },
+    {
+      "title": "Experts Warn of Rising Risks as AI Chatbots Linked to Violent Behavior and Legal Investigations - AI Insider",
+      "pubDate": "Sat, 14 Mar 2026 15:05:24 GMT"
     }
   ],
   "Data Breach": [
@@ -424,10 +428,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Exclusive: Palo Alto chose not to tie China to hacking campaign for fear of retaliation from Beijing, sources say - Reuters",
-      "pubDate": "Thu, 12 Feb 2026 18:03:25 GMT"
-    },
     {
       "title": "Massive Cyberattack Exposes Thousands of Personal Records in Iceland - Iceland Review",
       "pubDate": "Sun, 15 Feb 2026 00:30:53 GMT"
@@ -487,6 +487,10 @@
     {
       "title": "Iran-linked cyberattack on US is 'first drop of blood' as experts reveal new threat to homeland - MSN",
       "pubDate": "Sat, 14 Mar 2026 05:39:44 GMT"
+    },
+    {
+      "title": "ShinyHunters Claims 1 Petabyte Data Theft from Telecom Giant Telus - Hackread",
+      "pubDate": "Sat, 14 Mar 2026 12:37:02 GMT"
     }
   ],
   "US Economy": [
@@ -564,10 +568,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Burgum calls energy transition a \u2018fantasy\u2019 as EPA guts climate regulations - E&E News by POLITICO",
-      "pubDate": "Thu, 12 Feb 2026 21:00:00 GMT"
-    },
     {
       "title": "EU ill-prepared for worsening climate change, advisers say - Reuters",
       "pubDate": "Mon, 16 Feb 2026 23:04:32 GMT"
@@ -773,6 +773,10 @@
     {
       "title": "Trump urges UK and others to send ships to help secure Strait of Hormuz after Iranian attacks - live updates - BBC",
       "pubDate": "Sat, 14 Mar 2026 16:35:14 GMT"
+    },
+    {
+      "title": "US-Israeli strike kills 15 at Isfahan factory, Iranian media says - Al Jazeera",
+      "pubDate": "Sat, 14 Mar 2026 21:31:35 GMT"
     }
   ],
   "Climate": [
@@ -1043,10 +1047,6 @@
   ],
   "Space Exploration": [
     {
-      "title": "Europe's most powerful rocket launches for 1st time, carrying 32 Amazon internet satellites to orbit (video) - Space",
-      "pubDate": "Thu, 12 Feb 2026 17:21:18 GMT"
-    },
-    {
       "title": "NASA designates botched Boeing Starliner test flight a \u2018Type A mishap\u2019 in new report - CNN",
       "pubDate": "Thu, 19 Feb 2026 20:38:16 GMT"
     },
@@ -1104,10 +1104,6 @@
     }
   ],
   "AI Alignment": [
-    {
-      "title": "OpenAI Disbands Its Mission Alignment Team After Just 16 Months - WinBuzzer",
-      "pubDate": "Thu, 12 Feb 2026 17:45:13 GMT"
-    },
     {
       "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - TechCrunch",
       "pubDate": "Tue, 24 Feb 2026 00:57:14 GMT"
@@ -1518,10 +1514,6 @@
     }
   ],
   "Apple": [
-    {
-      "title": "Apple has worst day since April as company faces FTC scrutiny, Siri delay reports - CNBC",
-      "pubDate": "Thu, 12 Feb 2026 21:48:02 GMT"
-    },
     {
       "title": "Apple sued by West Virginia for alleged failure to stop child sexual abuse material on iCloud, iOS devices - CNBC",
       "pubDate": "Thu, 19 Feb 2026 15:00:01 GMT"
@@ -1967,6 +1959,18 @@
     {
       "title": "Trump administration orders restart of California offshore oil operations - The Hill",
       "pubDate": "Sat, 14 Mar 2026 14:55:24 GMT"
+    }
+  ],
+  "North Korea": [
+    {
+      "title": "North Korea fires off barrage of around 10 ballistic missiles, Seoul says - The Japan Times",
+      "pubDate": "Sat, 14 Mar 2026 15:53:58 GMT"
+    }
+  ],
+  "Economics": [
+    {
+      "title": "Iran war threatens to erase the economic bump from bigger tax refunds - NBC News",
+      "pubDate": "Sat, 14 Mar 2026 18:53:12 GMT"
     }
   ]
 }
