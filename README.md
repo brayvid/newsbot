@@ -179,3 +179,6 @@ All script logs are saved to `logs/newsbot.log`. The `logs/` directory will be c
 <hr>
 
 <small>Gemini recommends these articles among 759 published in the last 6 hours based on your <a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">preferences</a>.</small>
+
+---
+<p align="center">&copy; Copyright 2026 <a href="https://blakerayvid.com">Blake Rayvid</a>. All rights reserved.</p>
