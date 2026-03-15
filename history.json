@@ -225,10 +225,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump says he will issue executive order to get voter-ID requirements before midterms - CNBC",
-      "pubDate": "Fri, 13 Feb 2026 21:51:48 GMT"
-    },
-    {
       "title": "Trump says he will be 'indirectly' involved in Iran nuclear talks - BBC",
       "pubDate": "Tue, 17 Feb 2026 05:14:21 GMT"
     },
@@ -328,14 +324,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Claude AI safety test sparks outrage after simulated threats to prevent being switched off - The Economic Times",
-      "pubDate": "Fri, 13 Feb 2026 12:25:13 GMT"
-    },
-    {
-      "title": "Connecticut AI Legislation to Prioritize Child, Consumer Safety - GovTech",
-      "pubDate": "Fri, 13 Feb 2026 18:58:37 GMT"
-    },
     {
       "title": "Anthropic Donates $20 Million for AI Regulation While OpenAI Abstains - \u0411\u0443\u043a\u0432\u0438",
       "pubDate": "Sat, 14 Feb 2026 01:26:54 GMT"
@@ -499,10 +487,6 @@
   ],
   "US Economy": [
     {
-      "title": "White House Sees Win After 2 Strong Economic Reports - The New York Times",
-      "pubDate": "Fri, 13 Feb 2026 21:06:21 GMT"
-    },
-    {
       "title": "The U.S. economy has grown faster than anyone predicted. Here\u2019s why. - MarketWatch",
       "pubDate": "Thu, 19 Feb 2026 20:37:00 GMT"
     },
@@ -569,6 +553,10 @@
     {
       "title": "Gaza death toll in early part of war far higher than reported, says Lancet study - The Guardian",
       "pubDate": "Wed, 18 Feb 2026 23:30:00 GMT"
+    },
+    {
+      "title": "Hospital officials say Israeli strikes killed 12 in Gaza, including 2 children and a pregnant woman - AP News",
+      "pubDate": "Sun, 15 Mar 2026 19:38:00 GMT"
     }
   ],
   "Climate Change": [
@@ -654,10 +642,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "As Diplomats Talk, Pentagon Prepares for Possible War With Iran - The New York Times",
-      "pubDate": "Fri, 13 Feb 2026 17:15:58 GMT"
-    },
     {
       "title": "Exclusive: US military preparing for potentially weeks-long Iran operations - Reuters",
       "pubDate": "Fri, 13 Feb 2026 23:05:27 GMT"
@@ -785,6 +769,10 @@
     {
       "title": "Israel launches 'wide-scale' strikes on Iran as Trump says US not ready to make deal to end war - BBC",
       "pubDate": "Sun, 15 Mar 2026 10:37:01 GMT"
+    },
+    {
+      "title": "Pentagon Sees Iran War Lasting Up to Six Weeks, Trump Aide Says - Bloomberg.com",
+      "pubDate": "Sun, 15 Mar 2026 15:51:25 GMT"
     }
   ],
   "Climate": [
@@ -830,10 +818,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "What to know about the Homeland Security shutdown starting this weekend - AP News",
-      "pubDate": "Fri, 13 Feb 2026 21:56:00 GMT"
-    },
     {
       "title": "Live updates: DHS shuts down without funding deal; House and Senate out all week - The Hill",
       "pubDate": "Mon, 16 Feb 2026 13:39:00 GMT"
@@ -1217,10 +1201,6 @@
   ],
   "Epstein Files": [
     {
-      "title": "Four men in unredacted files named by Ro Khanna have no ties to Epstein - The Guardian",
-      "pubDate": "Fri, 13 Feb 2026 21:39:00 GMT"
-    },
-    {
       "title": "Hollywood talent agent Casey Wasserman to sell company over Epstein files revelations - CNN",
       "pubDate": "Sat, 14 Feb 2026 16:00:46 GMT"
     },
@@ -1453,10 +1433,6 @@
   ],
   "Big Tech": [
     {
-      "title": "Nvidia shares go cold even as Big Tech spending on AI balloons - Yahoo Finance",
-      "pubDate": "Fri, 13 Feb 2026 19:44:45 GMT"
-    },
-    {
       "title": "How a Social Media Addiction Trial Threatens Big Tech - Bloomberg",
       "pubDate": "Wed, 18 Feb 2026 10:30:00 GMT"
     },
@@ -1545,6 +1521,10 @@
     {
       "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews - The Guardian",
       "pubDate": "Mon, 16 Feb 2026 21:24:00 GMT"
+    },
+    {
+      "title": "Google Zero-Day Alert For 3.5 Billion Chrome Users\u2014Attacks Underway - Forbes",
+      "pubDate": "Sun, 15 Mar 2026 14:45:00 GMT"
     }
   ],
   "Asteroids": [
@@ -1697,6 +1677,10 @@
     {
       "title": "Scientists Teach A Dish Of Human Neurons To Play DOOM - 80 Level",
       "pubDate": "Tue, 10 Mar 2026 15:35:35 GMT"
+    },
+    {
+      "title": "Scientists create the first artificial neuron capable of communicating with the human brain - Earth.com",
+      "pubDate": "Sun, 15 Mar 2026 17:49:17 GMT"
     }
   ],
   "Medicine": [
@@ -1959,6 +1943,24 @@
     {
       "title": "Iran war threatens to erase the economic bump from bigger tax refunds - NBC News",
       "pubDate": "Sat, 14 Mar 2026 18:53:12 GMT"
+    }
+  ],
+  "AI and Jobs": [
+    {
+      "title": "An OpenAI cofounder 'vibe coded' an analysis of the U.S. labor market's exposure to AI - Fortune",
+      "pubDate": "Sun, 15 Mar 2026 20:22:00 GMT"
+    }
+  ],
+  "US-China Trade Talks": [
+    {
+      "title": "Exclusive: US, China discuss farm goods, managed trade in 'remarkably stable' Paris talks-sources - Reuters",
+      "pubDate": "Sun, 15 Mar 2026 22:32:42 GMT"
+    }
+  ],
+  "NVIDIA": [
+    {
+      "title": "Government Drops Sweeping AI Chip Export Rules: Can Nvidia Start Growing Again? - 24/7 Wall St.",
+      "pubDate": "Sun, 15 Mar 2026 15:24:00 GMT"
     }
   ]
 }
