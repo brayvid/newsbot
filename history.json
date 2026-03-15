@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "CEO of Google DeepMind: AI-driven cancer drug clinical trials to begin this year, with breakthroughs in robotics expected within the next 18 months. - \u5bcc\u9014\u725b\u725b",
-      "pubDate": "Fri, 13 Feb 2026 05:48:40 GMT"
-    },
-    {
       "title": "44th Palkhivala Memorial Lecture held on \u2018Artificial Intelligence for Aam Aadmi\u2019 - The Hindu",
       "pubDate": "Sat, 14 Feb 2026 19:26:00 GMT"
     },
@@ -119,6 +115,10 @@
     {
       "title": "Morgan Stanley warns an AI breakthrough Is coming in 2026 \u2014 and most of the world isn't ready - Fortune",
       "pubDate": "Fri, 13 Mar 2026 08:20:00 GMT"
+    },
+    {
+      "title": "Sweeping cuts at Meta could see 16,000 jobs lost as company pumps money into AI - The Independent",
+      "pubDate": "Sun, 15 Mar 2026 01:07:00 GMT"
     }
   ],
   "Israel": [
@@ -491,6 +491,10 @@
     {
       "title": "ShinyHunters Claims 1 Petabyte Data Theft from Telecom Giant Telus - Hackread",
       "pubDate": "Sat, 14 Mar 2026 12:37:02 GMT"
+    },
+    {
+      "title": "1 billion identity records exposed in ID verification data leak - AOL.com",
+      "pubDate": "Sun, 15 Mar 2026 03:32:01 GMT"
     }
   ],
   "US Economy": [
@@ -777,6 +781,10 @@
     {
       "title": "US-Israeli strike kills 15 at Isfahan factory, Iranian media says - Al Jazeera",
       "pubDate": "Sat, 14 Mar 2026 21:31:35 GMT"
+    },
+    {
+      "title": "Israel launches 'wide-scale' strikes on Iran as Trump says US not ready to make deal to end war - BBC",
+      "pubDate": "Sun, 15 Mar 2026 10:37:01 GMT"
     }
   ],
   "Climate": [
@@ -939,12 +947,6 @@
       "pubDate": "Tue, 17 Feb 2026 23:07:22 GMT"
     }
   ],
-  "Environment": [
-    {
-      "title": "Some scientists think we should stop cleaning up the plastic that is trashing Earth's oceans - Earth.com",
-      "pubDate": "Fri, 13 Feb 2026 08:48:17 GMT"
-    }
-  ],
   "US Politics": [
     {
       "title": "Congress searches for shutdown off-ramp as DHS employees start missing pay - Government Executive",
@@ -987,10 +989,6 @@
   ],
   "Geopolitics": [
     {
-      "title": "Japan seizure of Chinese vessel, arrest of captain, could heighten tensions - Al Jazeera",
-      "pubDate": "Fri, 13 Feb 2026 04:26:40 GMT"
-    },
-    {
       "title": "US sends over 50 fighter jets near Iran amid nuclear talks - The Jerusalem Post",
       "pubDate": "Tue, 17 Feb 2026 18:11:52 GMT"
     },
@@ -1000,10 +998,6 @@
     }
   ],
   "AI Ethics": [
-    {
-      "title": "AI agent creates dating profile for user without consent, sparks ethics debate - storyboard18.com",
-      "pubDate": "Fri, 13 Feb 2026 05:55:52 GMT"
-    },
     {
       "title": "The economics of AI outweigh ethics for tech CEOs, business leader says - CNN",
       "pubDate": "Mon, 16 Feb 2026 18:21:40 GMT"
@@ -1069,6 +1063,10 @@
     {
       "title": "Congress wants the International Space Station to keep flying until 2032. Here's why - Space",
       "pubDate": "Mon, 09 Mar 2026 10:00:00 GMT"
+    },
+    {
+      "title": "NASA's asteroid deflection test for planetary defence even more successful than we thought - CBC",
+      "pubDate": "Sun, 15 Mar 2026 08:00:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -1218,10 +1216,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Ex-Leader of Norway Charged With Corruption Linked to Epstein - The New York Times",
-      "pubDate": "Fri, 13 Feb 2026 02:49:49 GMT"
-    },
     {
       "title": "Four men in unredacted files named by Ro Khanna have no ties to Epstein - The Guardian",
       "pubDate": "Fri, 13 Feb 2026 21:39:00 GMT"
@@ -1519,17 +1513,7 @@
       "pubDate": "Thu, 19 Feb 2026 15:00:01 GMT"
     }
   ],
-  "Physics": [
-    {
-      "title": "Record-breaking gravitational wave puts Einstein's relativity to its toughest test yet \u2014 and proves him right again - Live Science",
-      "pubDate": "Fri, 13 Feb 2026 11:00:00 GMT"
-    }
-  ],
   "Civil Rights": [
-    {
-      "title": "California launches civil rights probe into botched evacuations in historically Black Altadena - Los Angeles Times",
-      "pubDate": "Fri, 13 Feb 2026 00:34:10 GMT"
-    },
     {
       "title": "Jesse Jackson, a leading voice for civil rights, dies at 84 - The Washington Post",
       "pubDate": "Tue, 17 Feb 2026 17:45:37 GMT"
@@ -1965,6 +1949,10 @@
     {
       "title": "North Korea fires off barrage of around 10 ballistic missiles, Seoul says - The Japan Times",
       "pubDate": "Sat, 14 Mar 2026 15:53:58 GMT"
+    },
+    {
+      "title": "Kim Jong Un Oversees Test of Tactical-Nuke Launchers - WSJ",
+      "pubDate": "Sun, 15 Mar 2026 01:30:00 GMT"
     }
   ],
   "Economics": [
