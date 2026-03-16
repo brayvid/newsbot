@@ -221,6 +221,10 @@
     {
       "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment - BBC",
       "pubDate": "Sat, 14 Mar 2026 21:50:22 GMT"
+    },
+    {
+      "title": "Putin Sends Russian Plane To Tehran To Airlift Injured Mojtaba Khamenei To Russia - Kuwaiti Report - The Times of India",
+      "pubDate": "Mon, 16 Mar 2026 03:35:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -324,10 +328,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Anthropic Donates $20 Million for AI Regulation While OpenAI Abstains - \u0411\u0443\u043a\u0432\u0438",
-      "pubDate": "Sat, 14 Feb 2026 01:26:54 GMT"
-    },
     {
       "title": "AI bot criticises engineer for rejecting its code, sparking concerns over AI bullying and safety - Times of India",
       "pubDate": "Sat, 14 Feb 2026 20:56:00 GMT"
@@ -643,10 +643,6 @@
   ],
   "Iran": [
     {
-      "title": "Exclusive: US military preparing for potentially weeks-long Iran operations - Reuters",
-      "pubDate": "Fri, 13 Feb 2026 23:05:27 GMT"
-    },
-    {
       "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran - BBC",
       "pubDate": "Sun, 15 Feb 2026 15:07:40 GMT"
     },
@@ -871,6 +867,10 @@
     {
       "title": "Two men charged in 'ISIS-inspired' Gracie Mansion explosive terror plot - ABC7 New York",
       "pubDate": "Tue, 10 Mar 2026 09:54:21 GMT"
+    },
+    {
+      "title": "Michigan synagogue attacker\u2019s brother was Hezbollah terrorist: IDF - NewsNation",
+      "pubDate": "Sun, 15 Mar 2026 19:20:55 GMT"
     }
   ],
   "United Nations": [
@@ -1139,10 +1139,6 @@
   ],
   "Cyberattack": [
     {
-      "title": "Pro-Iran Hacking Group Claims Cyberattacks Targeting Israeli National Organizations In Support Of Lebanese Hizbullah - MEMRI | Middle East Media Research Institute",
-      "pubDate": "Sat, 14 Feb 2026 01:12:31 GMT"
-    },
-    {
       "title": "SHOT: Russian cyberattack targets Ukraine\u2019s Starlink authorisation service - PHOTO - Caliber.Az",
       "pubDate": "Tue, 17 Feb 2026 05:46:08 GMT"
     },
@@ -1361,6 +1357,10 @@
     {
       "title": "Massive Buildup Against Iran Continues: F-22s to Israel, More F-35s and F-15Es to Europe - Air & Space Forces Magazine",
       "pubDate": "Fri, 27 Feb 2026 05:19:56 GMT"
+    },
+    {
+      "title": "Weapons makers, foreign states lavish $32 million on US think tanks - Responsible Statecraft",
+      "pubDate": "Mon, 16 Mar 2026 04:12:45 GMT"
     }
   ],
   "Anthropic": [
@@ -1399,6 +1399,10 @@
     {
       "title": "Ukrainian drone strike sparks fire at Russian Black Sea port ahead of talks with U.S. - CBS News",
       "pubDate": "Sun, 15 Feb 2026 13:16:42 GMT"
+    },
+    {
+      "title": "Iran resumes drone strikes on Saudi Arabia in larger numbers - Arab News",
+      "pubDate": "Mon, 16 Mar 2026 00:28:38 GMT"
     }
   ],
   "Japan": [
@@ -1961,6 +1965,18 @@
     {
       "title": "Government Drops Sweeping AI Chip Export Rules: Can Nvidia Start Growing Again? - 24/7 Wall St.",
       "pubDate": "Sun, 15 Mar 2026 15:24:00 GMT"
+    }
+  ],
+  "Unmanned Aerial Vehicles": [
+    {
+      "title": "Moscow has been hit by another massive drone attack: 44 drones have been shot down - Latest news from Azerbaijan",
+      "pubDate": "Sun, 15 Mar 2026 18:19:40 GMT"
+    }
+  ],
+  "Global Health": [
+    {
+      "title": "WHO provides $2 million in emergency funds to Lebanon, Iraq, and Syria - Washington Examiner",
+      "pubDate": "Sun, 15 Mar 2026 20:01:56 GMT"
     }
   ]
 }
