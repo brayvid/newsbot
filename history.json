@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "44th Palkhivala Memorial Lecture held on \u2018Artificial Intelligence for Aam Aadmi\u2019 - The Hindu",
-      "pubDate": "Sat, 14 Feb 2026 19:26:00 GMT"
-    },
-    {
       "title": "Fed's Barr casts doubt on AI as rate-cutting tool - Yahoo Finance",
       "pubDate": "Tue, 17 Feb 2026 19:08:11 GMT"
     },
@@ -119,6 +115,10 @@
     {
       "title": "Sweeping cuts at Meta could see 16,000 jobs lost as company pumps money into AI - The Independent",
       "pubDate": "Sun, 15 Mar 2026 01:07:00 GMT"
+    },
+    {
+      "title": "Nvidia Built the A.I. Era. Now It Has to Defend It. - The New York Times",
+      "pubDate": "Mon, 16 Mar 2026 19:34:03 GMT"
     }
   ],
   "Israel": [
@@ -149,10 +149,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine wants 20-year US security guarantee to sign peace deal - The Guardian",
-      "pubDate": "Sat, 14 Feb 2026 20:34:00 GMT"
-    },
-    {
       "title": "Deadly explosion rocks Russian military site near St Petersburg - Al Jazeera",
       "pubDate": "Tue, 17 Feb 2026 17:36:46 GMT"
     },
@@ -175,6 +171,10 @@
     {
       "title": "Ukraine strikes Russian electronics plant that builds missile components - The Washington Post",
       "pubDate": "Thu, 12 Mar 2026 17:23:47 GMT"
+    },
+    {
+      "title": "Russia hit Ukraine's hydropower plant eight days ago \u2014 and poisoned a river that flows into Moldova - Euromaidan Press",
+      "pubDate": "Mon, 16 Mar 2026 17:05:02 GMT"
     }
   ],
   "Russia": [
@@ -328,10 +328,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "AI bot criticises engineer for rejecting its code, sparking concerns over AI bullying and safety - Times of India",
-      "pubDate": "Sat, 14 Feb 2026 20:56:00 GMT"
-    },
     {
       "title": "AI Safety Alarm: Yoshua Bengio and Global Experts Warn Artificial Intelligence Could Slip Beyond Human Control - kmjournal.net",
       "pubDate": "Sun, 15 Feb 2026 01:25:47 GMT"
@@ -639,6 +635,10 @@
     {
       "title": "Global Warming Is Accelerating. So Is Denialism of It - Haaretz",
       "pubDate": "Wed, 11 Mar 2026 08:15:00 GMT"
+    },
+    {
+      "title": "Why global warming is accelerating and what it means for the future - New Scientist",
+      "pubDate": "Mon, 16 Mar 2026 15:01:06 GMT"
     }
   ],
   "Iran": [
@@ -773,6 +773,10 @@
     {
       "title": "Iran war live: Drone attacks spark fire near Dubai airport and Fujairah - Al Jazeera",
       "pubDate": "Mon, 16 Mar 2026 04:53:33 GMT"
+    },
+    {
+      "title": "Live updates: Trump pressures NATO, China to reopen Strait of Hormuz; Israel launches 'limited' Lebanon ground operations - NBC News",
+      "pubDate": "Mon, 16 Mar 2026 22:17:59 GMT"
     }
   ],
   "Climate": [
@@ -1033,6 +1037,10 @@
     {
       "title": "AI ethics debate remains US-centered as global concerns take back seat | Daily Sabah - Daily Sabah",
       "pubDate": "Fri, 13 Mar 2026 13:13:00 GMT"
+    },
+    {
+      "title": "Anthropic Battles U.S. Military Over AI Ethics - \uc870\uc120\uc77c\ubcf4",
+      "pubDate": "Mon, 16 Mar 2026 21:22:23 GMT"
     }
   ],
   "Space Exploration": [
@@ -1080,10 +1088,6 @@
     }
   ],
   "Elon Musk": [
-    {
-      "title": "Elon Musk's X to launch crypto and stock trading in \u2018couple weeks\u2019 - CoinDesk",
-      "pubDate": "Sat, 14 Feb 2026 18:37:08 GMT"
-    },
     {
       "title": "Elon Musk's Grok faces another EU investigation over nonconsensual AI images - Mashable",
       "pubDate": "Tue, 17 Feb 2026 19:48:25 GMT"
@@ -1204,10 +1208,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Hollywood talent agent Casey Wasserman to sell company over Epstein files revelations - CNN",
-      "pubDate": "Sat, 14 Feb 2026 16:00:46 GMT"
-    },
     {
       "title": "Epstein files fallout takes down elite figures in Europe, while U.S. reckoning is muted - NPR",
       "pubDate": "Sat, 14 Feb 2026 23:04:44 GMT"
@@ -1509,18 +1509,8 @@
   ],
   "Fusion Power": [
     {
-      "title": "China has just broken a barrier that physicists believed to be unbreakable for decades, and its 150 million-degree artificial sun could bring us closer than ever to the energy of the stars - ECOticias.com",
-      "pubDate": "Sat, 14 Feb 2026 20:00:00 GMT"
-    },
-    {
       "title": "The Fusion Countdown - A Small Oxford Lab Just Shattered the Global Record for Sustained Energy - mnutrailblazer.com",
       "pubDate": "Fri, 13 Mar 2026 06:46:24 GMT"
-    }
-  ],
-  "Interest Rates": [
-    {
-      "title": "US debt spiral could start soon as interest rate on borrowing tops GDP growth - Fortune",
-      "pubDate": "Sat, 14 Feb 2026 18:53:00 GMT"
     }
   ],
   "European Union": [
@@ -1547,6 +1537,10 @@
     {
       "title": "A football-field-size asteroid hit the North Sea and sent a 330-foot tsunami racing across Europe - The Times of India",
       "pubDate": "Fri, 13 Mar 2026 06:31:00 GMT"
+    },
+    {
+      "title": "Asteroid Ryugu Contains All 5 DNA and RNA Building Blocks, Study Shows - Gizmodo",
+      "pubDate": "Mon, 16 Mar 2026 20:50:37 GMT"
     }
   ],
   "Demis Hassabis": [
