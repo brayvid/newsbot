@@ -483,6 +483,10 @@
     {
       "title": "1 billion identity records exposed in ID verification data leak - AOL.com",
       "pubDate": "Sun, 15 Mar 2026 03:32:01 GMT"
+    },
+    {
+      "title": "After Stryker cyberattack, Houston cos. could face cybersecurity threats during Iran war - The Business Journals",
+      "pubDate": "Mon, 16 Mar 2026 10:00:00 GMT"
     }
   ],
   "US Economy": [
@@ -528,10 +532,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "Microsoft AI CEO Mustafa Suleyman confirms company is 'dumping' OpenAI, says: My personal mission at Micr - Times of India",
-      "pubDate": "Sat, 14 Feb 2026 05:38:00 GMT"
-    },
     {
       "title": "Exclusive | OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago - The Wall Street Journal",
       "pubDate": "Sat, 21 Feb 2026 17:04:00 GMT"
@@ -769,16 +769,20 @@
     {
       "title": "Pentagon Sees Iran War Lasting Up to Six Weeks, Trump Aide Says - Bloomberg.com",
       "pubDate": "Sun, 15 Mar 2026 15:51:25 GMT"
+    },
+    {
+      "title": "Iran war live: Drone attacks spark fire near Dubai airport and Fujairah - Al Jazeera",
+      "pubDate": "Mon, 16 Mar 2026 04:53:33 GMT"
     }
   ],
   "Climate": [
     {
-      "title": "Italian PM Meloni offers climate\u2011shock debt suspension for African states - Reuters",
-      "pubDate": "Sat, 14 Feb 2026 08:55:19 GMT"
-    },
-    {
       "title": "U.S. Tells International Energy Agency to Drop Its Focus on Climate Change - The New York Times",
       "pubDate": "Thu, 19 Feb 2026 19:29:48 GMT"
+    },
+    {
+      "title": "Iran war an 'abject lesson' on fossil fuel dependence, UN climate chief says - Reuters",
+      "pubDate": "Mon, 16 Mar 2026 05:01:47 GMT"
     }
   ],
   "Drones": [
@@ -891,6 +895,10 @@
     {
       "title": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power - NPR",
       "pubDate": "Sat, 21 Feb 2026 15:23:17 GMT"
+    },
+    {
+      "title": "Exclusive: How AI's power demand shifts resistance to nuclear power - Axios",
+      "pubDate": "Mon, 16 Mar 2026 09:00:58 GMT"
     }
   ],
   "Public Health": [
@@ -979,6 +987,10 @@
     {
       "title": "Iran Oil Disruption: Geopolitics and Global Energy Markets - VanEck",
       "pubDate": "Tue, 03 Mar 2026 15:55:44 GMT"
+    },
+    {
+      "title": "Russia and China: Gaining from the war with Iran? | State of Play - CSIS | Center for Strategic and International Studies",
+      "pubDate": "Sun, 15 Mar 2026 22:58:52 GMT"
     }
   ],
   "AI Ethics": [
@@ -1068,10 +1080,6 @@
     }
   ],
   "Elon Musk": [
-    {
-      "title": "Elon Musk declares victory with Medicaid data release - Axios",
-      "pubDate": "Sat, 14 Feb 2026 06:01:21 GMT"
-    },
     {
       "title": "Elon Musk's X to launch crypto and stock trading in \u2018couple weeks\u2019 - CoinDesk",
       "pubDate": "Sat, 14 Feb 2026 18:37:08 GMT"
@@ -1671,6 +1679,10 @@
     {
       "title": "Surging Oil Prices Threaten NVIDIA, Amazon, and Meta - 24/7 Wall St.",
       "pubDate": "Mon, 09 Mar 2026 00:15:56 GMT"
+    },
+    {
+      "title": "Iran Tests U.S. Military Might With a Guerrilla Assault on the Global Economy - WSJ",
+      "pubDate": "Mon, 16 Mar 2026 00:19:16 GMT"
     }
   ],
   "Human Brain": [
@@ -1977,6 +1989,12 @@
     {
       "title": "WHO provides $2 million in emergency funds to Lebanon, Iraq, and Syria - Washington Examiner",
       "pubDate": "Sun, 15 Mar 2026 20:01:56 GMT"
+    }
+  ],
+  "US Congress": [
+    {
+      "title": "Already rebuffed, Democrats press for hearings, limits on Iran war - NJ Spotlight News",
+      "pubDate": "Mon, 16 Mar 2026 04:12:01 GMT"
     }
   ]
 }
