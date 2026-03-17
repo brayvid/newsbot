@@ -119,6 +119,10 @@
     {
       "title": "Nvidia Built the A.I. Era. Now It Has to Defend It. - The New York Times",
       "pubDate": "Mon, 16 Mar 2026 19:34:03 GMT"
+    },
+    {
+      "title": "Tennessee teens sue Elon Musk's xAI over AI-generated child sexual abuse material - NPR",
+      "pubDate": "Tue, 17 Mar 2026 01:02:37 GMT"
     }
   ],
   "Israel": [
@@ -178,10 +182,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Ukraine-Russia war: Zelensky says Trump only asks Kyiv for concessions not Moscow - The Independent",
-      "pubDate": "Sat, 14 Feb 2026 23:18:37 GMT"
-    },
     {
       "title": "Russia Preparing Mass Naval Drone Strikes in Black Sea, Ukrainian Intel Warns - UNITED24 Media",
       "pubDate": "Wed, 18 Feb 2026 09:40:20 GMT"
@@ -329,10 +329,6 @@
   ],
   "AI Safety": [
     {
-      "title": "AI Safety Alarm: Yoshua Bengio and Global Experts Warn Artificial Intelligence Could Slip Beyond Human Control - kmjournal.net",
-      "pubDate": "Sun, 15 Feb 2026 01:25:47 GMT"
-    },
-    {
       "title": "Trump leans on Utah Republicans to scrap AI safety bill - Financial Times",
       "pubDate": "Sun, 15 Feb 2026 15:14:59 GMT"
     },
@@ -412,10 +408,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Massive Cyberattack Exposes Thousands of Personal Records in Iceland - Iceland Review",
-      "pubDate": "Sun, 15 Feb 2026 00:30:53 GMT"
-    },
     {
       "title": "Safe and Inclusive E\u2011Society: How Lithuania Is Bracing for AI\u2011Driven Cyber Fraud - The Hacker News",
       "pubDate": "Mon, 16 Feb 2026 11:55:00 GMT"
@@ -639,6 +631,10 @@
     {
       "title": "Why global warming is accelerating and what it means for the future - New Scientist",
       "pubDate": "Mon, 16 Mar 2026 15:01:06 GMT"
+    },
+    {
+      "title": "Spring, climate change, jet stream serves up buffet of wild weather hitting U.S. - Spectrum News",
+      "pubDate": "Mon, 16 Mar 2026 21:34:00 GMT"
     }
   ],
   "Iran": [
@@ -777,6 +773,10 @@
     {
       "title": "Live updates: Trump pressures NATO, China to reopen Strait of Hormuz; Israel launches 'limited' Lebanon ground operations - NBC News",
       "pubDate": "Mon, 16 Mar 2026 22:17:59 GMT"
+    },
+    {
+      "title": "US embassy in Iraq hit by drone strikes as UAE reopens airspace after missile threats from Iran - BBC",
+      "pubDate": "Tue, 17 Mar 2026 04:19:21 GMT"
     }
   ],
   "Climate": [
@@ -1209,10 +1209,6 @@
   ],
   "Epstein Files": [
     {
-      "title": "Epstein files fallout takes down elite figures in Europe, while U.S. reckoning is muted - NPR",
-      "pubDate": "Sat, 14 Feb 2026 23:04:44 GMT"
-    },
-    {
       "title": "Mace slams DOJ over letter about completing Epstein files release: \u2018They\u2019re missing names\u2019 - The Hill",
       "pubDate": "Sun, 15 Feb 2026 23:10:00 GMT"
     },
@@ -1511,6 +1507,10 @@
     {
       "title": "The Fusion Countdown - A Small Oxford Lab Just Shattered the Global Record for Sustained Energy - mnutrailblazer.com",
       "pubDate": "Fri, 13 Mar 2026 06:46:24 GMT"
+    },
+    {
+      "title": "UK Awards \u00a3200 Million Contract To Ilios For Construction Of Step Fusion Reactor - NucNet",
+      "pubDate": "Tue, 17 Mar 2026 02:45:14 GMT"
     }
   ],
   "European Union": [
@@ -1677,6 +1677,10 @@
     {
       "title": "Iran Tests U.S. Military Might With a Guerrilla Assault on the Global Economy - WSJ",
       "pubDate": "Mon, 16 Mar 2026 00:19:16 GMT"
+    },
+    {
+      "title": "US average diesel prices cross $5 a gallon as Middle East War tests global economy - Reuters",
+      "pubDate": "Mon, 16 Mar 2026 22:56:12 GMT"
     }
   ],
   "Human Brain": [
@@ -1761,6 +1765,10 @@
     {
       "title": "Two Supreme Court Justices Debate Handling of Trump Emergency Cases - The New York Times",
       "pubDate": "Tue, 10 Mar 2026 01:22:13 GMT"
+    },
+    {
+      "title": "Supreme Court to consider whether Trump can end protected status for Syrians, Haitians - The Washington Post",
+      "pubDate": "Tue, 17 Mar 2026 03:50:11 GMT"
     }
   ],
   "Abiogenesis": [
@@ -1989,6 +1997,12 @@
     {
       "title": "Already rebuffed, Democrats press for hearings, limits on Iran war - NJ Spotlight News",
       "pubDate": "Mon, 16 Mar 2026 04:12:01 GMT"
+    }
+  ],
+  "Computers": [
+    {
+      "title": "Nvidia Is Building a Computer for AI Data Centers in Space - CNET",
+      "pubDate": "Mon, 16 Mar 2026 22:35:00 GMT"
     }
   ]
 }
