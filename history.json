@@ -127,6 +127,10 @@
     {
       "title": "China Is Embracing OpenClaw a New A.I. Agent, and the Government Is Wary - The New York Times",
       "pubDate": "Tue, 17 Mar 2026 15:32:19 GMT"
+    },
+    {
+      "title": "Netanyahu Posts \u2018Proof of Life\u2019 Video as A.I. Sows Doubts About What\u2019s Real - The New York Times",
+      "pubDate": "Tue, 17 Mar 2026 16:01:45 GMT"
     }
   ],
   "Israel": [
@@ -229,6 +233,10 @@
     {
       "title": "Putin Sends Russian Plane To Tehran To Airlift Injured Mojtaba Khamenei To Russia - Kuwaiti Report - The Times of India",
       "pubDate": "Mon, 16 Mar 2026 03:35:00 GMT"
+    },
+    {
+      "title": "Exclusive | Russia Is Sharing Satellite Imagery and Drone Technology With Iran - WSJ",
+      "pubDate": "Tue, 17 Mar 2026 20:07:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -283,6 +291,10 @@
     {
       "title": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome - Reuters",
       "pubDate": "Fri, 13 Mar 2026 05:02:00 GMT"
+    },
+    {
+      "title": "Kharg Island Is an Appealing Target for Trump, With High Risks - The New York Times",
+      "pubDate": "Tue, 17 Mar 2026 21:58:30 GMT"
     }
   ],
   "China": [
@@ -333,6 +345,10 @@
     {
       "title": "War in the Gulf Is Now Churning the U.S.-China Relationship - The New York Times",
       "pubDate": "Tue, 17 Mar 2026 05:15:26 GMT"
+    },
+    {
+      "title": "US sounds alarm over China\u2019s humanoid robots amid security concerns - South China Morning Post",
+      "pubDate": "Tue, 17 Mar 2026 22:00:19 GMT"
     }
   ],
   "AI Safety": [
@@ -785,6 +801,10 @@
     {
       "title": "U.S. counterterrorism director Joe Kent resigns over war: 'Iran posed no imminent threat' - CNBC",
       "pubDate": "Tue, 17 Mar 2026 14:14:29 GMT"
+    },
+    {
+      "title": "Iran confirms security chief Larijani killed as Trump lashes out at Nato allies - BBC",
+      "pubDate": "Tue, 17 Mar 2026 22:51:59 GMT"
     }
   ],
   "Climate": [
@@ -795,6 +815,10 @@
     {
       "title": "Iran war an 'abject lesson' on fossil fuel dependence, UN climate chief says - Reuters",
       "pubDate": "Mon, 16 Mar 2026 05:01:47 GMT"
+    },
+    {
+      "title": "Extraordinary, climate change-linked heat wave envelops the West with mounting consequences - CNN",
+      "pubDate": "Tue, 17 Mar 2026 11:00:34 GMT"
     }
   ],
   "Drones": [
@@ -1529,12 +1553,6 @@
       "pubDate": "Tue, 17 Mar 2026 02:45:14 GMT"
     }
   ],
-  "European Union": [
-    {
-      "title": "EU foreign policy chief criticises \u2018fashionable euro-bashing\u2019 by US - The Guardian",
-      "pubDate": "Sun, 15 Feb 2026 20:42:00 GMT"
-    }
-  ],
   "Google": [
     {
       "title": "Google puts users at risk by downplaying health disclaimers under AI Overviews - The Guardian",
@@ -2033,6 +2051,12 @@
     {
       "title": "Trapped! Inside a Self-Driving Car During an Anti-Robot Attack. - The New York Times",
       "pubDate": "Tue, 17 Mar 2026 09:01:35 GMT"
+    }
+  ],
+  "National Security": [
+    {
+      "title": "Top US security official quits, says Iran did not pose immediate threat - Reuters",
+      "pubDate": "Tue, 17 Mar 2026 13:46:10 GMT"
     }
   ]
 }
