@@ -123,6 +123,10 @@
     {
       "title": "Tennessee teens sue Elon Musk's xAI over AI-generated child sexual abuse material - NPR",
       "pubDate": "Tue, 17 Mar 2026 01:02:37 GMT"
+    },
+    {
+      "title": "China Is Embracing OpenClaw a New A.I. Agent, and the Government Is Wary - The New York Times",
+      "pubDate": "Tue, 17 Mar 2026 15:32:19 GMT"
     }
   ],
   "Israel": [
@@ -325,13 +329,13 @@
     {
       "title": "China warns of spread of \u2018flames of war\u2019 from Iran - CNN",
       "pubDate": "Sun, 08 Mar 2026 10:30:00 GMT"
+    },
+    {
+      "title": "War in the Gulf Is Now Churning the U.S.-China Relationship - The New York Times",
+      "pubDate": "Tue, 17 Mar 2026 05:15:26 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Trump leans on Utah Republicans to scrap AI safety bill - Financial Times",
-      "pubDate": "Sun, 15 Feb 2026 15:14:59 GMT"
-    },
     {
       "title": "'The world is in peril' \u2014 the signs of a dark AI reckoning are starting to pile up - TechRadar",
       "pubDate": "Mon, 16 Feb 2026 17:00:00 GMT"
@@ -475,6 +479,10 @@
     {
       "title": "After Stryker cyberattack, Houston cos. could face cybersecurity threats during Iran war - The Business Journals",
       "pubDate": "Mon, 16 Mar 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Israel is under cyberattack. Why are we still debating a defense law? - The Times of Israel",
+      "pubDate": "Tue, 17 Mar 2026 13:47:00 GMT"
     }
   ],
   "US Economy": [
@@ -534,10 +542,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Updates: Israel kills 11 Palestinians in Gaza in 24 hours - Al Jazeera",
-      "pubDate": "Sun, 15 Feb 2026 15:05:19 GMT"
-    },
     {
       "title": "Gaza death toll in early part of war far higher than reported, says Lancet study - The Guardian",
       "pubDate": "Wed, 18 Feb 2026 23:30:00 GMT"
@@ -638,10 +642,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran ready to discuss compromises to reach nuclear deal, minister tells BBC in Tehran - BBC",
-      "pubDate": "Sun, 15 Feb 2026 15:07:40 GMT"
-    },
     {
       "title": "US build-up of warships and fighter jets tracked near Iran - BBC",
       "pubDate": "Mon, 16 Feb 2026 18:17:18 GMT"
@@ -781,6 +781,10 @@
     {
       "title": "Israel says Iran's security chief Ali Larijani has been killed in strike - BBC",
       "pubDate": "Tue, 17 Mar 2026 10:44:21 GMT"
+    },
+    {
+      "title": "U.S. counterterrorism director Joe Kent resigns over war: 'Iran posed no imminent threat' - CNBC",
+      "pubDate": "Tue, 17 Mar 2026 14:14:29 GMT"
     }
   ],
   "Climate": [
@@ -1135,10 +1139,6 @@
   ],
   "Large Language Models": [
     {
-      "title": "LLMs violate boundaries during mental health dialogues, study finds - Tech Xplore",
-      "pubDate": "Sun, 15 Feb 2026 15:50:01 GMT"
-    },
-    {
       "title": "Sarvam rolls out 105-bn parameter AI LLM model - Times of India",
       "pubDate": "Thu, 19 Feb 2026 00:21:00 GMT"
     }
@@ -1307,6 +1307,10 @@
     {
       "title": "New Mexico Department of Justice begins search of Epstein's Zorro Ranch - Santa Fe New Mexican",
       "pubDate": "Tue, 10 Mar 2026 05:30:00 GMT"
+    },
+    {
+      "title": "Epstein urged media mogul to give up control of affairs, citing health - Al Jazeera",
+      "pubDate": "Tue, 17 Mar 2026 05:58:59 GMT"
     }
   ],
   "Energy Storage": [
@@ -1416,10 +1420,6 @@
     }
   ],
   "Drone Warfare": [
-    {
-      "title": "Ukrainian drone strike sparks fire at Russian Black Sea port ahead of talks with U.S. - CBS News",
-      "pubDate": "Sun, 15 Feb 2026 13:16:42 GMT"
-    },
     {
       "title": "Iran resumes drone strikes on Saudi Arabia in larger numbers - Arab News",
       "pubDate": "Mon, 16 Mar 2026 00:28:38 GMT"
@@ -2027,6 +2027,12 @@
     {
       "title": "Nvidia Is Building a Computer for AI Data Centers in Space - CNET",
       "pubDate": "Mon, 16 Mar 2026 22:35:00 GMT"
+    }
+  ],
+  "Autonomous Vehicles": [
+    {
+      "title": "Trapped! Inside a Self-Driving Car During an Anti-Robot Attack. - The New York Times",
+      "pubDate": "Tue, 17 Mar 2026 09:01:35 GMT"
     }
   ]
 }
