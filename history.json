@@ -245,14 +245,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Trump says he will be 'indirectly' involved in Iran nuclear talks - BBC",
-      "pubDate": "Tue, 17 Feb 2026 05:14:21 GMT"
-    },
-    {
-      "title": "Whirlwind day of diplomacy as US holds talks on Iran and Ukraine in Geneva - CNN",
-      "pubDate": "Tue, 17 Feb 2026 16:53:00 GMT"
-    },
-    {
       "title": "Live Updates: Trump Says U.S. Will Commit $10 Billion to Board of Peace for Gaza Redevelopment - The New York Times",
       "pubDate": "Thu, 19 Feb 2026 17:25:53 GMT"
     },
@@ -369,10 +361,6 @@
   ],
   "AI Safety": [
     {
-      "title": "AI 'Arms Race' Risks Human Extinction, Warns Top Computing Expert - Barron's",
-      "pubDate": "Tue, 17 Feb 2026 13:11:00 GMT"
-    },
-    {
       "title": "White House moves to kill Utah's AI safety bill with $1M penalty cap - PPC Land",
       "pubDate": "Tue, 17 Feb 2026 21:53:04 GMT"
     },
@@ -431,6 +419,10 @@
     {
       "title": "ANALYSIS: New Texas AI Law Seeks to Balance Safety, Innovation - Bloomberg Law News",
       "pubDate": "Wed, 18 Mar 2026 15:43:00 GMT"
+    },
+    {
+      "title": "UL Solutions rolls out a new standard to fill a gap in AI regulation: 'Innovation without safety is failure' - Fortune",
+      "pubDate": "Thu, 19 Mar 2026 10:08:00 GMT"
     }
   ],
   "Data Breach": [
@@ -557,6 +549,10 @@
     {
       "title": "Soaring fuel prices to cast long shadow across US economy - Financial Times",
       "pubDate": "Tue, 10 Mar 2026 20:13:24 GMT"
+    },
+    {
+      "title": "\u2018What is he doing?\u2019: New threats emerge for Trump\u2019s economy as war drags on - Politico",
+      "pubDate": "Thu, 19 Mar 2026 09:00:00 GMT"
     }
   ],
   "OpenAI": [
@@ -825,6 +821,10 @@
     {
       "title": "Cathay Pacific suspends flights to and from Dubai until end of April \u2013 as it happened - The Guardian",
       "pubDate": "Thu, 19 Mar 2026 03:43:00 GMT"
+    },
+    {
+      "title": "US may remove sanctions on Iranian oil stranded in tankers, Bessent says - Reuters",
+      "pubDate": "Thu, 19 Mar 2026 13:18:32 GMT"
     }
   ],
   "Climate": [
@@ -882,10 +882,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "DHS shutdown has no clear off-ramp: 5 takeaways - The Hill",
-      "pubDate": "Tue, 17 Feb 2026 11:00:00 GMT"
-    },
     {
       "title": "New DHS order could lead to detention of thousands of legal refugees in the U.S. - PBS",
       "pubDate": "Thu, 19 Feb 2026 23:45:19 GMT"
@@ -1197,10 +1193,6 @@
   ],
   "Artificial General Intelligence": [
     {
-      "title": "We are two years away from artificial general intelligence: Vinod Khosla - Forbes India",
-      "pubDate": "Tue, 17 Feb 2026 12:57:52 GMT"
-    },
-    {
       "title": "DeepMind's CEO said there are still 3 areas where AGI systems can't match real intelligence - Business Insider",
       "pubDate": "Wed, 18 Feb 2026 08:28:21 GMT"
     },
@@ -1215,10 +1207,6 @@
   ],
   "Cyberattack": [
     {
-      "title": "SHOT: Russian cyberattack targets Ukraine\u2019s Starlink authorisation service - PHOTO - Caliber.Az",
-      "pubDate": "Tue, 17 Feb 2026 05:46:08 GMT"
-    },
-    {
       "title": "Cyber Attack on Dutch Telecom Giant Odido Exposes Customer Data of 6.2 Million - CPO Magazine",
       "pubDate": "Wed, 18 Feb 2026 11:00:00 GMT"
     },
@@ -1229,6 +1217,10 @@
     {
       "title": "The Big One: Cyberattack that could cripple food and drink - FoodNavigator.com",
       "pubDate": "Fri, 13 Mar 2026 14:48:28 GMT"
+    },
+    {
+      "title": "An AI cyberattack could trigger a satellite apocalypse in the next 2 years. Are we prepared? - Space",
+      "pubDate": "Thu, 19 Mar 2026 13:00:00 GMT"
     }
   ],
   "Social Media": [
@@ -1255,6 +1247,10 @@
     {
       "title": "Exclusive: New US weapons for Taiwan could be approved after Trump's China trip, sources say - Reuters",
       "pubDate": "Fri, 13 Mar 2026 04:04:34 GMT"
+    },
+    {
+      "title": "US intelligence agencies not expecting China to invade Taiwan in 2027 - Al Jazeera",
+      "pubDate": "Thu, 19 Mar 2026 05:30:25 GMT"
     }
   ],
   "Department of Justice": [
@@ -1385,6 +1381,10 @@
     {
       "title": "NASA Audit Warns that SpaceX and Blue Origin Could Delay 2028 Moon Mission - TipRanks",
       "pubDate": "Tue, 10 Mar 2026 21:43:26 GMT"
+    },
+    {
+      "title": "NASA to roll its moon rocket back to the launchpad after repairs, aiming for April 1 liftoff - NBC News",
+      "pubDate": "Thu, 19 Mar 2026 13:24:37 GMT"
     }
   ],
   "Middle East": [
@@ -2107,6 +2107,12 @@
     {
       "title": "Fed Holds Rates Steady as War in Iran Upends the Economic Outlook - The New York Times",
       "pubDate": "Wed, 18 Mar 2026 23:47:53 GMT"
+    }
+  ],
+  "Government Shutdown": [
+    {
+      "title": "Democrats admit their DHS shutdown is \u201cmaking people hurt\u201d as they stall negotiations with dangerous demands - The White House (.gov)",
+      "pubDate": "Thu, 19 Mar 2026 14:25:53 GMT"
     }
   ]
 }
