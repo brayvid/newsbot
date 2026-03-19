@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Fed's Barr casts doubt on AI as rate-cutting tool - Yahoo Finance",
-      "pubDate": "Tue, 17 Feb 2026 19:08:11 GMT"
-    },
-    {
       "title": "EU needs to abandon AI \u2018doomerism,\u2019 White House official says - politico.eu",
       "pubDate": "Wed, 18 Feb 2026 12:12:00 GMT"
     },
@@ -135,6 +131,10 @@
     {
       "title": "Microsoft weighs legal action over $50bn Amazon-OpenAI cloud deal - Financial Times",
       "pubDate": "Wed, 18 Mar 2026 05:01:54 GMT"
+    },
+    {
+      "title": "Federal lawsuit claims Google's Gemini AI chatbot pushed Jupiter man to plan mass murder, take his life - WFLX",
+      "pubDate": "Thu, 19 Mar 2026 21:16:31 GMT"
     }
   ],
   "Israel": [
@@ -164,10 +164,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Deadly explosion rocks Russian military site near St Petersburg - Al Jazeera",
-      "pubDate": "Tue, 17 Feb 2026 17:36:46 GMT"
-    },
     {
       "title": "Ukraine strikes a key industrial site deep inside Russia - AP News",
       "pubDate": "Sat, 21 Feb 2026 16:50:00 GMT"
@@ -361,10 +357,6 @@
   ],
   "AI Safety": [
     {
-      "title": "White House moves to kill Utah's AI safety bill with $1M penalty cap - PPC Land",
-      "pubDate": "Tue, 17 Feb 2026 21:53:04 GMT"
-    },
-    {
       "title": "OpenAI has deleted the word \u2018safely\u2019 from its mission; will AI serve society or shareholders? - WMNF 88.5 FM",
       "pubDate": "Wed, 18 Feb 2026 10:11:51 GMT"
     },
@@ -553,6 +545,10 @@
     {
       "title": "\u2018What is he doing?\u2019: New threats emerge for Trump\u2019s economy as war drags on - Politico",
       "pubDate": "Thu, 19 Mar 2026 09:00:00 GMT"
+    },
+    {
+      "title": "JPMorgan cuts official S&P 500 forecast, noting rising recession risk from oil shock - CNBC",
+      "pubDate": "Thu, 19 Mar 2026 16:09:18 GMT"
     }
   ],
   "OpenAI": [
@@ -663,6 +659,10 @@
     {
       "title": "A \u2018Hail Mary\u2019 for Earth, Built on Solid Science - The New York Times",
       "pubDate": "Wed, 18 Mar 2026 09:01:48 GMT"
+    },
+    {
+      "title": "24 States Sue the E.P.A. for Renouncing Its Power to Fight Climate Change - The New York Times",
+      "pubDate": "Thu, 19 Mar 2026 17:02:47 GMT"
     }
   ],
   "Iran": [
@@ -1045,10 +1045,6 @@
   ],
   "Geopolitics": [
     {
-      "title": "US sends over 50 fighter jets near Iran amid nuclear talks - The Jerusalem Post",
-      "pubDate": "Tue, 17 Feb 2026 18:11:52 GMT"
-    },
-    {
       "title": "Iran Oil Disruption: Geopolitics and Global Energy Markets - VanEck",
       "pubDate": "Tue, 03 Mar 2026 15:55:44 GMT"
     },
@@ -1127,6 +1123,10 @@
     {
       "title": "NASA's asteroid deflection test for planetary defence even more successful than we thought - CBC",
       "pubDate": "Sun, 15 Mar 2026 08:00:00 GMT"
+    },
+    {
+      "title": "NASA Plans Bigger SpaceX Moon-Mission Role in Blow to Boeing - Bloomberg.com",
+      "pubDate": "Thu, 19 Mar 2026 18:57:44 GMT"
     }
   ],
   "Financial Markets": [
@@ -1144,10 +1144,6 @@
     }
   ],
   "Elon Musk": [
-    {
-      "title": "Elon Musk's Grok faces another EU investigation over nonconsensual AI images - Mashable",
-      "pubDate": "Tue, 17 Feb 2026 19:48:25 GMT"
-    },
     {
       "title": "News | AI pushes Elon Musk toward new data center frontiers in space - CoStar",
       "pubDate": "Thu, 19 Feb 2026 00:42:33 GMT"
@@ -1268,14 +1264,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "The Epstein files have brought a wave of resignations and investigations - The Washington Post",
-      "pubDate": "Tue, 17 Feb 2026 17:31:46 GMT"
-    },
-    {
-      "title": "Allegations in Epstein files may amount to 'crimes against humanity,' UN experts say - Reuters",
-      "pubDate": "Tue, 17 Feb 2026 22:39:36 GMT"
-    },
     {
       "title": "Epstein files suggest acts that may amount to crimes against humanity, say UN experts - The Guardian",
       "pubDate": "Wed, 18 Feb 2026 13:11:00 GMT"
@@ -1537,12 +1525,12 @@
   ],
   "Technology": [
     {
-      "title": "Apple Ramps Up Work on Glasses, Pendant, and Camera AirPods for AI Era - Bloomberg.com",
-      "pubDate": "Tue, 17 Feb 2026 18:02:57 GMT"
-    },
-    {
       "title": "U.S. Mulls Per-Customer Cap on Nvidia Chip Sale to China - The Information",
       "pubDate": "Tue, 03 Mar 2026 05:31:00 GMT"
+    },
+    {
+      "title": "Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I. - The New York Times",
+      "pubDate": "Thu, 19 Mar 2026 22:24:10 GMT"
     }
   ],
   "Immigration": [
@@ -1562,10 +1550,6 @@
     }
   ],
   "Civil Rights": [
-    {
-      "title": "Jesse Jackson, a leading voice for civil rights, dies at 84 - The Washington Post",
-      "pubDate": "Tue, 17 Feb 2026 17:45:37 GMT"
-    },
     {
       "title": "Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years - The New York Times",
       "pubDate": "Wed, 18 Mar 2026 14:00:22 GMT"
@@ -1905,6 +1889,10 @@
     {
       "title": "US Iran war news LIVE updates: Indian among two dead in Saudi Arabia; Iraq's oil production falls by 70% | World News - Hindustan Times",
       "pubDate": "Sun, 08 Mar 2026 16:37:17 GMT"
+    },
+    {
+      "title": "Live updates: Energy prices soar after Trump threatens Iran gas field; F-35 hit by 'suspected enemy fire' - NBC News",
+      "pubDate": "Thu, 19 Mar 2026 22:29:12 GMT"
     }
   ],
   "Infrastructure": [
@@ -2101,6 +2089,10 @@
     {
       "title": "Speaker Johnson Plans \u2018Clean\u2019 Extension of Controversial Surveillance Law (Mar 17, 2026) - VitalLaw.com",
       "pubDate": "Wed, 18 Mar 2026 02:10:59 GMT"
+    },
+    {
+      "title": "CBS News: FBI and IRS to Probe Nonprofits over Possible Links to \u201cDomestic Terrorism\u201d - Democracy Now!",
+      "pubDate": "Thu, 19 Mar 2026 14:26:43 GMT"
     }
   ],
   "Economic Forecasts": [
