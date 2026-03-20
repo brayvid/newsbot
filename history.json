@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "EU needs to abandon AI \u2018doomerism,\u2019 White House official says - politico.eu",
-      "pubDate": "Wed, 18 Feb 2026 12:12:00 GMT"
-    },
-    {
-      "title": "US appeals court orders lawyer to pay $2,500 over AI hallucinations in brief - Reuters",
-      "pubDate": "Wed, 18 Feb 2026 22:54:27 GMT"
-    },
-    {
       "title": "Money Talks as India Searches for Its Place in Global A.I. - The New York Times",
       "pubDate": "Thu, 19 Feb 2026 05:01:22 GMT"
     },
@@ -307,10 +299,6 @@
   ],
   "China": [
     {
-      "title": "The Complicated Stakes of the AI Race Between the U.S. and China - Time Magazine",
-      "pubDate": "Wed, 18 Feb 2026 17:10:35 GMT"
-    },
-    {
       "title": "After alleged test, US believes China building new generation of nukes \u2014 report - The Times of Israel",
       "pubDate": "Sat, 21 Feb 2026 10:07:21 GMT"
     },
@@ -589,14 +577,6 @@
   ],
   "Climate Change": [
     {
-      "title": "As Trump Obliterates Climate Efforts, States Try to Fill the Gap - The New York Times",
-      "pubDate": "Wed, 18 Feb 2026 14:22:13 GMT"
-    },
-    {
-      "title": "E.P.A. Faces First Lawsuit Over Its Killing of Major Climate Rule - The New York Times - The New York Times",
-      "pubDate": "Wed, 18 Feb 2026 13:25:04 GMT"
-    },
-    {
       "title": "AI data centre surge would put UK\u2019s climate change targets at risk - The Times",
       "pubDate": "Sun, 22 Feb 2026 18:30:57 GMT"
     },
@@ -675,13 +655,13 @@
     {
       "title": "24 States Sue the E.P.A. for Renouncing Its Power to Fight Climate Change - The New York Times",
       "pubDate": "Thu, 19 Mar 2026 17:02:47 GMT"
+    },
+    {
+      "title": "Heatwave scorching US west \u2018virtually impossible\u2019 without climate crisis, say scientists - The Guardian",
+      "pubDate": "Fri, 20 Mar 2026 18:52:00 GMT"
     }
   ],
   "Iran": [
-    {
-      "title": "Exclusive | Trump Weighs Initial Limited Strike to Force Iran Into Nuclear Deal - The Wall Street Journal",
-      "pubDate": "Thu, 19 Feb 2026 21:20:00 GMT"
-    },
     {
       "title": "Iran agreed secret shoulder-fired missile deal with Russia - Financial Times",
       "pubDate": "Sun, 22 Feb 2026 16:00:07 GMT"
@@ -837,6 +817,10 @@
     {
       "title": "Middle East crisis live: Israel strikes Tehran; Netanyahu suggests need for \u2018ground component\u2019 in Iran war - The Guardian",
       "pubDate": "Fri, 20 Mar 2026 09:53:00 GMT"
+    },
+    {
+      "title": "Iran strikes threaten to raise LNG prices for Asia, Europe - The Hill",
+      "pubDate": "Fri, 20 Mar 2026 22:47:49 GMT"
     }
   ],
   "Climate": [
@@ -855,10 +839,6 @@
   ],
   "Drones": [
     {
-      "title": "UN Human Rights Chief Raises Alarm After Drone Strikes Kill More Than 50 Civilians in Sudan - U.S. News & World Report",
-      "pubDate": "Wed, 18 Feb 2026 16:28:00 GMT"
-    },
-    {
       "title": "Russia Downs 113 Ukrainian Drones in Massive Overnight Attack - kurdistan24.net",
       "pubDate": "Thu, 19 Feb 2026 08:47:39 GMT"
     },
@@ -873,6 +853,10 @@
     {
       "title": "Massive Leap In Ability To Spot Iranian Drones Headed To Persian Gulf - The War Zone",
       "pubDate": "Tue, 10 Mar 2026 22:35:03 GMT"
+    },
+    {
+      "title": "U.S. Military Ramps Up Assaults on Iranian Drones and Vessels to Clear Strait of Hormuz - The New York Times",
+      "pubDate": "Fri, 20 Mar 2026 13:13:55 GMT"
     }
   ],
   "Federal Reserve": [
@@ -891,6 +875,10 @@
     {
       "title": "Live Updates: Federal Reserve Leaves Interest Rates Unchanged - The New York Times",
       "pubDate": "Wed, 18 Mar 2026 21:53:16 GMT"
+    },
+    {
+      "title": "Fed Official Urges Caution on Rate Cuts as Iran War Drags On - The New York Times",
+      "pubDate": "Fri, 20 Mar 2026 14:27:06 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -1061,10 +1049,6 @@
   ],
   "AI Ethics": [
     {
-      "title": "Pentagon vs. Anthropic: When AI Ethics Meets National Security \u2014 The High-Stakes Showdown Shaking Defense Tech - abacusnews.com",
-      "pubDate": "Wed, 18 Feb 2026 14:31:20 GMT"
-    },
-    {
       "title": "Anthropic's AI Challenges Pentagon with Ethics: Claude Opus 4.6 Bolsters Standards from Wall Street to Government - Intelligent Living",
       "pubDate": "Thu, 19 Feb 2026 10:39:54 GMT"
     },
@@ -1157,6 +1141,10 @@
     {
       "title": "Teens allege Musk\u2019s Grok chatbot made sexual images of them as minors - The Washington Post",
       "pubDate": "Mon, 16 Mar 2026 23:44:33 GMT"
+    },
+    {
+      "title": "Jury finds Elon Musk misled investors during Twitter purchase - NPR",
+      "pubDate": "Fri, 20 Mar 2026 22:30:28 GMT"
     }
   ],
   "AI Alignment": [
@@ -1215,6 +1203,10 @@
     {
       "title": "An AI cyberattack could trigger a satellite apocalypse in the next 2 years. Are we prepared? - Space",
       "pubDate": "Thu, 19 Mar 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Cyberattack on vehicle breathalyzer company leaves drivers stranded across the US - TechCrunch",
+      "pubDate": "Fri, 20 Mar 2026 15:01:39 GMT"
     }
   ],
   "Social Media": [
@@ -1262,10 +1254,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Epstein files suggest acts that may amount to crimes against humanity, say UN experts - The Guardian",
-      "pubDate": "Wed, 18 Feb 2026 13:11:00 GMT"
-    },
     {
       "title": "Emails show 'Godfather of AGI' Ben Goertzel courted Epstein for funding and congratulated him on jail release - Business Insider",
       "pubDate": "Thu, 19 Feb 2026 14:52:00 GMT"
@@ -1495,12 +1483,6 @@
     {
       "title": "Canada launches tens of billions in Arctic military investment - Financial Times",
       "pubDate": "Fri, 13 Mar 2026 00:41:43 GMT"
-    }
-  ],
-  "DeepMind": [
-    {
-      "title": "Former Google DeepMind Scientist Targets $4 Billion Valuation for New AI Lab - PYMNTS.com",
-      "pubDate": "Wed, 18 Feb 2026 19:52:20 GMT"
     }
   ],
   "National Security Agency": [
@@ -1985,6 +1967,10 @@
     {
       "title": "Trump administration orders restart of California offshore oil operations - The Hill",
       "pubDate": "Sat, 14 Mar 2026 14:55:24 GMT"
+    },
+    {
+      "title": "Trump administration making heavy preparations for potential use of ground troops in Iran - CBS News",
+      "pubDate": "Fri, 20 Mar 2026 18:20:00 GMT"
     }
   ],
   "North Korea": [
