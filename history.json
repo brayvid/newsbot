@@ -221,10 +221,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Live Updates: Trump Says U.S. Will Commit $10 Billion to Board of Peace for Gaza Redevelopment - The New York Times",
-      "pubDate": "Thu, 19 Feb 2026 17:25:53 GMT"
-    },
-    {
       "title": "Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says - The New York Times",
       "pubDate": "Sun, 22 Feb 2026 14:19:15 GMT"
     },
@@ -490,10 +486,6 @@
     }
   ],
   "US Economy": [
-    {
-      "title": "The U.S. economy has grown faster than anyone predicted. Here\u2019s why. - MarketWatch",
-      "pubDate": "Thu, 19 Feb 2026 20:37:00 GMT"
-    },
     {
       "title": "US economic growth slowed in fourth quarter of 2025 amid government shutdown - The Guardian",
       "pubDate": "Fri, 20 Feb 2026 15:31:00 GMT"
@@ -825,16 +817,16 @@
   ],
   "Climate": [
     {
-      "title": "U.S. Tells International Energy Agency to Drop Its Focus on Climate Change - The New York Times",
-      "pubDate": "Thu, 19 Feb 2026 19:29:48 GMT"
-    },
-    {
       "title": "Iran war an 'abject lesson' on fossil fuel dependence, UN climate chief says - Reuters",
       "pubDate": "Mon, 16 Mar 2026 05:01:47 GMT"
     },
     {
       "title": "Extraordinary, climate change-linked heat wave envelops the West with mounting consequences - CNN",
       "pubDate": "Tue, 17 Mar 2026 11:00:34 GMT"
+    },
+    {
+      "title": "5m tonnes of CO2 emitted in just 14 days of US war on Iran, analysis finds - The Guardian",
+      "pubDate": "Sat, 21 Mar 2026 17:48:00 GMT"
     }
   ],
   "Drones": [
@@ -853,6 +845,10 @@
     {
       "title": "U.S. Military Ramps Up Assaults on Iranian Drones and Vessels to Clear Strait of Hormuz - The New York Times",
       "pubDate": "Fri, 20 Mar 2026 13:13:55 GMT"
+    },
+    {
+      "title": "High-speed combat drone production to start at new US Anduril plant - MSN",
+      "pubDate": "Sat, 21 Mar 2026 10:55:08 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1087,10 +1083,6 @@
   ],
   "Space Exploration": [
     {
-      "title": "NASA designates botched Boeing Starliner test flight a \u2018Type A mishap\u2019 in new report - CNN",
-      "pubDate": "Thu, 19 Feb 2026 20:38:16 GMT"
-    },
-    {
       "title": "NASA will return Artemis moon rocket to hangar for more repairs - Los Angeles Times",
       "pubDate": "Sun, 22 Feb 2026 21:46:03 GMT"
     },
@@ -1228,10 +1220,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Epstein files could be just tip of the iceberg for Andrew investigation - BBC",
-      "pubDate": "Thu, 19 Feb 2026 20:17:08 GMT"
-    },
     {
       "title": "Did Epstein Use Memory-Erasing Technology? 2014 Email With Senior MIT Figure Raises Fresh Questions - Times Now",
       "pubDate": "Fri, 20 Feb 2026 05:32:55 GMT"
@@ -1571,6 +1559,10 @@
     {
       "title": "Iranian Military Shows It Knows How to Adapt, U.S. Officials Say - The New York Times",
       "pubDate": "Tue, 10 Mar 2026 23:44:58 GMT"
+    },
+    {
+      "title": "Pentagon to adopt Palantir AI as core US military system, memo says - The Jerusalem Post",
+      "pubDate": "Sat, 21 Mar 2026 13:52:33 GMT"
     }
   ],
   "Meta": [
@@ -2047,6 +2039,18 @@
     {
       "title": "WARNING\u2757\ufe0fCISA Issues Emergency Directive For Critical Cisco Firewall Flaw Under Active Exploitation - LinkedIn",
       "pubDate": "Sat, 21 Mar 2026 16:00:03 GMT"
+    }
+  ],
+  "Quantum": [
+    {
+      "title": "Scientists just found a hidden 48-dimensional world in quantum light - ScienceDaily",
+      "pubDate": "Sat, 21 Mar 2026 11:28:32 GMT"
+    }
+  ],
+  "SpaceX": [
+    {
+      "title": "As SpaceX Launches its 10,000th Satellite, A Photographer Captures the Impact on the Night Sky - PetaPixel",
+      "pubDate": "Sat, 21 Mar 2026 13:00:03 GMT"
     }
   ]
 }
