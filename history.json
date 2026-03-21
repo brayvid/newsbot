@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Reliance to invest $110bn in AI as India's data center sector heats up - Nikkei Asia",
-      "pubDate": "Thu, 19 Feb 2026 05:59:00 GMT"
-    },
-    {
       "title": "AI Boom Faces Power Crisis Without Global Renewable Surge - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Fri, 20 Feb 2026 12:00:00 GMT"
     },
@@ -183,10 +179,6 @@
   ],
   "Russia": [
     {
-      "title": "\"Oriental Ballet\" in Moscow: how Russia preserves Persian dance traditions - TV BRICS",
-      "pubDate": "Thu, 19 Feb 2026 11:04:06 GMT"
-    },
-    {
       "title": "Russian Intelligence Seizes Wagner Mercenary Group's Shadow Empire In Africa - NDTV",
       "pubDate": "Fri, 20 Feb 2026 18:54:42 GMT"
     },
@@ -221,6 +213,10 @@
     {
       "title": "Exclusive | Russia Is Sharing Satellite Imagery and Drone Technology With Iran - WSJ",
       "pubDate": "Tue, 17 Mar 2026 20:07:00 GMT"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Two killed in Russian drone attacks as thousands left without power - The Independent",
+      "pubDate": "Sat, 21 Mar 2026 16:44:20 GMT"
     }
   ],
   "Donald Trump": [
@@ -291,6 +287,10 @@
     {
       "title": "US removes sanctions on 140 million barrels of Iranian oil as Trump seeks to lower gas prices - CNN",
       "pubDate": "Sat, 21 Mar 2026 03:40:00 GMT"
+    },
+    {
+      "title": "Middle East crisis live: Trump says US considering \u2018winding down\u2019 war; Iran fired missiles at UK-US base on Diego Garcia - The Guardian",
+      "pubDate": "Sat, 21 Mar 2026 15:09:00 GMT"
     }
   ],
   "China": [
@@ -399,6 +399,10 @@
     {
       "title": "UL Solutions rolls out a new standard to fill a gap in AI regulation: 'Innovation without safety is failure' - Fortune",
       "pubDate": "Thu, 19 Mar 2026 10:08:00 GMT"
+    },
+    {
+      "title": "Rogue AI Agent Triggers Emergency at Meta - Futurism",
+      "pubDate": "Sat, 21 Mar 2026 10:00:00 GMT"
     }
   ],
   "Data Breach": [
@@ -412,10 +416,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "The AI world\u2019s \u2018connective tissue\u2019 is woefully insecure, Cisco warns - Cybersecurity Dive",
-      "pubDate": "Thu, 19 Feb 2026 16:43:39 GMT"
-    },
     {
       "title": "Chinese Hackers Bypassed a U.S. Government VPN, Raising New Cybersecurity Concerns - Yahoo",
       "pubDate": "Fri, 20 Feb 2026 17:09:49 GMT"
@@ -545,6 +545,10 @@
     {
       "title": "What the closure of the Strait of Hormuz means for the global economy - Federal Reserve Bank of Dallas",
       "pubDate": "Fri, 20 Mar 2026 19:28:08 GMT"
+    },
+    {
+      "title": "How Iranian attacks on UAE infrastructure could impact the US economy - WION",
+      "pubDate": "Sat, 21 Mar 2026 13:00:00 GMT"
     }
   ],
   "OpenAI": [
@@ -835,10 +839,6 @@
   ],
   "Drones": [
     {
-      "title": "Russia Downs 113 Ukrainian Drones in Massive Overnight Attack - kurdistan24.net",
-      "pubDate": "Thu, 19 Feb 2026 08:47:39 GMT"
-    },
-    {
       "title": "Drones Strike Key Oil Pumping Hub in Russia\u2019s Krasnodar Region, Massive Fire Reported - UNITED24 Media",
       "pubDate": "Sun, 08 Mar 2026 10:00:16 GMT"
     },
@@ -941,6 +941,10 @@
     {
       "title": "UN: Putin\u2019s deportation of Ukrainian children is a crime against humanity - Atlantic Council",
       "pubDate": "Sat, 14 Mar 2026 12:28:39 GMT"
+    },
+    {
+      "title": "Outgoing UNRWA head warns agency \u2018may soon no longer be viable\u2019 amid Israeli opposition - The Times of Israel",
+      "pubDate": "Sat, 21 Mar 2026 08:13:42 GMT"
     }
   ],
   "Nuclear Power": [
@@ -1048,10 +1052,6 @@
     }
   ],
   "AI Ethics": [
-    {
-      "title": "Anthropic's AI Challenges Pentagon with Ethics: Claude Opus 4.6 Bolsters Standards from Wall Street to Government - Intelligent Living",
-      "pubDate": "Thu, 19 Feb 2026 10:39:54 GMT"
-    },
     {
       "title": "Addressing Bias, Privacy, Security, and Patient Autonomy in Artificial Intelligence (AI)-Driven Healthcare: A Review of Current Guidelines - Cureus",
       "pubDate": "Sat, 21 Feb 2026 02:27:53 GMT"
@@ -1175,16 +1175,6 @@
       "pubDate": "Fri, 20 Mar 2026 17:18:02 GMT"
     }
   ],
-  "Artificial General Intelligence": [
-    {
-      "title": "AGI could arrive within five years: Google DeepMind CEO Demis Hassabis - Exchange4Media",
-      "pubDate": "Thu, 19 Feb 2026 07:20:00 GMT"
-    },
-    {
-      "title": "Artificial General Intelligence on the horizon within 5 years: Google DeepMind CEO - The Indian Express",
-      "pubDate": "Thu, 19 Feb 2026 16:04:38 GMT"
-    }
-  ],
   "Cyberattack": [
     {
       "title": "Stryker Hit With Suspected Iran-Linked Cyberattack - WSJ",
@@ -1210,10 +1200,6 @@
     }
   ],
   "Taiwan": [
-    {
-      "title": "Tokyo involvement in Taiwan would amount to aggression against Beijing: UN envoy - South China Morning Post",
-      "pubDate": "Thu, 19 Feb 2026 10:00:09 GMT"
-    },
     {
       "title": "Tim Cook Warned by CIA That China Could Move on Taiwan by 2027 - MacRumors",
       "pubDate": "Tue, 24 Feb 2026 12:03:52 GMT"
@@ -1242,10 +1228,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Emails show 'Godfather of AGI' Ben Goertzel courted Epstein for funding and congratulated him on jail release - Business Insider",
-      "pubDate": "Thu, 19 Feb 2026 14:52:00 GMT"
-    },
     {
       "title": "Epstein files could be just tip of the iceberg for Andrew investigation - BBC",
       "pubDate": "Thu, 19 Feb 2026 20:17:08 GMT"
@@ -1383,6 +1365,10 @@
     {
       "title": "Macron says Middle East de-escalation is the 'best we can do' - Reuters",
       "pubDate": "Fri, 20 Mar 2026 03:33:45 GMT"
+    },
+    {
+      "title": "Thousands of marines are being sent to the Middle East, yet Trump says he's 'winding down' military efforts. What's next? - CNN",
+      "pubDate": "Sat, 21 Mar 2026 15:13:00 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -1400,10 +1386,6 @@
     }
   ],
   "Anthropic": [
-    {
-      "title": "Anthropic CEO: AI to surpass humans in 'small number of years' - Yahoo Finance UK",
-      "pubDate": "Thu, 19 Feb 2026 05:37:00 GMT"
-    },
     {
       "title": "US draws up strict new AI guidelines amid Anthropic clash - Financial Times",
       "pubDate": "Sat, 07 Mar 2026 00:02:22 GMT"
@@ -1499,12 +1481,6 @@
       "pubDate": "Fri, 27 Feb 2026 10:00:00 GMT"
     }
   ],
-  "Apple": [
-    {
-      "title": "Apple sued by West Virginia for alleged failure to stop child sexual abuse material on iCloud, iOS devices - CNBC",
-      "pubDate": "Thu, 19 Feb 2026 15:00:01 GMT"
-    }
-  ],
   "Civil Rights": [
     {
       "title": "Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years - The New York Times",
@@ -1539,12 +1515,6 @@
     {
       "title": "Ryugu asteroid sample contains all five key components of DNA, scientists find - Space",
       "pubDate": "Tue, 17 Mar 2026 18:00:00 GMT"
-    }
-  ],
-  "Perplexity": [
-    {
-      "title": "OpenAI, Google, and Perplexity near approval to host AI directly for the U.S. government (exclusive) - Fast Company",
-      "pubDate": "Thu, 19 Feb 2026 05:31:06 GMT"
     }
   ],
   "Tariffs": [
@@ -2071,6 +2041,12 @@
     {
       "title": "New computer chip material inspired by the human brain could slash AI energy use - University of Cambridge",
       "pubDate": "Fri, 20 Mar 2026 18:24:40 GMT"
+    }
+  ],
+  "Cybersecurity and Infrastructure Security Agency": [
+    {
+      "title": "WARNING\u2757\ufe0fCISA Issues Emergency Directive For Critical Cisco Firewall Flaw Under Active Exploitation - LinkedIn",
+      "pubDate": "Sat, 21 Mar 2026 16:00:03 GMT"
     }
   ]
 }
