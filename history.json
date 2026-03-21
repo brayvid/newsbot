@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Money Talks as India Searches for Its Place in Global A.I. - The New York Times",
-      "pubDate": "Thu, 19 Feb 2026 05:01:22 GMT"
-    },
-    {
       "title": "Reliance to invest $110bn in AI as India's data center sector heats up - Nikkei Asia",
       "pubDate": "Thu, 19 Feb 2026 05:59:00 GMT"
     },
@@ -187,10 +183,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia Celebrated Him. Now He\u2019s Accused of Having Troops Shoot Themselves. - The New York Times",
-      "pubDate": "Thu, 19 Feb 2026 05:01:07 GMT"
-    },
-    {
       "title": "\"Oriental Ballet\" in Moscow: how Russia preserves Persian dance traditions - TV BRICS",
       "pubDate": "Thu, 19 Feb 2026 11:04:06 GMT"
     },
@@ -295,6 +287,10 @@
     {
       "title": "How Japan Reacted to Trump\u2019s Pearl Harbor Joke - The New York Times",
       "pubDate": "Fri, 20 Mar 2026 04:42:56 GMT"
+    },
+    {
+      "title": "US removes sanctions on 140 million barrels of Iranian oil as Trump seeks to lower gas prices - CNN",
+      "pubDate": "Sat, 21 Mar 2026 03:40:00 GMT"
     }
   ],
   "China": [
@@ -352,10 +348,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Defense Department and Anthropic Square Off in Dispute Over A.I. Safety - The New York Times - The New York Times",
-      "pubDate": "Wed, 18 Feb 2026 23:05:37 GMT"
-    },
     {
       "title": "Meta Director of AI Safety Allows AI Agent to Accidentally Delete Her Inbox - 404 Media",
       "pubDate": "Mon, 23 Feb 2026 20:04:13 GMT"
@@ -491,6 +483,10 @@
     {
       "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23 - The Hacker News",
       "pubDate": "Wed, 18 Mar 2026 05:06:00 GMT"
+    },
+    {
+      "title": "Iran Launches Cyberattack, Fires Advanced Missiles At Israel In Major Multi-front Escalation - The Times of India",
+      "pubDate": "Fri, 20 Mar 2026 20:43:54 GMT"
     }
   ],
   "US Economy": [
@@ -545,6 +541,10 @@
     {
       "title": "The Yawning Gap Threatening the US Economy - Bloomberg.com",
       "pubDate": "Thu, 19 Mar 2026 19:26:56 GMT"
+    },
+    {
+      "title": "What the closure of the Strait of Hormuz means for the global economy - Federal Reserve Bank of Dallas",
+      "pubDate": "Fri, 20 Mar 2026 19:28:08 GMT"
     }
   ],
   "OpenAI": [
@@ -562,10 +562,6 @@
     }
   ],
   "Gaza": [
-    {
-      "title": "Gaza death toll in early part of war far higher than reported, says Lancet study - The Guardian",
-      "pubDate": "Wed, 18 Feb 2026 23:30:00 GMT"
-    },
     {
       "title": "Hospital officials say Israeli strikes killed 12 in Gaza, including 2 children and a pregnant woman - AP News",
       "pubDate": "Sun, 15 Mar 2026 19:38:00 GMT"
@@ -662,10 +658,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran agreed secret shoulder-fired missile deal with Russia - Financial Times",
-      "pubDate": "Sun, 22 Feb 2026 16:00:07 GMT"
-    },
     {
       "title": "Trump's top general warns of Iran strike risks - Axios",
       "pubDate": "Mon, 23 Feb 2026 17:53:20 GMT"
@@ -821,6 +813,10 @@
     {
       "title": "Iran strikes threaten to raise LNG prices for Asia, Europe - The Hill",
       "pubDate": "Fri, 20 Mar 2026 22:47:49 GMT"
+    },
+    {
+      "title": "Israel launches fresh strikes on Tehran and Beirut - as it happened - The Guardian",
+      "pubDate": "Sat, 21 Mar 2026 03:40:00 GMT"
     }
   ],
   "Climate": [
@@ -1017,6 +1013,10 @@
     {
       "title": "Trump says he won't sign bills until Congress overhauls voting - NPR",
       "pubDate": "Sun, 08 Mar 2026 19:48:23 GMT"
+    },
+    {
+      "title": "US furiously seeks to avert potential monthslong closure of Strait of Hormuz - CNN",
+      "pubDate": "Fri, 20 Mar 2026 17:09:42 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1135,10 +1135,6 @@
   ],
   "Elon Musk": [
     {
-      "title": "News | AI pushes Elon Musk toward new data center frontiers in space - CoStar",
-      "pubDate": "Thu, 19 Feb 2026 00:42:33 GMT"
-    },
-    {
       "title": "Teens allege Musk\u2019s Grok chatbot made sexual images of them as minors - The Washington Post",
       "pubDate": "Mon, 16 Mar 2026 23:44:33 GMT"
     },
@@ -1173,12 +1169,10 @@
     {
       "title": "NASA grappling with planetary science funding shortfall - SpaceNews",
       "pubDate": "Wed, 18 Mar 2026 12:09:38 GMT"
-    }
-  ],
-  "Large Language Models": [
+    },
     {
-      "title": "Sarvam rolls out 105-bn parameter AI LLM model - Times of India",
-      "pubDate": "Thu, 19 Feb 2026 00:21:00 GMT"
+      "title": "NASA wants to know how the launch industry\u2019s chic new rocket fuel explodes - Ars Technica",
+      "pubDate": "Fri, 20 Mar 2026 17:18:02 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -1213,12 +1207,6 @@
     {
       "title": "Indonesia to ban social media for children under 16 - The Guardian",
       "pubDate": "Fri, 06 Mar 2026 16:25:00 GMT"
-    }
-  ],
-  "Mark Zuckerberg": [
-    {
-      "title": "Mark Zuckerberg Takes the Stand in Social Media Addiction Trial - The New York Times",
-      "pubDate": "Thu, 19 Feb 2026 02:14:22 GMT"
     }
   ],
   "Taiwan": [
@@ -1551,12 +1539,6 @@
     {
       "title": "Ryugu asteroid sample contains all five key components of DNA, scientists find - Space",
       "pubDate": "Tue, 17 Mar 2026 18:00:00 GMT"
-    }
-  ],
-  "Demis Hassabis": [
-    {
-      "title": "Watch DeepMind CEO Warns of AI Risks, Urges Global Cooperation - Bloomberg.com",
-      "pubDate": "Thu, 19 Feb 2026 00:00:00 GMT"
     }
   ],
   "Perplexity": [
@@ -2083,6 +2065,12 @@
     {
       "title": "Europe and Japan Ready to Join Efforts to Secure Strait of Hormuz as Energy Prices Surge Amid Iran War - Time Magazine",
       "pubDate": "Thu, 19 Mar 2026 19:02:52 GMT"
+    }
+  ],
+  "AI Technology": [
+    {
+      "title": "New computer chip material inspired by the human brain could slash AI energy use - University of Cambridge",
+      "pubDate": "Fri, 20 Mar 2026 18:24:40 GMT"
     }
   ]
 }
