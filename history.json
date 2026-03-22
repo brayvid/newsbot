@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI Boom Faces Power Crisis Without Global Renewable Surge - Crude Oil Prices Today | OilPrice.com",
-      "pubDate": "Fri, 20 Feb 2026 12:00:00 GMT"
-    },
-    {
       "title": "At A.I. Summit, India Tries to Find a Way Between the U.S. and China - The New York Times",
       "pubDate": "Sat, 21 Feb 2026 08:50:35 GMT"
     },
@@ -123,13 +119,13 @@
     {
       "title": "Three Charged With Conspiring To Unlawfully Divert U.S. Artificial Intelligence Technology To China - Department of Justice (.gov)",
       "pubDate": "Thu, 19 Mar 2026 21:04:29 GMT"
+    },
+    {
+      "title": "Musk says Tesla, SpaceX, xAI chip project to kick off in Texas - Fortune",
+      "pubDate": "Sun, 22 Mar 2026 22:19:08 GMT"
     }
   ],
   "Israel": [
-    {
-      "title": "Israeli settlers kill 19-year-old Palestinian American, officials and witnesses say - NPR",
-      "pubDate": "Fri, 20 Feb 2026 08:56:41 GMT"
-    },
     {
       "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows - BBC",
       "pubDate": "Thu, 26 Feb 2026 06:01:11 GMT"
@@ -178,10 +174,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russian Intelligence Seizes Wagner Mercenary Group's Shadow Empire In Africa - NDTV",
-      "pubDate": "Fri, 20 Feb 2026 18:54:42 GMT"
-    },
     {
       "title": "How Russia Put Its Future at Risk by Remaking Its Economy for War - The New York Times",
       "pubDate": "Tue, 24 Feb 2026 05:01:17 GMT"
@@ -417,14 +409,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Chinese Hackers Bypassed a U.S. Government VPN, Raising New Cybersecurity Concerns - Yahoo",
-      "pubDate": "Fri, 20 Feb 2026 17:09:49 GMT"
-    },
-    {
-      "title": "Patients face canceled surgeries and delayed care amid UMMC cyberattack - Mississippi Today",
-      "pubDate": "Fri, 20 Feb 2026 19:56:52 GMT"
-    },
-    {
       "title": "Symmetric Warfare & Non-Human Identities? Cybersecurity Risks Of Agentic AI - Forbes",
       "pubDate": "Mon, 23 Feb 2026 00:39:29 GMT"
     },
@@ -487,13 +471,13 @@
     {
       "title": "Iran Launches Cyberattack, Fires Advanced Missiles At Israel In Major Multi-front Escalation - The Times of India",
       "pubDate": "Fri, 20 Mar 2026 20:43:54 GMT"
+    },
+    {
+      "title": "Is Platformization in Cybersecurity Inevitable as AI Drives Vendor Consolidation? - The Futurum Group",
+      "pubDate": "Sun, 22 Mar 2026 14:05:39 GMT"
     }
   ],
   "US Economy": [
-    {
-      "title": "US economic growth slowed in fourth quarter of 2025 amid government shutdown - The Guardian",
-      "pubDate": "Fri, 20 Feb 2026 15:31:00 GMT"
-    },
     {
       "title": "Tariffs Are a Wild Card for the Economy Again - The Wall Street Journal",
       "pubDate": "Mon, 23 Feb 2026 02:00:00 GMT"
@@ -655,13 +639,13 @@
     {
       "title": "Heatwave scorching US west \u2018virtually impossible\u2019 without climate crisis, say scientists - The Guardian",
       "pubDate": "Fri, 20 Mar 2026 18:52:00 GMT"
+    },
+    {
+      "title": "Groundbreaking study finds a natural way to fight climate change - USA Today",
+      "pubDate": "Sun, 22 Mar 2026 20:00:00 GMT"
     }
   ],
   "Iran": [
-    {
-      "title": "Trump's top general warns of Iran strike risks - Axios",
-      "pubDate": "Mon, 23 Feb 2026 17:53:20 GMT"
-    },
     {
       "title": "Exclusive: Iran nears deal to buy supersonic anti-ship missiles from China - Reuters",
       "pubDate": "Tue, 24 Feb 2026 09:44:55 GMT"
@@ -817,6 +801,10 @@
     {
       "title": "Israel launches fresh strikes on Tehran and Beirut - as it happened - The Guardian",
       "pubDate": "Sat, 21 Mar 2026 03:40:00 GMT"
+    },
+    {
+      "title": "Iran's military doctrine shifts from defensive to offensive: Senior commander - PressTV",
+      "pubDate": "Sun, 22 Mar 2026 14:05:00 GMT"
     }
   ],
   "Climate": [
@@ -1025,10 +1013,6 @@
   ],
   "Quantum Computing": [
     {
-      "title": "Physicists may have found the missing link for quantum computers - EurekAlert!",
-      "pubDate": "Fri, 20 Feb 2026 14:48:26 GMT"
-    },
-    {
       "title": "Researchers may have observed triplet superconductivity - the holy grail in quantum computing - The Brighter Side of News",
       "pubDate": "Fri, 27 Feb 2026 15:07:00 GMT"
     },
@@ -1224,14 +1208,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Did Epstein Use Memory-Erasing Technology? 2014 Email With Senior MIT Figure Raises Fresh Questions - Times Now",
-      "pubDate": "Fri, 20 Feb 2026 05:32:55 GMT"
-    },
-    {
-      "title": "A Once Prominent American Statesman Faces Fallout From the Epstein Files - The New York Times - The New York Times",
-      "pubDate": "Fri, 20 Feb 2026 10:02:53 GMT"
-    },
     {
       "title": "Epstein files place renewed attention on US authorities\u2019 failure to stop him - The Guardian",
       "pubDate": "Sat, 21 Feb 2026 11:10:00 GMT"
@@ -1531,17 +1507,7 @@
       "pubDate": "Thu, 05 Mar 2026 18:18:05 GMT"
     }
   ],
-  "Hungary": [
-    {
-      "title": "Hungary Poses Unexpected Hurdle to Europe\u2019s 90-Billion Euro Loan to Ukraine - The New York Times",
-      "pubDate": "Fri, 20 Feb 2026 20:56:32 GMT"
-    }
-  ],
   "FBI": [
-    {
-      "title": "FBI arrests engineers for leaking tech secrets to Iran - The Jerusalem Post",
-      "pubDate": "Fri, 20 Feb 2026 21:58:14 GMT"
-    },
     {
       "title": "FBI investigating \u2018suspicious\u2019 cyber activities on critical surveillance network - CNN",
       "pubDate": "Thu, 05 Mar 2026 18:17:56 GMT"
@@ -1739,6 +1705,10 @@
     {
       "title": "Supreme Court Defers Decision on Ending Protections for Haitians and Syrians - The New York Times",
       "pubDate": "Mon, 16 Mar 2026 23:40:50 GMT"
+    },
+    {
+      "title": "U.S. Supreme Court to hear asylum case Tuesday - The Center Square",
+      "pubDate": "Sun, 22 Mar 2026 12:51:00 GMT"
     }
   ],
   "Abiogenesis": [
