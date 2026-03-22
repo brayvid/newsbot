@@ -287,6 +287,10 @@
     {
       "title": "Middle East crisis live: Trump says US considering \u2018winding down\u2019 war; Iran fired missiles at UK-US base on Diego Garcia - The Guardian",
       "pubDate": "Sat, 21 Mar 2026 15:09:00 GMT"
+    },
+    {
+      "title": "Trump says US will \u2018obliterate\u2019 Iran\u2019s power plants if Strait of Hormuz not open before 48-hour deadline - BBC",
+      "pubDate": "Sun, 22 Mar 2026 03:55:15 GMT"
     }
   ],
   "China": [
@@ -875,10 +879,6 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "New DHS order could lead to detention of thousands of legal refugees in the U.S. - PBS",
-      "pubDate": "Thu, 19 Feb 2026 23:45:19 GMT"
-    },
-    {
       "title": "White House plays hardball with Democrats over DHS shutdown - The Hill",
       "pubDate": "Tue, 24 Feb 2026 11:00:00 GMT"
     },
@@ -951,6 +951,10 @@
     {
       "title": "Exclusive: How AI's power demand shifts resistance to nuclear power - Axios",
       "pubDate": "Mon, 16 Mar 2026 09:00:58 GMT"
+    },
+    {
+      "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted - BBC",
+      "pubDate": "Sat, 21 Mar 2026 23:01:07 GMT"
     }
   ],
   "Public Health": [
@@ -1357,6 +1361,10 @@
     {
       "title": "Thousands of marines are being sent to the Middle East, yet Trump says he's 'winding down' military efforts. What's next? - CNN",
       "pubDate": "Sat, 21 Mar 2026 15:13:00 GMT"
+    },
+    {
+      "title": "War in the Middle East: Iran nuclear facility hit as equivalent of \u2018one classroom of children\u2019 killed, wounded daily in Lebanon - UN News",
+      "pubDate": "Sat, 21 Mar 2026 18:34:24 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2027,6 +2035,10 @@
     {
       "title": "Europe and Japan Ready to Join Efforts to Secure Strait of Hormuz as Energy Prices Surge Amid Iran War - Time Magazine",
       "pubDate": "Thu, 19 Mar 2026 19:02:52 GMT"
+    },
+    {
+      "title": "Sen. Adam Schiff Argues Trump\u2019s War With Iran Is \u2018Simply Unsustainable\u2019 - AOL.com",
+      "pubDate": "Sat, 21 Mar 2026 23:23:26 GMT"
     }
   ],
   "AI Technology": [
@@ -2051,6 +2063,16 @@
     {
       "title": "As SpaceX Launches its 10,000th Satellite, A Photographer Captures the Impact on the Night Sky - PetaPixel",
       "pubDate": "Sat, 21 Mar 2026 13:00:03 GMT"
+    },
+    {
+      "title": "SpaceX Starship delay opens door for returnable satellite ventures - digitimes",
+      "pubDate": "Sat, 21 Mar 2026 23:54:14 GMT"
+    }
+  ],
+  "Bitcoin": [
+    {
+      "title": "Bitcoin Got Its Biggest Regulatory Win In A Decade\u2014And Dropped To $70,000 Anyway - Yahoo Finance",
+      "pubDate": "Sun, 22 Mar 2026 00:31:00 GMT"
     }
   ]
 }
