@@ -171,6 +171,10 @@
     {
       "title": "Russia hit Ukraine's hydropower plant eight days ago \u2014 and poisoned a river that flows into Moldova - Euromaidan Press",
       "pubDate": "Mon, 16 Mar 2026 17:05:02 GMT"
+    },
+    {
+      "title": "Ukraine\u2019s top drone commander wants to bleed Russia\u2019s army dry - The Economist",
+      "pubDate": "Sun, 22 Mar 2026 19:11:24 GMT"
     }
   ],
   "Russia": [
@@ -209,6 +213,10 @@
     {
       "title": "Ukraine-Russia war latest: Two killed in Russian drone attacks as thousands left without power - The Independent",
       "pubDate": "Sat, 21 Mar 2026 16:44:20 GMT"
+    },
+    {
+      "title": "Russian Offensive Campaign Assessment, March 22, 2026 - Institute for the Study of War",
+      "pubDate": "Sun, 22 Mar 2026 22:59:47 GMT"
     }
   ],
   "Donald Trump": [
@@ -643,13 +651,13 @@
     {
       "title": "Groundbreaking study finds a natural way to fight climate change - USA Today",
       "pubDate": "Sun, 22 Mar 2026 20:00:00 GMT"
+    },
+    {
+      "title": "U.N. Climate Report Finds Growing Energy Imbalance on Earth - The New York Times",
+      "pubDate": "Mon, 23 Mar 2026 03:00:04 GMT"
     }
   ],
   "Iran": [
-    {
-      "title": "Exclusive: Iran nears deal to buy supersonic anti-ship missiles from China - Reuters",
-      "pubDate": "Tue, 24 Feb 2026 09:44:55 GMT"
-    },
     {
       "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme - BBC",
       "pubDate": "Fri, 27 Feb 2026 22:21:35 GMT"
@@ -805,6 +813,10 @@
     {
       "title": "Iran's military doctrine shifts from defensive to offensive: Senior commander - PressTV",
       "pubDate": "Sun, 22 Mar 2026 14:05:00 GMT"
+    },
+    {
+      "title": "Middle East crisis live: IEA chief says Iran war energy crunch worse than 1970s oil crises and Ukraine war combined - The Guardian",
+      "pubDate": "Mon, 23 Mar 2026 04:34:00 GMT"
     }
   ],
   "Climate": [
@@ -896,10 +908,6 @@
     }
   ],
   "Terrorism": [
-    {
-      "title": "FBI and Las Vegas police investigate suspected case of terrorism - The Guardian",
-      "pubDate": "Sat, 21 Feb 2026 04:02:00 GMT"
-    },
     {
       "title": "Russia Moves Closer to Banning Telegram App, Saying It Foments Terrorism - The New York Times",
       "pubDate": "Tue, 24 Feb 2026 17:22:39 GMT"
@@ -1036,10 +1044,6 @@
     }
   ],
   "AI Ethics": [
-    {
-      "title": "Addressing Bias, Privacy, Security, and Patient Autonomy in Artificial Intelligence (AI)-Driven Healthcare: A Review of Current Guidelines - Cureus",
-      "pubDate": "Sat, 21 Feb 2026 02:27:53 GMT"
-    },
     {
       "title": "After a deadly raid, an AI power struggle erupts at the Pentagon - The Washington Post",
       "pubDate": "Sun, 22 Feb 2026 17:31:53 GMT"
@@ -1490,10 +1494,6 @@
     }
   ],
   "Tariffs": [
-    {
-      "title": "Trump Imposes 10% Global Tariff After Supreme Court Rules Against Him: Live Updates - The New York Times",
-      "pubDate": "Sat, 21 Feb 2026 01:39:00 GMT"
-    },
     {
       "title": "Trump tariffs live updates: Trump raises 'global' tariff to 15%; EU postpones vote on US deal - Yahoo Finance",
       "pubDate": "Mon, 23 Feb 2026 16:49:54 GMT"
@@ -1999,6 +1999,10 @@
     {
       "title": "Democrats admit their DHS shutdown is \u201cmaking people hurt\u201d as they stall negotiations with dangerous demands - The White House (.gov)",
       "pubDate": "Thu, 19 Mar 2026 14:25:53 GMT"
+    },
+    {
+      "title": "Live updates: ICE agents expected at Atlanta airport, TSA employees call out amid partial government shutdown - CNN",
+      "pubDate": "Mon, 23 Mar 2026 02:48:00 GMT"
     }
   ],
   "Europe": [
@@ -2043,6 +2047,18 @@
     {
       "title": "Bitcoin Got Its Biggest Regulatory Win In A Decade\u2014And Dropped To $70,000 Anyway - Yahoo Finance",
       "pubDate": "Sun, 22 Mar 2026 00:31:00 GMT"
+    }
+  ],
+  "US Senate": [
+    {
+      "title": "Senate advances Mullin nomination to lead DHS, paving way for confirmation - The Guardian",
+      "pubDate": "Sun, 22 Mar 2026 20:25:00 GMT"
+    }
+  ],
+  "Palantir": [
+    {
+      "title": "Palantir Technologies Inc. (PLTR) Partners with Keel Holdings on US Navy\u2019s ShipOS initiative - Yahoo Finance",
+      "pubDate": "Sun, 22 Mar 2026 20:07:23 GMT"
     }
   ]
 }
