@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "At A.I. Summit, India Tries to Find a Way Between the U.S. and China - The New York Times",
-      "pubDate": "Sat, 21 Feb 2026 08:50:35 GMT"
-    },
-    {
       "title": "Trump unveils \u2018Tech Corps\u2019 to promote American AI abroad - CNBC",
       "pubDate": "Mon, 23 Feb 2026 02:43:00 GMT"
     },
@@ -123,6 +119,10 @@
     {
       "title": "Musk says Tesla, SpaceX, xAI chip project to kick off in Texas - Fortune",
       "pubDate": "Sun, 22 Mar 2026 22:19:08 GMT"
+    },
+    {
+      "title": "AI boom risks widening wealth divide, says BlackRock\u2019s Larry Fink - The Guardian",
+      "pubDate": "Mon, 23 Mar 2026 19:02:00 GMT"
     }
   ],
   "Israel": [
@@ -148,10 +148,6 @@
     }
   ],
   "Ukraine": [
-    {
-      "title": "Ukraine strikes a key industrial site deep inside Russia - AP News",
-      "pubDate": "Sat, 21 Feb 2026 16:50:00 GMT"
-    },
     {
       "title": "Russia hits Ukraine energy infrastructure with major missile, drone strikes, Kyiv says - Reuters",
       "pubDate": "Sun, 22 Feb 2026 06:26:50 GMT"
@@ -295,10 +291,6 @@
   ],
   "China": [
     {
-      "title": "After alleged test, US believes China building new generation of nukes \u2014 report - The Times of Israel",
-      "pubDate": "Sat, 21 Feb 2026 10:07:21 GMT"
-    },
-    {
       "title": "Exclusive: China's DeepSeek trained AI model on Nvidia's best chip despite US ban, official says - Reuters",
       "pubDate": "Tue, 24 Feb 2026 00:10:00 GMT"
     },
@@ -407,10 +399,6 @@
   ],
   "Data Breach": [
     {
-      "title": "PayPal Data Breach Confirmed\u2014Money Was Stolen, Passwords Now Reset - Forbes",
-      "pubDate": "Sat, 21 Feb 2026 12:55:00 GMT"
-    },
-    {
       "title": "Data Breach Exposes 25 Million Americans in What Texas Calls the Largest US Hack in History - Yahoo",
       "pubDate": "Mon, 02 Mar 2026 15:25:55 GMT"
     }
@@ -483,6 +471,10 @@
     {
       "title": "Is Platformization in Cybersecurity Inevitable as AI Drives Vendor Consolidation? - The Futurum Group",
       "pubDate": "Sun, 22 Mar 2026 14:05:39 GMT"
+    },
+    {
+      "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones - TechCrunch",
+      "pubDate": "Mon, 23 Mar 2026 20:42:41 GMT"
     }
   ],
   "US Economy": [
@@ -540,10 +532,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "Exclusive | OpenAI Employees Raised Alarms About Canada Shooting Suspect Months Ago - The Wall Street Journal",
-      "pubDate": "Sat, 21 Feb 2026 17:04:00 GMT"
-    },
     {
       "title": "OpenAI Amending Pentagon Agreement, CEO Altman Confirms - Meyka",
       "pubDate": "Tue, 03 Mar 2026 09:34:10 GMT"
@@ -923,10 +911,6 @@
   ],
   "United Nations": [
     {
-      "title": "UN warns! The world is entering \u2018water bankruptcy\u2019 and billions could be in serious danger - The Times of India",
-      "pubDate": "Sat, 21 Feb 2026 06:59:00 GMT"
-    },
-    {
       "title": "UN urges investigation into 'horrific' attack on Iran school - Reuters",
       "pubDate": "Tue, 03 Mar 2026 10:40:02 GMT"
     },
@@ -940,10 +924,6 @@
     }
   ],
   "Nuclear Power": [
-    {
-      "title": "US military airlifts small reactor as Trump pushes to quickly deploy nuclear power - NPR",
-      "pubDate": "Sat, 21 Feb 2026 15:23:17 GMT"
-    },
     {
       "title": "Exclusive: How AI's power demand shifts resistance to nuclear power - Axios",
       "pubDate": "Mon, 16 Mar 2026 09:00:58 GMT"
@@ -1213,14 +1193,6 @@
   ],
   "Epstein Files": [
     {
-      "title": "Epstein files place renewed attention on US authorities\u2019 failure to stop him - The Guardian",
-      "pubDate": "Sat, 21 Feb 2026 11:10:00 GMT"
-    },
-    {
-      "title": "Ghislaine Maxwell fights release of more Epstein documents, calling disclosure law unconstitutional - AP News",
-      "pubDate": "Sat, 21 Feb 2026 19:39:00 GMT"
-    },
-    {
       "title": "After Epstein revelations, Europe vows accountability while U.S. holds back - The Washington Post",
       "pubDate": "Sun, 22 Feb 2026 18:00:02 GMT"
     },
@@ -1280,10 +1252,6 @@
     }
   ],
   "Artemis Program": [
-    {
-      "title": "NASA delays astronaut moon mission again after new rocket problem - AP News",
-      "pubDate": "Sat, 21 Feb 2026 20:51:00 GMT"
-    },
     {
       "title": "NASA's Artemis moon mission is in trouble again. Here's what we know - USA Today",
       "pubDate": "Mon, 23 Feb 2026 18:22:00 GMT"
@@ -1471,6 +1439,10 @@
     {
       "title": "UK Awards \u00a3200 Million Contract To Ilios For Construction Of Step Fusion Reactor - NucNet",
       "pubDate": "Tue, 17 Mar 2026 02:45:14 GMT"
+    },
+    {
+      "title": "Report: Helion is working on a massive fusion power deal with OpenAI - GeekWire",
+      "pubDate": "Mon, 23 Mar 2026 16:23:51 GMT"
     }
   ],
   "Google": [
@@ -1515,6 +1487,10 @@
     {
       "title": "FBI obtains voting data from Arizona GOP\u2019s 2020 review that confirmed Trump\u2019s loss - The Washington Post",
       "pubDate": "Tue, 10 Mar 2026 04:06:30 GMT"
+    },
+    {
+      "title": "FBI says Iranian hackers are using Telegram to steal data in malware attacks - TechCrunch",
+      "pubDate": "Mon, 23 Mar 2026 15:18:30 GMT"
     }
   ],
   "Military and Defense": [
@@ -1537,6 +1513,10 @@
     {
       "title": "Pentagon to adopt Palantir AI as core US military system, memo says - The Jerusalem Post",
       "pubDate": "Sat, 21 Mar 2026 13:52:33 GMT"
+    },
+    {
+      "title": "Army receives first autonomous-ready, optionally piloted Black Hawk - Breaking Defense",
+      "pubDate": "Mon, 23 Mar 2026 17:26:04 GMT"
     }
   ],
   "Meta": [
@@ -2059,6 +2039,18 @@
     {
       "title": "Palantir Technologies Inc. (PLTR) Partners with Keel Holdings on US Navy\u2019s ShipOS initiative - Yahoo Finance",
       "pubDate": "Sun, 22 Mar 2026 20:07:23 GMT"
+    }
+  ],
+  "Artificial General Intelligence": [
+    {
+      "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019 - The Verge",
+      "pubDate": "Mon, 23 Mar 2026 19:42:33 GMT"
+    }
+  ],
+  "European Union": [
+    {
+      "title": "EU calls for clarification after Hungary accused of leaking info to Russia - Al Jazeera",
+      "pubDate": "Mon, 23 Mar 2026 18:42:27 GMT"
     }
   ]
 }
