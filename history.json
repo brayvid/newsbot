@@ -149,6 +149,10 @@
     {
       "title": "Israel escalates attacks across Lebanon as two soldiers killed - Al Jazeera",
       "pubDate": "Sun, 08 Mar 2026 16:41:15 GMT"
+    },
+    {
+      "title": "U.N. experts demand Israel release prominent Gaza doctor after reports of 'severe torture' - NBC News",
+      "pubDate": "Wed, 25 Mar 2026 15:55:58 GMT"
     }
   ],
   "Ukraine": [
@@ -471,6 +475,10 @@
     {
       "title": "Someone has publicly leaked an exploit kit that can hack millions of iPhones - TechCrunch",
       "pubDate": "Mon, 23 Mar 2026 20:42:41 GMT"
+    },
+    {
+      "title": "US bans new foreign-made consumer internet routers over security concerns - Fox Business",
+      "pubDate": "Wed, 25 Mar 2026 12:43:00 GMT"
     }
   ],
   "US Economy": [
@@ -997,6 +1005,10 @@
     {
       "title": "ICE officers at airports a \u2018test run\u2019 for deployment at midterm polling stations, Steve Bannon says \u2013 US politics live - The Guardian",
       "pubDate": "Tue, 24 Mar 2026 10:34:26 GMT"
+    },
+    {
+      "title": "Democrats Flip Florida Seat Representing Trump\u2019s Mar-a-Lago - Bloomberg.com",
+      "pubDate": "Wed, 25 Mar 2026 14:48:19 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1157,6 +1169,10 @@
     {
       "title": "Indonesia to ban social media for children under 16 - The Guardian",
       "pubDate": "Fri, 06 Mar 2026 16:25:00 GMT"
+    },
+    {
+      "title": "Meta knowingly harmed children's mental health, US jury finds - Euronews.com",
+      "pubDate": "Wed, 25 Mar 2026 09:16:48 GMT"
     }
   ],
   "Taiwan": [
@@ -1462,10 +1478,6 @@
     }
   ],
   "Tariffs": [
-    {
-      "title": "Trump tariffs live updates: Trump raises 'global' tariff to 15%; EU postpones vote on US deal - Yahoo Finance",
-      "pubDate": "Mon, 23 Feb 2026 16:49:54 GMT"
-    },
     {
       "title": "$3.8B in Michigan tariffs in limbo after Supreme Court ruling - Axios",
       "pubDate": "Tue, 24 Feb 2026 11:37:25 GMT"
@@ -2059,6 +2071,24 @@
     {
       "title": "EU calls for clarification after Hungary accused of leaking info to Russia - Al Jazeera",
       "pubDate": "Mon, 23 Mar 2026 18:42:27 GMT"
+    }
+  ],
+  "BRICS": [
+    {
+      "title": "Iran War Shows Limits of BRICS as India Pushed to Choose Sides - Bloomberg.com",
+      "pubDate": "Wed, 25 Mar 2026 08:30:45 GMT"
+    }
+  ],
+  "Alexandria Ocasio-Cortez": [
+    {
+      "title": "AOC and Bernie Sanders have a bill to pause AI data center construction. Here's what's in it. - Business Insider",
+      "pubDate": "Wed, 25 Mar 2026 15:22:17 GMT"
+    }
+  ],
+  "Neuroscience": [
+    {
+      "title": "Scientists Map Aging Brain in Unprecedented Detail, Revealing Clues to Alzheimer\u2019s and More - SciTechDaily",
+      "pubDate": "Wed, 25 Mar 2026 11:10:36 GMT"
     }
   ]
 }
