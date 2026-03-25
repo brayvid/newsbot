@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Trump unveils \u2018Tech Corps\u2019 to promote American AI abroad - CNBC",
-      "pubDate": "Mon, 23 Feb 2026 02:43:00 GMT"
-    },
-    {
       "title": "US AI giant accuses Chinese rivals of mass data theft - The Guardian",
       "pubDate": "Mon, 23 Feb 2026 23:15:00 GMT"
     },
@@ -127,6 +123,10 @@
     {
       "title": "Ground truth: When the Earth moves, AI can spot it - BBC",
       "pubDate": "Tue, 24 Mar 2026 10:00:00 GMT"
+    },
+    {
+      "title": "JPMorgan Chase CEO Jamie Dimon warns AI could wipe out millions of jobs in America; tells government to . - The Times of India",
+      "pubDate": "Wed, 25 Mar 2026 06:10:00 GMT"
     }
   ],
   "Israel": [
@@ -220,14 +220,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says - The New York Times",
-      "pubDate": "Sun, 22 Feb 2026 14:19:15 GMT"
-    },
-    {
-      "title": "Trump Considers Targeted Strike Against Iran, Followed by Larger Attack - The New York Times",
-      "pubDate": "Sun, 22 Feb 2026 21:50:06 GMT"
-    },
     {
       "title": "Trump to address economy, tariffs and foreign policy in 2026 State of the Union address - CNN",
       "pubDate": "Tue, 24 Feb 2026 17:16:00 GMT"
@@ -413,10 +405,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Symmetric Warfare & Non-Human Identities? Cybersecurity Risks Of Agentic AI - Forbes",
-      "pubDate": "Mon, 23 Feb 2026 00:39:29 GMT"
-    },
-    {
       "title": "Anthropic's new code security tool causes market panic - Axios",
       "pubDate": "Mon, 23 Feb 2026 21:38:52 GMT"
     },
@@ -487,10 +475,6 @@
   ],
   "US Economy": [
     {
-      "title": "Tariffs Are a Wild Card for the Economy Again - The Wall Street Journal",
-      "pubDate": "Mon, 23 Feb 2026 02:00:00 GMT"
-    },
-    {
       "title": "Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means for global trade, U.S. economy - CNBC",
       "pubDate": "Mon, 23 Feb 2026 22:53:54 GMT"
     },
@@ -560,10 +544,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "AI data centre surge would put UK\u2019s climate change targets at risk - The Times",
-      "pubDate": "Sun, 22 Feb 2026 18:30:57 GMT"
-    },
     {
       "title": "Supreme Court agrees to hear from oil and gas companies trying to block climate change lawsuits - AP News",
       "pubDate": "Mon, 23 Feb 2026 20:58:00 GMT"
@@ -943,6 +923,10 @@
     {
       "title": "Iranian strike hits near Israeli nuclear facility after Tehran says its site targeted - BBC",
       "pubDate": "Sat, 21 Mar 2026 23:01:07 GMT"
+    },
+    {
+      "title": "Microsoft and Nvidia team up on AI nuclear push - Axios",
+      "pubDate": "Wed, 25 Mar 2026 01:28:38 GMT"
     }
   ],
   "Public Health": [
@@ -1041,10 +1025,6 @@
   ],
   "AI Ethics": [
     {
-      "title": "After a deadly raid, an AI power struggle erupts at the Pentagon - The Washington Post",
-      "pubDate": "Sun, 22 Feb 2026 17:31:53 GMT"
-    },
-    {
       "title": "Anthropic refuses Pentagon\u2019s new terms, standing firm on lethal autonomous weapons and mass surveillance - The Verge",
       "pubDate": "Thu, 26 Feb 2026 23:22:44 GMT"
     },
@@ -1071,10 +1051,6 @@
   ],
   "Space Exploration": [
     {
-      "title": "NASA will return Artemis moon rocket to hangar for more repairs - Los Angeles Times",
-      "pubDate": "Sun, 22 Feb 2026 21:46:03 GMT"
-    },
-    {
       "title": "Artemis, and the New Space Race: Mission delays underscore technical challenges as the United States and China compete to establish long-term dominance at the lunar south pole. - AAPG",
       "pubDate": "Mon, 02 Mar 2026 23:30:00 GMT"
     },
@@ -1097,6 +1073,10 @@
     {
       "title": "NASA Plans Bigger SpaceX Moon-Mission Role in Blow to Boeing - Bloomberg.com",
       "pubDate": "Thu, 19 Mar 2026 18:57:44 GMT"
+    },
+    {
+      "title": "NASA Lays Out Ambitious Plans for Moon Base and Nuclear Mars Mission - Universe Today",
+      "pubDate": "Wed, 25 Mar 2026 01:21:00 GMT"
     }
   ],
   "Financial Markets": [
@@ -1208,10 +1188,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "After Epstein revelations, Europe vows accountability while U.S. holds back - The Washington Post",
-      "pubDate": "Sun, 22 Feb 2026 18:00:02 GMT"
-    },
     {
       "title": "Former British ambassador to the U.S. arrested after Epstein files release - NBC News",
       "pubDate": "Mon, 23 Feb 2026 22:49:27 GMT"
@@ -1429,6 +1405,10 @@
     {
       "title": "Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I. - The New York Times",
       "pubDate": "Thu, 19 Mar 2026 22:24:10 GMT"
+    },
+    {
+      "title": "OpenAI ends Disney partnership as it closes Sora video-making app - BBC",
+      "pubDate": "Wed, 25 Mar 2026 04:48:56 GMT"
     }
   ],
   "Immigration": [
@@ -1533,6 +1513,10 @@
     {
       "title": "Army receives first autonomous-ready, optionally piloted Black Hawk - Breaking Defense",
       "pubDate": "Mon, 23 Mar 2026 17:26:04 GMT"
+    },
+    {
+      "title": "Anduril and Palantir Team Up to Write the Code Behind America's $185 Billion Golden Dome Missile Shield - Technology Org",
+      "pubDate": "Wed, 25 Mar 2026 07:41:23 GMT"
     }
   ],
   "Meta": [
@@ -1605,6 +1589,10 @@
     {
       "title": "US average diesel prices cross $5 a gallon as Middle East War tests global economy - Reuters",
       "pubDate": "Mon, 16 Mar 2026 22:56:12 GMT"
+    },
+    {
+      "title": "BlackRock boss Larry Fink warns of global recession if oil price hits $150 - BBC",
+      "pubDate": "Wed, 25 Mar 2026 08:04:43 GMT"
     }
   ],
   "Human Brain": [
@@ -1775,6 +1763,10 @@
     {
       "title": "Live updates: Energy prices soar after Trump threatens Iran gas field; F-35 hit by 'suspected enemy fire' - NBC News",
       "pubDate": "Thu, 19 Mar 2026 22:29:12 GMT"
+    },
+    {
+      "title": "U.S. drafts plan to end war with Iran as 2,000 paratroopers are ordered to deploy in the Middle East - NPR",
+      "pubDate": "Wed, 25 Mar 2026 09:38:39 GMT"
     }
   ],
   "Infrastructure": [
