@@ -179,10 +179,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia accuses Ukraine of seeking to acquire nuclear weapon with help from UK and France - Reuters",
-      "pubDate": "Tue, 24 Feb 2026 16:29:36 GMT"
-    },
-    {
       "title": "Exclusive: Ukraine images indicate Russia used missile at heart of nuclear pact collapse - Reuters",
       "pubDate": "Thu, 26 Feb 2026 07:46:00 GMT"
     },
@@ -615,10 +611,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran targeted with cyberattacks as Israel and US carry out strikes - The Times of Israel",
-      "pubDate": "Sat, 28 Feb 2026 08:04:04 GMT"
-    },
-    {
       "title": "Live updates: Trump urges regime change as Iran's supreme leader is killed after U.S., Israel attack - NBC News",
       "pubDate": "Sun, 01 Mar 2026 11:29:22 GMT"
     },
@@ -773,6 +765,10 @@
     {
       "title": "Iran war latest: White House says plans for US-Iran talks 'fluid' as oil price climbs - BBC",
       "pubDate": "Tue, 24 Mar 2026 10:49:46 GMT"
+    },
+    {
+      "title": "Iran War News: Israel Says It Killed IRGC Navy Commander Responsible for Blocking Strait \u2014 Live Updates - WSJ",
+      "pubDate": "Thu, 26 Mar 2026 15:39:17 GMT"
     }
   ],
   "Climate": [
@@ -939,6 +935,10 @@
     {
       "title": "Pentagon seeks more than $200 billion in budget request for Iran war - The Washington Post",
       "pubDate": "Thu, 19 Mar 2026 04:54:32 GMT"
+    },
+    {
+      "title": "Pentagon prepares for massive \"final blow\" of Iran war - Axios",
+      "pubDate": "Thu, 26 Mar 2026 09:58:08 GMT"
     }
   ],
   "US Politics": [
@@ -1137,10 +1137,6 @@
   ],
   "Taiwan": [
     {
-      "title": "Tim Cook Warned by CIA That China Could Move on Taiwan by 2027 - MacRumors",
-      "pubDate": "Tue, 24 Feb 2026 12:03:52 GMT"
-    },
-    {
       "title": "Exclusive: New US weapons for Taiwan could be approved after Trump's China trip, sources say - Reuters",
       "pubDate": "Fri, 13 Mar 2026 04:04:34 GMT"
     },
@@ -1323,10 +1319,6 @@
   ],
   "Finance": [
     {
-      "title": "Jamie Dimon warns markets resemble pre-financial crisis era: 'I see a couple of people doing some dumb things' - Yahoo Finance",
-      "pubDate": "Tue, 24 Feb 2026 13:37:19 GMT"
-    },
-    {
       "title": "The $265 billion private credit meltdown: How Wall Street's hottest investment craze turned into a panic - Fortune",
       "pubDate": "Sat, 14 Mar 2026 09:00:00 GMT"
     }
@@ -1423,10 +1415,6 @@
   ],
   "Tariffs": [
     {
-      "title": "$3.8B in Michigan tariffs in limbo after Supreme Court ruling - Axios",
-      "pubDate": "Tue, 24 Feb 2026 11:37:25 GMT"
-    },
-    {
       "title": "States Sue to Stop Trump From Reviving Steep Tariffs - The New York Times",
       "pubDate": "Thu, 05 Mar 2026 18:18:05 GMT"
     }
@@ -1469,12 +1457,10 @@
     {
       "title": "Anduril and Palantir Team Up to Write the Code Behind America's $185 Billion Golden Dome Missile Shield - Technology Org",
       "pubDate": "Wed, 25 Mar 2026 07:41:23 GMT"
-    }
-  ],
-  "Meta": [
+    },
     {
-      "title": "Meta and AMD Agree to AI Chips Deal Worth More Than $100 Billion - WSJ",
-      "pubDate": "Tue, 24 Feb 2026 14:34:00 GMT"
+      "title": "Pentagon considers diverting Ukraine military aid to the Middle East - The Washington Post",
+      "pubDate": "Thu, 26 Mar 2026 16:55:14 GMT"
     }
   ],
   "Cancer": [
@@ -1485,12 +1471,6 @@
     {
       "title": "The US slashed research for cancer, Alzheimer\u2019s, mental health \u2014 and nearly everything else - Vox",
       "pubDate": "Fri, 13 Mar 2026 10:30:00 GMT"
-    }
-  ],
-  "Goldman Sachs": [
-    {
-      "title": "Goldman Sachs warns AI-fueled layoffs could raise the unemployment rate this year: Chart - Yahoo Finance",
-      "pubDate": "Tue, 24 Feb 2026 15:42:51 GMT"
     }
   ],
   "Oceans": [
@@ -1879,6 +1859,10 @@
     {
       "title": "WHO provides $2 million in emergency funds to Lebanon, Iraq, and Syria - Washington Examiner",
       "pubDate": "Sun, 15 Mar 2026 20:01:56 GMT"
+    },
+    {
+      "title": "WHO warns of health crisis \u2018unfolding in real time\u2019 across Middle East | US-Israel war on Iran - The Guardian",
+      "pubDate": "Thu, 26 Mar 2026 07:52:00 GMT"
     }
   ],
   "US Congress": [
@@ -1895,6 +1879,10 @@
     {
       "title": "Quantum pioneers win Turing Award for encryption breakthrough - BBC",
       "pubDate": "Wed, 18 Mar 2026 15:23:16 GMT"
+    },
+    {
+      "title": "Google warns quantum computers could hack encrypted systems by 2029 - The Guardian",
+      "pubDate": "Thu, 26 Mar 2026 15:53:00 GMT"
     }
   ],
   "Autonomous Vehicles": [
@@ -2053,6 +2041,18 @@
     {
       "title": "Swift 6.3 boosts C interoperability, Android SDK - InfoWorld",
       "pubDate": "Thu, 26 Mar 2026 09:02:34 GMT"
+    }
+  ],
+  "Recession": [
+    {
+      "title": "BlackRock CEO warns oil at $150 could trigger a global recession - qz.com",
+      "pubDate": "Thu, 26 Mar 2026 14:21:57 GMT"
+    }
+  ],
+  "Hacking": [
+    {
+      "title": "Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure - SecurityWeek",
+      "pubDate": "Thu, 26 Mar 2026 13:00:00 GMT"
     }
   ]
 }
