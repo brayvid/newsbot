@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "US AI giant accuses Chinese rivals of mass data theft - The Guardian",
-      "pubDate": "Mon, 23 Feb 2026 23:15:00 GMT"
-    },
-    {
       "title": "Pentagon Gives A.I. Company an Ultimatum - The New York Times",
       "pubDate": "Tue, 24 Feb 2026 23:09:48 GMT"
     },
@@ -127,6 +123,10 @@
     {
       "title": "JPMorgan Chase CEO Jamie Dimon warns AI could wipe out millions of jobs in America; tells government to . - The Times of India",
       "pubDate": "Wed, 25 Mar 2026 06:10:00 GMT"
+    },
+    {
+      "title": "Polls show growing distrust of artificial intelligence - The Washington Post",
+      "pubDate": "Thu, 26 Mar 2026 04:37:00 GMT"
     }
   ],
   "Israel": [
@@ -178,10 +178,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "How Russia Put Its Future at Risk by Remaking Its Economy for War - The New York Times",
-      "pubDate": "Tue, 24 Feb 2026 05:01:17 GMT"
-    },
     {
       "title": "Russia accuses Ukraine of seeking to acquire nuclear weapon with help from UK and France - Reuters",
       "pubDate": "Tue, 24 Feb 2026 16:29:36 GMT"
@@ -291,14 +287,6 @@
   ],
   "China": [
     {
-      "title": "Exclusive: China's DeepSeek trained AI model on Nvidia's best chip despite US ban, official says - Reuters",
-      "pubDate": "Tue, 24 Feb 2026 00:10:00 GMT"
-    },
-    {
-      "title": "China slams dozens of Japanese companies with export curbs - Financial Times",
-      "pubDate": "Tue, 24 Feb 2026 08:35:07 GMT"
-    },
-    {
       "title": "How China is masking drone flights in potential Taiwan rehearsal - Reuters",
       "pubDate": "Thu, 26 Feb 2026 05:05:00 GMT"
     },
@@ -344,10 +332,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Meta Director of AI Safety Allows AI Agent to Accidentally Delete Her Inbox - 404 Media",
-      "pubDate": "Mon, 23 Feb 2026 20:04:13 GMT"
-    },
     {
       "title": "Anthropic CEO Dario Amodei pushes back against Donald Trump administration in CBS News interview over AI military access dispute. In a CBS News exclusive, Anthropic CEO Dario Amodei said the U.S. government\u2019s decision to label the company a nation - LinkedIn",
       "pubDate": "Sun, 01 Mar 2026 11:33:05 GMT"
@@ -399,6 +383,10 @@
     {
       "title": "Rogue AI Agent Triggers Emergency at Meta - Futurism",
       "pubDate": "Sat, 21 Mar 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Washington enacts first AI chatbot safety law - KING5.com",
+      "pubDate": "Thu, 26 Mar 2026 06:02:00 GMT"
     }
   ],
   "Data Breach": [
@@ -408,10 +396,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Anthropic's new code security tool causes market panic - Axios",
-      "pubDate": "Mon, 23 Feb 2026 21:38:52 GMT"
-    },
     {
       "title": "Ransomware Surges 49% as AI Makes Cyberattacks Faster and Easier, IBM Says - TipRanks",
       "pubDate": "Thu, 26 Feb 2026 19:52:27 GMT"
@@ -483,10 +467,6 @@
   ],
   "US Economy": [
     {
-      "title": "Supreme Court ruling throws Trump administration's tariff strategy into flux. What it means for global trade, U.S. economy - CNBC",
-      "pubDate": "Mon, 23 Feb 2026 22:53:54 GMT"
-    },
-    {
       "title": "IMF sees \u2018buoyant\u2019 US economy accelerating this year but warns of risks from tariffs, rising debt - WAVY.com",
       "pubDate": "Wed, 25 Feb 2026 23:59:24 GMT"
     },
@@ -552,14 +532,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Supreme Court agrees to hear from oil and gas companies trying to block climate change lawsuits - AP News",
-      "pubDate": "Mon, 23 Feb 2026 20:58:00 GMT"
-    },
-    {
-      "title": "Uncertainties of enhanced rock weathering for climate-change mitigation - Nature",
-      "pubDate": "Tue, 24 Feb 2026 08:47:41 GMT"
-    },
     {
       "title": "Tropical plants flowering months earlier or later because of climate crisis \u2013 study - The Guardian",
       "pubDate": "Thu, 26 Feb 2026 02:30:00 GMT"
@@ -863,10 +835,6 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "White House plays hardball with Democrats over DHS shutdown - The Hill",
-      "pubDate": "Tue, 24 Feb 2026 11:00:00 GMT"
-    },
-    {
       "title": "DHS funding impasse here to stay as administration ratchets up pressure - Politico",
       "pubDate": "Sat, 28 Feb 2026 00:30:00 GMT"
     },
@@ -948,10 +916,6 @@
     }
   ],
   "The Pentagon": [
-    {
-      "title": "Pentagon Flags Risks of a Major Operation Against Iran - WSJ",
-      "pubDate": "Mon, 23 Feb 2026 21:35:00 GMT"
-    },
     {
       "title": "At the Pentagon, OpenAI is In and Anthropic Is Out - The New York Times",
       "pubDate": "Sun, 01 Mar 2026 00:13:05 GMT"
@@ -1117,10 +1081,6 @@
   ],
   "AI Alignment": [
     {
-      "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox - TechCrunch",
-      "pubDate": "Tue, 24 Feb 2026 00:57:14 GMT"
-    },
-    {
       "title": "Alignment Is Not About Values. It\u2019s About Error Detection - HackerNoon",
       "pubDate": "Wed, 25 Feb 2026 04:50:45 GMT"
     }
@@ -1205,14 +1165,6 @@
   ],
   "Epstein Files": [
     {
-      "title": "Former British ambassador to the U.S. arrested after Epstein files release - NBC News",
-      "pubDate": "Mon, 23 Feb 2026 22:49:27 GMT"
-    },
-    {
-      "title": "Ex-UK ambassador Mandelson released on bail after arrest in Epstein probe - Al Jazeera",
-      "pubDate": "Tue, 24 Feb 2026 10:14:21 GMT"
-    },
-    {
       "title": "Bill Gates apologizes to Gates Foundation staff over Epstein ties, admits to having affairs - CBS News",
       "pubDate": "Wed, 25 Feb 2026 16:23:13 GMT"
     },
@@ -1260,10 +1212,6 @@
     }
   ],
   "Artemis Program": [
-    {
-      "title": "NASA's Artemis moon mission is in trouble again. Here's what we know - USA Today",
-      "pubDate": "Mon, 23 Feb 2026 18:22:00 GMT"
-    },
     {
       "title": "NASA Audit Warns that SpaceX and Blue Origin Could Delay 2028 Moon Mission - TipRanks",
       "pubDate": "Tue, 10 Mar 2026 21:43:26 GMT"
@@ -1399,10 +1347,6 @@
   ],
   "Canada": [
     {
-      "title": "Canada seeks answers from OpenAI for failing to alert police after suspending school shooter\u2019s account - The Guardian",
-      "pubDate": "Mon, 23 Feb 2026 22:56:00 GMT"
-    },
-    {
       "title": "Canada launches tens of billions in Arctic military investment - Financial Times",
       "pubDate": "Fri, 13 Mar 2026 00:41:43 GMT"
     }
@@ -1503,10 +1447,6 @@
   ],
   "Military and Defense": [
     {
-      "title": "The US Army hasn't faced serious threats from above in years. The war in Ukraine is forcing a rethink. - Business Insider",
-      "pubDate": "Tue, 24 Feb 2026 10:52:00 GMT"
-    },
-    {
       "title": "Japan to deploy missiles on island near Taiwan by 2031 - BBC",
       "pubDate": "Wed, 25 Feb 2026 06:00:50 GMT"
     },
@@ -1538,10 +1478,6 @@
     }
   ],
   "Cancer": [
-    {
-      "title": "Scientists engineer bacteria to eat cancer tumors from the inside out - ScienceDaily",
-      "pubDate": "Tue, 24 Feb 2026 08:43:38 GMT"
-    },
     {
       "title": "Half of Colorectal Cancer Cases Now Occur in Those Under 65, Study Shows - The New York Times",
       "pubDate": "Mon, 02 Mar 2026 12:00:02 GMT"
@@ -2065,6 +2001,10 @@
     {
       "title": "Nvidia CEO Jensen Huang says \u2018I think we\u2019ve achieved AGI\u2019 - The Verge",
       "pubDate": "Mon, 23 Mar 2026 19:42:33 GMT"
+    },
+    {
+      "title": "Google DeepMind and Kaggle open AGI benchmark contest with $200,000 prize pool - EdTech Innovation Hub",
+      "pubDate": "Thu, 26 Mar 2026 00:33:35 GMT"
     }
   ],
   "European Union": [
@@ -2089,6 +2029,30 @@
     {
       "title": "Scientists Map Aging Brain in Unprecedented Detail, Revealing Clues to Alzheimer\u2019s and More - SciTechDaily",
       "pubDate": "Wed, 25 Mar 2026 11:10:36 GMT"
+    }
+  ],
+  "Military Robots": [
+    {
+      "title": "AI-Powered Robots Begin Real Battlefield Testing - Gizmochina",
+      "pubDate": "Thu, 26 Mar 2026 10:36:58 GMT"
+    }
+  ],
+  "Large Language Models": [
+    {
+      "title": "Wikipedia bans AI-generated content with just two exceptions - UNILAD Tech",
+      "pubDate": "Thu, 26 Mar 2026 10:43:15 GMT"
+    }
+  ],
+  "Mathematics": [
+    {
+      "title": "AI reshapes mathematical research, proofs, and peer review | ETIH EdTech News - EdTech Innovation Hub",
+      "pubDate": "Thu, 26 Mar 2026 02:03:35 GMT"
+    }
+  ],
+  "Programming Languages": [
+    {
+      "title": "Swift 6.3 boosts C interoperability, Android SDK - InfoWorld",
+      "pubDate": "Thu, 26 Mar 2026 09:02:34 GMT"
     }
   ]
 }
