@@ -127,6 +127,10 @@
     {
       "title": "Federal judge temporarily blocks the Pentagon from branding AI firm Anthropic a supply chain risk - AP News",
       "pubDate": "Fri, 27 Mar 2026 00:51:00 GMT"
+    },
+    {
+      "title": "Number of AI chatbots ignoring human instructions increasing, study says - The Guardian",
+      "pubDate": "Fri, 27 Mar 2026 20:47:00 GMT"
     }
   ],
   "Israel": [
@@ -153,6 +157,10 @@
     {
       "title": "U.N. experts demand Israel release prominent Gaza doctor after reports of 'severe torture' - NBC News",
       "pubDate": "Wed, 25 Mar 2026 15:55:58 GMT"
+    },
+    {
+      "title": "Iran War Live Updates: 12 U.S. Troops Injured in Attack on Saudi Base, Officials Say - The New York Times",
+      "pubDate": "Fri, 27 Mar 2026 19:12:23 GMT"
     }
   ],
   "Ukraine": [
@@ -459,10 +467,6 @@
   ],
   "US Economy": [
     {
-      "title": "IMF sees \u2018buoyant\u2019 US economy accelerating this year but warns of risks from tariffs, rising debt - WAVY.com",
-      "pubDate": "Wed, 25 Feb 2026 23:59:24 GMT"
-    },
-    {
       "title": "Trump is accelerating the world\u2019s slow drift from dollar dominance | Heather Stewart - The Guardian",
       "pubDate": "Sun, 01 Mar 2026 10:49:00 GMT"
     },
@@ -524,10 +528,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Tropical plants flowering months earlier or later because of climate crisis \u2013 study - The Guardian",
-      "pubDate": "Thu, 26 Feb 2026 02:30:00 GMT"
-    },
     {
       "title": "California Becomes First State To Require Climate Change Reporting - Forbes",
       "pubDate": "Fri, 27 Feb 2026 01:44:02 GMT"
@@ -853,6 +853,10 @@
     {
       "title": "Markwayne Mullin confirmed as Department of Homeland Security head - BBC",
       "pubDate": "Tue, 24 Mar 2026 02:01:21 GMT"
+    },
+    {
+      "title": "No end to DHS shutdown in sight as House GOP moves ahead with its funding plan - CNN",
+      "pubDate": "Sat, 28 Mar 2026 00:38:00 GMT"
     }
   ],
   "Terrorism": [
@@ -1081,6 +1085,10 @@
     {
       "title": "Jury finds Elon Musk misled investors during Twitter purchase - NPR",
       "pubDate": "Fri, 20 Mar 2026 22:30:28 GMT"
+    },
+    {
+      "title": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi - The New York Times",
+      "pubDate": "Fri, 27 Mar 2026 19:02:41 GMT"
     }
   ],
   "NASA": [
@@ -1103,6 +1111,10 @@
     {
       "title": "NASA wants to know how the launch industry\u2019s chic new rocket fuel explodes - Ars Technica",
       "pubDate": "Fri, 20 Mar 2026 17:18:02 GMT"
+    },
+    {
+      "title": "He suddenly couldn't speak in space. NASA astronaut says his medical scare remains a mystery. - NBC News",
+      "pubDate": "Fri, 27 Mar 2026 19:51:35 GMT"
     }
   ],
   "Cyberattack": [
@@ -2035,6 +2047,12 @@
     {
       "title": "Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure - SecurityWeek",
       "pubDate": "Thu, 26 Mar 2026 13:00:00 GMT"
+    }
+  ],
+  "Deep Learning": [
+    {
+      "title": "Machine Learning is Making Personality Tests 4x Faster - Neuroscience News",
+      "pubDate": "Fri, 27 Mar 2026 17:22:13 GMT"
     }
   ]
 }
