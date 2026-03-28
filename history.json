@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "When Chatbots Are Used to Plan Violence, Is There a Duty to Warn? - The New York Times",
-      "pubDate": "Thu, 26 Feb 2026 10:33:19 GMT"
-    },
-    {
       "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times",
       "pubDate": "Sat, 28 Feb 2026 03:49:20 GMT"
     },
@@ -135,10 +131,6 @@
   ],
   "Israel": [
     {
-      "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows - BBC",
-      "pubDate": "Thu, 26 Feb 2026 06:01:11 GMT"
-    },
-    {
       "title": "Live Updates: U.S.-Israeli war with Iran spreads, as Iran's neighbors warn strikes won't \"go unanswered\" - CBS News",
       "pubDate": "Tue, 03 Mar 2026 17:31:00 GMT"
     },
@@ -182,10 +174,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Exclusive: Ukraine images indicate Russia used missile at heart of nuclear pact collapse - Reuters",
-      "pubDate": "Thu, 26 Feb 2026 07:46:00 GMT"
-    },
     {
       "title": "Zelensky fears Trump's Iran war could hurt Ukraine - BBC",
       "pubDate": "Tue, 03 Mar 2026 13:41:43 GMT"
@@ -282,10 +270,6 @@
     }
   ],
   "China": [
-    {
-      "title": "How China is masking drone flights in potential Taiwan rehearsal - Reuters",
-      "pubDate": "Thu, 26 Feb 2026 05:05:00 GMT"
-    },
     {
       "title": "Former U.S. Air Force Officer Is Accused of Training Chinese Military Pilots - The New York Times",
       "pubDate": "Sat, 28 Feb 2026 05:06:32 GMT"
@@ -505,6 +489,10 @@
     {
       "title": "How Iranian attacks on UAE infrastructure could impact the US economy - WION",
       "pubDate": "Sat, 21 Mar 2026 13:00:00 GMT"
+    },
+    {
+      "title": "The coming weeks in the Iran war are pivotal for the U.S. economy. Here's what to know - CNBC",
+      "pubDate": "Sat, 28 Mar 2026 10:50:02 GMT"
     }
   ],
   "OpenAI": [
@@ -610,10 +598,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Live updates: Trump urges regime change as Iran's supreme leader is killed after U.S., Israel attack - NBC News",
-      "pubDate": "Sun, 01 Mar 2026 11:29:22 GMT"
-    },
     {
       "title": "Live updates: US Gulf allies fend off attacks as Trump warns Iran of \u2018big wave\u2019 of strikes - CNN",
       "pubDate": "Tue, 03 Mar 2026 11:40:00 GMT"
@@ -769,6 +753,10 @@
     {
       "title": "Iran War News: Israel Says It Killed IRGC Navy Commander Responsible for Blocking Strait \u2014 Live Updates - WSJ",
       "pubDate": "Thu, 26 Mar 2026 15:39:17 GMT"
+    },
+    {
+      "title": "Iran war live: US-Israeli war on Iran widens with first attack from Yemen - Al Jazeera",
+      "pubDate": "Sat, 28 Mar 2026 07:58:46 GMT"
     }
   ],
   "Climate": [
@@ -805,6 +793,10 @@
     {
       "title": "High-speed combat drone production to start at new US Anduril plant - MSN",
       "pubDate": "Sat, 21 Mar 2026 10:55:08 GMT"
+    },
+    {
+      "title": "Bahrain Intercepts Wave of Missiles and Drones as Iran Attacks Intensify - WSJ",
+      "pubDate": "Sat, 28 Mar 2026 10:07:57 GMT"
     }
   ],
   "Federal Reserve": [
@@ -1205,10 +1197,6 @@
   ],
   "Energy Storage": [
     {
-      "title": "Leaving water in batteries nearly doubles energy storage - New Atlas",
-      "pubDate": "Thu, 26 Feb 2026 06:21:35 GMT"
-    },
-    {
       "title": "Tesla, LG Energy to Build $4.3 Billion Michigan Plant - Bloomberg.com",
       "pubDate": "Tue, 17 Mar 2026 08:37:07 GMT"
     }
@@ -1315,6 +1303,10 @@
     {
       "title": "Iran resumes drone strikes on Saudi Arabia in larger numbers - Arab News",
       "pubDate": "Mon, 16 Mar 2026 00:28:38 GMT"
+    },
+    {
+      "title": "US-Israel-Iran War Live Updates: Multiple drone strikes hit Kuwait airport, damage radar - Firstpost",
+      "pubDate": "Sat, 28 Mar 2026 10:20:44 GMT"
     }
   ],
   "Finance": [
@@ -1511,6 +1503,10 @@
     {
       "title": "Dow tumbles almost 800 points and enters correction, S&P 500 posts fifth straight losing week: Live updates - CNBC",
       "pubDate": "Fri, 27 Mar 2026 22:39:00 GMT"
+    },
+    {
+      "title": "No end to war in sight after one month as Iran squeezes global economy - NBC News",
+      "pubDate": "Sat, 28 Mar 2026 08:26:38 GMT"
     }
   ],
   "Human Brain": [
@@ -1657,6 +1653,10 @@
     {
       "title": "Spain's Pedro S\u00e1nchez hits back at Trump threat to sever trade saying 'no to war' - BBC",
       "pubDate": "Wed, 04 Mar 2026 08:52:28 GMT"
+    },
+    {
+      "title": "Iran War Shockwaves Threaten More Damage to US Allies - Bloomberg.com",
+      "pubDate": "Sat, 28 Mar 2026 10:45:01 GMT"
     }
   ],
   "Battery Technology": [
@@ -2053,6 +2053,12 @@
     {
       "title": "Machine Learning is Making Personality Tests 4x Faster - Neuroscience News",
       "pubDate": "Fri, 27 Mar 2026 17:22:13 GMT"
+    }
+  ],
+  "Inflation": [
+    {
+      "title": "Borrowing costs are surging amid Iran war - Axios",
+      "pubDate": "Sat, 28 Mar 2026 01:58:39 GMT"
     }
   ]
 }
