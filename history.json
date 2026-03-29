@@ -371,6 +371,10 @@
     {
       "title": "AI systems increasingly ignore human instructions: Researchers - The Business Standard",
       "pubDate": "Sat, 28 Mar 2026 06:35:00 GMT"
+    },
+    {
+      "title": "Federal Judge Blocks Pentagon From Labeling Anthropic a National Security Threat - Bitcoin.com News",
+      "pubDate": "Sat, 28 Mar 2026 22:30:02 GMT"
     }
   ],
   "Data Breach": [
@@ -380,10 +384,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Ransomware Surges 49% as AI Makes Cyberattacks Faster and Easier, IBM Says - TipRanks",
-      "pubDate": "Thu, 26 Feb 2026 19:52:27 GMT"
-    },
     {
       "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses - WIRED",
       "pubDate": "Fri, 27 Feb 2026 10:00:00 GMT"
@@ -521,10 +521,6 @@
   ],
   "Climate Change": [
     {
-      "title": "California Becomes First State To Require Climate Change Reporting - Forbes",
-      "pubDate": "Fri, 27 Feb 2026 01:44:02 GMT"
-    },
-    {
       "title": "Study: Grasslands could shrink by half due to climate change - CNN",
       "pubDate": "Fri, 27 Feb 2026 09:18:55 GMT"
     },
@@ -602,10 +598,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran Live Updates: Trump Says U.S. Went to War to Pre-empt Iranian Attacks - The New York Times",
-      "pubDate": "Tue, 03 Mar 2026 23:47:00 GMT"
-    },
     {
       "title": "Live updates: U.S. has struck or sunk over 20 Iranian ships, CENTCOM says - NBC News",
       "pubDate": "Thu, 05 Mar 2026 05:47:11 GMT"
@@ -761,6 +753,10 @@
     {
       "title": "Economists Warn Iran War Increases Risk Of Recession In Next 12 Months - NewsOne",
       "pubDate": "Sat, 28 Mar 2026 16:54:31 GMT"
+    },
+    {
+      "title": "Middle East crisis live: Houthis carry out \u2018second military operation\u2019 against Israel and vow to continue in coming days - theguardian.com",
+      "pubDate": "Sun, 29 Mar 2026 03:56:00 GMT"
     }
   ],
   "Climate": [
@@ -895,6 +891,10 @@
     {
       "title": "Microsoft and Nvidia team up on AI nuclear push - Axios",
       "pubDate": "Wed, 25 Mar 2026 01:28:38 GMT"
+    },
+    {
+      "title": "As war rages, Iranian politicians push for exit from nuclear weapons treaty - Al Jazeera",
+      "pubDate": "Sat, 28 Mar 2026 17:53:23 GMT"
     }
   ],
   "Public Health": [
@@ -991,6 +991,10 @@
     {
       "title": "IBM and University Researchers Create a Never-Before-Seen Molecule and Prove its Exotic Nature with Quantum Computing - IBM Newsroom",
       "pubDate": "Thu, 05 Mar 2026 19:00:57 GMT"
+    },
+    {
+      "title": "US\u2013China rivalry intensifies as quantum computing emerges as next battleground - Latest news from Azerbaijan",
+      "pubDate": "Sat, 28 Mar 2026 18:00:01 GMT"
     }
   ],
   "Geopolitics": [
@@ -1004,10 +1008,6 @@
     }
   ],
   "AI Ethics": [
-    {
-      "title": "Anthropic refuses Pentagon\u2019s new terms, standing firm on lethal autonomous weapons and mass surveillance - The Verge",
-      "pubDate": "Thu, 26 Feb 2026 23:22:44 GMT"
-    },
     {
       "title": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI - The Guardian",
       "pubDate": "Fri, 27 Feb 2026 21:47:00 GMT"
@@ -1161,13 +1161,13 @@
     {
       "title": "US intelligence agencies not expecting China to invade Taiwan in 2027 - Al Jazeera",
       "pubDate": "Thu, 19 Mar 2026 05:30:25 GMT"
+    },
+    {
+      "title": "China assembles fleet of attack drones near Taiwan - The Telegraph",
+      "pubDate": "Sat, 28 Mar 2026 19:07:00 GMT"
     }
   ],
   "Department of Justice": [
-    {
-      "title": "Justice Department Exposed Cooperating Witnesses in Epstein Files - The New York Times - The New York Times",
-      "pubDate": "Thu, 26 Feb 2026 19:15:28 GMT"
-    },
     {
       "title": "There Are 47,635 Epstein Files Offline for Review, DOJ Says - WSJ",
       "pubDate": "Tue, 03 Mar 2026 23:05:00 GMT"
@@ -1341,10 +1341,6 @@
   ],
   "Black Holes": [
     {
-      "title": "Caught on camera: Black hole seen tearing a star apart for the first time - The Times of India",
-      "pubDate": "Fri, 27 Feb 2026 01:30:00 GMT"
-    },
-    {
       "title": "Astronomers are capturing video of a black hole for the first time - CBC",
       "pubDate": "Sat, 07 Mar 2026 09:00:00 GMT"
     },
@@ -1384,10 +1380,6 @@
     }
   ],
   "Immigration": [
-    {
-      "title": "Columbia University says US immigration agents lied to detain student - Al Jazeera",
-      "pubDate": "Thu, 26 Feb 2026 22:12:44 GMT"
-    },
     {
       "title": "911 calls capture kids burning with fever, struggling to breathe at ICE detention center - NBC News",
       "pubDate": "Fri, 27 Feb 2026 10:00:00 GMT"
@@ -1531,6 +1523,10 @@
     {
       "title": "No end to war in sight after one month as Iran squeezes global economy - NBC News",
       "pubDate": "Sat, 28 Mar 2026 08:26:38 GMT"
+    },
+    {
+      "title": "Potential Houthi threat to Red Sea shipping could further damage global economy - BBC",
+      "pubDate": "Sat, 28 Mar 2026 19:08:30 GMT"
     }
   ],
   "Human Brain": [
@@ -1653,6 +1649,10 @@
     {
       "title": "US Treasury Releases New AI Risk Management Resources for Financial Institutions - Lexology",
       "pubDate": "Tue, 03 Mar 2026 08:07:45 GMT"
+    },
+    {
+      "title": "US debt suddenly draws weaker demand as $10 trillion must be rolled over this year amid Iran war - Fortune",
+      "pubDate": "Sat, 28 Mar 2026 17:57:00 GMT"
     }
   ],
   "Cryptography": [
