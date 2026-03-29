@@ -127,6 +127,10 @@
     {
       "title": "Number of AI chatbots ignoring human instructions increasing, study says - The Guardian",
       "pubDate": "Fri, 27 Mar 2026 20:47:00 GMT"
+    },
+    {
+      "title": "Rethinking brain-like artificial intelligence: New study reveals hidden mismatches - Medical Xpress",
+      "pubDate": "Sun, 29 Mar 2026 13:00:08 GMT"
     }
   ],
   "Israel": [
@@ -385,10 +389,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Data Broker Breaches Fueled Nearly $21 Billion in Identity-Theft Losses - WIRED",
-      "pubDate": "Fri, 27 Feb 2026 10:00:00 GMT"
-    },
-    {
       "title": "Social Security numbers of over 1.2M \u2018potentially\u2019 exposed in UH cyberattack - Honolulu Star-Advertiser",
       "pubDate": "Sat, 28 Feb 2026 10:07:14 GMT"
     },
@@ -520,10 +520,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "Study: Grasslands could shrink by half due to climate change - CNN",
-      "pubDate": "Fri, 27 Feb 2026 09:18:55 GMT"
-    },
     {
       "title": "A Tiny Caribbean Island Sued the Netherlands Over Climate Change, and Won - Inside Climate News",
       "pubDate": "Sat, 28 Feb 2026 09:50:00 GMT"
@@ -775,6 +771,10 @@
     {
       "title": "State of the Global Climate 2025 - World Meteorological Organization WMO",
       "pubDate": "Sat, 28 Mar 2026 16:26:19 GMT"
+    },
+    {
+      "title": "Scientists set out to learn how climate change affects wild meadows\u2014with alarming results - Mother Jones",
+      "pubDate": "Sun, 29 Mar 2026 12:26:27 GMT"
     }
   ],
   "Drones": [
@@ -899,10 +899,6 @@
   ],
   "Public Health": [
     {
-      "title": "The US has surpassed 1,100 measles cases in two months. Expect more deaths next - CNN",
-      "pubDate": "Fri, 27 Feb 2026 15:17:18 GMT"
-    },
-    {
       "title": "Scientists Get a Glimpse of How New Pandemics Are Made - The New York Times",
       "pubDate": "Mon, 09 Mar 2026 09:01:58 GMT"
     }
@@ -977,13 +973,13 @@
     {
       "title": "House GOP rejects Senate-passed DHS bill, likely extending shutdown - CNN",
       "pubDate": "Fri, 27 Mar 2026 22:44:00 GMT"
+    },
+    {
+      "title": "Cory Booker says Democrats have 'failed this moment,' need new leaders - USA Today",
+      "pubDate": "Sun, 29 Mar 2026 18:16:00 GMT"
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Researchers may have observed triplet superconductivity - the holy grail in quantum computing - The Brighter Side of News",
-      "pubDate": "Fri, 27 Feb 2026 15:07:00 GMT"
-    },
     {
       "title": "Large-scale ion-trap quantum computing systems inch closer to reality with US\u2019 new breakthrough - Interesting Engineering",
       "pubDate": "Sun, 01 Mar 2026 06:23:00 GMT"
@@ -1008,10 +1004,6 @@
     }
   ],
   "AI Ethics": [
-    {
-      "title": "Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI - The Guardian",
-      "pubDate": "Fri, 27 Feb 2026 21:47:00 GMT"
-    },
     {
       "title": "The Pentagon Wants to Use AI to Kill People Without Checks. Is Anthropic Really Pushing Back? - Zeteo | Substack",
       "pubDate": "Tue, 03 Mar 2026 16:02:19 GMT"
@@ -1096,10 +1088,6 @@
     }
   ],
   "NASA": [
-    {
-      "title": "NASA announces major overhaul to its Artemis moon program - NBC News",
-      "pubDate": "Fri, 27 Feb 2026 22:43:47 GMT"
-    },
     {
       "title": "NASA Announces Major Change to Plans For Putting Humans on The Moon - ScienceAlert",
       "pubDate": "Tue, 03 Mar 2026 00:42:19 GMT"
@@ -1283,10 +1271,6 @@
   ],
   "US Foreign Policy": [
     {
-      "title": "Massive Buildup Against Iran Continues: F-22s to Israel, More F-35s and F-15Es to Europe - Air & Space Forces Magazine",
-      "pubDate": "Fri, 27 Feb 2026 05:19:56 GMT"
-    },
-    {
       "title": "Weapons makers, foreign states lavish $32 million on US think tanks - Responsible Statecraft",
       "pubDate": "Mon, 16 Mar 2026 04:12:45 GMT"
     },
@@ -1377,12 +1361,6 @@
     {
       "title": "Google's new tech promises to reduce memory demand by 6x - PC Gamer",
       "pubDate": "Fri, 27 Mar 2026 14:57:52 GMT"
-    }
-  ],
-  "Immigration": [
-    {
-      "title": "911 calls capture kids burning with fever, struggling to breathe at ICE detention center - NBC News",
-      "pubDate": "Fri, 27 Feb 2026 10:00:00 GMT"
     }
   ],
   "Civil Rights": [
@@ -1483,10 +1461,6 @@
   ],
   "Astronomy": [
     {
-      "title": "James Webb reveals a barred spiral galaxy shockingly early in the Universe - ScienceDaily",
-      "pubDate": "Fri, 27 Feb 2026 17:16:36 GMT"
-    },
-    {
       "title": "The universe is humming with ripples in spacetime: Scientists just doubled our catalog of black hole and neutron star collisions - Space",
       "pubDate": "Fri, 06 Mar 2026 21:00:00 GMT"
     }
@@ -1540,10 +1514,6 @@
     }
   ],
   "Medicine": [
-    {
-      "title": "Scientists turn methane into medicine in stunning breakthrough - ScienceDaily",
-      "pubDate": "Fri, 27 Feb 2026 15:53:35 GMT"
-    },
     {
       "title": "These diseases were thought to be incurable. Now AI is unlocking new treatments - BBC",
       "pubDate": "Tue, 10 Mar 2026 10:00:00 GMT"
@@ -1713,6 +1683,10 @@
     {
       "title": "U.S. drafts plan to end war with Iran as 2,000 paratroopers are ordered to deploy in the Middle East - NPR",
       "pubDate": "Wed, 25 Mar 2026 09:38:39 GMT"
+    },
+    {
+      "title": "Iran war latest: Israel to expand into Lebanon as Tehran warns of \u2018swamp of death\u2019 - The Independent",
+      "pubDate": "Sun, 29 Mar 2026 21:51:17 GMT"
     }
   ],
   "Infrastructure": [
@@ -1843,6 +1817,10 @@
     {
       "title": "Iran war threatens to erase the economic bump from bigger tax refunds - NBC News",
       "pubDate": "Sat, 14 Mar 2026 18:53:12 GMT"
+    },
+    {
+      "title": "From oil to food to markets: How a month of war on Iran has remade the world economy - Business Insider",
+      "pubDate": "Sun, 29 Mar 2026 21:23:00 GMT"
     }
   ],
   "AI and Jobs": [
@@ -2083,6 +2061,12 @@
     {
       "title": "Borrowing costs are surging amid Iran war - Axios",
       "pubDate": "Sat, 28 Mar 2026 01:58:39 GMT"
+    }
+  ],
+  "AI Alignment": [
+    {
+      "title": "AI could lead to human extinction in just 5 years, warns ex-OpenAI researcher - The Financial Express",
+      "pubDate": "Sun, 29 Mar 2026 11:37:25 GMT"
     }
   ]
 }
