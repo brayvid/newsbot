@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life. - The Guardian",
-      "pubDate": "Sat, 28 Feb 2026 10:00:00 GMT"
-    },
-    {
       "title": "SAP CEO Klein Reorganizes Board to Focus on Developing AI - Bloomberg.com",
       "pubDate": "Mon, 02 Mar 2026 12:54:24 GMT"
     },
@@ -171,6 +167,10 @@
     {
       "title": "Ukraine\u2019s top drone commander wants to bleed Russia\u2019s army dry - The Economist",
       "pubDate": "Sun, 22 Mar 2026 19:11:24 GMT"
+    },
+    {
+      "title": "Russian Offensive Campaign Assessment, March 29, 2026 - Institute for the Study of War",
+      "pubDate": "Sun, 29 Mar 2026 23:45:26 GMT"
     }
   ],
   "Russia": [
@@ -205,6 +205,10 @@
     {
       "title": "Russian Offensive Campaign Assessment, March 23, 2026 - Institute for the Study of War",
       "pubDate": "Tue, 24 Mar 2026 00:54:57 GMT"
+    },
+    {
+      "title": "U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade - The New York Times",
+      "pubDate": "Mon, 30 Mar 2026 03:10:52 GMT"
     }
   ],
   "Donald Trump": [
@@ -271,10 +275,6 @@
   ],
   "China": [
     {
-      "title": "Former U.S. Air Force Officer Is Accused of Training Chinese Military Pilots - The New York Times",
-      "pubDate": "Sat, 28 Feb 2026 05:06:32 GMT"
-    },
-    {
       "title": "China Could Dominate the Physical AI Future - Time Magazine",
       "pubDate": "Tue, 03 Mar 2026 11:24:36 GMT"
     },
@@ -309,6 +309,10 @@
     {
       "title": "China is mapping the ocean floor as it prepares for submarine warfare with the U.S. - Reuters",
       "pubDate": "Tue, 24 Mar 2026 05:00:00 GMT"
+    },
+    {
+      "title": "Xi Invites Taiwan\u2019s Opposition Leader to Talk \u2018Peace\u2019 Ahead of Trump Summit - The New York Times",
+      "pubDate": "Mon, 30 Mar 2026 10:32:29 GMT"
     }
   ],
   "AI Safety": [
@@ -379,6 +383,10 @@
     {
       "title": "AI safety experts say most models are failing - Mashable",
       "pubDate": "Sun, 29 Mar 2026 19:00:00 GMT"
+    },
+    {
+      "title": "Meta\u2019s Legal Setbacks Raise Alarms Over AI Safety and Transparency - The European Business Review",
+      "pubDate": "Mon, 30 Mar 2026 02:40:32 GMT"
     }
   ],
   "Data Breach": [
@@ -388,10 +396,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Social Security numbers of over 1.2M \u2018potentially\u2019 exposed in UH cyberattack - Honolulu Star-Advertiser",
-      "pubDate": "Sat, 28 Feb 2026 10:07:14 GMT"
-    },
     {
       "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED",
       "pubDate": "Tue, 03 Mar 2026 19:01:00 GMT"
@@ -521,10 +525,6 @@
   ],
   "Climate Change": [
     {
-      "title": "A Tiny Caribbean Island Sued the Netherlands Over Climate Change, and Won - Inside Climate News",
-      "pubDate": "Sat, 28 Feb 2026 09:50:00 GMT"
-    },
-    {
       "title": "A Crisis in the Alps: Airbnb, Climate Change and Americans - The New York Times",
       "pubDate": "Mon, 02 Mar 2026 10:00:47 GMT"
     },
@@ -591,6 +591,10 @@
     {
       "title": "How climate change has powered the heat wave blanketing much of the U.S. - PBS",
       "pubDate": "Thu, 26 Mar 2026 22:35:08 GMT"
+    },
+    {
+      "title": "Records shattered for the hottest day in March; \u2018This is what climate change looks like' - NBC Bay Area",
+      "pubDate": "Mon, 30 Mar 2026 07:21:43 GMT"
     }
   ],
   "Iran": [
@@ -927,6 +931,10 @@
     {
       "title": "Pentagon prepares for massive \"final blow\" of Iran war - Axios",
       "pubDate": "Thu, 26 Mar 2026 09:58:08 GMT"
+    },
+    {
+      "title": "US judge to hear arguments on Pentagon compliance with press access ruling - Reuters",
+      "pubDate": "Mon, 30 Mar 2026 10:04:11 GMT"
     }
   ],
   "US Politics": [
@@ -1133,6 +1141,10 @@
     {
       "title": "Iran-linked group claims hack of FBI Director Kash Patel - axios.com",
       "pubDate": "Sat, 28 Mar 2026 06:05:50 GMT"
+    },
+    {
+      "title": "OpenAI And Anthropic Develop Advanced AI Systems With Cyberattack Risks - ndtv.com",
+      "pubDate": "Mon, 30 Mar 2026 07:19:06 GMT"
     }
   ],
   "Social Media": [
@@ -1299,12 +1311,6 @@
     {
       "title": "Trump Administration Won\u2019t Rule Out Further Action Against Anthropic - WIRED",
       "pubDate": "Wed, 11 Mar 2026 01:41:00 GMT"
-    }
-  ],
-  "Semiconductors": [
-    {
-      "title": "India\u2019s semiconductor market to hit $103 billlion by 2030, fuelled by AI, EVs, and defence - The Economic Times",
-      "pubDate": "Sat, 28 Feb 2026 06:11:16 GMT"
     }
   ],
   "Drone Warfare": [
@@ -1517,18 +1523,6 @@
     {
       "title": "These diseases were thought to be incurable. Now AI is unlocking new treatments - BBC",
       "pubDate": "Tue, 10 Mar 2026 10:00:00 GMT"
-    }
-  ],
-  "Renewable Energy": [
-    {
-      "title": "Google is building the world\u2019s largest battery system with a massive 100 hours of power in Minnesota - Fortune",
-      "pubDate": "Sat, 28 Feb 2026 07:58:00 GMT"
-    }
-  ],
-  "Biology": [
-    {
-      "title": "Scientists discover microbe that breaks a fundamental rule of the genetic code - ScienceDaily",
-      "pubDate": "Sat, 28 Feb 2026 06:49:30 GMT"
     }
   ],
   "Power Grid": [
