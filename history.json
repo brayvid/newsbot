@@ -329,10 +329,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Anthropic CEO Dario Amodei pushes back against Donald Trump administration in CBS News interview over AI military access dispute. In a CBS News exclusive, Anthropic CEO Dario Amodei said the U.S. government\u2019s decision to label the company a nation - LinkedIn",
-      "pubDate": "Sun, 01 Mar 2026 11:33:05 GMT"
-    },
-    {
       "title": "Treasury terminates Anthropic AI use after Trump's order - Axios",
       "pubDate": "Mon, 02 Mar 2026 17:07:54 GMT"
     },
@@ -475,6 +471,10 @@
     {
       "title": "DNI Gabbard Announces Largest-Ever Intelligence Community Cybersecurity Investment and Modernization Effort - DNI.gov",
       "pubDate": "Thu, 26 Mar 2026 22:01:36 GMT"
+    },
+    {
+      "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account - The Hacker News",
+      "pubDate": "Tue, 31 Mar 2026 06:08:00 GMT"
     }
   ],
   "US Economy": [
@@ -517,6 +517,10 @@
     {
       "title": "The coming weeks in the Iran war are pivotal for the U.S. economy. Here's what to know - CNBC",
       "pubDate": "Sat, 28 Mar 2026 10:50:02 GMT"
+    },
+    {
+      "title": "America's less energy-intensive economy braces against Iran war shock - axios.com",
+      "pubDate": "Tue, 31 Mar 2026 08:04:48 GMT"
     }
   ],
   "OpenAI": [
@@ -619,6 +623,10 @@
     {
       "title": "Global warming already impacts daily lives around the globe, study finds - Mongabay",
       "pubDate": "Mon, 30 Mar 2026 15:27:38 GMT"
+    },
+    {
+      "title": "Climate change is making homes shrink and crack - Down to Earth - France 24",
+      "pubDate": "Tue, 31 Mar 2026 11:52:35 GMT"
     }
   ],
   "Iran": [
@@ -917,6 +925,10 @@
     {
       "title": "Outgoing UNRWA head warns agency \u2018may soon no longer be viable\u2019 amid Israeli opposition - The Times of Israel",
       "pubDate": "Sat, 21 Mar 2026 08:13:42 GMT"
+    },
+    {
+      "title": "UN aid chief warns of new Israeli occupation in southern Lebanon - Al Jazeera",
+      "pubDate": "Tue, 31 Mar 2026 16:24:43 GMT"
     }
   ],
   "Nuclear Power": [
@@ -1031,6 +1043,10 @@
     {
       "title": "Scientists unlock scalable entanglement for next-generation quantum computing - The Brighter Side of News",
       "pubDate": "Sun, 29 Mar 2026 23:07:00 GMT"
+    },
+    {
+      "title": "Google warns quantum computing may break bitcoin earlier than thought, prepares 2029 transition - The Block",
+      "pubDate": "Tue, 31 Mar 2026 07:33:49 GMT"
     }
   ],
   "Geopolitics": [
@@ -2029,6 +2045,10 @@
     {
       "title": "NVIDIA CEO Jensen Huang says AGI is here \u2014 sort of - Mashable",
       "pubDate": "Tue, 31 Mar 2026 02:13:11 GMT"
+    },
+    {
+      "title": "Elon Musk Predicts AI Surpasses Human Intelligence - Let's Data Science",
+      "pubDate": "Tue, 31 Mar 2026 07:46:25 GMT"
     }
   ],
   "European Union": [
@@ -2113,6 +2133,10 @@
     {
       "title": "Iran War Live Updates: Trump Renews Threats Against Iranian Oil and Energy Facilities - nytimes.com",
       "pubDate": "Mon, 30 Mar 2026 22:48:41 GMT"
+    },
+    {
+      "title": "Iran war live: US says \u2018negotiating with bombs\u2019, Iran wounds 9 Israelis - Al Jazeera",
+      "pubDate": "Tue, 31 Mar 2026 05:21:00 GMT"
     }
   ],
   "Blockchain": [
