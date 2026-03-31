@@ -279,6 +279,10 @@
     {
       "title": "Live updates: Trump threatens to \u2018obliterate\u2019 Iran\u2019s energy sources, as Tehran calls US plan \u2018unrealistic\u2019 - CNN",
       "pubDate": "Mon, 30 Mar 2026 16:37:00 GMT"
+    },
+    {
+      "title": "Trump Tells Aides He\u2019s Willing to End War Without Reopening Hormuz - WSJ",
+      "pubDate": "Tue, 31 Mar 2026 00:37:00 GMT"
     }
   ],
   "China": [
@@ -399,6 +403,10 @@
     {
       "title": "OpenAI Launches AI Safety Bug Bounty - digit.fyi",
       "pubDate": "Mon, 30 Mar 2026 12:21:20 GMT"
+    },
+    {
+      "title": "Newsom signs executive order requiring AI companies to have safety, privacy guardrails - KTLA",
+      "pubDate": "Mon, 30 Mar 2026 23:50:12 GMT"
     }
   ],
   "Data Breach": [
@@ -471,10 +479,6 @@
   ],
   "US Economy": [
     {
-      "title": "Trump is accelerating the world\u2019s slow drift from dollar dominance | Heather Stewart - The Guardian",
-      "pubDate": "Sun, 01 Mar 2026 10:49:00 GMT"
-    },
-    {
       "title": "Trump tariffs live updates: Judge says US must start issuing tariffs refunds, states challenge fresh tariffs - Yahoo Finance",
       "pubDate": "Fri, 06 Mar 2026 11:49:30 GMT"
     },
@@ -533,6 +537,10 @@
     {
       "title": "Trump's mediators offer Hamas formal proposal to give up its weapons in Gaza - NPR",
       "pubDate": "Thu, 19 Mar 2026 19:19:46 GMT"
+    },
+    {
+      "title": "Israeli strikes kill five in Gaza Strip, medics say - Reuters",
+      "pubDate": "Tue, 31 Mar 2026 10:42:48 GMT"
     }
   ],
   "Climate Change": [
@@ -795,6 +803,10 @@
     {
       "title": "Scientists set out to learn how climate change affects wild meadows\u2014with alarming results - Mother Jones",
       "pubDate": "Sun, 29 Mar 2026 12:26:27 GMT"
+    },
+    {
+      "title": "Vermont\u2019s first-in-nation climate law faces legal challenge - eenews.net",
+      "pubDate": "Tue, 31 Mar 2026 10:21:00 GMT"
     }
   ],
   "Drones": [
@@ -839,6 +851,10 @@
     {
       "title": "Fed Official Urges Caution on Rate Cuts as Iran War Drags On - The New York Times",
       "pubDate": "Fri, 20 Mar 2026 14:27:06 GMT"
+    },
+    {
+      "title": "Jerome Powell says the Fed doesn't have to hike interest rates because of the Iran war \u2014 yet - qz.com",
+      "pubDate": "Tue, 31 Mar 2026 04:02:55 GMT"
     }
   ],
   "Department of Homeland Security": [
@@ -929,10 +945,6 @@
   ],
   "The Pentagon": [
     {
-      "title": "At the Pentagon, OpenAI is In and Anthropic Is Out - The New York Times",
-      "pubDate": "Sun, 01 Mar 2026 00:13:05 GMT"
-    },
-    {
       "title": "Pentagon releases names of first U.S. service members killed in Iran war - CBS News",
       "pubDate": "Tue, 03 Mar 2026 23:04:53 GMT"
     },
@@ -1008,10 +1020,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "Large-scale ion-trap quantum computing systems inch closer to reality with US\u2019 new breakthrough - Interesting Engineering",
-      "pubDate": "Sun, 01 Mar 2026 06:23:00 GMT"
-    },
     {
       "title": "IBM and University Researchers Create a Never-Before-Seen Molecule and Prove its Exotic Nature with Quantum Computing - IBM Newsroom",
       "pubDate": "Thu, 05 Mar 2026 19:00:57 GMT"
@@ -1555,18 +1563,8 @@
   ],
   "Power Grid": [
     {
-      "title": "Exclusive | A New Threat to Power Grids: Data Centers Unplugging at Once - WSJ",
-      "pubDate": "Sun, 01 Mar 2026 10:30:00 GMT"
-    },
-    {
       "title": "US Department of Energy to invest $1.9 billion for power grid upgrades - Reuters",
       "pubDate": "Thu, 12 Mar 2026 19:39:03 GMT"
-    }
-  ],
-  "Measles": [
-    {
-      "title": "Measles outbreaks are costing the U.S. millions of dollars. The true losses can't be counted. - NBC News",
-      "pubDate": "Sun, 01 Mar 2026 11:00:00 GMT"
     }
   ],
   "War and Unrest": [
@@ -2027,6 +2025,10 @@
     {
       "title": "Google DeepMind and Kaggle open AGI benchmark contest with $200,000 prize pool - EdTech Innovation Hub",
       "pubDate": "Thu, 26 Mar 2026 00:33:35 GMT"
+    },
+    {
+      "title": "NVIDIA CEO Jensen Huang says AGI is here \u2014 sort of - Mashable",
+      "pubDate": "Tue, 31 Mar 2026 02:13:11 GMT"
     }
   ],
   "European Union": [
