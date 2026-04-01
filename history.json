@@ -217,6 +217,10 @@
     {
       "title": "U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade - The New York Times",
       "pubDate": "Mon, 30 Mar 2026 03:10:52 GMT"
+    },
+    {
+      "title": "At least 29 dead after Russian military plane crashes in Crimea - The Guardian",
+      "pubDate": "Wed, 01 Apr 2026 02:16:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -287,6 +291,10 @@
     {
       "title": "Trump Tells Aides He\u2019s Willing to End War Without Reopening Hormuz - WSJ",
       "pubDate": "Tue, 31 Mar 2026 00:37:00 GMT"
+    },
+    {
+      "title": "Trump says war on Iran to end in 2-3 weeks; \u2018large fire\u2019 at Kuwait airport - Al Jazeera",
+      "pubDate": "Wed, 01 Apr 2026 04:33:26 GMT"
     }
   ],
   "China": [
@@ -407,6 +415,10 @@
     {
       "title": "Newsom signs executive order requiring AI companies to have safety, privacy guardrails - KTLA",
       "pubDate": "Mon, 30 Mar 2026 23:50:12 GMT"
+    },
+    {
+      "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking - Reuters",
+      "pubDate": "Tue, 31 Mar 2026 23:15:26 GMT"
     }
   ],
   "Data Breach": [
@@ -1059,6 +1071,10 @@
     {
       "title": "Google warns quantum computing may break bitcoin earlier than thought, prepares 2029 transition - The Block",
       "pubDate": "Tue, 31 Mar 2026 07:33:49 GMT"
+    },
+    {
+      "title": "Quantum computers need vastly fewer resources than thought to break vital encryption - Ars Technica",
+      "pubDate": "Tue, 31 Mar 2026 18:25:33 GMT"
     }
   ],
   "Geopolitics": [
@@ -1347,6 +1363,10 @@
     {
       "title": "Zelenskiy Seeks Fuel Supply Deals During Middle East Tour - Bloomberg.com",
       "pubDate": "Sat, 28 Mar 2026 14:58:09 GMT"
+    },
+    {
+      "title": "Third U.S. Aircraft Carrier Deploys to Middle East - WSJ",
+      "pubDate": "Tue, 31 Mar 2026 23:49:35 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -2123,6 +2143,10 @@
     {
       "title": "BlackRock CEO warns oil at $150 could trigger a global recession - qz.com",
       "pubDate": "Thu, 26 Mar 2026 14:21:57 GMT"
+    },
+    {
+      "title": "This scenario could tip the US into recession. Here's how to prepare. - USA Today",
+      "pubDate": "Tue, 31 Mar 2026 20:44:00 GMT"
     }
   ],
   "Hacking": [
@@ -2179,6 +2203,12 @@
     {
       "title": "Climate change is making days longer, study says - Astronomy Magazine",
       "pubDate": "Tue, 31 Mar 2026 18:50:19 GMT"
+    }
+  ],
+  "Elections": [
+    {
+      "title": "Trump signs an executive order to create federal voter lists - NBC News",
+      "pubDate": "Tue, 31 Mar 2026 22:37:28 GMT"
     }
   ]
 }
