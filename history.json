@@ -1,18 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "SAP CEO Klein Reorganizes Board to Focus on Developing AI - Bloomberg.com",
-      "pubDate": "Mon, 02 Mar 2026 12:54:24 GMT"
-    },
-    {
-      "title": "US Supreme Court declines to hear dispute over copyrights for AI-generated material - Reuters",
-      "pubDate": "Mon, 02 Mar 2026 15:01:45 GMT"
-    },
-    {
-      "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times",
-      "pubDate": "Mon, 02 Mar 2026 21:16:00 GMT"
-    },
-    {
       "title": "From algorithms to atoms: How artificial intelligence is accelerating the discovery of next-generation energy materials - EurekAlert!",
       "pubDate": "Wed, 04 Mar 2026 03:15:36 GMT"
     },
@@ -183,10 +171,6 @@
   ],
   "Russia": [
     {
-      "title": "Zelensky fears Trump's Iran war could hurt Ukraine - BBC",
-      "pubDate": "Tue, 03 Mar 2026 13:41:43 GMT"
-    },
-    {
       "title": "Trump administration allows for Russian oil sales as energy prices soar - The Washington Post",
       "pubDate": "Fri, 13 Mar 2026 16:13:56 GMT"
     },
@@ -224,10 +208,6 @@
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Live updates: Trump won\u2019t rule out ground forces in Iran; 6 U.S. service members killed since start of war - NBC News",
-      "pubDate": "Mon, 02 Mar 2026 23:45:28 GMT"
-    },
     {
       "title": "Live updates: Israel hits Beirut and Tehran as Trump warns Iran of escalated strikes - CNN",
       "pubDate": "Tue, 03 Mar 2026 17:21:00 GMT"
@@ -299,10 +279,6 @@
   ],
   "China": [
     {
-      "title": "China Could Dominate the Physical AI Future - Time Magazine",
-      "pubDate": "Tue, 03 Mar 2026 11:24:36 GMT"
-    },
-    {
       "title": "U.S. considers caps on Nvidia chips for China - Los Angeles Times",
       "pubDate": "Tue, 03 Mar 2026 17:28:34 GMT"
     },
@@ -340,10 +316,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Treasury terminates Anthropic AI use after Trump's order - Axios",
-      "pubDate": "Mon, 02 Mar 2026 17:07:54 GMT"
-    },
     {
       "title": "OpenAI Secures Pentagon Deal as Anthropic Sidelined Over AI Safety Concerns - National Today",
       "pubDate": "Wed, 04 Mar 2026 06:06:21 GMT"
@@ -421,12 +393,6 @@
       "pubDate": "Tue, 31 Mar 2026 23:15:26 GMT"
     }
   ],
-  "Data Breach": [
-    {
-      "title": "Data Breach Exposes 25 Million Americans in What Texas Calls the Largest US Hack in History - Yahoo",
-      "pubDate": "Mon, 02 Mar 2026 15:25:55 GMT"
-    }
-  ],
   "Cybersecurity": [
     {
       "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED",
@@ -495,6 +461,10 @@
     {
       "title": "North Korea-linked hack hits largely invisible software that powers online services - Reuters",
       "pubDate": "Tue, 31 Mar 2026 20:52:56 GMT"
+    },
+    {
+      "title": "Twin cybersecurity incidents leave AI industry shaken - Yahoo Finance",
+      "pubDate": "Thu, 02 Apr 2026 14:18:50 GMT"
     }
   ],
   "US Economy": [
@@ -545,10 +515,6 @@
   ],
   "OpenAI": [
     {
-      "title": "OpenAI Amending Pentagon Agreement, CEO Altman Confirms - Meyka",
-      "pubDate": "Tue, 03 Mar 2026 09:34:10 GMT"
-    },
-    {
       "title": "Family sues ChatGPT-maker OpenAI over school shooting in Canada - AP News",
       "pubDate": "Tue, 10 Mar 2026 01:53:00 GMT"
     }
@@ -568,14 +534,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "A Crisis in the Alps: Airbnb, Climate Change and Americans - The New York Times",
-      "pubDate": "Mon, 02 Mar 2026 10:00:47 GMT"
-    },
-    {
-      "title": "Australian wildlife in \u2018harm\u2019s way\u2019, with volunteers left to \u2018pick up the pieces\u2019 amid climate crisis, fires and floods - The Guardian",
-      "pubDate": "Mon, 02 Mar 2026 20:41:00 GMT"
-    },
     {
       "title": "Global sea levels have been underestimated due to poor modelling, research suggests - The Guardian",
       "pubDate": "Thu, 05 Mar 2026 02:30:00 GMT"
@@ -935,10 +893,6 @@
   ],
   "United Nations": [
     {
-      "title": "UN urges investigation into 'horrific' attack on Iran school - Reuters",
-      "pubDate": "Tue, 03 Mar 2026 10:40:02 GMT"
-    },
-    {
       "title": "UN: Putin\u2019s deportation of Ukrainian children is a crime against humanity - Atlantic Council",
       "pubDate": "Sat, 14 Mar 2026 12:28:39 GMT"
     },
@@ -1007,10 +961,6 @@
   ],
   "US Politics": [
     {
-      "title": "Congress searches for shutdown off-ramp as DHS employees start missing pay - Government Executive",
-      "pubDate": "Mon, 02 Mar 2026 21:30:00 GMT"
-    },
-    {
       "title": "Cory Booker Catches Kristi Noem Lying Under Oath Multiple Times - The New Republic",
       "pubDate": "Tue, 03 Mar 2026 20:15:50 GMT"
     },
@@ -1053,6 +1003,10 @@
     {
       "title": "Nate Silver on recent polling: Trump has \u2018profound problems\u2019 - The Hill",
       "pubDate": "Tue, 31 Mar 2026 13:56:00 GMT"
+    },
+    {
+      "title": "Trump Administration Live Updates: House Punts on D.H.S. Spending, Extending Shutdown - The New York Times",
+      "pubDate": "Thu, 02 Apr 2026 16:45:44 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1079,19 +1033,11 @@
   ],
   "Geopolitics": [
     {
-      "title": "Iran Oil Disruption: Geopolitics and Global Energy Markets - VanEck",
-      "pubDate": "Tue, 03 Mar 2026 15:55:44 GMT"
-    },
-    {
       "title": "Russia and China: Gaining from the war with Iran? | State of Play - CSIS | Center for Strategic and International Studies",
       "pubDate": "Sun, 15 Mar 2026 22:58:52 GMT"
     }
   ],
   "AI Ethics": [
-    {
-      "title": "The Pentagon Wants to Use AI to Kill People Without Checks. Is Anthropic Really Pushing Back? - Zeteo | Substack",
-      "pubDate": "Tue, 03 Mar 2026 16:02:19 GMT"
-    },
     {
       "title": "Democrats drafting AI guardrails for autonomous weapons, domestic spying - Axios",
       "pubDate": "Thu, 12 Mar 2026 19:54:43 GMT"
@@ -1103,13 +1049,13 @@
     {
       "title": "Anthropic Battles U.S. Military Over AI Ethics - \uc870\uc120\uc77c\ubcf4",
       "pubDate": "Mon, 16 Mar 2026 21:22:23 GMT"
+    },
+    {
+      "title": "House Democrat pushes Anthropic on safety protocols, source code leak - The Hill",
+      "pubDate": "Thu, 02 Apr 2026 16:04:00 GMT"
     }
   ],
   "Space Exploration": [
-    {
-      "title": "Artemis, and the New Space Race: Mission delays underscore technical challenges as the United States and China compete to establish long-term dominance at the lunar south pole. - AAPG",
-      "pubDate": "Mon, 02 Mar 2026 23:30:00 GMT"
-    },
     {
       "title": "NASA commissions SpaceX to launch asteroid-tracking telescope - Earth.com",
       "pubDate": "Fri, 06 Mar 2026 00:45:00 GMT"
@@ -1149,13 +1095,13 @@
     {
       "title": "NASA Teams Readying Artemis II Moon Rocket for Launch - NASA (.gov)",
       "pubDate": "Tue, 31 Mar 2026 18:49:15 GMT"
+    },
+    {
+      "title": "Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission - NASA (.gov)",
+      "pubDate": "Thu, 02 Apr 2026 07:39:12 GMT"
     }
   ],
   "Financial Markets": [
-    {
-      "title": "Global Markets Whipsaw After U.S.-Israel Attack on Iran - The New York Times",
-      "pubDate": "Mon, 02 Mar 2026 22:09:00 GMT"
-    },
     {
       "title": "Stocks and Bonds Sink as Oil Surge Rattles Traders: Markets Wrap - Bloomberg.com",
       "pubDate": "Tue, 03 Mar 2026 21:59:15 GMT"
@@ -1184,10 +1130,6 @@
     }
   ],
   "NASA": [
-    {
-      "title": "NASA Announces Major Change to Plans For Putting Humans on The Moon - ScienceAlert",
-      "pubDate": "Tue, 03 Mar 2026 00:42:19 GMT"
-    },
     {
       "title": "NASA's first crewed mission to the moon since Apollo targeted for April launch - Scripps News",
       "pubDate": "Sat, 14 Mar 2026 14:08:28 GMT"
@@ -1317,10 +1259,6 @@
   ],
   "Middle East": [
     {
-      "title": "Middle East crisis live: Israel launches fresh attacks on Tehran and Beirut - The Guardian",
-      "pubDate": "Tue, 03 Mar 2026 16:42:00 GMT"
-    },
-    {
       "title": "Middle East crisis live: US military says it has hit more than 1,700 targets since it began war on Iran - The Guardian",
       "pubDate": "Tue, 03 Mar 2026 22:44:00 GMT"
     },
@@ -1441,10 +1379,6 @@
   ],
   "Technology": [
     {
-      "title": "U.S. Mulls Per-Customer Cap on Nvidia Chip Sale to China - The Information",
-      "pubDate": "Tue, 03 Mar 2026 05:31:00 GMT"
-    },
-    {
       "title": "Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I. - The New York Times",
       "pubDate": "Thu, 19 Mar 2026 22:24:10 GMT"
     },
@@ -1545,10 +1479,6 @@
   ],
   "Cancer": [
     {
-      "title": "Half of Colorectal Cancer Cases Now Occur in Those Under 65, Study Shows - The New York Times",
-      "pubDate": "Mon, 02 Mar 2026 12:00:02 GMT"
-    },
-    {
       "title": "The US slashed research for cancer, Alzheimer\u2019s, mental health \u2014 and nearly everything else - Vox",
       "pubDate": "Fri, 13 Mar 2026 10:30:00 GMT"
     }
@@ -1621,18 +1551,6 @@
   ],
   "War and Unrest": [
     {
-      "title": "Live updates: Trump warns Iran about larger strikes as war spirals in Middle East - CNN",
-      "pubDate": "Mon, 02 Mar 2026 17:47:00 GMT"
-    },
-    {
-      "title": "Amazon says drone strikes damaged 3 facilities in UAE and Bahrain - CNBC",
-      "pubDate": "Tue, 03 Mar 2026 01:44:00 GMT"
-    },
-    {
-      "title": "Exclusive: U.S. Marines fired on protesters storming consulate in Karachi, officials say - Reuters",
-      "pubDate": "Tue, 03 Mar 2026 02:15:00 GMT"
-    },
-    {
       "title": "US banks on high alert for cyberattacks as Iran war escalates - Reuters",
       "pubDate": "Tue, 03 Mar 2026 19:55:27 GMT"
     },
@@ -1646,14 +1564,6 @@
     }
   ],
   "US Supreme Court": [
-    {
-      "title": "Supreme Court blocks California restrictions on schools notifying parents about students' transgender status - NBC News",
-      "pubDate": "Mon, 02 Mar 2026 23:31:00 GMT"
-    },
-    {
-      "title": "Supreme Court could loosen law barring marijuana users from owning guns - WDIV",
-      "pubDate": "Mon, 02 Mar 2026 19:54:58 GMT"
-    },
     {
       "title": "Two Supreme Court Justices Debate Handling of Trump Emergency Cases - The New York Times",
       "pubDate": "Tue, 10 Mar 2026 01:22:13 GMT"
@@ -1675,17 +1585,7 @@
       "pubDate": "Mon, 30 Mar 2026 18:08:45 GMT"
     }
   ],
-  "Abiogenesis": [
-    {
-      "title": "Did life arise from chemical chaos or was it \"seeded\" from space? New research published in 2025 re-evaluates the origin of life on Earth, applies mathematical calculations to abiogenesis, and reignites the debate about extraterrestrial civilizations. - CPG Click Petr\u00f3leo e G\u00e1s",
-      "pubDate": "Mon, 02 Mar 2026 13:35:00 GMT"
-    }
-  ],
   "Health": [
-    {
-      "title": "AI Tools for Cancer Pathology May Rely on Hidden Shortcuts That Impact on Predictive Power - GEN - Genetic Engineering and Biotechnology News",
-      "pubDate": "Mon, 02 Mar 2026 19:30:27 GMT"
-    },
     {
       "title": "A New, Highly Mutated COVID Variant Called 'Cicada' Is Spreading in the US. Know These Symptoms - TODAY.com",
       "pubDate": "Thu, 26 Mar 2026 19:52:19 GMT"
@@ -1693,28 +1593,14 @@
   ],
   "US Treasury": [
     {
-      "title": "US Treasury Releases New AI Risk Management Resources for Financial Institutions - Lexology",
-      "pubDate": "Tue, 03 Mar 2026 08:07:45 GMT"
-    },
-    {
       "title": "US debt suddenly draws weaker demand as $10 trillion must be rolled over this year amid Iran war - Fortune",
       "pubDate": "Sat, 28 Mar 2026 17:57:00 GMT"
     }
   ],
   "Cryptography": [
     {
-      "title": "Google Chrome Introduces Merkle Tree Certificates to Strengthen HTTPS Against Quantum Attacks - cyberpress.org",
-      "pubDate": "Tue, 03 Mar 2026 10:48:02 GMT"
-    },
-    {
       "title": "Google urges swift transition to post-quantum cryptography - TechCentral.ie",
       "pubDate": "Mon, 30 Mar 2026 10:40:11 GMT"
-    }
-  ],
-  "Mass Surveillance": [
-    {
-      "title": "From Anthropic to Iran: Who sets the limits on AI\u2019s use in war and surveillance? - The Conversation",
-      "pubDate": "Tue, 03 Mar 2026 16:39:08 GMT"
     }
   ],
   "Sustainable Energy": [
@@ -2059,6 +1945,10 @@
     {
       "title": "Bitcoin Got Its Biggest Regulatory Win In A Decade\u2014And Dropped To $70,000 Anyway - Yahoo Finance",
       "pubDate": "Sun, 22 Mar 2026 00:31:00 GMT"
+    },
+    {
+      "title": "Bitcoin treasury sell-off accelerates as Riot, Bhutan, and public companies exit positions - CoinDesk",
+      "pubDate": "Thu, 02 Apr 2026 09:51:09 GMT"
     }
   ],
   "US Senate": [
@@ -2089,6 +1979,10 @@
     {
       "title": "Elon Musk Predicts AI Surpasses Human Intelligence - Let's Data Science",
       "pubDate": "Tue, 31 Mar 2026 07:46:25 GMT"
+    },
+    {
+      "title": "GPT reasoning models have \"line of sight\" to AGI, says OpenAI's Greg Brockman - the-decoder.com",
+      "pubDate": "Thu, 02 Apr 2026 11:10:05 GMT"
     }
   ],
   "European Union": [
@@ -2185,6 +2079,10 @@
     {
       "title": "Trump slams allies as Europeans show reluctance to aid U.S. in Iran war - The Washington Post",
       "pubDate": "Tue, 31 Mar 2026 22:42:22 GMT"
+    },
+    {
+      "title": "Iran war live: US, Israel step up strikes; Tehran vows retaliation - aljazeera.com",
+      "pubDate": "Thu, 02 Apr 2026 08:10:12 GMT"
     }
   ],
   "Blockchain": [
