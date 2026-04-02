@@ -123,14 +123,6 @@
   ],
   "Israel": [
     {
-      "title": "Live Updates: U.S.-Israeli war with Iran spreads, as Iran's neighbors warn strikes won't \"go unanswered\" - CBS News",
-      "pubDate": "Tue, 03 Mar 2026 17:31:00 GMT"
-    },
-    {
-      "title": "Drone Strikes U.S. Consulate in Dubai as Iran Escalates Attacks \u2014 Live Updates - WSJ",
-      "pubDate": "Tue, 03 Mar 2026 22:43:00 GMT"
-    },
-    {
       "title": "US submarine sank Iranian warship, Hegseth says \u2013 as it happened - The Guardian",
       "pubDate": "Thu, 05 Mar 2026 04:09:00 GMT"
     },
@@ -209,14 +201,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Live updates: Israel hits Beirut and Tehran as Trump warns Iran of escalated strikes - CNN",
-      "pubDate": "Tue, 03 Mar 2026 17:21:00 GMT"
-    },
-    {
-      "title": "Trump threatens to cut off trade with Spain over Iran, defense spending - Fox Business",
-      "pubDate": "Tue, 03 Mar 2026 19:35:00 GMT"
-    },
-    {
       "title": "Iran launches new missile barrage at Israel as US Senate backs Trump's war powers - BBC",
       "pubDate": "Thu, 05 Mar 2026 05:49:46 GMT"
     },
@@ -275,13 +259,13 @@
     {
       "title": "Trump says war on Iran to end in 2-3 weeks; \u2018large fire\u2019 at Kuwait airport - Al Jazeera",
       "pubDate": "Wed, 01 Apr 2026 04:33:26 GMT"
+    },
+    {
+      "title": "Trump fires Pam Bondi as attorney general - CNN",
+      "pubDate": "Thu, 02 Apr 2026 20:51:03 GMT"
     }
   ],
   "China": [
-    {
-      "title": "U.S. considers caps on Nvidia chips for China - Los Angeles Times",
-      "pubDate": "Tue, 03 Mar 2026 17:28:34 GMT"
-    },
     {
       "title": "Russia, China raise diplomatic voices against US-Israeli attacks on Iran - Al Jazeera",
       "pubDate": "Wed, 04 Mar 2026 03:05:33 GMT"
@@ -391,13 +375,13 @@
     {
       "title": "Anthropic to sign deal with Australia on AI safety and economic data tracking - Reuters",
       "pubDate": "Tue, 31 Mar 2026 23:15:26 GMT"
+    },
+    {
+      "title": "Why ISO/PAS 8800 is the new blueprint for AI safety in all critical industries - EDN - Voice of the Engineer",
+      "pubDate": "Thu, 02 Apr 2026 12:46:04 GMT"
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "A Possible US Government iPhone-Hacking Toolkit Is Now in the Hands of Foreign Spies and Criminals - WIRED",
-      "pubDate": "Tue, 03 Mar 2026 19:01:00 GMT"
-    },
     {
       "title": "Ukraine Is Teaching Cybersecurity to the World - Kyiv Post",
       "pubDate": "Sun, 08 Mar 2026 06:56:24 GMT"
@@ -605,6 +589,10 @@
     {
       "title": "Climate change is making homes shrink and crack - Down to Earth - France 24",
       "pubDate": "Tue, 31 Mar 2026 11:52:35 GMT"
+    },
+    {
+      "title": "Climate change will push venomous snakes towards highly populated coastlines, study finds - The Independent",
+      "pubDate": "Thu, 02 Apr 2026 18:00:00 GMT"
     }
   ],
   "Iran": [
@@ -931,10 +919,6 @@
   ],
   "The Pentagon": [
     {
-      "title": "Pentagon releases names of first U.S. service members killed in Iran war - CBS News",
-      "pubDate": "Tue, 03 Mar 2026 23:04:53 GMT"
-    },
-    {
       "title": "Pentagon says about 140 troops wounded, 8 severely, in war with Iran - The Washington Post",
       "pubDate": "Wed, 11 Mar 2026 05:50:11 GMT"
     },
@@ -960,10 +944,6 @@
     }
   ],
   "US Politics": [
-    {
-      "title": "Cory Booker Catches Kristi Noem Lying Under Oath Multiple Times - The New Republic",
-      "pubDate": "Tue, 03 Mar 2026 20:15:50 GMT"
-    },
     {
       "title": "Trump fires Kristi Noem as homeland security secretary - NBC News",
       "pubDate": "Thu, 05 Mar 2026 22:21:19 GMT"
@@ -1103,10 +1083,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "Stocks and Bonds Sink as Oil Surge Rattles Traders: Markets Wrap - Bloomberg.com",
-      "pubDate": "Tue, 03 Mar 2026 21:59:15 GMT"
-    },
-    {
       "title": "South Korea\u2019s stock market suffers biggest drop in history amid US-Iran war - Al Jazeera",
       "pubDate": "Wed, 04 Mar 2026 09:57:56 GMT"
     },
@@ -1199,10 +1175,6 @@
   ],
   "Department of Justice": [
     {
-      "title": "There Are 47,635 Epstein Files Offline for Review, DOJ Says - WSJ",
-      "pubDate": "Tue, 03 Mar 2026 23:05:00 GMT"
-    },
-    {
       "title": "A Federal Judge Just Called Out the DOJ for Politically Motivated Prosecutions - Mother Jones",
       "pubDate": "Sat, 14 Mar 2026 13:34:03 GMT"
     }
@@ -1258,10 +1230,6 @@
     }
   ],
   "Middle East": [
-    {
-      "title": "Middle East crisis live: US military says it has hit more than 1,700 targets since it began war on Iran - The Guardian",
-      "pubDate": "Tue, 03 Mar 2026 22:44:00 GMT"
-    },
     {
       "title": "Middle East crisis live: Israel launches \u2018wave of strikes\u2019 on Tehran and threatens to assassinate new leader - The Guardian",
       "pubDate": "Wed, 04 Mar 2026 11:26:00 GMT"
@@ -1475,6 +1443,10 @@
     {
       "title": "Pentagon considers diverting Ukraine military aid to the Middle East - The Washington Post",
       "pubDate": "Thu, 26 Mar 2026 16:55:14 GMT"
+    },
+    {
+      "title": "Hegseth ousts Army Chief of Staff Gen. Randy George - CBS News",
+      "pubDate": "Thu, 02 Apr 2026 20:04:00 GMT"
     }
   ],
   "Cancer": [
@@ -1551,10 +1523,6 @@
   ],
   "War and Unrest": [
     {
-      "title": "US banks on high alert for cyberattacks as Iran war escalates - Reuters",
-      "pubDate": "Tue, 03 Mar 2026 19:55:27 GMT"
-    },
-    {
       "title": "Middle East crisis live: Israel strikes central Beirut as Iran vows revenge for killing of security chief - The Guardian",
       "pubDate": "Wed, 18 Mar 2026 10:22:00 GMT"
     },
@@ -1601,12 +1569,6 @@
     {
       "title": "Google urges swift transition to post-quantum cryptography - TechCentral.ie",
       "pubDate": "Mon, 30 Mar 2026 10:40:11 GMT"
-    }
-  ],
-  "Sustainable Energy": [
-    {
-      "title": "How green hydrogen can help counter climate change - University of Nevada, Reno",
-      "pubDate": "Tue, 03 Mar 2026 20:09:41 GMT"
     }
   ],
   "Trade War": [
@@ -2083,6 +2045,10 @@
     {
       "title": "Iran war live: US, Israel step up strikes; Tehran vows retaliation - aljazeera.com",
       "pubDate": "Thu, 02 Apr 2026 08:10:12 GMT"
+    },
+    {
+      "title": "U.S. bombs Iran's civilian infrastructure for first time after \"Stone Ages\" threat - Axios",
+      "pubDate": "Thu, 02 Apr 2026 19:02:32 GMT"
     }
   ],
   "Blockchain": [
@@ -2107,6 +2073,12 @@
     {
       "title": "Trump signs an executive order to create federal voter lists - NBC News",
       "pubDate": "Tue, 31 Mar 2026 22:37:28 GMT"
+    }
+  ],
+  "DeepMind": [
+    {
+      "title": "Google DeepMind launches Gemma 4: AI models for advanced reasoning and AI agents - WION",
+      "pubDate": "Thu, 02 Apr 2026 20:38:00 GMT"
     }
   ]
 }
