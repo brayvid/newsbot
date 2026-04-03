@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "From algorithms to atoms: How artificial intelligence is accelerating the discovery of next-generation energy materials - EurekAlert!",
-      "pubDate": "Wed, 04 Mar 2026 03:15:36 GMT"
-    },
-    {
       "title": "Anthropic, The Pentagon And The New Battle Over Artificial Intelligence - Forbes",
       "pubDate": "Wed, 04 Mar 2026 11:00:00 GMT"
     },
@@ -137,6 +133,10 @@
     {
       "title": "Iran War Live Updates: 12 U.S. Troops Injured in Attack on Saudi Base, Officials Say - The New York Times",
       "pubDate": "Fri, 27 Mar 2026 19:12:23 GMT"
+    },
+    {
+      "title": "The Latest: Iran launches missiles at Israel and Gulf states as explosions heard around Tehran - WRAL",
+      "pubDate": "Fri, 03 Apr 2026 04:44:37 GMT"
     }
   ],
   "Ukraine": [
@@ -266,10 +266,6 @@
     }
   ],
   "China": [
-    {
-      "title": "Russia, China raise diplomatic voices against US-Israeli attacks on Iran - Al Jazeera",
-      "pubDate": "Wed, 04 Mar 2026 03:05:33 GMT"
-    },
     {
       "title": "China sets lowest economic growth target since 1991 - BBC",
       "pubDate": "Thu, 05 Mar 2026 03:10:52 GMT"
@@ -449,6 +445,10 @@
     {
       "title": "Twin cybersecurity incidents leave AI industry shaken - Yahoo Finance",
       "pubDate": "Thu, 02 Apr 2026 14:18:50 GMT"
+    },
+    {
+      "title": "FBI labels suspected China hack of law enforcement data 'a major cyber incident' - NBC News",
+      "pubDate": "Fri, 03 Apr 2026 00:39:00 GMT"
     }
   ],
   "US Economy": [
@@ -495,6 +495,10 @@
     {
       "title": "America's less energy-intensive economy braces against Iran war shock - axios.com",
       "pubDate": "Tue, 31 Mar 2026 08:04:48 GMT"
+    },
+    {
+      "title": "Iran war exposes frailties of 'no-hire' US economy - reuters.com",
+      "pubDate": "Thu, 02 Apr 2026 23:30:27 GMT"
     }
   ],
   "OpenAI": [
@@ -781,6 +785,10 @@
     {
       "title": "Vermont\u2019s first-in-nation climate law faces legal challenge - eenews.net",
       "pubDate": "Tue, 31 Mar 2026 10:21:00 GMT"
+    },
+    {
+      "title": "Republicans Seek Protections for Oil Giants Against Climate Lawsuits - The New York Times",
+      "pubDate": "Thu, 02 Apr 2026 18:56:25 GMT"
     }
   ],
   "Drones": [
@@ -1181,10 +1189,6 @@
   ],
   "Epstein Files": [
     {
-      "title": "Bill Gates, Kathryn Ruemmler among new targets in House Oversight\u2019s Epstein investigation investigation - Politico",
-      "pubDate": "Wed, 04 Mar 2026 04:05:11 GMT"
-    },
-    {
       "title": "Epstein files: House committee subpoenas Attorney General Pam Bondi - CNBC",
       "pubDate": "Wed, 04 Mar 2026 20:46:54 GMT"
     },
@@ -1447,6 +1451,10 @@
     {
       "title": "Hegseth ousts Army Chief of Staff Gen. Randy George - CBS News",
       "pubDate": "Thu, 02 Apr 2026 20:04:00 GMT"
+    },
+    {
+      "title": "Hegseth Authorizes Off-Duty Service Members to Carry Private Firearms on Installations - U.S. Department of War (.gov)",
+      "pubDate": "Thu, 02 Apr 2026 21:04:22 GMT"
     }
   ],
   "Cancer": [
@@ -1945,6 +1953,10 @@
     {
       "title": "GPT reasoning models have \"line of sight\" to AGI, says OpenAI's Greg Brockman - the-decoder.com",
       "pubDate": "Thu, 02 Apr 2026 11:10:05 GMT"
+    },
+    {
+      "title": "OpenAI says 70% to 80% we\u2019re to AGI. A prominent cognitive scientist says we\u2019re nowhere close - R&D World",
+      "pubDate": "Thu, 02 Apr 2026 18:37:39 GMT"
     }
   ],
   "European Union": [
@@ -2049,6 +2061,10 @@
     {
       "title": "U.S. bombs Iran's civilian infrastructure for first time after \"Stone Ages\" threat - Axios",
       "pubDate": "Thu, 02 Apr 2026 19:02:32 GMT"
+    },
+    {
+      "title": "Iran War Live Updates: Trump Speech Rattles Markets; Macron Criticizes Shifting U.S. Goals - The New York Times",
+      "pubDate": "Thu, 02 Apr 2026 18:19:17 GMT"
     }
   ],
   "Blockchain": [
