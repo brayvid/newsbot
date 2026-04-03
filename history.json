@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Google faces lawsuit after Gemini chatbot allegedly instructed man to kill himself - The Guardian",
-      "pubDate": "Wed, 04 Mar 2026 19:06:00 GMT"
-    },
-    {
       "title": "US Considers Requiring Permits for Nvidia, AMD Global AI Chip Sales - Yahoo Finance",
       "pubDate": "Fri, 06 Mar 2026 03:50:00 GMT"
     },
@@ -449,6 +445,10 @@
     {
       "title": "Microsoft to Invest $10 Billion in Japan on AI Infrastructure, Cybersecurity - WSJ",
       "pubDate": "Fri, 03 Apr 2026 05:39:00 GMT"
+    },
+    {
+      "title": "The White House App Is Riddled With Cybersecurity Vulnerabilities - NOTUS \u2014 News of the United States",
+      "pubDate": "Fri, 03 Apr 2026 18:16:23 GMT"
     }
   ],
   "US Economy": [
@@ -999,6 +999,10 @@
     {
       "title": "Trump Administration Live Updates: House Punts on D.H.S. Spending, Extending Shutdown - The New York Times",
       "pubDate": "Thu, 02 Apr 2026 16:45:44 GMT"
+    },
+    {
+      "title": "Trump budget seeks $1.5 trillion in defense spending alongside domestic program cuts - NPR",
+      "pubDate": "Fri, 03 Apr 2026 21:51:00 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1021,6 +1025,10 @@
     {
       "title": "Quantum computers need vastly fewer resources than thought to break vital encryption - Ars Technica",
       "pubDate": "Tue, 31 Mar 2026 18:25:33 GMT"
+    },
+    {
+      "title": "New Advances Bring the Era of Quantum Computers Closer Than Ever - Quanta Magazine",
+      "pubDate": "Fri, 03 Apr 2026 15:24:17 GMT"
     }
   ],
   "Geopolitics": [
@@ -1045,6 +1053,10 @@
     {
       "title": "House Democrat pushes Anthropic on safety protocols, source code leak - The Hill",
       "pubDate": "Thu, 02 Apr 2026 16:04:00 GMT"
+    },
+    {
+      "title": "Beijing mandates internal ethics committees for all Chinese AI companies - South China Morning Post",
+      "pubDate": "Fri, 03 Apr 2026 13:54:53 GMT"
     }
   ],
   "Space Exploration": [
@@ -1091,6 +1103,10 @@
     {
       "title": "Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission - NASA (.gov)",
       "pubDate": "Thu, 02 Apr 2026 07:39:12 GMT"
+    },
+    {
+      "title": "Artemis II Flight Day 3: Outbound Trajectory Correction Burn Update - NASA (.gov)",
+      "pubDate": "Fri, 03 Apr 2026 21:04:28 GMT"
     }
   ],
   "Financial Markets": [
@@ -1188,10 +1204,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Epstein files: House committee subpoenas Attorney General Pam Bondi - CNBC",
-      "pubDate": "Wed, 04 Mar 2026 20:46:54 GMT"
-    },
     {
       "title": "DOJ Releases Missing Interviews With Woman Who Made Claims Against Trump in Epstein Files - The New York Times",
       "pubDate": "Fri, 06 Mar 2026 01:57:07 GMT"
@@ -1357,6 +1369,10 @@
     {
       "title": "Google's new tech promises to reduce memory demand by 6x - PC Gamer",
       "pubDate": "Fri, 27 Mar 2026 14:57:52 GMT"
+    },
+    {
+      "title": "Economists Are Drawing Stronger Connections Between A.I. and Jobs - The New York Times",
+      "pubDate": "Fri, 03 Apr 2026 14:58:55 GMT"
     }
   ],
   "Civil Rights": [
@@ -2065,6 +2081,10 @@
     {
       "title": "Reeling from war in the Middle East, Trump reaches for a reset - The Washington Post",
       "pubDate": "Fri, 03 Apr 2026 16:31:30 GMT"
+    },
+    {
+      "title": "Iran War Live Updates: Downed U.S. Jet and Missing Crew Member Raise Stakes in War - The New York Times",
+      "pubDate": "Fri, 03 Apr 2026 22:51:21 GMT"
     }
   ],
   "Blockchain": [
