@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Anthropic, The Pentagon And The New Battle Over Artificial Intelligence - Forbes",
-      "pubDate": "Wed, 04 Mar 2026 11:00:00 GMT"
-    },
-    {
       "title": "Google faces lawsuit after Gemini chatbot allegedly instructed man to kill himself - The Guardian",
       "pubDate": "Wed, 04 Mar 2026 19:06:00 GMT"
     },
@@ -293,13 +289,13 @@
     {
       "title": "Xi Invites Taiwan\u2019s Opposition Leader to Talk \u2018Peace\u2019 Ahead of Trump Summit - The New York Times",
       "pubDate": "Mon, 30 Mar 2026 10:32:29 GMT"
+    },
+    {
+      "title": "China Edges Past U.S. in Global Approval Ratings - Gallup News",
+      "pubDate": "Fri, 03 Apr 2026 12:55:13 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "OpenAI Secures Pentagon Deal as Anthropic Sidelined Over AI Safety Concerns - National Today",
-      "pubDate": "Wed, 04 Mar 2026 06:06:21 GMT"
-    },
     {
       "title": "Anthropic Reopens Talks with Pentagon After Feud Over AI Safety - Bloomberg",
       "pubDate": "Thu, 05 Mar 2026 15:59:36 GMT"
@@ -449,6 +445,10 @@
     {
       "title": "FBI labels suspected China hack of law enforcement data 'a major cyber incident' - NBC News",
       "pubDate": "Fri, 03 Apr 2026 00:39:00 GMT"
+    },
+    {
+      "title": "Microsoft to Invest $10 Billion in Japan on AI Infrastructure, Cybersecurity - WSJ",
+      "pubDate": "Fri, 03 Apr 2026 05:39:00 GMT"
     }
   ],
   "US Economy": [
@@ -499,6 +499,10 @@
     {
       "title": "Iran war exposes frailties of 'no-hire' US economy - reuters.com",
       "pubDate": "Thu, 02 Apr 2026 23:30:27 GMT"
+    },
+    {
+      "title": "U.S. economy added 178,000 jobs in March - NBC News",
+      "pubDate": "Fri, 03 Apr 2026 13:06:16 GMT"
     }
   ],
   "OpenAI": [
@@ -1091,10 +1095,6 @@
   ],
   "Financial Markets": [
     {
-      "title": "South Korea\u2019s stock market suffers biggest drop in history amid US-Iran war - Al Jazeera",
-      "pubDate": "Wed, 04 Mar 2026 09:57:56 GMT"
-    },
-    {
       "title": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week - BBC",
       "pubDate": "Mon, 30 Mar 2026 03:34:37 GMT"
     }
@@ -1234,10 +1234,6 @@
     }
   ],
   "Middle East": [
-    {
-      "title": "Middle East crisis live: Israel launches \u2018wave of strikes\u2019 on Tehran and threatens to assassinate new leader - The Guardian",
-      "pubDate": "Wed, 04 Mar 2026 11:26:00 GMT"
-    },
     {
       "title": "No immediate threat to UK gas supplies, says minister after \u2018two days left\u2019 reports - The Guardian",
       "pubDate": "Mon, 09 Mar 2026 10:21:00 GMT"
@@ -1455,6 +1451,10 @@
     {
       "title": "Hegseth Authorizes Off-Duty Service Members to Carry Private Firearms on Installations - U.S. Department of War (.gov)",
       "pubDate": "Thu, 02 Apr 2026 21:04:22 GMT"
+    },
+    {
+      "title": "Trump Requests $1.5 Trillion for Military Spending - The New York Times",
+      "pubDate": "Fri, 03 Apr 2026 14:01:41 GMT"
     }
   ],
   "Cancer": [
@@ -1580,10 +1580,6 @@
     }
   ],
   "Trade War": [
-    {
-      "title": "Spain's Pedro S\u00e1nchez hits back at Trump threat to sever trade saying 'no to war' - BBC",
-      "pubDate": "Wed, 04 Mar 2026 08:52:28 GMT"
-    },
     {
       "title": "Iran War Shockwaves Threaten More Damage to US Allies - Bloomberg.com",
       "pubDate": "Sat, 28 Mar 2026 10:45:01 GMT"
@@ -2065,6 +2061,10 @@
     {
       "title": "Iran War Live Updates: Trump Speech Rattles Markets; Macron Criticizes Shifting U.S. Goals - The New York Times",
       "pubDate": "Thu, 02 Apr 2026 18:19:17 GMT"
+    },
+    {
+      "title": "Reeling from war in the Middle East, Trump reaches for a reset - The Washington Post",
+      "pubDate": "Fri, 03 Apr 2026 16:31:30 GMT"
     }
   ],
   "Blockchain": [
