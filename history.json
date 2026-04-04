@@ -125,6 +125,10 @@
     {
       "title": "The Latest: Iran launches missiles at Israel and Gulf states as explosions heard around Tehran - WRAL",
       "pubDate": "Fri, 03 Apr 2026 04:44:37 GMT"
+    },
+    {
+      "title": "Israel Waiting for U.S. Greenlight to Attack Iranian Energy Sites - WSJ",
+      "pubDate": "Sat, 04 Apr 2026 20:10:37 GMT"
     }
   ],
   "Ukraine": [
@@ -285,6 +289,10 @@
     {
       "title": "China Edges Past U.S. in Global Approval Ratings - Gallup News",
       "pubDate": "Fri, 03 Apr 2026 12:55:13 GMT"
+    },
+    {
+      "title": "Chinese firms market Iran war intelligence \u2018exposing\u2019 U.S. forces - The Washington Post",
+      "pubDate": "Sat, 04 Apr 2026 16:00:55 GMT"
     }
   ],
   "AI Safety": [
@@ -359,6 +367,10 @@
     {
       "title": "Why ISO/PAS 8800 is the new blueprint for AI safety in all critical industries - EDN - Voice of the Engineer",
       "pubDate": "Thu, 02 Apr 2026 12:46:04 GMT"
+    },
+    {
+      "title": "AI Body Gap: Why Robots Need \"Internal Feelings\" to be Safe - Neuroscience News",
+      "pubDate": "Sat, 04 Apr 2026 16:15:22 GMT"
     }
   ],
   "Cybersecurity": [
@@ -589,6 +601,10 @@
     {
       "title": "Climate change will push venomous snakes towards highly populated coastlines, study finds - The Independent",
       "pubDate": "Thu, 02 Apr 2026 18:00:00 GMT"
+    },
+    {
+      "title": "Impact of federal funding cuts on climate change initiatives - Spectrum News",
+      "pubDate": "Sat, 04 Apr 2026 21:07:39 GMT"
     }
   ],
   "Iran": [
@@ -945,10 +961,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump fires Kristi Noem as homeland security secretary - NBC News",
-      "pubDate": "Thu, 05 Mar 2026 22:21:19 GMT"
-    },
-    {
       "title": "Bulletproof Vests and Rolex Watches: The Rise and Fall of Kristi Noem - The New York Times",
       "pubDate": "Fri, 06 Mar 2026 03:56:06 GMT"
     },
@@ -994,10 +1006,6 @@
     }
   ],
   "Quantum Computing": [
-    {
-      "title": "IBM and University Researchers Create a Never-Before-Seen Molecule and Prove its Exotic Nature with Quantum Computing - IBM Newsroom",
-      "pubDate": "Thu, 05 Mar 2026 19:00:57 GMT"
-    },
     {
       "title": "US\u2013China rivalry intensifies as quantum computing emerges as next battleground - Latest news from Azerbaijan",
       "pubDate": "Sat, 28 Mar 2026 18:00:01 GMT"
@@ -1411,17 +1419,7 @@
       "pubDate": "Tue, 17 Mar 2026 18:00:00 GMT"
     }
   ],
-  "Tariffs": [
-    {
-      "title": "States Sue to Stop Trump From Reviving Steep Tariffs - The New York Times",
-      "pubDate": "Thu, 05 Mar 2026 18:18:05 GMT"
-    }
-  ],
   "FBI": [
-    {
-      "title": "FBI investigating \u2018suspicious\u2019 cyber activities on critical surveillance network - CNN",
-      "pubDate": "Thu, 05 Mar 2026 18:17:56 GMT"
-    },
     {
       "title": "FBI obtains voting data from Arizona GOP\u2019s 2020 review that confirmed Trump\u2019s loss - The Washington Post",
       "pubDate": "Tue, 10 Mar 2026 04:06:30 GMT"
@@ -1482,10 +1480,6 @@
     }
   ],
   "World Economy": [
-    {
-      "title": "Surging energy prices and threats to shipping. How the Middle East war could hurt the global economy - CNN",
-      "pubDate": "Thu, 05 Mar 2026 22:45:58 GMT"
-    },
     {
       "title": "Middle East war: Oil hits highest level since start of Iran crisis - Financial Times",
       "pubDate": "Fri, 06 Mar 2026 10:43:08 GMT"
@@ -1637,6 +1631,10 @@
     {
       "title": "Iran and proxy militias strike energy infrastructure, US bases, and Gulf capitals on March 6 - Long War Journal",
       "pubDate": "Fri, 06 Mar 2026 22:55:18 GMT"
+    },
+    {
+      "title": "Universities hit as US, Israel ramp up attacks on Iran\u2019s infrastructure - Al Jazeera",
+      "pubDate": "Sat, 04 Apr 2026 19:19:43 GMT"
     }
   ],
   "Layoffs": [
@@ -1889,6 +1887,10 @@
     {
       "title": "Sen. Adam Schiff Argues Trump\u2019s War With Iran Is \u2018Simply Unsustainable\u2019 - AOL.com",
       "pubDate": "Sat, 21 Mar 2026 23:23:26 GMT"
+    },
+    {
+      "title": "The U.S.-Europe Alliance Is Reaching a Breaking Point Over the Iran War - WSJ",
+      "pubDate": "Sat, 04 Apr 2026 21:54:00 GMT"
     }
   ],
   "AI Technology": [
@@ -2121,6 +2123,12 @@
     {
       "title": "Much of humanity may face hot-dry extremes five times more often by end-century - AGU Newsroom",
       "pubDate": "Sat, 04 Apr 2026 16:49:50 GMT"
+    }
+  ],
+  "Atlantic Ocean": [
+    {
+      "title": "Scientists warn the Gulf Stream is shifting north, which means an ocean current collapse is imminent - earth.com",
+      "pubDate": "Sat, 04 Apr 2026 16:02:12 GMT"
     }
   ]
 }
