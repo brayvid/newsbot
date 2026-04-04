@@ -111,10 +111,6 @@
   ],
   "Israel": [
     {
-      "title": "US submarine sank Iranian warship, Hegseth says \u2013 as it happened - The Guardian",
-      "pubDate": "Thu, 05 Mar 2026 04:09:00 GMT"
-    },
-    {
       "title": "Israel escalates attacks across Lebanon as two soldiers killed - Al Jazeera",
       "pubDate": "Sun, 08 Mar 2026 16:41:15 GMT"
     },
@@ -189,13 +185,13 @@
     {
       "title": "At least 29 dead after Russian military plane crashes in Crimea - The Guardian",
       "pubDate": "Wed, 01 Apr 2026 02:16:00 GMT"
+    },
+    {
+      "title": "Russian attack on Ukraine market kills five - BBC",
+      "pubDate": "Sat, 04 Apr 2026 14:00:31 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Iran launches new missile barrage at Israel as US Senate backs Trump's war powers - BBC",
-      "pubDate": "Thu, 05 Mar 2026 05:49:46 GMT"
-    },
     {
       "title": "U.S. and Israel vow more strikes as Trump attends dignified transfer of fallen troops - NBC News",
       "pubDate": "Sun, 08 Mar 2026 07:28:42 GMT"
@@ -255,13 +251,13 @@
     {
       "title": "Trump fires Pam Bondi as attorney general - CNN",
       "pubDate": "Thu, 02 Apr 2026 20:51:03 GMT"
+    },
+    {
+      "title": "Search for missing US airman continues as Trump threatens 'hell' if Iran does not reach deal - BBC",
+      "pubDate": "Sat, 04 Apr 2026 16:50:26 GMT"
     }
   ],
   "China": [
-    {
-      "title": "China sets lowest economic growth target since 1991 - BBC",
-      "pubDate": "Thu, 05 Mar 2026 03:10:52 GMT"
-    },
     {
       "title": "China warns of spread of \u2018flames of war\u2019 from Iran - CNN",
       "pubDate": "Sun, 08 Mar 2026 10:30:00 GMT"
@@ -292,10 +288,6 @@
     }
   ],
   "AI Safety": [
-    {
-      "title": "Anthropic Reopens Talks with Pentagon After Feud Over AI Safety - Bloomberg",
-      "pubDate": "Thu, 05 Mar 2026 15:59:36 GMT"
-    },
     {
       "title": "Amazon, Google, Microsoft urged by 700,000 US tech workers to reject Pentagon push to remove AI safety guardrails - Storyboard18",
       "pubDate": "Mon, 09 Mar 2026 04:31:56 GMT"
@@ -527,10 +519,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Global sea levels have been underestimated due to poor modelling, research suggests - The Guardian",
-      "pubDate": "Thu, 05 Mar 2026 02:30:00 GMT"
-    },
-    {
       "title": "As New York Energy Costs Surge, Attention Turns to Landmark Climate Law - The New York Times",
       "pubDate": "Fri, 06 Mar 2026 01:50:00 GMT"
     },
@@ -604,10 +592,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Live updates: U.S. has struck or sunk over 20 Iranian ships, CENTCOM says - NBC News",
-      "pubDate": "Thu, 05 Mar 2026 05:47:11 GMT"
-    },
     {
       "title": "Iran Live Updates: U.S. and Israeli Strikes, Beirut Evacuations and Trump War Powers Vote - The New York Times",
       "pubDate": "Thu, 05 Mar 2026 23:35:52 GMT"
@@ -921,6 +905,10 @@
     {
       "title": "As war rages, Iranian politicians push for exit from nuclear weapons treaty - Al Jazeera",
       "pubDate": "Sat, 28 Mar 2026 17:53:23 GMT"
+    },
+    {
+      "title": "Iran reports new attacks on Bushehr nuclear plant, sparking IAEA warning - BBC",
+      "pubDate": "Sat, 04 Apr 2026 16:19:25 GMT"
     }
   ],
   "Public Health": [
@@ -1243,6 +1231,10 @@
     {
       "title": "NASA is just days away from historic Artemis II moon launch - NPR",
       "pubDate": "Mon, 30 Mar 2026 15:30:27 GMT"
+    },
+    {
+      "title": "Artemis 2 LIVE: Artemis 2 astronauts halfway to moon, report 'burning smell' from toilet - Space",
+      "pubDate": "Sat, 04 Apr 2026 13:31:20 GMT"
     }
   ],
   "Middle East": [
@@ -1317,6 +1309,10 @@
     {
       "title": "Trump Administration Won\u2019t Rule Out Further Action Against Anthropic - WIRED",
       "pubDate": "Wed, 11 Mar 2026 01:41:00 GMT"
+    },
+    {
+      "title": "Claude Leak Shows That Anthropic Is Tracking Users' Vulgar Language and Deems Them \"Negative\" - Futurism",
+      "pubDate": "Sat, 04 Apr 2026 15:15:00 GMT"
     }
   ],
   "Drone Warfare": [
@@ -2027,6 +2023,10 @@
     {
       "title": "This scenario could tip the US into recession. Here's how to prepare. - USA Today",
       "pubDate": "Tue, 31 Mar 2026 20:44:00 GMT"
+    },
+    {
+      "title": "America is heading for a recession \u2014 and it may be the worst yet - The Hill",
+      "pubDate": "Sat, 04 Apr 2026 15:00:00 GMT"
     }
   ],
   "Hacking": [
@@ -2115,6 +2115,12 @@
     {
       "title": "Google DeepMind launches Gemma 4: AI models for advanced reasoning and AI agents - WION",
       "pubDate": "Thu, 02 Apr 2026 20:38:00 GMT"
+    }
+  ],
+  "Earth Science": [
+    {
+      "title": "Much of humanity may face hot-dry extremes five times more often by end-century - AGU Newsroom",
+      "pubDate": "Sat, 04 Apr 2026 16:49:50 GMT"
     }
   ]
 }
