@@ -281,6 +281,10 @@
     {
       "title": "Chinese firms market Iran war intelligence \u2018exposing\u2019 U.S. forces - The Washington Post",
       "pubDate": "Sat, 04 Apr 2026 16:00:55 GMT"
+    },
+    {
+      "title": "China Creates New Aviation Mystery With Offshore Warning Zones - WSJ",
+      "pubDate": "Sun, 05 Apr 2026 12:16:00 GMT"
     }
   ],
   "AI Safety": [
@@ -589,10 +593,6 @@
   ],
   "Iran": [
     {
-      "title": "Live Updates: Trump demands Iran's \"unconditional surrender\" as Russia gives Tehran intel on U.S. positions - CBS News",
-      "pubDate": "Fri, 06 Mar 2026 17:47:00 GMT"
-    },
-    {
       "title": "Iran Live Updates: Trump Demands Iran's 'Unconditional Surrender' as War's Economic Cost Climbs - The New York Times",
       "pubDate": "Fri, 06 Mar 2026 23:45:54 GMT"
     },
@@ -735,6 +735,10 @@
     {
       "title": "Middle East crisis live: Houthis carry out \u2018second military operation\u2019 against Israel and vow to continue in coming days - theguardian.com",
       "pubDate": "Sun, 29 Mar 2026 03:56:00 GMT"
+    },
+    {
+      "title": "Iran War Live News Updates: U.S. Resumes Airstrikes on Iran After Pilot Rescue - WSJ",
+      "pubDate": "Sun, 05 Apr 2026 22:31:00 GMT"
     }
   ],
   "Climate": [
@@ -813,13 +817,13 @@
     {
       "title": "Jerome Powell says the Fed doesn't have to hike interest rates because of the Iran war \u2014 yet - qz.com",
       "pubDate": "Tue, 31 Mar 2026 04:02:55 GMT"
+    },
+    {
+      "title": "Federal Reserve leaves interest rates unchanged - myarklamiss.com",
+      "pubDate": "Sun, 05 Apr 2026 19:16:07 GMT"
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "US senator seeks perjury investigation into Kristi Noem over DHS spending - The Guardian",
-      "pubDate": "Fri, 06 Mar 2026 17:17:00 GMT"
-    },
     {
       "title": "Trump Ousts Noem as Homeland Security Secretary - The New York Times",
       "pubDate": "Sun, 08 Mar 2026 05:52:36 GMT"
@@ -1283,6 +1287,10 @@
     {
       "title": "US-Israel-Iran War Live Updates: Multiple drone strikes hit Kuwait airport, damage radar - Firstpost",
       "pubDate": "Sat, 28 Mar 2026 10:20:44 GMT"
+    },
+    {
+      "title": "Iranian Army Launches Drone Strikes on Energy and Military Targets in Israel and Kuwait - WANA News Agency",
+      "pubDate": "Sun, 05 Apr 2026 15:05:33 GMT"
     }
   ],
   "Finance": [
@@ -1429,12 +1437,6 @@
       "pubDate": "Fri, 13 Mar 2026 10:30:00 GMT"
     }
   ],
-  "Astronomy": [
-    {
-      "title": "The universe is humming with ripples in spacetime: Scientists just doubled our catalog of black hole and neutron star collisions - Space",
-      "pubDate": "Fri, 06 Mar 2026 21:00:00 GMT"
-    }
-  ],
   "World Economy": [
     {
       "title": "Surging Oil Prices Threaten NVIDIA, Amazon, and Meta - 24/7 Wall St.",
@@ -1569,19 +1571,11 @@
   ],
   "Infrastructure": [
     {
-      "title": "Iran and proxy militias strike energy infrastructure, US bases, and Gulf capitals on March 6 - Long War Journal",
-      "pubDate": "Fri, 06 Mar 2026 22:55:18 GMT"
-    },
-    {
       "title": "Universities hit as US, Israel ramp up attacks on Iran\u2019s infrastructure - Al Jazeera",
       "pubDate": "Sat, 04 Apr 2026 19:19:43 GMT"
     }
   ],
   "Layoffs": [
-    {
-      "title": "Tech jobs are getting demolished in ways not seen since 2008 and the dot-com bust - Business Insider",
-      "pubDate": "Fri, 06 Mar 2026 18:16:00 GMT"
-    },
     {
       "title": "Judge Voids Mass Layoffs at Voice of America - The New York Times",
       "pubDate": "Sun, 08 Mar 2026 03:18:13 GMT"
@@ -2085,6 +2079,12 @@
     {
       "title": "Britain Urges G7 to Accelerate Clean Energy Push Amid Global Turmoil - OilPrice.com",
       "pubDate": "Sun, 05 Apr 2026 15:00:00 GMT"
+    }
+  ],
+  "Military Intelligence": [
+    {
+      "title": "Russia gave Iran intelligence on Israel's energy infrastructure, Zelensky says - The Kyiv Independent",
+      "pubDate": "Sun, 05 Apr 2026 10:57:24 GMT"
     }
   ]
 }
