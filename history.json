@@ -1,18 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "US Considers Requiring Permits for Nvidia, AMD Global AI Chip Sales - Yahoo Finance",
-      "pubDate": "Fri, 06 Mar 2026 03:50:00 GMT"
-    },
-    {
-      "title": "SoftBank Seeks Record Loan of Up to $40 Billion for OpenAI Stake - Bloomberg.com",
-      "pubDate": "Fri, 06 Mar 2026 04:06:00 GMT"
-    },
-    {
-      "title": "Anthropic just mapped out which jobs AI could potentially replace. A 'Great Recession for white-collar workers' is absolutely possible - Fortune",
-      "pubDate": "Fri, 06 Mar 2026 16:38:00 GMT"
-    },
-    {
       "title": "Oracle and OpenAI End Plans to Expand Flagship Data Center - Bloomberg.com",
       "pubDate": "Sat, 07 Mar 2026 00:11:00 GMT"
     },
@@ -371,6 +359,10 @@
     {
       "title": "AI Body Gap: Why Robots Need \"Internal Feelings\" to be Safe - Neuroscience News",
       "pubDate": "Sat, 04 Apr 2026 16:15:22 GMT"
+    },
+    {
+      "title": "Anthropic launches PAC amid tensions with Trump administration over AI policy - TradingView",
+      "pubDate": "Sun, 05 Apr 2026 08:10:28 GMT"
     }
   ],
   "Cybersecurity": [
@@ -457,14 +449,6 @@
   ],
   "US Economy": [
     {
-      "title": "Trump tariffs live updates: Judge says US must start issuing tariffs refunds, states challenge fresh tariffs - Yahoo Finance",
-      "pubDate": "Fri, 06 Mar 2026 11:49:30 GMT"
-    },
-    {
-      "title": "The US economy lost 92,000 jobs in February and the unemployment rate rose to 4.4% - CNN",
-      "pubDate": "Fri, 06 Mar 2026 10:00:34 GMT"
-    },
-    {
       "title": "Higher Oil Prices Could Put the Fed in a Bind as Labor Market Softens - The New York Times",
       "pubDate": "Tue, 10 Mar 2026 14:59:20 GMT"
     },
@@ -507,6 +491,10 @@
     {
       "title": "U.S. economy added 178,000 jobs in March - NBC News",
       "pubDate": "Fri, 03 Apr 2026 13:06:16 GMT"
+    },
+    {
+      "title": "U.S. gains economic edge as Iran war strains global energy markets (CO1:COM:Commodity) - Seeking Alpha",
+      "pubDate": "Sun, 05 Apr 2026 14:58:41 GMT"
     }
   ],
   "OpenAI": [
@@ -530,14 +518,6 @@
     }
   ],
   "Climate Change": [
-    {
-      "title": "As New York Energy Costs Surge, Attention Turns to Landmark Climate Law - The New York Times",
-      "pubDate": "Fri, 06 Mar 2026 01:50:00 GMT"
-    },
-    {
-      "title": "Scientists are trying to solve the mystery of whether global warming is speeding up. A new study says it has the answer - CNN",
-      "pubDate": "Fri, 06 Mar 2026 14:00:33 GMT"
-    },
     {
       "title": "Humanity heating planet faster than ever before, study finds | Climate crisis - The Guardian",
       "pubDate": "Fri, 06 Mar 2026 23:50:00 GMT"
@@ -608,14 +588,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran Live Updates: U.S. and Israeli Strikes, Beirut Evacuations and Trump War Powers Vote - The New York Times",
-      "pubDate": "Thu, 05 Mar 2026 23:35:52 GMT"
-    },
-    {
-      "title": "Iran war live: Military academy among locations hit by US, Israeli attacks - Al Jazeera",
-      "pubDate": "Fri, 06 Mar 2026 05:33:17 GMT"
-    },
     {
       "title": "Live Updates: Trump demands Iran's \"unconditional surrender\" as Russia gives Tehran intel on U.S. positions - CBS News",
       "pubDate": "Fri, 06 Mar 2026 17:47:00 GMT"
@@ -845,10 +817,6 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "Trump removes DHS Secretary Kristi Noem after controversial tenure - The Washington Post",
-      "pubDate": "Fri, 06 Mar 2026 05:31:48 GMT"
-    },
-    {
       "title": "US senator seeks perjury investigation into Kristi Noem over DHS spending - The Guardian",
       "pubDate": "Fri, 06 Mar 2026 17:17:00 GMT"
     },
@@ -961,10 +929,6 @@
   ],
   "US Politics": [
     {
-      "title": "Bulletproof Vests and Rolex Watches: The Rise and Fall of Kristi Noem - The New York Times",
-      "pubDate": "Fri, 06 Mar 2026 03:56:06 GMT"
-    },
-    {
       "title": "Trump says he won't sign bills until Congress overhauls voting - NPR",
       "pubDate": "Sun, 08 Mar 2026 19:48:23 GMT"
     },
@@ -1025,6 +989,10 @@
     {
       "title": "New Advances Bring the Era of Quantum Computers Closer Than Ever - Quanta Magazine",
       "pubDate": "Fri, 03 Apr 2026 15:24:17 GMT"
+    },
+    {
+      "title": "Google research flags looming quantum threat to cryptocurrencies, with Bitcoin vulnerable in minute - The Jerusalem Post",
+      "pubDate": "Sun, 05 Apr 2026 10:03:25 GMT"
     }
   ],
   "Geopolitics": [
@@ -1056,14 +1024,6 @@
     }
   ],
   "Space Exploration": [
-    {
-      "title": "NASA commissions SpaceX to launch asteroid-tracking telescope - Earth.com",
-      "pubDate": "Fri, 06 Mar 2026 00:45:00 GMT"
-    },
-    {
-      "title": "NASA confirms: Asteroid 2024 YR4 will NOT hit the Moon in 2032 after new orbit calculations - The Times of India",
-      "pubDate": "Fri, 06 Mar 2026 05:44:00 GMT"
-    },
     {
       "title": "Congress wants the International Space Station to keep flying until 2032. Here's why - Space",
       "pubDate": "Mon, 09 Mar 2026 10:00:00 GMT"
@@ -1171,10 +1131,6 @@
   ],
   "Social Media": [
     {
-      "title": "Indonesia to ban social media for children under 16 - The Guardian",
-      "pubDate": "Fri, 06 Mar 2026 16:25:00 GMT"
-    },
-    {
       "title": "Meta knowingly harmed children's mental health, US jury finds - Euronews.com",
       "pubDate": "Wed, 25 Mar 2026 09:16:48 GMT"
     }
@@ -1200,10 +1156,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "DOJ Releases Missing Interviews With Woman Who Made Claims Against Trump in Epstein Files - The New York Times",
-      "pubDate": "Fri, 06 Mar 2026 01:57:07 GMT"
-    },
     {
       "title": "Epstein files: DOJ releases previously withheld FBI reports about sex abuse allegation against Trump - ABC News",
       "pubDate": "Sat, 07 Mar 2026 04:44:59 GMT"
@@ -1465,6 +1417,10 @@
     {
       "title": "Trump Requests $1.5 Trillion for Military Spending - The New York Times",
       "pubDate": "Fri, 03 Apr 2026 14:01:41 GMT"
+    },
+    {
+      "title": "The US Navy Wants This Autonomous Sub For Deploying Heavy Payloads Under The Sea - SlashGear",
+      "pubDate": "Sun, 05 Apr 2026 14:15:00 GMT"
     }
   ],
   "Cancer": [
@@ -1480,10 +1436,6 @@
     }
   ],
   "World Economy": [
-    {
-      "title": "Middle East war: Oil hits highest level since start of Iran crisis - Financial Times",
-      "pubDate": "Fri, 06 Mar 2026 10:43:08 GMT"
-    },
     {
       "title": "Surging Oil Prices Threaten NVIDIA, Amazon, and Meta - 24/7 Wall St.",
       "pubDate": "Mon, 09 Mar 2026 00:15:56 GMT"
@@ -1593,23 +1545,11 @@
   ],
   "Battery Technology": [
     {
-      "title": "BYD Launches Ultra Fast Charging Blade Battery 2.0 and Flash Charging Station - Zecar",
-      "pubDate": "Fri, 06 Mar 2026 03:28:25 GMT"
-    },
-    {
-      "title": "China puts a sodium-ion battery into an EV for the first time \u2014 it can drive 248 miles on a single charge - Live Science",
-      "pubDate": "Fri, 06 Mar 2026 12:00:00 GMT"
-    },
-    {
       "title": "'A huge leap if true': Chinese researchers say this semi-solid-state EV battery delivers a 620-mile range \u2014 and could soon break the 1,000-mile barrier - TechRadar",
       "pubDate": "Sat, 07 Mar 2026 01:02:02 GMT"
     }
   ],
   "World News": [
-    {
-      "title": "Middle East crisis live: Israel bombards Tehran and Beirut as US says attacks to intensify - The Guardian",
-      "pubDate": "Fri, 06 Mar 2026 10:56:00 GMT"
-    },
     {
       "title": "US Iran war news LIVE updates: Indian among two dead in Saudi Arabia; Iraq's oil production falls by 70% | World News - Hindustan Times",
       "pubDate": "Sun, 08 Mar 2026 16:37:17 GMT"
@@ -1669,6 +1609,10 @@
     {
       "title": "Oil prices are soaring, but Trump is downplaying the need to tap the Strategic Petroleum Reserve - Times West Virginian",
       "pubDate": "Sun, 08 Mar 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Kuwait Petroleum Says Headquarters Set Ablaze by Drone Strike - Bloomberg.com",
+      "pubDate": "Sun, 05 Apr 2026 11:57:57 GMT"
     }
   ],
   "Domestic Terrorism": [
@@ -2129,6 +2073,18 @@
     {
       "title": "Scientists warn the Gulf Stream is shifting north, which means an ocean current collapse is imminent - earth.com",
       "pubDate": "Sat, 04 Apr 2026 16:02:12 GMT"
+    }
+  ],
+  "United States": [
+    {
+      "title": "U.S. Commandos Rescue Downed Air Force Officer Deep Inside Iran - The New York Times",
+      "pubDate": "Sun, 05 Apr 2026 06:41:39 GMT"
+    }
+  ],
+  "Renewable Energy": [
+    {
+      "title": "Britain Urges G7 to Accelerate Clean Energy Push Amid Global Turmoil - OilPrice.com",
+      "pubDate": "Sun, 05 Apr 2026 15:00:00 GMT"
     }
   ]
 }
