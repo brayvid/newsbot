@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Oracle and OpenAI End Plans to Expand Flagship Data Center - Bloomberg.com",
-      "pubDate": "Sat, 07 Mar 2026 00:11:00 GMT"
-    },
-    {
       "title": "AI chatbots point vulnerable social media users to illegal online casinos, analysis shows - The Guardian",
       "pubDate": "Sun, 08 Mar 2026 08:40:00 GMT"
     },
@@ -95,6 +91,10 @@
     {
       "title": "How Google DeepMind is winning the AI financing race - Axios",
       "pubDate": "Tue, 31 Mar 2026 13:25:02 GMT"
+    },
+    {
+      "title": "AI breakthrough cuts energy use by 100x while boosting accuracy - ScienceDaily",
+      "pubDate": "Mon, 06 Apr 2026 01:25:34 GMT"
     }
   ],
   "Israel": [
@@ -523,10 +523,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Humanity heating planet faster than ever before, study finds | Climate crisis - The Guardian",
-      "pubDate": "Fri, 06 Mar 2026 23:50:00 GMT"
-    },
-    {
       "title": "A deadly climate change effect is even worse than feared, study finds - USA Today",
       "pubDate": "Sun, 08 Mar 2026 11:02:00 GMT"
     },
@@ -592,10 +588,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran Live Updates: Trump Demands Iran's 'Unconditional Surrender' as War's Economic Cost Climbs - The New York Times",
-      "pubDate": "Fri, 06 Mar 2026 23:45:54 GMT"
-    },
     {
       "title": "Middle East crisis live: Israel warns it will pursue Iran\u2019s next supreme leader; fire engulfs Kuwait city tower as Iranian strikes hit the Gulf - The Guardian",
       "pubDate": "Sun, 08 Mar 2026 10:22:10 GMT"
@@ -1105,6 +1097,10 @@
     {
       "title": "He suddenly couldn't speak in space. NASA astronaut says his medical scare remains a mystery. - NBC News",
       "pubDate": "Fri, 27 Mar 2026 19:51:35 GMT"
+    },
+    {
+      "title": "On the brink of its greatest achievement in decades, NASA is facing science budget cuts - CNN",
+      "pubDate": "Sun, 05 Apr 2026 20:46:40 GMT"
     }
   ],
   "Cyberattack": [
@@ -1160,14 +1156,6 @@
     }
   ],
   "Epstein Files": [
-    {
-      "title": "Epstein files: DOJ releases previously withheld FBI reports about sex abuse allegation against Trump - ABC News",
-      "pubDate": "Sat, 07 Mar 2026 04:44:59 GMT"
-    },
-    {
-      "title": "Justice Dept. releases missing Epstein documents with Trump allegations - The Washington Post",
-      "pubDate": "Sat, 07 Mar 2026 03:47:24 GMT"
-    },
     {
       "title": "New Mexico Department of Justice begins search of Epstein's Zorro Ranch - Santa Fe New Mexican",
       "pubDate": "Tue, 10 Mar 2026 05:30:00 GMT"
@@ -1258,10 +1246,6 @@
     }
   ],
   "Anthropic": [
-    {
-      "title": "US draws up strict new AI guidelines amid Anthropic clash - Financial Times",
-      "pubDate": "Sat, 07 Mar 2026 00:02:22 GMT"
-    },
     {
       "title": "Congress must prevent AI surveillance. The Anthropic feud proves it | Ashley Gorski and Patrick Toomey - The Guardian",
       "pubDate": "Mon, 09 Mar 2026 10:00:00 GMT"
@@ -1435,6 +1419,10 @@
     {
       "title": "The US slashed research for cancer, Alzheimer\u2019s, mental health \u2014 and nearly everything else - Vox",
       "pubDate": "Fri, 13 Mar 2026 10:30:00 GMT"
+    },
+    {
+      "title": "Scientists find hidden brain cells helping deadly cancer grow - ScienceDaily",
+      "pubDate": "Sun, 05 Apr 2026 23:49:52 GMT"
     }
   ],
   "World Economy": [
@@ -1545,12 +1533,6 @@
       "pubDate": "Sat, 28 Mar 2026 10:45:01 GMT"
     }
   ],
-  "Battery Technology": [
-    {
-      "title": "'A huge leap if true': Chinese researchers say this semi-solid-state EV battery delivers a 620-mile range \u2014 and could soon break the 1,000-mile barrier - TechRadar",
-      "pubDate": "Sat, 07 Mar 2026 01:02:02 GMT"
-    }
-  ],
   "World News": [
     {
       "title": "US Iran war news LIVE updates: Indian among two dead in Saudi Arabia; Iraq's oil production falls by 70% | World News - Hindustan Times",
@@ -1579,24 +1561,6 @@
     {
       "title": "Judge Voids Mass Layoffs at Voice of America - The New York Times",
       "pubDate": "Sun, 08 Mar 2026 03:18:13 GMT"
-    }
-  ],
-  "Asia": [
-    {
-      "title": "China quietly eclipsing a weakened Russia in Central Asia - Asia Times",
-      "pubDate": "Sat, 07 Mar 2026 04:50:38 GMT"
-    }
-  ],
-  "Kristi Noem": [
-    {
-      "title": "Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line. - The New York Times",
-      "pubDate": "Sat, 07 Mar 2026 02:33:52 GMT"
-    }
-  ],
-  "Planetary Defense": [
-    {
-      "title": "NASA Successfully Alters Asteroid Path in Historic Planetary Defense Test - Fine Day 102.3",
-      "pubDate": "Sat, 07 Mar 2026 03:11:04 GMT"
     }
   ],
   "Petroleum": [
@@ -1973,6 +1937,10 @@
     {
       "title": "Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure - SecurityWeek",
       "pubDate": "Thu, 26 Mar 2026 13:00:00 GMT"
+    },
+    {
+      "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation - The Hacker News",
+      "pubDate": "Sun, 05 Apr 2026 18:25:00 GMT"
     }
   ],
   "Deep Learning": [
@@ -2085,6 +2053,12 @@
     {
       "title": "Russia gave Iran intelligence on Israel's energy infrastructure, Zelensky says - The Kyiv Independent",
       "pubDate": "Sun, 05 Apr 2026 10:57:24 GMT"
+    }
+  ],
+  "Nuclear Fusion": [
+    {
+      "title": "Scientists Are Now 43 Seconds Closer to Producing Limitless Energy - aol.com",
+      "pubDate": "Mon, 06 Apr 2026 02:03:45 GMT"
     }
   ]
 }
