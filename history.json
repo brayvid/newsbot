@@ -1,14 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI chatbots point vulnerable social media users to illegal online casinos, analysis shows - The Guardian",
-      "pubDate": "Sun, 08 Mar 2026 08:40:00 GMT"
-    },
-    {
-      "title": "OpenAI robotics chief quits over AI\u2019s potential use for war and surveillance - France 24",
-      "pubDate": "Sun, 08 Mar 2026 05:26:37 GMT"
-    },
-    {
       "title": "AI Achieves First Fields Medal Result, Blazes Through 200,000 Lines of Code in Two Weeks, Shakes Up Math Community - 36 Kr",
       "pubDate": "Mon, 09 Mar 2026 04:04:20 GMT"
     },
@@ -99,6 +91,10 @@
     {
       "title": "Chinese AI helping Iran target US forces with 'incredible precision' - Australian Broadcasting Corporation",
       "pubDate": "Mon, 06 Apr 2026 08:03:34 GMT"
+    },
+    {
+      "title": "United Nations University and Tsinghua University Launch the UNU Hub on Ethical and Responsible AI Development in Beijing - United Nations University",
+      "pubDate": "Tue, 07 Apr 2026 01:52:00 GMT"
     }
   ],
   "Israel": [
@@ -185,10 +181,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "U.S. and Israel vow more strikes as Trump attends dignified transfer of fallen troops - NBC News",
-      "pubDate": "Sun, 08 Mar 2026 07:28:42 GMT"
-    },
-    {
       "title": "Live Updates: Trump vows to end war soon as Iran hits ships, threatens banks, and toll on U.S. forces emerges - CBS News",
       "pubDate": "Wed, 11 Mar 2026 16:50:00 GMT"
     },
@@ -250,10 +242,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China warns of spread of \u2018flames of war\u2019 from Iran - CNN",
-      "pubDate": "Sun, 08 Mar 2026 10:30:00 GMT"
-    },
     {
       "title": "War in the Gulf Is Now Churning the U.S.-China Relationship - The New York Times",
       "pubDate": "Tue, 17 Mar 2026 05:15:26 GMT"
@@ -379,10 +367,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Ukraine Is Teaching Cybersecurity to the World - Kyiv Post",
-      "pubDate": "Sun, 08 Mar 2026 06:56:24 GMT"
-    },
-    {
       "title": "FBI investigating breach that reportedly hit wiretapping net - theregister.com",
       "pubDate": "Sun, 08 Mar 2026 23:14:00 GMT"
     },
@@ -457,6 +441,10 @@
     {
       "title": "The White House App Is Riddled With Cybersecurity Vulnerabilities - NOTUS \u2014 News of the United States",
       "pubDate": "Fri, 03 Apr 2026 18:16:23 GMT"
+    },
+    {
+      "title": "CISA Alerts Defenders to Actively Exploited Fortinet Zero-Day Vulnerability - gbhackers.com",
+      "pubDate": "Tue, 07 Apr 2026 07:13:53 GMT"
     }
   ],
   "US Economy": [
@@ -531,10 +519,6 @@
   ],
   "Climate Change": [
     {
-      "title": "A deadly climate change effect is even worse than feared, study finds - USA Today",
-      "pubDate": "Sun, 08 Mar 2026 11:02:00 GMT"
-    },
-    {
       "title": "Earth is warming faster than previously estimated, new study shows - Yahoo",
       "pubDate": "Mon, 09 Mar 2026 00:14:00 GMT"
     },
@@ -597,13 +581,13 @@
     {
       "title": "Wildfires an increasing threat for species during climate change - EurekAlert!",
       "pubDate": "Mon, 06 Apr 2026 09:16:26 GMT"
+    },
+    {
+      "title": "Many national parks vulnerable to climate change, study finds - eenews.net",
+      "pubDate": "Tue, 07 Apr 2026 10:28:00 GMT"
     }
   ],
   "Iran": [
-    {
-      "title": "Middle East crisis live: Israel warns it will pursue Iran\u2019s next supreme leader; fire engulfs Kuwait city tower as Iranian strikes hit the Gulf - The Guardian",
-      "pubDate": "Sun, 08 Mar 2026 10:22:10 GMT"
-    },
     {
       "title": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran - Al Jazeera",
       "pubDate": "Mon, 09 Mar 2026 04:03:19 GMT"
@@ -781,10 +765,6 @@
   ],
   "Drones": [
     {
-      "title": "Drones Strike Key Oil Pumping Hub in Russia\u2019s Krasnodar Region, Massive Fire Reported - UNITED24 Media",
-      "pubDate": "Sun, 08 Mar 2026 10:00:16 GMT"
-    },
-    {
       "title": "Exclusive: U.S. dismissed Ukraine deal for anti-Iran drone tech last year - Axios",
       "pubDate": "Tue, 10 Mar 2026 10:58:11 GMT"
     },
@@ -832,10 +812,6 @@
     }
   ],
   "Department of Homeland Security": [
-    {
-      "title": "Trump Ousts Noem as Homeland Security Secretary - The New York Times",
-      "pubDate": "Sun, 08 Mar 2026 05:52:36 GMT"
-    },
     {
       "title": "Airports see hours-long delays due to TSA shortages as DHS shutdown shows no sign of ending - WMUR",
       "pubDate": "Mon, 09 Mar 2026 10:27:00 GMT"
@@ -983,6 +959,10 @@
     {
       "title": "Deported immigrants will be sent to the Congo under new US deal for third-country removals - The Independent",
       "pubDate": "Mon, 06 Apr 2026 00:06:00 GMT"
+    },
+    {
+      "title": "Government shutdown enters eighth week as Johnson faces GOP revolt over DHS funding deal \u2013 US politics live - The Guardian",
+      "pubDate": "Tue, 07 Apr 2026 09:58:07 GMT"
     }
   ],
   "Quantum Computing": [
@@ -1079,6 +1059,10 @@
     {
       "title": "Artemis II Flight Day 3: Outbound Trajectory Correction Burn Update - NASA (.gov)",
       "pubDate": "Fri, 03 Apr 2026 21:04:28 GMT"
+    },
+    {
+      "title": "Artemis II astronauts set new human record for distance from Earth - Japan Wire by Kyodo News",
+      "pubDate": "Tue, 07 Apr 2026 05:13:30 GMT"
     }
   ],
   "Financial Markets": [
@@ -1573,17 +1557,7 @@
       "pubDate": "Sat, 04 Apr 2026 19:19:43 GMT"
     }
   ],
-  "Layoffs": [
-    {
-      "title": "Judge Voids Mass Layoffs at Voice of America - The New York Times",
-      "pubDate": "Sun, 08 Mar 2026 03:18:13 GMT"
-    }
-  ],
   "Petroleum": [
-    {
-      "title": "Oil prices are soaring, but Trump is downplaying the need to tap the Strategic Petroleum Reserve - Times West Virginian",
-      "pubDate": "Sun, 08 Mar 2026 10:00:00 GMT"
-    },
     {
       "title": "Kuwait Petroleum Says Headquarters Set Ablaze by Drone Strike - Bloomberg.com",
       "pubDate": "Sun, 05 Apr 2026 11:57:57 GMT"
@@ -1675,6 +1649,10 @@
     {
       "title": "North Korea conducts engine test for missile capable of targeting US mainland - AP News",
       "pubDate": "Sun, 29 Mar 2026 18:20:00 GMT"
+    },
+    {
+      "title": "Kim Jong Un Praises South Korea\u2019s Lee for Apology on Drones - Bloomberg.com",
+      "pubDate": "Tue, 07 Apr 2026 04:15:00 GMT"
     }
   ],
   "Economics": [
@@ -2009,6 +1987,10 @@
     {
       "title": "Iran War Live Updates: Downed U.S. Jet and Missing Crew Member Raise Stakes in War - The New York Times",
       "pubDate": "Fri, 03 Apr 2026 22:51:21 GMT"
+    },
+    {
+      "title": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears - Al Jazeera",
+      "pubDate": "Tue, 07 Apr 2026 07:30:02 GMT"
     }
   ],
   "Blockchain": [
