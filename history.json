@@ -99,10 +99,6 @@
   ],
   "Israel": [
     {
-      "title": "Israel escalates attacks across Lebanon as two soldiers killed - Al Jazeera",
-      "pubDate": "Sun, 08 Mar 2026 16:41:15 GMT"
-    },
-    {
       "title": "U.N. experts demand Israel release prominent Gaza doctor after reports of 'severe torture' - NBC News",
       "pubDate": "Wed, 25 Mar 2026 15:55:58 GMT"
     },
@@ -135,6 +131,10 @@
     {
       "title": "Russian Offensive Campaign Assessment, March 29, 2026 - Institute for the Study of War",
       "pubDate": "Sun, 29 Mar 2026 23:45:26 GMT"
+    },
+    {
+      "title": "Ukraine Ramps Up Attacks on Russian Oil, Aiming to Curb Iran War Windfall - The New York Times",
+      "pubDate": "Tue, 07 Apr 2026 09:04:32 GMT"
     }
   ],
   "Russia": [
@@ -273,6 +273,10 @@
     {
       "title": "China Creates New Aviation Mystery With Offshore Warning Zones - WSJ",
       "pubDate": "Sun, 05 Apr 2026 12:16:00 GMT"
+    },
+    {
+      "title": "China vetoes U.N. resolution on protecting Hormuz shipping - Reuters",
+      "pubDate": "Tue, 07 Apr 2026 15:47:43 GMT"
     }
   ],
   "AI Safety": [
@@ -363,6 +367,10 @@
     {
       "title": "Sam Altman says AI superintelligence is so big that we need a 'New Deal'\u2014critics say OpenAI's policy ideas are a cover for 'regulatory nihilism' - fortune.com",
       "pubDate": "Mon, 06 Apr 2026 21:27:00 GMT"
+    },
+    {
+      "title": "OpenAI opens applications for an external AI safety research fellowship - Help Net Security",
+      "pubDate": "Tue, 07 Apr 2026 08:39:52 GMT"
     }
   ],
   "Cybersecurity": [
@@ -445,6 +453,10 @@
     {
       "title": "CISA Alerts Defenders to Actively Exploited Fortinet Zero-Day Vulnerability - gbhackers.com",
       "pubDate": "Tue, 07 Apr 2026 07:13:53 GMT"
+    },
+    {
+      "title": "Threat cluster launches extortion campaign using social engineering - Cybersecurity Dive",
+      "pubDate": "Tue, 07 Apr 2026 15:39:02 GMT"
     }
   ],
   "US Economy": [
@@ -495,6 +507,10 @@
     {
       "title": "U.S. gains economic edge as Iran war strains global energy markets (CO1:COM:Commodity) - Seeking Alpha",
       "pubDate": "Sun, 05 Apr 2026 14:58:41 GMT"
+    },
+    {
+      "title": "The upper middle class is now the largest income group in the U.S., study finds - CBS News",
+      "pubDate": "Tue, 07 Apr 2026 14:56:08 GMT"
     }
   ],
   "OpenAI": [
@@ -1535,10 +1551,6 @@
   ],
   "World News": [
     {
-      "title": "US Iran war news LIVE updates: Indian among two dead in Saudi Arabia; Iraq's oil production falls by 70% | World News - Hindustan Times",
-      "pubDate": "Sun, 08 Mar 2026 16:37:17 GMT"
-    },
-    {
       "title": "Live updates: Energy prices soar after Trump threatens Iran gas field; F-35 hit by 'suspected enemy fire' - NBC News",
       "pubDate": "Thu, 19 Mar 2026 22:29:12 GMT"
     },
@@ -1991,6 +2003,10 @@
     {
       "title": "Iran war live: Trump warns of attacks as Hormuz deal deadline nears - Al Jazeera",
       "pubDate": "Tue, 07 Apr 2026 07:30:02 GMT"
+    },
+    {
+      "title": "Benjamin Netanyahu confirms strikes on bridges, railways across Iran - The Jerusalem Post",
+      "pubDate": "Tue, 07 Apr 2026 08:08:02 GMT"
     }
   ],
   "Blockchain": [
@@ -2057,6 +2073,12 @@
     {
       "title": "Scientists Are Now 43 Seconds Closer to Producing Limitless Energy - aol.com",
       "pubDate": "Mon, 06 Apr 2026 02:03:45 GMT"
+    }
+  ],
+  "US Coast Guard": [
+    {
+      "title": "Family missing for 7 days found alive by U.S. Coast Guard in Pacific Ocean - CBS News",
+      "pubDate": "Tue, 07 Apr 2026 13:16:00 GMT"
     }
   ]
 }
