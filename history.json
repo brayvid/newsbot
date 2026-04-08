@@ -243,6 +243,10 @@
     {
       "title": "Search for missing US airman continues as Trump threatens 'hell' if Iran does not reach deal - BBC",
       "pubDate": "Sat, 04 Apr 2026 16:50:26 GMT"
+    },
+    {
+      "title": "Trump, Iran agree to two-week ceasefire after threat of massive attacks - nbcnews.com",
+      "pubDate": "Wed, 08 Apr 2026 05:39:52 GMT"
     }
   ],
   "China": [
@@ -371,6 +375,10 @@
     {
       "title": "OpenAI opens applications for an external AI safety research fellowship - Help Net Security",
       "pubDate": "Tue, 07 Apr 2026 08:39:52 GMT"
+    },
+    {
+      "title": "Claude Code Vulnerability Exposes New AI Security Risks - Security Boulevard",
+      "pubDate": "Wed, 08 Apr 2026 14:01:55 GMT"
     }
   ],
   "Cybersecurity": [
@@ -596,10 +604,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran Live Updates: Oil Prices Soar as Fighting Escalates; Iran Picks Khamenei's Son as Leader, Defying Trump - The New York Times",
-      "pubDate": "Mon, 09 Mar 2026 16:47:32 GMT"
-    },
     {
       "title": "Live updates: Iran warns it will blockade oil until attacks end as Trump threatens 'death, fire and fury' - NBC News",
       "pubDate": "Tue, 10 Mar 2026 10:46:08 GMT"
@@ -1549,12 +1553,6 @@
       "pubDate": "Sun, 05 Apr 2026 11:57:57 GMT"
     }
   ],
-  "Robotics": [
-    {
-      "title": "Nvidia and ABB launch partnership for AI-enabled autonomous robots - Financial Times",
-      "pubDate": "Mon, 09 Mar 2026 13:23:30 GMT"
-    }
-  ],
   "Internet Security": [
     {
       "title": "AI Just Made Executives the Easiest Targets on the Internet - Security Boulevard",
@@ -1847,6 +1845,10 @@
     {
       "title": "OpenAI says 70% to 80% we\u2019re to AGI. A prominent cognitive scientist says we\u2019re nowhere close - R&D World",
       "pubDate": "Thu, 02 Apr 2026 18:37:39 GMT"
+    },
+    {
+      "title": "AI research foundation releases test that will warn when AGI arrives - Semafor",
+      "pubDate": "Wed, 08 Apr 2026 16:22:00 GMT"
     }
   ],
   "European Union": [
@@ -1983,6 +1985,10 @@
     {
       "title": "Benjamin Netanyahu confirms strikes on bridges, railways across Iran - The Jerusalem Post",
       "pubDate": "Tue, 07 Apr 2026 08:08:02 GMT"
+    },
+    {
+      "title": "Live updates: Fragile ceasefire in the balance as Iran says it is halting Strait of Hormuz traffic - CNN",
+      "pubDate": "Wed, 08 Apr 2026 16:36:00 GMT"
     }
   ],
   "Blockchain": [
@@ -2067,6 +2073,12 @@
     {
       "title": "The New York Times says it\u2019s identified Satoshi, the inventor of bitcoin - MarketWatch",
       "pubDate": "Wed, 08 Apr 2026 10:16:00 GMT"
+    }
+  ],
+  "Central Intelligence Agency": [
+    {
+      "title": "What Is Ghost Murmur? Secretive CIA Tool Linked to Iran Airman Rescue - Newsweek",
+      "pubDate": "Wed, 08 Apr 2026 13:53:00 GMT"
     }
   ]
 }
