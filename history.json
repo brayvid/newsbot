@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "AI Achieves First Fields Medal Result, Blazes Through 200,000 Lines of Code in Two Weeks, Shakes Up Math Community - 36 Kr",
-      "pubDate": "Mon, 09 Mar 2026 04:04:20 GMT"
-    },
-    {
       "title": "Without effective regulation of AI, society is facing a head-on collision with a driverless car - The Guardian",
       "pubDate": "Tue, 10 Mar 2026 22:40:00 GMT"
     },
@@ -135,6 +131,10 @@
     {
       "title": "Ukraine Ramps Up Attacks on Russian Oil, Aiming to Curb Iran War Windfall - The New York Times",
       "pubDate": "Tue, 07 Apr 2026 09:04:32 GMT"
+    },
+    {
+      "title": "Ukraine says it replaced human soldiers with 'ground robots' in over 21,000 missions for Q1 - businessinsider.com",
+      "pubDate": "Wed, 08 Apr 2026 04:27:00 GMT"
     }
   ],
   "Russia": [
@@ -281,10 +281,6 @@
   ],
   "AI Safety": [
     {
-      "title": "Amazon, Google, Microsoft urged by 700,000 US tech workers to reject Pentagon push to remove AI safety guardrails - Storyboard18",
-      "pubDate": "Mon, 09 Mar 2026 04:31:56 GMT"
-    },
-    {
       "title": "Chatbot lawsuits push AI safety fight to the courts - Axios",
       "pubDate": "Mon, 09 Mar 2026 08:27:31 GMT"
     },
@@ -374,10 +370,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "FBI investigating breach that reportedly hit wiretapping net - theregister.com",
-      "pubDate": "Sun, 08 Mar 2026 23:14:00 GMT"
-    },
     {
       "title": "February 2025 Cyberattack Affected More Than 230K Bell Ambulance Patients - The HIPAA Journal",
       "pubDate": "Tue, 10 Mar 2026 14:23:26 GMT"
@@ -535,10 +527,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Earth is warming faster than previously estimated, new study shows - Yahoo",
-      "pubDate": "Mon, 09 Mar 2026 00:14:00 GMT"
-    },
-    {
       "title": "Global Warming Is Accelerating. So Is Denialism of It - Haaretz",
       "pubDate": "Wed, 11 Mar 2026 08:15:00 GMT"
     },
@@ -604,10 +592,6 @@
     }
   ],
   "Iran": [
-    {
-      "title": "Iran war live: Mojtaba Khamenei named supreme leader; Israel bombs Tehran - Al Jazeera",
-      "pubDate": "Mon, 09 Mar 2026 04:03:19 GMT"
-    },
     {
       "title": "Iran latest: Oil price passes $100 for first time since 2022 as Starmer warns of economic impact - BBC",
       "pubDate": "Mon, 09 Mar 2026 10:50:11 GMT"
@@ -933,10 +917,6 @@
   ],
   "US Politics": [
     {
-      "title": "Trump says he won't sign bills until Congress overhauls voting - NPR",
-      "pubDate": "Sun, 08 Mar 2026 19:48:23 GMT"
-    },
-    {
       "title": "US furiously seeks to avert potential monthslong closure of Strait of Hormuz - CNN",
       "pubDate": "Fri, 20 Mar 2026 17:09:42 GMT"
     },
@@ -1033,6 +1013,10 @@
     {
       "title": "Beijing mandates internal ethics committees for all Chinese AI companies - South China Morning Post",
       "pubDate": "Fri, 03 Apr 2026 13:54:53 GMT"
+    },
+    {
+      "title": "Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity \u2018Reckoning\u2019 - The New York Times",
+      "pubDate": "Tue, 07 Apr 2026 18:00:09 GMT"
     }
   ],
   "Space Exploration": [
@@ -1167,6 +1151,10 @@
     {
       "title": "China assembles fleet of attack drones near Taiwan - The Telegraph",
       "pubDate": "Sat, 28 Mar 2026 19:07:00 GMT"
+    },
+    {
+      "title": "Taiwan opposition leader arrives in China on what she calls a \u2018journey to peace\u2019 - AP News",
+      "pubDate": "Tue, 07 Apr 2026 20:37:00 GMT"
     }
   ],
   "Department of Justice": [
@@ -1207,6 +1195,10 @@
     {
       "title": "Artemis 2 LIVE: Artemis 2 astronauts halfway to moon, report 'burning smell' from toilet - Space",
       "pubDate": "Sat, 04 Apr 2026 13:31:20 GMT"
+    },
+    {
+      "title": "Artemis II crew tearfully proposes to name moon crater after astronaut Reid Wiseman's late wife - NBC News",
+      "pubDate": "Tue, 07 Apr 2026 20:13:50 GMT"
     }
   ],
   "Middle East": [
@@ -1307,6 +1299,10 @@
     {
       "title": "Have astronomers found a runaway monster black hole or just a very weird galaxy? - Scientific American",
       "pubDate": "Fri, 13 Mar 2026 10:45:00 GMT"
+    },
+    {
+      "title": "Unprecedented Observation Reveals 2 Supermassive Black Holes Locked in a Tight Death Spiral - Gizmodo",
+      "pubDate": "Tue, 07 Apr 2026 20:50:16 GMT"
     }
   ],
   "Canada": [
@@ -1391,10 +1387,6 @@
   ],
   "Military and Defense": [
     {
-      "title": "S. Korea, U.S. begin joint military exercise to bolster combined defense - Japan Wire by KYODO NEWS",
-      "pubDate": "Mon, 09 Mar 2026 04:18:00 GMT"
-    },
-    {
       "title": "Iranian Military Shows It Knows How to Adapt, U.S. Officials Say - The New York Times",
       "pubDate": "Tue, 10 Mar 2026 23:44:58 GMT"
     },
@@ -1442,10 +1434,6 @@
     }
   ],
   "World Economy": [
-    {
-      "title": "Surging Oil Prices Threaten NVIDIA, Amazon, and Meta - 24/7 Wall St.",
-      "pubDate": "Mon, 09 Mar 2026 00:15:56 GMT"
-    },
     {
       "title": "Iran Tests U.S. Military Might With a Guerrilla Assault on the Global Economy - WSJ",
       "pubDate": "Mon, 16 Mar 2026 00:19:16 GMT"
@@ -1573,12 +1561,6 @@
     {
       "title": "Kuwait Petroleum Says Headquarters Set Ablaze by Drone Strike - Bloomberg.com",
       "pubDate": "Sun, 05 Apr 2026 11:57:57 GMT"
-    }
-  ],
-  "Domestic Terrorism": [
-    {
-      "title": "FBI launches terrorism investigation after homemade explosive device ignited outside of NYC Mayor Mamdani's residence - CBS News",
-      "pubDate": "Sun, 08 Mar 2026 20:06:00 GMT"
     }
   ],
   "Robotics": [
@@ -2079,6 +2061,12 @@
     {
       "title": "Family missing for 7 days found alive by U.S. Coast Guard in Pacific Ocean - CBS News",
       "pubDate": "Tue, 07 Apr 2026 13:16:00 GMT"
+    }
+  ],
+  "JP Morgan Chase": [
+    {
+      "title": "Jamie Dimon warns of growing crypto competition in annual letter: \u2018We need to roll out our own blockchain technology\u2019 - Fortune",
+      "pubDate": "Tue, 07 Apr 2026 22:44:00 GMT"
     }
   ]
 }
