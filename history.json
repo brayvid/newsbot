@@ -91,6 +91,10 @@
     {
       "title": "United Nations University and Tsinghua University Launch the UNU Hub on Ethical and Responsible AI Development in Beijing - United Nations University",
       "pubDate": "Tue, 07 Apr 2026 01:52:00 GMT"
+    },
+    {
+      "title": "Economists warn AI could impact jobs after Goldman Sachs report - WDRB",
+      "pubDate": "Wed, 08 Apr 2026 03:27:00 GMT"
     }
   ],
   "Israel": [
@@ -277,13 +281,13 @@
     {
       "title": "China vetoes U.N. resolution on protecting Hormuz shipping - Reuters",
       "pubDate": "Tue, 07 Apr 2026 15:47:43 GMT"
+    },
+    {
+      "title": "China Steps Up AI Race As Alibaba Unveils 10,000-Card Computing Cluster - NDTV",
+      "pubDate": "Wed, 08 Apr 2026 10:14:10 GMT"
     }
   ],
   "AI Safety": [
-    {
-      "title": "Chatbot lawsuits push AI safety fight to the courts - Axios",
-      "pubDate": "Mon, 09 Mar 2026 08:27:31 GMT"
-    },
     {
       "title": "Anthropic Sues U.S. Defense Department, Pete Hegseth for Targeting the Company - WSJ",
       "pubDate": "Tue, 10 Mar 2026 06:34:00 GMT"
@@ -593,10 +597,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran latest: Oil price passes $100 for first time since 2022 as Starmer warns of economic impact - BBC",
-      "pubDate": "Mon, 09 Mar 2026 10:50:11 GMT"
-    },
-    {
       "title": "Iran Live Updates: Oil Prices Soar as Fighting Escalates; Iran Picks Khamenei's Son as Leader, Defying Trump - The New York Times",
       "pubDate": "Mon, 09 Mar 2026 16:47:32 GMT"
     },
@@ -813,10 +813,6 @@
   ],
   "Department of Homeland Security": [
     {
-      "title": "Airports see hours-long delays due to TSA shortages as DHS shutdown shows no sign of ending - WMUR",
-      "pubDate": "Mon, 09 Mar 2026 10:27:00 GMT"
-    },
-    {
       "title": "DHS silent on threat status amid war in Iran, spate of violent acts - The Washington Post",
       "pubDate": "Tue, 17 Mar 2026 06:48:06 GMT"
     },
@@ -881,12 +877,6 @@
     {
       "title": "Iran reports new attacks on Bushehr nuclear plant, sparking IAEA warning - BBC",
       "pubDate": "Sat, 04 Apr 2026 16:19:25 GMT"
-    }
-  ],
-  "Public Health": [
-    {
-      "title": "Scientists Get a Glimpse of How New Pandemics Are Made - The New York Times",
-      "pubDate": "Mon, 09 Mar 2026 09:01:58 GMT"
     }
   ],
   "The Pentagon": [
@@ -985,6 +975,10 @@
     {
       "title": "Google research flags looming quantum threat to cryptocurrencies, with Bitcoin vulnerable in minute - The Jerusalem Post",
       "pubDate": "Sun, 05 Apr 2026 10:03:25 GMT"
+    },
+    {
+      "title": "Quantum computers keep losing data. This breakthrough finally tracks it - ScienceDaily",
+      "pubDate": "Wed, 08 Apr 2026 05:04:42 GMT"
     }
   ],
   "Geopolitics": [
@@ -1020,10 +1014,6 @@
     }
   ],
   "Space Exploration": [
-    {
-      "title": "Congress wants the International Space Station to keep flying until 2032. Here's why - Space",
-      "pubDate": "Mon, 09 Mar 2026 10:00:00 GMT"
-    },
     {
       "title": "NASA's asteroid deflection test for planetary defence even more successful than we thought - CBC",
       "pubDate": "Sun, 15 Mar 2026 08:00:00 GMT"
@@ -1199,13 +1189,13 @@
     {
       "title": "Artemis II crew tearfully proposes to name moon crater after astronaut Reid Wiseman's late wife - NBC News",
       "pubDate": "Tue, 07 Apr 2026 20:13:50 GMT"
+    },
+    {
+      "title": "Artemis II latest updates: NASA releases 1st photos from far side of moon as Orion heads back to Earth after historic flyby - Yahoo",
+      "pubDate": "Tue, 07 Apr 2026 22:55:39 GMT"
     }
   ],
   "Middle East": [
-    {
-      "title": "No immediate threat to UK gas supplies, says minister after \u2018two days left\u2019 reports - The Guardian",
-      "pubDate": "Mon, 09 Mar 2026 10:21:00 GMT"
-    },
     {
       "title": "Live: Israel and Iran exchange strikes as missile threats escalate - France 24",
       "pubDate": "Wed, 11 Mar 2026 02:39:39 GMT"
@@ -1258,10 +1248,6 @@
     }
   ],
   "Anthropic": [
-    {
-      "title": "Congress must prevent AI surveillance. The Anthropic feud proves it | Ashley Gorski and Patrick Toomey - The Guardian",
-      "pubDate": "Mon, 09 Mar 2026 10:00:00 GMT"
-    },
     {
       "title": "Scoop: White House readies executive order to weed out Anthropic - Axios",
       "pubDate": "Tue, 10 Mar 2026 19:48:45 GMT"
@@ -1793,6 +1779,10 @@
     {
       "title": "WARNING\u2757\ufe0fCISA Issues Emergency Directive For Critical Cisco Firewall Flaw Under Active Exploitation - LinkedIn",
       "pubDate": "Sat, 21 Mar 2026 16:00:03 GMT"
+    },
+    {
+      "title": "US warns of Iran-affiliated cyber-attacks on critical infrastructure across country - The Guardian",
+      "pubDate": "Wed, 08 Apr 2026 00:44:00 GMT"
     }
   ],
   "Quantum": [
@@ -1947,6 +1937,10 @@
     {
       "title": "AI could lead to human extinction in just 5 years, warns ex-OpenAI researcher - The Financial Express",
       "pubDate": "Sun, 29 Mar 2026 11:37:25 GMT"
+    },
+    {
+      "title": "Anthropic pauses Claude Mythos release over safety concerns after model bypasses containment - Storyboard18",
+      "pubDate": "Wed, 08 Apr 2026 08:08:55 GMT"
     }
   ],
   "Iran War": [
@@ -2067,6 +2061,12 @@
     {
       "title": "Jamie Dimon warns of growing crypto competition in annual letter: \u2018We need to roll out our own blockchain technology\u2019 - Fortune",
       "pubDate": "Tue, 07 Apr 2026 22:44:00 GMT"
+    }
+  ],
+  "Satoshi Nakamoto": [
+    {
+      "title": "The New York Times says it\u2019s identified Satoshi, the inventor of bitcoin - MarketWatch",
+      "pubDate": "Wed, 08 Apr 2026 10:16:00 GMT"
     }
   ]
 }
