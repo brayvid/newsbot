@@ -33,6 +33,8 @@ import csv
 import smtplib
 import html
 import logging
+import time
+import random
 import shutil # Keep for potential future use, though nltk_data cleanup is commented out
 import json
 import re
@@ -148,6 +150,7 @@ MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
 DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR", 0.5))
 MATCH_THRESHOLD = float(CONFIG.get("DEDUPLICATION_MATCH_THRESHOLD", 0.4)) # Added from first script for consistency
 GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-2.5-flash") # Added
+BATCH_SIZE = 10 # Consolidated fetching size
 
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
 try:
@@ -236,67 +239,49 @@ def is_in_history(article_title: str, history: dict, threshold: float) -> bool:
 def to_user_timezone(dt):
     return dt.astimezone(ZONE)
 
-def fetch_articles_for_topic(topic, max_articles=10):
-    url = f"https://news.google.com/rss/search?q={requests.utils.quote(topic)}&hl=en-US&gl=US&ceid=US:en"
-    try:
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 NewsBot/1.0"}
-        response = requests.get(url, headers=headers, timeout=20)
-        response.raise_for_status()
+def fetch_articles_for_batch(topics_batch, max_articles=20):
+    """Consolidates requests into batches to avoid 503 errors and speed up processing."""
+    query_string = " OR ".join([f'"{t}"' for t in topics_batch])
+    url = f"https://news.google.com/rss/search?q={requests.utils.quote(f'({query_string})')}&hl=en-US&gl=US&ceid=US:en"
+    
+    user_agents = [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+    ]
 
-        root = ET.fromstring(response.content)
-        # Compare with MAX_ARTICLE_HOURS from config
-        time_cutoff_utc = datetime.now(ZoneInfo("UTC")) - timedelta(hours=MAX_ARTICLE_HOURS)
-        articles = []
-
-        for item in root.findall("./channel/item"):
-            title_element = item.find("title")
-            title = title_element.text if title_element is not None and title_element.text else "No title"
+    for attempt in range(3):
+        try:
+            headers = {"User-Agent": random.choice(user_agents)}
+            response = requests.get(url, headers=headers, timeout=25)
             
-            link_element = item.find("link")
-            link = link_element.text if link_element is not None and link_element.text else None
-
-            pubDate_element = item.find("pubDate")
-            pubDate_text = pubDate_element.text if pubDate_element is not None and pubDate_element.text else None
-
-            if not link or not pubDate_text: # Title can be "No title" but link and pubDate are essential
-                logging.warning(f"Skipping article with missing link or pubDate for topic '{topic}': Title '{title}'")
+            if response.status_code == 503:
+                wait_time = (attempt + 1) * 7
+                logging.warning(f"503 Error for batch. Retrying in {wait_time}s...")
+                time.sleep(wait_time)
                 continue
 
-            try:
-                pub_dt_naive = parsedate_to_datetime(pubDate_text)
-                if pub_dt_naive.tzinfo is None:
-                    pub_dt_utc = pub_dt_naive.replace(tzinfo=ZoneInfo("UTC"))
-                else:
-                    pub_dt_utc = pub_dt_naive.astimezone(ZoneInfo("UTC"))
-            except Exception as e:
-                logging.warning(f"Malformed pubDate '{pubDate_text}' for article '{title}': {e}. Skipping.")
-                continue 
+            response.raise_for_status()
+            root = ET.fromstring(response.content)
+            time_cutoff_utc = datetime.now(ZoneInfo("UTC")) - timedelta(hours=MAX_ARTICLE_HOURS)
+            articles = []
 
-            if pub_dt_utc <= time_cutoff_utc: # Compare against UTC cutoff
-                continue
+            for item in root.findall("./channel/item"):
+                title = item.find("title").text.strip()
+                link = item.find("link").text
+                pubDate_text = item.find("pubDate").text
+                
+                try:
+                    pub_dt = parsedate_to_datetime(pubDate_text).astimezone(ZoneInfo("UTC"))
+                except: continue
 
-            articles.append({
-                "title": title.strip(), # Ensure title is stripped
-                "link": link,
-                "pubDate": pubDate_text # Store original pubDate string
-            })
-
-            if len(articles) >= max_articles:
-                break 
-        logging.info(f"Fetched {len(articles)} articles for topic '{topic}'")
-        return articles
-    except requests.exceptions.Timeout:
-        logging.warning(f"Timeout fetching articles for {topic} from {url}")
-        return []
-    except requests.exceptions.RequestException as e:
-        logging.warning(f"Failed to fetch articles for {topic} from {url}: {e}")
-        return []
-    except ET.ParseError as e:
-        logging.warning(f"Failed to parse XML for {topic} from {url}: {e}")
-        return []
-    except Exception as e: # Catch-all for other unexpected errors
-        logging.error(f"Unexpected error fetching articles for {topic} from {url}: {e}")
-        return []
+                if pub_dt > time_cutoff_utc:
+                    articles.append({"title": title, "link": link, "pubDate": pubDate_text})
+            
+            return articles
+        except Exception as e:
+            if attempt == 2: logging.error(f"Batch fetch failed: {e}")
+            time.sleep(2)
+    return []
 
 def load_recent_headlines_from_history(history_data: dict, max_headlines: int) -> list:
     """
@@ -751,29 +736,39 @@ def main():
         banned_terms = [k for k, v in OVERRIDES.items() if v == "ban"]
         articles_to_fetch_per_topic = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 20))
 
-        # --- HYBRID PRE-FILTERING STAGE ---
-        for topic in TOPIC_WEIGHTS:
-            articles_for_this_topic = fetch_articles_for_topic(topic, articles_to_fetch_per_topic)
-            if not articles_for_this_topic:
-                continue
-            
-            allowed_titles_for_topic = []
-            for article in articles_for_this_topic:
-                # Call the history check with the MATCH_THRESHOLD from your config.
-                # REMEMBER to set this to a high value (e.g., 0.90) in your Google Sheet.
-                if is_in_history(article["title"], history, MATCH_THRESHOLD):
-                    logging.debug(f"Skipping (history match): {article['title']}")
+        # --- BATCHED FETCHING STAGE ---
+        topic_keys = list(TOPIC_WEIGHTS.keys())
+        random.shuffle(topic_keys)
+        batches = [topic_keys[i:i + BATCH_SIZE] for i in range(0, len(topic_keys), BATCH_SIZE)]
+
+        for batch in batches:
+            # Process topics in groups of 10 using Boolean OR to reduce requests and avoid 503s
+            articles_for_batch = fetch_articles_for_batch(batch, articles_to_fetch_per_topic)
+            time.sleep(random.uniform(1.5, 3.0)) # Polite jitter between batch requests
+
+            for article in articles_for_batch:
+                title = article['title']
+                norm_art_title = normalize(title)
+                
+                # Deduplication and Banned Term check
+                if is_in_history(title, history, MATCH_THRESHOLD) or contains_banned_keyword(title, banned_terms):
                     continue
                 
-                if contains_banned_keyword(article["title"], banned_terms):
-                    logging.debug(f"Skipping (banned keyword): {article['title']}")
-                    continue
+                # Attribution Logic: Which topic in this specific batch does this headline belong to?
+                best_topic = None
+                highest_w = -1
+                for topic in batch:
+                    # Check if the topic appears in the headline
+                    if normalize(topic) in norm_art_title:
+                        weight = TOPIC_WEIGHTS.get(topic, 0)
+                        # If multiple topics match (e.g. Amazon and AWS), pick the higher weight topic
+                        if weight > highest_w:
+                            highest_w = weight
+                            best_topic = topic
                 
-                allowed_titles_for_topic.append(article["title"])
-                full_articles_map[normalize(article["title"])] = article 
-            
-            if allowed_titles_for_topic:
-                headlines_to_send[topic] = allowed_titles_for_topic
+                if best_topic:
+                    headlines_to_send.setdefault(best_topic, []).append(title)
+                    full_articles_map[norm_art_title] = article 
 
         if not headlines_to_send:
             logging.info("No fresh, non-banned, non-duplicate headlines available. Nothing to send to LLM.")
@@ -941,10 +936,3 @@ def main():
              
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
