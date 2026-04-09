@@ -533,6 +533,10 @@
     {
       "title": "Family sues ChatGPT-maker OpenAI over school shooting in Canada - AP News",
       "pubDate": "Tue, 10 Mar 2026 01:53:00 GMT"
+    },
+    {
+      "title": "Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI - The Guardian",
+      "pubDate": "Thu, 09 Apr 2026 01:30:00 GMT"
     }
   ],
   "Gaza": [
@@ -747,6 +751,10 @@
     {
       "title": "Iran war live: Tehran says response to ceasefire proposals formulated - Al Jazeera",
       "pubDate": "Mon, 06 Apr 2026 07:42:05 GMT"
+    },
+    {
+      "title": "Ceasefire is threatened as Israel expands Lebanon strikes and Iran closes strait again - AP News",
+      "pubDate": "Thu, 09 Apr 2026 02:50:00 GMT"
     }
   ],
   "Climate": [
@@ -893,6 +901,10 @@
     {
       "title": "Iran reports new attacks on Bushehr nuclear plant, sparking IAEA warning - BBC",
       "pubDate": "Sat, 04 Apr 2026 16:19:25 GMT"
+    },
+    {
+      "title": "New Jersey lifts nuclear power moratorium - 6abc Philadelphia",
+      "pubDate": "Thu, 09 Apr 2026 08:44:54 GMT"
     }
   ],
   "The Pentagon": [
@@ -1165,6 +1177,10 @@
     {
       "title": "Taiwan opposition leader arrives in China on what she calls a \u2018journey to peace\u2019 - AP News",
       "pubDate": "Tue, 07 Apr 2026 20:37:00 GMT"
+    },
+    {
+      "title": "Taiwan Opposition Leader Urges Peace in China as Party Skips Defence Talks - Modern Diplomacy",
+      "pubDate": "Thu, 09 Apr 2026 09:31:45 GMT"
     }
   ],
   "Department of Justice": [
@@ -1373,6 +1389,10 @@
     {
       "title": "Google Zero-Day Alert For 3.5 Billion Chrome Users\u2014Attacks Underway - Forbes",
       "pubDate": "Sun, 15 Mar 2026 14:45:00 GMT"
+    },
+    {
+      "title": "Anthony Scaramucci Flags Google's Quantum Crypto Warning As Mike Novogratz Assures Bitcoin, Ethereum Will - Benzinga",
+      "pubDate": "Thu, 09 Apr 2026 09:11:19 GMT"
     }
   ],
   "Asteroids": [
@@ -1655,6 +1675,10 @@
     {
       "title": "Kim Jong Un Praises South Korea\u2019s Lee for Apology on Drones - Bloomberg.com",
       "pubDate": "Tue, 07 Apr 2026 04:15:00 GMT"
+    },
+    {
+      "title": "North Korea says its latest weapons tests included missiles with cluster-bomb warheads - NPR",
+      "pubDate": "Thu, 09 Apr 2026 05:19:03 GMT"
     }
   ],
   "Economics": [
@@ -2107,6 +2131,12 @@
     {
       "title": "What Is Ghost Murmur? Secretive CIA Tool Linked to Iran Airman Rescue - Newsweek",
       "pubDate": "Wed, 08 Apr 2026 13:53:00 GMT"
+    }
+  ],
+  "Earth": [
+    {
+      "title": "Artemis II astronauts prep for Earth return during last full day in space - Florida Today",
+      "pubDate": "Thu, 09 Apr 2026 09:09:00 GMT"
     }
   ]
 }
