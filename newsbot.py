@@ -4,12 +4,6 @@ import os
 import sys
 import subprocess # Added for git operations
 
-# Set number of threads for various libraries to 1 if parallelism is not permitted on your system
-# os.environ["OPENBLAS_NUM_THREADS"] = "1"
-# os.environ["OMP_NUM_THREADS"] = "1"
-# os.environ["MKL_NUM_THREADS"] = "1"
-# os.environ["NUMEXPR_NUM_THREADS"] = "1"
-
 # Define paths and URLs for local files and remote configuration.
 BASE_DIR = os.path.dirname(os.path.abspath(__file__)) # Ensure BASE_DIR is absolute
 HISTORY_FILE = os.path.join(BASE_DIR, "history.json")
@@ -599,7 +593,7 @@ def prioritize_with_gemini(
                              logging.info(f"Successfully parsed tool-like structure from Gemini text response: {transformed_output}")
                              return transformed_output
 
-                logging.warning(f"Could not parse Gemini's text response into expected format. Raw text: {text_content[:500]}")
+                logging.warning(f"Could parse Gemini's text response into expected format. Raw text: {text_content[:500]}")
                 return {}
             else:
                  logging.warning("Gemini returned no usable function call and no parsable text content.")
@@ -634,13 +628,6 @@ def git_push_history_json(history_file_path, base_dir, zone_for_commit_msg):
         logging.info(f"Attempting git operations for {relative_history_file} from {base_dir}")
 
         git_env = os.environ.copy()
-        # It's generally better to configure git user/email per repo or globally,
-        # but can be set for the command if needed, though less common for commit authorship.
-        # subprocess.run will inherit the environment.
-        # For authorship, `git commit -m "message" --author="User Name <email@example.com>"` could be used,
-        # or `git config user.name "..."` and `git config user.email "..."` run beforehand.
-        # The current script tries to set config which is fine.
-
         if github_email:
             email_config_cmd = ["git", "-C", base_dir, "config", "user.email", github_email]
             subprocess.run(email_config_cmd, check=False, capture_output=True, text=True)
@@ -651,24 +638,19 @@ def git_push_history_json(history_file_path, base_dir, zone_for_commit_msg):
         add_cmd = ["git", "-C", base_dir, "add", relative_history_file]
         add_process = subprocess.run(add_cmd, capture_output=True, text=True, check=False)
         if add_process.returncode != 0:
-            # Log warning but proceed, commit will fail if add truly failed and nothing staged
-            logging.warning(f"git add {relative_history_file} exited with code {add_process.returncode}: {add_process.stderr.strip()}. Proceeding.")
+            logging.warning(f"git add {relative_history_file} exited with code {add_process.returncode}. Proceeding.")
 
         commit_message = f"Automated: Update {os.path.basename(history_file_path)} {datetime.now(zone_for_commit_msg).strftime('%Y-%m-%d %H:%M:%S %Z')}"
         commit_cmd = ["git", "-C", base_dir, "commit", "-m", commit_message]
         commit_process = subprocess.run(commit_cmd, capture_output=True, text=True, check=False)
 
         if commit_process.returncode == 0:
-            logging.info(f"Commit successful. Message: '{commit_message}'\n{commit_process.stdout.strip()}")
+            logging.info(f"Commit successful. Message: '{commit_message}'")
         elif ("nothing to commit" in commit_process.stdout.lower() or 
               "no changes added to commit" in commit_process.stdout.lower()):
-            logging.info(f"No changes to commit for {relative_history_file}. Git output: {commit_process.stdout.strip()}")
-            # If no changes for this file, we might still want to push if other commits are pending
-            # or if the "everything up-to-date" check for push is sufficient.
-            # For now, let's assume a push is attempted regardless of this specific commit's outcome.
+            logging.info(f"No changes to commit for {relative_history_file}.")
         else:
-            logging.error(f"git commit failed with code {commit_process.returncode}. Stderr: {commit_process.stderr.strip()}. Stdout: {commit_process.stdout.strip()}")
-            # Decide if to return or still attempt push. Let's attempt push.
+            logging.error(f"git commit failed with code {commit_process.returncode}.")
 
         remote_url = f"https://{github_user}:{github_token}@github.com/{github_repository}.git"
         current_branch = ""
@@ -676,14 +658,11 @@ def git_push_history_json(history_file_path, base_dir, zone_for_commit_msg):
             get_branch_cmd = ["git", "-C", base_dir, "rev-parse", "--abbrev-ref", "HEAD"]
             branch_process = subprocess.run(get_branch_cmd, capture_output=True, text=True, check=True)
             current_branch = branch_process.stdout.strip()
-            if not current_branch or current_branch == "HEAD": # HEAD means detached state
-                logging.error("Could not determine current git branch or in detached HEAD state. Skipping git push.")
+            if not current_branch or current_branch == "HEAD": 
+                logging.error("Detached HEAD state. Skipping git push.")
                 return
-        except subprocess.CalledProcessError as e:
-            logging.error(f"Failed to get current git branch: {e.stderr.strip()}. Skipping git push.")
-            return
-        except FileNotFoundError:
-            logging.error("git command not found. Ensure Git is installed and in PATH.")
+        except Exception as e:
+            logging.error(f"Failed to get current git branch: {e}")
             return
 
         logging.info(f"Attempting git push to repository {github_repository} on branch {current_branch}...")
@@ -691,17 +670,10 @@ def git_push_history_json(history_file_path, base_dir, zone_for_commit_msg):
         push_process = subprocess.run(push_cmd, capture_output=True, text=True, check=False)
         
         if push_process.returncode == 0:
-            logging.info(f"git push successful to {github_repository} branch {current_branch}.\n{push_process.stdout.strip()}")
-        elif ("everything up-to-date" in push_process.stdout.lower() or
-              "everything up-to-date" in push_process.stderr.lower()): # Check stderr too
-            logging.info(f"git push: Everything up-to-date for {github_repository} branch {current_branch}.")
+            logging.info(f"git push successful.")
         else:
-            # Avoid logging the token if the command itself is part of the error message from git.
-            # Stderr should be somewhat safe.
-            logging.error(f"git push to {github_repository} branch {current_branch} failed with code {push_process.returncode}. Stderr: {push_process.stderr.strip()}. Stdout: {push_process.stdout.strip()}")
+            logging.error(f"git push failed.")
 
-    except FileNotFoundError: 
-        logging.error("git command not found. Please ensure Git is installed and in your system's PATH.")
     except Exception as e:
         logging.error(f"An unexpected error occurred during git operations: {e}", exc_info=True)
 
@@ -713,9 +685,6 @@ def main():
         try:
             with open(HISTORY_FILE, "r", encoding="utf-8") as f:
                 history = json.load(f)
-        except json.JSONDecodeError:
-            logging.warning(f"Could not decode {HISTORY_FILE}. Initializing empty history.")
-            history = {}
         except Exception as e:
             logging.error(f"Error loading {HISTORY_FILE}: {e}. Initializing empty history.")
 
@@ -741,8 +710,9 @@ def main():
         random.shuffle(topic_keys)
         batches = [topic_keys[i:i + BATCH_SIZE] for i in range(0, len(topic_keys), BATCH_SIZE)]
 
+        logging.info(f"--- Starting Batched Article Fetching ({len(batches)} batches) ---")
+
         for batch in batches:
-            # Process topics in groups of 10 using Boolean OR to reduce requests and avoid 503s
             articles_for_batch = fetch_articles_for_batch(batch, articles_to_fetch_per_topic)
             time.sleep(random.uniform(1.5, 3.0)) # Polite jitter between batch requests
 
@@ -754,28 +724,31 @@ def main():
                 if is_in_history(title, history, MATCH_THRESHOLD) or contains_banned_keyword(title, banned_terms):
                     continue
                 
-                # Attribution Logic: Which topic in this specific batch does this headline belong to?
+                # Attribution Logic: Match article back to a specific topic in the current batch
                 best_topic = None
                 highest_w = -1
                 for topic in batch:
-                    # Check if the topic appears in the headline
-                    if normalize(topic) in norm_art_title:
+                    norm_topic = normalize(topic)
+                    # Broad Match: Topic name in title OR major topic words in title
+                    if norm_topic in norm_art_title or any(word in norm_art_title for word in norm_topic.split() if len(word) > 3):
                         weight = TOPIC_WEIGHTS.get(topic, 0)
-                        # If multiple topics match (e.g. Amazon and AWS), pick the higher weight topic
                         if weight > highest_w:
                             highest_w = weight
                             best_topic = topic
                 
-                if best_topic:
-                    headlines_to_send.setdefault(best_topic, []).append(title)
-                    full_articles_map[norm_art_title] = article 
+                # Fallback Attribution: If no string match, attribute to highest batch weight (prevents dropping valid results)
+                if not best_topic:
+                    best_topic = max(batch, key=lambda t: TOPIC_WEIGHTS.get(t, 0))
+                
+                headlines_to_send.setdefault(best_topic, []).append(title)
+                full_articles_map[norm_art_title] = article 
 
         if not headlines_to_send:
-            logging.info("No fresh, non-banned, non-duplicate headlines available. Nothing to send to LLM.")
+            logging.info("No fresh headlines available. Nothing to send to LLM.")
             return
 
         total_headlines_candidate_count = sum(len(v) for v in headlines_to_send.values())
-        logging.info(f"Sending {total_headlines_candidate_count} candidate headlines across {len(headlines_to_send)} topics to Gemini.")
+        logging.info(f"Sending {total_headlines_candidate_count} candidate headlines to Gemini.")
 
         selected_digest_content = prioritize_with_gemini(
             headlines_to_send=headlines_to_send,
@@ -787,17 +760,13 @@ def main():
         )
 
         if not selected_digest_content or not isinstance(selected_digest_content, dict):
-            logging.warning("Gemini returned no valid digest content. No email will be sent.")
+            logging.warning("Gemini returned no valid content. No email will be sent.")
             return
         
         final_digest_to_email = {}
         processed_normalized_titles = set()
 
         for topic, titles_from_gemini in selected_digest_content.items():
-            if not isinstance(titles_from_gemini, list):
-                logging.warning(f"Gemini output for topic '{topic}' is not a list. Skipping.")
-                continue
-            
             articles_for_email_topic = []
             for title_from_llm in titles_from_gemini[:MAX_ARTICLES_PER_TOPIC]:
                 normalized_title_from_gemini = normalize(title_from_llm)
@@ -809,23 +778,18 @@ def main():
                     articles_for_email_topic.append(original_article_data)
                     processed_normalized_titles.add(normalized_title_from_gemini)
                 else:
-                    found_fallback = False
+                    # Partial match fallback
                     for stored_norm_title, stored_article_data in full_articles_map.items():
-                        if normalized_title_from_gemini in stored_norm_title or stored_norm_title in stored_article_data.get('title', ''):
-                            if stored_norm_title not in processed_normalized_titles:
-                                articles_for_email_topic.append(stored_article_data)
-                                processed_normalized_titles.add(stored_norm_title)
-                                logging.info(f"Fallback matched LLM title '{title_from_llm}' to stored article '{stored_article_data['title']}'")
-                                found_fallback = True
-                                break
-                    if not found_fallback:
-                        logging.warning(f"Could not find original article data for title '{title_from_llm}'. Skipping.")
+                        if normalized_title_from_gemini in stored_norm_title and stored_norm_title not in processed_normalized_titles:
+                            articles_for_email_topic.append(stored_article_data)
+                            processed_normalized_titles.add(stored_norm_title)
+                            break
             
             if articles_for_email_topic:
                 final_digest_to_email[topic] = articles_for_email_topic
 
         if not final_digest_to_email:
-            logging.info("No articles selected for the final email digest after processing. No email sent.")
+            logging.info("No articles selected for final digest. No email sent.")
             return
 
         # --- Email Sending Logic ---
@@ -833,10 +797,6 @@ def main():
         EMAIL_BCC_RAW = os.getenv("MAILTO", "").strip()
         EMAIL_BCC_LIST = [email.strip() for email in EMAIL_BCC_RAW.split(",") if email.strip()]
         recipients = list(set([EMAIL_FROM] + EMAIL_BCC_LIST)) if EMAIL_FROM else list(set(EMAIL_BCC_LIST))
-
-        if not recipients:
-             logging.error("No recipients configured. Cannot send email.")
-             return
 
         SMTP_PASS = os.getenv("GMAIL_APP_PASSWORD", "")
         if not EMAIL_FROM or not SMTP_PASS:
@@ -864,75 +824,55 @@ def main():
             section += "".join(article_html_parts)
             html_body_parts.append(section)
         
-        preferences_link = "https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing"
-        footer_info = f'{total_articles_in_digest} articles selected by Gemini from {total_headlines_candidate_count} candidates published in the last {MAX_ARTICLE_HOURS} hours, based on your <a href="{preferences_link}" target="_blank">preferences</a>.'
+        footer_info = f'{total_articles_in_digest} articles selected by Gemini based on your preferences.'
         html_body = f"<html><head><style>body {{font-family: sans-serif;}}</style></head><body>{''.join(html_body_parts)}<hr><p style=\"font-size:0.8em; color:#777;\">{footer_info}</p></body></html>"
 
         msg = EmailMessage()
-        current_time_str = datetime.now(ZONE).strftime('%Y-%m-%d %I:%M %p %Z')
-        msg["Subject"] = f"🗞️ News Digest – {current_time_str}"
+        msg["Subject"] = f"🗞️ News Digest – {datetime.now(ZONE).strftime('%Y-%m-%d %I:%M %p %Z')}"
         msg["From"] = EMAIL_FROM
-        if EMAIL_FROM in recipients:
-            msg["To"] = EMAIL_FROM
-        if EMAIL_BCC_LIST:
-            msg["Bcc"] = ", ".join(EMAIL_BCC_LIST)
-        msg.set_content("This is the plain-text version of your news digest. Please enable HTML to view the formatted version.")
+        if EMAIL_FROM in recipients: msg["To"] = EMAIL_FROM
+        if EMAIL_BCC_LIST: msg["Bcc"] = ", ".join(EMAIL_BCC_LIST)
         msg.add_alternative(html_body, subtype="html")
 
         try:
             with smtplib.SMTP("smtp.gmail.com", 587) as server:
-                server.starttls()
-                server.login(EMAIL_FROM, SMTP_PASS)
-                server.send_message(msg)
-            logging.info(f"Digest email sent successfully to: {recipients}.")
+                server.starttls(); server.login(EMAIL_FROM, SMTP_PASS); server.send_message(msg)
+            logging.info(f"Digest email sent successfully.")
 
-            # --- History Update Logic ---
+            # --- History Update ---
             for topic, articles_sent in final_digest_to_email.items():
                 if topic not in history: history[topic] = []
-                current_titles_in_history = {normalize(a['title']) for a in history[topic]}
                 for article in articles_sent:
-                    if normalize(article['title']) not in current_titles_in_history:
-                        history[topic].append({"title": article["title"], "pubDate": article["pubDate"]})
-                history_per_topic_limit = int(CONFIG.get("HISTORY_PER_TOPIC_LIMIT", 40))
-                if len(history[topic]) > history_per_topic_limit:
-                    history[topic] = history[topic][-history_per_topic_limit:]
+                    history[topic].append({"title": article["title"], "pubDate": article["pubDate"]})
+                history[topic] = history[topic][-40:]
 
         except Exception as e:
-            logging.error(f"Email sending failed: {e}", exc_info=True)
+            logging.error(f"Email sending failed: {e}")
 
-        # --- History Pruning and Saving ---
-        history_retention_days = int(CONFIG.get("NEWSBOT_HISTORY_RETENTION_DAYS", 30))
-        time_limit_utc = datetime.now(ZoneInfo("UTC")) - timedelta(days=history_retention_days)
-        pruned_history = {}
-        for topic, articles in history.items():
-            valid_articles = []
-            for article in articles:
+        # --- Pruning & Saving ---
+        retention = int(CONFIG.get("NEWSBOT_HISTORY_RETENTION_DAYS", 30))
+        limit = datetime.now(ZoneInfo("UTC")) - timedelta(days=retention)
+        pruned = {}
+        for topic, arts in history.items():
+            valid = []
+            for a in arts:
                 try:
-                    pub_dt = parsedate_to_datetime(article["pubDate"])
-                    if pub_dt.tzinfo is None: pub_dt = pub_dt.replace(tzinfo=ZoneInfo("UTC"))
-                    if pub_dt >= time_limit_utc:
-                        valid_articles.append(article)
-                except Exception:
-                    valid_articles.append(article) # Keep if date is malformed
-            if valid_articles:
-                pruned_history[topic] = valid_articles
-        history = pruned_history
-
+                    p = parsedate_to_datetime(a["pubDate"])
+                    if (p.astimezone(ZoneInfo("UTC")) if p.tzinfo else p.replace(tzinfo=ZoneInfo("UTC"))) >= limit: valid.append(a)
+                except: valid.append(a)
+            if valid: pruned[topic] = valid
+        
         with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-            json.dump(history, f, indent=2)
-        logging.info(f"History saved to {HISTORY_FILE}")
-
+            json.dump(pruned, f, indent=2)
+        
         if CONFIG.get("ENABLE_GIT_PUSH", False):
             git_push_history_json(HISTORY_FILE, BASE_DIR, ZONE)
-        else:
-            logging.info("Git push for history.json is disabled in config.")
 
     except Exception as e:
-        logging.critical(f"An unhandled error occurred in main: {e}", exc_info=True)
+        logging.critical(f"Main error: {e}", exc_info=True)
     finally:
-        if os.path.exists(LOCKFILE):
-            os.remove(LOCKFILE)
-        logging.info(f"Lockfile released. Script finished at {datetime.now(ZONE).strftime('%Y-%m-%d %H:%M:%S %Z')}")
+        if os.path.exists(LOCKFILE): os.remove(LOCKFILE)
+        logging.info(f"Script finished at {datetime.now(ZONE)}")
              
 if __name__ == "__main__":
     main()
