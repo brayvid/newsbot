@@ -107,6 +107,10 @@
     {
       "title": "Algorithms Now Discover And Write Scientific Papers Autonomously - Quantum Zeitgeist",
       "pubDate": "Sat, 11 Apr 2026 15:55:22 GMT"
+    },
+    {
+      "title": "Meta Artificial Intelligence: Menlo Park company building A.I. version of CEO Mark Zuckerberg, report says - ABC7 San Francisco",
+      "pubDate": "Wed, 15 Apr 2026 22:14:59 GMT"
     }
   ],
   "Israel": [
@@ -373,6 +377,10 @@
     {
       "title": "Trump says China has agreed not to send weapons to Iran - The Washington Post",
       "pubDate": "Wed, 15 Apr 2026 22:20:41 GMT"
+    },
+    {
+      "title": "China economic growth accelerates to 5% in first quarter, beating expectations, on robust exports - CNBC",
+      "pubDate": "Thu, 16 Apr 2026 02:04:00 GMT"
     }
   ],
   "AI Safety": [
@@ -471,6 +479,10 @@
     {
       "title": "Project Glasswing: Securing critical software for the AI era - Anthropic",
       "pubDate": "Tue, 14 Apr 2026 10:47:47 GMT"
+    },
+    {
+      "title": "How Anthropic Learned Mythos Was Too Dangerous for the Wild - Bloomberg.com",
+      "pubDate": "Thu, 16 Apr 2026 00:20:00 GMT"
     }
   ],
   "Cybersecurity": [
@@ -741,10 +753,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran War Live Updates: Israel Strikes Beirut as Iran's Supreme Leader Says Strait of Hormuz Must Remain Closed - The New York Times",
-      "pubDate": "Thu, 12 Mar 2026 22:42:10 GMT"
-    },
-    {
       "title": "Iran War Live Updates: U.S. Refueling Plane Crashes in Iraq, Military Says - The New York Times",
       "pubDate": "Fri, 13 Mar 2026 04:30:39 GMT"
     },
@@ -899,6 +907,10 @@
     {
       "title": "Economic shock from Iran war risks driving up global debt levels, says IMF - The Guardian",
       "pubDate": "Wed, 15 Apr 2026 18:16:00 GMT"
+    },
+    {
+      "title": "Hopes grow for a breakthrough in US-Iran talks as Pakistan mediates - Al Jazeera",
+      "pubDate": "Thu, 16 Apr 2026 03:42:41 GMT"
     }
   ],
   "Climate": [
@@ -2511,6 +2523,10 @@
     {
       "title": "Rep. Eric Swalwell of California says he will resign from Congress after sexual assault allegations - PBS",
       "pubDate": "Mon, 13 Apr 2026 21:50:39 GMT"
+    },
+    {
+      "title": "John Eastman disbarred in California over efforts to overturn 2020 election - The Hill",
+      "pubDate": "Wed, 15 Apr 2026 22:08:00 GMT"
     }
   ],
   "Protests": [
@@ -2529,6 +2545,18 @@
     {
       "title": "Graphene just defied a fundamental law of physics - ScienceDaily",
       "pubDate": "Wed, 15 Apr 2026 19:25:35 GMT"
+    }
+  ],
+  "Apple": [
+    {
+      "title": "Apple Sends Siri Staffers to Coding \u2018Bootcamp\u2019 in Latest Shakeup For Organization - The Information",
+      "pubDate": "Wed, 15 Apr 2026 19:44:00 GMT"
+    }
+  ],
+  "Jerome Powell": [
+    {
+      "title": "Trump renews his threat to fire Jerome Powell - Semafor",
+      "pubDate": "Wed, 15 Apr 2026 22:37:00 GMT"
     }
   ]
 }
