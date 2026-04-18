@@ -187,6 +187,10 @@
     {
       "title": "Widespread Russian attacks hit Ukraine as Ukraine targets Russian industrial areas - PBS",
       "pubDate": "Sat, 18 Apr 2026 14:14:01 GMT"
+    },
+    {
+      "title": "Investigators examine whether Ukraine terrorist attack was directed by Russia - The Guardian",
+      "pubDate": "Sat, 18 Apr 2026 21:19:00 GMT"
     }
   ],
   "Russia": [
@@ -789,10 +793,6 @@
   ],
   "Iran": [
     {
-      "title": "How one of Iran's most destructive weapons could threaten the U.S. - Axios",
-      "pubDate": "Fri, 13 Mar 2026 16:36:37 GMT"
-    },
-    {
       "title": "Trump urges UK and others to send ships to help secure Strait of Hormuz after Iranian attacks - live updates - BBC",
       "pubDate": "Sat, 14 Mar 2026 16:35:14 GMT"
     },
@@ -947,6 +947,10 @@
     {
       "title": "Iran closes Strait of Hormuz again over US blockade and fires on ships - AP News",
       "pubDate": "Sat, 18 Apr 2026 15:31:00 GMT"
+    },
+    {
+      "title": "Iran fully closes Strait of Hormuz over US blockade and fires on ships - AP News",
+      "pubDate": "Sat, 18 Apr 2026 20:55:00 GMT"
     }
   ],
   "Climate": [
@@ -1855,6 +1859,10 @@
     {
       "title": "Trump signs order to speed up review of psychedelic drugs for mental health treatment - NBC News",
       "pubDate": "Sat, 18 Apr 2026 15:27:30 GMT"
+    },
+    {
+      "title": "Trump signs order fast tracking review of psychedelics for mental health disorders - NPR",
+      "pubDate": "Sat, 18 Apr 2026 18:56:06 GMT"
     }
   ],
   "US Treasury": [
@@ -2697,6 +2705,12 @@
     {
       "title": "US Navy seizes Iranian tanker near Chinese warship in Strait of Hormuz - Crypto Briefing",
       "pubDate": "Sat, 18 Apr 2026 03:43:00 GMT"
+    }
+  ],
+  "Tesla": [
+    {
+      "title": "Tesla expands robotaxi service to Dallas, Houston - Reuters",
+      "pubDate": "Sat, 18 Apr 2026 20:41:40 GMT"
     }
   ]
 }
