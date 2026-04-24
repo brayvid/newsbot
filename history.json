@@ -215,6 +215,10 @@
     {
       "title": "Ukraine completes Druzhba pipeline repairs, hoping to unlock blocked EU loan - AP News",
       "pubDate": "Tue, 21 Apr 2026 18:34:00 GMT"
+    },
+    {
+      "title": "Ukrainian soldiers left emaciated on frontline from lack of food and water - The Guardian",
+      "pubDate": "Fri, 24 Apr 2026 14:43:00 GMT"
     }
   ],
   "Russia": [
@@ -445,6 +449,10 @@
     {
       "title": "U.S. accuses China of \"industrial-scale\" campaigns to steal AI secrets - Axios",
       "pubDate": "Thu, 23 Apr 2026 20:21:14 GMT"
+    },
+    {
+      "title": "China to curb US investment in tech companies, Bloomberg News reports - Reuters",
+      "pubDate": "Fri, 24 Apr 2026 17:20:42 GMT"
     }
   ],
   "AI Safety": [
@@ -849,10 +857,6 @@
   ],
   "Iran": [
     {
-      "title": "Israel says Iran's security chief Ali Larijani has been killed in strike - BBC",
-      "pubDate": "Tue, 17 Mar 2026 10:44:21 GMT"
-    },
-    {
       "title": "U.S. counterterrorism director Joe Kent resigns over war: 'Iran posed no imminent threat' - CNBC",
       "pubDate": "Tue, 17 Mar 2026 14:14:29 GMT"
     },
@@ -1007,6 +1011,10 @@
     {
       "title": "Trump says US will not use nuclear weapon in Iran war - Reuters",
       "pubDate": "Thu, 23 Apr 2026 23:22:14 GMT"
+    },
+    {
+      "title": "US Navy ordered to \u2018shoot and kill\u2019 alleged Iranian mine-laying boats amid ceasefire - Defense One",
+      "pubDate": "Fri, 24 Apr 2026 15:33:06 GMT"
     }
   ],
   "Climate": [
@@ -1667,6 +1675,10 @@
     {
       "title": "Anthropic's growing pains mount ahead of OpenAI showdown - Axios",
       "pubDate": "Thu, 23 Apr 2026 09:24:56 GMT"
+    },
+    {
+      "title": "Google Plans to Invest Up to $40 Billion in Anthropic - Bloomberg.com",
+      "pubDate": "Fri, 24 Apr 2026 15:50:18 GMT"
     }
   ],
   "Drone Warfare": [
@@ -2459,6 +2471,10 @@
     {
       "title": "America is heading for a recession \u2014 and it may be the worst yet - The Hill",
       "pubDate": "Sat, 04 Apr 2026 15:00:00 GMT"
+    },
+    {
+      "title": "Could the standoff in the Strait of Hormuz trigger a global recession? Economists weigh in - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Fri, 24 Apr 2026 18:16:23 GMT"
     }
   ],
   "Hacking": [
@@ -2947,6 +2963,12 @@
     {
       "title": "Ukraine\u2019s Tencore and France\u2019s Shark Robotics launch joint venture - The Defence Blog",
       "pubDate": "Thu, 23 Apr 2026 08:31:38 GMT"
+    }
+  ],
+  "Layoffs": [
+    {
+      "title": "Meta and Microsoft announce layoffs as new AI-driven capabilities meet tech 'rightsizing' - CNBC",
+      "pubDate": "Fri, 24 Apr 2026 18:29:25 GMT"
     }
   ]
 }
