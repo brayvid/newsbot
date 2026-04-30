@@ -128,6 +128,7 @@ MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
 DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR", 0.5))
 MATCH_THRESHOLD = float(CONFIG.get("DEDUPLICATION_MATCH_THRESHOLD", 0.4)) 
 GEMINI_MODEL_NAME = CONFIG.get("GEMINI_MODEL_NAME", "gemini-2.5-flash") 
+MAX_CANDIDATES_FOR_LLM = int(CONFIG.get("MAX_CANDIDATES_FOR_LLM", 150))
 BATCH_SIZE = 10 # Consolidated fetching size
 
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
@@ -236,22 +237,12 @@ def load_recent_headlines_from_history(history_data: dict, max_headlines: int) -
     all_articles.sort(key=get_date_key, reverse=True)
     return [article['title'] for article in all_articles[:max_headlines]]
 
-def safe_parse_json(raw_json_string: str) -> dict:
-    if not raw_json_string: return {}
-    text = re.sub(r"^```(?:json)?\s*", "", raw_json_string.strip())
-    text = re.sub(r"\s*```$", "", text).strip()
-    try: return json.loads(text)
-    except:
-        text = text.replace("“", '"').replace("”", '"').replace("True", "true").replace("False", "false")
-        try: return ast.literal_eval(text) if isinstance(ast.literal_eval(text), dict) else {}
-        except: return {}
-
 def contains_banned_keyword(text, banned_terms):
     if not text: return False
     norm_text = normalize(text)
     return any(banned_term in norm_text for banned_term in banned_terms if banned_term)
 
-# --- Tool Definition ---
+# --- Tool Definition & LLM Logic ---
 digest_tool_schema = {
     "type": "object",
     "properties": {
@@ -261,9 +252,13 @@ digest_tool_schema = {
                 "type": "object",
                 "properties": {
                     "topic_name": {"type": "string"},
-                    "headlines": {"type": "array", "items": {"type": "string"}}
+                    "selected_article_ids": {"type": "array", "items": {"type": "string"}},
+                    "importance_rank": {
+                        "type": "integer",
+                        "description": "A numerical rank for the topic's importance (1 is the most important, 2 is second most important, etc.). This field is mandatory."
+                    }
                 },
-                "required": ["topic_name", "headlines"]
+                "required": ["topic_name", "selected_article_ids", "importance_rank"]
             }
         }
     },
@@ -271,27 +266,49 @@ digest_tool_schema = {
 }
 
 SELECT_DIGEST_ARTICLES_TOOL = Tool(
-    function_declarations=[FunctionDeclaration(name="format_digest_selection", description="Curate selection.", parameters=digest_tool_schema)]
+    function_declarations=[
+        FunctionDeclaration(
+            name="format_digest_selection", 
+            description="Formats the selected news articles using their unique IDs and assigns an importance rank to each topic.", 
+            parameters=digest_tool_schema
+        )
+    ]
 )
 
-def prioritize_with_gemini(headlines_to_send: dict, digest_history: list, gemini_api_key: str, topic_weights: dict, keyword_weights: dict, overrides: dict) -> dict:
+def prioritize_with_gemini(candidates_to_send: list, digest_history: list, gemini_api_key: str, topic_weights: dict, keyword_weights: dict, overrides: dict) -> list:
     genai.configure(api_key=gemini_api_key)
     model = genai.GenerativeModel(model_name=GEMINI_MODEL_NAME, tools=[SELECT_DIGEST_ARTICLES_TOOL])
-    pref_data = {"topic_weights": topic_weights, "keyword_weights": keyword_weights, "banned_terms": [k for k, v in overrides.items() if v == "ban"], "demoted_terms": [k for k, v in overrides.items() if v == "demote"]}
+    
+    # Exact original preference logic
+    pref_data = {
+        "topic_weights": topic_weights, 
+        "keyword_weights": keyword_weights, 
+        "banned_terms": [k for k, v in overrides.items() if v == "ban"], 
+        "demoted_terms": [k for k, v in overrides.items() if v == "demote"]
+    }
 
+    # EXACT ORIGINAL PROMPT
     prompt = (
         "You are an Advanced News Synthesis Engine. Your function is to act as an expert, hyper-critical news curator. Your single most important mission is to produce a high-signal, non-redundant, and deeply relevant news digest for a user. You must be ruthless in eliminating noise, repetition, and low-quality content.\n\n"
         f"### Inputs Provided\n1.  **User Preferences:**\n```json\n{json.dumps(pref_data, indent=2)}\n```\n"
-        f"2.  **Candidate Headlines:**\n```json\n{json.dumps(dict(sorted(headlines_to_send.items())), indent=2)}\n```\n"
+        f"2.  **Candidate Articles:** Each article has a unique `id` for you to reference.\n```json\n{json.dumps(candidates_to_send, indent=2)}\n```\n"
         f"3.  **Digest History:**\n```json\n{json.dumps(digest_history, indent=2)}\n```\n\n"
         "### Core Processing Pipeline (Follow these steps sequentially)\n\n"
-        "**Step 1: Cross-Topic Semantic Clustering & Deduplication (CRITICAL FIRST STEP)**\nFirst, analyze ALL `Candidate Headlines`. identify and group all headlines from ALL topics that cover the same core news event.\n"
-        "**Step 2: History-Based Filtering**\nCompare champion against `Digest History`. If idential event, DISCARD.\n"
-        "**Step 3: Rigorous Relevance & Quality Filtering**\n"
-        f"*   **Output Limits:** Strictly {MAX_TOPICS} topics and {MAX_ARTICLES_PER_TOPIC} headlines per topic.\n"
-        "*   **Content Quality & Style (CRITICAL):** REJECT Sensationalist, Clickbait, Fluff, or biased Op-eds.\n"
-        "**Step 4: Final Selection and Ordering**\nOrder topics and headlines from most to least significant.\n\n"
-        "### Final Output\nUse the 'format_digest_selection' tool."
+        "**Step 1: Cross-Topic Semantic Clustering & Deduplication (CRITICAL FIRST STEP)**\nFirst, analyze ALL `Candidate Articles`. Your primary task is to identify and group all articles from ALL topics that cover the same core news event. From each cluster, select ONLY ONE article—the one that is the most comprehensive, recent, objective, and authoritative. Discard all other articles in that cluster immediately.\n\n"
+        "**Step 2: History-Based Filtering**\nNow, take your deduplicated list of 'champion' articles. Compare each one against the `Digest History`. If any of your champion articles reports on the exact same event that has already been sent, DISCARD it.\n\n"
+        "**Step 3: Rigorous Relevance & Quality Filtering**\nFor the remaining, unique, and new articles, apply the following strict filtering criteria with full force:\n"
+        f"*   **Output Limits:** Adhere strictly to a maximum of **{MAX_TOPICS} topics** and **{MAX_ARTICLES_PER_TOPIC} headlines** per topic.\n"
+        "*   **Audience Focus (CRITICAL):** The digest is for a **US-specific audience**. AGGRESSIVELY REJECT articles about local or regional events outside the United States that have no significant impact on a US audience (e.g., local elections in other countries, regional crime stories, municipal news). Retain international news only if it has a clear and significant impact on US interests, politics, or the economy.\n"
+        "*   **Headline Informativeness (CRITICAL):** Prioritize headlines that are self-contained statements of fact. AGGRESSIVELY REJECT or heavily down-rank 'content-free' headlines. This includes:\n"
+        "    *   **Vague Teasers:** Headlines that require a click to understand the basic story (e.g., 'Here's what experts are saying about the economy').\n"
+        "    *   **Unanswered Questions:** Headlines phrased as questions without providing the answer (e.g., 'Will the new law pass?').\n"
+        "    *   **Simple Topic Labels:** Headlines that just name a subject without reporting an event (e.g., 'A Look at the Housing Market').\n"
+        "    *   **Instead, select headlines that deliver the core news directly.** For example, prefer 'Federal Reserve Holds Interest Rates Steady Amid Inflation Concerns' over 'What Will the Federal Reserve Do Next?'.\n"
+        "*   **Content Quality & Style (CRITICAL):** AGGRESSIVELY AVOID AND REJECT headlines that are: Sensationalist, celebrity gossip, clickbait, primarily opinion/op-ed pieces, or resemble 'hot stock tips'. Focus on content-rich, factual, objective reporting.\n\n"
+        "**Step 4: Final Selection and Ranking**\nFrom the fully filtered and vetted pool of articles, make your final selection. **For each topic you select, you must assign a numerical `importance_rank`, where 1 is the most significant topic.**\n\n"
+        "### Final Output\n"
+        "Based on this rigorous process, provide your final, curated selection using the 'format_digest_selection' tool. "
+        "You must populate the mandatory `importance_rank` for every topic and return the unique `id` of each selected article."
     )
 
     for attempt in range(3):
@@ -300,17 +317,36 @@ def prioritize_with_gemini(headlines_to_send: dict, digest_history: list, gemini
             if response.candidates and response.candidates[0].content.parts:
                 for part in response.candidates[0].content.parts:
                     if hasattr(part, 'function_call') and part.function_call:
+                        # Extract args safely from google.generativeai response wrapper
                         args = part.function_call.args
-                        transformed = {}
-                        entries = args.get("selected_digest_entries", [])
-                        for entry in entries: transformed[entry.get("topic_name").strip()] = list(entry.get("headlines", []))
-                        return transformed
-            return {}
+                        try:
+                            entries = args["selected_digest_entries"]
+                        except Exception:
+                            entries = getattr(args, "selected_digest_entries", [])
+                        
+                        ranked_results = []
+                        for entry in entries:
+                            try:
+                                topic = entry["topic_name"]
+                                rank = entry.get("importance_rank", 99)
+                                article_ids = [str(aid) for aid in entry.get("selected_article_ids", [])]
+                            except Exception:
+                                # Fallback if items are mapping properties rather than dict keys
+                                topic = getattr(entry, "topic_name", None)
+                                rank = getattr(entry, "importance_rank", 99)
+                                article_ids = [str(aid) for aid in getattr(entry, "selected_article_ids", [])]
+
+                            if topic and article_ids: 
+                                ranked_results.append((int(rank), topic.strip(), article_ids))
+                        
+                        ranked_results.sort()
+                        return ranked_results
+            return []
         except Exception as e:
             if "503" in str(e) and attempt < 2:
                 logging.warning("Gemini busy. Retrying in 10s..."); time.sleep(10); continue
-            logging.error(f"Gemini error: {e}"); return {}
-    return {}
+            logging.error(f"Gemini error: {e}"); return []
+    return []
     
 def git_push_history_json(history_file_path, base_dir, zone_for_commit_msg):
     try:
@@ -334,7 +370,6 @@ def main():
 
     try:
         gemini_api_key = os.getenv("GEMINI_API_KEY")
-        headlines_to_send, full_articles_map = {}, {}
         banned_terms = [k for k, v in OVERRIDES.items() if v == "ban"]
         fetch_limit = int(CONFIG.get("ARTICLES_TO_FETCH_PER_TOPIC", 20))
 
@@ -344,6 +379,10 @@ def main():
         batches = [topic_keys[i:i + BATCH_SIZE] for i in range(0, len(topic_keys), BATCH_SIZE)]
 
         logging.info(f"--- Starting Batched Article Fetching ({len(batches)} batches) ---")
+        
+        candidates_for_gemini = []
+        id_to_article_map = {}
+        article_counter = 0
 
         for batch in batches:
             articles_for_batch = fetch_articles_for_batch(batch, fetch_limit)
@@ -351,6 +390,8 @@ def main():
 
             for article in articles_for_batch:
                 title, norm_art_title = article['title'], normalize(article['title'])
+                
+                # Check history & bans
                 if is_in_history(title, history, MATCH_THRESHOLD) or contains_banned_keyword(title, banned_terms): continue
                 
                 # Robust Attribution Logic
@@ -363,27 +404,42 @@ def main():
                 
                 if not best_topic: best_topic = max(batch, key=lambda t: TOPIC_WEIGHTS.get(t, 0))
                 
-                headlines_to_send.setdefault(best_topic, []).append(title)
-                full_articles_map[norm_art_title] = article 
+                # Assign ID for exact prompt logic
+                aid = f"art_{article_counter:03d}"
+                candidates_for_gemini.append({
+                    "id": aid, 
+                    "topic": best_topic, 
+                    "title": title
+                })
+                id_to_article_map[aid] = article
+                article_counter += 1
 
-        if not headlines_to_send: return
+        if not candidates_for_gemini: 
+            logging.info("No candidates generated. Exiting.")
+            return
 
-        selected_digest_content = prioritize_with_gemini(headlines_to_send, recent_headlines_for_llm, gemini_api_key, TOPIC_WEIGHTS, KEYWORD_WEIGHTS, OVERRIDES)
-        if not selected_digest_content: return
+        # Cap candidates to prevent massive token usage
+        candidates_for_gemini = candidates_for_gemini[:MAX_CANDIDATES_FOR_LLM]
         
-        final_digest_to_email, processed_norm_titles = {}, set()
-        for topic, titles_from_gemini in selected_digest_content.items():
-            valid_arts = []
-            for t in titles_from_gemini[:MAX_ARTICLES_PER_TOPIC]:
-                norm_t = normalize(t)
-                if norm_t in processed_norm_titles: continue
-                data = full_articles_map.get(norm_t)
-                if data: valid_arts.append(data); processed_norm_titles.add(norm_t)
-                else:
-                    for stored_norm, stored_data in full_articles_map.items():
-                        if norm_t in stored_norm and stored_norm not in processed_norm_titles:
-                            valid_arts.append(stored_data); processed_norm_titles.add(stored_norm); break
-            if valid_arts: final_digest_to_email[topic] = valid_arts
+        # --- GEMINI PRIORITIZATION ---
+        ranked_topics_from_gemini = prioritize_with_gemini(
+            candidates_for_gemini, recent_headlines_for_llm, gemini_api_key, 
+            TOPIC_WEIGHTS, KEYWORD_WEIGHTS, OVERRIDES
+        )
+
+        if not ranked_topics_from_gemini: return
+        
+        # --- RECONSTRUCT DIGEST WITH IDs ---
+        final_digest_to_email = {}
+        seen_ids = set()
+        for rank, topic, aids in ranked_topics_from_gemini[:MAX_TOPICS]:
+            topic_arts = []
+            for aid in aids[:MAX_ARTICLES_PER_TOPIC]:
+                if aid in seen_ids or aid not in id_to_article_map: continue
+                topic_arts.append(id_to_article_map[aid])
+                seen_ids.add(aid)
+            if topic_arts:
+                final_digest_to_email[topic] = topic_arts
 
         if not final_digest_to_email: return
 
@@ -396,7 +452,7 @@ def main():
             section = f'<h3>{html.escape(topic)}</h3>'
             for art in articles:
                 date_str = to_user_timezone(parsedate_to_datetime(art["pubDate"])).strftime("%a, %d %b %Y %I:%M %p")
-                section += f'<p>📰 <a href="{art["link"]}">{html.escape(art["title"])}</a><br><small>{date_str}</small></p>'
+                section += f'<p>📰 <a href="{art["link"]}">{html.escape(art["title"])}</a><br><small>📅 {date_str}</small></p>'
             html_body_parts.append(section)
         
         msg = EmailMessage()
