@@ -977,10 +977,6 @@
   ],
   "Iran": [
     {
-      "title": "US may remove sanctions on Iranian oil stranded in tankers, Bessent says - Reuters",
-      "pubDate": "Thu, 19 Mar 2026 13:18:32 GMT"
-    },
-    {
       "title": "Middle East crisis live: Israel strikes Tehran; Netanyahu suggests need for \u2018ground component\u2019 in Iran war - The Guardian",
       "pubDate": "Fri, 20 Mar 2026 09:53:00 GMT"
     },
@@ -1135,6 +1131,10 @@
     {
       "title": "Under US law, Trump faces an impending deadline to end the Iran war. What happens if he ignores it? - The Conversation",
       "pubDate": "Wed, 29 Apr 2026 02:43:00 GMT"
+    },
+    {
+      "title": "U.S. launches mission to guide ships through the Strait of Hormuz; Iran threatens attacks - NBC News",
+      "pubDate": "Mon, 04 May 2026 10:06:12 GMT"
     }
   ],
   "Climate": [
@@ -1449,6 +1449,10 @@
     {
       "title": "U.S. military prepares to board Iran-linked ships in int'l waters: report - Xinhua",
       "pubDate": "Sat, 18 Apr 2026 17:29:15 GMT"
+    },
+    {
+      "title": "Swisscom says AI and geopolitics are reshaping the cyber threat landscape - Digital Watch Observatory",
+      "pubDate": "Mon, 04 May 2026 09:48:07 GMT"
     }
   ],
   "AI Ethics": [
@@ -2557,6 +2561,10 @@
     {
       "title": "AP Exclusive: Europe has \u2018maybe 6 weeks of jet fuel left,\u2019 energy agency head warns - AP News",
       "pubDate": "Thu, 16 Apr 2026 18:52:00 GMT"
+    },
+    {
+      "title": "European leaders see Trump's troop drawdown from Germany as new proof they must go it alone - AP News",
+      "pubDate": "Mon, 04 May 2026 08:48:00 GMT"
     }
   ],
   "AI Technology": [
@@ -3213,6 +3221,10 @@
     {
       "title": "Sam Altman's \"proof of human\" company pushes into mainstream services - Axios",
       "pubDate": "Fri, 17 Apr 2026 17:38:42 GMT"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman warns \u2018AI washing\u2019 is real, but tech-related job displacement is on the way - Fortune",
+      "pubDate": "Mon, 04 May 2026 10:20:34 GMT"
     }
   ],
   "California": [
@@ -3231,12 +3243,20 @@
     {
       "title": "Strait of Hormuz Fears Send California Gas Past $6 a Gallon - Crude Oil Prices Today | OilPrice.com",
       "pubDate": "Thu, 30 Apr 2026 14:30:00 GMT"
+    },
+    {
+      "title": "The California wealth tax has a loophole\u2014here\u2019s how much billionaires could save - MarketWatch",
+      "pubDate": "Mon, 04 May 2026 09:05:00 GMT"
     }
   ],
   "Protests": [
     {
       "title": "Iran Sentences First Woman to Death Over Protests as Four Face Execution in Tehran Crackdown - The Media Line",
       "pubDate": "Wed, 15 Apr 2026 20:35:21 GMT"
+    },
+    {
+      "title": "Iran hangs 3 people over involvement in anti-government protests - CBS News",
+      "pubDate": "Mon, 04 May 2026 10:41:00 GMT"
     }
   ],
   "US Air Force": [
@@ -3567,6 +3587,12 @@
     {
       "title": "54% of New Yorkers back Mamdani's 'tax the rich' plan as Hochul draws the line on new income taxes - moneywise.com",
       "pubDate": "Sun, 03 May 2026 15:25:08 GMT"
+    }
+  ],
+  "Interest Rates": [
+    {
+      "title": "Take Two: Central banks leave interest rates unchanged, and oil prices rise - BNP Paribas Asset Management",
+      "pubDate": "Mon, 04 May 2026 09:04:47 GMT"
     }
   ]
 }
