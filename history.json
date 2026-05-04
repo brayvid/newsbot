@@ -239,6 +239,10 @@
     {
       "title": "As Trump focuses on Iran, Europe and Ukraine strengthen ties - Politico",
       "pubDate": "Fri, 01 May 2026 14:00:00 GMT"
+    },
+    {
+      "title": "The Vanguard State: How Ukraine is Redefining the Character of War - RealClearDefense",
+      "pubDate": "Mon, 04 May 2026 09:47:46 GMT"
     }
   ],
   "Russia": [
@@ -313,6 +317,10 @@
     {
       "title": "Iran's enriched uranium likely at Isfahan, IAEA discusses extraction with Russia, US - report - The Jerusalem Post",
       "pubDate": "Sat, 02 May 2026 02:43:59 GMT"
+    },
+    {
+      "title": "Russia tightens Putin security amid assassination fears as president retreats to bunkers - report - i24NEWS",
+      "pubDate": "Mon, 04 May 2026 04:54:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -2227,6 +2235,10 @@
     {
       "title": "Medicare Advantage health plans may cut extra benefits in 2027 - Reuters",
       "pubDate": "Fri, 01 May 2026 11:25:00 GMT"
+    },
+    {
+      "title": "Enzo Health raises $20M to expand AI home health platform - MobiHealthNews",
+      "pubDate": "Mon, 04 May 2026 16:07:24 GMT"
     }
   ],
   "US Treasury": [
@@ -3593,6 +3605,24 @@
     {
       "title": "Take Two: Central banks leave interest rates unchanged, and oil prices rise - BNP Paribas Asset Management",
       "pubDate": "Mon, 04 May 2026 09:04:47 GMT"
+    }
+  ],
+  "Redistricting": [
+    {
+      "title": "Breaking down the redistricting arms race following the Supreme Court's VRA ruling - Politico",
+      "pubDate": "Mon, 04 May 2026 15:16:53 GMT"
+    }
+  ],
+  "Software": [
+    {
+      "title": "UK\u2019s NCSC warns AI could expose software vulnerabilities at scale - Digital Watch Observatory",
+      "pubDate": "Mon, 04 May 2026 10:24:34 GMT"
+    }
+  ],
+  "Neil Gorsuch": [
+    {
+      "title": "Justice Neil Gorsuch: \u2018Aspirations for Power Need To Be Checked\u2019 - Reason Magazine",
+      "pubDate": "Mon, 04 May 2026 15:00:58 GMT"
     }
   ]
 }
