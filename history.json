@@ -989,10 +989,6 @@
   ],
   "Iran": [
     {
-      "title": "Middle East crisis live: Israel strikes Tehran; Netanyahu suggests need for \u2018ground component\u2019 in Iran war - The Guardian",
-      "pubDate": "Fri, 20 Mar 2026 09:53:00 GMT"
-    },
-    {
       "title": "Iran strikes threaten to raise LNG prices for Asia, Europe - The Hill",
       "pubDate": "Fri, 20 Mar 2026 22:47:49 GMT"
     },
@@ -1147,6 +1143,10 @@
     {
       "title": "U.S. launches mission to guide ships through the Strait of Hormuz; Iran threatens attacks - NBC News",
       "pubDate": "Mon, 04 May 2026 10:06:12 GMT"
+    },
+    {
+      "title": "U.S. and Iran exchange new proposals to end war - PBS",
+      "pubDate": "Wed, 06 May 2026 22:55:34 GMT"
     }
   ],
   "Climate": [
@@ -1375,6 +1375,10 @@
     {
       "title": "Evalauating the Pentagon's AI Workflows - RealClearDefense",
       "pubDate": "Wed, 06 May 2026 10:36:13 GMT"
+    },
+    {
+      "title": "The Pentagon\u2019s Retaliation Campaign Against Senator Kelly Is Unconstitutional - Cato Institute",
+      "pubDate": "Wed, 06 May 2026 19:14:38 GMT"
     }
   ],
   "US Politics": [
@@ -1695,6 +1699,10 @@
     {
       "title": "Congress Never Regulated Social Media. Here Comes AI. - Wake Up To Politics | Gabe Fleisher",
       "pubDate": "Mon, 04 May 2026 12:17:50 GMT"
+    },
+    {
+      "title": "States Are Increasingly Trying to Keep Kids Off Social Media - Governing",
+      "pubDate": "Thu, 07 May 2026 04:07:18 GMT"
     }
   ],
   "Taiwan": [
@@ -2909,6 +2917,10 @@
     {
       "title": "'I was addicted to hacking' | Teen tells how gaming led to cybercrime, breaching nationwide school systems, including Texas - WFAA",
       "pubDate": "Sat, 02 May 2026 02:58:00 GMT"
+    },
+    {
+      "title": "Revealed: Russia\u2019s top secret spy school teaching hacking and election meddling - The Guardian",
+      "pubDate": "Thu, 07 May 2026 04:00:00 GMT"
     }
   ],
   "Deep Learning": [
@@ -3595,6 +3607,10 @@
     {
       "title": "ITC Recommends Trump Impose Tariffs On Quartz Surfaces - Law360",
       "pubDate": "Tue, 05 May 2026 23:44:00 GMT"
+    },
+    {
+      "title": "USTR to review China tariffs as Section 301 takes center stage - Supply Chain Dive",
+      "pubDate": "Wed, 06 May 2026 20:10:47 GMT"
     }
   ],
   "2026 Midterm Elections": [
@@ -3899,6 +3915,18 @@
     {
       "title": "Curiosity Drilled Into a Rock on Mars And Gave Scientists a Big Surprise - ScienceAlert",
       "pubDate": "Wed, 06 May 2026 18:05:25 GMT"
+    }
+  ],
+  "Computing": [
+    {
+      "title": "Anthropic reaches deal with SpaceX to tap into computing resources in AI push - The Globe and Mail",
+      "pubDate": "Wed, 06 May 2026 19:49:35 GMT"
+    }
+  ],
+  "Public Health": [
+    {
+      "title": "America Eliminated Measles 25 Years Ago. Now, the U.S. is About to Lose One Of Its Biggest Public Health Wins - ZME Science",
+      "pubDate": "Wed, 06 May 2026 21:55:51 GMT"
     }
   ]
 }
