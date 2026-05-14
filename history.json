@@ -1045,10 +1045,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran's military doctrine shifts from defensive to offensive: Senior commander - PressTV",
-      "pubDate": "Sun, 22 Mar 2026 14:05:00 GMT"
-    },
-    {
       "title": "Middle East crisis live: IEA chief says Iran war energy crunch worse than 1970s oil crises and Ukraine war combined - The Guardian",
       "pubDate": "Mon, 23 Mar 2026 04:34:00 GMT"
     },
@@ -1203,6 +1199,10 @@
     {
       "title": "Iran war is crushing Asia\u2019s farmers, threatening global food supply - The Washington Post",
       "pubDate": "Sat, 09 May 2026 10:32:18 GMT"
+    },
+    {
+      "title": "Chinese Firms Plot Secret Arms Sales to Iran, U.S. Officials Say - The New York Times",
+      "pubDate": "Wed, 13 May 2026 18:06:05 GMT"
     }
   ],
   "Climate": [
@@ -1803,6 +1803,10 @@
     {
       "title": "States Are Increasingly Trying to Keep Kids Off Social Media - Governing",
       "pubDate": "Thu, 07 May 2026 04:07:18 GMT"
+    },
+    {
+      "title": "Meta challenges New Mexico's $3.7 billion plan for teen mental health in social media trial - Reuters",
+      "pubDate": "Wed, 13 May 2026 23:12:09 GMT"
     }
   ],
   "Taiwan": [
@@ -3753,6 +3757,10 @@
     {
       "title": "OpenAI chief Sam Altman denies betraying Elon Musk, defends for-profit push at trial - Reuters",
       "pubDate": "Tue, 12 May 2026 22:06:52 GMT"
+    },
+    {
+      "title": "OpenAI chief Altman has over $2 billion stake in companies that dealt with OpenAI, court filing shows - Reuters",
+      "pubDate": "Wed, 13 May 2026 19:53:54 GMT"
     }
   ],
   "California": [
@@ -3997,6 +4005,10 @@
     {
       "title": "Fed: Rate cuts contingent on Strait of Hormuz \u2013 BNY - FXStreet",
       "pubDate": "Tue, 12 May 2026 07:20:26 GMT"
+    },
+    {
+      "title": "U.K. Pledges Destroyer, Drone-hunting Systems to Strait of Hormuz Mission - USNI News",
+      "pubDate": "Wed, 13 May 2026 19:44:00 GMT"
     }
   ],
   "Robotics": [
@@ -4119,6 +4131,10 @@
     {
       "title": "Rivian Automotive, Inc. (NASDAQ:RIVN) First-Quarter Results: Here's What Analysts Are Forecasting For This Year - Yahoo Finance",
       "pubDate": "Sun, 03 May 2026 14:25:17 GMT"
+    },
+    {
+      "title": "Rivian spinout Mind Robotics lands $400M to push AI robots onto factory floors - SiliconANGLE",
+      "pubDate": "Wed, 13 May 2026 22:41:19 GMT"
     }
   ],
   "Immigration": [
@@ -4401,6 +4417,10 @@
     {
       "title": "Pentagon eyes 3-year cyber training requirement, overriding new Army policy - DefenseScoop",
       "pubDate": "Wed, 06 May 2026 16:02:26 GMT"
+    },
+    {
+      "title": "US Army to fire armed LRPM from BlackHawk for Project Convergence - Janes",
+      "pubDate": "Wed, 13 May 2026 21:33:22 GMT"
     }
   ],
   "Photonics": [
@@ -4751,6 +4771,12 @@
     {
       "title": "New poll finds Thomas Massie may be losing ground with GOP voters ahead of Kentucky primary - whas11.com",
       "pubDate": "Wed, 13 May 2026 21:10:00 GMT"
+    }
+  ],
+  "Data Centers": [
+    {
+      "title": "Proposal calls for three-year mora\u00adtorium on con\u00adstruction of data centers in New York - Spectrum News",
+      "pubDate": "Wed, 13 May 2026 23:12:00 GMT"
     }
   ]
 }
