@@ -1389,6 +1389,10 @@
     {
       "title": "Trump is rolling back climate solutions. What can cities and states do? : The Sunday Story - NPR",
       "pubDate": "Sun, 24 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Climate change alarms are flashing. Washington isn\u2019t paying attention. - E&E News by POLITICO",
+      "pubDate": "Tue, 26 May 2026 10:14:00 GMT"
     }
   ],
   "Drones": [
@@ -4273,6 +4277,10 @@
     {
       "title": "Commentary: Pritzker and Trump agree housing affordability is a major problem. How do we fix it? - The Pantagraph",
       "pubDate": "Sun, 24 May 2026 15:30:00 GMT"
+    },
+    {
+      "title": "Health insurers point fingers over affordability woes - Axios",
+      "pubDate": "Tue, 26 May 2026 09:31:00 GMT"
     }
   ],
   "Florida": [
@@ -4497,6 +4505,10 @@
     {
       "title": "Sam Altman Is Taking a Lot of Punches on the Witness Stand - Mother Jones",
       "pubDate": "Fri, 15 May 2026 02:42:29 GMT"
+    },
+    {
+      "title": "OpenAI CEO Sam Altman: Adoption of AI would not lead to a global 'jobs apocalypse' - Telegraph India",
+      "pubDate": "Tue, 26 May 2026 08:55:32 GMT"
     }
   ],
   "California": [
@@ -4829,6 +4841,10 @@
     {
       "title": "Sec. of State Marco Rubio touts \u2018significant progress\u2019 toward Iran deal - The Bismarck Tribune",
       "pubDate": "Sun, 24 May 2026 19:55:00 GMT"
+    },
+    {
+      "title": "Iran and US forces clash near Strait of Hormuz amid peace talks, Bitcoin briefly dips below $80K - Crypto Briefing",
+      "pubDate": "Tue, 26 May 2026 10:04:07 GMT"
     }
   ],
   "Robotics": [
@@ -5215,6 +5231,10 @@
     {
       "title": "Partisan Mud Fight, or Focus on the Midterms? Redistricting Divides Democrats. - The New York Times",
       "pubDate": "Fri, 22 May 2026 09:01:57 GMT"
+    },
+    {
+      "title": "Redistricting push in Georgia and beyond is a direct assault on Black voters - AJC.com",
+      "pubDate": "Tue, 26 May 2026 10:03:44 GMT"
     }
   ],
   "Software": [
@@ -6147,6 +6167,16 @@
     {
       "title": "Trump Shelves AI Executive Order After Last-Minute Calls - Let's Data Science",
       "pubDate": "Mon, 25 May 2026 03:30:08 GMT"
+    },
+    {
+      "title": "Microsoft and peers curb AI use amid rising token costs - Let's Data Science",
+      "pubDate": "Tue, 26 May 2026 10:16:59 GMT"
+    }
+  ],
+  "AI Agents": [
+    {
+      "title": "Researchers urge treating AI agents as untrusted systems, warning of crypto security risks - Crypto Briefing",
+      "pubDate": "Tue, 26 May 2026 08:37:27 GMT"
     }
   ]
 }
