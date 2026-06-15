@@ -1377,10 +1377,6 @@
   ],
   "Iran": [
     {
-      "title": "European Leaders Demand That U.S. Cease-Fire With Iran Include Lebanon - The New York Times",
-      "pubDate": "Thu, 09 Apr 2026 23:20:13 GMT"
-    },
-    {
       "title": "Strait still shut and Lebanon fighting strains truce as US and Iran aim for first talks - Reuters",
       "pubDate": "Fri, 10 Apr 2026 10:08:08 GMT"
     },
@@ -1535,6 +1531,10 @@
     {
       "title": "U.S. peace deal with Iran in question as Israel strikes Lebanon, Trump warns not to 'blow it' - CNBC",
       "pubDate": "Sun, 14 Jun 2026 14:45:09 GMT"
+    },
+    {
+      "title": "Trump says U.S. deal with Iran \"is now complete,\" authorizes removal of Navy blockade of Strait of Hormuz - CBS News",
+      "pubDate": "Sun, 14 Jun 2026 21:48:00 GMT"
     }
   ],
   "Climate": [
@@ -3611,6 +3611,10 @@
     {
       "title": "Palestinian death toll from Israel-Hamas war surpasses 73,000, Gaza health officials say - KVUE",
       "pubDate": "Sun, 14 Jun 2026 13:18:00 GMT"
+    },
+    {
+      "title": "Nearly half of adults struggled to afford healthcare last year, survey finds - KOTA Territory News",
+      "pubDate": "Mon, 15 Jun 2026 02:00:00 GMT"
     }
   ],
   "US Treasury": [
@@ -3803,6 +3807,10 @@
     {
       "title": "Beyond Ports: China Embeds Itself in African Maritime Networks - Africa Center for Strategic Studies",
       "pubDate": "Wed, 10 Jun 2026 17:51:06 GMT"
+    },
+    {
+      "title": "China in Africa: \u201cChina is not a development escalator\u201d - Table.Briefings",
+      "pubDate": "Sun, 14 Jun 2026 20:13:49 GMT"
     }
   ],
   "Adobe": [
@@ -5111,6 +5119,10 @@
     {
       "title": "Tennessee forging ahead with nuclear fusion project - Johnson City Press",
       "pubDate": "Mon, 08 Jun 2026 20:21:00 GMT"
+    },
+    {
+      "title": "Bringing Nuclear Fusion Closer | NTT STORY | NTT - NTT",
+      "pubDate": "Mon, 15 Jun 2026 01:04:54 GMT"
     }
   ],
   "US Coast Guard": [
@@ -8401,6 +8413,12 @@
     {
       "title": "Mullin on FISA lapse: Threat level \u2018highest it\u2019s ever been\u2019 - The Hill",
       "pubDate": "Sun, 14 Jun 2026 16:33:00 GMT"
+    }
+  ],
+  "Vanguard": [
+    {
+      "title": "Dave Ramsey, Vanguard warn Americans on IRAs, Roth IRAs - thestreet.com",
+      "pubDate": "Sun, 14 Jun 2026 18:43:21 GMT"
     }
   ]
 }
