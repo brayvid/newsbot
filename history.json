@@ -1461,10 +1461,6 @@
   ],
   "Iran": [
     {
-      "title": "Strait still shut and Lebanon fighting strains truce as US and Iran aim for first talks - Reuters",
-      "pubDate": "Fri, 10 Apr 2026 10:08:08 GMT"
-    },
-    {
       "title": "U.S. Moves to Deport Son of Prominent Figure in Iranian Revolution - The New York Times",
       "pubDate": "Sat, 11 Apr 2026 17:56:20 GMT"
     },
@@ -1619,6 +1615,10 @@
     {
       "title": "Trump says U.S. deal with Iran \"is now complete,\" authorizes removal of Navy blockade of Strait of Hormuz - CBS News",
       "pubDate": "Sun, 14 Jun 2026 21:48:00 GMT"
+    },
+    {
+      "title": "Exclusive | Iran Attacks Cargo Ship, Testing Trump\u2019s Deal to Reopen Strait - WSJ",
+      "pubDate": "Thu, 25 Jun 2026 23:40:00 GMT"
     }
   ],
   "Climate": [
@@ -3649,6 +3649,10 @@
     {
       "title": "AI May Help Some Breast Cancer Patients Avoid Unnecessary Chemotherapy - Technology Networks",
       "pubDate": "Wed, 24 Jun 2026 08:16:53 GMT"
+    },
+    {
+      "title": "Court rules for Roundup maker in dispute over cancer warnings on pesticide labels - SCOTUSblog",
+      "pubDate": "Thu, 25 Jun 2026 21:59:00 GMT"
     }
   ],
   "World Economy": [
@@ -5809,6 +5813,10 @@
     {
       "title": "Senate Panel Splits on Trump Affordability Plan - Legis1",
       "pubDate": "Thu, 25 Jun 2026 15:04:21 GMT"
+    },
+    {
+      "title": "Foreign funds help make housing unaffordable, according to research - Phys.org",
+      "pubDate": "Thu, 25 Jun 2026 23:40:01 GMT"
     }
   ],
   "Florida": [
@@ -7623,6 +7631,10 @@
     {
       "title": "Federally Funded Research Backs Tighter Drinking Limits Than US Dietary Guidelines - Medscape",
       "pubDate": "Wed, 10 Jun 2026 06:02:18 GMT"
+    },
+    {
+      "title": "Recon: FDA grants breakthrough designation to gen AI radiology tools; Oncology paper retraction casts doubt on China research - RAPS.org",
+      "pubDate": "Thu, 25 Jun 2026 18:54:00 GMT"
     }
   ],
   "Oracle": [
@@ -9191,6 +9203,10 @@
     {
       "title": "Johnson: Democrats \u2018playing politics\u2019 with FISA over Pulte appointment - The Hill",
       "pubDate": "Wed, 03 Jun 2026 16:20:00 GMT"
+    },
+    {
+      "title": "Trump's GOP split: Mike Johnson meets over SAVE Act, cancelled housing bill, Iran war frustrations - Yahoo",
+      "pubDate": "Fri, 26 Jun 2026 00:40:00 GMT"
     }
   ],
   "Semiconductors": [
@@ -9273,6 +9289,10 @@
     {
       "title": "What Pennsylvania\u2019s AI chatbot lawsuit teaches us about the psychology behind medical trust - The Conversation",
       "pubDate": "Fri, 05 Jun 2026 12:24:30 GMT"
+    },
+    {
+      "title": "Legal sector can use psychology to beat fear of AI - Financial Times",
+      "pubDate": "Thu, 25 Jun 2026 21:30:07 GMT"
     }
   ],
   "AI in Government": [
@@ -9617,6 +9637,12 @@
     {
       "title": "Trump throws Mike Johnson a lifeline on the SAVE Act - Axios",
       "pubDate": "Thu, 25 Jun 2026 22:33:24 GMT"
+    }
+  ],
+  "Information Theory": [
+    {
+      "title": "Trump\u2019s latest declaration of an emergency leaves GOP allies scrambling again - The Washington Post",
+      "pubDate": "Fri, 26 Jun 2026 04:15:20 GMT"
     }
   ]
 }
