@@ -679,10 +679,6 @@
   ],
   "China": [
     {
-      "title": "China is mapping the ocean floor as it prepares for submarine warfare with the U.S. - Reuters",
-      "pubDate": "Tue, 24 Mar 2026 05:00:00 GMT"
-    },
-    {
       "title": "Xi Invites Taiwan\u2019s Opposition Leader to Talk \u2018Peace\u2019 Ahead of Trump Summit - The New York Times",
       "pubDate": "Mon, 30 Mar 2026 10:32:29 GMT"
     },
@@ -837,6 +833,10 @@
     {
       "title": "Expert warns of China\u2019s escalating hybrid warfare - Taipei Times",
       "pubDate": "Fri, 19 Jun 2026 16:00:00 GMT"
+    },
+    {
+      "title": "China warns popular games may provide map data to train foreign military AI - South China Morning Post",
+      "pubDate": "Mon, 29 Jun 2026 11:00:09 GMT"
     }
   ],
   "AI Safety": [
@@ -1297,6 +1297,10 @@
     {
       "title": "White House quiet on OpenAI's Mythos-like model - Axios",
       "pubDate": "Tue, 23 Jun 2026 17:15:07 GMT"
+    },
+    {
+      "title": "Microsoft, OpenAI Face Copyright Lawsuit From Nearly 400 Newspaper Publishers - Benzinga",
+      "pubDate": "Mon, 29 Jun 2026 20:34:43 GMT"
     }
   ],
   "Gaza": [
@@ -1501,6 +1505,10 @@
     {
       "title": "Researchers inspect 40,000 sites, 5,100 species; found massive climate change impact - Interesting Engineering",
       "pubDate": "Sun, 21 Jun 2026 18:43:00 GMT"
+    },
+    {
+      "title": "World Bank to abandon goal to devote 45% of lending resources to climate change projects - Reuters",
+      "pubDate": "Mon, 29 Jun 2026 22:35:43 GMT"
     }
   ],
   "Iran": [
@@ -3385,6 +3393,10 @@
     {
       "title": "Trump\u2019s shift of special education, civil rights from Department of Education worries advocates - Star Tribune",
       "pubDate": "Thu, 18 Jun 2026 21:03:46 GMT"
+    },
+    {
+      "title": "Can DOJ handle the Education Department\u2019s civil rights workload? - Politico",
+      "pubDate": "Mon, 29 Jun 2026 14:00:00 GMT"
     }
   ],
   "Fusion Power": [
@@ -6559,6 +6571,10 @@
     {
       "title": "The $4 Billion Construction Project Turning A Remote US Air Force Base Into America's Primary Stealth Bomber - Simple Flying",
       "pubDate": "Mon, 22 Jun 2026 02:00:00 GMT"
+    },
+    {
+      "title": "U.S. Air Force Taps Two Vendors to Build AI Fighter Drones - Defense Security Monitor",
+      "pubDate": "Mon, 29 Jun 2026 11:30:21 GMT"
     }
   ],
   "Physics": [
@@ -7789,6 +7805,10 @@
     {
       "title": "FAA and DOT Announce State-of-the-Art Air Traffic Control Software - The Presidential Prayer Team",
       "pubDate": "Mon, 29 Jun 2026 09:00:00 GMT"
+    },
+    {
+      "title": "A guide to secure voting software and compliance for credit unions - Bradenton Herald",
+      "pubDate": "Mon, 29 Jun 2026 15:47:03 GMT"
     }
   ],
   "Neil Gorsuch": [
@@ -10045,6 +10065,12 @@
     {
       "title": "New York AG lauds Supreme Court's mail-in ballot ruling - Spectrum News",
       "pubDate": "Mon, 29 Jun 2026 15:32:00 GMT"
+    }
+  ],
+  "Post-Quantum Cryptography": [
+    {
+      "title": "OMB Issues Federal Roadmap for Post-Quantum Cryptography Migration - Homeland Security Today",
+      "pubDate": "Mon, 29 Jun 2026 12:22:36 GMT"
     }
   ]
 }
