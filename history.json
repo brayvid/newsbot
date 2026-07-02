@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Netanyahu Posts \u2018Proof of Life\u2019 Video as A.I. Sows Doubts About What\u2019s Real - The New York Times",
-      "pubDate": "Tue, 17 Mar 2026 16:01:45 GMT"
-    },
-    {
       "title": "Microsoft weighs legal action over $50bn Amazon-OpenAI cloud deal - Financial Times",
       "pubDate": "Wed, 18 Mar 2026 05:01:54 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "The Next Rare Earth Arms Race Is Artificial Intelligence-and China Wants to Win - Rare Earth Exchanges",
       "pubDate": "Mon, 29 Jun 2026 03:36:07 GMT"
+    },
+    {
+      "title": "Nvidia launches revenue-sharing model for AI startups - qz.com",
+      "pubDate": "Thu, 02 Jul 2026 14:01:10 GMT"
     }
   ],
   "Israel": [
@@ -679,10 +679,6 @@
   ],
   "China": [
     {
-      "title": "Xi Invites Taiwan\u2019s Opposition Leader to Talk \u2018Peace\u2019 Ahead of Trump Summit - The New York Times",
-      "pubDate": "Mon, 30 Mar 2026 10:32:29 GMT"
-    },
-    {
       "title": "China Edges Past U.S. in Global Approval Ratings - Gallup News",
       "pubDate": "Fri, 03 Apr 2026 12:55:13 GMT"
     },
@@ -837,6 +833,10 @@
     {
       "title": "China warns popular games may provide map data to train foreign military AI - South China Morning Post",
       "pubDate": "Mon, 29 Jun 2026 11:00:09 GMT"
+    },
+    {
+      "title": "EU and US concerned by China's new ethnic unity law which targets people overseas - Reuters",
+      "pubDate": "Thu, 02 Jul 2026 15:11:24 GMT"
     }
   ],
   "AI Safety": [
@@ -1223,6 +1223,10 @@
     {
       "title": "US economy expanded at solid 2.1% pace in January-March, government says, upgrading last estimate - Messenger-Inquirer",
       "pubDate": "Sat, 27 Jun 2026 05:15:00 GMT"
+    },
+    {
+      "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2% - CNBC",
+      "pubDate": "Thu, 02 Jul 2026 12:31:23 GMT"
     }
   ],
   "OpenAI": [
@@ -3727,6 +3731,10 @@
     {
       "title": "Iran may have used Chinese missile to shoot down U.S. fighter jet, sources say - NBC News",
       "pubDate": "Fri, 29 May 2026 22:05:41 GMT"
+    },
+    {
+      "title": "Defense startups raid auto and fracking sectors for parts to speed weapons output - Military Times",
+      "pubDate": "Thu, 02 Jul 2026 16:42:32 GMT"
     }
   ],
   "Cancer": [
@@ -5761,6 +5769,10 @@
     {
       "title": "Trump halts housing bill, demands citizenship proof to vote in federal elections - FOX 10 Phoenix",
       "pubDate": "Wed, 24 Jun 2026 23:45:35 GMT"
+    },
+    {
+      "title": "Facing setbacks and resistance, Trump presses bid to reshape elections on multiple fronts - Los Angeles Times",
+      "pubDate": "Thu, 02 Jul 2026 17:19:00 GMT"
     }
   ],
   "DeepMind": [
@@ -9773,6 +9785,10 @@
     {
       "title": "The SEC Seeks Novel Ideas for Novel ETFs - The National Law Review",
       "pubDate": "Wed, 01 Jul 2026 18:09:34 GMT"
+    },
+    {
+      "title": "SEC\u2019s proposed rules shake-up for ETFs will hit assets \u2018ripe for scrutiny\u2019, says former enforcement lawyer - | Governance Intelligence",
+      "pubDate": "Thu, 02 Jul 2026 14:42:04 GMT"
     }
   ],
   "AI in Healthcare": [
@@ -10367,6 +10383,12 @@
     {
       "title": "The money runs out: Socialism, on the rise in NYC, is being routed elsewhere - The Hill",
       "pubDate": "Wed, 01 Jul 2026 11:30:00 GMT"
+    }
+  ],
+  "Amy Coney Barrett": [
+    {
+      "title": "Amy Coney Barrett Faces Right-Wing Ire Over Recent Rulings - The New York Times",
+      "pubDate": "Thu, 02 Jul 2026 22:27:21 GMT"
     }
   ]
 }
