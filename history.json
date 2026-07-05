@@ -711,10 +711,6 @@
   ],
   "China": [
     {
-      "title": "Chinese firms market Iran war intelligence \u2018exposing\u2019 U.S. forces - The Washington Post",
-      "pubDate": "Sat, 04 Apr 2026 16:00:55 GMT"
-    },
-    {
       "title": "China Creates New Aviation Mystery With Offshore Warning Zones - WSJ",
       "pubDate": "Sun, 05 Apr 2026 12:16:00 GMT"
     },
@@ -869,6 +865,10 @@
     {
       "title": "China just tested a 582-ton superconducting magnet, the largest ever built for fusion \u2014 a D-shaped ring as heavy as 300 pickup trucks, made to pen a plasma cloud hotter than the Sun's core in mid-air \u2014 and every piece of it, wire to steel, was made at home - Autonocion.com",
       "pubDate": "Fri, 03 Jul 2026 21:00:56 GMT"
+    },
+    {
+      "title": "China Raises Pressure on Taiwan With Expanded Coast Guard Patrols - The New York Times",
+      "pubDate": "Sun, 05 Jul 2026 08:21:38 GMT"
     }
   ],
   "AI Safety": [
@@ -3925,6 +3925,10 @@
     {
       "title": "Cancer centers ration chemo amid new shortages - Axios",
       "pubDate": "Wed, 01 Jul 2026 09:30:29 GMT"
+    },
+    {
+      "title": "Light switch wakes sleeping cancer cells and makes them vulnerable again - ScienceDaily",
+      "pubDate": "Sun, 05 Jul 2026 06:11:34 GMT"
     }
   ],
   "World Economy": [
@@ -4599,6 +4603,10 @@
     {
       "title": "North Korea set to export more beer to Russia as allies\u2019 commercial ties bolster - NK News",
       "pubDate": "Wed, 01 Jul 2026 07:34:04 GMT"
+    },
+    {
+      "title": "North Korea, Russia, Iran Expand Crypto Use to Evade US Sanctions, Topping $100 Billion - bloomingbit",
+      "pubDate": "Sun, 05 Jul 2026 05:45:24 GMT"
     }
   ],
   "Economics": [
@@ -5203,6 +5211,10 @@
     {
       "title": "Bitcoin and Stablecoins Become Lifelines After Venezuela Earthquakes - Yahoo",
       "pubDate": "Sat, 27 Jun 2026 18:47:51 GMT"
+    },
+    {
+      "title": "Bitcoin trades above $62K as U.S. crypto bill gains fresh traction - Investing.com",
+      "pubDate": "Sun, 05 Jul 2026 09:58:40 GMT"
     }
   ],
   "US Senate": [
@@ -8399,6 +8411,10 @@
     {
       "title": "A New Resource Is Helping Black Families Better Understand Health Care Costs - Black Doctor",
       "pubDate": "Sun, 28 Jun 2026 15:00:00 GMT"
+    },
+    {
+      "title": "Secure the Future of Children\u2019s Health Care Coverage - First Focus on Children",
+      "pubDate": "Sun, 05 Jul 2026 05:27:27 GMT"
     }
   ],
   "Supply Chain": [
@@ -9417,6 +9433,10 @@
     {
       "title": "Colorado Rep. Gabe Evans, Energy Secretary Chris Wright call on data centers to cover grid expansion costs - CBS News",
       "pubDate": "Tue, 30 Jun 2026 02:50:00 GMT"
+    },
+    {
+      "title": "\"We must prohibit them\" says Governor Abbott about building AI data centers in rural Texas neighborhoods - CBS News",
+      "pubDate": "Sun, 05 Jul 2026 10:00:13 GMT"
     }
   ],
   "US-China Relations": [
@@ -10589,6 +10609,12 @@
     {
       "title": "Amy Coney Barrett Faces Right-Wing Ire Over Recent Rulings - The New York Times",
       "pubDate": "Thu, 02 Jul 2026 22:27:21 GMT"
+    }
+  ],
+  "US Protests": [
+    {
+      "title": "Anti-Trump group 'Refuse Fascism' marches in DC on Fourth of July - WUSA9",
+      "pubDate": "Sun, 05 Jul 2026 04:15:00 GMT"
     }
   ]
 }
