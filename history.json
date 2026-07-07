@@ -407,10 +407,6 @@
   ],
   "Russia": [
     {
-      "title": "Trump administration allows for Russian oil sales as energy prices soar - The Washington Post",
-      "pubDate": "Fri, 13 Mar 2026 16:13:56 GMT"
-    },
-    {
       "title": "Russia exploiting Iran war, Zelensky says after fresh bombardment - BBC",
       "pubDate": "Sat, 14 Mar 2026 21:50:22 GMT"
     },
@@ -565,6 +561,10 @@
     {
       "title": "Ukrainian drones hit St Petersburg oil terminal in latest long-range attack on Russia - Taylorville Daily News",
       "pubDate": "Sat, 04 Jul 2026 10:29:54 GMT"
+    },
+    {
+      "title": "Russia Is Ready for Possible EU Attack, Budanov Warns - UNITED24 Media",
+      "pubDate": "Tue, 07 Jul 2026 09:52:38 GMT"
     }
   ],
   "Donald Trump": [
@@ -1023,10 +1023,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Iran-linked cyberattack on US is 'first drop of blood' as experts reveal new threat to homeland - MSN",
-      "pubDate": "Sat, 14 Mar 2026 05:39:44 GMT"
-    },
-    {
       "title": "ShinyHunters Claims 1 Petabyte Data Theft from Telecom Giant Telus - Hackread",
       "pubDate": "Sat, 14 Mar 2026 12:37:02 GMT"
     },
@@ -1181,6 +1177,10 @@
     {
       "title": "Navigating NIST\u2019s New Cybersecurity AI Frontier - GovTech",
       "pubDate": "Sun, 05 Jul 2026 09:13:41 GMT"
+    },
+    {
+      "title": "US cybersecurity agency using Anthropic\u2019s Mythos to audit govt software: Report - Firstpost",
+      "pubDate": "Tue, 07 Jul 2026 04:55:58 GMT"
     }
   ],
   "US Economy": [
@@ -1361,6 +1361,10 @@
     {
       "title": "Sam Altman Floats Plan to Give US Govt 5% OpenAI Stake: Report - MIT Sloan Management Review Middle East",
       "pubDate": "Fri, 03 Jul 2026 15:09:03 GMT"
+    },
+    {
+      "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge - CNBC",
+      "pubDate": "Tue, 07 Jul 2026 05:00:01 GMT"
     }
   ],
   "Gaza": [
@@ -5329,6 +5333,10 @@
     {
       "title": "Julia Letlow defeats John Fleming in GOP Senate runoff. Jamie Davis wins Democratic nod. - NOLA.com",
       "pubDate": "Sun, 28 Jun 2026 01:52:00 GMT"
+    },
+    {
+      "title": "Democrats call on Graham Platner to withdraw from U.S. Senate race amid sexual assault allegations - newscentermaine.com",
+      "pubDate": "Mon, 06 Jul 2026 22:56:00 GMT"
     }
   ],
   "Palantir": [
@@ -9101,6 +9109,10 @@
     {
       "title": "Why the AI revolution and green transition now pose similar economic risks and policy choices - Tech Xplore",
       "pubDate": "Tue, 16 Jun 2026 21:20:03 GMT"
+    },
+    {
+      "title": "Stymied datacentre projects threaten global AI revolution - The Guardian",
+      "pubDate": "Tue, 07 Jul 2026 09:01:00 GMT"
     }
   ],
   "Income Tax": [
@@ -9241,6 +9253,10 @@
     {
       "title": "Passengers rescued after seaplane incident in New York City\u2019s East River - NBC News",
       "pubDate": "Sat, 13 Jun 2026 22:59:40 GMT"
+    },
+    {
+      "title": "Flash flood warnings issued for parts of New York City and Northeast as heat wave breaks - Los Angeles Times",
+      "pubDate": "Tue, 07 Jul 2026 00:48:00 GMT"
     }
   ],
   "US Court of Appeals": [
@@ -10803,6 +10819,12 @@
     {
       "title": "ACLU Launches Largest Ever Election Program - American Civil Liberties Union",
       "pubDate": "Tue, 07 Jul 2026 02:15:23 GMT"
+    }
+  ],
+  "Clarence Thomas": [
+    {
+      "title": "READ: Supreme Court\u2019s opinion on birthright citizenship, including Thomas dissent - WNTZ-TV FOX 48",
+      "pubDate": "Tue, 07 Jul 2026 07:26:00 GMT"
     }
   ]
 }
