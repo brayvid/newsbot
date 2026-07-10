@@ -1027,10 +1027,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "1 billion identity records exposed in ID verification data leak - AOL.com",
-      "pubDate": "Sun, 15 Mar 2026 03:32:01 GMT"
-    },
-    {
       "title": "After Stryker cyberattack, Houston cos. could face cybersecurity threats during Iran war - The Business Journals",
       "pubDate": "Mon, 16 Mar 2026 10:00:00 GMT"
     },
@@ -1185,6 +1181,10 @@
     {
       "title": "IonQ (IONQ) Expands Into Quantum Cybersecurity And Space Based Geospatial Intelligence - Yahoo Finance",
       "pubDate": "Wed, 08 Jul 2026 00:23:00 GMT"
+    },
+    {
+      "title": "The White House Elevated the Push for Cybersecurity. Now the Hard Work Begins. - MeriTalk",
+      "pubDate": "Fri, 10 Jul 2026 15:13:35 GMT"
     }
   ],
   "US Economy": [
@@ -1939,6 +1939,10 @@
     {
       "title": "Ukrainian drones batter Russian oil facilities and set more oil tankers ablaze - AP News",
       "pubDate": "Thu, 09 Jul 2026 08:33:51 GMT"
+    },
+    {
+      "title": "Inside the Pentagon\u2019s new handbook on countering drones - Military Times",
+      "pubDate": "Fri, 10 Jul 2026 12:30:06 GMT"
     }
   ],
   "Federal Reserve": [
@@ -2875,6 +2879,10 @@
     {
       "title": "California lawmaker amends bill aimed at setting social media age limit - Sacramento Bee",
       "pubDate": "Thu, 02 Jul 2026 00:46:05 GMT"
+    },
+    {
+      "title": "Meta, state AGs file updated witness lists ahead of social media trial - MLex",
+      "pubDate": "Fri, 10 Jul 2026 16:02:00 GMT"
     }
   ],
   "Taiwan": [
@@ -7525,6 +7533,10 @@
     {
       "title": "How Mitch McConnell\u2019s absence complicates the Senate\u2019s business and war funding - The Washington Post",
       "pubDate": "Thu, 09 Jul 2026 10:31:54 GMT"
+    },
+    {
+      "title": "SCOTUS Leaves SEC Disgorgement Business Unfinished - Law.com",
+      "pubDate": "Fri, 10 Jul 2026 13:00:00 GMT"
     }
   ],
   "Violence": [
@@ -9693,6 +9705,10 @@
     {
       "title": "Scoop: Netanyahu asks Trump to rein in Erdo\u011fan ahead of NATO summit - Axios",
       "pubDate": "Mon, 06 Jul 2026 19:20:16 GMT"
+    },
+    {
+      "title": "Trump does an about-face on Ukraine and NATO, at least for now - The Hill",
+      "pubDate": "Fri, 10 Jul 2026 14:30:00 GMT"
     }
   ],
   "Money": [
@@ -10235,6 +10251,10 @@
     {
       "title": "US Marines conduct rapid-response drill in Venezuela months after Maduro ouster - LiveNOW from FOX",
       "pubDate": "Sun, 24 May 2026 18:43:48 GMT"
+    },
+    {
+      "title": "US Marines successfully test-fire new medium-range air defense system - Military Times",
+      "pubDate": "Fri, 10 Jul 2026 15:19:17 GMT"
     }
   ],
   "Sundar Pichai": [
@@ -11167,6 +11187,12 @@
     {
       "title": "Brain imaging reveals how neural networks coordinate multiple streams at once - Medical Xpress",
       "pubDate": "Thu, 09 Jul 2026 20:50:01 GMT"
+    }
+  ],
+  "Origin of Life": [
+    {
+      "title": "Her groundbreaking theory on the origin of life was rejected 15 times. Then biology proved her right. - Upworthy",
+      "pubDate": "Fri, 10 Jul 2026 15:25:02 GMT"
     }
   ]
 }
