@@ -747,10 +747,6 @@
   ],
   "China": [
     {
-      "title": "Xi Hosts Taiwan Opposition Leader to Draw Island Closer to China - WSJ",
-      "pubDate": "Fri, 10 Apr 2026 09:08:00 GMT"
-    },
-    {
       "title": "China's Xi talks peace with Taiwan's opposition leader even as Beijing raises military pressure - NBC News",
       "pubDate": "Fri, 10 Apr 2026 13:31:51 GMT"
     },
@@ -905,6 +901,10 @@
     {
       "title": "China's exports ride AI boom as domestic economy struggles - Reuters",
       "pubDate": "Tue, 14 Jul 2026 14:45:36 GMT"
+    },
+    {
+      "title": "Xi Jinping of China Pitches \u2018Openness\u2019 in Push to Shape the Path of A.I. - The New York Times",
+      "pubDate": "Fri, 17 Jul 2026 23:52:32 GMT"
     }
   ],
   "AI Safety": [
@@ -1058,10 +1058,6 @@
     }
   ],
   "Cybersecurity": [
-    {
-      "title": "Israel is under cyberattack. Why are we still debating a defense law? - The Times of Israel",
-      "pubDate": "Tue, 17 Mar 2026 13:47:00 GMT"
-    },
     {
       "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23 - The Hacker News",
       "pubDate": "Wed, 18 Mar 2026 05:06:00 GMT"
@@ -1217,6 +1213,10 @@
     {
       "title": "New Jersey Continues Statewide Investment in Cybersecurity - GovTech",
       "pubDate": "Mon, 13 Jul 2026 20:17:43 GMT"
+    },
+    {
+      "title": "Abbott discloses cyberattack on cancer diagnostics business - Cybersecurity Dive",
+      "pubDate": "Fri, 17 Jul 2026 23:05:38 GMT"
     }
   ],
   "US Economy": [
@@ -1491,6 +1491,10 @@
     {
       "title": "Benjamin Netanyahu: Gaza \u2018voluntary migration\u2019 on table, Jewish settlements not addressed - The Jerusalem Post",
       "pubDate": "Wed, 01 Jul 2026 05:32:51 GMT"
+    },
+    {
+      "title": "Israeli strike on funeral kills eight, wounds 22 in Gaza - Middle East Eye",
+      "pubDate": "Fri, 17 Jul 2026 23:22:00 GMT"
     }
   ],
   "Climate Change": [
@@ -6537,6 +6541,10 @@
     {
       "title": "In the United States, supreme court upholds birthright citizenship on constitutional grounds - ConstitutionNet",
       "pubDate": "Wed, 01 Jul 2026 02:25:38 GMT"
+    },
+    {
+      "title": "United States launches strikes against Iran as battle over the Strait of Hormuz intensifies - AP News",
+      "pubDate": "Sat, 18 Jul 2026 04:45:00 GMT"
     }
   ],
   "Renewable Energy": [
@@ -8205,6 +8213,10 @@
     {
       "title": "26 Meta workers sue over alleged AI-aided layoffs targeting employees on medical or family leave - CBS News",
       "pubDate": "Wed, 15 Jul 2026 09:45:00 GMT"
+    },
+    {
+      "title": "US Judge Rejects Meta Employees' Bid to Block AI-Scored Layoffs - finance.biggo.com",
+      "pubDate": "Sat, 18 Jul 2026 00:35:00 GMT"
     }
   ],
   "Tariffs": [
@@ -8657,6 +8669,10 @@
     {
       "title": "Appeals Panel Upholds Trump EPA\u2019s Steel Pollution Exemption - Bloomberg Law News",
       "pubDate": "Fri, 17 Jul 2026 16:40:00 GMT"
+    },
+    {
+      "title": "Trump threatens to increase Canada tariffs over wildfire smoke pollution - Le Monde.fr",
+      "pubDate": "Sat, 18 Jul 2026 09:00:52 GMT"
     }
   ],
   "India": [
@@ -9607,6 +9623,10 @@
     {
       "title": "Public health leadership needs to build trustworthy AI in health, expert argues - Medical Xpress",
       "pubDate": "Thu, 16 Jul 2026 19:00:04 GMT"
+    },
+    {
+      "title": "West Virginia Bureau for Public Health issues warning amid rise in cyclosporiasis cases - My Buckhannon",
+      "pubDate": "Sat, 18 Jul 2026 01:39:57 GMT"
     }
   ],
   "Ukraine War": [
