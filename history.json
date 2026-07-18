@@ -431,10 +431,6 @@
   ],
   "Russia": [
     {
-      "title": "Exclusive | Russia Is Sharing Satellite Imagery and Drone Technology With Iran - WSJ",
-      "pubDate": "Tue, 17 Mar 2026 20:07:00 GMT"
-    },
-    {
       "title": "Ukraine-Russia war latest: Two killed in Russian drone attacks as thousands left without power - The Independent",
       "pubDate": "Sat, 21 Mar 2026 16:44:20 GMT"
     },
@@ -589,6 +585,10 @@
     {
       "title": "Nine dead as Russia and Ukraine trade drone and missile salvos - Al Jazeera",
       "pubDate": "Sun, 12 Jul 2026 19:57:02 GMT"
+    },
+    {
+      "title": "Ukrainian strikes in Russia are deadliest attack in two years - CNN",
+      "pubDate": "Sat, 18 Jul 2026 15:21:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -3575,6 +3575,10 @@
     {
       "title": "How to shrink the Fed\u2019s $7trn balance-sheet - The Economist",
       "pubDate": "Thu, 16 Jul 2026 09:06:46 GMT"
+    },
+    {
+      "title": "Big banks' record Wall Street profits are increasingly tied to AI - Yahoo Finance",
+      "pubDate": "Sat, 18 Jul 2026 11:55:40 GMT"
     }
   ],
   "Black Holes": [
@@ -4077,6 +4081,10 @@
     {
       "title": "Trump Says the FBI Would Be \u2018Wasting Their Time\u2019 Investigating Lindsey Graham\u2019s Death - Time Magazine",
       "pubDate": "Tue, 14 Jul 2026 20:20:18 GMT"
+    },
+    {
+      "title": "Somalia hands over its citizen to Kash Patel-led FBI team to face charges in $250 million COVID child-feeding fraud case - Business Insider Africa",
+      "pubDate": "Sat, 18 Jul 2026 13:33:38 GMT"
     }
   ],
   "Military and Defense": [
@@ -8581,6 +8589,10 @@
     {
       "title": "Labor Department Eyes Immigration Changes in Broad Rule Plan - Bloomberg Law News",
       "pubDate": "Fri, 03 Jul 2026 22:51:00 GMT"
+    },
+    {
+      "title": "DHS plans \u2018all-out war\u2019 on immigration scammers as fraud complaints double - Daily Kos",
+      "pubDate": "Sat, 18 Jul 2026 21:00:00 GMT"
     }
   ],
   "Chuck Grassley": [
@@ -10509,6 +10521,10 @@
     {
       "title": "AI data centers: Economic opportunity vs. environmental concerns - NBC Boston",
       "pubDate": "Sat, 18 Jul 2026 00:27:52 GMT"
+    },
+    {
+      "title": "US data center protests go national as backlash grows - Reuters",
+      "pubDate": "Sat, 18 Jul 2026 22:12:55 GMT"
     }
   ],
   "US-China Relations": [
@@ -10977,6 +10993,10 @@
     {
       "title": "AI Agents Force Reconsideration of Online Personhood - Let's Data Science",
       "pubDate": "Sat, 04 Jul 2026 08:00:17 GMT"
+    },
+    {
+      "title": "The bottleneck for AI agents isn\u2019t the model anymore. It\u2019s the context layer. - The New Stack",
+      "pubDate": "Sat, 18 Jul 2026 15:01:14 GMT"
     }
   ],
   "Vladimir Putin": [
@@ -12019,6 +12039,12 @@
     {
       "title": "Amazon Web Services customers receive bills for up to $1.5tn after global glitch - The Guardian",
       "pubDate": "Fri, 17 Jul 2026 22:07:00 GMT"
+    }
+  ],
+  "Universal Basic Income": [
+    {
+      "title": "'Dr. Doom' Nouriel Roubini says we're headed for universal basic income or 'some form of socialism' as AI revolutionizes work\u2014He calls that optimistic - Fortune",
+      "pubDate": "Sat, 18 Jul 2026 22:30:00 GMT"
     }
   ]
 }
