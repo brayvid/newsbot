@@ -431,10 +431,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukraine-Russia war latest: Two killed in Russian drone attacks as thousands left without power - The Independent",
-      "pubDate": "Sat, 21 Mar 2026 16:44:20 GMT"
-    },
-    {
       "title": "Russian Offensive Campaign Assessment, March 22, 2026 - Institute for the Study of War",
       "pubDate": "Sun, 22 Mar 2026 22:59:47 GMT"
     },
@@ -589,6 +585,10 @@
     {
       "title": "Ukrainian strikes in Russia are deadliest attack in two years - CNN",
       "pubDate": "Sat, 18 Jul 2026 15:21:00 GMT"
+    },
+    {
+      "title": "Russia launches largest ballistic missile attack on Kyiv since start of war - Al Jazeera",
+      "pubDate": "Sun, 19 Jul 2026 10:18:03 GMT"
     }
   ],
   "Donald Trump": [
@@ -4977,6 +4977,10 @@
     {
       "title": "Trump administration caps how long international students can stay in the US - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Thu, 16 Jul 2026 19:38:15 GMT"
+    },
+    {
+      "title": "Donald Trump hosts Iraqi PM Ali al-Zaidi to talk oil deals, bypassing Hormuz - The Jerusalem Post",
+      "pubDate": "Sun, 19 Jul 2026 14:54:19 GMT"
     }
   ],
   "North Korea": [
@@ -7149,6 +7153,10 @@
     {
       "title": "Federal judge orders Wilmington to redo key ordinances tied to Amazon's $4B data center project - Dayton Daily News",
       "pubDate": "Sat, 11 Jul 2026 15:46:08 GMT"
+    },
+    {
+      "title": "Andy Jassy Said Amazon Isn't Investing $200 Billion in AI \"On a Hunch.\" Amazon's Own Trainium Chip Business Is Already Running at a $20 Billion Annual Pace. - Yahoo Finance",
+      "pubDate": "Sun, 19 Jul 2026 11:47:00 GMT"
     }
   ],
   "Japan": [
@@ -8351,6 +8359,10 @@
     {
       "title": "Trump threatens tariffs on digital service tax - KXLY.com",
       "pubDate": "Mon, 29 Jun 2026 20:22:00 GMT"
+    },
+    {
+      "title": "Trump needs a smarter play on chip tariffs before China corners the market - Washington Examiner",
+      "pubDate": "Sun, 19 Jul 2026 11:00:00 GMT"
     }
   ],
   "2026 Midterm Elections": [
@@ -11527,6 +11539,10 @@
     {
       "title": "Revised Artemis lunar lander plans take shape - SpaceNews",
       "pubDate": "Sat, 13 Jun 2026 17:19:56 GMT"
+    },
+    {
+      "title": "NASA Cancels Draper Lunar Lander; Skyroot Reaches Orbit, Space Brief 19 Jul 2026 - KeepTrack",
+      "pubDate": "Sun, 19 Jul 2026 09:00:30 GMT"
     }
   ],
   "Markwayne Mullin": [
@@ -12089,6 +12105,18 @@
     {
       "title": "'Dr. Doom' Nouriel Roubini says we're headed for universal basic income or 'some form of socialism' as AI revolutionizes work\u2014He calls that optimistic - Fortune",
       "pubDate": "Sat, 18 Jul 2026 22:30:00 GMT"
+    }
+  ],
+  "US Foreign Policy / Venezuela": [
+    {
+      "title": "The U.S. Saw an Investment Boom in Venezuela. Now It\u2019s a $37 Billion Problem. - WSJ",
+      "pubDate": "Sun, 19 Jul 2026 11:00:00 GMT"
+    }
+  ],
+  "Climate/US Politics": [
+    {
+      "title": "Majority of US voters link extreme weather to climate crisis, study finds - The Guardian",
+      "pubDate": "Sun, 19 Jul 2026 15:24:00 GMT"
     }
   ]
 }
