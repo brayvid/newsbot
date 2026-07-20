@@ -1067,10 +1067,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Iran Launches Cyberattack, Fires Advanced Missiles At Israel In Major Multi-front Escalation - The Times of India",
-      "pubDate": "Fri, 20 Mar 2026 20:43:54 GMT"
-    },
-    {
       "title": "Is Platformization in Cybersecurity Inevitable as AI Drives Vendor Consolidation? - The Futurum Group",
       "pubDate": "Sun, 22 Mar 2026 14:05:39 GMT"
     },
@@ -1225,6 +1221,10 @@
     {
       "title": "Cybersecurity risks posed by over-the-air tech in autos has analysts concerned - CNBC",
       "pubDate": "Sat, 18 Jul 2026 23:01:01 GMT"
+    },
+    {
+      "title": "White House launches Gold Eagle to coordinate AI cybersecurity for critical infrastructure - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "pubDate": "Sun, 19 Jul 2026 23:13:13 GMT"
     }
   ],
   "US Economy": [
@@ -3113,6 +3113,10 @@
     {
       "title": "Democratic Taiwan must not become 'China's Taiwan', president says - Reuters",
       "pubDate": "Sun, 19 Jul 2026 16:26:45 GMT"
+    },
+    {
+      "title": "Taiwan says Chinese vessel activity jumps, raising fears for Pacific supply routes - Reuters",
+      "pubDate": "Mon, 20 Jul 2026 03:04:00 GMT"
     }
   ],
   "Department of Justice": [
@@ -8009,6 +8013,10 @@
     {
       "title": "SCOTUS Leaves SEC Disgorgement Business Unfinished - Law.com",
       "pubDate": "Fri, 10 Jul 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Silicon Valley is freaking out over China's open-source AI strategy - Business Insider",
+      "pubDate": "Mon, 20 Jul 2026 04:41:00 GMT"
     }
   ],
   "Violence": [
@@ -8297,6 +8305,10 @@
     {
       "title": "US Judge Rejects Meta Employees' Bid to Block AI-Scored Layoffs - finance.biggo.com",
       "pubDate": "Sat, 18 Jul 2026 00:35:00 GMT"
+    },
+    {
+      "title": "New Samsung Layoffs in the U.S. Show Smartphone Arm's Struggles, Even as It Profits Massively From AI - Gizmodo",
+      "pubDate": "Sun, 19 Jul 2026 20:11:05 GMT"
     }
   ],
   "Tariffs": [
@@ -10421,6 +10433,10 @@
     {
       "title": "RTX, NATO Allies Look to Expand AMRAAM Production in Europe - The Defense Post",
       "pubDate": "Mon, 13 Jul 2026 09:11:38 GMT"
+    },
+    {
+      "title": "Markets brace for all-out war in Iran as former NATO commander warns Suez Canal could be next - Fortune",
+      "pubDate": "Sun, 19 Jul 2026 23:22:00 GMT"
     }
   ],
   "Money": [
@@ -11205,6 +11221,10 @@
     {
       "title": "China to support IPOs by 'future industry' startups, large model companies - Reuters",
       "pubDate": "Wed, 17 Jun 2026 11:09:12 GMT"
+    },
+    {
+      "title": "The Pentagon Is Finally Buying (Some) Weapons From Startups - WSJ",
+      "pubDate": "Mon, 20 Jul 2026 02:00:00 GMT"
     }
   ],
   "Green Politics": [
@@ -12145,6 +12165,12 @@
     {
       "title": "Majority of US voters link extreme weather to climate crisis, study finds - The Guardian",
       "pubDate": "Sun, 19 Jul 2026 15:24:00 GMT"
+    }
+  ],
+  "Space Weather": [
+    {
+      "title": "How the sun goes to 'sleep' could reveal future space weather when it wakes - Phys.org",
+      "pubDate": "Sun, 19 Jul 2026 23:00:03 GMT"
     }
   ]
 }
