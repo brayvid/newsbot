@@ -435,13 +435,13 @@
     {
       "title": "Ukraine's Zelenskiy meets commanders as street protests mount - Reuters",
       "pubDate": "Mon, 20 Jul 2026 17:08:45 GMT"
+    },
+    {
+      "title": "Ukraine overhauls its military top brass for the fight against Russia - AP News",
+      "pubDate": "Wed, 22 Jul 2026 07:54:00 GMT"
     }
   ],
   "Russia": [
-    {
-      "title": "Russian Offensive Campaign Assessment, March 23, 2026 - Institute for the Study of War",
-      "pubDate": "Tue, 24 Mar 2026 00:54:57 GMT"
-    },
     {
       "title": "U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade - The New York Times",
       "pubDate": "Mon, 30 Mar 2026 03:10:52 GMT"
@@ -597,6 +597,10 @@
     {
       "title": "Budd Joins 60+ Senate Colleagues in Leading Sanctions Package Holding Russia Accountable, Honoring Senator Lindsey Graham - U.S. Senator Ted Budd (.gov)",
       "pubDate": "Mon, 20 Jul 2026 23:03:45 GMT"
+    },
+    {
+      "title": "The Limits \u2013 and Dangers \u2013 of the China-Russia Partnership - The Diplomat \u2013 Asia-Pacific",
+      "pubDate": "Wed, 22 Jul 2026 08:01:47 GMT"
     }
   ],
   "Donald Trump": [
@@ -1433,6 +1437,10 @@
     {
       "title": "OpenAI\u2019s Altman to Brief US Officials on Next Wave of AI Models - Bloomberg.com",
       "pubDate": "Tue, 21 Jul 2026 15:35:53 GMT"
+    },
+    {
+      "title": "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company - AP News",
+      "pubDate": "Tue, 21 Jul 2026 23:44:00 GMT"
     }
   ],
   "Gaza": [
@@ -2631,6 +2639,10 @@
     {
       "title": "California Bar Revises AI Ethics Proposals After Public Feedback - Bloomberg Law News",
       "pubDate": "Mon, 22 Jun 2026 23:11:00 GMT"
+    },
+    {
+      "title": "UNESCO and LG AI Research Launch Global MOOC on the Ethics of AI - UNESCO",
+      "pubDate": "Wed, 22 Jul 2026 07:56:31 GMT"
     }
   ],
   "Space Exploration": [
@@ -12181,6 +12193,10 @@
     {
       "title": "Lawler, Gottheimer Introduce Bipartisan Legislation to Expand EXIM Support for U.S. Quantum Leadership - Congressman Mike Lawler (.gov)",
       "pubDate": "Mon, 06 Jul 2026 18:09:09 GMT"
+    },
+    {
+      "title": "Rice joins Department of Energy\u2019s Quantum Science Center to Advance QEC Research - The Quantum Insider",
+      "pubDate": "Wed, 22 Jul 2026 09:19:53 GMT"
     }
   ],
   "American Civil Liberties Union": [
@@ -12397,6 +12413,18 @@
     {
       "title": "US Treasury sends warning to hedge funds over \u2018tax alpha\u2019 strategies - Financial Times",
       "pubDate": "Tue, 21 Jul 2026 20:42:19 GMT"
+    }
+  ],
+  "US Politics (Ukraine Aid)": [
+    {
+      "title": "House rejects Crane\u2019s measure to block Ukraine security aid - The Hill",
+      "pubDate": "Wed, 22 Jul 2026 02:50:00 GMT"
+    }
+  ],
+  "Healthcare Research Funding": [
+    {
+      "title": "Penn and CHOP researchers lost millions in federal funding for healthcare research last week, forcing programs to close - Inquirer.com",
+      "pubDate": "Wed, 22 Jul 2026 09:01:01 GMT"
     }
   ]
 }
