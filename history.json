@@ -447,10 +447,6 @@
   ],
   "Russia": [
     {
-      "title": "U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade - The New York Times",
-      "pubDate": "Mon, 30 Mar 2026 03:10:52 GMT"
-    },
-    {
       "title": "At least 29 dead after Russian military plane crashes in Crimea - The Guardian",
       "pubDate": "Wed, 01 Apr 2026 02:16:00 GMT"
     },
@@ -605,13 +601,13 @@
     {
       "title": "The Limits \u2013 and Dangers \u2013 of the China-Russia Partnership - The Diplomat \u2013 Asia-Pacific",
       "pubDate": "Wed, 22 Jul 2026 08:01:47 GMT"
+    },
+    {
+      "title": "21st package of sanctions: EU hits Russian energy, financial services and crypto hard - consilium.europa.eu",
+      "pubDate": "Thu, 23 Jul 2026 15:44:04 GMT"
     }
   ],
   "Donald Trump": [
-    {
-      "title": "Live Updates: Trump vows to end war soon as Iran hits ships, threatens banks, and toll on U.S. forces emerges - CBS News",
-      "pubDate": "Wed, 11 Mar 2026 16:50:00 GMT"
-    },
     {
       "title": "Exclusive: With Iran war exit elusive, Trump aides vie to affect outcome - Reuters",
       "pubDate": "Fri, 13 Mar 2026 05:02:00 GMT"
@@ -767,13 +763,13 @@
     {
       "title": "Donald Trump Breaks Silence on American Troops Killed in Iran - The Daily Beast",
       "pubDate": "Sun, 19 Jul 2026 06:41:00 GMT"
+    },
+    {
+      "title": "Trump says Iran will be held responsible for future Houthi attacks - Politico",
+      "pubDate": "Thu, 23 Jul 2026 14:22:00 GMT"
     }
   ],
   "China": [
-    {
-      "title": "China showcases Y-30 as stronger rival to US' top transport plane - Interesting Engineering",
-      "pubDate": "Sat, 11 Apr 2026 18:16:00 GMT"
-    },
     {
       "title": "How China's Military Weapons Aid of Iran May Cause Larger Geopolitical Rift - Military.com",
       "pubDate": "Mon, 13 Apr 2026 16:48:17 GMT"
@@ -929,6 +925,10 @@
     {
       "title": "China begins two days of live-fire drills in Taiwan Strait - Reuters",
       "pubDate": "Thu, 23 Jul 2026 03:29:00 GMT"
+    },
+    {
+      "title": "Beijing seeks opinions on planned China-US tariff cuts on $30 billion in trade - Reuters",
+      "pubDate": "Thu, 23 Jul 2026 09:15:43 GMT"
     }
   ],
   "AI Safety": [
@@ -1339,6 +1339,10 @@
     {
       "title": "US economy adds jobs for four consecutive months, but 2 million remain jobless long-term - Crypto Briefing",
       "pubDate": "Sat, 18 Jul 2026 18:51:36 GMT"
+    },
+    {
+      "title": "Japan's debt is twice the size of its economy\u2014but economists warn U.S.'s $39 trillion sum is worse - Fortune",
+      "pubDate": "Thu, 23 Jul 2026 15:10:00 GMT"
     }
   ],
   "OpenAI": [
@@ -4385,6 +4389,10 @@
     {
       "title": "Global Cancer Cases Could Surge 67% by 2050, New Report Warns - SciTechDaily",
       "pubDate": "Fri, 17 Jul 2026 15:30:08 GMT"
+    },
+    {
+      "title": "Four people got a rare brain cancer. Their only known connection is a shuttered Army ammunition plant. - NBC News",
+      "pubDate": "Thu, 23 Jul 2026 13:11:23 GMT"
     }
   ],
   "World Economy": [
@@ -9169,6 +9177,10 @@
     {
       "title": "Why the EU\u2019s so-called Chat Control law has privacy experts up in arms - Euronews.com",
       "pubDate": "Sat, 18 Jul 2026 05:30:58 GMT"
+    },
+    {
+      "title": "State Comprehensive Privacy Law Round-Up: Several States Amend Their Privacy Statutes - Inside Privacy",
+      "pubDate": "Thu, 23 Jul 2026 16:24:05 GMT"
     }
   ],
   "Financial Data": [
@@ -9577,6 +9589,10 @@
     {
       "title": "SpaceX launches Starship V3\u2014the world's most powerful and tallest rocket ever - Scientific American",
       "pubDate": "Fri, 22 May 2026 22:30:00 GMT"
+    },
+    {
+      "title": "SpaceX is ready for another Starship test flight - Space Explored",
+      "pubDate": "Thu, 23 Jul 2026 14:33:00 GMT"
     }
   ],
   "Health Care": [
