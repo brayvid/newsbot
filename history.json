@@ -771,10 +771,6 @@
   ],
   "China": [
     {
-      "title": "How China's Military Weapons Aid of Iran May Cause Larger Geopolitical Rift - Military.com",
-      "pubDate": "Mon, 13 Apr 2026 16:48:17 GMT"
-    },
-    {
       "title": "Founder of China's Evergrande pleads guilty to fraud - BBC",
       "pubDate": "Tue, 14 Apr 2026 05:19:43 GMT"
     },
@@ -929,6 +925,10 @@
     {
       "title": "Beijing seeks opinions on planned China-US tariff cuts on $30 billion in trade - Reuters",
       "pubDate": "Thu, 23 Jul 2026 09:15:43 GMT"
+    },
+    {
+      "title": "China takes satellite race with SpaceX to sea - Asia Times",
+      "pubDate": "Mon, 27 Jul 2026 03:30:29 GMT"
     }
   ],
   "AI Safety": [
@@ -1087,10 +1087,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "DNI Gabbard Announces Largest-Ever Intelligence Community Cybersecurity Investment and Modernization Effort - DNI.gov",
-      "pubDate": "Thu, 26 Mar 2026 22:01:36 GMT"
-    },
-    {
       "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account - The Hacker News",
       "pubDate": "Tue, 31 Mar 2026 06:08:00 GMT"
     },
@@ -1245,6 +1241,10 @@
     {
       "title": "Israeli startups dominate Google's AI cybersecurity accelerator - The Jerusalem Post",
       "pubDate": "Sat, 25 Jul 2026 12:00:51 GMT"
+    },
+    {
+      "title": "Korea to participate in U.S.-led international cybersecurity exercise - Korea JoongAng Daily",
+      "pubDate": "Mon, 27 Jul 2026 03:10:35 GMT"
     }
   ],
   "US Economy": [
@@ -3073,6 +3073,10 @@
     {
       "title": "Fairlife pauses US production after cyberattack breached milk brand's systems - WBRZ",
       "pubDate": "Mon, 20 Jul 2026 18:05:38 GMT"
+    },
+    {
+      "title": "Cyberattacks becoming faster with AI, security firm president says - The Japan Times",
+      "pubDate": "Mon, 27 Jul 2026 02:52:00 GMT"
     }
   ],
   "Social Media": [
@@ -5431,6 +5435,10 @@
     {
       "title": "Apple Briefly Became the World\u2019s Most Valuable Company, Toppling Nvidia - PetaPixel",
       "pubDate": "Mon, 20 Jul 2026 10:07:10 GMT"
+    },
+    {
+      "title": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center - WSJ",
+      "pubDate": "Sun, 26 Jul 2026 23:19:00 GMT"
     }
   ],
   "Unmanned Aerial Vehicles": [
@@ -5909,6 +5917,10 @@
     {
       "title": "NASA Watchdogs Warn Starship Faces Major Hurdles as SpaceX Pushes Toward Moon and Mars - finchannel",
       "pubDate": "Sat, 25 Jul 2026 11:04:44 GMT"
+    },
+    {
+      "title": "Starship Sticks the Water Landing on Flight 13 - Payload Space",
+      "pubDate": "Mon, 27 Jul 2026 01:34:34 GMT"
     }
   ],
   "Bitcoin": [
@@ -9133,6 +9145,10 @@
     {
       "title": "This week at Democracy Docket: How Trump\u2019s Texas gerrymander threatens to silence a community\u2019s voice - Democracy Docket",
       "pubDate": "Sun, 26 Jul 2026 11:20:49 GMT"
+    },
+    {
+      "title": "Texas Panhandle shaken by strongest earthquake to hit the region - ABC13 Houston",
+      "pubDate": "Sun, 26 Jul 2026 22:06:58 GMT"
     }
   ],
   "Google Cloud": [
@@ -10349,6 +10365,10 @@
     {
       "title": "TSMC makes another $100B US investment - Supply Chain Dive",
       "pubDate": "Thu, 23 Jul 2026 14:12:56 GMT"
+    },
+    {
+      "title": "Nvidia to Invest $1 Billion in Naver\u2019s AI Project - WSJ",
+      "pubDate": "Mon, 27 Jul 2026 02:46:00 GMT"
     }
   ],
   "Hugging Face": [
