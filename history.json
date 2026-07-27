@@ -609,10 +609,6 @@
   ],
   "Donald Trump": [
     {
-      "title": "Kharg Island Is an Appealing Target for Trump, With High Risks - The New York Times",
-      "pubDate": "Tue, 17 Mar 2026 21:58:30 GMT"
-    },
-    {
       "title": "Live updates: Trump scolds NATO allies over lack of support; Iran's top national security official killed - NBC News",
       "pubDate": "Wed, 18 Mar 2026 04:18:01 GMT"
     },
@@ -767,6 +763,10 @@
     {
       "title": "Donald Trump Orders Warning Signs Outside The Smithsonian Over Historical Framing - Deadline",
       "pubDate": "Sat, 25 Jul 2026 18:18:00 GMT"
+    },
+    {
+      "title": "Donald Trump: US will return to war with Iran if talks fail, negotiations ongoing - The Jerusalem Post",
+      "pubDate": "Mon, 27 Jul 2026 15:22:40 GMT"
     }
   ],
   "China": [
@@ -10099,6 +10099,10 @@
     {
       "title": "Mars lost its magnetic field, and then the solar wind stripped its atmosphere, and then its oceans evaporated \u2014 three catastrophes unfolding across billions of years that turned a warm, wet world into a frozen desert half the size it was supposed to be - Space Daily",
       "pubDate": "Wed, 22 Jul 2026 11:47:48 GMT"
+    },
+    {
+      "title": "Elon Musk Says 'I Will Not Forget About Mars,' Reaffirms SpaceX's Multiplanetary Vision - Benzinga",
+      "pubDate": "Mon, 27 Jul 2026 10:41:24 GMT"
     }
   ],
   "Computing": [
@@ -10695,6 +10699,10 @@
     {
       "title": "North Korean leader Kim Jong Un meets China's Wang Huning - Reuters",
       "pubDate": "Thu, 16 Jul 2026 21:41:43 GMT"
+    },
+    {
+      "title": "North Korea's Kim Jong Un marks war anniversary with daughter by his side - Reuters",
+      "pubDate": "Mon, 27 Jul 2026 09:41:44 GMT"
     }
   ],
   "New York City": [
@@ -10853,6 +10861,10 @@
     {
       "title": "US may sanction China\u2019s Moonshot for distilling Anthropic\u2019s Fable - Asia Times",
       "pubDate": "Wed, 22 Jul 2026 23:48:27 GMT"
+    },
+    {
+      "title": "Houthi Threats Force Saudi Crude Tanker Onto Suez Route To Asia - Crude Oil Prices Today | OilPrice.com",
+      "pubDate": "Mon, 27 Jul 2026 12:30:00 GMT"
     }
   ],
   "Goldman Sachs": [
@@ -12011,6 +12023,10 @@
     {
       "title": "Bernie Sanders says Americans should own half of major AI companies under new bill - Yahoo",
       "pubDate": "Thu, 04 Jun 2026 17:55:00 GMT"
+    },
+    {
+      "title": "Wall Street Journal spotlights health insurance overhaul \u2018in Bernie Sanders\u2019 Vermont\u2019 - Vermont Daily Chronicle",
+      "pubDate": "Mon, 27 Jul 2026 13:47:47 GMT"
     }
   ],
   "Jeff Bezos": [
@@ -12217,6 +12233,10 @@
     {
       "title": "Senate Minority Leader Chuck Schumer, D-N.Y., talks to reporters about Democratic efforts to push back on President Donald Trump\\'s policies at the Capitol in Washington on June 2. - Sandusky Register",
       "pubDate": "Mon, 15 Jun 2026 05:28:26 GMT"
+    },
+    {
+      "title": "John Kennedy Says John Thune Is 'Too Cautious,' Predicts Chuck Schumer Will Shut Down the Government - Benzinga",
+      "pubDate": "Mon, 27 Jul 2026 07:21:43 GMT"
     }
   ],
   "North America": [
@@ -12861,6 +12881,12 @@
     {
       "title": "Mark Zuckerberg's Meta Is Also One of CoreWeave's Biggest Customers, in a Deal Worth $35 Billion Through 2032. That Didn't Stop CoreWeave Shares From Sinking on Meta's Own Cloud News. - The Globe and Mail",
       "pubDate": "Sun, 26 Jul 2026 13:36:14 GMT"
+    }
+  ],
+  "Protein Folding": [
+    {
+      "title": "AI tools for predicting protein folding produce chemically impossible structures and need human oversight - Phys.org",
+      "pubDate": "Mon, 27 Jul 2026 16:20:03 GMT"
     }
   ]
 }
