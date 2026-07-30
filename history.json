@@ -1095,10 +1095,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account - The Hacker News",
-      "pubDate": "Tue, 31 Mar 2026 06:08:00 GMT"
-    },
-    {
       "title": "North Korea-linked hack hits largely invisible software that powers online services - Reuters",
       "pubDate": "Tue, 31 Mar 2026 20:52:56 GMT"
     },
@@ -1253,6 +1249,10 @@
     {
       "title": "Korea to participate in U.S.-led international cybersecurity exercise - Korea JoongAng Daily",
       "pubDate": "Mon, 27 Jul 2026 03:10:35 GMT"
+    },
+    {
+      "title": "OpenAI's rogue AI hacking of several companies opens new cybersecurity questions - NBC News",
+      "pubDate": "Thu, 30 Jul 2026 01:46:51 GMT"
     }
   ],
   "US Economy": [
@@ -2393,6 +2393,10 @@
     {
       "title": "Could Oklahoma Build a Nuclear Power Plant? Here\u2019s What the State\u2019s Study Found - News 9",
       "pubDate": "Tue, 28 Jul 2026 21:02:53 GMT"
+    },
+    {
+      "title": "Energy Secretary sees bright future for nuclear power in Oklahoma - Oklahoma Energy Today",
+      "pubDate": "Wed, 29 Jul 2026 17:11:19 GMT"
     }
   ],
   "The Pentagon": [
@@ -3167,6 +3171,10 @@
     {
       "title": "Meta, state AGs file updated witness lists ahead of social media trial - MLex",
       "pubDate": "Fri, 10 Jul 2026 16:02:00 GMT"
+    },
+    {
+      "title": "From Clicks to Convictions: How AI and Social Media Shape Online Antisemitism and Radicalization - Combat Antisemitism Movement",
+      "pubDate": "Wed, 29 Jul 2026 19:46:42 GMT"
     }
   ],
   "Taiwan": [
@@ -3297,6 +3305,10 @@
     {
       "title": "China puts the \u2018squeeze\u2019 on Taiwan with new maritime patrols - Al Jazeera",
       "pubDate": "Wed, 29 Jul 2026 05:32:45 GMT"
+    },
+    {
+      "title": "Taiwan Needs an AI Cyber Shield Now to Defend Against Invasion - CSIS | Center for Strategic and International Studies",
+      "pubDate": "Wed, 29 Jul 2026 21:03:50 GMT"
     }
   ],
   "Department of Justice": [
@@ -5309,6 +5321,10 @@
     {
       "title": "Carl P. Leubsdorf: Trump administration threatens states to tighten voting rules - reflector.com",
       "pubDate": "Sun, 26 Jul 2026 07:30:00 GMT"
+    },
+    {
+      "title": "ICE Has Deported More Than 66,000 Family Members Under Trump Administration, Family Detention Is Back at Dilley and Karnes - austinkocher.substack.com",
+      "pubDate": "Wed, 29 Jul 2026 20:50:38 GMT"
     }
   ],
   "North Korea": [
@@ -5523,6 +5539,10 @@
     {
       "title": "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center - WSJ",
       "pubDate": "Sun, 26 Jul 2026 23:19:00 GMT"
+    },
+    {
+      "title": "Nvidia CEO takes Al fight from X to Capitol Hill - thestreet.com",
+      "pubDate": "Wed, 29 Jul 2026 23:03:00 GMT"
     }
   ],
   "Unmanned Aerial Vehicles": [
@@ -13083,6 +13103,10 @@
     {
       "title": "Donald Trump to meet Lebanon\u2019s president as US pushes ahead with peace deal - Financial Times",
       "pubDate": "Mon, 20 Jul 2026 17:27:55 GMT"
+    },
+    {
+      "title": "UN human rights chief warns Israeli strikes in Lebanon may constitute international crimes - Jurist.org",
+      "pubDate": "Wed, 29 Jul 2026 23:28:16 GMT"
     }
   ],
   "US Department of Defense": [
