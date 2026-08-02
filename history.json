@@ -297,10 +297,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine strikes Russian electronics plant that builds missile components - The Washington Post",
-      "pubDate": "Thu, 12 Mar 2026 17:23:47 GMT"
-    },
-    {
       "title": "Russia hit Ukraine's hydropower plant eight days ago \u2014 and poisoned a river that flows into Moldova - Euromaidan Press",
       "pubDate": "Mon, 16 Mar 2026 17:05:02 GMT"
     },
@@ -455,6 +451,10 @@
     {
       "title": "Russian attack leaves 8 dead in Ukraine; suspected missile lands in Poland - Detroit Catholic",
       "pubDate": "Fri, 31 Jul 2026 16:02:05 GMT"
+    },
+    {
+      "title": "Zelenskyy: Russia is ramping up ballistic missile production \u2013 video - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
+      "pubDate": "Sun, 02 Aug 2026 08:41:00 GMT"
     }
   ],
   "Russia": [
@@ -1591,6 +1591,10 @@
     {
       "title": "Hamas reaches Gaza disarmament agreement with Board of Peace - Al Jazeera",
       "pubDate": "Fri, 31 Jul 2026 07:44:47 GMT"
+    },
+    {
+      "title": "A look at Trump\u2019s 15-point roadmap for Gaza - israeltoday.co.il",
+      "pubDate": "Sun, 02 Aug 2026 09:24:21 GMT"
     }
   ],
   "Climate Change": [
@@ -7659,6 +7663,10 @@
     {
       "title": "AI cameras on Florida district's 1,300 school buses to spot violators - USA Today",
       "pubDate": "Tue, 28 Jul 2026 14:33:00 GMT"
+    },
+    {
+      "title": "Exclusive: NASA's new KSC chief tackles Artemis deadlines, aging infrastructure - Florida Today",
+      "pubDate": "Sun, 02 Aug 2026 09:05:00 GMT"
     }
   ],
   "Amazon": [
@@ -9881,6 +9889,10 @@
     {
       "title": "'Would straightjacket' DC | Congress looking to take control of District taxes - WUSA9",
       "pubDate": "Wed, 22 Jul 2026 13:18:00 GMT"
+    },
+    {
+      "title": "Could lower property taxes come at a cost to children's healthcare? - wusf.org",
+      "pubDate": "Sun, 02 Aug 2026 09:04:00 GMT"
     }
   ],
   "Zohran Mamdani": [
@@ -10735,6 +10747,10 @@
     {
       "title": "Rubio: Hezbollah trying to \u2018drag Lebanon back into chaos\u2019 through war, call to oust government - The Times of Israel",
       "pubDate": "Mon, 25 May 2026 02:27:14 GMT"
+    },
+    {
+      "title": "Cuban spy network infiltrating US, supporting protesters, Marco Rubio says - The Jerusalem Post",
+      "pubDate": "Sun, 02 Aug 2026 06:45:08 GMT"
     }
   ],
   "Jensen Huang": [
@@ -11275,6 +11291,10 @@
     {
       "title": "The Atlantic calls Patel lawsuit an \u2018assault\u2019 on Constitution in dismissal bid - The Hill",
       "pubDate": "Tue, 28 Jul 2026 13:03:00 GMT"
+    },
+    {
+      "title": "It's AI problem now: Why bots attacking their brethren could quickly turn ugly - thenationalnews.com",
+      "pubDate": "Sun, 02 Aug 2026 04:22:59 GMT"
     }
   ],
   "Asia": [
@@ -13495,6 +13515,12 @@
     {
       "title": "Kamala Harris backs major changes to the Supreme Court, Electoral College ahead of possible 2028 campaign - WFIN",
       "pubDate": "Sat, 01 Aug 2026 13:54:16 GMT"
+    }
+  ],
+  "Mark Cuban": [
+    {
+      "title": "OPEC+ set for September quota increase followed by pause, sources say - Reuters",
+      "pubDate": "Sun, 02 Aug 2026 08:12:44 GMT"
     }
   ]
 }
