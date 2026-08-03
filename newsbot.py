@@ -449,10 +449,12 @@ def main():
         
         html_body_parts = ["<h2>Your News Digest</h2>"]
         for topic, articles in final_digest_to_email.items():
-            section = f'<h3>{html.escape(topic)}</h3>'
+            # Reduced margin-bottom to bring the headline closer to the topic line
+            section = f'<h3 style="margin-top: 20px; margin-bottom: 4px;">{html.escape(topic)}</h3>'
             for art in articles:
                 date_str = to_user_timezone(parsedate_to_datetime(art["pubDate"])).strftime("%a, %d %b %Y %I:%M %p")
-                section += f'<p>📰 <a href="{art["link"]}">{html.escape(art["title"])}</a><br><small>📅 {date_str}</small></p>'
+                # Reduced margin-top on the paragraph to match
+                section += f'<p style="margin-top: 4px; margin-bottom: 12px;">📰 <a href="{art["link"]}">{html.escape(art["title"])}</a><br><small>📅 {date_str}</small></p>'
             html_body_parts.append(section)
         
         msg = EmailMessage()
