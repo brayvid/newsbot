@@ -301,10 +301,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Russia hit Ukraine's hydropower plant eight days ago \u2014 and poisoned a river that flows into Moldova - Euromaidan Press",
-      "pubDate": "Mon, 16 Mar 2026 17:05:02 GMT"
-    },
-    {
       "title": "Ukraine\u2019s top drone commander wants to bleed Russia\u2019s army dry - The Economist",
       "pubDate": "Sun, 22 Mar 2026 19:11:24 GMT"
     },
@@ -459,6 +455,10 @@
     {
       "title": "Zelenskyy: Russia is ramping up ballistic missile production \u2013 video - \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u043f\u0440\u0430\u0432\u0434\u0430",
       "pubDate": "Sun, 02 Aug 2026 08:41:00 GMT"
+    },
+    {
+      "title": "Ukraine cannot defeat Putin\u2019s ballistic blitz by defensive measures alone - Atlantic Council",
+      "pubDate": "Fri, 07 Aug 2026 00:15:23 GMT"
     }
   ],
   "Russia": [
@@ -1773,10 +1773,6 @@
   ],
   "Iran": [
     {
-      "title": "Trump says US-Iran talks to continue Monday in Pakistan - Politico",
-      "pubDate": "Sun, 19 Apr 2026 14:40:09 GMT"
-    },
-    {
       "title": "Oil prices jump 7% after Iran and U.S. attack ships as tensions escalate over Strait of Hormuz - CNBC",
       "pubDate": "Sun, 19 Apr 2026 22:07:43 GMT"
     },
@@ -1931,6 +1927,10 @@
     {
       "title": "Iran Says It Is Nearing Final Agreement With Oman on Strait of Hormuz - The New York Times",
       "pubDate": "Wed, 05 Aug 2026 17:08:46 GMT"
+    },
+    {
+      "title": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz - CNBC",
+      "pubDate": "Fri, 07 Aug 2026 01:00:00 GMT"
     }
   ],
   "Climate": [
@@ -3919,6 +3919,10 @@
     {
       "title": "Victor Marx soliciting unlimited donations despite campaign finance limits - 9News",
       "pubDate": "Fri, 31 Jul 2026 21:48:00 GMT"
+    },
+    {
+      "title": "FINANCE ranks Carlsquare among the most active debt advisers in 2026 - Carlsquare Corporate Finance",
+      "pubDate": "Fri, 07 Aug 2026 08:21:20 GMT"
     }
   ],
   "Black Holes": [
@@ -7705,6 +7709,10 @@
     {
       "title": "A tale of two housing markets: Luxury demand surges as affordability squeezes starter-home buyers - Fox Business",
       "pubDate": "Mon, 03 Aug 2026 22:01:00 GMT"
+    },
+    {
+      "title": "Video $20 burrito sparks debate over affordability - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Fri, 07 Aug 2026 10:10:22 GMT"
     }
   ],
   "Florida": [
@@ -7941,6 +7949,10 @@
     {
       "title": "Amazon revenue soars as AI investments pay off - Axios",
       "pubDate": "Fri, 31 Jul 2026 18:05:29 GMT"
+    },
+    {
+      "title": "Hundreds Arrested in Amazon Environmental Crime Crackdown - globalpost.com",
+      "pubDate": "Fri, 07 Aug 2026 08:14:33 GMT"
     }
   ],
   "Japan": [
@@ -10649,6 +10661,10 @@
     {
       "title": "Middle East flare-up to boost supply chain stress - Oxford Economics",
       "pubDate": "Fri, 24 Jul 2026 10:10:59 GMT"
+    },
+    {
+      "title": "U.S. Arsenals Under Pressure: The Hidden Supply Chain Crisis - - WANA News Agency",
+      "pubDate": "Fri, 07 Aug 2026 07:52:30 GMT"
     }
   ],
   "Iran War Impact on US Economy": [
@@ -11993,6 +12009,10 @@
     {
       "title": "Fake Zoom update malware campaign expands its reach to macOS - AppleInsider",
       "pubDate": "Tue, 04 Aug 2026 13:26:00 GMT"
+    },
+    {
+      "title": "Apple macOS Security Restriction Bypass Vulnerability - Hong Kong Computer Emergency Response Team Coordination Centre",
+      "pubDate": "Fri, 07 Aug 2026 02:55:04 GMT"
     }
   ],
   "Algorithms": [
