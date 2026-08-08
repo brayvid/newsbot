@@ -1103,10 +1103,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "FBI labels suspected China hack of law enforcement data 'a major cyber incident' - NBC News",
-      "pubDate": "Fri, 03 Apr 2026 00:39:00 GMT"
-    },
-    {
       "title": "Microsoft to Invest $10 Billion in Japan on AI Infrastructure, Cybersecurity - WSJ",
       "pubDate": "Fri, 03 Apr 2026 05:39:00 GMT"
     },
@@ -1261,6 +1257,10 @@
     {
       "title": "Several states report cyberattacks as spy agencies suspect Iran is targeting water - The Washington Post",
       "pubDate": "Sun, 02 Aug 2026 03:29:12 GMT"
+    },
+    {
+      "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns - WSJ",
+      "pubDate": "Fri, 07 Aug 2026 21:17:00 GMT"
     }
   ],
   "US Economy": [
@@ -6391,6 +6391,10 @@
     {
       "title": "Bitcoin miners saved Texas power grid from collapse, but their lucrative pivot to AI is stripping away the emergency brake - CryptoSlate",
       "pubDate": "Sat, 01 Aug 2026 08:55:34 GMT"
+    },
+    {
+      "title": "Coldcard Bitcoin Hack: Victims Report Median Loss of 1 BTC as Theft Tops $111 Million - Bitcoin Magazine",
+      "pubDate": "Fri, 07 Aug 2026 18:02:38 GMT"
     }
   ],
   "US Senate": [
@@ -7615,6 +7619,10 @@
     {
       "title": "Meta AI glasses raise Dutch privacy alarm over hidden cameras that film without consent - NL Times",
       "pubDate": "Sun, 02 Aug 2026 16:05:00 GMT"
+    },
+    {
+      "title": "Meta ordered by New Mexico judge to pay $567 million in landmark child safety case - Los Angeles Times",
+      "pubDate": "Fri, 07 Aug 2026 18:50:02 GMT"
     }
   ],
   "Affordability": [
@@ -11111,6 +11119,10 @@
     {
       "title": "Rep. Ro Khanna pushes plan to convert vacant office buildings into housing - KTVU",
       "pubDate": "Wed, 24 Jun 2026 06:47:56 GMT"
+    },
+    {
+      "title": "Rep. Ro Khanna Introduces Data Center Bill of Rights - MeriTalk",
+      "pubDate": "Fri, 07 Aug 2026 18:40:53 GMT"
     }
   ],
   "Investment": [
@@ -11337,6 +11349,10 @@
     {
       "title": "Stymied datacentre projects threaten global AI revolution - The Guardian",
       "pubDate": "Tue, 07 Jul 2026 09:01:00 GMT"
+    },
+    {
+      "title": "Catch the story of how Starbucks workers brewed a labor revolution - Orlando Weekly",
+      "pubDate": "Sat, 08 Aug 2026 00:39:37 GMT"
     }
   ],
   "Income Tax": [
@@ -11677,6 +11693,10 @@
     {
       "title": "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally - CNBC",
       "pubDate": "Wed, 05 Aug 2026 00:57:00 GMT"
+    },
+    {
+      "title": "\u200bOut of bullets, US will have to adjust and change security policy - Asia Times",
+      "pubDate": "Fri, 07 Aug 2026 23:26:22 GMT"
     }
   ],
   "Goldman Sachs": [
@@ -13985,6 +14005,12 @@
     {
       "title": "Peoria High back-to-school video sparks debate over student attire - Peoria Journal Star",
       "pubDate": "Fri, 07 Aug 2026 22:09:00 GMT"
+    }
+  ],
+  "Battery Technology": [
+    {
+      "title": "Sila Receives Conditional $1.4 Billion Loan Commitment from U.S. Department of War to Accelerate Domestic Battery Technology Manufacturing - Business Wire",
+      "pubDate": "Fri, 07 Aug 2026 19:59:00 GMT"
     }
   ]
 }
