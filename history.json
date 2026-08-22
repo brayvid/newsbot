@@ -1127,10 +1127,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Threat cluster launches extortion campaign using social engineering - Cybersecurity Dive",
-      "pubDate": "Tue, 07 Apr 2026 15:39:02 GMT"
-    },
-    {
       "title": "Americans lost over $20 billion in 2025 to online scams; FBI report finds - KOMO",
       "pubDate": "Thu, 09 Apr 2026 03:18:02 GMT"
     },
@@ -1285,6 +1281,10 @@
     {
       "title": "Schiff, Klobuchar introduce Water Cyber Shield Act to boost cybersecurity, address growing cyber threats across water utilities - Industrial Cyber",
       "pubDate": "Mon, 17 Aug 2026 10:29:52 GMT"
+    },
+    {
+      "title": "Microsoft discloses maximum severity flaw in Entra ID - Cybersecurity Dive",
+      "pubDate": "Fri, 21 Aug 2026 16:59:54 GMT"
     }
   ],
   "US Economy": [
@@ -4823,10 +4823,6 @@
   ],
   "Cancer": [
     {
-      "title": "Scientists finally uncover why promising cancer drugs keep failing - ScienceDaily",
-      "pubDate": "Fri, 10 Apr 2026 03:45:55 GMT"
-    },
-    {
       "title": "Replimune's drug for advanced skin cancer fails to win FDA nod again - Reuters",
       "pubDate": "Fri, 10 Apr 2026 20:57:19 GMT"
     },
@@ -4981,6 +4977,10 @@
     {
       "title": "A unified framework to explain one of cancer's major drivers - Medical Xpress",
       "pubDate": "Thu, 20 Aug 2026 22:40:04 GMT"
+    },
+    {
+      "title": "Scientists Uncover Hidden Cell Type That Shields Lung Cancer - Columbia University Irving Medical Center",
+      "pubDate": "Fri, 21 Aug 2026 19:39:54 GMT"
     }
   ],
   "World Economy": [
@@ -6823,6 +6823,10 @@
     {
       "title": "Bitcoin and ethereum prices today, Monday, August 10, 2026: BTC breaking past $65,000 yet again - Yahoo Finance",
       "pubDate": "Mon, 10 Aug 2026 12:57:22 GMT"
+    },
+    {
+      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin - CNBC",
+      "pubDate": "Fri, 21 Aug 2026 19:21:21 GMT"
     }
   ],
   "US Senate": [
@@ -10017,6 +10021,10 @@
     {
       "title": "CEOs shift messaging around AI and layoffs - Axios",
       "pubDate": "Thu, 20 Aug 2026 16:30:53 GMT"
+    },
+    {
+      "title": "Fast-growing biotech startup Cellares plans layoffs after losing major customer - The Business Journals",
+      "pubDate": "Fri, 21 Aug 2026 20:01:00 GMT"
     }
   ],
   "Tariffs": [
@@ -10881,6 +10889,10 @@
     {
       "title": "Otter.ai faces privacy class action - Courthouse News",
       "pubDate": "Mon, 17 Aug 2026 21:57:03 GMT"
+    },
+    {
+      "title": "Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: \"I had no say\" - CBS News",
+      "pubDate": "Fri, 21 Aug 2026 17:49:00 GMT"
     }
   ],
   "Financial Data": [
@@ -12997,6 +13009,10 @@
     {
       "title": "A County Got Rich From Data Centers. Some Question \u2018At What Cost?\u2019 - The New York Times",
       "pubDate": "Fri, 21 Aug 2026 20:55:48 GMT"
+    },
+    {
+      "title": "MAHA warns Trump against coal-powered AI data centers - Axios",
+      "pubDate": "Fri, 21 Aug 2026 18:07:00 GMT"
     }
   ],
   "US-China Relations": [
@@ -15077,6 +15093,10 @@
     {
       "title": "Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future - TechCrunch",
       "pubDate": "Sun, 16 Aug 2026 20:32:01 GMT"
+    },
+    {
+      "title": "Mark Zuckerberg Buys an Irish Castle - The New York Times",
+      "pubDate": "Fri, 21 Aug 2026 19:16:03 GMT"
     }
   ],
   "Protein Folding": [
