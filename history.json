@@ -1131,10 +1131,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Americans lost over $20 billion in 2025 to online scams; FBI report finds - KOMO",
-      "pubDate": "Thu, 09 Apr 2026 03:18:02 GMT"
-    },
-    {
       "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident - The Hacker News",
       "pubDate": "Mon, 13 Apr 2026 06:50:00 GMT"
     },
@@ -1289,6 +1285,10 @@
     {
       "title": "Microsoft discloses maximum severity flaw in Entra ID - Cybersecurity Dive",
       "pubDate": "Fri, 21 Aug 2026 16:59:54 GMT"
+    },
+    {
+      "title": "'This vendor needs to go': Cybersecurity engineer warns Seattle's camera system is one merger away from a nationwide dragnet - MyNorthwest.com",
+      "pubDate": "Sun, 23 Aug 2026 12:00:18 GMT"
     }
   ],
   "US Economy": [
@@ -1671,6 +1671,10 @@
     {
       "title": "\u2018Shameful\u2019: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision - The Guardian",
       "pubDate": "Fri, 21 Aug 2026 14:17:00 GMT"
+    },
+    {
+      "title": "IDF kills Hamas commander, attacks weapons production site near aid center in Gaza strikes - The Jerusalem Post",
+      "pubDate": "Sun, 23 Aug 2026 15:45:16 GMT"
     }
   ],
   "Climate Change": [
@@ -4847,10 +4851,6 @@
   ],
   "Cancer": [
     {
-      "title": "Revolution Medicines says its potential breakthrough pancreatic cancer drug succeeds in late-stage trial - CNBC",
-      "pubDate": "Mon, 13 Apr 2026 12:00:19 GMT"
-    },
-    {
       "title": "Experimental drug doubles one-year survival in pancreatic cancer - Live Science",
       "pubDate": "Sat, 18 Apr 2026 13:00:00 GMT"
     },
@@ -5005,6 +5005,10 @@
     {
       "title": "Oral therapy protected mice from lethal radiation while sparing cancer treatment - Medical Xpress",
       "pubDate": "Sat, 22 Aug 2026 15:20:03 GMT"
+    },
+    {
+      "title": "Hype for Moderna\u2019s Cancer Vaccine Is Running Ahead of the Math - WSJ",
+      "pubDate": "Sun, 23 Aug 2026 09:30:00 GMT"
     }
   ],
   "World Economy": [
@@ -10855,6 +10859,10 @@
     {
       "title": "Only 2% of real estate brokerages say they won't adopt AI in 2026 - HousingWire",
       "pubDate": "Thu, 06 Aug 2026 16:04:09 GMT"
+    },
+    {
+      "title": "9 of the Best Small U.S. Cities to Move to Right Now, According to Real Estate Experts - Travel + Leisure",
+      "pubDate": "Sun, 23 Aug 2026 10:35:00 GMT"
     }
   ],
   "Privacy": [
@@ -12911,6 +12919,10 @@
     {
       "title": "Board of State Canvassers approves ballot language for money out of politics proposal - Michigan Advance",
       "pubDate": "Mon, 17 Aug 2026 20:15:34 GMT"
+    },
+    {
+      "title": "Some Take On Debt for Their Weddings. These Brides Are Making Money. - WSJ",
+      "pubDate": "Sun, 23 Aug 2026 14:02:39 GMT"
     }
   ],
   "US House of Representatives": [
@@ -15017,6 +15029,10 @@
     {
       "title": "102 senior diplomats urge West Bank action against Israeli 'ethnic cleansing' - France 24",
       "pubDate": "Sat, 22 Aug 2026 14:45:08 GMT"
+    },
+    {
+      "title": "Israeli Man Moderately Wounded in West Bank Stabbing Attack, Medics Say - Haaretz",
+      "pubDate": "Sun, 23 Aug 2026 13:52:00 GMT"
     }
   ],
   "Lindsay Graham": [
@@ -15381,6 +15397,12 @@
     {
       "title": "The surveillance state got creepier - WHYY",
       "pubDate": "Thu, 20 Aug 2026 18:13:39 GMT"
+    }
+  ],
+  "AI in Defense": [
+    {
+      "title": "Israeli defense minister threatens Gaza assassinations, evacuations over balloon launches - Anadolu Ajans\u0131",
+      "pubDate": "Sun, 23 Aug 2026 14:50:43 GMT"
     }
   ]
 }
