@@ -487,10 +487,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia and Ukraine agree to 32-hour Orthodox Easter ceasefire - Al Jazeera",
-      "pubDate": "Fri, 10 Apr 2026 07:59:28 GMT"
-    },
-    {
       "title": "Ukraine, Russia move towards potential peace deal, Bloomberg reports - Reuters",
       "pubDate": "Fri, 10 Apr 2026 12:01:08 GMT"
     },
@@ -645,6 +641,10 @@
     {
       "title": "Ukraine \u2018offering Russia deal to halt attacks on civilian ships in Black Sea\u2019 - theguardian.com",
       "pubDate": "Fri, 14 Aug 2026 01:30:00 GMT"
+    },
+    {
+      "title": "Russia, Ukraine trade deadly attacks as Putin warns of \u2018destructive\u2019 hits - Al Jazeera",
+      "pubDate": "Sat, 22 Aug 2026 22:00:04 GMT"
     }
   ],
   "Donald Trump": [
@@ -1391,6 +1391,10 @@
     {
       "title": "The AI boom shows no sign of slowing \u2014 and the U.S. economy is reaping the benefits - MarketWatch",
       "pubDate": "Mon, 27 Jul 2026 15:22:00 GMT"
+    },
+    {
+      "title": "U.S. Economy Could Feel the Sting From Trade War With Canada - The New York Times",
+      "pubDate": "Sat, 22 Aug 2026 17:25:42 GMT"
     }
   ],
   "OpenAI": [
@@ -2251,6 +2255,10 @@
     {
       "title": "Russian drones kill 14 people at a shopping mall in a central Ukrainian city, officials say - NBC News",
       "pubDate": "Fri, 21 Aug 2026 18:55:08 GMT"
+    },
+    {
+      "title": "Cartels using drones along southern border, officials warn - FOX 10 Phoenix",
+      "pubDate": "Sun, 23 Aug 2026 01:02:54 GMT"
     }
   ],
   "Federal Reserve": [
@@ -4263,6 +4271,10 @@
     {
       "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect - Axios",
       "pubDate": "Sat, 22 Aug 2026 05:04:01 GMT"
+    },
+    {
+      "title": "A trade war between Canada and the US further ruptures a once-close and durable alliance - AP News",
+      "pubDate": "Sat, 22 Aug 2026 18:31:00 GMT"
     }
   ],
   "National Security Agency": [
@@ -5355,6 +5367,10 @@
     {
       "title": "How AI could bring Mayo-quality health care to everyone - Axios",
       "pubDate": "Sun, 16 Aug 2026 10:00:14 GMT"
+    },
+    {
+      "title": "Mental health issues, chronic disease increasing in San Antonio homeless population, data suggests - San Antonio Report",
+      "pubDate": "Sat, 22 Aug 2026 19:00:00 GMT"
     }
   ],
   "US Treasury": [
@@ -5573,6 +5589,10 @@
     {
       "title": "Mars consolidates complex data infrastructure in hybrid cloud - cio.com",
       "pubDate": "Thu, 20 Aug 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Rising data center backlash shakes up midterm races - The Hill",
+      "pubDate": "Sat, 22 Aug 2026 21:00:00 GMT"
     }
   ],
   "Petroleum": [
@@ -6159,6 +6179,10 @@
     {
       "title": "China eases limits on Nvidia H200 chips as AI race escalates - Financial Times",
       "pubDate": "Wed, 19 Aug 2026 02:09:39 GMT"
+    },
+    {
+      "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
+      "pubDate": "Sun, 23 Aug 2026 00:00:00 GMT"
     }
   ],
   "Unmanned Aerial Vehicles": [
