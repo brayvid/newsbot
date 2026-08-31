@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "Federal judge temporarily blocks the Pentagon from branding AI firm Anthropic a supply chain risk - AP News",
-      "pubDate": "Fri, 27 Mar 2026 00:51:00 GMT"
-    },
-    {
       "title": "Number of AI chatbots ignoring human instructions increasing, study says - The Guardian",
       "pubDate": "Fri, 27 Mar 2026 20:47:00 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs - WRAL",
       "pubDate": "Mon, 24 Aug 2026 03:45:13 GMT"
+    },
+    {
+      "title": "How digital health can strengthen breastfeeding support - philips.com",
+      "pubDate": "Mon, 31 Aug 2026 12:15:00 GMT"
     }
   ],
   "Israel": [
@@ -3677,6 +3677,10 @@
     {
       "title": "China deploys record number of ships around Taiwan as pressure grows - Yahoo",
       "pubDate": "Thu, 27 Aug 2026 03:36:00 GMT"
+    },
+    {
+      "title": "Taiwan says 'unpredictable' China strengthens air and sea control nearby - Reuters",
+      "pubDate": "Mon, 31 Aug 2026 12:49:45 GMT"
     }
   ],
   "Department of Justice": [
@@ -5511,6 +5515,10 @@
     {
       "title": "When the Nation\u2019s Top Health Official Becomes the Outbreak\u2019s Biggest Obstacle - Global Biodefense",
       "pubDate": "Sat, 29 Aug 2026 14:45:00 GMT"
+    },
+    {
+      "title": "Secretive deals may cut billions from U.S. global health spending, analysis shows - The Washington Post",
+      "pubDate": "Mon, 31 Aug 2026 16:02:35 GMT"
     }
   ],
   "US Treasury": [
@@ -11321,6 +11329,10 @@
     {
       "title": "Law enforcement leaders clash over privacy concerns, value of Flock cameras - Yahoo",
       "pubDate": "Sat, 29 Aug 2026 21:24:04 GMT"
+    },
+    {
+      "title": "KFF Survey of Health Status and Caregiving: Examining LGBTQ+ Adults\u2019 Experiences with Health Care Costs and Access - ssrs.com",
+      "pubDate": "Mon, 31 Aug 2026 15:44:58 GMT"
     }
   ],
   "Financial Data": [
@@ -14395,6 +14407,10 @@
     {
       "title": "The Rise of Agentic AI in Healthcare Information Management - Mexico Business News",
       "pubDate": "Fri, 21 Aug 2026 14:00:00 GMT"
+    },
+    {
+      "title": "AI giants lean into health care to stall public backlash - Axios",
+      "pubDate": "Mon, 31 Aug 2026 10:53:17 GMT"
     }
   ],
   "Kathy Hochul": [
@@ -15127,6 +15143,10 @@
     {
       "title": "US military kills four in strike on alleged drug smuggling boat in Caribbean - The Guardian",
       "pubDate": "Wed, 26 Aug 2026 04:00:00 GMT"
+    },
+    {
+      "title": "U.S. Forces Target Iranian Launchers; Iran Retaliates Against U.S. Military Targets in the Region - Democracy Now!",
+      "pubDate": "Mon, 31 Aug 2026 14:10:58 GMT"
     }
   ],
   "Tom Llamas": [
@@ -15997,6 +16017,12 @@
     {
       "title": "Global Warming Is Breaking The Link Between Two Major Oceans - ScienceAlert",
       "pubDate": "Sat, 29 Aug 2026 10:03:58 GMT"
+    }
+  ],
+  "Mental Health": [
+    {
+      "title": "World Mental Health Day webinar - World Health Organization (WHO)",
+      "pubDate": "Mon, 31 Aug 2026 12:40:07 GMT"
     }
   ]
 }
