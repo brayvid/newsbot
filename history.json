@@ -163,10 +163,6 @@
   ],
   "Israel": [
     {
-      "title": "U.N. experts demand Israel release prominent Gaza doctor after reports of 'severe torture' - NBC News",
-      "pubDate": "Wed, 25 Mar 2026 15:55:58 GMT"
-    },
-    {
       "title": "Iran War Live Updates: 12 U.S. Troops Injured in Attack on Saudi Base, Officials Say - The New York Times",
       "pubDate": "Fri, 27 Mar 2026 19:12:23 GMT"
     },
@@ -321,6 +317,10 @@
     {
       "title": "Growing international pressure puts Israel under diplomatic strain: Israeli media - Anadolu Ajans\u0131",
       "pubDate": "Sat, 22 Aug 2026 11:08:13 GMT"
+    },
+    {
+      "title": "Israel/OPT: South Africa ICJ submission must spur states to press Israel to end its genocide in Gaza - Amnesty International",
+      "pubDate": "Tue, 01 Sep 2026 14:48:10 GMT"
     }
   ],
   "Ukraine": [
@@ -1695,10 +1695,6 @@
   ],
   "Climate Change": [
     {
-      "title": "Global warming already impacts daily lives around the globe, study finds - Mongabay",
-      "pubDate": "Mon, 30 Mar 2026 15:27:38 GMT"
-    },
-    {
       "title": "Climate change is making homes shrink and crack - Down to Earth - France 24",
       "pubDate": "Tue, 31 Mar 2026 11:52:35 GMT"
     },
@@ -1853,6 +1849,10 @@
     {
       "title": "As super El Nino strengthens, study suggests that climate change is intensifying El Ninos - Phys.org",
       "pubDate": "Sun, 30 Aug 2026 18:00:02 GMT"
+    },
+    {
+      "title": "Antimicrobial Resistance Is Killing Millions. Climate Change Is Making It Worse. - eos.org",
+      "pubDate": "Tue, 01 Sep 2026 12:39:00 GMT"
     }
   ],
   "Iran": [
@@ -13635,6 +13635,10 @@
     {
       "title": "Pritzker signs law targeting \u2018addictive algorithms\u2019 and social media use for Illinois minors - KWQC",
       "pubDate": "Sat, 01 Aug 2026 10:00:00 GMT"
+    },
+    {
+      "title": "How algorithms are making our environments bland - The Conversation",
+      "pubDate": "Tue, 01 Sep 2026 14:00:05 GMT"
     }
   ],
   "Republican Party": [
@@ -15871,6 +15875,10 @@
     {
       "title": "Streaming executives point to AI impacts in analytics and workflows - NewscastStudio",
       "pubDate": "Fri, 28 Aug 2026 16:32:12 GMT"
+    },
+    {
+      "title": "How ZS democratized secure ad-hoc analytics with Amazon SageMaker - Amazon Web Services (AWS)",
+      "pubDate": "Tue, 01 Sep 2026 15:47:00 GMT"
     }
   ],
   "Jon Stewart": [
@@ -16039,6 +16047,24 @@
     {
       "title": "World Mental Health Day webinar - World Health Organization (WHO)",
       "pubDate": "Mon, 31 Aug 2026 12:40:07 GMT"
+    }
+  ],
+  "Anduril Industries": [
+    {
+      "title": "EU considers military mission to replace UN peacekeepers in South Lebanon - aljazeera.com",
+      "pubDate": "Tue, 01 Sep 2026 05:35:33 GMT"
+    }
+  ],
+  "Kaitlan Collins": [
+    {
+      "title": "Kaitlan Collins Humiliates Trump With Brutal Polling Reality - The Daily Beast",
+      "pubDate": "Tue, 01 Sep 2026 13:40:00 GMT"
+    }
+  ],
+  "Maggie Haberman": [
+    {
+      "title": "Haberman: \u2018No polling\u2019 where Trump is popular - The Hill",
+      "pubDate": "Tue, 01 Sep 2026 15:27:00 GMT"
     }
   ]
 }
