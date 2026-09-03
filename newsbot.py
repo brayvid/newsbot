@@ -36,6 +36,8 @@ from datetime import datetime, timedelta
 from email.message import EmailMessage
 import xml.etree.ElementTree as ET
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util import Retry
 from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 from nltk.stem import PorterStemmer, WordNetLemmatizer
@@ -88,47 +90,62 @@ def ensure_nltk_data():
 
 ensure_nltk_data()
 
+# Robust URL fetcher with exponential backoff retries
+def fetch_url_with_retry(url, max_retries=3):
+    session = requests.Session()
+    retries = Retry(
+        total=max_retries,
+        backoff_factor=3,  # Waits 3s, 6s, 12s between retries
+        status_forcelist=[500, 502, 503, 504],
+        raise_on_status=False
+    )
+    session.mount("https://", HTTPAdapter(max_retries=retries))
+    try:
+        response = session.get(url, timeout=(10, 35))
+        response.raise_for_status()
+        return response.text
+    except Exception as e:
+        logging.warning(f"Fetch failed after retries for {url}: {e}")
+        return None
+
 # Loads key-value config settings from a CSV Google Sheet URL.
 def load_config_from_sheet(url):
-    config = {}
-    try:
-        response = requests.get(url, timeout=15)
-        response.raise_for_status()
-        lines = response.text.splitlines()
-        reader = csv.reader(lines)
-        next(reader, None)  # skip header
-        for row in reader:
-            if len(row) >= 2:
-                key = row[0].strip()
-                val = row[1].strip()
-                try:
-                    if '.' in val and not val.startswith('0.') and val.count('.') == 1:
-                        config[key] = int(float(val)) if float(val) == int(float(val)) else float(val)
-                    else:
-                        config[key] = int(val)
-                except ValueError:
-                    if val.lower() == 'true': config[key] = True
-                    elif val.lower() == 'false': config[key] = False
-                    else: config[key] = val
-        return config
-    except Exception as e:
-        logging.error(f"Failed to load config from {url}: {e}")
+    csv_text = fetch_url_with_retry(url)
+    if not csv_text:
         return None
+    config = {}
+    lines = csv_text.splitlines()
+    reader = csv.reader(lines)
+    next(reader, None)  # skip header
+    for row in reader:
+        if len(row) >= 2:
+            key = row[0].strip()
+            val = row[1].strip()
+            try:
+                if '.' in val and not val.startswith('0.') and val.count('.') == 1:
+                    config[key] = int(float(val)) if float(val) == int(float(val)) else float(val)
+                else:
+                    config[key] = int(val)
+            except ValueError:
+                if val.lower() == 'true': config[key] = True
+                elif val.lower() == 'false': config[key] = False
+                else: config[key] = val
+    return config
 
 # Load config before main
 CONFIG = load_config_from_sheet(CONFIG_CSV_URL)
 if CONFIG is None:
-    logging.critical("Fatal: Unable to load CONFIG from sheet. Exiting.")
+    logging.warning("Failed to load CONFIG from sheet after retries. Skipping run cleanly.")
     if os.path.exists(LOCKFILE): os.remove(LOCKFILE)
-    sys.exit(1)
+    sys.exit(0)
 
-MAX_ARTICLE_HOURS = int(CONFIG.get("MAX_ARTICLE_HOURS", 6))
+MAX_ARTICLE_HOURS = int(CONFIG.get("MAX_ARTICLE_HOURS", 12))
 MAX_TOPICS = int(CONFIG.get("MAX_TOPICS", 7))
 MAX_ARTICLES_PER_TOPIC = int(CONFIG.get("MAX_ARTICLES_PER_TOPIC", 1))
-DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR", 0.5))
-MATCH_THRESHOLD = float(CONFIG.get("DEDUPLICATION_MATCH_THRESHOLD", 0.4)) 
+DEMOTE_FACTOR = float(CONFIG.get("DEMOTE_FACTOR", 0.2))
+MATCH_THRESHOLD = float(CONFIG.get("DEDUPLICATION_MATCH_THRESHOLD", 0.9)) 
 GEMINI_MODEL_NAME = CONFIG.get("DIGEST_GEMINI_MODEL_NAME", "gemini-2.5-flash-lite") 
-MAX_CANDIDATES_FOR_LLM = int(CONFIG.get("MAX_CANDIDATES_FOR_LLM", 150))
+MAX_CANDIDATES_FOR_LLM = int(CONFIG.get("MAX_CANDIDATES_FOR_LLM", 100))
 BATCH_SIZE = 10 # Consolidated fetching size
 
 USER_TIMEZONE = CONFIG.get("TIMEZONE", "America/New_York")
@@ -138,38 +155,37 @@ except Exception:
     ZONE = ZoneInfo("America/New_York")
 
 def load_csv_weights(url):
+    csv_text = fetch_url_with_retry(url)
+    if not csv_text:
+        return None
     weights = {}
-    try:
-        response = requests.get(url, timeout=15)
-        response.raise_for_status()
-        reader = csv.reader(response.text.splitlines())
-        next(reader, None)
-        for row in reader:
-            if len(row) >= 2:
-                try: weights[row[0].strip()] = int(row[1])
-                except: continue
-        return weights
-    except Exception as e:
-        logging.error(f"Failed to load weights: {e}"); return None
+    reader = csv.reader(csv_text.splitlines())
+    next(reader, None)
+    for row in reader:
+        if len(row) >= 2:
+            try: weights[row[0].strip()] = int(row[1])
+            except: continue
+    return weights
     
 def load_overrides(url):
+    csv_text = fetch_url_with_retry(url)
+    if not csv_text:
+        return None
     overrides = {}
-    try:
-        response = requests.get(url, timeout=15); response.raise_for_status()
-        reader = csv.reader(response.text.splitlines()); next(reader, None)
-        for row in reader:
-            if len(row) >= 2: overrides[row[0].strip().lower()] = row[1].strip().lower()
-        return overrides
-    except Exception as e:
-        logging.error(f"Failed to load overrides: {e}"); return None
+    reader = csv.reader(csv_text.splitlines())
+    next(reader, None)
+    for row in reader:
+        if len(row) >= 2: overrides[row[0].strip().lower()] = row[1].strip().lower()
+    return overrides
 
 TOPIC_WEIGHTS = load_csv_weights(TOPICS_CSV_URL)
 KEYWORD_WEIGHTS = load_csv_weights(KEYWORDS_CSV_URL)
 OVERRIDES = load_overrides(OVERRIDES_CSV_URL)
 
 if None in (TOPIC_WEIGHTS, KEYWORD_WEIGHTS, OVERRIDES):
+    logging.warning("Failed to load weights/overrides from sheets after retries. Skipping run cleanly.")
     if os.path.exists(LOCKFILE): os.remove(LOCKFILE)
-    sys.exit(1)
+    sys.exit(0)
 
 def normalize(text):
     words = re.findall(r'\b\w+\b', text.lower())
