@@ -3523,10 +3523,6 @@
   ],
   "Taiwan": [
     {
-      "title": "Exclusive: New US weapons for Taiwan could be approved after Trump's China trip, sources say - Reuters",
-      "pubDate": "Fri, 13 Mar 2026 04:04:34 GMT"
-    },
-    {
       "title": "US intelligence agencies not expecting China to invade Taiwan in 2027 - Al Jazeera",
       "pubDate": "Thu, 19 Mar 2026 05:30:25 GMT"
     },
@@ -3681,6 +3677,10 @@
     {
       "title": "Taiwan says 'unpredictable' China strengthens air and sea control nearby - Reuters",
       "pubDate": "Mon, 31 Aug 2026 12:49:45 GMT"
+    },
+    {
+      "title": "Taiwan eyes silicon photonics as next big tech leap - Taipei Times",
+      "pubDate": "Sun, 06 Sep 2026 16:00:00 GMT"
     }
   ],
   "Department of Justice": [
@@ -4757,6 +4757,10 @@
     {
       "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
       "pubDate": "Tue, 25 Aug 2026 15:33:58 GMT"
+    },
+    {
+      "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data - the-decoder.com",
+      "pubDate": "Sun, 06 Sep 2026 10:40:36 GMT"
     }
   ],
   "Asteroids": [
@@ -7013,6 +7017,10 @@
     {
       "title": "Cathie Wood's ARK Goes On $27 Million SpaceX Shopping Spree - Investor's Business Daily",
       "pubDate": "Mon, 24 Aug 2026 16:11:00 GMT"
+    },
+    {
+      "title": "SpaceX and other rocket companies may soon be exempt from key environmental rules - NBC News",
+      "pubDate": "Sun, 06 Sep 2026 11:00:00 GMT"
     }
   ],
   "Bitcoin": [
@@ -7225,6 +7233,10 @@
     {
       "title": "Texas 2026 Poll: Paxton and Talarico Deadlocked in U.S. Senate Race; Abbott Leads Hinojosa by Four Points - - Emerson Polling",
       "pubDate": "Thu, 13 Aug 2026 10:08:08 GMT"
+    },
+    {
+      "title": "How Talarico and Paxton could fare in crucial North Texas counties in U.S. Senate race - CBS News",
+      "pubDate": "Sun, 06 Sep 2026 12:13:00 GMT"
     }
   ],
   "Palantir": [
@@ -15907,6 +15919,10 @@
     {
       "title": "World Bank warns of Lebanon economic downslide due to Hezbollah war with Israel - The Jerusalem Post",
       "pubDate": "Sun, 23 Aug 2026 12:39:26 GMT"
+    },
+    {
+      "title": "Israeli airstrikes on southern Lebanon kill 4 people and wound 20 others - AP News",
+      "pubDate": "Sun, 06 Sep 2026 12:52:00 GMT"
     }
   ],
   "US Department of Defense": [
@@ -16261,6 +16277,12 @@
     {
       "title": "Texas A&M bids to manage NASA\u2019s Jet Propulsion Laboratory - kbtx.com",
       "pubDate": "Wed, 02 Sep 2026 01:00:00 GMT"
+    }
+  ],
+  "US Department of State": [
+    {
+      "title": "Shafaq News..Lebanon accuses Israel of targeting state institutions - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+      "pubDate": "Sun, 06 Sep 2026 11:49:06 GMT"
     }
   ]
 }
