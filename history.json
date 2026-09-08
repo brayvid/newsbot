@@ -487,10 +487,6 @@
   ],
   "Russia": [
     {
-      "title": "Ukraine war briefing: Kim Jong-un strengthens military ties with Russia and hails soldiers who fought in Kursk - The Guardian",
-      "pubDate": "Mon, 27 Apr 2026 00:39:00 GMT"
-    },
-    {
       "title": "The US will suffer more from oil shock than China, Russia, or EU - Responsible Statecraft",
       "pubDate": "Fri, 01 May 2026 04:05:27 GMT"
     },
@@ -645,6 +641,10 @@
     {
       "title": "A Spiral of Escalation for Russia and Ukraine, With No End in Sight - The New York Times",
       "pubDate": "Thu, 03 Sep 2026 11:35:44 GMT"
+    },
+    {
+      "title": "Russia hits Kyiv after brief pause for US envoys' visit, killing three - Reuters",
+      "pubDate": "Tue, 08 Sep 2026 02:57:00 GMT"
     }
   ],
   "Donald Trump": [
@@ -3807,6 +3807,10 @@
     {
       "title": "SEIA reports record-breaking energy storage installation numbers in Q2 2026 - Solar Builder",
       "pubDate": "Tue, 01 Sep 2026 18:10:42 GMT"
+    },
+    {
+      "title": "Belgium: EDF inaugurates 600MWh BESS, Engie starts building 296MWh project - Energy-Storage.News",
+      "pubDate": "Tue, 08 Sep 2026 10:00:48 GMT"
     }
   ],
   "Artemis Program": [
@@ -7271,6 +7275,10 @@
     {
       "title": "Palantir Technologies (PLTR) Moved, What Is Behind The Attention Today? - simplywall.st",
       "pubDate": "Sat, 15 Aug 2026 13:34:47 GMT"
+    },
+    {
+      "title": "\u2018Mistrust\u2019 of Palantir may affect NHS research, says health minister - theguardian.com",
+      "pubDate": "Tue, 08 Sep 2026 01:30:00 GMT"
     }
   ],
   "Artificial General Intelligence": [
@@ -9659,6 +9667,10 @@
     {
       "title": "Apple facing $2.7 billion UK lawsuit over 'unfair' app tracking rules - Reuters",
       "pubDate": "Thu, 03 Sep 2026 15:20:24 GMT"
+    },
+    {
+      "title": "Key App Developers Have Yet to Embrace Apple\u2019s New Siri A.I. - The New York Times",
+      "pubDate": "Tue, 08 Sep 2026 09:04:17 GMT"
     }
   ],
   "Jerome Powell": [
@@ -10263,6 +10275,10 @@
     {
       "title": "What\u2019s Left of Russian Democracy? Some Say a Debate Over a Statue - WSJ",
       "pubDate": "Fri, 28 Aug 2026 18:55:00 GMT"
+    },
+    {
+      "title": "Can We Save Democracy? - The Nation",
+      "pubDate": "Tue, 08 Sep 2026 10:30:39 GMT"
     }
   ],
   "Strait of Hormuz": [
@@ -15849,6 +15865,10 @@
     {
       "title": "Rare New Jersey Meteorite Fragments Reveal Chemistry Linked to Life\u2019s Origins - NCHStats",
       "pubDate": "Fri, 17 Jul 2026 09:19:17 GMT"
+    },
+    {
+      "title": "Artificial intelligence is causing a reckoning in the chemistry intellectual property community - C&EN",
+      "pubDate": "Tue, 08 Sep 2026 10:24:57 GMT"
     }
   ],
   "Amazon Web Services": [
@@ -16283,6 +16303,12 @@
     {
       "title": "Shafaq News..Lebanon accuses Israel of targeting state institutions - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
       "pubDate": "Sun, 06 Sep 2026 11:49:06 GMT"
+    }
+  ],
+  "Mark Warner": [
+    {
+      "title": "Apple's 'I'm Not Remarkable' Wins Emmy for Outstanding Commercial - Little Black Book | LBBOnline",
+      "pubDate": "Tue, 08 Sep 2026 09:54:26 GMT"
     }
   ]
 }
