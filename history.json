@@ -2149,10 +2149,6 @@
   ],
   "Drones": [
     {
-      "title": "U.S. Military Ramps Up Assaults on Iranian Drones and Vessels to Clear Strait of Hormuz - The New York Times",
-      "pubDate": "Fri, 20 Mar 2026 13:13:55 GMT"
-    },
-    {
       "title": "High-speed combat drone production to start at new US Anduril plant - MSN",
       "pubDate": "Sat, 21 Mar 2026 10:55:08 GMT"
     },
@@ -2307,6 +2303,10 @@
     {
       "title": "It took 2,977 drones to create this stunning 9/11 memorial show. Here\u2019s how they pulled it off - Fast Company",
       "pubDate": "Fri, 11 Sep 2026 10:42:37 GMT"
+    },
+    {
+      "title": "Drones are security threat to almost everything: These companies are defending against them - Jefferson City News Tribune",
+      "pubDate": "Sun, 13 Sep 2026 09:00:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -2489,6 +2489,10 @@
     {
       "title": "US ambassador to Israel calls settler violence \u2018terror\u2019 - Al Jazeera",
       "pubDate": "Wed, 19 Aug 2026 00:49:50 GMT"
+    },
+    {
+      "title": "Secret court orders deportation of Afghan woman accused of terrorism - Jurist.org",
+      "pubDate": "Sun, 13 Sep 2026 15:02:56 GMT"
     }
   ],
   "United Nations": [
@@ -8623,6 +8627,10 @@
     {
       "title": "Meta ordered by New Mexico judge to pay $567 million in landmark child safety case - Los Angeles Times",
       "pubDate": "Fri, 07 Aug 2026 18:50:02 GMT"
+    },
+    {
+      "title": "I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants. - Business Insider",
+      "pubDate": "Sun, 13 Sep 2026 09:04:00 GMT"
     }
   ],
   "Affordability": [
@@ -9293,6 +9301,10 @@
     {
       "title": "OpenAI upheaval mounts as Sam Altman readies IPO push - Financial Times",
       "pubDate": "Sat, 15 Aug 2026 04:02:14 GMT"
+    },
+    {
+      "title": "IPO Delayed: Sam Altman Says an OpenAI Going Public in 2026 Would Be \u2018Ill-Advised\u2019 - Yahoo Finance",
+      "pubDate": "Sun, 13 Sep 2026 15:08:28 GMT"
     }
   ],
   "California": [
@@ -10453,6 +10465,10 @@
     {
       "title": "2 Mariners Killed in Strait of Hormuz as Transits See Small Increase - USNI News",
       "pubDate": "Sat, 22 Aug 2026 01:13:00 GMT"
+    },
+    {
+      "title": "Iranian media say 1 killed in ship strike on the Strait of Hormuz, and other Mideast developments - AP News",
+      "pubDate": "Sun, 13 Sep 2026 13:22:00 GMT"
     }
   ],
   "Robotics": [
@@ -11829,6 +11845,10 @@
     {
       "title": "Software Stocks Are Bouncing Back From AI Fears. BofA Sees More Gains Ahead. - barrons.com",
       "pubDate": "Wed, 19 Aug 2026 18:15:00 GMT"
+    },
+    {
+      "title": "Toyota recalls thousands of EVs due to software issue that could cause sudden loss of power - WUSA9",
+      "pubDate": "Sun, 13 Sep 2026 14:50:00 GMT"
     }
   ],
   "Neil Gorsuch": [
@@ -16507,6 +16527,12 @@
     {
       "title": "Federal land officials accept plans for a Nevada lithium project. Its estimated mine life is 68 years. - Stock Titan",
       "pubDate": "Tue, 08 Sep 2026 12:45:00 GMT"
+    }
+  ],
+  "Barack Obama": [
+    {
+      "title": "Obama reportedly urges Democrats to prioritize safety plan for AI - The Guardian",
+      "pubDate": "Sun, 13 Sep 2026 15:47:00 GMT"
     }
   ]
 }
