@@ -1861,10 +1861,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran fires on 3 ships in the Strait of Hormuz as US maintains blockade and diplomacy stalls - AP News",
-      "pubDate": "Thu, 23 Apr 2026 02:45:00 GMT"
-    },
-    {
       "title": "Trump says US will not use nuclear weapon in Iran war - Reuters",
       "pubDate": "Thu, 23 Apr 2026 23:22:14 GMT"
     },
@@ -2019,6 +2015,10 @@
     {
       "title": "Iran\u2019s Secret Plan to Escalate the War - WSJ",
       "pubDate": "Mon, 17 Aug 2026 01:44:20 GMT"
+    },
+    {
+      "title": "How the Iran War Forced the Gulf to Rethink Its Security - Time Magazine",
+      "pubDate": "Mon, 14 Sep 2026 10:00:00 GMT"
     }
   ],
   "Climate": [
@@ -5685,6 +5685,10 @@
     {
       "title": "Escalating trade war with Canada ruptures once close alliance - CBS News",
       "pubDate": "Mon, 24 Aug 2026 00:38:00 GMT"
+    },
+    {
+      "title": "How the continued trade war with Canada puts Kentucky bourbon at risk - The Courier-Journal",
+      "pubDate": "Mon, 14 Sep 2026 13:13:00 GMT"
     }
   ],
   "World News": [
@@ -11783,6 +11787,10 @@
     {
       "title": "Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot - AP News",
       "pubDate": "Thu, 27 Aug 2026 00:36:00 GMT"
+    },
+    {
+      "title": "New book argues Ohio\u2019s redistricting fights are a warning for the rest of the country - cleveland.com",
+      "pubDate": "Mon, 14 Sep 2026 10:00:00 GMT"
     }
   ],
   "Software": [
@@ -12853,6 +12861,10 @@
     {
       "title": "Geopolitical shifts, friendlier governments spark new Latin American investment cycle - BNamericas",
       "pubDate": "Tue, 08 Sep 2026 15:39:08 GMT"
+    },
+    {
+      "title": "Carney pitches Canada to global investors as Trump tries to pull investment south - ABC News - Breaking News, Latest News and Videos",
+      "pubDate": "Mon, 14 Sep 2026 12:51:44 GMT"
     }
   ],
   "Hugging Face": [
@@ -15113,6 +15125,10 @@
     {
       "title": "INSTITUTIONAL | Fidelity Seeks Regulatory Approval for Quarterly Cash Distributions for One of the Largest Ether ETFs - BitKE",
       "pubDate": "Sat, 15 Aug 2026 04:00:28 GMT"
+    },
+    {
+      "title": "Fidelity CEO Abby Johnson and Eastern Bank\u2019s Bob Rivers Join Boston Fintech Week 2026 Lineup - FF News",
+      "pubDate": "Mon, 14 Sep 2026 16:04:41 GMT"
     }
   ],
   "Solar System": [
@@ -16437,6 +16453,10 @@
     {
       "title": "Texas Grid Predicts Record Demand as Heat Rises, Wind Power Sags - Bloomberg",
       "pubDate": "Tue, 18 Aug 2026 19:14:00 GMT"
+    },
+    {
+      "title": "Europe On Target for Record Year for Wind Power - Industrial Info Resources",
+      "pubDate": "Mon, 14 Sep 2026 11:55:21 GMT"
     }
   ],
   "Cory Booker": [
@@ -16537,6 +16557,12 @@
     {
       "title": "Obama reportedly urges Democrats to prioritize safety plan for AI - The Guardian",
       "pubDate": "Sun, 13 Sep 2026 15:47:00 GMT"
+    }
+  ],
+  "AI Risk": [
+    {
+      "title": "Schumer calls for classified briefing on danger posed by AI - The Hill",
+      "pubDate": "Mon, 14 Sep 2026 12:27:00 GMT"
     }
   ]
 }
