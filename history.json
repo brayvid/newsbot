@@ -5453,10 +5453,6 @@
   ],
   "Health": [
     {
-      "title": "A New, Highly Mutated COVID Variant Called 'Cicada' Is Spreading in the US. Know These Symptoms - TODAY.com",
-      "pubDate": "Thu, 26 Mar 2026 19:52:19 GMT"
-    },
-    {
       "title": "Early weight gain is linked to lifelong health consequences - ScienceDaily",
       "pubDate": "Sat, 11 Apr 2026 13:55:05 GMT"
     },
@@ -5611,6 +5607,10 @@
     {
       "title": "Secretive deals may cut billions from U.S. global health spending, analysis shows - The Washington Post",
       "pubDate": "Mon, 31 Aug 2026 16:02:35 GMT"
+    },
+    {
+      "title": "Virtual launch: New report on ethics oversight of AI-related health research - World Health Organization (WHO)",
+      "pubDate": "Thu, 17 Sep 2026 09:26:37 GMT"
     }
   ],
   "US Treasury": [
@@ -6063,6 +6063,10 @@
     {
       "title": "Decades after colonial-era mapping, Africa\u2019s mineral powerhouse launches $180 million drive with US, France, others to control mineral data - Business Insider Africa",
       "pubDate": "Tue, 08 Sep 2026 09:42:42 GMT"
+    },
+    {
+      "title": "Intel backs Egypt\u2019s national AI strategy - ITWeb Africa",
+      "pubDate": "Thu, 17 Sep 2026 10:13:08 GMT"
     }
   ],
   "Adobe": [
@@ -12829,6 +12833,10 @@
     {
       "title": "Nvidia CEO Jensen Huang: Computing industry is going through a fundamental platform shift - CNBC",
       "pubDate": "Mon, 10 Aug 2026 20:26:20 GMT"
+    },
+    {
+      "title": "Jensen Huang Draws the Line on Unsafe AI Models - Dealroom",
+      "pubDate": "Thu, 17 Sep 2026 08:41:13 GMT"
     }
   ],
   "Ro Khanna": [
@@ -16671,6 +16679,12 @@
     {
       "title": "Commodities: Saudi Supply Uncertainty Has Oil Extending Gains - Seeking Alpha",
       "pubDate": "Tue, 15 Sep 2026 05:00:00 GMT"
+    }
+  ],
+  "News Media": [
+    {
+      "title": "9th woman's body found in same area of South Africa, adding to fears of serial killer - CBS News",
+      "pubDate": "Thu, 17 Sep 2026 09:43:03 GMT"
     }
   ]
 }
