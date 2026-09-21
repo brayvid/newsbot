@@ -1135,10 +1135,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident - The Hacker News",
-      "pubDate": "Mon, 13 Apr 2026 06:50:00 GMT"
-    },
-    {
       "title": "Hackers used AI to steal hundreds of millions of Mexican government and private citizen records in one of the largest cybersecurity breaches ever - Live Science",
       "pubDate": "Thu, 16 Apr 2026 11:00:00 GMT"
     },
@@ -1293,6 +1289,10 @@
     {
       "title": "'This vendor needs to go': Cybersecurity engineer warns Seattle's camera system is one merger away from a nationwide dragnet - MyNorthwest.com",
       "pubDate": "Sun, 23 Aug 2026 12:00:18 GMT"
+    },
+    {
+      "title": "NIST awards over $1.7 million to expand cybersecurity education and workforce development across eight states - Industrial Cyber",
+      "pubDate": "Mon, 21 Sep 2026 10:10:52 GMT"
     }
   ],
   "US Economy": [
@@ -1553,6 +1553,10 @@
     {
       "title": "OpenAI flags 6 new incidents of \u2018concerning\u2019 behavior and unveils plan to track it - NBC News",
       "pubDate": "Thu, 17 Sep 2026 09:32:21 GMT"
+    },
+    {
+      "title": "Microsoft\u2019s Nadella to Join OpenAI, Nvidia CEOs at Trump-Xi Meal - Bloomberg.com",
+      "pubDate": "Mon, 21 Sep 2026 00:55:00 GMT"
     }
   ],
   "Gaza": [
@@ -2535,6 +2539,10 @@
     {
       "title": "\u2018AI at runaway speed\u2019: United Nations launches first global AI dialogue - National Herald",
       "pubDate": "Mon, 06 Jul 2026 09:07:25 GMT"
+    },
+    {
+      "title": "What to know as world leaders converge at the United Nations this week - NPR",
+      "pubDate": "Mon, 21 Sep 2026 09:00:00 GMT"
     }
   ],
   "Nuclear Power": [
@@ -5481,10 +5489,6 @@
   ],
   "Health": [
     {
-      "title": "Early weight gain is linked to lifelong health consequences - ScienceDaily",
-      "pubDate": "Sat, 11 Apr 2026 13:55:05 GMT"
-    },
-    {
       "title": "Trump signs order to speed up review of psychedelic drugs for mental health treatment - NBC News",
       "pubDate": "Sat, 18 Apr 2026 15:27:30 GMT"
     },
@@ -5639,6 +5643,10 @@
     {
       "title": "Virtual launch: New report on ethics oversight of AI-related health research - World Health Organization (WHO)",
       "pubDate": "Thu, 17 Sep 2026 09:26:37 GMT"
+    },
+    {
+      "title": "New WHO report calls for stronger ethics oversight of AI-related health research - World Health Organization (WHO)",
+      "pubDate": "Mon, 21 Sep 2026 07:59:07 GMT"
     }
   ],
   "US Treasury": [
@@ -10349,6 +10357,10 @@
     {
       "title": "Nestle weighing all options after Kremlin moves to seize Russia business - Reuters",
       "pubDate": "Fri, 18 Sep 2026 05:12:00 GMT"
+    },
+    {
+      "title": "The US Wants an AI-Era 'Red Phone' With China - Business Insider",
+      "pubDate": "Mon, 21 Sep 2026 05:41:00 GMT"
     }
   ],
   "Violence": [
@@ -14373,6 +14385,10 @@
     {
       "title": "21 Marylanders to be honored with awards from Pope Leo XIV - Baltimore Sun",
       "pubDate": "Sat, 12 Sep 2026 09:17:51 GMT"
+    },
+    {
+      "title": "Pope Leo XIV in France to find a secular country at odds with Catholic teaching on life - The Seattle Times",
+      "pubDate": "Mon, 21 Sep 2026 09:34:16 GMT"
     }
   ],
   "Federal Judge": [
