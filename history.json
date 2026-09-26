@@ -325,10 +325,6 @@
   ],
   "Ukraine": [
     {
-      "title": "Ukraine completes Druzhba pipeline repairs, hoping to unlock blocked EU loan - AP News",
-      "pubDate": "Tue, 21 Apr 2026 18:34:00 GMT"
-    },
-    {
       "title": "Ukrainian soldiers left emaciated on frontline from lack of food and water - The Guardian",
       "pubDate": "Fri, 24 Apr 2026 14:43:00 GMT"
     },
@@ -483,6 +479,10 @@
     {
       "title": "Russian attacks kill 7 in Ukraine as Kyiv targets gas plants deep in Arctic - Al Jazeera",
       "pubDate": "Thu, 10 Sep 2026 08:00:45 GMT"
+    },
+    {
+      "title": "At least 16 people killed as Russia and Ukraine trade deadly air strikes - France 24",
+      "pubDate": "Sat, 26 Sep 2026 15:40:10 GMT"
     }
   ],
   "Russia": [
@@ -1711,6 +1711,10 @@
     {
       "title": "Israel's Netanyahu, at UN, calls accusations of genocide in Gaza 'the biggest lie of the century' - AP News",
       "pubDate": "Fri, 25 Sep 2026 05:08:00 GMT"
+    },
+    {
+      "title": "We followed five people in Gaza from dawn to dusk \u2013 this is what the headlines don\u2019t tell us - The Guardian",
+      "pubDate": "Sat, 26 Sep 2026 11:02:00 GMT"
     }
   ],
   "Climate Change": [
@@ -11747,6 +11751,10 @@
     {
       "title": "Corruption trial opens over auto giant's payments to former French justice minister - Courthouse News",
       "pubDate": "Wed, 16 Sep 2026 16:41:16 GMT"
+    },
+    {
+      "title": "Senate showdowns, blue waves, Trump corruption & more | Enten roundup - Modern Ghana",
+      "pubDate": "Sat, 26 Sep 2026 13:36:13 GMT"
     }
   ],
   "Energy Transition": [
@@ -13739,6 +13747,10 @@
     {
       "title": "iOS 26.6.2: Apple Releases iPhone Update With Key Cellular Connectivity Fix - forbes.com",
       "pubDate": "Wed, 09 Sep 2026 07:32:36 GMT"
+    },
+    {
+      "title": "Apple iOS 27: 4 must-try new productivity features, from a Siri AI calendar shortcut to Notes app perks - fastcompany.com",
+      "pubDate": "Sat, 26 Sep 2026 09:06:26 GMT"
     }
   ],
   "Harry Enten": [
@@ -13915,6 +13927,10 @@
     {
       "title": "Goldman Sachs Executive Sounds The Alarm, Warns AI Could Cause 'Cognitive Atrophy' on Wall Street: 'There\u2019s a Huge Danger Here' - Yahoo Finance",
       "pubDate": "Thu, 27 Aug 2026 09:46:05 GMT"
+    },
+    {
+      "title": "Goldman Sachs Says a $7.6 Trillion AI Spending Boom Is Coming. Skip the GPUs, Follow the Money Here - 24/7 Wall St.",
+      "pubDate": "Sat, 26 Sep 2026 11:19:00 GMT"
     }
   ],
   "NATO": [
@@ -16953,6 +16969,10 @@
     {
       "title": "Europe On Target for Record Year for Wind Power - Industrial Info Resources",
       "pubDate": "Mon, 14 Sep 2026 11:55:21 GMT"
+    },
+    {
+      "title": "292-foot wind turbine blades, each twice the length of a Boeing 737, are rolling 186 miles from an Australian port to a desert mine district in daytime-only convoys, headed for towers that jack themselves up in bites until the hub sits 617 feet up - autonocion.com",
+      "pubDate": "Sat, 26 Sep 2026 10:30:34 GMT"
     }
   ],
   "Cory Booker": [
@@ -17109,6 +17129,12 @@
     {
       "title": "Ellington Financial Inc. $EFC Stake Increased by State Street Corp - InsuranceNewsNet",
       "pubDate": "Fri, 25 Sep 2026 10:07:33 GMT"
+    }
+  ],
+  "Boeing": [
+    {
+      "title": "ORNL 3D Prints Steel Mold for Boeing Aircraft Work - 3D Printing Industry",
+      "pubDate": "Sat, 26 Sep 2026 06:14:31 GMT"
     }
   ]
 }
