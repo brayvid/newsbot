@@ -1885,10 +1885,6 @@
   ],
   "Iran": [
     {
-      "title": "Trump says US will not use nuclear weapon in Iran war - Reuters",
-      "pubDate": "Thu, 23 Apr 2026 23:22:14 GMT"
-    },
-    {
       "title": "US Navy ordered to \u2018shoot and kill\u2019 alleged Iranian mine-laying boats amid ceasefire - Defense One",
       "pubDate": "Fri, 24 Apr 2026 15:33:06 GMT"
     },
@@ -2043,6 +2039,10 @@
     {
       "title": "How the Iran War Forced the Gulf to Rethink Its Security - Time Magazine",
       "pubDate": "Mon, 14 Sep 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Iran\u2019s currency hits a new record low as war erodes the country\u2019s economic stability - AP News",
+      "pubDate": "Tue, 29 Sep 2026 15:53:00 GMT"
     }
   ],
   "Climate": [
@@ -8835,6 +8835,10 @@
     {
       "title": "I own a house rental business near a future Meta AI data center. Construction workers make up most of our tenants. - Business Insider",
       "pubDate": "Sun, 13 Sep 2026 09:04:00 GMT"
+    },
+    {
+      "title": "Meta expands Muse AI agent for small businesses - Reuters",
+      "pubDate": "Tue, 29 Sep 2026 10:35:43 GMT"
     }
   ],
   "Affordability": [
@@ -11071,6 +11075,10 @@
     {
       "title": "BMW CEO sees risk of cheap Chinese cars in Europe but opposes tariffs - Reuters",
       "pubDate": "Tue, 22 Sep 2026 12:41:43 GMT"
+    },
+    {
+      "title": "U.S. and China to Cut Tariffs on $60 Billion of Goods - Time Magazine",
+      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT"
     }
   ],
   "2026 Midterm Elections": [
@@ -17265,6 +17273,24 @@
     {
       "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials - The Hacker News",
       "pubDate": "Tue, 29 Sep 2026 06:08:00 GMT"
+    }
+  ],
+  "Existential Risk": [
+    {
+      "title": "Anthropic says its AI models pose \u2018existential risk to humanity\u2019 in leaked IPO filing: report - CNN",
+      "pubDate": "Tue, 29 Sep 2026 14:37:34 GMT"
+    }
+  ],
+  "Chris Van Hollen": [
+    {
+      "title": "Why Amazon Is Shunning Other AI Shopping Agents - Bloomberg.com",
+      "pubDate": "Tue, 29 Sep 2026 16:30:22 GMT"
+    }
+  ],
+  "Jasmine Crockett": [
+    {
+      "title": "Jasmine Crockett\u2019s PAC released new endorsements. Talarico is still not on the list. - The Washington Post",
+      "pubDate": "Tue, 29 Sep 2026 16:02:25 GMT"
     }
   ]
 }
