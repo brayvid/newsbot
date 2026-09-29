@@ -487,10 +487,6 @@
   ],
   "Russia": [
     {
-      "title": "Russia Proposed Trading Ukrainian Children in POW Swaps, Ukraine Says - Kyiv Post",
-      "pubDate": "Tue, 12 May 2026 09:36:35 GMT"
-    },
-    {
       "title": "Three\u2019s a party: US, China, and now Russia are on the prowl in GEO - Ars Technica",
       "pubDate": "Fri, 15 May 2026 19:11:48 GMT"
     },
@@ -645,6 +641,10 @@
     {
       "title": "Revealed: how Russia uses mobile \u2018super-app\u2019 Max to spy on its citizens - The Guardian",
       "pubDate": "Fri, 18 Sep 2026 07:43:00 GMT"
+    },
+    {
+      "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops - CNBC",
+      "pubDate": "Tue, 29 Sep 2026 08:44:42 GMT"
     }
   ],
   "Donald Trump": [
@@ -4083,6 +4083,10 @@
     {
       "title": "How the military-industrial complex is waging war on the planet - Middle East Eye",
       "pubDate": "Sat, 29 Aug 2026 12:39:00 GMT"
+    },
+    {
+      "title": "Middle East Oil Exports Rebound as Iran\u2019s Chokehold on Hormuz Breaks Down - WSJ",
+      "pubDate": "Tue, 29 Sep 2026 01:00:00 GMT"
     }
   ],
   "US Foreign Policy": [
@@ -8965,6 +8969,10 @@
     {
       "title": "America In Focus: affordability concerns rise as Fed hikes key rate, mortgage rate reaches nearly 7% - WTOP News",
       "pubDate": "Sat, 19 Sep 2026 14:12:09 GMT"
+    },
+    {
+      "title": "Price Gouging: Another Side Of The Affordability Crisis - Forbes",
+      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT"
     }
   ],
   "Florida": [
@@ -10921,6 +10929,10 @@
     {
       "title": "Channel 4 to axe about 300 jobs in biggest layoffs in its history - The Guardian",
       "pubDate": "Tue, 08 Sep 2026 13:56:00 GMT"
+    },
+    {
+      "title": "Amid Mass Layoffs at XBOX, the Fight for Equity in the Video Game Industry Continues - Nonprofit Quarterly",
+      "pubDate": "Tue, 29 Sep 2026 10:31:50 GMT"
     }
   ],
   "Tariffs": [
@@ -15257,6 +15269,10 @@
     {
       "title": "10 life sciences startups selected for accelerator program - BioSpace",
       "pubDate": "Fri, 04 Sep 2026 14:01:09 GMT"
+    },
+    {
+      "title": "Nvidia Alumni Are Fueling a New Wave of Robotics and AI Startups - Business Insider",
+      "pubDate": "Tue, 29 Sep 2026 09:00:23 GMT"
     }
   ],
   "Green Politics": [
@@ -17239,6 +17255,16 @@
     {
       "title": "Airbus probes A321neo flaw as repair plan eases disruption - Reuters",
       "pubDate": "Mon, 28 Sep 2026 10:49:19 GMT"
+    },
+    {
+      "title": "Airbus Freighter Takes First Flight to Challenge Boeing\u2019s 777 - Bloomberg.com",
+      "pubDate": "Tue, 29 Sep 2026 08:32:56 GMT"
+    }
+  ],
+  "Python": [
+    {
+      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials - The Hacker News",
+      "pubDate": "Tue, 29 Sep 2026 06:08:00 GMT"
     }
   ]
 }
