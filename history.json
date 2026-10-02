@@ -1,10 +1,6 @@
 {
   "Artificial Intelligence": [
     {
-      "title": "How Google DeepMind is winning the AI financing race - Axios",
-      "pubDate": "Tue, 31 Mar 2026 13:25:02 GMT"
-    },
-    {
       "title": "AI breakthrough cuts energy use by 100x while boosting accuracy - ScienceDaily",
       "pubDate": "Mon, 06 Apr 2026 01:25:34 GMT"
     },
@@ -159,6 +155,10 @@
     {
       "title": "Artificial intelligence can be a boon rather than a menace, but it needs guardrails [column] - LancasterOnline",
       "pubDate": "Sat, 26 Sep 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Telef\u00f3nica and the Reina Sof\u00eda School of Music combine artificial intelligence and symphonic music to give voice to the audience\u2019s emotions - telefonica.com",
+      "pubDate": "Fri, 02 Oct 2026 08:47:25 GMT"
     }
   ],
   "Israel": [
@@ -1135,10 +1135,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "Hackers used AI to steal hundreds of millions of Mexican government and private citizen records in one of the largest cybersecurity breaches ever - Live Science",
-      "pubDate": "Thu, 16 Apr 2026 11:00:00 GMT"
-    },
-    {
       "title": "The $240 Billion Race to Rebuild Cybersecurity Before Quantum Arrives - PR Newswire",
       "pubDate": "Fri, 17 Apr 2026 13:00:00 GMT"
     },
@@ -1293,6 +1289,10 @@
     {
       "title": "NIST awards over $1.7 million to expand cybersecurity education and workforce development across eight states - Industrial Cyber",
       "pubDate": "Mon, 21 Sep 2026 10:10:52 GMT"
+    },
+    {
+      "title": "CISA launches \u2018Securing the Next 250\u2019 campaign to strengthen critical infrastructure cybersecurity and resilience - Industrial Cyber",
+      "pubDate": "Fri, 02 Oct 2026 09:39:52 GMT"
     }
   ],
   "US Economy": [
@@ -1402,10 +1402,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "Family sues ChatGPT-maker OpenAI over school shooting in Canada - AP News",
-      "pubDate": "Tue, 10 Mar 2026 01:53:00 GMT"
-    },
     {
       "title": "Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI - The Guardian",
       "pubDate": "Thu, 09 Apr 2026 01:30:00 GMT"
@@ -1561,6 +1557,10 @@
     {
       "title": "British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting - theguardian.com",
       "pubDate": "Tue, 22 Sep 2026 04:29:00 GMT"
+    },
+    {
+      "title": "OpenAI says rogue agents may have affected more than 100 organizations - The Washington Post",
+      "pubDate": "Fri, 02 Oct 2026 03:57:43 GMT"
     }
   ],
   "Gaza": [
@@ -11731,6 +11731,10 @@
     {
       "title": "India\u2019s urban crisis has political problem: Too many votes in villages, say legislators at Charcha 2026 - ThePrint",
       "pubDate": "Tue, 15 Sep 2026 14:18:14 GMT"
+    },
+    {
+      "title": "For First Time, India Offers Active Role in Brokering Peace in Ukraine - UNITED24 Media",
+      "pubDate": "Fri, 02 Oct 2026 09:45:22 GMT"
     }
   ],
   "Rand Paul": [
@@ -11903,6 +11907,10 @@
     {
       "title": "AI Is Helping to Revive Some Corners of Commercial Real Estate - Bloomberg.com",
       "pubDate": "Wed, 09 Sep 2026 10:29:01 GMT"
+    },
+    {
+      "title": "Arrow Real Estate Advisors boosts presence in Chicago - REJournals",
+      "pubDate": "Fri, 02 Oct 2026 09:52:33 GMT"
     }
   ],
   "Privacy": [
@@ -12001,6 +12009,10 @@
     {
       "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet - Reuters",
       "pubDate": "Tue, 22 Sep 2026 10:08:13 GMT"
+    },
+    {
+      "title": "Facebook faced with massive penalties after New Mexico privacy verdict - Courthouse News",
+      "pubDate": "Thu, 01 Oct 2026 23:31:08 GMT"
     }
   ],
   "Financial Data": [
@@ -12373,6 +12385,10 @@
     {
       "title": "Vice President J.D. Vance addresses rally in North Carolina - WRAL",
       "pubDate": "Mon, 21 Sep 2026 16:29:51 GMT"
+    },
+    {
+      "title": "NYC Already Battling AI Attacks as Council Prepares to Grill Industry Leaders - The City Reporter",
+      "pubDate": "Fri, 02 Oct 2026 09:04:00 GMT"
     }
   ],
   "Research": [
