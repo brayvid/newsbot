@@ -1885,10 +1885,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran offers U.S. deal to reopen strait but postpone nuclear talks - Axios",
-      "pubDate": "Mon, 27 Apr 2026 01:51:32 GMT"
-    },
-    {
       "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends, officials say - AP News",
       "pubDate": "Mon, 27 Apr 2026 15:58:00 GMT"
     },
@@ -2043,6 +2039,10 @@
     {
       "title": "Iran indicates it\u2019s received an official US response to its latest offer on ending the war - apnews.com",
       "pubDate": "Thu, 01 Oct 2026 02:26:00 GMT"
+    },
+    {
+      "title": "Iran gearing up for 'major round of fighting' with US, says source - thenationalnews.com",
+      "pubDate": "Sat, 03 Oct 2026 06:41:35 GMT"
     }
   ],
   "Climate": [
@@ -2575,6 +2575,10 @@
     {
       "title": "What to know as world leaders converge at the United Nations this week - NPR",
       "pubDate": "Mon, 21 Sep 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Judge bars building of Texas-Mexico border barrier in Big Bend National Park - Reuters",
+      "pubDate": "Sat, 03 Oct 2026 01:03:00 GMT"
     }
   ],
   "Nuclear Power": [
@@ -2665,6 +2669,10 @@
     {
       "title": "Constellation Secures More Buyers for its Nuclear Power - RTO Insider",
       "pubDate": "Sun, 09 Aug 2026 18:22:11 GMT"
+    },
+    {
+      "title": "US-led initiative tightens efforts to block weapons from reaching Iran, stop nuclear proliferation - The Jerusalem Post",
+      "pubDate": "Sat, 03 Oct 2026 06:14:12 GMT"
     }
   ],
   "The Pentagon": [
@@ -4563,6 +4571,10 @@
     {
       "title": "Amid trade dispute, Canada continues business relationship with Washington state - KNKX Public Radio",
       "pubDate": "Fri, 02 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Canada imposes new tariffs on U.S. farm goods, raising uncertainty for Kern farmers - KBAK",
+      "pubDate": "Sat, 03 Oct 2026 01:30:18 GMT"
     }
   ],
   "National Security Agency": [
@@ -5977,6 +5989,10 @@
     {
       "title": "Digging In: Henrico County public works tackle major fall infrastructure, safety and utility upgrades - Henrico Citizen",
       "pubDate": "Sat, 19 Sep 2026 15:59:04 GMT"
+    },
+    {
+      "title": "PGW upgrading infrastructure to cut a small fraction of its climate pollution - WHYY",
+      "pubDate": "Sat, 03 Oct 2026 09:48:00 GMT"
     }
   ],
   "Petroleum": [
@@ -11581,6 +11597,10 @@
     {
       "title": "Trump launches midterm campaign push in Texas and Oklahoma as Republicans face tough races - Reuters",
       "pubDate": "Thu, 01 Oct 2026 10:59:43 GMT"
+    },
+    {
+      "title": "Trump heads back to Texas on Wednesday as GOP fights to keep state red - The Washington Post",
+      "pubDate": "Sat, 03 Oct 2026 03:59:06 GMT"
     }
   ],
   "Google Cloud": [
@@ -17419,6 +17439,12 @@
     {
       "title": "Berkshire Hathaway And 2 Cash Flow Stocks Worth Watching - Simply Wall Street",
       "pubDate": "Fri, 02 Oct 2026 14:42:35 GMT"
+    }
+  ],
+  "Federal Emergency Management Agency": [
+    {
+      "title": "Agencies, critical infrastructure balance evolving cybersecurity risks - Federal News Network",
+      "pubDate": "Sat, 03 Oct 2026 01:54:15 GMT"
     }
   ]
 }
