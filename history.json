@@ -811,10 +811,6 @@
   ],
   "China": [
     {
-      "title": "China builds world\u2019s first \u2018coal battery\u2019 with zero emission - South China Morning Post",
-      "pubDate": "Sun, 26 Apr 2026 10:00:15 GMT"
-    },
-    {
       "title": "China blocks Meta from acquiring AI startup Manus - NPR",
       "pubDate": "Mon, 27 Apr 2026 12:47:46 GMT"
     },
@@ -969,6 +965,10 @@
     {
       "title": "Taiwan reckons with the prospect of fending for itself as Trump pivots on China - NBC News",
       "pubDate": "Sun, 04 Oct 2026 09:00:00 GMT"
+    },
+    {
+      "title": "China lashes out after US lawmaker urges Starbucks to close Xinjiang stores - South China Morning Post",
+      "pubDate": "Sun, 04 Oct 2026 08:00:17 GMT"
     }
   ],
   "AI Safety": [
@@ -6211,6 +6211,10 @@
     {
       "title": "Africa Finance Corporation advises Senegal to focus on growth - Semafor",
       "pubDate": "Fri, 25 Sep 2026 14:32:00 GMT"
+    },
+    {
+      "title": "Zimbabweans struggle to rebuild after fleeing xenophobia in South Africa - aljazeera.com",
+      "pubDate": "Sun, 04 Oct 2026 13:08:05 GMT"
     }
   ],
   "Adobe": [
@@ -7521,6 +7525,10 @@
     {
       "title": "Q&A for U.S. Senate shows Virginia's Warner and Mizusawa agree data centers are a problem, but they'd fix it differently - Charlottesville Tomorrow",
       "pubDate": "Fri, 18 Sep 2026 16:09:09 GMT"
+    },
+    {
+      "title": "(Reuters): US Senate expected to vote on nuclear deal with Saudi Arabia before Dec. 13 - \u0635\u062d\u064a\u0641\u0629 \u0645\u0627\u0644",
+      "pubDate": "Sun, 04 Oct 2026 13:01:07 GMT"
     }
   ],
   "Palantir": [
@@ -11391,6 +11399,10 @@
     {
       "title": "Rivian Cuts Prices on Flagship Models by Up to $5,000 Ahead of 2027 Model Year - eletric-vehicles.com",
       "pubDate": "Tue, 14 Jul 2026 15:07:38 GMT"
+    },
+    {
+      "title": "Rivian\u2019s Make-or-Break EV Is Already on Its Second Recall - Autoblog",
+      "pubDate": "Sun, 04 Oct 2026 13:45:00 GMT"
     }
   ],
   "Immigration": [
@@ -15347,6 +15359,10 @@
     {
       "title": "Florida faces more heat as Hurricane Center watches 3 tropical waves - Florida Today",
       "pubDate": "Wed, 19 Aug 2026 13:08:00 GMT"
+    },
+    {
+      "title": "Hurricanes Nolo and Rachel Track Across Pacific - finchannel",
+      "pubDate": "Sun, 04 Oct 2026 13:06:30 GMT"
     }
   ],
   "Jupiter": [
@@ -17085,6 +17101,10 @@
     {
       "title": "Mark Cuban challenged by top financial advisor in market bet - Fox Business",
       "pubDate": "Sat, 05 Sep 2026 01:29:32 GMT"
+    },
+    {
+      "title": "Mark Cuban rips humanoid robots as impractical for homes \u2014 but robotics execs push back - Yahoo Finance",
+      "pubDate": "Sun, 04 Oct 2026 12:30:00 GMT"
     }
   ],
   "AI Infrastructure": [
@@ -17489,6 +17509,12 @@
     {
       "title": "Agencies, critical infrastructure balance evolving cybersecurity risks - Federal News Network",
       "pubDate": "Sat, 03 Oct 2026 01:54:15 GMT"
+    }
+  ],
+  "Morgan Stanley": [
+    {
+      "title": "Adtran Holdings, Inc. (ADTN) Corrects Morgan Stanley Voting Rights Notice - TradingView",
+      "pubDate": "Sun, 04 Oct 2026 09:12:01 GMT"
     }
   ]
 }
