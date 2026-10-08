@@ -3289,10 +3289,6 @@
   ],
   "NASA": [
     {
-      "title": "NASA wants to know how the launch industry\u2019s chic new rocket fuel explodes - Ars Technica",
-      "pubDate": "Fri, 20 Mar 2026 17:18:02 GMT"
-    },
-    {
       "title": "He suddenly couldn't speak in space. NASA astronaut says his medical scare remains a mystery. - NBC News",
       "pubDate": "Fri, 27 Mar 2026 19:51:35 GMT"
     },
@@ -3447,6 +3443,10 @@
     {
       "title": "Liftoff! NASA\u2019s SpaceX Crew-13 Begins Journey to International Space Station - NASA (.gov)",
       "pubDate": "Thu, 01 Oct 2026 15:20:06 GMT"
+    },
+    {
+      "title": "NASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site - Universe Today",
+      "pubDate": "Thu, 08 Oct 2026 00:30:00 GMT"
     }
   ],
   "Cyberattack": [
@@ -11881,6 +11881,10 @@
     {
       "title": "Fauci diaries, released by Sen. Rand Paul, touch on COVID origins and tense relationship with Trump - CBS News",
       "pubDate": "Tue, 28 Jul 2026 02:49:49 GMT"
+    },
+    {
+      "title": "Rand Paul: I'm leading by example to solve our national debt | Opinion - The Courier-Journal",
+      "pubDate": "Thu, 08 Oct 2026 09:16:00 GMT"
     }
   ],
   "Engineering": [
@@ -13021,6 +13025,10 @@
     {
       "title": "American Rheinmetall delivers first Lynx XM30 prototype to the U.S. Army - Rheinmetall",
       "pubDate": "Tue, 01 Sep 2026 07:04:29 GMT"
+    },
+    {
+      "title": "U.S. Army To Buy Contractor-Owned ISR Bizjets - Aviation Week",
+      "pubDate": "Thu, 08 Oct 2026 08:26:15 GMT"
     }
   ],
   "Photonics": [
@@ -13517,6 +13525,10 @@
     {
       "title": "From Debt to Growth: A Proposal for a Growth and Investment Reset - The Rockefeller Foundation",
       "pubDate": "Wed, 07 Oct 2026 04:04:38 GMT"
+    },
+    {
+      "title": "Trump prods parents to claim child investment accounts as auto-enrollment begins - The Washington Post",
+      "pubDate": "Thu, 08 Oct 2026 05:29:29 GMT"
     }
   ],
   "Hugging Face": [
@@ -13981,6 +13993,10 @@
     {
       "title": "New York City Emergency Management on nor'easter's impact - CBS News",
       "pubDate": "Sun, 27 Sep 2026 13:05:00 GMT"
+    },
+    {
+      "title": "Pro-Palestinian protesters crowded a vigil in Union Square, where New York City mayor Zohran Mamdani joined a pro-peace Israeli group to mark the third anniversary of the Hamas-led attack on Oct. 7. Read more: https://nyti.ms/4rTKd7y - Facebook",
+      "pubDate": "Thu, 08 Oct 2026 06:11:48 GMT"
     }
   ],
   "US Court of Appeals": [
@@ -14201,6 +14217,10 @@
     {
       "title": "TCGX Announces Oversubscribed $600 Million Asia Fund - Business Wire",
       "pubDate": "Wed, 07 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "title": "Asia Credit Best Ideas: October 2026 - CreditSights",
+      "pubDate": "Thu, 08 Oct 2026 07:21:35 GMT"
     }
   ],
   "Goldman Sachs": [
@@ -17647,6 +17667,12 @@
     {
       "title": "Yann LeCun on AI risk, effective altruism, Dario Amodei and building AMI Labs - Dealroom",
       "pubDate": "Mon, 05 Oct 2026 05:56:22 GMT"
+    }
+  ],
+  "Volcanoes": [
+    {
+      "title": "More Closures In Hawai\u02bbi Volcanoes National Park Due To K\u012blauea Uncertainty - Big Island Video News",
+      "pubDate": "Thu, 08 Oct 2026 03:42:22 GMT"
     }
   ]
 }
