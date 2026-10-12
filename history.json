@@ -2193,10 +2193,6 @@
   ],
   "Drones": [
     {
-      "title": "Bahrain Intercepts Wave of Missiles and Drones as Iran Attacks Intensify - WSJ",
-      "pubDate": "Sat, 28 Mar 2026 10:07:57 GMT"
-    },
-    {
       "title": "Zelenskyy says Ukrainian forces shot down Shahed drones in Middle Eastern countries during Iran war - AP News",
       "pubDate": "Fri, 10 Apr 2026 07:54:00 GMT"
     },
@@ -2351,6 +2347,10 @@
     {
       "title": "US soldiers in Germany test Apaches for use in fight against drones - Stars and Stripes",
       "pubDate": "Wed, 07 Oct 2026 14:16:21 GMT"
+    },
+    {
+      "title": "Vector, Nammo expand push to mass-produce armed drones - Defense News",
+      "pubDate": "Mon, 12 Oct 2026 09:00:00 GMT"
     }
   ],
   "Federal Reserve": [
@@ -11137,6 +11137,10 @@
     {
       "title": "3M signals customer service layoffs, leaving workers in limbo - Star Tribune",
       "pubDate": "Thu, 08 Oct 2026 10:00:00 GMT"
+    },
+    {
+      "title": "Netflix reportedly cutting 850 jobs as tech and media layoffs continue - Music Ally",
+      "pubDate": "Mon, 12 Oct 2026 12:45:00 GMT"
     }
   ],
   "Tariffs": [
@@ -15135,6 +15139,10 @@
     {
       "title": "Meta Is Planning a Cloud Business to Sell AI Computing Power - Bloomberg.com",
       "pubDate": "Wed, 01 Jul 2026 12:35:21 GMT"
+    },
+    {
+      "title": "The Tragedy of AI Coding - The Atlantic",
+      "pubDate": "Mon, 12 Oct 2026 13:11:23 GMT"
     }
   ],
   "Pete Hegseth": [
@@ -16337,6 +16345,10 @@
     {
       "title": "WATCH: DHS Secretary Mullin says thousands arrested in New York immigration operation - PBS",
       "pubDate": "Tue, 01 Sep 2026 18:09:50 GMT"
+    },
+    {
+      "title": "Markwayne Mullin makes stunning defense of livestreaming public execution - AL.com",
+      "pubDate": "Mon, 12 Oct 2026 16:10:00 GMT"
     }
   ],
   "Vanguard": [
@@ -17109,6 +17121,10 @@
     {
       "title": "Israeli settlers attack West Bank olive harvesters - The New Arab",
       "pubDate": "Sun, 11 Oct 2026 14:56:35 GMT"
+    },
+    {
+      "title": "Israeli Forces, Colonizers Escalate West Bank Attacks - - IMEMC News",
+      "pubDate": "Mon, 12 Oct 2026 13:40:45 GMT"
     }
   ],
   "Lindsay Graham": [
@@ -17829,6 +17845,18 @@
     {
       "title": "White House targets Stanford, Caltech and tech giants in visa crackdown - Los Angeles Times",
       "pubDate": "Fri, 09 Oct 2026 13:25:00 GMT"
+    }
+  ],
+  "Broadcom": [
+    {
+      "title": "Broadcom CEO says biggest hurdle in AI-fuelled tech growth is capital, not memory chips - Reuters",
+      "pubDate": "Mon, 12 Oct 2026 06:54:00 GMT"
+    }
+  ],
+  "Processing Power": [
+    {
+      "title": "Ukraine\u2019s TENCORE Bundles 4 Ground Drones in Single AI-Powered Ecosystem - Kyiv Post",
+      "pubDate": "Mon, 12 Oct 2026 12:51:22 GMT"
     }
   ]
 }
