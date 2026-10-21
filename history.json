@@ -811,10 +811,6 @@
   ],
   "China": [
     {
-      "title": "China blocks Meta from acquiring AI startup Manus - NPR",
-      "pubDate": "Mon, 27 Apr 2026 12:47:46 GMT"
-    },
-    {
       "title": "Decouple from China? Beijing now has a law against it - Asia Times",
       "pubDate": "Wed, 29 Apr 2026 04:59:05 GMT"
     },
@@ -969,6 +965,10 @@
     {
       "title": "China lashes out after US lawmaker urges Starbucks to close Xinjiang stores - South China Morning Post",
       "pubDate": "Sun, 04 Oct 2026 08:00:17 GMT"
+    },
+    {
+      "title": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models - The New York Times",
+      "pubDate": "Wed, 21 Oct 2026 09:24:47 GMT"
     }
   ],
   "AI Safety": [
@@ -7689,6 +7689,10 @@
     {
       "title": "A bitter Michigan Senate race rattles Jewish and Muslim voters already on edge over the war in Gaza - WSLS",
       "pubDate": "Sat, 17 Oct 2026 13:31:57 GMT"
+    },
+    {
+      "title": "U.S. Senate race in Minnesota moves toward GOP in new Cook rating - The Washington Post",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT"
     }
   ],
   "Palantir": [
@@ -10453,6 +10457,10 @@
     {
       "title": "Alabama\u2019s unemployment rate hits five-year high at 3.5% - 1819 News",
       "pubDate": "Sat, 17 Oct 2026 10:09:47 GMT"
+    },
+    {
+      "title": "Black unemployment recently spiked. It that a warning for the economy? - USA Today",
+      "pubDate": "Wed, 21 Oct 2026 09:02:00 GMT"
     }
   ],
   "Ethereum": [
@@ -13171,6 +13179,10 @@
     {
       "title": "El-Sayed talks health care, labor rights and rural funding during Lake State stop - SooLeader.com",
       "pubDate": "Sat, 17 Oct 2026 14:51:54 GMT"
+    },
+    {
+      "title": "Private Contractors Are Set to Cash In As Millions of Americans Lose Health Care - Mother Jones",
+      "pubDate": "Tue, 20 Oct 2026 23:15:30 GMT"
     }
   ],
   "Supply Chain": [
@@ -13451,6 +13463,10 @@
     {
       "title": "This NASA Mars rover just smashed the record for distance travelled on a planet beyond Earth - BBC Sky at Night Magazine",
       "pubDate": "Thu, 15 Oct 2026 08:35:57 GMT"
+    },
+    {
+      "title": "Scientists Use Ancient Rains to Map the Possible Origin Life on Mars - Universe Today",
+      "pubDate": "Tue, 20 Oct 2026 23:16:00 GMT"
     }
   ],
   "Computing": [
@@ -16723,6 +16739,10 @@
     {
       "title": "Starbucks to shutter 250 locations in North America - upi.com",
       "pubDate": "Thu, 24 Sep 2026 15:33:18 GMT"
+    },
+    {
+      "title": "Wildlife collisions down 91% at North America\u2019s largest wildlife overpass - NewsNation",
+      "pubDate": "Wed, 21 Oct 2026 03:11:28 GMT"
     }
   ],
   "Quantum Mechanics": [
@@ -18267,6 +18287,12 @@
     {
       "title": "Micron invests in critical minerals processing with Indium - Utica Observer Dispatch",
       "pubDate": "Tue, 20 Oct 2026 16:06:00 GMT"
+    }
+  ],
+  "Space Debris": [
+    {
+      "title": "Farmer Finds 11-Foot Piece of Space Debris in Minnesota Cornfield - Men's Journal",
+      "pubDate": "Wed, 21 Oct 2026 02:35:00 GMT"
     }
   ]
 }
