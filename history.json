@@ -5071,10 +5071,6 @@
   ],
   "FBI": [
     {
-      "title": "FBI says Iranian hackers are using Telegram to steal data in malware attacks - TechCrunch",
-      "pubDate": "Mon, 23 Mar 2026 15:18:30 GMT"
-    },
-    {
       "title": "How the FBI recovered Signal messages (and how to fix the flaw) - Mashable",
       "pubDate": "Fri, 10 Apr 2026 22:01:12 GMT"
     },
@@ -5229,6 +5225,10 @@
     {
       "title": "Coast Guard, FBI boarded Texas-bound oil tanker after ship's network was potentially breached - CBS News",
       "pubDate": "Wed, 16 Sep 2026 16:11:13 GMT"
+    },
+    {
+      "title": "Oakland Corruption Trial: FBI Agent Expected to Testify on Backdoor Dealings in City Hall - KQED",
+      "pubDate": "Thu, 22 Oct 2026 16:35:05 GMT"
     }
   ],
   "Military and Defense": [
@@ -9127,6 +9127,10 @@
     {
       "title": "Meta ordered to pay $25B in New Mexico for misleading users on privacy - The Washington Post",
       "pubDate": "Thu, 22 Oct 2026 02:58:10 GMT"
+    },
+    {
+      "title": "Meta Falls After Boosting Spending Plans for AI Bet - Bloomberg.com",
+      "pubDate": "Thu, 22 Oct 2026 13:43:49 GMT"
     }
   ],
   "Affordability": [
@@ -12667,6 +12671,10 @@
     {
       "title": "Congressman Adam Gray Defends One of California\u2019s Last Swing Districts After Redistricting - KQED",
       "pubDate": "Thu, 08 Oct 2026 23:09:57 GMT"
+    },
+    {
+      "title": "DOJ indicts Virginia Democrat who led redistricting push on drug trafficking, money laundering charges - Politico",
+      "pubDate": "Thu, 22 Oct 2026 14:46:00 GMT"
     }
   ],
   "Software": [
@@ -16401,6 +16409,10 @@
     {
       "title": "Blue Origin Commits $550M to Texas Satellite Complex as Jeff Bezos Confirms $10B Equity Round and IPO Roadmap - SatNews Publishers",
       "pubDate": "Sun, 11 Oct 2026 13:00:00 GMT"
+    },
+    {
+      "title": "Jeff Bezos reportedly bought a $69.5 million Miami beach house near his $237 million compound - Fortune",
+      "pubDate": "Thu, 22 Oct 2026 07:06:00 GMT"
     }
   ],
   "Perplexity": [
@@ -16527,6 +16539,10 @@
     {
       "title": "Only 33% of utility executives call asset management advanced, IFS survey finds - MarketScale",
       "pubDate": "Wed, 30 Sep 2026 10:19:29 GMT"
+    },
+    {
+      "title": "RES secures major asset management contract with CIP for Romanian wind farm - Energy Global",
+      "pubDate": "Thu, 22 Oct 2026 13:21:19 GMT"
     }
   ],
   "MAGA": [
@@ -18049,6 +18065,10 @@
     {
       "title": "Apple's 'I'm Not Remarkable' Wins Emmy for Outstanding Commercial - Little Black Book | LBBOnline",
       "pubDate": "Tue, 08 Sep 2026 09:54:26 GMT"
+    },
+    {
+      "title": "Mark Zuckerberg threatened to leave California over proposed billionaire tax, Meta says - CBS News",
+      "pubDate": "Thu, 22 Oct 2026 14:28:38 GMT"
     }
   ],
   "AI Recursive Self-Improvement": [
@@ -18345,6 +18365,12 @@
     {
       "title": "Farmer Finds 11-Foot Piece of Space Debris in Minnesota Cornfield - Men's Journal",
       "pubDate": "Wed, 21 Oct 2026 02:35:00 GMT"
+    }
+  ],
+  "The Moon": [
+    {
+      "title": "Astrolab FLIP rover to carry AI computer to the Moon - Aerospace Global News",
+      "pubDate": "Thu, 22 Oct 2026 14:48:00 GMT"
     }
   ]
 }
