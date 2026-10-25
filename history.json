@@ -1893,10 +1893,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran Offers Plan to Focus on Strait of Hormuz and Delay Nuclear Talks - The New York Times",
-      "pubDate": "Mon, 27 Apr 2026 18:51:38 GMT"
-    },
-    {
       "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends - France 24",
       "pubDate": "Tue, 28 Apr 2026 08:52:11 GMT"
     },
@@ -2051,6 +2047,10 @@
     {
       "title": "Trump says Iran could \u2018take\u2019 San Diego, Los Angeles; draws cross-party ire - Al Jazeera",
       "pubDate": "Wed, 07 Oct 2026 08:40:09 GMT"
+    },
+    {
+      "title": "Iran in \u2018advanced stages\u2019 of plots to kill U.S. officials abroad, memo warns - The Washington Post",
+      "pubDate": "Sun, 25 Oct 2026 00:10:56 GMT"
     }
   ],
   "Climate": [
@@ -2196,10 +2196,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Zelenskyy says Ukrainian forces shot down Shahed drones in Middle Eastern countries during Iran war - AP News",
-      "pubDate": "Fri, 10 Apr 2026 07:54:00 GMT"
-    },
     {
       "title": "Ukraine said it captured a Russian position using only ground robots and drones, no infantry, for the first time - Business Insider",
       "pubDate": "Tue, 14 Apr 2026 12:04:00 GMT"
@@ -2355,6 +2351,10 @@
     {
       "title": "Vector, Nammo expand push to mass-produce armed drones - Defense News",
       "pubDate": "Mon, 12 Oct 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Drones Hit Omsky Kauchuk Deep in Russia, Belgorod Targeted - Kyiv Post",
+      "pubDate": "Sun, 25 Oct 2026 09:15:31 GMT"
     }
   ],
   "Federal Reserve": [
@@ -3659,6 +3659,10 @@
     {
       "title": "What Meta\u2019s $17B social media addiction settlement means for California teens - Times of San Diego",
       "pubDate": "Sun, 30 Aug 2026 20:00:00 GMT"
+    },
+    {
+      "title": "France reportedly asked telecom operators to prepare for social media restrictions: Report - Anadolu Ajans\u0131",
+      "pubDate": "Sun, 25 Oct 2026 00:46:44 GMT"
     }
   ],
   "Taiwan": [
@@ -8791,6 +8795,10 @@
     {
       "title": "Russia says it\u2019s preparing for massive strikes on Ukraine\u2019s energy infrastructure - The Times of Israel",
       "pubDate": "Sun, 30 Aug 2026 08:50:10 GMT"
+    },
+    {
+      "title": "Sri Lanka seeks faster green energy shift after oil shocks - France 24",
+      "pubDate": "Sun, 25 Oct 2026 03:26:53 GMT"
     }
   ],
   "Military Intelligence": [
@@ -10415,6 +10423,10 @@
     {
       "title": "Apple breaks its silence on the privacy crackdown that\u2019s roiled the online ad industry - Business Insider",
       "pubDate": "Tue, 20 Oct 2026 06:24:00 GMT"
+    },
+    {
+      "title": "Apple's First Foldable, the 'iPhone Duo,' Sparks Screen Damage Controversy Within 6 Hours of Unboxing \u2014 Fears of a $2,500 'Guinea Pig' - BigGo Finance",
+      "pubDate": "Sun, 25 Oct 2026 02:55:00 GMT"
     }
   ],
   "Jerome Powell": [
@@ -11193,6 +11205,10 @@
     {
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days - BBC",
       "pubDate": "Sat, 26 Sep 2026 05:03:09 GMT"
+    },
+    {
+      "title": "The Strait of Hormuz: A Trap for Trump - WANA News Agency",
+      "pubDate": "Sun, 25 Oct 2026 07:33:24 GMT"
     }
   ],
   "Robotics": [
@@ -18465,6 +18481,12 @@
     {
       "title": "John Ternus welcomes iPhone Duo line at Austin Apple Store - AppleInsider",
       "pubDate": "Fri, 23 Oct 2026 14:31:00 GMT"
+    }
+  ],
+  "US Department of Justice": [
+    {
+      "title": "Is The US Department Of Justice Creating A Constitutional Crisis? - Forbes",
+      "pubDate": "Sun, 25 Oct 2026 06:15:00 GMT"
     }
   ]
 }
