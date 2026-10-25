@@ -3313,10 +3313,6 @@
   ],
   "NASA": [
     {
-      "title": "He suddenly couldn't speak in space. NASA astronaut says his medical scare remains a mystery. - NBC News",
-      "pubDate": "Fri, 27 Mar 2026 19:51:35 GMT"
-    },
-    {
       "title": "On the brink of its greatest achievement in decades, NASA is facing science budget cuts - CNN",
       "pubDate": "Sun, 05 Apr 2026 20:46:40 GMT"
     },
@@ -3471,6 +3467,10 @@
     {
       "title": "NASA Selects GIMLI to Search the Marius Lunar Pit for a Potential Lunar Base Site - Universe Today",
       "pubDate": "Thu, 08 Oct 2026 00:30:00 GMT"
+    },
+    {
+      "title": "The U.S. military and NASA have power problems. Nuclear microreactors might solve both - Fortune",
+      "pubDate": "Sun, 25 Oct 2026 08:06:00 GMT"
     }
   ],
   "Cyberattack": [
@@ -13039,6 +13039,10 @@
     {
       "title": "New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft",
       "pubDate": "Sat, 17 Oct 2026 08:24:20 GMT"
+    },
+    {
+      "title": "New research finds frequent disease outbreaks in B.C. salmon farms, endangering wild salmon - The Conversation",
+      "pubDate": "Sun, 25 Oct 2026 12:28:40 GMT"
     }
   ],
   "Oracle": [
@@ -15437,6 +15441,10 @@
     {
       "title": "Pope Leo XIV Diagnosed With Lung Cancer After Successful Surgery - The Media Line",
       "pubDate": "Wed, 14 Oct 2026 08:33:58 GMT"
+    },
+    {
+      "title": "Vatican says tests show Pope Leo XIV won't need further treatment for lung cancer - Chronicle-Tribune",
+      "pubDate": "Sun, 25 Oct 2026 06:04:31 GMT"
     }
   ],
   "Federal Judge": [
@@ -15901,6 +15909,10 @@
     {
       "title": "Evaluating AI agents: moving past the vibe check - blog.google",
       "pubDate": "Thu, 15 Oct 2026 14:19:51 GMT"
+    },
+    {
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication - The Hacker News",
+      "pubDate": "Sun, 25 Oct 2026 06:54:00 GMT"
     }
   ],
   "Vladimir Putin": [
@@ -16265,6 +16277,10 @@
     {
       "title": "Data Centers Emerge as a High-Stakes Issue in Midterm Elections - Hudson Institute",
       "pubDate": "Sat, 22 Aug 2026 02:22:29 GMT"
+    },
+    {
+      "title": "How the Supreme Court Is Shaping the Midterm Elections - WSJ",
+      "pubDate": "Sun, 25 Oct 2026 16:03:00 GMT"
     }
   ],
   "Mike Johnson": [
@@ -16595,6 +16611,10 @@
     {
       "title": "Sen. Adam Schiff (D-CA) on Trump Administration & Alleged Corruption - C-SPAN",
       "pubDate": "Mon, 10 Aug 2026 20:03:38 GMT"
+    },
+    {
+      "title": "Adam Schiff responds to DOJ\u2019s Alaska threat: \u2018it\u2019s Alaska\u2019s business\u2019 to run elections - NBC News",
+      "pubDate": "Sun, 25 Oct 2026 14:48:36 GMT"
     }
   ],
   "Fascism": [
@@ -18487,6 +18507,12 @@
     {
       "title": "Is The US Department Of Justice Creating A Constitutional Crisis? - Forbes",
       "pubDate": "Sun, 25 Oct 2026 06:15:00 GMT"
+    }
+  ],
+  "Palestine": [
+    {
+      "title": "'Right-wing or Palestine?': The sundry slogans of Israel's election campaign - Haaretz",
+      "pubDate": "Sun, 25 Oct 2026 14:24:00 GMT"
     }
   ]
 }
