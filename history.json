@@ -3313,10 +3313,6 @@
   ],
   "NASA": [
     {
-      "title": "On the brink of its greatest achievement in decades, NASA is facing science budget cuts - CNN",
-      "pubDate": "Sun, 05 Apr 2026 20:46:40 GMT"
-    },
-    {
       "title": "NASA Prepares for Artemis II Splashdown After Historic Moon Flyby - The New York Times",
       "pubDate": "Thu, 09 Apr 2026 08:47:57 GMT"
     },
@@ -3471,6 +3467,10 @@
     {
       "title": "The U.S. military and NASA have power problems. Nuclear microreactors might solve both - Fortune",
       "pubDate": "Sun, 25 Oct 2026 08:06:00 GMT"
+    },
+    {
+      "title": "NASA\u2019s Artemis III Mission to Test Future Moon Lander Operations - NASA (.gov)",
+      "pubDate": "Tue, 27 Oct 2026 08:49:26 GMT"
     }
   ],
   "Cyberattack": [
@@ -9171,6 +9171,10 @@
     {
       "title": "Exclusive: Meta acquires AI data platform Sundial - Axios",
       "pubDate": "Sat, 24 Oct 2026 06:24:44 GMT"
+    },
+    {
+      "title": "Meta Seeks Up to $95 Billion in Equity to Fund AI Spending - Bloomberg.com",
+      "pubDate": "Tue, 27 Oct 2026 07:56:15 GMT"
     }
   ],
   "Affordability": [
@@ -9471,6 +9475,10 @@
     {
       "title": "Florida is set to carry out 18th execution this year and moving closer to tying record - ABC News - Breaking News, Latest News and Videos",
       "pubDate": "Tue, 20 Oct 2026 08:24:59 GMT"
+    },
+    {
+      "title": "In Florida\u2019s Gubernatorial Race, a Choice Between New Climate Policy or the Status Quo - Inside Climate News",
+      "pubDate": "Tue, 27 Oct 2026 08:55:00 GMT"
     }
   ],
   "Amazon": [
@@ -11303,6 +11311,10 @@
     {
       "title": "Agility Robotics unveils latest robot that already has $300M in sales booked - The Business Journals",
       "pubDate": "Tue, 15 Sep 2026 14:57:00 GMT"
+    },
+    {
+      "title": "Autonomous excavator startup Bedrock Robotics picks up $600M in funding - SiliconANGLE",
+      "pubDate": "Mon, 26 Oct 2026 23:48:00 GMT"
     }
   ],
   "Layoffs": [
@@ -12153,6 +12165,10 @@
     {
       "title": "United Nations report highlights significant increase in U.S. climate pollution - NPR",
       "pubDate": "Wed, 21 Oct 2026 05:00:00 GMT"
+    },
+    {
+      "title": "Richest 0.1% produce more carbon pollution than poorest half of humanity: Report - Anadolu Ajans\u0131",
+      "pubDate": "Tue, 27 Oct 2026 08:35:39 GMT"
     }
   ],
   "India": [
@@ -15945,6 +15961,10 @@
     {
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication - The Hacker News",
       "pubDate": "Sun, 25 Oct 2026 06:54:00 GMT"
+    },
+    {
+      "title": "IBM reins in rogue AI agents with identity and runtime controls - Fierce Network",
+      "pubDate": "Tue, 27 Oct 2026 04:02:00 GMT"
     }
   ],
   "Vladimir Putin": [
@@ -18561,6 +18581,12 @@
     {
       "title": "'Right-wing or Palestine?': The sundry slogans of Israel's election campaign - Haaretz",
       "pubDate": "Sun, 25 Oct 2026 14:24:00 GMT"
+    }
+  ],
+  "Dark Energy": [
+    {
+      "title": "Renewable energy supplied over 28% of total US electricity in the first eight months of 2026 - Sustainability Online",
+      "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT"
     }
   ]
 }
