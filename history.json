@@ -1415,10 +1415,6 @@
   ],
   "OpenAI": [
     {
-      "title": "OpenAI announces GPT-5.5, its latest artificial intelligence model - CNBC",
-      "pubDate": "Thu, 23 Apr 2026 18:06:34 GMT"
-    },
-    {
       "title": "Microsoft and OpenAI Loosen Their Partnership - The New York Times",
       "pubDate": "Mon, 27 Apr 2026 13:48:54 GMT"
     },
@@ -1573,6 +1569,10 @@
     {
       "title": "OpenAI, Anthropic disclosures spotlight growing AI containment challenge - CSO Online",
       "pubDate": "Mon, 26 Oct 2026 11:58:25 GMT"
+    },
+    {
+      "title": "DeepSeek unveils AI \u2018super agent\u2019 in coding race with OpenAI, Anthropic - South China Morning Post",
+      "pubDate": "Sun, 01 Nov 2026 10:00:26 GMT"
     }
   ],
   "Gaza": [
@@ -6683,6 +6683,10 @@
     {
       "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance - AP News",
       "pubDate": "Fri, 30 Oct 2026 08:23:00 GMT"
+    },
+    {
+      "title": "North Korea tests cluster warhead, plans military use by end of 2026 - NK News",
+      "pubDate": "Sun, 01 Nov 2026 07:54:48 GMT"
     }
   ],
   "Economics": [
@@ -11839,6 +11843,10 @@
     {
       "title": "\u2018Just ask Grok\u2019: How ISIL is using Big Tech\u2019s AI to build bombs - Al Jazeera",
       "pubDate": "Fri, 18 Sep 2026 08:43:58 GMT"
+    },
+    {
+      "title": "Apple\u2019s new earnings era begins at a critical time for Big Tech - MarketWatch",
+      "pubDate": "Sun, 01 Nov 2026 15:00:00 GMT"
     }
   ],
   "IBM": [
@@ -13207,6 +13215,10 @@
     {
       "title": "New research finds frequent disease outbreaks in B.C. salmon farms, endangering wild salmon - The Conversation",
       "pubDate": "Sun, 25 Oct 2026 12:28:40 GMT"
+    },
+    {
+      "title": "Mathematicians warn AI firms are keeping vital research in the field secret - The Observer",
+      "pubDate": "Sun, 01 Nov 2026 10:34:35 GMT"
     }
   ],
   "Oracle": [
@@ -13455,6 +13467,10 @@
     {
       "title": "Private Contractors Are Set to Cash In As Millions of Americans Lose Health Care - Mother Jones",
       "pubDate": "Tue, 20 Oct 2026 23:15:30 GMT"
+    },
+    {
+      "title": "Rep. James Frank says health care affordability tops his priorities - Times Record News",
+      "pubDate": "Sun, 01 Nov 2026 10:46:00 GMT"
     }
   ],
   "Supply Chain": [
@@ -14909,6 +14925,10 @@
     {
       "title": "\u2018I\u2019m terrified\u2019: AI comes for Southeast Asia\u2019s graduate jobs - South China Morning Post",
       "pubDate": "Sat, 31 Oct 2026 00:00:12 GMT"
+    },
+    {
+      "title": "How India can manage Chinese surpluses - East Asia Forum",
+      "pubDate": "Sun, 01 Nov 2026 11:03:37 GMT"
     }
   ],
   "Goldman Sachs": [
@@ -18827,6 +18847,12 @@
     {
       "title": "Renewable energy supplied over 28% of total US electricity in the first eight months of 2026 - Sustainability Online",
       "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT"
+    }
+  ],
+  "Raphael Warnock": [
+    {
+      "title": "Raphael Warnock is 'nauseously optimistic' about Dem's midterm chances - Politico",
+      "pubDate": "Sun, 01 Nov 2026 10:00:00 GMT"
     }
   ]
 }
