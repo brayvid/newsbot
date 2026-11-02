@@ -811,10 +811,6 @@
   ],
   "China": [
     {
-      "title": "Bipartisan Senators Push Tough China Stance Before Trump-Xi Summit - NOTUS \u2014 News of the United States",
-      "pubDate": "Fri, 01 May 2026 14:43:59 GMT"
-    },
-    {
       "title": "AI exposes hidden risks in US military supply chain tied to China - Fox Business",
       "pubDate": "Thu, 07 May 2026 16:13:00 GMT"
     },
@@ -969,6 +965,10 @@
     {
       "title": "China's new export curbs draw a line around its AI crown jewels - Reuters",
       "pubDate": "Wed, 28 Oct 2026 12:20:14 GMT"
+    },
+    {
+      "title": "Opinion | U.S.-China Relations Will Never Be the Same in the Age of A.I. - The New York Times",
+      "pubDate": "Mon, 02 Nov 2026 06:00:05 GMT"
     }
   ],
   "AI Safety": [
@@ -2205,6 +2205,10 @@
     {
       "title": "Climate skeptics used AI to review their work. It told them they were biased. - Bulletin of the Atomic Scientists",
       "pubDate": "Sat, 31 Oct 2026 10:00:31 GMT"
+    },
+    {
+      "title": "Big Tech promised to lead on climate. Now it\u2019s driving a fossil fuel boom. - The Washington Post",
+      "pubDate": "Mon, 02 Nov 2026 11:39:42 GMT"
     }
   ],
   "Drones": [
@@ -18627,6 +18631,10 @@
     {
       "title": "Here\u2019s How Much More Range The Airbus A350-1000ULR Has Compared To The Boeing 777X - Simple Flying",
       "pubDate": "Thu, 22 Oct 2026 09:15:17 GMT"
+    },
+    {
+      "title": "Airbus Posts Lower Earnings As It Seeks to Ramp Up Plane Deliveries - Aero-News Network",
+      "pubDate": "Mon, 02 Nov 2026 10:05:01 GMT"
     }
   ],
   "Python": [
@@ -18853,6 +18861,24 @@
     {
       "title": "Raphael Warnock is 'nauseously optimistic' about Dem's midterm chances - Politico",
       "pubDate": "Sun, 01 Nov 2026 10:00:00 GMT"
+    }
+  ],
+  "AI in Military": [
+    {
+      "title": "U.S. military joins forces with East African nation for airstrikes against $100 million-earning group linked to 9/11 attacks - Business Insider Africa",
+      "pubDate": "Mon, 02 Nov 2026 06:47:53 GMT"
+    }
+  ],
+  "South America": [
+    {
+      "title": "Climate Justice in the Global South: Understanding the Environmental Legacy of Colonialism - E-International Relations",
+      "pubDate": "Mon, 02 Nov 2026 10:34:36 GMT"
+    }
+  ],
+  "UnitedHealth Group": [
+    {
+      "title": "Hurricane Damage to a Florida Domestic Violence Shelter Shows Climate\u2019s Stress on Vulnerable Groups - Inside Climate News",
+      "pubDate": "Mon, 02 Nov 2026 10:00:00 GMT"
     }
   ]
 }
