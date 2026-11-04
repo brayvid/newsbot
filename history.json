@@ -1135,10 +1135,6 @@
   ],
   "Cybersecurity": [
     {
-      "title": "The $240 Billion Race to Rebuild Cybersecurity Before Quantum Arrives - PR Newswire",
-      "pubDate": "Fri, 17 Apr 2026 13:00:00 GMT"
-    },
-    {
       "title": "Cyberattack on senior German officials, suspicions of Russian involvement! How hackers managed to penetrate \"Signal\" - Gazeta Express",
       "pubDate": "Sun, 26 Apr 2026 20:45:00 GMT"
     },
@@ -1293,6 +1289,10 @@
     {
       "title": "CISA launches \u2018Securing the Next 250\u2019 campaign to strengthen critical infrastructure cybersecurity and resilience - Industrial Cyber",
       "pubDate": "Fri, 02 Oct 2026 09:39:52 GMT"
+    },
+    {
+      "title": "In an AI world, cybersecurity requires human judgment - Miami\u2019s Community News",
+      "pubDate": "Wed, 04 Nov 2026 02:56:36 GMT"
     }
   ],
   "US Economy": [
@@ -2217,10 +2217,6 @@
   ],
   "Drones": [
     {
-      "title": "Ukraine said it captured a Russian position using only ground robots and drones, no infantry, for the first time - Business Insider",
-      "pubDate": "Tue, 14 Apr 2026 12:04:00 GMT"
-    },
-    {
       "title": "Ukraine's military to get biggest-ever shipment of UK drones - BBC",
       "pubDate": "Wed, 15 Apr 2026 08:39:13 GMT"
     },
@@ -2375,6 +2371,10 @@
     {
       "title": "Drones Hit Omsky Kauchuk Deep in Russia, Belgorod Targeted - Kyiv Post",
       "pubDate": "Sun, 25 Oct 2026 09:15:31 GMT"
+    },
+    {
+      "title": "Russia Attacks Ukraine With 310 Drones, Striking Energy Sites and Infrastructure - Kyiv Post",
+      "pubDate": "Wed, 04 Nov 2026 09:25:57 GMT"
     }
   ],
   "Federal Reserve": [
@@ -11147,6 +11147,10 @@
     {
       "title": "D.A. Bragg Invests In Upper Manhattan To Combat Intimate-Partner Violence - Manhattan District Attorney's Office",
       "pubDate": "Fri, 16 Oct 2026 16:22:18 GMT"
+    },
+    {
+      "title": "Ideas We Should Steal: Legal Help for Gun Violence Survivors at Their Bedsides - The Philadelphia Citizen",
+      "pubDate": "Wed, 04 Nov 2026 10:32:08 GMT"
     }
   ],
   "Blue Origin": [
@@ -12431,6 +12435,10 @@
     {
       "title": "India proposes small-firm IPO overhaul, expands role for institutional investors - Reuters",
       "pubDate": "Wed, 14 Oct 2026 12:23:44 GMT"
+    },
+    {
+      "title": "Second Indian national injured in October 10 Riyadh airport attack dies - The New Indian Express",
+      "pubDate": "Wed, 04 Nov 2026 08:18:09 GMT"
     }
   ],
   "Rand Paul": [
@@ -14365,6 +14373,10 @@
     {
       "title": "Letitia James faces scrutiny after New York City spends $81,700 per homeless person amid shelter scandals - kotaradio.com",
       "pubDate": "Sat, 25 Jul 2026 20:03:45 GMT"
+    },
+    {
+      "title": "Letitia James Wins Third Consecutive Term in New York Attorney General Race - The New York Times",
+      "pubDate": "Wed, 04 Nov 2026 05:35:27 GMT"
     }
   ],
   "Pacific Ocean": [
@@ -18655,6 +18667,10 @@
     {
       "title": "ORNL 3D Prints Steel Mold for Boeing Aircraft Work - 3D Printing Industry",
       "pubDate": "Sat, 26 Sep 2026 06:14:31 GMT"
+    },
+    {
+      "title": "Fresh Off FAA Approval, Boeing Lands 140-Jet 737 MAX 10 Order From Major Lessor - Simple Flying",
+      "pubDate": "Wed, 04 Nov 2026 09:18:12 GMT"
     }
   ],
   "Northrop Grumman": [
@@ -18943,6 +18959,12 @@
     {
       "title": "Hurricane Damage to a Florida Domestic Violence Shelter Shows Climate\u2019s Stress on Vulnerable Groups - Inside Climate News",
       "pubDate": "Mon, 02 Nov 2026 10:00:00 GMT"
+    }
+  ],
+  "Josh Shapiro": [
+    {
+      "title": "Gov. Josh Shapiro sails to a second term in battleground Pennsylvania - NBC News",
+      "pubDate": "Wed, 04 Nov 2026 01:00:00 GMT"
     }
   ]
 }
