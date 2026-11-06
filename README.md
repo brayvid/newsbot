@@ -19,14 +19,18 @@ This Python script fetches the latest Google News RSS headlines for a user-suppl
 
 ```plaintext
 newsbot/
-├── newsbot.py            # Main script
+├── newsbot.py            # Main digest script
+├── prune_history.py      # History pruner script
 ├── requirements.txt      # Package requirements
 ├── history.json          # Tracks previously sent headlines
-├── .env                  # Email credentials and configuration (excluded from version control)
-├── logs/                 # Logging directory (excluded from version control)
-│   └── newsbot.log       # Runtime logs and cron output
+├── .env                  # Credentials and configuration (excluded from git)
+├── .venv/                # Python virtual environment (excluded from git)
+└── logs/                 # Logging directory (excluded from git)
+    ├── newsbot.log       # Main runtime logs
+    └── prune_history.log # History prune logs
 ```
 
+---
 
 ## Setup
 
@@ -37,67 +41,82 @@ git clone https://github.com/brayvid/newsbot.git
 cd newsbot
 ```
 
-### 2. Install dependencies
+### 2. Create and activate a virtual environment
 
 ```bash
-pip3 install -r requirements.txt
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+### 3. Install dependencies
+
+With your virtual environment activated:
+
+```bash
+pip install -r requirements.txt
 ```
 
 Or manually:
 
 ```bash
-pip3 install nltk requests python-dotenv google-generativeai
+pip install nltk requests python-dotenv google-genai
 ```
 
+### 4. Prepare environment file
 
-### 3. Prepare environment file
+Create `.env`:
 
-`nano .env` – contains email credentials, recipient(s), and Gemini API key:
+```bash
+nano .env
+```
+
+Add your credentials, recipient(s), Gemini API key, and optional GitHub sync credentials:
 
 ```env
 GMAIL_USER=your_email@gmail.com
 GMAIL_APP_PASSWORD=your_app_password
-MAILTO=recipient1@example.com,...
+MAILTO=recipient1@example.com,recipient2@example.com
 GEMINI_API_KEY=your_gemini_api_key
+
+# Optional: Needed if ENABLE_GIT_PUSH is enabled
+GITHUB_USER=your_github_username
+GITHUB_TOKEN=ghp_your_github_pat_token
+GITHUB_REPOSITORY=username/newsbot
 ```
 
 You must [enable 2FA](https://myaccount.google.com/security) and [generate an App Password](https://support.google.com/accounts/answer/185833) for your Gmail account, and [generate a Gemini API Key](https://ai.google.dev/gemini-api/docs/api-key).
 
+### 5. Specify preferences
 
-
-### 4. Specify preferences [here](https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing)
-
-**You must make a copy of the sheet, publish each page as a CSV, and update the urls at the top of** ```newsbot.py```.
+**Make a copy of your configuration sheet, publish each tab as a CSV, and update the URLs at the top of `newsbot.py`.**
   
 #### Topics (scored 1-5)
 
+```csv
+Topic,Weight
+Artificial Intelligence,5
+Renewable Energy,5
+...
+```
 
-  ```
-  Topic,Weight
-  Artificial Intelligence,5
-  Renewable Energy,5
-  ...
-  ```
 #### Keywords (scored 1-5)
 
-
-  ```
-  Keyword,Weight
-  war,5
-  invasion,5
-  nuclear,5
-  ...
-  ```
+```csv
+Keyword,Weight
+war,5
+invasion,5
+nuclear,5
+...
+```
 
 #### Overrides
 
-
-  ```
-  Override,Action
-  fox news,ban
-  entertainment,demote
-  ...
-  ```
+```csv
+Override,Action
+fox news,ban
+entertainment,demote
+...
+```
 
 #### Parameters
 
@@ -107,35 +126,47 @@ You must [enable 2FA](https://myaccount.google.com/security) and [generate an Ap
 | `MAX_TOPICS`              | Maximum number of topics in digest |
 | `MAX_ARTICLES_PER_TOPIC`  | Maximum number of articles per topic in digest |
 | `DEMOTE_FACTOR`           | 0-1: Importance multiplier for 'demote' overrides |
-| `TIMEZONE`                | Formatted user timezone, eg. 'America/New_York' |
+| `TIMEZONE`                | Formatted user timezone, e.g. `'America/New_York'` |
+| `ENABLE_GIT_PUSH`         | `true`/`false`: Automatically push updated `history.json` to GitHub |
 
 ---
 
 ## Running the Script
 
+### Manual Run
+
+Make sure your virtual environment is activated:
+
 ```bash
-python3 newsbot.py
+source .venv/bin/activate
+python newsbot.py
 ```
 
-To automate daily delivery:
+### Automation with Cron
+
+Edit your crontab:
 
 ```bash
 crontab -e
 ```
 
-Add a line like the following:
+Point directly to your virtual environment's Python executable (`.venv/bin/python`). This ensures all dependencies load properly without needing to activate the environment first:
 
 ```cron
-0 8 * * * cd /path/to/newsbot && /usr/bin/env python3 newsbot.py >> /path/to/newsbot/logs/newsbot.log 2>&1
+# Send news digest daily at 8:00 AM
+0 8 * * * /path/to/newsbot/.venv/bin/python /path/to/newsbot/newsbot.py >> /path/to/newsbot/logs/newsbot.log 2>&1
+
+# Prune headlines older than 30 days every Friday at 5:00 PM
+0 17 * * 5 /path/to/newsbot/.venv/bin/python /path/to/newsbot/prune_history.py >> /path/to/newsbot/logs/prune_history.log 2>&1
 ```
 
-This runs the script every day at 8:00 AM server time.
+*(Replace `/path/to/newsbot` with the absolute path to your project directory).*
 
 ---
 
 ## Lockfile Notice
 
-If the script fails or is force-terminated, it may leave behind a lockfile `newsbot.lock` in the project directory. To remove it manually:
+If the script fails or is force-terminated, it may leave behind a lockfile `newsbot.lock` in the project directory to prevent duplicate runs. To remove it manually:
 
 ```bash
 rm newsbot.lock
@@ -145,10 +176,9 @@ rm newsbot.lock
 
 ## Logging
 
-All script logs are saved to `logs/newsbot.log`. The `logs/` directory will be created automatically if it doesn't exist.
+All runtime logs are saved to `logs/newsbot.log` and `logs/prune_history.log`. The `logs/` directory will be created automatically if it doesn't exist.
 
 ---
-<br>
 
 ## Sample Digest
 
@@ -163,22 +193,6 @@ All script logs are saved to `logs/newsbot.log`. The `logs/` directory will be c
 <h3>Artificial Intelligence</h3>
 <p>📰 <a href="https://news.gallup.com/poll/660302/heartland-gen-zers-feel-unprepared-work.aspx">Heartland Gen Zers Feel Unprepared to Use AI at Work - Gallup News</a><br>
 📅 Thu, 08 May 2025 12:20 AM EDT</p>
-
-<h3>China</h3>
-<p>📰 <a href="https://www.reuters.com/markets/commodities/chinas-byd-tsingshan-scrap-plans-chile-lithium-plants-newspaper-reports-2025-05-07/">China's BYD, Tsingshan scrap plans for Chile lithium plants - Reuters</a><br>
-📅 Wed, 07 May 2025 07:53 PM EDT</p>
-
-<h3>Recession</h3>
-<p>📰 <a href="https://kfgo.com/2025/05/07/pimco-sees-heightened-us-recession-risks-ft-reports/">PIMCO sees heightened US recession risks, FT reports - The Mighty 790 KFGO</a><br>
-📅 Thu, 08 May 2025 01:20 AM EDT</p>
-
-<h3>Republican Party</h3>
-<p>📰 <a href="https://katv.com/news/local/judge-dismisses-republican-party-of-arkansas-civil-rights-lawsuit-governor-sarah-huckabee-sanders-secretary-of-state-john-thurston-cole-jester-rpa-federal-brian-miller-rogers-little-rock">Judge dismisses Republican Party of Arkansas civil rights lawsuit - KATV</a><br>
-📅 Wed, 07 May 2025 08:55 PM EDT</p>
-
-<hr>
-
-<small>Gemini recommends these articles among 759 published in the last 6 hours based on your <a href="https://docs.google.com/spreadsheets/d/1OjpsQEnrNwcXEWYuPskGRA5Jf-U8e_x0x3j2CKJualg/edit?usp=sharing">preferences</a>.</small>
 
 ---
 <p align="center">&copy; Copyright 2026 <a href="https://blakerayvid.com">Blake Rayvid</a>. All rights reserved.</p>
