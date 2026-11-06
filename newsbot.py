@@ -42,10 +42,8 @@ from zoneinfo import ZoneInfo
 from email.utils import parsedate_to_datetime
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 from dotenv import load_dotenv # Keep this early
-import google.generativeai as genai
-from google.generativeai.types import FunctionDeclaration, Tool # Added
-from proto.marshal.collections.repeated import RepeatedComposite # Added
-from proto.marshal.collections.maps import MapComposite # Added
+from google import genai
+from google.genai import types
 
 
 # Load environment variables from .env file FIRST.
@@ -281,9 +279,9 @@ digest_tool_schema = {
     "required": ["selected_digest_entries"]
 }
 
-SELECT_DIGEST_ARTICLES_TOOL = Tool(
+SELECT_DIGEST_ARTICLES_TOOL = types.Tool(
     function_declarations=[
-        FunctionDeclaration(
+        types.FunctionDeclaration(
             name="format_digest_selection", 
             description="Formats the selected news articles using their unique IDs and assigns an importance rank to each topic.", 
             parameters=digest_tool_schema
@@ -292,10 +290,11 @@ SELECT_DIGEST_ARTICLES_TOOL = Tool(
 )
 
 def prioritize_with_gemini(candidates_to_send: list, digest_history: list, gemini_api_key: str, topic_weights: dict, keyword_weights: dict, overrides: dict) -> list:
-    genai.configure(api_key=gemini_api_key)
-    model = genai.GenerativeModel(model_name=GEMINI_MODEL_NAME, tools=[SELECT_DIGEST_ARTICLES_TOOL])
+    client = genai.Client(
+        api_key=gemini_api_key,
+        http_options={'api_version': 'v1beta'}
+    )
     
-    # Exact original preference logic
     pref_data = {
         "topic_weights": topic_weights, 
         "keyword_weights": keyword_weights, 
@@ -303,7 +302,6 @@ def prioritize_with_gemini(candidates_to_send: list, digest_history: list, gemin
         "demoted_terms": [k for k, v in overrides.items() if v == "demote"]
     }
 
-    # EXACT ORIGINAL PROMPT
     prompt = (
         "You are an Advanced News Synthesis Engine. Your function is to act as an expert, hyper-critical news curator. Your single most important mission is to produce a high-signal, non-redundant, and deeply relevant news digest for a user. You must be ruthless in eliminating noise, repetition, and low-quality content.\n\n"
         f"### Inputs Provided\n1.  **User Preferences:**\n```json\n{json.dumps(pref_data, indent=2)}\n```\n"
@@ -329,39 +327,36 @@ def prioritize_with_gemini(candidates_to_send: list, digest_history: list, gemin
 
     for attempt in range(3):
         try:
-            response = model.generate_content([prompt], tool_config={"function_calling_config": {"mode": "ANY", "allowed_function_names": ["format_digest_selection"]}})
-            if response.candidates and response.candidates[0].content.parts:
-                for part in response.candidates[0].content.parts:
-                    if hasattr(part, 'function_call') and part.function_call:
-                        # Extract args safely from google.generativeai response wrapper
-                        args = part.function_call.args
-                        try:
-                            entries = args["selected_digest_entries"]
-                        except Exception:
-                            entries = getattr(args, "selected_digest_entries", [])
-                        
-                        ranked_results = []
-                        for entry in entries:
-                            try:
-                                topic = entry["topic_name"]
-                                rank = entry.get("importance_rank", 99)
-                                article_ids = [str(aid) for aid in entry.get("selected_article_ids", [])]
-                            except Exception:
-                                # Fallback if items are mapping properties rather than dict keys
-                                topic = getattr(entry, "topic_name", None)
-                                rank = getattr(entry, "importance_rank", 99)
-                                article_ids = [str(aid) for aid in getattr(entry, "selected_article_ids", [])]
-
-                            if topic and article_ids: 
-                                ranked_results.append((int(rank), topic.strip(), article_ids))
-                        
-                        ranked_results.sort()
-                        return ranked_results
+            response = client.models.generate_content(
+                model=GEMINI_MODEL_NAME, 
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    tools=[SELECT_DIGEST_ARTICLES_TOOL], 
+                    tool_config=types.ToolConfig(
+                        function_calling_config=types.FunctionCallingConfig(mode="ANY")
+                    )
+                )
+            )
+            for part in response.candidates[0].content.parts:
+                if part.function_call:
+                    entries = part.function_call.args.get("selected_digest_entries", [])
+                    results = []
+                    for e in entries:
+                        topic = e.get("topic_name")
+                        rank = e.get("importance_rank", 99)
+                        aids = [str(aid) for aid in e.get("selected_article_ids", [])]
+                        if topic and aids:
+                            results.append((int(rank), topic.strip(), aids))
+                    results.sort()
+                    return results
             return []
         except Exception as e:
             if "503" in str(e) and attempt < 2:
-                logging.warning("Gemini busy. Retrying in 10s..."); time.sleep(10); continue
-            logging.error(f"Gemini error: {e}"); return []
+                logging.warning(f"Gemini busy (503). Retrying in 10s... (Attempt {attempt+1}/3)")
+                time.sleep(10)
+                continue
+            logging.error(f"Gemini error: {e}")
+            return []
     return []
     
 def git_push_history_json(history_file_path, base_dir, zone_for_commit_msg):

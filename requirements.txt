@@ -1,4 +1,4 @@
 requests
 nltk
 python-dotenv
-google-generativeai
+google-genai
