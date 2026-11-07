@@ -333,23 +333,50 @@ def prioritize_with_gemini(candidates_to_send: list, digest_history: list, gemin
                 config=types.GenerateContentConfig(
                     tools=[SELECT_DIGEST_ARTICLES_TOOL], 
                     tool_config=types.ToolConfig(
-                        function_calling_config=types.FunctionCallingConfig(mode="ANY")
+                        function_calling_config=types.FunctionCallingConfig(
+                            mode="ANY",
+                            allowed_function_names=["format_digest_selection"]
+                        )
                     )
                 )
             )
-            for part in response.candidates[0].content.parts:
-                if part.function_call:
-                    entries = part.function_call.args.get("selected_digest_entries", [])
-                    results = []
-                    for e in entries:
-                        topic = e.get("topic_name")
-                        rank = e.get("importance_rank", 99)
-                        aids = [str(aid) for aid in e.get("selected_article_ids", [])]
-                        if topic and aids:
-                            results.append((int(rank), topic.strip(), aids))
-                    results.sort()
-                    return results
+
+            # Safely check response.function_calls provided by the google-genai SDK
+            if response.function_calls:
+                for call in response.function_calls:
+                    if call.name == "format_digest_selection":
+                        args = call.args or {}
+                        entries = args.get("selected_digest_entries", [])
+                        results = []
+                        for e in entries:
+                            topic = e.get("topic_name")
+                            rank = e.get("importance_rank", 99)
+                            aids = [str(aid) for aid in e.get("selected_article_ids", [])]
+                            if topic and aids:
+                                results.append((int(rank), topic.strip(), aids))
+                        results.sort()
+                        return results
+
+            # Fallback check through candidates
+            if response.candidates:
+                candidate = response.candidates[0]
+                if candidate.content and candidate.content.parts:
+                    for part in candidate.content.parts:
+                        if part.function_call:
+                            entries = part.function_call.args.get("selected_digest_entries", [])
+                            results = []
+                            for e in entries:
+                                topic = e.get("topic_name")
+                                rank = e.get("importance_rank", 99)
+                                aids = [str(aid) for aid in e.get("selected_article_ids", [])]
+                                if topic and aids:
+                                    results.append((int(rank), topic.strip(), aids))
+                            results.sort()
+                            return results
+
+            logging.warning("Gemini returned a response, but no function_calls were detected.")
             return []
+
         except Exception as e:
             if "503" in str(e) and attempt < 2:
                 logging.warning(f"Gemini busy (503). Retrying in 10s... (Attempt {attempt+1}/3)")
@@ -358,7 +385,7 @@ def prioritize_with_gemini(candidates_to_send: list, digest_history: list, gemin
             logging.error(f"Gemini error: {e}")
             return []
     return []
-    
+
 def git_push_history_json(history_file_path, base_dir, zone_for_commit_msg):
     try:
         github_user, github_token, github_repository = os.getenv("GITHUB_USER"), os.getenv("GITHUB_TOKEN"), os.getenv("GITHUB_REPOSITORY")
