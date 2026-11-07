@@ -81,6 +81,10 @@
     {
       "title": "US economy grows at brisk 3.4% pace in third quarter on strong consumer spending and AI investment - The Seattle Times",
       "pubDate": "Fri, 30 Oct 2026 08:28:32 GMT"
+    },
+    {
+      "title": "US economy added 165,000 jobs in October, showing surprising strength - Anchorage Daily News",
+      "pubDate": "Sat, 07 Nov 2026 11:19:22 GMT"
     }
   ],
   "OpenAI": [
@@ -605,6 +609,10 @@
     {
       "title": "Two U.S. service members die amid Iran war, Pentagon tally shows - The Washington Post",
       "pubDate": "Fri, 30 Oct 2026 05:02:05 GMT"
+    },
+    {
+      "title": "Watch How the Iran War Is Making Alaskans Both Richer and Poorer - Bloomberg.com",
+      "pubDate": "Sat, 07 Nov 2026 15:08:53 GMT"
     }
   ],
   "Science": [
@@ -787,6 +795,10 @@
     {
       "title": "Nobel Physics Prize Honors IceCube Pioneer Halzen - Technology Org",
       "pubDate": "Sat, 10 Oct 2026 08:19:00 GMT"
+    },
+    {
+      "title": "Quantum Tools Could Unlock Real-time Dynamics In High-energy Nuclear Physics - Quantum Zeitgeist",
+      "pubDate": "Sat, 07 Nov 2026 10:01:02 GMT"
     }
   ],
   "Apple": [
@@ -1729,12 +1741,20 @@
     {
       "title": "West Bank: 22 Harvest Attacks; Israeli Forces Detonate Two Hebron Homes - - IMEMC News",
       "pubDate": "Sat, 31 Oct 2026 00:12:04 GMT"
+    },
+    {
+      "title": "Israeli Forces Invade West Bank Communities - - IMEMC News",
+      "pubDate": "Sat, 07 Nov 2026 10:16:47 GMT"
     }
   ],
   "Lebanon": [
     {
       "title": "Lebanon confronts Iran, demands end to Hezbollah arms shipments and interference - www.israelhayom.com",
       "pubDate": "Sun, 18 Oct 2026 13:02:57 GMT"
+    },
+    {
+      "title": "Israel builds 90km network of military roads across southern Lebanon - Al Jazeera",
+      "pubDate": "Sat, 07 Nov 2026 16:36:13 GMT"
     }
   ],
   "Hedge Funds": [
@@ -2061,6 +2081,18 @@
     {
       "title": "\u2018Alien-cortical\u2019 mice: Can human brain cells grow inside animals? - Al Jazeera",
       "pubDate": "Sat, 07 Nov 2026 06:06:04 GMT"
+    }
+  ],
+  "Ukraine": [
+    {
+      "title": "Inside the Operation That Helped Ukraine Turn the Tables - The New York Times",
+      "pubDate": "Sat, 07 Nov 2026 10:01:41 GMT"
+    }
+  ],
+  "Satellites": [
+    {
+      "title": "NASA Satellites Reveal the Changing Face of Antarctica\u2019s Icy Skull-Shaped Island - Discover Magazine",
+      "pubDate": "Sat, 07 Nov 2026 15:02:26 GMT"
     }
   ]
 }
