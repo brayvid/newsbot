@@ -255,6 +255,10 @@
     {
       "title": "Social media helps candidates connect with voters, but misinformation is concerning - Charleston Gazette-Mail",
       "pubDate": "Sat, 31 Oct 2026 10:15:00 GMT"
+    },
+    {
+      "title": "How Iran used data from social media, fitness apps and satellites to target U.S. bases - Los Angeles Times",
+      "pubDate": "Sat, 14 Nov 2026 11:00:00 GMT"
     }
   ],
   "Taiwan": [
@@ -1309,12 +1313,20 @@
     {
       "title": "NATO Drafts Deep-Strike Plan to Hit Russian Bases and Supply Lines if Moscow Attacks - The SOFX Report",
       "pubDate": "Thu, 05 Nov 2026 04:12:06 GMT"
+    },
+    {
+      "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says - CNN",
+      "pubDate": "Sat, 14 Nov 2026 13:16:54 GMT"
     }
   ],
   "Money": [
     {
       "title": "Investors pull money from US equity funds ahead of earnings reports from AI hyperscalers - Reuters",
       "pubDate": "Fri, 30 Oct 2026 13:17:43 GMT"
+    },
+    {
+      "title": "CVS says GLP-1s save money when priced below $350 per month - Reuters",
+      "pubDate": "Sat, 14 Nov 2026 15:07:30 GMT"
     }
   ],
   "Data Centers": [
@@ -2135,6 +2147,30 @@
     {
       "title": "Lightweight Machine Learning Outperforms Complex Models in Stock Return and Risk Prediction - Bioengineer.org",
       "pubDate": "Sat, 14 Nov 2026 08:08:59 GMT"
+    }
+  ],
+  "US Military": [
+    {
+      "title": "Iran Attacks US Military Base in Gulf for First Time in Nearly 2 Months - The Media Line",
+      "pubDate": "Sat, 14 Nov 2026 17:48:28 GMT"
+    }
+  ],
+  "Fossil Fuel": [
+    {
+      "title": "UN climate chief urges speed as COP31 confronts fossil fuel divide - Reuters",
+      "pubDate": "Sat, 14 Nov 2026 15:31:46 GMT"
+    }
+  ],
+  "Mars Sample Return": [
+    {
+      "title": "Moscow Demands NATO Return to 1997 Borders in Talks With US Envoys - Kyiv Post",
+      "pubDate": "Sat, 14 Nov 2026 07:53:56 GMT"
+    }
+  ],
+  "Health": [
+    {
+      "title": "U.S. loses measles-elimination status, erasing a landmark public health achievement - The Washington Post",
+      "pubDate": "Sat, 14 Nov 2026 07:20:00 GMT"
     }
   ]
 }
