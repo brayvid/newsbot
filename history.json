@@ -585,6 +585,10 @@
     {
       "title": "CryptoQuant says bitcoin is back in a bearish phase but has reached a 'value zone' - The Block",
       "pubDate": "Wed, 18 Nov 2026 17:13:00 GMT"
+    },
+    {
+      "title": "Bitcoin falls below $60,000 level - Reuters",
+      "pubDate": "Fri, 20 Nov 2026 16:26:27 GMT"
     }
   ],
   "US Senate": [
@@ -763,6 +767,10 @@
     {
       "title": "AI\u2019s Healthcare Potential: Better Outcomes, Broader Access and Improved Affordability - Cleveland Clinic",
       "pubDate": "Tue, 17 Nov 2026 06:25:50 GMT"
+    },
+    {
+      "title": "Home affordability in Wisconsin reached lowest levels since realtors began tracking it - WPR",
+      "pubDate": "Fri, 20 Nov 2026 11:00:00 GMT"
     }
   ],
   "Florida": [
@@ -857,6 +865,10 @@
     {
       "title": "Another Day of Protests Is Planned in France\u2019s Autumn of Discontent - The New York Times",
       "pubDate": "Sat, 07 Nov 2026 05:01:04 GMT"
+    },
+    {
+      "title": "Protests held across Europe over wages, services, high living costs - Al Jazeera",
+      "pubDate": "Fri, 20 Nov 2026 17:37:41 GMT"
     }
   ],
   "Physics": [
@@ -1275,6 +1287,10 @@
     {
       "title": "ESCAPADE on its way to Mars after Earth flybys - SpaceNews",
       "pubDate": "Tue, 10 Nov 2026 08:01:39 GMT"
+    },
+    {
+      "title": "Quake Traced to a Fault Deep Below Mars\u2019s Largest Canyon - Eos",
+      "pubDate": "Fri, 20 Nov 2026 14:11:45 GMT"
     }
   ],
   "Public Health": [
@@ -2171,6 +2187,10 @@
     {
       "title": "NASA Satellites Reveal the Changing Face of Antarctica\u2019s Icy Skull-Shaped Island - Discover Magazine",
       "pubDate": "Sat, 07 Nov 2026 15:02:26 GMT"
+    },
+    {
+      "title": "Google taps Blue Origin to launch AI satellites into orbit - USA Today",
+      "pubDate": "Fri, 20 Nov 2026 14:32:00 GMT"
     }
   ],
   "Trump Administration": [
@@ -2403,6 +2423,10 @@
     {
       "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges - CNBC",
       "pubDate": "Wed, 18 Nov 2026 15:15:54 GMT"
+    },
+    {
+      "title": "Can Anthropic Revive the A.I. Trade? - The New York Times",
+      "pubDate": "Fri, 20 Nov 2026 13:01:11 GMT"
     }
   ],
   "US Air Force": [
@@ -2421,6 +2445,12 @@
     {
       "title": "Data Centers Are the Growth Engine of America\u2019s Power Grid - WSJ",
       "pubDate": "Fri, 20 Nov 2026 11:25:00 GMT"
+    }
+  ],
+  "Perplexity": [
+    {
+      "title": "Perplexity\u2019s Brain Learns on the Job: Self-Improving Agent Skills - The Futurum Group",
+      "pubDate": "Fri, 20 Nov 2026 16:28:09 GMT"
     }
   ]
 }
