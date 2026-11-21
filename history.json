@@ -119,6 +119,10 @@
     {
       "title": "Leaders gather in Turkey for U.N. climate summit after a disastrous year of extreme weather - NBC News",
       "pubDate": "Mon, 09 Nov 2026 09:48:24 GMT"
+    },
+    {
+      "title": "Climate talks in overtime as nations wrestle with response to worsening global warming - PBS",
+      "pubDate": "Sat, 21 Nov 2026 17:03:39 GMT"
     }
   ],
   "Iran": [
@@ -361,6 +365,10 @@
     {
       "title": "AI Breast Cancer Risk Models Guide Triage and Nurse-Led Patient Counseling - Oncology Nursing News",
       "pubDate": "Sat, 24 Oct 2026 12:08:33 GMT"
+    },
+    {
+      "title": "Multimodal AI Framework Integrates Pathology and Genomics for Lung Cancer Evaluation - Bioengineer.org",
+      "pubDate": "Sat, 21 Nov 2026 12:22:56 GMT"
     }
   ],
   "Infrastructure": [
@@ -1175,6 +1183,10 @@
     {
       "title": "Goldman Sachs sees S&P 500 rising to 8,700 next year despite slower earnings growth - Reuters",
       "pubDate": "Fri, 13 Nov 2026 14:31:48 GMT"
+    },
+    {
+      "title": "Goldman Sachs admits the 'AI unwind' has spiraled into something more dangerous \u2014 and it's watching for 3 signs of bottom - Fortune",
+      "pubDate": "Sat, 21 Nov 2026 14:47:00 GMT"
     }
   ],
   "NATO": [
@@ -1199,6 +1211,10 @@
     {
       "title": "CVS says GLP-1s save money when priced below $350 per month - Reuters",
       "pubDate": "Sat, 14 Nov 2026 15:07:30 GMT"
+    },
+    {
+      "title": "Amazon Customers Have Until December 1 to Claim Money From $309.5 Million Settlement - Yahoo",
+      "pubDate": "Sat, 21 Nov 2026 16:00:11 GMT"
     }
   ],
   "Data Centers": [
@@ -1661,6 +1677,10 @@
     {
       "title": "BlackRock favors emerging market equities as AI investment enters a new phase - Citywire",
       "pubDate": "Wed, 11 Nov 2026 13:44:30 GMT"
+    },
+    {
+      "title": "BlackRock Said Bitcoin Moves Against AI Stocks: Then Both Crashed Together - 24/7 Wall St.",
+      "pubDate": "Sat, 21 Nov 2026 13:33:00 GMT"
     }
   ],
   "The Moon": [
@@ -1769,6 +1789,10 @@
     {
       "title": "Ukraine damages Putin\u2019s prized Crimea bridge as Zelenskyy lauds \u2018unprecedented operation\u2019 - CNBC",
       "pubDate": "Tue, 17 Nov 2026 11:05:20 GMT"
+    },
+    {
+      "title": "Russian \u2018triple-tap\u2019 attack in Ukraine kills emergency worker and 7-year-old in Zelensky\u2019s home city - CNN",
+      "pubDate": "Sat, 21 Nov 2026 13:00:43 GMT"
     }
   ],
   "Satellites": [
@@ -2055,6 +2079,12 @@
     {
       "title": "Engineering Orbital Data Centers - Brownstone Research",
       "pubDate": "Sat, 21 Nov 2026 02:35:04 GMT"
+    }
+  ],
+  "Reinforcement Learning": [
+    {
+      "title": "Federated Multi-Agent Reinforcement Learning Optimizes Electric Vehicle Scheduling Across Microgrids - Bioengineer.org",
+      "pubDate": "Sat, 21 Nov 2026 12:14:05 GMT"
     }
   ]
 }
