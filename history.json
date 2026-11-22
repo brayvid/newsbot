@@ -113,6 +113,10 @@
     {
       "title": "Israeli forces kill four in Gaza as fifth Palestinian dies of wounds - Al Jazeera",
       "pubDate": "Tue, 03 Nov 2026 08:49:05 GMT"
+    },
+    {
+      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza - Al Jazeera",
+      "pubDate": "Sun, 22 Nov 2026 02:25:27 GMT"
     }
   ],
   "Climate Change": [
@@ -137,6 +141,10 @@
     {
       "title": "U.S. Military Strikes Iran\u2019s Qeshm Island in What U.S. Officials Call a Defensive Measure - The New York Times",
       "pubDate": "Tue, 03 Nov 2026 16:23:00 GMT"
+    },
+    {
+      "title": "Israel, US agree to develop joint plans for possible escalation against Iran: Report - Anadolu Ajans\u0131",
+      "pubDate": "Sun, 22 Nov 2026 08:34:45 GMT"
     }
   ],
   "Climate": [
@@ -657,6 +665,10 @@
     {
       "title": "SS United States sinks off Florida's Gulf Coast, will become world's largest artificial reef - CBS News",
       "pubDate": "Thu, 12 Nov 2026 00:04:00 GMT"
+    },
+    {
+      "title": "More rain Saturday after days of flooding along Central Florida coast - WESH",
+      "pubDate": "Sun, 22 Nov 2026 04:16:00 GMT"
     }
   ],
   "Amazon": [
@@ -1149,6 +1161,10 @@
     {
       "title": "Kim Jong-un's top aide visits Russia ahead of US-China-Russia summit - The Korea Herald",
       "pubDate": "Sun, 15 Nov 2026 06:16:09 GMT"
+    },
+    {
+      "title": "How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump - WSJ",
+      "pubDate": "Sun, 22 Nov 2026 05:21:16 GMT"
     }
   ],
   "New York City": [
@@ -1573,6 +1589,10 @@
     {
       "title": "Chinese Hedge Funds Suffered Double-Digit Losses from AI Rout - Bloomberg.com",
       "pubDate": "Tue, 17 Nov 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Bruised and Broadening \u2014 Hedge Funds Retreat From the AI Trade - The Dark Side Of The Boom",
+      "pubDate": "Sun, 22 Nov 2026 06:02:14 GMT"
     }
   ],
   "Self-Driving Cars": [
@@ -2085,6 +2105,18 @@
     {
       "title": "Federated Multi-Agent Reinforcement Learning Optimizes Electric Vehicle Scheduling Across Microgrids - Bioengineer.org",
       "pubDate": "Sat, 21 Nov 2026 12:14:05 GMT"
+    }
+  ],
+  "Carbon Dioxide": [
+    {
+      "title": "Capturing And Mineralizing Atmospheric Carbon Dioxide - Hackaday",
+      "pubDate": "Sun, 22 Nov 2026 03:00:00 GMT"
+    }
+  ],
+  "Galaxies": [
+    {
+      "title": "Which came first: black holes or galaxies? - Live Science",
+      "pubDate": "Sun, 22 Nov 2026 10:00:00 GMT"
     }
   ]
 }
