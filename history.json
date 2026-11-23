@@ -525,6 +525,10 @@
     {
       "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say - Reuters",
       "pubDate": "Fri, 23 Oct 2026 10:11:17 GMT"
+    },
+    {
+      "title": "European Union Laws Fail to Guarantee Public Participation in Public-Sector AI Development - Bioengineer.org",
+      "pubDate": "Mon, 23 Nov 2026 08:14:21 GMT"
     }
   ],
   "Hacking": [
@@ -905,6 +909,10 @@
     {
       "title": "Researchers are studying how large storms spread microplastics in the environment - NPR",
       "pubDate": "Tue, 17 Nov 2026 09:46:06 GMT"
+    },
+    {
+      "title": "China vows to foster stable environment for business cooperation with Australia: premier - China Daily Global Edition",
+      "pubDate": "Mon, 23 Nov 2026 01:34:18 GMT"
     }
   ],
   "Big Tech": [
@@ -929,6 +937,10 @@
     {
       "title": "IBM, NVIDIA Join Fermilab to Co-Design AI-Enabled Quantum Computing Platform - ExecutiveBiz",
       "pubDate": "Tue, 17 Nov 2026 16:40:03 GMT"
+    },
+    {
+      "title": "India tops IBM's digital sovereignty index but struggles to prove control over data and AI - DQ",
+      "pubDate": "Mon, 23 Nov 2026 09:52:42 GMT"
     }
   ],
   "Rivian": [
@@ -1065,6 +1077,10 @@
     {
       "title": "32% of postpartum women report needing mental health care in survey spanning 16 states - Medical Xpress",
       "pubDate": "Sun, 22 Nov 2026 15:30:01 GMT"
+    },
+    {
+      "title": "If the AI bubble bursts, it could create a serious problem for health care - STAT",
+      "pubDate": "Mon, 23 Nov 2026 09:36:55 GMT"
     }
   ],
   "US Army": [
@@ -1495,6 +1511,10 @@
     {
       "title": "Volvo Profit Rises on Truck Demand in North America and Europe - Bloomberg.com",
       "pubDate": "Fri, 23 Oct 2026 07:13:32 GMT"
+    },
+    {
+      "title": "Amex GBT forecasts economy airfare increases of up to 4.3% in North America in 2027 - TravelPress",
+      "pubDate": "Mon, 23 Nov 2026 11:31:18 GMT"
     }
   ],
   "Quantum Mechanics": [
@@ -2087,6 +2107,10 @@
     {
       "title": "Can Anthropic Revive the A.I. Trade? - The New York Times",
       "pubDate": "Fri, 20 Nov 2026 13:01:11 GMT"
+    },
+    {
+      "title": "Anthropic\u2019s IPO was great for the tech elite \u2013 and not so great for the rest of us | Steven Greenhouse - The Guardian",
+      "pubDate": "Mon, 23 Nov 2026 11:11:00 GMT"
     }
   ],
   "US Air Force": [
@@ -2147,6 +2171,12 @@
     {
       "title": "First-of-its-kind UNLV engineering program merges entertainment, technology - Las Vegas Review-Journal",
       "pubDate": "Sun, 22 Nov 2026 08:55:05 GMT"
+    }
+  ],
+  "GPUs": [
+    {
+      "title": "How NVIDIA Blackwell GPUs Are Changing High-Performance AI Computing - Nasscom",
+      "pubDate": "Mon, 23 Nov 2026 05:58:01 GMT"
     }
   ]
 }
