@@ -1,15 +1,5 @@
 {
-  "Artificial Intelligence": [
-    {
-      "title": "The legal AI boom just lured a researcher out of Meta's Superintelligence Lab - Business Insider",
-      "pubDate": "Thu, 22 Oct 2026 09:00:00 GMT"
-    }
-  ],
   "Israel": [
-    {
-      "title": "Israel election results: No clear winner projected, what\u2019s next? - Al Jazeera",
-      "pubDate": "Wed, 28 Oct 2026 08:10:46 GMT"
-    },
     {
       "title": "The US election showed growing frustration with Israel on both sides of the aisle - AP News",
       "pubDate": "Sat, 07 Nov 2026 07:55:00 GMT"
@@ -20,14 +10,6 @@
     }
   ],
   "Russia": [
-    {
-      "title": "Russia\u2019s War on Ukraine Is Straining Food and Fuel Supply - Bloomberg.com",
-      "pubDate": "Mon, 26 Oct 2026 05:02:49 GMT"
-    },
-    {
-      "title": "Russia is selling Africa dependence disguised as partnership - Al Jazeera",
-      "pubDate": "Wed, 28 Oct 2026 07:31:06 GMT"
-    },
     {
       "title": "Russia\u2019s Army Is Nothing Like the One That Invaded Ukraine. Should NATO Be Worried? - Eyes Only with Wes O'Donnell",
       "pubDate": "Wed, 04 Nov 2026 17:15:48 GMT"
@@ -52,10 +34,6 @@
     }
   ],
   "China": [
-    {
-      "title": "China's new export curbs draw a line around its AI crown jewels - Reuters",
-      "pubDate": "Wed, 28 Oct 2026 12:20:14 GMT"
-    },
     {
       "title": "Opinion | U.S.-China Relations Will Never Be the Same in the Age of A.I. - The New York Times",
       "pubDate": "Mon, 02 Nov 2026 06:00:05 GMT"
@@ -96,14 +74,6 @@
     }
   ],
   "OpenAI": [
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d - TechCrunch",
-      "pubDate": "Fri, 23 Oct 2026 23:05:49 GMT"
-    },
-    {
-      "title": "OpenAI, Anthropic disclosures spotlight growing AI containment challenge - CSO Online",
-      "pubDate": "Mon, 26 Oct 2026 11:58:25 GMT"
-    },
     {
       "title": "DeepSeek unveils AI \u2018super agent\u2019 in coding race with OpenAI, Anthropic - South China Morning Post",
       "pubDate": "Sun, 01 Nov 2026 10:00:26 GMT"
@@ -147,10 +117,6 @@
   ],
   "Iran": [
     {
-      "title": "Iran in \u2018advanced stages\u2019 of plots to kill U.S. officials abroad, memo warns - The Washington Post",
-      "pubDate": "Sun, 25 Oct 2026 00:10:56 GMT"
-    },
-    {
       "title": "Vance makes Tehran outreach as Middle East braces for resumption of Iran war - The Washington Post",
       "pubDate": "Thu, 29 Oct 2026 06:30:24 GMT"
     },
@@ -186,10 +152,6 @@
     }
   ],
   "Drones": [
-    {
-      "title": "Drones Hit Omsky Kauchuk Deep in Russia, Belgorod Targeted - Kyiv Post",
-      "pubDate": "Sun, 25 Oct 2026 09:15:31 GMT"
-    },
     {
       "title": "Russia Attacks Ukraine With 310 Drones, Striking Energy Sites and Infrastructure - Kyiv Post",
       "pubDate": "Wed, 04 Nov 2026 09:25:57 GMT"
@@ -241,14 +203,6 @@
   ],
   "NASA": [
     {
-      "title": "The U.S. military and NASA have power problems. Nuclear microreactors might solve both - Fortune",
-      "pubDate": "Sun, 25 Oct 2026 08:06:00 GMT"
-    },
-    {
-      "title": "NASA\u2019s Artemis III Mission to Test Future Moon Lander Operations - NASA (.gov)",
-      "pubDate": "Tue, 27 Oct 2026 08:49:26 GMT"
-    },
-    {
       "title": "Nasa Confirms Plans For Nuclear-Powered Moon Mission In 2028 - NucNet",
       "pubDate": "Wed, 11 Nov 2026 09:10:13 GMT"
     },
@@ -262,10 +216,6 @@
     }
   ],
   "Cyberattack": [
-    {
-      "title": "Britain\u2019s defense chief urges public to prepare for cyberattack-driven supply chain disruptions - Anadolu Ajans\u0131",
-      "pubDate": "Fri, 23 Oct 2026 00:57:06 GMT"
-    },
     {
       "title": "Japan deploys AI, specialist teams to counter cyberattack wave - South China Morning Post",
       "pubDate": "Fri, 06 Nov 2026 09:37:42 GMT"
@@ -284,14 +234,6 @@
     }
   ],
   "Social Media": [
-    {
-      "title": "France reportedly asked telecom operators to prepare for social media restrictions: Report - Anadolu Ajans\u0131",
-      "pubDate": "Sun, 25 Oct 2026 00:46:44 GMT"
-    },
-    {
-      "title": "Chilling case in Puerto Rico: Man confesses on social media to killing attorney, activist - NBC 6 South Florida",
-      "pubDate": "Mon, 26 Oct 2026 15:17:04 GMT"
-    },
     {
       "title": "Social media helps candidates connect with voters, but misinformation is concerning - Charleston Gazette-Mail",
       "pubDate": "Sat, 31 Oct 2026 10:15:00 GMT"
@@ -315,12 +257,6 @@
       "pubDate": "Sat, 14 Nov 2026 07:44:00 GMT"
     }
   ],
-  "US Foreign Policy": [
-    {
-      "title": "Gyeonggi's plan to abolish immigration bureau sparks concerns over policy rollback - The Korea Herald",
-      "pubDate": "Thu, 22 Oct 2026 06:25:41 GMT"
-    }
-  ],
   "Canada": [
     {
       "title": "As Trump Unravels the Old World Order, Canada and EU Join Forces - Bloomberg.com",
@@ -336,14 +272,6 @@
     }
   ],
   "Civil Rights": [
-    {
-      "title": "\u2018A civil rights issue\u2019: New proposal for license plate cameras sparks concern over privacy - The Stanford Daily",
-      "pubDate": "Mon, 26 Oct 2026 08:22:04 GMT"
-    },
-    {
-      "title": "Black southerners revive the civil rights struggle: \u2018Trump wants to take us back to 1860\u2019 - EL PA\u00cdS English",
-      "pubDate": "Tue, 27 Oct 2026 12:48:09 GMT"
-    },
     {
       "title": "How moving civil rights enforcement out of the US Department of Education threatens students\u2019 protections from race, sex and disability discrimination - The Conversation",
       "pubDate": "Fri, 30 Oct 2026 12:14:11 GMT"
@@ -367,18 +295,6 @@
   ],
   "Google": [
     {
-      "title": "Trump says Google's CEO rejected his plan to change the Atlantic's name to the 'Trump Ocean' - Business Insider",
-      "pubDate": "Thu, 22 Oct 2026 09:55:00 GMT"
-    },
-    {
-      "title": "Finns Are Seething After Google Illegally Toppled 250,000 Trees for a Data Center - Mother Jones",
-      "pubDate": "Fri, 23 Oct 2026 11:19:53 GMT"
-    },
-    {
-      "title": "OpenAI plans to buy Google's AI chips, The Information reports - Reuters",
-      "pubDate": "Wed, 28 Oct 2026 01:23:00 GMT"
-    },
-    {
       "title": "Investors turn on Google owner Alphabet after profit miss, ad slowdown and high spending - The Guardian",
       "pubDate": "Wed, 28 Oct 2026 23:39:00 GMT"
     },
@@ -391,25 +307,7 @@
       "pubDate": "Wed, 18 Nov 2026 09:21:31 GMT"
     }
   ],
-  "FBI": [
-    {
-      "title": "Oakland Corruption Trial: FBI Agent Expected to Testify on Backdoor Dealings in City Hall - KQED",
-      "pubDate": "Thu, 22 Oct 2026 16:35:05 GMT"
-    },
-    {
-      "title": "2 ex-FBI officials charged with lying to Congress about Hunter Biden laptop probe - CBS News",
-      "pubDate": "Fri, 23 Oct 2026 14:42:00 GMT"
-    },
-    {
-      "title": "2 ex-FBI officials charged with lying about involvement in investigation into Hunter Biden\u2019s laptop - CNYhomepage.com",
-      "pubDate": "Sat, 24 Oct 2026 10:52:32 GMT"
-    }
-  ],
   "Cancer": [
-    {
-      "title": "AI Breast Cancer Risk Models Guide Triage and Nurse-Led Patient Counseling - Oncology Nursing News",
-      "pubDate": "Sat, 24 Oct 2026 12:08:33 GMT"
-    },
     {
       "title": "Multimodal AI Framework Integrates Pathology and Genomics for Lung Cancer Evaluation - Bioengineer.org",
       "pubDate": "Sat, 21 Nov 2026 12:22:56 GMT"
@@ -420,10 +318,6 @@
     }
   ],
   "Infrastructure": [
-    {
-      "title": "Japan weighs counting AI and infrastructure budgets as defense spending to counter US pressure to boost outlays - \ud30c\uc774\ub0b8\uc15c\ub274\uc2a4",
-      "pubDate": "Sat, 24 Oct 2026 04:34:30 GMT"
-    },
     {
       "title": "Gaza\u2019s infrastructure collapse leaves residents defenceless against floods - Al Jazeera",
       "pubDate": "Wed, 11 Nov 2026 10:41:43 GMT"
@@ -442,10 +336,6 @@
     }
   ],
   "Adobe": [
-    {
-      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass - The Hacker News",
-      "pubDate": "Wed, 28 Oct 2026 11:15:00 GMT"
-    },
     {
       "title": "Can Adobe Stock Rise 30% From Here? - Trefis",
       "pubDate": "Tue, 24 Nov 2026 09:17:40 GMT"
@@ -559,10 +449,6 @@
   ],
   "US Senate": [
     {
-      "title": "Ohio\u2019s US Senate race is one of the most competitive \u2014 and expensive \u2014 in the nation - FOX19 | Cincinnati",
-      "pubDate": "Thu, 22 Oct 2026 23:06:00 GMT"
-    },
-    {
       "title": "Alaska dispute threatening to complicate fight for US Senate control - Reuters",
       "pubDate": "Thu, 29 Oct 2026 15:28:24 GMT"
     },
@@ -573,10 +459,6 @@
   ],
   "Palantir": [
     {
-      "title": "Palantir\u2019s Growth Looks Unstoppable. There\u2019s 1 Major Risk. - Barron's",
-      "pubDate": "Tue, 27 Oct 2026 14:54:00 GMT"
-    },
-    {
       "title": "AI Stocks Bounce, but Leadership Rotates to AMD and Palantir as Nvidia Lags Into Earnings - ChartMill",
       "pubDate": "Fri, 13 Nov 2026 13:36:09 GMT"
     },
@@ -586,10 +468,6 @@
     }
   ],
   "European Union": [
-    {
-      "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say - Reuters",
-      "pubDate": "Fri, 23 Oct 2026 10:11:17 GMT"
-    },
     {
       "title": "European Union Laws Fail to Guarantee Public Participation in Public-Sector AI Development - Bioengineer.org",
       "pubDate": "Mon, 23 Nov 2026 08:14:21 GMT"
@@ -607,10 +485,6 @@
   ],
   "Iran War": [
     {
-      "title": "U.S. Senate candidate Adam Hamilton talks Iran War, tariffs in Kansas - The Topeka Capital-Journal",
-      "pubDate": "Fri, 23 Oct 2026 09:11:18 GMT"
-    },
-    {
       "title": "Two U.S. service members die amid Iran war, Pentagon tally shows - The Washington Post",
       "pubDate": "Fri, 30 Oct 2026 05:02:05 GMT"
     },
@@ -624,10 +498,6 @@
     }
   ],
   "Science": [
-    {
-      "title": "Why (and How to) Do Science in an Age of AI - AMS Headlines",
-      "pubDate": "Wed, 28 Oct 2026 16:13:18 GMT"
-    },
     {
       "title": "New minimoon discovered in Earth orbit is 6 feet wide and could vanish come January - Live Science",
       "pubDate": "Fri, 13 Nov 2026 10:30:00 GMT"
@@ -671,10 +541,6 @@
   ],
   "Renewable Energy": [
     {
-      "title": "Sri Lanka seeks faster green energy shift after oil shocks - France 24",
-      "pubDate": "Sun, 25 Oct 2026 03:26:53 GMT"
-    },
-    {
       "title": "China boasts world's largest renewable energy system: report - CGTN",
       "pubDate": "Sun, 08 Nov 2026 06:09:06 GMT"
     }
@@ -686,22 +552,6 @@
     }
   ],
   "Meta": [
-    {
-      "title": "Meta ordered to pay $25B in New Mexico for misleading users on privacy - The Washington Post",
-      "pubDate": "Thu, 22 Oct 2026 02:58:10 GMT"
-    },
-    {
-      "title": "Meta Falls After Boosting Spending Plans for AI Bet - Bloomberg.com",
-      "pubDate": "Thu, 22 Oct 2026 13:43:49 GMT"
-    },
-    {
-      "title": "Exclusive: Meta acquires AI data platform Sundial - Axios",
-      "pubDate": "Sat, 24 Oct 2026 06:24:44 GMT"
-    },
-    {
-      "title": "Meta Seeks Up to $95 Billion in Equity to Fund AI Spending - Bloomberg.com",
-      "pubDate": "Tue, 27 Oct 2026 07:56:15 GMT"
-    },
     {
       "title": "Exclusive: Meta buys AI startup and joins race to own coding in show of outsized ambition - Axios",
       "pubDate": "Thu, 05 Nov 2026 09:36:54 GMT"
@@ -727,10 +577,6 @@
   ],
   "Florida": [
     {
-      "title": "In Florida\u2019s Gubernatorial Race, a Choice Between New Climate Policy or the Status Quo - Inside Climate News",
-      "pubDate": "Tue, 27 Oct 2026 08:55:00 GMT"
-    },
-    {
       "title": "GOP\u2019s hold on Florida could chart the future of data centers - Politico",
       "pubDate": "Tue, 10 Nov 2026 10:00:00 GMT"
     },
@@ -744,10 +590,6 @@
     }
   ],
   "Amazon": [
-    {
-      "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says - Reuters",
-      "pubDate": "Fri, 23 Oct 2026 23:07:43 GMT"
-    },
     {
       "title": "These are the 20 best books of 2026, according to Amazon editors - Mashable",
       "pubDate": "Thu, 12 Nov 2026 17:12:31 GMT"
@@ -789,14 +631,6 @@
   ],
   "Protests": [
     {
-      "title": "France to deploy 70,000 police as country braces for weekend protests - Al Jazeera",
-      "pubDate": "Fri, 23 Oct 2026 23:39:06 GMT"
-    },
-    {
-      "title": "France, bracing for new protests, deploys 70,000 police officers - The Washington Post",
-      "pubDate": "Sat, 24 Oct 2026 15:57:27 GMT"
-    },
-    {
       "title": "Activists breach Microsoft data centre construction site as protests spread in Europe - Reuters",
       "pubDate": "Fri, 06 Nov 2026 17:28:19 GMT"
     },
@@ -829,10 +663,6 @@
   ],
   "Apple": [
     {
-      "title": "Apple's First Foldable, the 'iPhone Duo,' Sparks Screen Damage Controversy Within 6 Hours of Unboxing \u2014 Fears of a $2,500 'Guinea Pig' - BigGo Finance",
-      "pubDate": "Sun, 25 Oct 2026 02:55:00 GMT"
-    },
-    {
       "title": "Apple\u2019s Narrowing Margins Overshadow Upbeat Holiday Forecast - Bloomberg.com",
       "pubDate": "Tue, 03 Nov 2026 14:36:46 GMT"
     },
@@ -851,22 +681,8 @@
   ],
   "Ethereum": [
     {
-      "title": "Why Is Crypto Going Down? Bitcoin Tests $80,000 as Ethereum, XRP and Dogecoin Sink to August Lows - Finance Magnates",
-      "pubDate": "Mon, 26 Oct 2026 08:48:50 GMT"
-    },
-    {
-      "title": "Most big cryptocurrencies fall on Sui, Ethereum drops - MarketWatch",
-      "pubDate": "Mon, 26 Oct 2026 14:00:00 GMT"
-    },
-    {
       "title": "ETH news: Ethereum clients patch flaw that could let attackers redirect ether rewards - CoinDesk",
       "pubDate": "Thu, 29 Oct 2026 05:34:38 GMT"
-    }
-  ],
-  "US Navy": [
-    {
-      "title": "U.S. Navy submarine arrives in Western Australia for Scheduled Maintenance Period in support of AUKUS - navy.mil",
-      "pubDate": "Tue, 27 Oct 2026 13:11:41 GMT"
     }
   ],
   "Tesla": [
@@ -880,10 +696,6 @@
     }
   ],
   "Business": [
-    {
-      "title": "Anthropic's S-1, by the numbers: A thriving business\u2014with a $441 billion asterisk - Fortune",
-      "pubDate": "Tue, 27 Oct 2026 08:00:00 GMT"
-    },
     {
       "title": "I run an 8-person startup that uses AI agents. We don't let our agents run on vibes \u2014 here's the playbook system we created - Business Insider",
       "pubDate": "Sun, 01 Nov 2026 11:00:00 GMT"
@@ -927,10 +739,6 @@
   ],
   "Strait of Hormuz": [
     {
-      "title": "The Strait of Hormuz: A Trap for Trump - WANA News Agency",
-      "pubDate": "Sun, 25 Oct 2026 07:33:24 GMT"
-    },
-    {
       "title": "Iran's IRGC says two tankers and tugboat caught fire in Strait of Hormuz - Reuters",
       "pubDate": "Thu, 05 Nov 2026 04:21:00 GMT"
     },
@@ -941,23 +749,11 @@
   ],
   "Robotics": [
     {
-      "title": "Autonomous excavator startup Bedrock Robotics picks up $600M in funding - SiliconANGLE",
-      "pubDate": "Mon, 26 Oct 2026 23:48:00 GMT"
-    },
-    {
-      "title": "ByteDance goes on a hiring spree to move its robots from lab to factory floor - South China Morning Post",
-      "pubDate": "Wed, 28 Oct 2026 03:00:10 GMT"
-    },
-    {
       "title": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports - Reuters",
       "pubDate": "Sat, 07 Nov 2026 09:55:43 GMT"
     }
   ],
   "Layoffs": [
-    {
-      "title": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers - The New York Times",
-      "pubDate": "Fri, 23 Oct 2026 14:23:35 GMT"
-    },
     {
       "title": "Mets Regional Network Hit With Massive Cutbacks, Layoffs - Yahoo Sports",
       "pubDate": "Sat, 07 Nov 2026 13:05:29 GMT"
@@ -972,10 +768,6 @@
     }
   ],
   "Tariffs": [
-    {
-      "title": "How Tariffs Became the Most Hated Word in Politics - WSJ",
-      "pubDate": "Fri, 23 Oct 2026 09:30:00 GMT"
-    },
     {
       "title": "China\u2019s US$938 Billion Surplus: Evidence That US Tariffs Have Failed To Restrain Beijing? - Analysis - Eurasia Review",
       "pubDate": "Sun, 01 Nov 2026 01:30:35 GMT"
@@ -1049,16 +841,6 @@
       "pubDate": "Thu, 26 Nov 2026 12:30:03 GMT"
     }
   ],
-  "Immigration": [
-    {
-      "title": "Ilhan Omar investigation appears focused on immigration fraud, ex-DOJ lawyer says - NewsNation",
-      "pubDate": "Thu, 22 Oct 2026 09:20:02 GMT"
-    },
-    {
-      "title": "Immigration briefing: Ukraine TPS extended; visa slow-walk claim; VT ICE protests - NPR",
-      "pubDate": "Sat, 24 Oct 2026 11:42:05 GMT"
-    }
-  ],
   "Texas": [
     {
       "title": "Central Texas healthcare is booming. What\u2019s missing? - Austin American-Statesman",
@@ -1066,10 +848,6 @@
     }
   ],
   "Pollution": [
-    {
-      "title": "Richest 0.1% produce more carbon pollution than poorest half of humanity: Report - Anadolu Ajans\u0131",
-      "pubDate": "Tue, 27 Oct 2026 08:35:39 GMT"
-    },
     {
       "title": "November 8, 2026: London among top 10 most polluted cities in the world - IQAir",
       "pubDate": "Sun, 08 Nov 2026 07:43:51 GMT"
@@ -1094,10 +872,6 @@
     }
   ],
   "Corruption": [
-    {
-      "title": "Only New Laws Can Stop Political Corruption - Bloomberg.com",
-      "pubDate": "Sat, 24 Oct 2026 12:00:05 GMT"
-    },
     {
       "title": "FBI used a paid informant in KCSO corruption investigation | Exclusive - Knoxville News Sentinel",
       "pubDate": "Tue, 03 Nov 2026 10:05:00 GMT"
@@ -1131,10 +905,6 @@
   ],
   "Redistricting": [
     {
-      "title": "DOJ indicts Virginia Democrat who led redistricting push on drug trafficking, money laundering charges - Politico",
-      "pubDate": "Thu, 22 Oct 2026 14:46:00 GMT"
-    },
-    {
       "title": "Will Mississippi carry through with redistricting after the blue wave? - The Clarion-Ledger",
       "pubDate": "Tue, 24 Nov 2026 10:59:00 GMT"
     }
@@ -1147,19 +917,11 @@
   ],
   "JD Vance": [
     {
-      "title": "How JD Vance visit \u2013 again \u2013 highlights Kansas as the crossroads of the 2026 midterms - Kansas City Star",
-      "pubDate": "Mon, 26 Oct 2026 10:00:00 GMT"
-    },
-    {
       "title": "JD Vance still likely to run for president as GOP rivals circle - The Washington Post",
       "pubDate": "Fri, 13 Nov 2026 17:33:05 GMT"
     }
   ],
   "Research": [
-    {
-      "title": "New research finds frequent disease outbreaks in B.C. salmon farms, endangering wild salmon - The Conversation",
-      "pubDate": "Sun, 25 Oct 2026 12:28:40 GMT"
-    },
     {
       "title": "Mathematicians warn AI firms are keeping vital research in the field secret - The Observer",
       "pubDate": "Sun, 01 Nov 2026 10:34:35 GMT"
@@ -1207,17 +969,7 @@
       "pubDate": "Fri, 20 Nov 2026 14:11:45 GMT"
     }
   ],
-  "Public Health": [
-    {
-      "title": "TAMUSA opens new $55M public health and education building - San Antonio Report",
-      "pubDate": "Thu, 22 Oct 2026 10:00:00 GMT"
-    }
-  ],
   "Ro Khanna": [
-    {
-      "title": "Ro Khanna, eyeing the White House, tries to sell capitalism to the left - The Washington Post",
-      "pubDate": "Fri, 23 Oct 2026 15:02:24 GMT"
-    },
     {
       "title": "Progressives launch effort to urge Rep. Ro Khanna to run for president in 2028 - The Washington Post",
       "pubDate": "Thu, 05 Nov 2026 17:31:23 GMT"
@@ -1234,14 +986,6 @@
     }
   ],
   "Internet": [
-    {
-      "title": "The internet has a human slop problem, and AI is exposing it - Business Insider",
-      "pubDate": "Sat, 24 Oct 2026 09:00:00 GMT"
-    },
-    {
-      "title": "Is this the end of the human internet? - The Arab Weekly",
-      "pubDate": "Mon, 26 Oct 2026 10:39:12 GMT"
-    },
     {
       "title": "Why the Internet Feels So Broken - Bloomberg.com",
       "pubDate": "Fri, 30 Oct 2026 04:30:00 GMT"
@@ -1265,12 +1009,6 @@
       "pubDate": "Wed, 04 Nov 2026 05:35:27 GMT"
     }
   ],
-  "Pacific Ocean": [
-    {
-      "title": "TIME\u2019s 2026 Best Inventions: Apple CEO John Ternus Leads the Charge Into Tech\u2019s Future - Cheddar",
-      "pubDate": "Fri, 23 Oct 2026 15:31:18 GMT"
-    }
-  ],
   "Cryptocurrency": [
     {
       "title": "TraderTraitor: FBI says North Korean hackers behind $6.3bn Binance cryptocurrency theft - The Independent",
@@ -1286,10 +1024,6 @@
     }
   ],
   "Kim Jong Un": [
-    {
-      "title": "Could Trump Still Meet Kim Jong Un This Year as Hopes for a Summit Fade? - Modern Diplomacy",
-      "pubDate": "Fri, 23 Oct 2026 05:19:02 GMT"
-    },
     {
       "title": "Kim Jong Un's secret cyber army: How North Korea recruits its elite hackers - The Jerusalem Post",
       "pubDate": "Fri, 06 Nov 2026 06:01:49 GMT"
@@ -1347,10 +1081,6 @@
   ],
   "NATO": [
     {
-      "title": "Russian Drones And Missiles Threaten NATO Energy Infrastructure. - Forbes",
-      "pubDate": "Mon, 26 Oct 2026 13:00:00 GMT"
-    },
-    {
       "title": "NATO Drafts Deep-Strike Plan to Hit Russian Bases and Supply Lines if Moscow Attacks - The SOFX Report",
       "pubDate": "Thu, 05 Nov 2026 04:12:06 GMT"
     },
@@ -1397,17 +1127,7 @@
       "pubDate": "Mon, 02 Nov 2026 13:05:00 GMT"
     }
   ],
-  "Diplomacy": [
-    {
-      "title": "Flurry of Diplomacy in Iran Amid Reports of U.S. and Israeli Plans to Renew War - The New York Times",
-      "pubDate": "Mon, 26 Oct 2026 14:30:53 GMT"
-    }
-  ],
   "Gavin Newsom": [
-    {
-      "title": "Gavin Newsom shares timeline for presidential plans in one-on-one interview | The Trail - WMUR",
-      "pubDate": "Sat, 24 Oct 2026 01:27:00 GMT"
-    },
     {
       "title": "Gov. Gavin Newsom Commutes All 548 California Death Sentences - TODAY.com",
       "pubDate": "Fri, 06 Nov 2026 13:10:33 GMT"
@@ -1424,10 +1144,6 @@
     }
   ],
   "Pope Leo XIV": [
-    {
-      "title": "Vatican says tests show Pope Leo XIV won't need further treatment for lung cancer - Chronicle-Tribune",
-      "pubDate": "Sun, 25 Oct 2026 06:04:31 GMT"
-    },
     {
       "title": "Pope Leo urges Catholics to pray and fast for vocations - Vatican News",
       "pubDate": "Sat, 07 Nov 2026 05:51:30 GMT"
@@ -1455,10 +1171,6 @@
   ],
   "Poverty": [
     {
-      "title": "'My daughter's bed was propped up on books,' says mum amid child poverty fears - BBC",
-      "pubDate": "Sat, 24 Oct 2026 13:39:32 GMT"
-    },
-    {
       "title": "Child poverty falls nationwide but increases in Columbus - Axios",
       "pubDate": "Thu, 29 Oct 2026 10:22:16 GMT"
     },
@@ -1479,26 +1191,12 @@
   ],
   "AI Agents": [
     {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication - The Hacker News",
-      "pubDate": "Sun, 25 Oct 2026 06:54:00 GMT"
-    },
-    {
-      "title": "IBM reins in rogue AI agents with identity and runtime controls - Fierce Network",
-      "pubDate": "Tue, 27 Oct 2026 04:02:00 GMT"
-    },
-    {
       "title": "AI agents test and improve robot code in virtual worlds before deployment - Tech Xplore",
       "pubDate": "Mon, 09 Nov 2026 14:11:30 GMT"
     },
     {
       "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access - The Hacker News",
       "pubDate": "Sat, 21 Nov 2026 11:03:00 GMT"
-    }
-  ],
-  "Vladimir Putin": [
-    {
-      "title": "Putin woos African leaders at showcase summit, says Russia is better partner than 'colonial' West - Reuters",
-      "pubDate": "Wed, 28 Oct 2026 14:35:53 GMT"
     }
   ],
   "Hurricanes": [
@@ -1508,10 +1206,6 @@
     }
   ],
   "Jupiter": [
-    {
-      "title": "Sand crews mobilize as king tides, gale-force winds erode Jupiter Civic Center beach - WPEC",
-      "pubDate": "Wed, 28 Oct 2026 13:16:15 GMT"
-    },
     {
       "title": "Night Words for November: Mars, Jupiter team up in Leo; Venus, Mercury leap into the dawn - Delco Times",
       "pubDate": "Sun, 01 Nov 2026 09:05:17 GMT"
@@ -1527,10 +1221,6 @@
   ],
   "ETFs": [
     {
-      "title": "Beyond Borders: William Blair\u2019s Active ETFs - William Blair",
-      "pubDate": "Tue, 27 Oct 2026 14:29:14 GMT"
-    },
-    {
       "title": "Bitcoin ETFs Bleed $1.28B as 2026 Flows Turn Negative - Yahoo Finance",
       "pubDate": "Mon, 09 Nov 2026 15:42:00 GMT"
     },
@@ -1545,10 +1235,6 @@
   ],
   "Midterm Elections": [
     {
-      "title": "How the Supreme Court Is Shaping the Midterm Elections - WSJ",
-      "pubDate": "Sun, 25 Oct 2026 16:03:00 GMT"
-    },
-    {
       "title": "Historic Midterm Elections Mark New Era for America - Fair Observer",
       "pubDate": "Thu, 19 Nov 2026 14:20:12 GMT"
     },
@@ -1559,10 +1245,6 @@
   ],
   "Xi Jinping": [
     {
-      "title": "Xi Jinping\u2019s corruption crackdown in the spotlight as China prepares for meeting of top leaders - The Guardian",
-      "pubDate": "Mon, 26 Oct 2026 04:21:00 GMT"
-    },
-    {
       "title": "Xi Jinping's key remarks on building a strong maritime country - CGTN",
       "pubDate": "Thu, 05 Nov 2026 10:33:56 GMT"
     },
@@ -1572,10 +1254,6 @@
     }
   ],
   "AI Adoption": [
-    {
-      "title": "4 Takeaways From the State of Agentic AI Report for Small Business - Salesforce",
-      "pubDate": "Tue, 27 Oct 2026 15:29:20 GMT"
-    },
     {
       "title": "Fortinet executive highlights security risks of AI adoption - MSSP Alert",
       "pubDate": "Mon, 09 Nov 2026 16:45:57 GMT"
@@ -1590,10 +1268,6 @@
     }
   ],
   "Jeff Bezos": [
-    {
-      "title": "Jeff Bezos reportedly bought a $69.5 million Miami beach house near his $237 million compound - Fortune",
-      "pubDate": "Thu, 22 Oct 2026 07:06:00 GMT"
-    },
     {
       "title": "Jeff Bezos' father fled Cuba at 16 with three shirts \u2014 then invested $245,573 in life savings to help launch Amazon - Yahoo Finance",
       "pubDate": "Sat, 31 Oct 2026 09:30:00 GMT"
@@ -1613,18 +1287,6 @@
       "pubDate": "Sun, 01 Nov 2026 03:31:00 GMT"
     }
   ],
-  "Adam Schiff": [
-    {
-      "title": "Adam Schiff responds to DOJ\u2019s Alaska threat: \u2018it\u2019s Alaska\u2019s business\u2019 to run elections - NBC News",
-      "pubDate": "Sun, 25 Oct 2026 14:48:36 GMT"
-    }
-  ],
-  "Asset Management": [
-    {
-      "title": "RES secures major asset management contract with CIP for Romanian wind farm - Energy Global",
-      "pubDate": "Thu, 22 Oct 2026 13:21:19 GMT"
-    }
-  ],
   "Susan Collins": [
     {
       "title": "Dismayed by the relationship between Susan Collins and our military | Opinion - Portland Press Herald - Maine Sunday Telegram",
@@ -1641,10 +1303,6 @@
   ],
   "North America": [
     {
-      "title": "Volvo Profit Rises on Truck Demand in North America and Europe - Bloomberg.com",
-      "pubDate": "Fri, 23 Oct 2026 07:13:32 GMT"
-    },
-    {
       "title": "Amex GBT forecasts economy airfare increases of up to 4.3% in North America in 2027 - TravelPress",
       "pubDate": "Mon, 23 Nov 2026 11:31:18 GMT"
     }
@@ -1653,12 +1311,6 @@
     {
       "title": "America\u2019s Arab Allies Brace for War as Trump\u2019s Midterm Deadline Looms - The New York Times",
       "pubDate": "Tue, 03 Nov 2026 10:30:06 GMT"
-    }
-  ],
-  "Todd Blanche": [
-    {
-      "title": "Todd Blanche Defends DOJ Suit Blocking Alaska Senate Certification After Trump Says \u201cI\u2019m The One\u201d - NewsCord",
-      "pubDate": "Sun, 25 Oct 2026 23:26:19 GMT"
     }
   ],
   "Democratic Party": [
@@ -1675,12 +1327,6 @@
     {
       "title": "NATO\u2019s New Defense Plan Includes Strikes Deep Into Russia - Kyiv Post",
       "pubDate": "Wed, 04 Nov 2026 16:19:14 GMT"
-    }
-  ],
-  "New York City Council": [
-    {
-      "title": "New York City Council passes ban on horse-drawn carriages, drivers fear for their livelihoods - WKYC",
-      "pubDate": "Fri, 23 Oct 2026 09:17:00 GMT"
     }
   ],
   "Earthquakes": [
@@ -1718,14 +1364,6 @@
     }
   ],
   "West Bank": [
-    {
-      "title": "Netanyahu orders West Bank operation - France 24",
-      "pubDate": "Sat, 24 Oct 2026 10:28:14 GMT"
-    },
-    {
-      "title": "Palestine weekly: West Bank under siege as Israelis go to the polls - Al Jazeera",
-      "pubDate": "Tue, 27 Oct 2026 06:40:27 GMT"
-    },
     {
       "title": "West Bank: 22 Harvest Attacks; Israeli Forces Detonate Two Hebron Homes - - IMEMC News",
       "pubDate": "Sat, 31 Oct 2026 00:12:04 GMT"
@@ -1773,12 +1411,6 @@
       "pubDate": "Thu, 29 Oct 2026 13:17:30 GMT"
     }
   ],
-  "Consumer Debt": [
-    {
-      "title": "Japanese companies compensate users as cyberattacks buffet economy - Reuters",
-      "pubDate": "Mon, 26 Oct 2026 01:48:00 GMT"
-    }
-  ],
   "Augmented Reality": [
     {
       "title": "Wolfspeed Introduces Optical-Grade Silicon Carbide for Augmented Reality and Quantum Computing - The Quantum Insider",
@@ -1793,10 +1425,6 @@
   ],
   "Mark Warner": [
     {
-      "title": "Mark Zuckerberg threatened to leave California over proposed billionaire tax, Meta says - CBS News",
-      "pubDate": "Thu, 22 Oct 2026 14:28:38 GMT"
-    },
-    {
       "title": "Sen. Mark Warner outlines election priorities in Martinsville, citing prices, AI safeguards - WSET",
       "pubDate": "Thu, 29 Oct 2026 01:13:51 GMT"
     },
@@ -1806,10 +1434,6 @@
     }
   ],
   "AI Risk": [
-    {
-      "title": "Beyond the frontier: Pragmatic AI risk management for the rest of us - IAPP",
-      "pubDate": "Wed, 28 Oct 2026 14:37:36 GMT"
-    },
     {
       "title": "Anthropic IPO Disclosure of \u2018Existential\u2019 AI Risk Sets Standard - Bloomberg Law News",
       "pubDate": "Thu, 29 Oct 2026 14:17:00 GMT"
@@ -1826,10 +1450,6 @@
     }
   ],
   "Airbus": [
-    {
-      "title": "Here\u2019s How Much More Range The Airbus A350-1000ULR Has Compared To The Boeing 777X - Simple Flying",
-      "pubDate": "Thu, 22 Oct 2026 09:15:17 GMT"
-    },
     {
       "title": "Airbus Posts Lower Earnings As It Seeks to Ramp Up Plane Deliveries - Aero-News Network",
       "pubDate": "Mon, 02 Nov 2026 10:05:01 GMT"
@@ -1863,10 +1483,6 @@
   ],
   "Broadcom": [
     {
-      "title": "The Ethernet Tollbooth: Arista Rides Broadcom Silicon to Break Nvidia\u2019s InfiniBand Monopoly - Yahoo Finance",
-      "pubDate": "Mon, 26 Oct 2026 11:15:37 GMT"
-    },
-    {
       "title": "Broadcom Stock Faces Google Order Cuts And AI Customer Concentration Risk - Simply Wall St",
       "pubDate": "Sun, 22 Nov 2026 17:09:01 GMT"
     }
@@ -1889,40 +1505,14 @@
   ],
   "The Moon": [
     {
-      "title": "Astrolab FLIP rover to carry AI computer to the Moon - Aerospace Global News",
-      "pubDate": "Thu, 22 Oct 2026 14:48:00 GMT"
-    },
-    {
       "title": "China lays out plans to land astronauts on the moon 'before 2030.' Can NASA still win this race? - Space",
       "pubDate": "Thu, 05 Nov 2026 13:00:00 GMT"
     }
   ],
-  "John Ternus": [
-    {
-      "title": "John Ternus welcomes iPhone Duo line at Austin Apple Store - AppleInsider",
-      "pubDate": "Fri, 23 Oct 2026 14:31:00 GMT"
-    }
-  ],
-  "US Department of Justice": [
-    {
-      "title": "Is The US Department Of Justice Creating A Constitutional Crisis? - Forbes",
-      "pubDate": "Sun, 25 Oct 2026 06:15:00 GMT"
-    }
-  ],
   "Palestine": [
-    {
-      "title": "'Right-wing or Palestine?': The sundry slogans of Israel's election campaign - Haaretz",
-      "pubDate": "Sun, 25 Oct 2026 14:24:00 GMT"
-    },
     {
       "title": "Today\u2019s Headlines: Gaza Floods Displace Families | Tanker Mine Strikes | Strength in Gaza - Palestine Chronicle",
       "pubDate": "Sun, 08 Nov 2026 10:07:30 GMT"
-    }
-  ],
-  "Dark Energy": [
-    {
-      "title": "Renewable energy supplied over 28% of total US electricity in the first eight months of 2026 - Sustainability Online",
-      "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT"
     }
   ],
   "Raphael Warnock": [
